@@ -118,9 +118,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @local.workshop_data.title
-     @local.workshop_data.title
-     @global.parent_centre
+#.      @local.workshop_data.title
+#.      @local.workshop_data.title
+#.      @global.parent_centre
 msgid ""
 "We will need to cover other parenting issues before we can start working on @local.workshop_data.title.\n"
 "\n"
@@ -339,8 +339,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @local.slider_1
-     @local.slider_2
+#.      @local.slider_1
+#.      @local.slider_2
 msgid "@local.slider_1==\"no_value\" || @local.slider_2 ==\"no_value\""
 msgstr ""
 
@@ -914,8 +914,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.weekly_workshop
-     @data.parent_centre.relax_and_activities.location_text
+#.      @global.weekly_workshop
+#.      @data.parent_centre.relax_and_activities.location_text
 msgid ""
 "It is difficult to come up with instructions while we are still angry. Try and find a time when you are calm to introduce a positive instruction to your teen. \n"
 "\n"
@@ -956,10 +956,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.currency
-     @global.monthly_income_estimate
-     @global.currency
-     @global.monthly_income_precise
+#.      @global.currency
+#.      @global.monthly_income_estimate
+#.      @global.currency
+#.      @global.monthly_income_precise
 msgid "You don’t have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have @global.currency@global.monthly_income_estimate every month” rather than, “I make @global.currency@global.monthly_income_precise”."
 msgstr ""
 
@@ -1322,15 +1322,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @fields.user_name
-     @local.workshop_data.in_text_title
+#.      @fields.user_name
+#.      @local.workshop_data.in_text_title
 msgid "Hi @fields.user_name. Your @local.workshop_data.in_text_title is ready for you."
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @fields.group_name
-     @local.workshop_data.in_text_title
+#.      @fields.group_name
+#.      @local.workshop_data.in_text_title
 msgid "Hi @fields.group_name. Your @local.workshop_data.in_text_title is ready for you."
 msgstr ""
 
@@ -1352,8 +1352,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_app
-     @local.workshop_data.in_text_title
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
 msgid ""
 "Thank you for using @global.parent_app and committing to your parenting. \n"
 "\n"
@@ -1375,8 +1375,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.user_name
-     @global.parent_app
+#.      @field.user_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.user_name! Today we are celebrating two months of using @global.parent_app! \n"
 "\n"
@@ -1385,8 +1385,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.group_name
-     @global.parent_app
+#.      @field.group_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.group_name! Today we are celebrating two months of using @global.parent_app! \n"
 "\n"
@@ -1463,8 +1463,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_app
-     @local.workshop_data.in_text_title
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
 msgid ""
 "Tomorrow the final @global.parent_app workshop is ready for you. \n"
 "\n"
@@ -1473,15 +1473,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @local.workshop_data.in_text_title
-     @global.parent_app
+#.      @local.workshop_data.in_text_title
+#.      @global.parent_app
 msgid "Well done for completing @local.workshop_data.in_text_title. Tomorrow, you can access the final workshop to reflect on your @global.parent_app journey and on what you can do next!"
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.user_name
-     @global.parent_app
+#.      @field.user_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.user_name! Congratulations for starting @global.parent_app week 4. \n"
 "\n"
@@ -1490,8 +1490,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.group_name
-     @global.parent_app
+#.      @field.group_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.group_name! Congratulations for starting @global.parent_app week 4. \n"
 "\n"
@@ -1504,8 +1504,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.habit.instruct_positively.title
-     @global.parent_points
+#.      @data.habit.instruct_positively.title
+#.      @global.parent_points
 msgid ""
 "You’ve not marked any @data.habit.instruct_positively.title @global.parent_points this week yet. \n"
 "\n"
@@ -1514,16 +1514,16 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_point
-     @data.habit.instruct_positively.title
+#.      @global.parent_point
+#.      @data.habit.instruct_positively.title
 msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title once already  – so you’re making great progress."
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_point
-     @data.habit.instruct_positively.title
-     @field.total_parent_point_instruct_positively
+#.      @global.parent_point
+#.      @data.habit.instruct_positively.title
+#.      @field.total_parent_point_instruct_positively
 msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title @field.total_parent_point_instruct_positively times already  – so you’re making great progress."
 msgstr ""
 
@@ -1559,8 +1559,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.user_name
-     @global.parent_app
+#.      @field.user_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.user_name! You are starting your second month of using @global.parent_app. Amazing! \n"
 "\n"
@@ -1569,8 +1569,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.group_name
-     @global.parent_app
+#.      @field.group_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.group_name! You are starting your second month of using @global.parent_app. Amazing! \n"
 "\n"
@@ -1618,8 +1618,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.user_name
-     @global.parent_app
+#.      @field.user_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.user_name! Congratulations for starting your third  @global.parent_app week. \n"
 "\n"
@@ -1628,8 +1628,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.group_name
-     @global.parent_app
+#.      @field.group_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.group_name! Congratulations for starting your third  @global.parent_app week. \n"
 "\n"
@@ -1643,8 +1643,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_app
-     @local.workshop_data.in_text_title
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
 msgid ""
 "Thank you for using @global.parent_app to invest in yourself and your family.\n"
 "\n"
@@ -1672,8 +1672,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @local.workshop_data.in_text_title
-     @global.parent_app
+#.      @local.workshop_data.in_text_title
+#.      @global.parent_app
 msgid ""
 "Hi awesome parent, a new workshop awaits you tomorrow. It seems like you haven’t finished the @local.workshop_data.in_text_title yet. It’s really a short one (promise!) – you can even complete it while waiting for dinner to cook. Why don’t you go through it when you have a few minutes? \n"
 "\n"
@@ -1701,8 +1701,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_app
-     @local.workshop_data.in_text_title
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
 msgid ""
 "Thank you again for using @global.parent_app and for committing to your parenting journey. \n"
 "\n"
@@ -1720,8 +1720,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_app
-     @local.workshop_data.in_text_title
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
 msgid ""
 "Tomorrow a brand new @global.parent_app workshop is ready for you. \n"
 "\n"
@@ -1738,8 +1738,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.user_name
-     @global.parent_app
+#.      @field.user_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.user_name! You are nearly at the end of your @global.parent_app workshops! Thank you for your long-lasting commitment. \n"
 "\n"
@@ -1748,8 +1748,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.group_name
-     @global.parent_app
+#.      @field.group_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.group_name! You are all nearly at the end of your @global.parent_app workshops! Thank you for your long-lasting commitment. \n"
 "\n"
@@ -1784,8 +1784,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @local.workshop_data.in_text_title
-     @global.parent_app
+#.      @local.workshop_data.in_text_title
+#.      @global.parent_app
 msgid ""
 "It seems you haven’t finished the @local.workshop_data.in_text_title yet. Making a plan together with your teen can prevent many problems – give it a try before moving on!\n"
 "\n"
@@ -1808,8 +1808,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_app
-     @global.parent_app
+#.      @global.parent_app
+#.      @global.parent_app
 msgid "Have you told your @global.parent_app partners about the app yet? From tomorrow, you can start doing your @global.parent_app workshops together!"
 msgstr ""
 
@@ -1857,8 +1857,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_app
-     @local.workshop_data.in_text_title
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
 msgid ""
 "Tomorrow a brand new @global.parent_app workshop is ready for you. \n"
 "\n"
@@ -1872,8 +1872,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.user_name
-     @global.parent_app
+#.      @field.user_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.user_name! Congratulations for starting @global.parent_app week 5.\n"
 "\n"
@@ -1882,8 +1882,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @field.group_name
-     @global.parent_app
+#.      @field.group_name
+#.      @global.parent_app
 msgid ""
 "Hi @field.group_name! Congratulations for starting @global.parent_app week 5.\n"
 "\n"
@@ -1916,8 +1916,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_app
-     @local.workshop_data.in_text_title
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
 msgid ""
 "Tomorrow a brand new @global.parent_app workshop is ready for you. \n"
 "\n"
@@ -1954,9 +1954,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @fields.user_name
-     @global.parent_app
-     @global.parent_points
+#.      @fields.user_name
+#.      @global.parent_app
+#.      @global.parent_points
 msgid ""
 "Hi @fields.user_name! Thank you for using @global.parent_app and committing to your parenting. \n"
 "\n"
@@ -3176,8 +3176,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_1on1.tools
-     @data.parent_centre.my_tips.title
+#.      @data.workshop.w_1on1.tools
+#.      @data.parent_centre.my_tips.title
 msgid "@data.workshop.w_1on1.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
@@ -3191,8 +3191,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_praise.tools
-     @data.parent_centre.my_tips.title
+#.      @data.workshop.w_praise.tools
+#.      @data.parent_centre.my_tips.title
 msgid "@data.workshop.w_praise.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
@@ -3226,8 +3226,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_money.tools
-     @data.parent_centre.my_tips.title
+#.      @data.workshop.w_money.tools
+#.      @data.parent_centre.my_tips.title
 msgid "@data.workshop.w_money.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
@@ -3245,8 +3245,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_stress.tools
-     @data.parent_centre.my_tips.title
+#.      @data.workshop.w_stress.tools
+#.      @data.parent_centre.my_tips.title
 msgid "@data.workshop.w_stress.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
@@ -3272,8 +3272,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_safe.tools
-     @data.parent_centre.my_tips.title
+#.      @data.workshop.w_safe.tools
+#.      @data.parent_centre.my_tips.title
 msgid "@data.workshop.w_safe.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
@@ -3313,8 +3313,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.parent_centre.my_tips.location_text
-     @data.workshop.w_1on1.in_text_title
+#.      @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_1on1.in_text_title
 msgid "We know this is hard. You can review some helpful tips on how you can spend time with your teen under @data.parent_centre.my_tips.location_text or you can have another look at the @data.workshop.w_1on1.in_text_title."
 msgstr ""
 
@@ -3325,8 +3325,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.parent_centre.my_tips.location_text
-     @data.workshop.w_praise.in_text_title
+#.      @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_praise.in_text_title
 msgid ""
 "Using this app shows that you care about your teen. You can review how to use praise under @data.parent_centre.my_tips.location_text.\n"
 "\n"
@@ -3357,8 +3357,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.weekly_workshop
-     @data.parent_centre.my_tips.location_text
+#.      @global.weekly_workshop
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "We understand how stressful life can be. We will keep reminding you to relax, recognise and reward yourself, to help manage your stress and feel calmer.\n"
 "\n"
@@ -3367,8 +3367,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.weekly_workshop
-     @data.parent_centre.my_tips.location_text
+#.      @global.weekly_workshop
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "Thank you for being honest. It can be so difficult to control our stress. To look after yourself and help you feel calmer when things get tough, we will keep reminding you to relax, recognise and reward yourself. You matter!\n"
 "\n"
@@ -3382,15 +3382,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_money.in_text_title
-     @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_money.in_text_title
+#.      @data.parent_centre.my_tips.location_text
 msgid "Great. If any stress or disagreements around money do come up in your family in the future, you can always review the @data.workshop.w_money.in_text_title or @data.parent_centre.my_tips.location_text!"
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_money.in_text_title
-     @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_money.in_text_title
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "Money stress can be overwhelming. \n"
 "\n"
@@ -3399,8 +3399,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.weekly_workshop
-     @data.parent_centre.my_tips.location_text
+#.      @global.weekly_workshop
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. To look after yourselves and help you feel calmer when things get tough, we will keep reminding you to relax, recognise and reward yourself. You matter!\n"
 "\n"
@@ -3427,8 +3427,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.weekly_workshop
-     @data.parent_centre.my_tips.location_text
+#.      @global.weekly_workshop
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "This is a real concern for parents everywhere. Remember to use your new skills to continue to build good communication with your teen. \n"
 "\n"
@@ -3441,8 +3441,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_centre
-     @data.parent_centre.my_tips.location_text
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you!\n"
 "\n"
@@ -3451,8 +3451,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_centre
-     @data.parent_centre.my_tips.location_text
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! Remember, you can find focused tools, extra content and resources on this in the @global.parent_centre at any time. \n"
 "\n"
@@ -3518,9 +3518,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.parent_centre.my_tips.location_text
-     @data.workshop.w_1on1.title
-     @global.weekly_workshop
+#.      @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_1on1.title
+#.      @global.weekly_workshop
 msgid ""
 "We know this is hard. We have added some helpful tips on how you can spend time with your teen to @data.parent_centre.my_tips.location_text, so you can access it right away. \n"
 "\n"
@@ -3534,8 +3534,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.parent_centre.my_tips.location_text
-     @data.workshop.w_praise.in_text_title
+#.      @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_praise.in_text_title
 msgid ""
 "Using this app shows that you care about your teen. We have added some essential tools on how to use praise to @data.parent_centre.my_tips.location_text for quick access.\n"
 "\n"
@@ -3563,9 +3563,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_stress.number
-     @global.weekly_workshops
-     @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_stress.number
+#.      @global.weekly_workshops
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "We understand how stressful life can be. We will remind you regularly to relax, recognise and reward yourself, to help manage your stress and feel calmer.\n"
 "\n"
@@ -3578,9 +3578,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_stress.number
-     @global.weekly_workshops
-     @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_stress.number
+#.      @global.weekly_workshops
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "Thank you for being honest. It can be so difficult to control our stress. To look after yourself and help you feel calmer when things get tough, we’ll remind you regularly to relax, recognise and reward yourself. You matter!\n"
 "\n"
@@ -3606,8 +3606,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.weekly_workshops
-     @data.parent_centre.my_tips.location_text
+#.      @global.weekly_workshops
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. To look after yourselves and help you feel calmer when things get tough, we’ll remind you every day to relax, recognise and reward yourself. You matter!\n"
 "\n"
@@ -3634,8 +3634,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.weekly_workshops
-     @data.parent_centre.my_tips.location_text
+#.      @global.weekly_workshops
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "This is a real concern for parents everywhere. We’ll make sure you get support with building communication. \n"
 "\n"
@@ -3648,8 +3648,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_centre
-     @data.parent_centre.my_tips.location_text
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! You can get focused tools, extra content and resources on this in the @global.parent_centre at any time. \n"
 "\n"
@@ -3658,16 +3658,16 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_rules.tools
-     @data.workshop.w_safe.tools
-     @data.parent_centre.my_tips.title
+#.      @data.workshop.w_rules.tools
+#.      @data.workshop.w_safe.tools
+#.      @data.parent_centre.my_tips.title
 msgid "@data.workshop.w_rules.tools and @data.workshop.w_safe.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.parent_centre
-     @data.parent_centre.my_tips.location_text
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
 msgid ""
 "Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! You can get focused tools, extra content and resources on this in the @global.parent_centre at any time. \n"
 "\n"
@@ -3676,8 +3676,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @data.workshop.w_rules.tools
-     @data.parent_centre.my_tips.title
+#.      @data.workshop.w_rules.tools
+#.      @data.parent_centre.my_tips.title
 msgid "@data.workshop.w_rules.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
@@ -4232,23 +4232,23 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
 msgid "Let's read what happened with @global.w_consequence_teen_boy_1 and his @global.w_consequence_male_caregiver:"
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
 msgid "@global.w_consequence_male_caregiver: “@global.w_consequence_teen_boy_1! What time is this? You are late!”"
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_male_caregiver
 msgid ""
 "@global.w_consequence_teen_boy_1: “Sorry @global.w_consequence_male_caregiver – you can go back to sleep”.  \n"
 "\n"
@@ -4257,10 +4257,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
 msgid ""
 "@global.w_consequence_teen_boy_1: “I can explain, @global.w_consequence_male_caregiver, I can.” \n"
 "\n"
@@ -4289,8 +4289,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
 msgid "@global.w_consequence_male_caregiver did not let @global.w_consequence_teen_boy_1 explain"
 msgstr ""
 
@@ -4355,15 +4355,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_girl_1
-     @global.w_consequence_teen_girl_2
+#.      @global.w_consequence_teen_girl_1
+#.      @global.w_consequence_teen_girl_2
 msgid "@global.w_consequence_teen_girl_1 and @global.w_consequence_teen_girl_2 fight over a phone."
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_girl_1
-     @global.w_consequence_teen_girl_2
+#.      @global.w_consequence_teen_girl_1
+#.      @global.w_consequence_teen_girl_2
 msgid ""
 "@global.w_consequence_teen_girl_1 and @global.w_consequence_teen_girl_2 fight over a phone.\n"
 "\n"
@@ -4458,16 +4458,16 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
 msgid "Let's go back to @global.w_consequence_teen_boy_1 and his @global.w_consequence_male_caregiver"
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_teen_boy_1
 msgid ""
 "@global.w_consequence_male_caregiver: \"I am concerned that you are often still coming home late, @global.w_consequence_teen_boy_1. What can we do to help you remember to come home in time?\"\n"
 "\n"
@@ -4476,8 +4476,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
 msgid ""
 "@global.w_consequence_male_caregiver: That is a good idea! And what should we do if you don’t follow the rule?  \n"
 "\n"
@@ -4486,8 +4486,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
 msgid ""
 "@global.w_consequence_male_caregiver: \"Oh come on, I know you have some ideas.\"\n"
 "\n"
@@ -4496,9 +4496,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_male_caregiver
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
 msgid ""
 "@global.w_consequence_male_caregiver: \"You have to do your homework anyway. If you forget the rule, it is fair that you will not be able to see your friends the next day.\"\n"
 "\n"
@@ -4507,8 +4507,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
 msgid ""
 "The next day...\n"
 "\n"
@@ -4517,9 +4517,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_male_caregiver
 msgid ""
 "@global.w_consequence_teen_boy_1: “Sorry @global.w_consequence_male_caregiver – you can go back to sleep.”  \n"
 "\n"
@@ -4528,11 +4528,11 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_female_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_female_caregiver
 msgid ""
 "@global.w_consequence_teen_boy_1: “I can explain, @global.w_consequence_male_caregiver, I can.” \n"
 "\n"
@@ -4541,8 +4541,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
 msgid ""
 "@global.w_consequence_teen_boy_1: “My friends wanted me to stay longer. They were calling me a baby for having to go home already.” \n"
 "\n"
@@ -4551,9 +4551,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_female_caregiver
-     @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_female_caregiver
+#.      @global.w_consequence_male_caregiver
 msgid ""
 "@global.w_consequence_teen_boy_1: “I am sorry I worried you and @global.w_consequence_female_caregiver.” \n"
 "\n"
@@ -4570,8 +4570,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_teen_boy_1
-     @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
 msgid "@global.w_consequence_teen_boy_1 and his @global.w_consequence_male_caregiver discussed consequences when they were both calm"
 msgstr ""
 
@@ -4581,15 +4581,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
 msgid "@global.w_consequence_male_caregiver responded calmly but firmly when @global.w_consequence_teen_boy_1 broke the rule"
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_consequence_male_caregiver
-     @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
 msgid "@global.w_consequence_male_caregiver listened to @global.w_consequence_teen_boy_1"
 msgstr ""
 
@@ -4724,8 +4724,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_girl_1
-     @global.w_crisis_female_caregiver
+#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_female_caregiver
 msgid ""
 "Crisis can happen to anyone. \n"
 "\n"
@@ -4739,9 +4739,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_girl_1
-     @global.w_crisis_female_caregiver
-     @global.w_crisis_female_caregiver
+#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_female_caregiver
+#.      @global.w_crisis_female_caregiver
 msgid ""
 "@global.w_crisis_teen_girl_1: \"It’s my Uncle, he… he… he touched me.\"  \n"
 "\n"
@@ -4752,8 +4752,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_girl_1
-     @global.w_crisis_female_caregiver
+#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_female_caregiver
 msgid ""
 "@global.w_crisis_teen_girl_1: \"It’s true, he… he… made me do it! He made me have sex with him! I didn’t want to, I swear, and I even said NO, but he told me I would be in trouble.\"\n"
 "\n"
@@ -4762,10 +4762,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_girl_1
-     @global.w_crisis_adult_friend
-     @global.w_crisis_female_caregiver
-     @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_adult_friend
+#.      @global.w_crisis_female_caregiver
+#.      @global.w_crisis_teen_girl_1
 msgid ""
 "@global.w_crisis_teen_girl_1: \"Yesterday when you went to see @global.w_crisis_adult_friend. He just came and that’s when it happened.\"\n"
 "\n"
@@ -4776,8 +4776,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_female_caregiver
-     @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_female_caregiver
+#.      @global.w_crisis_teen_girl_1
 msgid ""
 "@global.w_crisis_female_caregiver: \"Ah I know, let’s go to the clinic. They will know what we can do to help you. Does that sound okay to you?\"\n"
 "\n"
@@ -4786,15 +4786,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_female_caregiver
-     @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_female_caregiver
+#.      @global.w_crisis_teen_girl_1
 msgid "@global.w_crisis_female_caregiver: \"Of course I will. And @global.w_crisis_teen_girl_1? Remember this is not your fault. I love you. You are a good person. We will get through this.\""
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_girl_1
-     @global.w_crisis_female_caregiver
+#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_female_caregiver
 msgid "This was such a difficult situation for @global.w_crisis_teen_girl_1 and her @global.w_crisis_female_caregiver! This can happen to boys and girls."
 msgstr ""
 
@@ -4814,15 +4814,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_male_caregiver_1
-     @global.w_crisis_teen_boy_1
+#.      @global.w_crisis_male_caregiver_1
+#.      @global.w_crisis_teen_boy_1
 msgid "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, you look worried since yesterday. What is wrong?\""
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_boy_1
-     @global.w_crisis_male_caregiver_1
+#.      @global.w_crisis_teen_boy_1
+#.      @global.w_crisis_male_caregiver_1
 msgid ""
 "@global.w_crisis_teen_boy_1: \"Yesterday, my friends and I went to a soccer match. Some guys who were drunk started a fight with my friend.\"\n"
 "\n"
@@ -4831,8 +4831,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_boy_1
-     @global.w_crisis_male_caregiver_1
+#.      @global.w_crisis_teen_boy_1
+#.      @global.w_crisis_male_caregiver_1
 msgid ""
 "@global.w_crisis_teen_boy_1: \"I didn’t want to, but I couldn’t just stand there and let them beat up my friend, so…\"\n"
 "\n"
@@ -4846,16 +4846,16 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_male_caregiver_1
-     @global.w_crisis_teen_boy_1
+#.      @global.w_crisis_male_caregiver_1
+#.      @global.w_crisis_teen_boy_1
 msgid "@global.w_crisis_male_caregiver_1: \"I am glad you are telling me about this, @global.w_crisis_teen_boy_1. Let’s sit down together now and discuss whether we should involve the police or someone else to help.\""
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_boy_1
-     @global.w_crisis_male_caregiver_1
-     @global.w_crisis_male_caregiver_1
+#.      @global.w_crisis_teen_boy_1
+#.      @global.w_crisis_male_caregiver_1
+#.      @global.w_crisis_male_caregiver_1
 msgid ""
 "@global.w_crisis_teen_boy_1: \"Thank you, @global.w_crisis_male_caregiver_1\"\n"
 "\n"
@@ -4864,8 +4864,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_boy_1
-     @global.w_crisis_male_caregiver_1
+#.      @global.w_crisis_teen_boy_1
+#.      @global.w_crisis_male_caregiver_1
 msgid "This was such a difficult situation for @global.w_crisis_teen_boy_1 and his @global.w_crisis_male_caregiver_1!"
 msgstr ""
 
@@ -4936,8 +4936,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_girl_1
-     @global.w_crisis_male_caregiver_1
+#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_male_caregiver_1
 msgid "@global.w_crisis_teen_girl_1: \"@global.w_crisis_male_caregiver_1, I’m so ashamed. I don’t know what to do\""
 msgstr ""
 
@@ -4948,8 +4948,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_boy_2
-     @global.w_crisis_male_caregiver_2
+#.      @global.w_crisis_teen_boy_2
+#.      @global.w_crisis_male_caregiver_2
 msgid "@global.w_crisis_teen_boy_2: \"@global.w_crisis_male_caregiver_2, I don’t want to have a baby\""
 msgstr ""
 
@@ -4977,8 +4977,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_crisis_teen_girl_1
-     @global.w_crisis_female_caregiver
+#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_female_caregiver
 msgid "@global.w_crisis_teen_girl_1: \"I didn’t really want to. Now I will get pregnant or be ill. @global.w_crisis_female_caregiver, I’m so scared...\""
 msgstr ""
 
@@ -5111,16 +5111,16 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_female_caregiver
-     @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
 msgid "Let’s see what happens if @global.w_instruct_female_caregiver tells @global.w_instruct_teen_girl \"DON'T\":"
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_female_caregiver
-     @global.w_instruct_teen_girl
-     @global.w_instruct_female_caregiver
+#.      @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
 msgid ""
 "@global.w_instruct_female_caregiver was cleaning the house while @global.w_instruct_teen_girl was practicing dance moves with her friend.\n"
 "\n"
@@ -5129,8 +5129,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_teen_girl
-     @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
 msgid ""
 "@global.w_instruct_teen_girl: “But I need to practice for the school competition. You never let me do anything.”\n"
 "\n"
@@ -5139,8 +5139,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_teen_girl
-     @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
 msgid ""
 "@global.w_instruct_teen_girl: “Arrg!! Why am I being yelled at all the time????”\n"
 "\n"
@@ -5149,9 +5149,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_teen_girl
-     @global.w_instruct_female_caregiver
-     @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
+#.      @global.w_instruct_female_caregiver
 msgid ""
 "Discuss together: \n"
 "\n"
@@ -5166,8 +5166,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_teen_girl
-     @global.w_instruct_teen_girl
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_teen_girl
 msgid ""
 "* Said something nice first \n"
 "* Spoken to @global.w_instruct_teen_girl in a calm voice \n"
@@ -5176,8 +5176,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_teen_girl
-     @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
 msgid "How do you think @global.w_instruct_teen_girl felt about the way @global.w_instruct_female_caregiver responded?"
 msgstr ""
 
@@ -5208,12 +5208,12 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_female_caregiver
-     @global.w_instruct_teen_girl
-     @global.w_instruct_female_caregiver
-     @global.w_instruct_teen_girl
-     @global.w_instruct_teen_girl
-     @global.w_instruct_female_caregiver
+#.      @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
 msgid ""
 "@global.w_instruct_female_caregiver was cleaning the house while @global.w_instruct_teen_girl was with her friends practicing dance moves.  \n"
 "\n"
@@ -5224,15 +5224,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_female_caregiver
-     @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
 msgid "@global.w_instruct_female_caregiver: \"Thank you for practicing outside while I finished cleaning, @global.w_instruct_teen_girl. Now I have some time to watch your dance.\""
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_female_caregiver
-     @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
 msgid "@global.w_instruct_female_caregiver: \"Wow, @global.w_instruct_teen_girl! You have such good dance moves!\""
 msgstr ""
 
@@ -5242,9 +5242,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_teen_girl
-     @global.w_instruct_female_caregiver
-     @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
+#.      @global.w_instruct_female_caregiver
 msgid ""
 "Discuss together: \n"
 "\n"
@@ -5258,10 +5258,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_teen_girl
-     @global.w_instruct_female_caregiver
-     @global.w_instruct_female_caregiver
-     @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
+#.      @global.w_instruct_female_caregiver
+#.      @global.w_instruct_female_caregiver
 msgid ""
 "* @global.w_instruct_teen_girl felt respected and loved by her @global.w_instruct_female_caregiver\n"
 "* @global.w_instruct_female_caregiver was able to stay calm  \n"
@@ -5270,8 +5270,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_instruct_teen_girl
-     @global.w_instruct_female_caregiver
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
 msgid "How did @global.w_instruct_teen_girl and @global.w_instruct_female_caregiver feel now?"
 msgstr ""
 
@@ -5409,9 +5409,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_money_grandma
-     @global.w_money_teen_girl
-     @global.w_money_teen_boy
+#.      @global.w_money_grandma
+#.      @global.w_money_teen_girl
+#.      @global.w_money_teen_boy
 msgid "@global.w_money_grandma: \"I have been taking care of my grandchildren, @global.w_money_teen_girl and @global.w_money_teen_boy, since their parents died when they were young. We often struggle with money, as I only receive a small grant.\""
 msgstr ""
 
@@ -5546,11 +5546,11 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.currency
-     @local.monthly_income
-     @local.number_of_beans
-     @global.currency
-     @local.bean_value
+#.      @global.currency
+#.      @local.monthly_income
+#.      @local.number_of_beans
+#.      @global.currency
+#.      @local.bean_value
 msgid ""
 "* One person will volunteer to share his/her list (If no one volunteers you can make a new list together) \n"
 "* Take roles - some will be adults, some will be teens. \n"
@@ -5568,11 +5568,11 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.currency
-     @local.monthly_income
-     @local.number_of_beans
-     @global.currency
-     @local.bean_value
+#.      @global.currency
+#.      @local.monthly_income
+#.      @local.number_of_beans
+#.      @global.currency
+#.      @local.bean_value
 msgid ""
 "* Write down what your income is for the month.\n"
 "* Take some stones or beans or anything with lots of bits - this is your income for the month. \n"
@@ -5611,8 +5611,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_money_teen_boy
-     @global.w_money_teen_girl
+#.      @global.w_money_teen_boy
+#.      @global.w_money_teen_girl
 msgid ""
 "A few years later:\n"
 "\n"
@@ -5962,9 +5962,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_praise_female_caregiver_name
-     @global.w_praise_girl
-     @global.w_praise_teen_girl
+#.      @global.w_praise_female_caregiver_name
+#.      @global.w_praise_girl
+#.      @global.w_praise_teen_girl
 msgid "@global.w_praise_female_caregiver_name: \"Thank you for doing your schoolwork, @global.w_praise_girl, and thank you for helping your sister,  @global.w_praise_teen_girl. I'm so proud of you!\""
 msgstr ""
 
@@ -6156,15 +6156,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_teen_boy
-     @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
 msgid "Let's read what happened with @global.w_rules_teen_boy and his @global.w_rules_female_caregiver_1:"
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_female_caregiver_1
-     @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
 msgid ""
 "@global.w_rules_female_caregiver_1: \"You always come home late!\"\n"
 "\n"
@@ -6173,18 +6173,18 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_teen_boy
-     @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
 msgid "Which specific rule could @global.w_rules_teen_boy and @global.w_rules_female_caregiver_1 create together?"
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_female_caregiver_1
-     @global.w_rules_teen_boy
-     @global.w_rules_female_caregiver_1
-     @global.w_rules_teen_boy
-     @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
+#.      @global.w_rules_teen_boy
 msgid ""
 "Let’s see how @global.w_rules_female_caregiver_1 and @global.w_rules_teen_boy did this the next day:\n"
 "\n"
@@ -6200,8 +6200,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_teen_boy
-     @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
 msgid ""
 "@global.w_rules_teen_boy: “I could come home at 10pm?\"  \n"
 "\n"
@@ -6210,8 +6210,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_teen_boy
-     @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
 msgid ""
 "@global.w_rules_teen_boy: “I could come home at 6pm on school nights and 10pm on Friday and Saturday?” \n"
 "\n"
@@ -6220,10 +6220,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_teen_boy
-     @global.w_rules_female_caregiver_1
-     @global.w_rules_female_caregiver_1
-     @global.w_rules_teen_boy
+#.      @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
+#.      @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
 msgid ""
 "@global.w_rules_teen_boy: “Okay, @global.w_rules_female_caregiver_1” \n"
 "\n"
@@ -6232,8 +6232,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_female_caregiver_1
-     @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
 msgid ""
 "The next day...\n"
 "\n"
@@ -6246,10 +6246,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_female_caregiver_1
-     @global.w_rules_teen_boy
-     @global.w_rules_female_caregiver_1
-     @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
 msgid ""
 "* They discussed the reasons behind the rule \n"
 "* @global.w_rules_female_caregiver_1 listened to @global.w_rules_teen_boy’s suggestions \n"
@@ -6259,8 +6259,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_teen_boy
-     @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
 msgid "@global.w_rules_teen_boy knew his @global.w_rules_female_caregiver_1 appreciated him because..."
 msgstr ""
 
@@ -6296,8 +6296,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_teen_boy
-     @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
+#.      @global.w_rules_female_caregiver_1
 msgid "How do you think @global.w_rules_teen_boy knew his @global.w_rules_female_caregiver_1 appreciated him?"
 msgstr ""
 
@@ -6351,11 +6351,11 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_female_caregiver_2
-     @global.w_rules_teen_girl
-     @global.w_rules_teen_girl
-     @global.w_rules_female_caregiver_2
-     @global.teen_social_medium
+#.      @global.w_rules_female_caregiver_2
+#.      @global.w_rules_teen_girl
+#.      @global.w_rules_teen_girl
+#.      @global.w_rules_female_caregiver_2
+#.      @global.teen_social_medium
 msgid ""
 "@global.w_rules_female_caregiver_2: \"@global.w_rules_teen_girl, have you done your homework?\"\n"
 "\n"
@@ -6364,9 +6364,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_female_caregiver_2
-     @global.w_rules_teen_girl
-     @global.w_rules_female_caregiver_2
+#.      @global.w_rules_female_caregiver_2
+#.      @global.w_rules_teen_girl
+#.      @global.w_rules_female_caregiver_2
 msgid ""
 "@global.w_rules_female_caregiver_2: \"You are a really great dancer! Tell me about why you like it\"\n"
 "\n"
@@ -6375,9 +6375,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_female_caregiver_2
-     @global.w_rules_teen_girl
-     @global.teen_social_medium
+#.      @global.w_rules_female_caregiver_2
+#.      @global.w_rules_teen_girl
+#.      @global.teen_social_medium
 msgid ""
 "@global.w_rules_female_caregiver_2: \"I’m proud of how well you dance, @global.w_rules_teen_girl. But we need to make sure you are safe. \n"
 "\n"
@@ -6386,8 +6386,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_female_caregiver_2
-     @global.teen_social_medium
+#.      @global.w_rules_female_caregiver_2
+#.      @global.teen_social_medium
 msgid ""
 "@global.w_rules_female_caregiver_2: \"Let’s look together online at how we can keep this fun for you but also safe. Look – you can make your account private and control who follows you.\n"
 "\n"
@@ -6398,8 +6398,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_rules_female_caregiver_2
-     @global.w_rules_teen_girl
+#.      @global.w_rules_female_caregiver_2
+#.      @global.w_rules_teen_girl
 msgid "@global.w_rules_female_caregiver_2: \"I’m proud of you @global.w_rules_teen_girl\""
 msgstr ""
 
@@ -6498,8 +6498,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_safe_female_caregiver
-     @global.w_safe_teen_girl_1
+#.      @global.w_safe_female_caregiver
+#.      @global.w_safe_teen_girl_1
 msgid ""
 "Communication is the most important thing!\n"
 "\n"
@@ -6508,11 +6508,11 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_safe_teen_girl_1
-     @global.w_safe_teen_girl_2
-     @global.w_safe_teen_girl_3
-     @global.w_safe_female_caregiver
-     @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_2
+#.      @global.w_safe_teen_girl_3
+#.      @global.w_safe_female_caregiver
+#.      @global.w_safe_teen_girl_1
 msgid ""
 "@global.w_safe_teen_girl_1: \"Something happened when I was out with my friends @global.w_safe_teen_girl_2 and @global.w_safe_teen_girl_3!\"\n"
 "\n"
@@ -6521,8 +6521,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_safe_teen_girl_2
-     @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_2
+#.      @global.w_safe_teen_girl_1
 msgid ""
 "Man in car: “Hey beautiful. I have been looking at you for a while. You are very beautiful, what’s your name?  \n"
 "\n"
@@ -6531,8 +6531,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_safe_teen_girl_1
-     @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_1
 msgid ""
 "Man in car: “@global.w_safe_teen_girl_1, would you like to come with me to have something to drink and chips? Come on, get in, you’ll be back in time, I promise…” \n"
 "\n"
@@ -6546,9 +6546,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_safe_teen_girl_3
-     @global.w_safe_teen_girl_1
-     @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_3
+#.      @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_1
 msgid ""
 "@global.w_safe_teen_girl_3: “@global.w_safe_teen_girl_1 don’t go! Be careful! Let’s go home. It is dangerous to go with people you don’t know. Besides, he’s too old for you and what he is doing is wrong.\"\n"
 "\n"
@@ -6578,10 +6578,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_safe_teen_girl_1
-     @global.w_safe_teen_girl_1
-     @global.w_safe_teen_girl_1
-     @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_1
 msgid ""
 "* The man in the car was pressuring  @global.w_safe_teen_girl_1 with gifts \n"
 "* @global.w_safe_teen_girl_1's friend was encouraging her  \n"
@@ -7282,19 +7282,19 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_teen_girl
-     @global.w_solve_female_caregiver_1
-     @global.w_solve_teen_girl
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
+#.      @global.w_solve_teen_girl
 msgid "Let’s look at what happened to @global.w_solve_teen_girl and her @global.w_solve_female_caregiver_1 when @global.w_solve_teen_girl got a phone from a boy… a phone!"
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_1
-     @global.w_solve_teen_girl
-     @global.w_solve_teen_girl
-     @global.w_solve_teen_boy_1
-     @global.w_solve_female_caregiver_1
+#.      @global.w_solve_female_caregiver_1
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_teen_boy_1
+#.      @global.w_solve_female_caregiver_1
 msgid ""
 "@global.w_solve_female_caregiver_1: “@global.w_solve_teen_girl, where did you get that thing?” \n"
 "\n"
@@ -7303,9 +7303,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_1
-     @global.w_solve_teen_girl
-     @global.w_solve_female_caregiver_1
+#.      @global.w_solve_female_caregiver_1
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
 msgid ""
 "@global.w_solve_female_caregiver_1: “I don’t want to see that expensive thing! That boy is no good! How does he think you are going to repay him for this?!”  \n"
 "\n"
@@ -7314,8 +7314,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_1
-     @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
+#.      @global.w_solve_teen_girl
 msgid ""
 "@global.w_solve_female_caregiver_1: “I don’t want to hear it!” \n"
 "\n"
@@ -7371,8 +7371,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_female_caregiver_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_female_caregiver_2
 msgid ""
 "@global.w_solve_female_caregiver_2 is coming home from work. \n"
 "\n"
@@ -7381,16 +7381,16 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
 msgid "@global.w_solve_female_caregiver_2: \"@global.w_solve_teen_boy_2! What are you doing? That bread is for dinner! Now there won’t be enough for us all!\""
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_teen_boy_2
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_female_caregiver_2
 msgid ""
 "@global.w_solve_teen_boy_2: “Sorry, @global.w_solve_female_caregiver_2, I was just hungry. I can explain, you see, there is this guy at school...” \n"
 "\n"
@@ -7399,9 +7399,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
-     @global.w_solve_female_caregiver_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
 msgid ""
 "@global.w_solve_female_caregiver_2: “Just give me a moment. I am tired and now worried about having enough food for dinner.” \n"
 "\n"
@@ -7414,8 +7414,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
 msgid ""
 "@global.w_solve_female_caregiver_2: \"Now tell me, why are you so hungry? Did you not eat your lunch at school?” \n"
 "\n"
@@ -7424,9 +7424,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
-     @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_teen_boy_2
 msgid ""
 "@global.w_solve_female_caregiver_2: \"I am sorry to hear that but am glad that you told me, @global.w_solve_teen_boy_2. It doesn’t mean that you can eat everybody’s dinner. After we speak, you need to go to the shop to buy some more bread. But first: What do you think we should do about the bully problem?\"\n"
 "\n"
@@ -7439,8 +7439,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
 msgid ""
 "@global.w_solve_female_caregiver_2: \"Hmmm… what do you think will happen to you if you do that?\"\n"
 "\n"
@@ -7449,8 +7449,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
 msgid ""
 "@global.w_solve_female_caregiver_2: \"Yes, that could happen. What could we do instead?\"\n"
 "\n"
@@ -7459,9 +7459,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
-     @global.w_solve_female_caregiver_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
 msgid ""
 "@global.w_solve_female_caregiver_2: \"That sounds like a better idea. I could also have a word with his parents if you want me to.\"\n"
 "\n"
@@ -7470,9 +7470,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
-     @global.w_solve_female_caregiver_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
 msgid ""
 "@global.w_solve_female_caregiver_2: \"Anything for you, my dear. I will do it first thing after dinner. And you know? If that doesn’t work, we can always try something else together.\"\n"
 "\n"
@@ -7485,8 +7485,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
 msgid ""
 "A week later… \n"
 "\n"
@@ -7501,10 +7501,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
-     @global.w_solve_teen_boy_2
-     @global.w_solve_female_caregiver_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
 msgid ""
 "@global.w_solve_female_caregiver_2: \"I am sorry to hear that, @global.w_solve_teen_boy_2. Shall I ask your uncle to go talk to his parents? If that does not work, we will try something else!\"\n"
 "\n"
@@ -7513,10 +7513,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_teen_girl
-     @global.w_solve_female_caregiver_1
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
 msgid ""
 "Discuss together: \n"
 "\n"
@@ -7532,10 +7532,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_teen_girl
-     @global.w_solve_female_caregiver_1
-     @global.w_solve_female_caregiver_2
-     @global.w_solve_teen_boy_2
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
 msgid ""
 "How could @global.w_solve_teen_girl and @global.w_solve_female_caregiver_1 use the 4 steps of problem solving, like @global.w_solve_female_caregiver_2 and @global.w_solve_teen_boy_2 did? \n"
 "\n"
@@ -7544,15 +7544,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_teen_girl
-     @global.w_solve_female_caregiver_1
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
 msgid "Let’s go back to @global.w_solve_teen_girl and her @global.w_solve_female_caregiver_1 and see what solutions they came up with."
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_solve_teen_girl
-     @global.w_solve_female_caregiver_1
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
 msgid "@global.w_solve_teen_girl and her @global.w_solve_female_caregiver_1 came up with three solutions."
 msgstr ""
 
@@ -7708,8 +7708,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_1
-     @global.w_stress_male_caregiver
+#.      @global.w_stress_teen_boy_1
+#.      @global.w_stress_male_caregiver
 msgid ""
 "@global.w_stress_teen_boy_1: “Can I have money to buy some airtime?”  \n"
 "\n"
@@ -7718,8 +7718,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_1
-     @global.w_stress_male_caregiver
+#.      @global.w_stress_teen_boy_1
+#.      @global.w_stress_male_caregiver
 msgid ""
 "@global.w_stress_teen_boy_1: “What did I do? You never listen!”  \n"
 "\n"
@@ -7742,10 +7742,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_1
-     @global.w_stress_male_caregiver
-     @global.w_stress_girl
-     @global.w_stress_male_caregiver
+#.      @global.w_stress_teen_boy_1
+#.      @global.w_stress_male_caregiver
+#.      @global.w_stress_girl
+#.      @global.w_stress_male_caregiver
 msgid ""
 "How do you think @global.w_stress_teen_boy_1 felt? And his @global.w_stress_male_caregiver? And @global.w_stress_girl?\n"
 "\n"
@@ -7823,8 +7823,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_1
-     @global.w_stress_teen_boy_1
+#.      @global.w_stress_teen_boy_1
+#.      @global.w_stress_teen_boy_1
 msgid ""
 "* Recognise why he feels stressed \n"
 "* Take a deep breath and speak calmly  \n"
@@ -7840,15 +7840,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_male_caregiver
-     @global.w_stress_teen_boy_1
+#.      @global.w_stress_male_caregiver
+#.      @global.w_stress_teen_boy_1
 msgid "@global.w_stress_male_caregiver lost his job. He was sitting at home feeling frustrated and stressed, when @global.w_stress_teen_boy_1 entered."
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_1
-     @global.w_stress_male_caregiver
+#.      @global.w_stress_teen_boy_1
+#.      @global.w_stress_male_caregiver
 msgid ""
 "@global.w_stress_teen_boy_1: “Can I have money to buy some airtime?”  \n"
 "\n"
@@ -7857,9 +7857,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_1
-     @global.w_stress_male_caregiver
-     @global.w_stress_female_caregiver
+#.      @global.w_stress_teen_boy_1
+#.      @global.w_stress_male_caregiver
+#.      @global.w_stress_female_caregiver
 msgid ""
 "@global.w_stress_teen_boy_1: “Oh no!  I need a new school uniform.”  \n"
 "\n"
@@ -7868,10 +7868,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_1
-     @global.w_stress_male_caregiver
-     @global.w_stress_male_caregiver
-     @global.w_stress_teen_boy_1
+#.      @global.w_stress_teen_boy_1
+#.      @global.w_stress_male_caregiver
+#.      @global.w_stress_male_caregiver
+#.      @global.w_stress_teen_boy_1
 msgid ""
 "@global.w_stress_teen_boy_1: “I can help out with looking for work, too, @global.w_stress_male_caregiver?”  \n"
 "\n"
@@ -7880,9 +7880,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_male_caregiver
-     @global.w_stress_teen_boy_1
-     @global.w_stress_male_caregiver
+#.      @global.w_stress_male_caregiver
+#.      @global.w_stress_teen_boy_1
+#.      @global.w_stress_male_caregiver
 msgid ""
 "@global.w_stress_male_caregiver: “Let’s play some soccer together. It will help me get this stress off my mind for a bit.”  \n"
 "\n"
@@ -7902,8 +7902,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_2
-     @global.w_stress_teen_girl
+#.      @global.w_stress_teen_boy_2
+#.      @global.w_stress_teen_girl
 msgid ""
 "Think back to when you were a teenager. \n"
 "\n"
@@ -7914,8 +7914,8 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_2
-     @global.w_stress_teen_girl
+#.      @global.w_stress_teen_boy_2
+#.      @global.w_stress_teen_girl
 msgid ""
 "@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I’m going to bar with my friends tonight\" \n"
 "\n"
@@ -7934,9 +7934,9 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_2
-     @global.w_stress_teen_girl
-     @global.w_stress_parent
+#.      @global.w_stress_teen_boy_2
+#.      @global.w_stress_teen_girl
+#.      @global.w_stress_parent
 msgid ""
 "These are dangerous situations! Thankfully, @global.w_stress_teen_boy_2 and @global.w_stress_teen_girl then remembered what @global.w_stress_parent told them:  \n"
 "\n"
@@ -7947,15 +7947,15 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_girl
-     @global.w_stress_parent
+#.      @global.w_stress_teen_girl
+#.      @global.w_stress_parent
 msgid "@global.w_stress_teen_girl: \"@global.w_stress_parent, it’s a safety amnesty. Can you come and pick me up? I really need a lift home.\""
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-     @global.w_stress_teen_boy_2
-     @global.w_stress_parent
+#.      @global.w_stress_teen_boy_2
+#.      @global.w_stress_parent
 msgid "@global.w_stress_teen_boy_2: \"@global.w_stress_parent, safety amnesty. I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Can we talk?\""
 msgstr ""
 
@@ -8577,8 +8577,8 @@ msgstr ""
 
 #. type=tour
 #. The following strings should not be translated: 
-     @global.parent_app.</p>
-     <p>@global.parent_app
+#.      @global.parent_app.</p>
+#.      <p>@global.parent_app
 msgid ""
 "<p>Welcome to @global.parent_app.</p>\n"
 "\n"
@@ -8619,8 +8619,8 @@ msgstr ""
 
 #. type=tour
 #. The following strings should not be translated: 
-     @global.parent_centre
-     @global.essential_tools
+#.      @global.parent_centre
+#.      @global.essential_tools
 msgid ""
 "<p>This button takes you to the @global.parent_centre </p>\n"
 "\n"
