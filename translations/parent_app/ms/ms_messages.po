@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
 "Language-Team: Malay\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2021-09-13 11:52\n"
+"PO-Revision-Date: 2021-09-17 15:04\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -20,13 +20,130 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Start"
+msgid "Home"
 msgstr ""
 
 #. type=template
-#. The string @global.w_self_care should not be translated.
 msgctxt "template"
-msgid "Start workshop @global.w_self_care"
+msgid "About PLH App"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Settings"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Template"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Tour"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "In-Week Messages"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Campaigns"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Notifications"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Privacy Policy"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "App terms"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Open Survey"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Select Language"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Workshop Options"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Demo Presentation"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Developer Mode"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Unlock all workshops"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "By clicking in the button below you will unlock all the workshops.\n\n"
+"NOTE: Users should not use this functionality to unlock workshops, this is not recommended unless strictly necessary."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Unlock workshops"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "All workshops are now unlocked."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "By clicking in the button below you will reset the app to its initial settings. \n\n"
+"This means that all your progress and usage data will be deleted and your app will work as if it was just installed for the first time.\n\n"
+"NOTE: Resetting the app is permanent and you will not be able to recover any information."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Reset App"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You have successfully entered developer mode."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You have entered an incorrect code."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Language"
+msgstr "Bahasa"
+
+#. type=template
+msgctxt "template"
+msgid "Start"
 msgstr ""
 
 #. type=template
@@ -41,12 +158,12 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-#.      @fields.this_workshop
-#.      @fields.this_workshop
+#.      @local.workshop_data.title
+#.      @local.workshop_data.title
 #.      @global.parent_centre
 msgctxt "template"
-msgid "We will need to cover other parenting issues before we can start working on @fields.this_workshop\n\n"
-"You can get essential tools on @fields.this_workshop via the @global.parent_centre"
+msgid "We will need to cover other parenting issues before we can start working on @local.workshop_data.title.\n\n"
+"You can get essential tools on @local.workshop_data.title via the @global.parent_centre."
 msgstr ""
 
 #. type=template
@@ -61,17 +178,22 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Current workshop"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "I will do the workshops..."
+msgid "I do the workshops..."
 msgstr ""
 
 #. type=template
 msgctxt "template"
 msgid "My group's name"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "My group is now doing the workshop..."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "I am now doing the workshop..."
 msgstr ""
 
 #. type=template
@@ -86,12 +208,37 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "_count"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Give me quick parenting tips"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Something really bad happened"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "I have technical problems with the app"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "You will find tips that we think you may find useful here, based on your answers to the app customisation."
 msgstr ""
 
 #. type=template
 msgctxt "template"
 msgid "WHO Website"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "UNICEF Website"
 msgstr ""
 
 #. type=template
@@ -103,13 +250,22 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "tile_1"
+msgid "This button will take you to the Coronavirus section of the official WHO website."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "This button will take you to the Coronavirus of the official WHO website. \n\n"
-"The URL is https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+msgid "The URL is https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "This button will take you to the Coronavirus section of the official UNICEF website."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "The URL is https://www.unicef.org/coronavirus/covid-19"
 msgstr ""
 
 #. type=template
@@ -145,12 +301,12 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Contact me via text message"
+msgid "Contact me on WhatsApp"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Contact me on WhatsApp"
+msgid "Contact me via email"
 msgstr ""
 
 #. type=template
@@ -180,19 +336,12 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "You will find the in-week messages from the previous workshops here."
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Options"
-msgstr ""
-
-#. type=template
-#. The string @local.habit should not be translated.
-msgctxt "template"
-msgid "total_parent_point_@local.habit"
-msgstr ""
-
-#. type=template
-#. The string @local.habit should not be translated.
-msgctxt "template"
-msgid "weekly_parent_point_@local.habit"
 msgstr ""
 
 #. type=template
@@ -224,16 +373,6 @@ msgid "You have not added any activities to @global.my_activities yet. Why don't
 msgstr ""
 
 #. type=template
-msgctxt "template"
-msgid "Text"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Question text"
-msgstr ""
-
-#. type=template
 #. The string @local.threshold should not be translated.
 msgctxt "template"
 msgid "You selected @local.threshold or less"
@@ -243,21 +382,6 @@ msgstr ""
 #. The string @local.threshold should not be translated.
 msgctxt "template"
 msgid "You selected more than @local.threshold"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "First"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Second"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Third"
 msgstr ""
 
 #. type=template
@@ -294,6 +418,14 @@ msgid "You selected @local.threshold or more"
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @local.slider_1
+#.      @local.slider_2
+msgctxt "template"
+msgid "@local.slider_1==\"no_value\" || @local.slider_2 ==\"no_value\""
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Video"
 msgstr ""
@@ -307,38 +439,6 @@ msgstr ""
 #. The string @local.timer_duration should not be translated.
 msgctxt "template"
 msgid "Press the triangle to help you keep this discussion to @local.timer_duration minutes."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Here is a fun activity to do with your teen!"
-msgstr ""
-
-#. type=template
-#. The string @local.workshop_data.in_text_title should not be translated.
-msgctxt "template"
-msgid "Start @local.workshop_data.in_text_title"
-msgstr ""
-
-#. type=template
-#. The string @local.workshop_data.in_text_title should not be translated.
-msgctxt "template"
-msgid "Continue @local.workshop_data.in_text_title"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Remember to sit down and relax today - taking care of yourself is an important parenting skill."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Relax now"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Did you relax already? Tap it!"
 msgstr ""
 
 #. type=template
@@ -614,7 +714,7 @@ msgstr ""
 #. type=template
 #. The string @data.parent_centre.relax_and_activities.location_text should not be translated.
 msgctxt "template"
-msgid "This is perfect! If you need any inspiration, you can find suggestions for activities @data.parent_centre.relax_and_activities.location_text . Remember, let your teen choose the activity!"
+msgid "This is perfect! If you need any inspiration, you can find suggestions for activities @data.parent_centre.relax_and_activities.location_text. Remember, let your teen choose the activity!"
 msgstr ""
 
 #. type=template
@@ -640,7 +740,7 @@ msgstr ""
 #. type=template
 #. The string @data.parent_centre.relax_and_activities.location_text should not be translated.
 msgctxt "template"
-msgid "That’s perfect! If you need any inspiration, you can find suggestions for activities @data.parent_centre.relax_and_activities.location_text . Remember, let your teen choose the activity!"
+msgid "That’s perfect! If you need any inspiration, you can find suggestions for activities @data.parent_centre.relax_and_activities.location_text. Remember, let your teen choose the activity!"
 msgstr ""
 
 #. type=template
@@ -1022,7 +1122,7 @@ msgstr ""
 #.      @data.parent_centre.relax_and_activities.location_text
 msgctxt "template"
 msgid "It is difficult to come up with instructions while we are still angry. Try and find a time when you are calm to introduce a positive instruction to your teen. \n\n"
-"In the next @global.weekly_workshop, we’ll talk more about how we can manage our emotions!  You can find more relaxation activities @data.parent_centre.relax_and_activities.location_text ."
+"In the next @global.weekly_workshop, we’ll talk more about how we can manage our emotions!  You can find more relaxation activities @data.parent_centre.relax_and_activities.location_text."
 msgstr ""
 
 #. type=template
@@ -1064,10 +1164,12 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
+#.      @global.currency
 #.      @global.monthly_income_estimate
+#.      @global.currency
 #.      @global.monthly_income_precise
 msgctxt "template"
-msgid "You don’t have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have @global.monthly_income_estimate every month” rather than, “I make @global.monthly_income_precise”."
+msgid "You don’t have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have @global.currency@global.monthly_income_estimate every month” rather than, “I make @global.currency@global.monthly_income_precise”."
 msgstr ""
 
 #. type=template
@@ -1106,7 +1208,7 @@ msgstr ""
 #. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
-msgid "You deserve some praise, too. Thank you again for using @global.parent_app . It shows you really care!"
+msgid "You deserve some praise, too. Thank you again for using @global.parent_app. It shows you really care!"
 msgstr ""
 
 #. type=template
@@ -1273,7 +1375,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Your goal was to map risks and support systems, both in your community and online, with your teen."
+msgid "Your goal was to map risks and support systems with your teen - both in your community and online."
 msgstr ""
 
 #. type=template
@@ -1293,42 +1395,42 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Well done for trying the activity! When we listen to our teenagers, even if we disagree, we learn to understand their thinking. Try and find time to do the activity again. This time, try to really listen and show you understand them before expressing your thoughts."
+msgid "Well done for trying the activity! When we listen to our teenagers, even if we disagree, we learn to understand their thinking. Try and find time to do the activity again - try to really listen and show you understand them before sharing your thoughts."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "My teen identified the house of someone I trust as unsafe. I was shocked and did not what to do."
+msgid "My teen identified the house of someone I trust as unsafe. I was shocked and did not know what to do."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "It is shocking to learn that people who are close to us and who we trust may be a danger to our teens. Find someone you can talk to about this, perhaps a friend or support service, so you can get the support your need. Remember to take a pause when you are stressed."
+msgid "It is shocking to learn that people who are close to us and who we trust may be a danger to our teens. Remember to take a pause when you are upset, and try to listen calmly to your teen. Find someone you can talk to about this, perhaps a friend or support service, so you can get the support you need."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "My teen insisted that the bar is safe for them to visit. I don’t know how to convince my teen that it is not a safe area."
+msgid "My teen insisted that the bar (or another place I don’t feel is safe) is safe for them to visit. I don’t know how to convince my teen."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Create a safe space to talk with your teen when you are both calm. Listen to your teen’s thoughts about why they feel the bar is safe, and then share your thoughts on why you feel the bar is not safe. Think about making a rule together that allows them to still have fun but stay safe. Teenagers listen better when we speak to them calmly."
+msgid "This can be very frustrating. To find a solution, your teen needs to feel heard - so listen calmly to your teen's reasons, and only then share your own thoughts. Then, think together about a rule that allows them to have fun but stay safe."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "As an adult, I feel I am responsible for protecting my child. When I told my teen which areas or online activities are unsafe, my child got angry."
+msgid "As an adult, I feel responsible to protect - but when I told my teen what is safe and what is not, my teen got angry."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Our teenagers may know things about our communities and technology that we are not aware of. When we actively involve our teens in the mapping activity, they feel heard and valued, and it can be easier to come up with a plan that everyone agrees on."
+msgid "Our teenagers may know things about our communities and technology that we are not aware of. When we actively involve our teens in the mapping activity and really listen to them, they feel heard and valued, and it can be easier to come up with a plan that everyone agrees on."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "It was hard to identify resources available in my community because I don’t know my community so well."
+msgid "It was hard to identify support resources available in my community, because I don’t know my community so well / there are few services available."
 msgstr ""
 
 #. type=template
@@ -1343,17 +1445,12 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Ask your teen to explain the gadgets they use; you could do this  during one-on-one time). This is a great opportunity to show interest in your teen’s life and to discuss potential risks together. If you are not sure which rules to set, you can always agree, with your teen, to try a new rule for two weeks and then discuss how things are going and change the rule if needed!"
+msgid "That's totally fine! You can still support your teen. Ask your teen to explain the gadgets they use - you could do this during one-on-one time. This is a great opportunity to show interest in your teen’s life and to discuss potential risks together. If you are not sure which rules to set, you can always agree, with your teen, to try a new rule for two weeks and then discuss how things are going and change the rule if needed!"
 msgstr ""
 
 #. type=template
 msgctxt "template"
 msgid "Your goal was to try and resolve a problem or conflict together with your teen."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "When we have a problem, we always want to get to the quickest end result and can forget about the steps. To come up with the best solution together, it is helpful to first have a full understanding of the problem and the different solutions."
 msgstr ""
 
 #. type=template
@@ -1373,7 +1470,22 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "It takes some practice to use all four steps of problem solving. Next time a problem comes up, look at the four steps together with your teen - it will make a big difference!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "I started with the solutions right away."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "When we have a problem, we always want to get to the quickest end result and can forget about the steps. To come up with the best solution together, it is helpful to first have a full understanding of the problem and the different solutions."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Four steps of problem solving"
 msgstr ""
 
 #. type=template
@@ -1403,7 +1515,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Try to listen to your teen and pay attention to their emotions. If they need some time to calm down, create a time later in the day or week to discuss and solve the problem together. By taking your time, the problem can be solved well."
+msgid "Your teen might be too overwhelmed to deal with the problem right away. Recognise and name their emotions, and create a time later in the day or week to discuss and solve the problem together. By giving your teen time, the problem can be solved well."
 msgstr ""
 
 #. type=template
@@ -1500,18 +1612,18 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-#.      @field.user_name
+#.      @fields.user_name
 #.      @local.workshop_data.in_text_title
 msgctxt "template"
-msgid "Hi @field.user_name! Your @local.workshop_data.in_text_title is ready for you!"
+msgid "Hi @fields.user_name. Your @local.workshop_data.in_text_title is ready for you."
 msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-#.      @field.group_name
+#.      @fields.group_name
 #.      @local.workshop_data.in_text_title
 msgctxt "template"
-msgid "Hi @field.group_name! Your @local.workshop_data.in_text_title is ready for you!"
+msgid "Hi @fields.group_name. Your @local.workshop_data.in_text_title is ready for you."
 msgstr ""
 
 #. type=template
@@ -1543,7 +1655,14 @@ msgstr ""
 #. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
-msgid "It seems you haven’t finished the @local.workshop_data.in_text_title yet. It won’t take long, and you will get valuable information from it. Thank you again for trying to be a better parent. Tomorrow, a new workshop awaits you."
+msgid "It seems you haven’t finished the @local.workshop_data.in_text_title yet. It won’t take long, and you will get valuable information. \n\n"
+"Well done for trying to be a better parent. Tomorrow, you can access a new workshop."
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Well done for completing @local.workshop_data.in_text_title. Tomorrow, you can access a new workshop to help you relax, enjoy and learn new skills!"
 msgstr ""
 
 #. type=template
@@ -1567,7 +1686,7 @@ msgstr ""
 #. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
-msgid "It’s great that you’ve been using @global.parent_app . You’ve gained 6 parenting tools already! \n\n"
+msgid "It’s great that you’ve been using @global.parent_app. You’ve gained 6 parenting tools already! \n\n"
 "Take the next workshop to get another parenting tool!"
 msgstr ""
 
@@ -1579,6 +1698,19 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Have you managed to come up with one positive and one negative consequence of a behaviour with your teen yet?"
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "It seems you haven’t finished the @local.workshop_data.in_text_title yet. Calm consequences really help your teen to follow rules well – give it a try before moving on!\n\n"
+"Well done for showing so much commitment to your family."
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Well done for completing @local.workshop_data.in_text_title. Tomorrow, you can access a new workshop to help you relax, enjoy and learn useful skills!"
 msgstr ""
 
 #. type=template
@@ -1616,6 +1748,23 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Have you discussed with your teen what you would do in a crisis situation?"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
+msgctxt "template"
+msgid "Tomorrow the final @global.parent_app workshop is ready for you. \n\n"
+"Try to complete @local.workshop_data.in_text_title before starting the new workshop. That way, you can complete your set of parenting skills and decide what to do next!"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.parent_app
+msgctxt "template"
+msgid "Well done for completing @local.workshop_data.in_text_title. Tomorrow, you can access the final workshop to reflect on your @global.parent_app journey and on what you can do next!"
 msgstr ""
 
 #. type=template
@@ -1682,8 +1831,16 @@ msgstr ""
 #. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
-msgid "As usual, tomorrow a new workshop awaits you. You might want to complete the previous workshop before then.  \n\n"
-"Some parents told us they are using the app while commuting to work.  Why don’t you use the app when you have a few minutes?  Thank you again for using @global.parent_app ."
+msgid "As usual, you can access a new workshop tomorrow. It will help to complete the previous workshop before then.  \n\n"
+"Some parents are using the app while commuting to work. Why don’t you use the app when you have a few minutes? \n\n"
+"Thank you again for using @global.parent_app."
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Congratulations, you completed the @local.workshop_data.in_text_title.\n\n"
+"Tomorrow, a new workshop is ready for you: you will see a big difference by making small changes!"
 msgstr ""
 
 #. type=template
@@ -1691,7 +1848,7 @@ msgstr ""
 #.      @field.user_name
 #.      @global.parent_app
 msgctxt "template"
-msgid "Hi @field.user_name! You are starting your second month of using @global.parent_app . Amazing! \n\n"
+msgid "Hi @field.user_name! You are starting your second month of using @global.parent_app. Amazing! \n\n"
 "Almost every family struggles with money issues, therefore, this week’s workshop will give you a tool that will help you to plan your expenses so you can have enough money to get through the month."
 msgstr ""
 
@@ -1700,8 +1857,14 @@ msgstr ""
 #.      @field.group_name
 #.      @global.parent_app
 msgctxt "template"
-msgid "Hi @field.group_name! You are starting your second month of using @global.parent_app . Amazing! \n\n"
+msgid "Hi @field.group_name! You are starting your second month of using @global.parent_app. Amazing! \n\n"
 "Almost every family struggles with money issues, therefore, this week’s workshop will give you a tool that will help you to plan your expenses so you can have enough money to get through the month."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Do you feel stressed about money? Does your teen keep asking for things you can’t afford? \n\n"
+"This week’s workshop deals with money and budgeting."
 msgstr ""
 
 #. type=template
@@ -1712,27 +1875,27 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Do you feel stressed about money? Does your teen keep asking for things you can’t afford? \n\n"
-"This week’s workshop deals with money and budgeting."
-msgstr ""
-
-#. type=template
-#. The string @local.workshop_data.in_text_title should not be translated.
-msgctxt "template"
-msgid "Involving your family in how you spend your money can take away a lot of stress and arguments. \n\n"
-"Complete the @local.workshop_data.in_text_title and gain useful tools to help your family with budgeting and saving. It's actually easy - you will see!"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Have you talked with your teen about your family budget yet?"
 msgstr ""
 
 #. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
-msgid "It seems you haven’t finished the @local.workshop_data.in_text_title yet. Many parents said that making a budget created a positive change in many aspects. \n\n"
-"Thank you again for your long-lasting commitment."
+msgid "Involving your family in how you spend your money can take away a lot of stress and arguments. \n\n"
+"Complete the @local.workshop_data.in_text_title to help your family with budgeting and saving. It's actually easy - you will see!"
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "It seems you haven’t finished the @local.workshop_data.in_text_title yet. Many parents said that making a budget brought peace back into their house – it can work for you too.\n\n"
+"Thank you again for being such a committed parent."
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Great that you completed @local.workshop_data.in_text_title. Tomorrow, a new workshop is unlocked to help you set family rules that work."
 msgstr ""
 
 #. type=template
@@ -1764,8 +1927,8 @@ msgstr ""
 #.      @global.parent_app
 #.      @local.workshop_data.in_text_title
 msgctxt "template"
-msgid "Thank you again for using @global.parent_app to invest in yourself and your family.\n\n"
-"Try the @local.workshop_data.in_text_title and add some valuable parenting tools to your toolbox!"
+msgid "Thank you for using @global.parent_app to invest in yourself and your family.\n\n"
+"Try the @local.workshop_data.in_text_title and build a great parenting skill!"
 msgstr ""
 
 #. type=template
@@ -1791,8 +1954,14 @@ msgstr ""
 #.      @local.workshop_data.in_text_title
 #.      @global.parent_app
 msgctxt "template"
-msgid "Hi awesome parent! A new workshop awaits you tomorrow, but it seems like you haven’t finished the @local.workshop_data.in_text_title yet. It’s really a short one (promise!). Some parents told us they went through it while waiting for dinner to cook. Why don’t you go through it when you have a few minutes? \n\n"
-"Thank you again for using @global.parent_app ."
+msgid "Hi awesome parent, a new workshop awaits you tomorrow. It seems like you haven’t finished the @local.workshop_data.in_text_title yet. It’s really a short one (promise!) – you can even complete it while waiting for dinner to cook. Why don’t you go through it when you have a few minutes? \n\n"
+"Thank you again for using @global.parent_app."
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Great that you completed the @local.workshop_data.in_text_title. Tomorrow, a new workshop is unlocked. Try it - you will see the difference in your teen’s behaviour."
 msgstr ""
 
 #. type=template
@@ -1818,7 +1987,7 @@ msgstr ""
 #.      @local.workshop_data.in_text_title
 msgctxt "template"
 msgid "Thank you again for using @global.parent_app and for committing to your parenting journey. \n\n"
-"The @local.workshop_data.in_text_title will show you how to set rules in a way that will help your teen to understand and follow them."
+"The @local.workshop_data.in_text_title will show you how to set rules in a way that will help your teen to understand and follow them better."
 msgstr ""
 
 #. type=template
@@ -1830,6 +1999,22 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Have you managed to set a rule together with your teen?"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
+msgctxt "template"
+msgid "Tomorrow a brand new @global.parent_app workshop is ready for you. \n\n"
+"Try to complete the @local.workshop_data.in_text_title before starting the new workshop. It won’t take long and will help your teen to follow rules better!"
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Congratulations, you completed the @local.workshop_data.in_text_title.\n\n"
+"Tomorrow, a new workshop will help you know what to do when teens show bad (or good) behaviour!"
 msgstr ""
 
 #. type=template
@@ -1857,10 +2042,9 @@ msgid "This has been the hardest of times to be a parent. You should be so proud
 msgstr ""
 
 #. type=template
-#. The string @global.parent_app should not be translated.
 msgctxt "template"
-msgid "You have been using @global.parent_app and you have gained 8 parenting tools already! \n\n"
-"Complete the next workshop to gain another tool!"
+msgid "You have have gained so many parenting skills already over the past weeks!\n\n"
+"Complete the next workshop to gain another helpful skill."
 msgstr ""
 
 #. type=template
@@ -1876,10 +2060,18 @@ msgid "Have you talked with your teen about safety measures?"
 msgstr ""
 
 #. type=template
-#. The string @global.parent_app should not be translated.
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.parent_app
 msgctxt "template"
-msgid "The tenth and last workshop awaits you tomorrow. \n\n"
-"Thank you again for using @global.parent_app ."
+msgid "It seems you haven’t finished the @local.workshop_data.in_text_title yet. Making a plan together with your teen can prevent many problems – give it a try before moving on!\n\n"
+"Well done for using @global.parent_app to support your family."
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Congratulations, you completed @local.workshop_data.in_text_title. Tomorrow, a new workshop is ready for you to help you and your family deal with any situation – together you can do so much!"
 msgstr ""
 
 #. type=template
@@ -1888,15 +2080,9 @@ msgid "Remember – this week is about YOU!  We hope you are treating yourself w
 msgstr ""
 
 #. type=template
-#. The string @global.weekly_workshop should not be translated.
-msgctxt "template"
-msgid "First @global.weekly_workshop ready tomorrow!"
-msgstr ""
-
-#. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
-msgid "Start your first @global.parent_app workshop tomorrow. You will see the good results!"
+msgid "Start a brand new @global.parent_app workshop tomorrow. You will see the good results!"
 msgstr ""
 
 #. type=template
@@ -1904,7 +2090,7 @@ msgstr ""
 #.      @global.parent_app
 #.      @global.parent_app
 msgctxt "template"
-msgid "Have you told your @global.parent_app partners about the app yet? You can start your first @global.parent_app workshop together tomorrow!"
+msgid "Have you told your @global.parent_app partners about the app yet? From tomorrow, you can start doing your @global.parent_app workshops together!"
 msgstr ""
 
 #. type=template
@@ -1936,13 +2122,28 @@ msgstr ""
 #. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
 msgid "You are on the right track to start solving problems together with your teen! \n\n"
-"Complete the @local.workshop_data.in_text_title and gain another important parenting tool!"
+"Complete the @local.workshop_data.in_text_title and gain another important parenting skill!"
 msgstr ""
 
 #. type=template
 msgctxt "template"
 msgid "Have you tried the four steps of problem-solving with your teen yet? \n\n"
 "KNOW IT, SOLVE IT, TRY IT, TEST IT!"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
+msgctxt "template"
+msgid "Tomorrow a brand new @global.parent_app workshop is ready for you. \n\n"
+"Try to complete the @local.workshop_data.in_text_title before starting the new workshop. Knowing how to solve problems together will help in many situations!"
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Great that you completed the @local.workshop_data.in_text_title. Tomorrow, a new workshop is unlocked to help you keep your teen safe."
 msgstr ""
 
 #. type=template
@@ -1965,13 +2166,13 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Happy, sad, angry, excited, worried? Well done for recognizing how you and others felt today! And remember, tomorrow is a brand new day."
-msgstr "Gembira, sedih, marah, teruja, risau? Syabas kerana mengetahui perasaan anda dan orang lain hari ini! Ingat, esok adalah hari yang baru."
+msgid "We have a new workshop available for you about managing anger and stress. It will help you take better care of yourself."
+msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "We have a new workshop available for you about managing anger and stress. It will help you take better care of yourself."
-msgstr ""
+msgid "Happy, sad, angry, excited, worried? Well done for recognizing how you and others felt today! And remember, tomorrow is a brand new day."
+msgstr "Gembira, sedih, marah, teruja, risau? Syabas kerana mengetahui perasaan anda dan orang lain hari ini! Ingat, esok adalah hari yang baru."
 
 #. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
@@ -1991,132 +2192,114 @@ msgid "Well done for taking a big breath before responding to your teen! Each ti
 msgstr ""
 
 #. type=template
-#. The string @field.user_name should not be translated.
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @local.workshop_data.in_text_title
 msgctxt "template"
-msgid "Hi @field.user_name! This week you:"
+msgid "Tomorrow a brand new @global.parent_app workshop is ready for you. \n\n"
+"By completing the @local.workshop_data.in_text_title first, you lay a really important foundation: If you feel good, your family will do better too!"
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Well done for completing the @local.workshop_data.in_text_title. Tomorrow, you can access a new workshop to help you relax and build valuable skills!"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Did a relax, which shows you are trying to stay calm."
-msgstr ""
-
-#. type=template
-#. The string @field.weekly_parent_point_relax should not be translated.
-msgctxt "template"
-msgid "Did @field.weekly_parent_point_relax relaxes, which shows you are trying to stay calm."
+msgid "Finish current workshop"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Treated yourself, which shows you are trying to look after yourself."
+msgid "Here is a fun activity to do with your teen!"
 msgstr ""
 
 #. type=template
-#. The string @field.weekly_parent_point_treat_yourself should not be translated.
+#. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
-msgid "Treated yourself @field.weekly_parent_point_treat_yourself times, which shows you are trying to look after yourself."
+msgid "Start @local.workshop_data.in_text_title"
 msgstr ""
 
 #. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
-msgid "Praised yourself, which shows you appreciate your hard work."
+msgid "Continue @local.workshop_data.in_text_title"
 msgstr ""
 
 #. type=template
-#. The string @field.weekly_parent_point_praise_yourself should not be translated.
+#. The string @fields.user_name should not be translated.
 msgctxt "template"
-msgid "Praised yourself @field.weekly_parent_point_praise_yourself times, which shows you appreciate your hard work."
+msgid "Hi @fields.user_name! This week you did:"
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+#.      @global.parent_points
 msgctxt "template"
-msgid "Did one-on-one, which shows you are spending time together."
-msgstr ""
-
-#. type=template
-#. The string @field.weekly_parent_point_spend_time should not be translated.
-msgctxt "template"
-msgid "Did one-on-one @field.weekly_parent_point_spend_time times, which shows you are spending time together."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Praised your teen, which shows you are finding positives."
-msgstr ""
-
-#. type=template
-#. The string @field.weekly_parent_point_praise_teen should not be translated.
-msgctxt "template"
-msgid "Praised your teen @field.weekly_parent_point_praise_teen times, which shows you are finding positives."
+msgid "Hi @fields.user_name! Thank you for using @global.parent_app and committing to your parenting. \n\n"
+"Remember to tap your @global.parent_points!"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Gave a positive instruction, which shows you are being positive."
-msgstr ""
-
-#. type=template
-#. The string @field.weekly_parent_point_instruct_positively should not be translated.
-msgctxt "template"
-msgid "Gave positive instructions @field.weekly_parent_point_instruct_positively times, which shows you are being positive."
+msgid "That’s wonderful!"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Took a breath instead of yelling, which shows you are trying to control yourself."
-msgstr ""
-
-#. type=template
-#. The string @field.weekly_parent_point_breathe should not be translated.
-msgctxt "template"
-msgid "Took a breath instead of yelling @field.weekly_parent_point_breathe times, which shows you are trying to control yourself."
+msgid "Nice work!"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Made a good money choice, which shows you are trying to manage your finances."
-msgstr ""
-
-#. type=template
-#. The string @field.weekly_parent_point_money should not be translated.
-msgctxt "template"
-msgid "Made @field.weekly_parent_point_money good money choices, which shows you are trying to manage your finances."
+msgid "Your commitment is not taken for granted."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Gave a calm consequence, which shows you guide your teen calmly."
-msgstr ""
-
-#. type=template
-#. The string @field.weekly_parent_point_consequence should not be translated.
-msgctxt "template"
-msgid "Gave a calm consequence @field.weekly_parent_point_consequence times, which shows you guide your teen calmly."
+msgid "Keep up the good work!"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Did something to keep your teen safe, which shows you care."
+msgid "This is lovely!"
 msgstr ""
 
 #. type=template
-#. The string @field.weekly_parent_point_safe should not be translated.
 msgctxt "template"
-msgid "Did something to keep your teen safe @field.weekly_parent_point_safe times, which shows you care."
+msgid "Tap yourself on the shoulder. You deserve this."
 msgstr ""
 
 #. type=template
-#. The string @global.m_workshop_tomorrow should not be translated.
+#. The string @global.parent_point should not be translated.
 msgctxt "template"
-msgid "Missing: @global.m_workshop_tomorrow"
+msgid "Every @global.parent_point counts!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Remember to sit down and relax today - taking care of yourself is an important parenting skill."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Relax now"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Did you relax already? Tap it!"
 msgstr ""
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
 msgctxt "template"
 msgid "Here are this week’s takeaway skills! \n\n"
-"Use them at home and find them anytime in your @global.parent_centre"
+"Use them at home and find them anytime in your @global.parent_centre."
 msgstr ""
 
 #. type=template
@@ -2136,6 +2319,16 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "_tracker"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "_final"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Let's talk about how your home practice went this week."
 msgstr ""
 
@@ -2147,6 +2340,11 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Well done for exploring solutions to your challenges. Go try them out. Your relationship with your teen will get stronger and stronger!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "_hp_challenge"
 msgstr ""
 
 #. type=template
@@ -2179,111 +2377,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "text_challenge_1"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "text_challenge_2"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "text_challenge_3"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "text_challenge_4"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "text_challenge_5"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "text_challenge_6"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "combo_box_tracker"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_1_a"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_1_b"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_2_a"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_2_b"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_3_a"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_3_b"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_4_a"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_4_b"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_5_a"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_5_b"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_6_a"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_6_b"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_7_a"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "button_7_b"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Sorry we missed this!"
 msgstr ""
 
@@ -2295,7 +2388,7 @@ msgstr ""
 #. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
-msgid "Thank you for sharing your challenge! We will take it into account for the next version of @global.parent_app ."
+msgid "Thank you for sharing your challenge! We will use this feedback to make @global.parent_app better."
 msgstr ""
 
 #. type=template
@@ -2499,6 +2592,12 @@ msgid "Think about how your home activities went this week. \n\n"
 msgstr ""
 
 #. type=template
+#. The string @data.workshop.w_1on1.title should not be translated.
+msgctxt "template"
+msgid "Discussion example from @data.workshop.w_1on1.title"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Start Positively Together"
 msgstr ""
@@ -2531,11 +2630,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "It's great to see you again!"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "current_feeling"
 msgstr ""
 
 #. type=template
@@ -2612,92 +2706,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Contact me via email"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Checkbox 3 text"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Checkbox 3 form text"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Hello"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Dynamic Texts"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "local_full_stop"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "This template should show the same information on both sections"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Content"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Intro"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Initial text"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Double nested 1"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Double nested 2"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Text 1"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Text 2"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Text 3"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "radio_group_final_temp"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Option 1"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Option 2"
+msgid "**bold text** and _italic text_ with markdown"
 msgstr ""
 
 #. type=template
@@ -2717,7 +2726,29 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Value"
+msgid "set raw value"
+msgstr ""
+
+#. type=template
+#. The string `@fields.example_raw should not be translated.
+msgctxt "template"
+msgid "raw: `@fields.example_raw`"
+msgstr ""
+
+#. type=template
+#. The string @fields.example_raw should not be translated.
+msgctxt "template"
+msgid "parsed: @fields.example_raw"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      `@fields.example_raw
+#.      @fields.example_raw
+msgctxt "template"
+msgid "will not work when combined:\n"
+"raw: `@fields.example_raw`\n"
+"parsed: @fields.example_raw"
 msgstr ""
 
 #. type=template
@@ -2755,6 +2786,49 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "ParentApp funded by"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Organisation Registration"
+msgstr ""
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "If you are going through the @global.parent_app programme with the support of an organisation, they should have given you a code. Please enter the code in the box below and press Done."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Done"
+msgstr ""
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "You may be asked to share this code with people who will support your @global.parent_app journey."
+msgstr ""
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Sync Now"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
 msgstr ""
 
 #. type=template
@@ -3258,13 +3332,171 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Quick Parenting Tips"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Raising teens can be hard, and we all struggle sometimes."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "What is the main challenge you are experiencing right now?"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "My relationship with my teen is not good"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "My teen’s behaviour is difficult"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "I feel stressed, lonely, angry"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "I have money worries"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "I worry about my teen’s safety"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "We often fight in our family"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "I have a different problem…"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Building a better relationship starts with spending time together - even 5 minutes a day makes a difference! At first, it can be hard to spend time together, as we are all busy and our teens can be in a bad mood sometimes. But spending even 5 minutes a day of focused time with your teen helps to build trust. Try asking your teen what they would like to do together. It can be fun and relaxing for you too!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You can get more support on how to spend one-on-one time with your teen here:"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "All teenagers sometimes behave just horribly! One thing that can help with teenage behaviour is to praise them any time that they do something good – however small. Teens may not look like they want or seek your praise but they still really, really do."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You can get more support here on how to encourage good behaviour through praising:"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Parenting stress is really high right now. We know exactly how overwhelming life can be. Doing something for yourself can reduce your stress. You deserve it! And when you feel overwhelmed, take back control over your body by taking five slow, deep breaths before responding. Lots of parents found this helpful."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You can get more support on how to take care of yourself here:"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You are not alone. Money stress is so hard for parents. Try talking to your teen about how much money comes in and what you need to spend money on as a family each month. This can help them to understand why you cannot afford something they want. And when everyone understands where the money goes, it is easier to agree on where you can save together too!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You can get more support on how to budget and save here:"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Teens spend a lot of time outside the house or online, where it is harder for us to keep them safe - many parents worry about this. Try to start a conversation with your teen about safe and unsafe places in your community and online (you might need to try a few times). They may even know some you do not. This can start to help you make a plan together about how to stay safe."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You can get more support on how to keep your teen safe here:"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "When a problem comes up, try to talk about it together. What is the problem exactly? What different solutions are there and what are the consequences of one? That way, you can find a solution that can be OK for everyone."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You can get more support on how to solve problems together here:"
+msgstr ""
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "It is not easy to look after our families. We all have challenges sometimes, but we hope this app will help you navigate them well. @global.parent_app is based on ten years of experience running parenting programmes in South Africa, and thousands of parents have found that the tips that are shared help with many parenting challenges. We hope this app will help you and your family too.\n\n"
+"Here are some of the key proven tips for you:"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Start your first parenting workshop"
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "You will get more support in the @local.workshop_data.in_text_title."
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "You can get more support in the @local.workshop_data.in_text_title."
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Start the @local.workshop_data.in_text_title"
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Finish the @local.workshop_data.in_text_title to get more support."
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Continue the @local.workshop_data.in_text_title"
+msgstr ""
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Re-access the @local.workshop_data.in_text_title"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Customise for your needs"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "The next questions about your parenting experiences will help us to get you the support you need.\n\n"
-"Be honest. Remember that millions of parents feel like you do, and we all deserve support. You are not alone!"
+msgid "Every parent in the world is struggling in these hard times. The next questions about your parenting experiences will help us to get you the support you need.\n\n"
+"Be honest. Remember that you are not alone! Millions of parents feel like you do, and we all deserve support."
 msgstr ""
 
 #. type=template
@@ -3279,27 +3511,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-#.      @global.my_tips
-#.      @global.parent_centre
-#.      @global.w_1on1
-#.      @global.weekly_workshop
+#.      @data.workshop.w_1on1.tools
+#.      @data.parent_centre.my_tips.title
 msgctxt "template"
-msgid "We know this is hard. We have added some helpful tips on how you can spend time with your teen to @global.my_tips (in the @global.parent_centre), so you can access it right away. \n\n"
-"Because @global.w_1on1 builds the foundation for all other parenting tools,  it will be the @global.weekly_workshop you receive next week!"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_1on1_tools
-#.      @global.my_tips
-msgctxt "template"
-msgid "@global.w_1on1_tools added to @global.my_tips"
-msgstr ""
-
-#. type=template
-#. The string @global.weekly_workshop should not be translated.
-msgctxt "template"
-msgid "Well done! Our next @global.weekly_workshop  will give you more ideas for this, as a foundation for all the other parenting tools. But you already have a great start!"
+msgid "@data.workshop.w_1on1.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
 #. type=template
@@ -3314,35 +3529,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-#.      @global.my_tips
-#.      @global.my_tips
-#.      @global.parent_centre
-#.      @global.weekly_workshop
-#.      @global.w_praise
+#.      @data.workshop.w_praise.tools
+#.      @data.parent_centre.my_tips.title
 msgctxt "template"
-msgid "Using this app shows us that you care about your teen. We have added some essential tools on how to use praise to @global.my_tips for quick access. You can find @global.my_tips in the @global.parent_centre .\n\n"
-"In our @global.weekly_workshop on @global.w_praise, you will learn even more on how to use this skill well."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_praise_tools
-#.      @global.my_tips
-msgctxt "template"
-msgid "@global.w_praise_tools added to @global.my_tips"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshop
-#.      @global.w_praise
-msgctxt "template"
-msgid "Wonderful that you are praising your teen! This helps them feel valued – your encouragement means a lot. In our @global.weekly_workshop on @global.w_praise, you will learn even more how to use this skill well."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "survey_welcome_a_3"
+msgid "@data.workshop.w_praise.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
 #. type=template
@@ -3357,55 +3547,12 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Great that this has been a good week!\n\n"
-"We’ll remind you every day to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Great that you felt calm most of the week! \n\n"
-"We’ll remind you every day to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshops
-#.      @global.my_tips
-msgctxt "template"
-msgid "We understand how stressful life can be. We’ll remind you every day to relax, recognise and reward yourself, to help manage your stress and feel calmer.\n\n"
-"We will learn more about managing stress in week 5 of the @global.weekly_workshops - but you can already access some helpful tools under @global.my_tips to get you started!"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Sometimes our children make us really upset."
 msgstr ""
 
 #. type=template
 msgctxt "template"
 msgid "How many days in the past week did you shout, scream or yell at your teen?"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Well done. Brain science shows that controlling your anger improves your teen’s brain development. Be proud of yourself."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshops
-#.      @global.my_tips
-msgctxt "template"
-msgid "Thank you for being honest. It can be so difficult to control our stress. To look after yourself and help you feel calmer when things get tough, we’ll remind you every day to relax, recognise and reward yourself. You matter!\n\n"
-"We will learn more about managing stress in week 5 of the @global.weekly_workshops, but you can already access some helpful tools under @global.my_tips to get started."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.my_tips
-#.      @global.parent_centre
-msgctxt "template"
-msgid "Thank you for being honest. It can be so difficult to control our stress. We hope our stress management tools will be useful to you. You can already find them under @global.my_tips in the @global.parent_centre ."
 msgstr ""
 
 #. type=template
@@ -3424,26 +3571,11 @@ msgid "How many days in the past month (30 days) did you run out of money to pay
 msgstr ""
 
 #. type=template
-#. The string @global.weekly_workshop should not be translated.
-msgctxt "template"
-msgid "Great. We have a @global.weekly_workshop on family budgeting that can help with money stress more generally, and reduce money-related arguments."
-msgstr ""
-
-#. type=template
 #. The following strings should not be translated: 
-#.      @global.weekly_workshop
-#.      @global.my_tips
+#.      @data.workshop.w_money.tools
+#.      @data.parent_centre.my_tips.title
 msgctxt "template"
-msgid "Money stress can be overwhelming. \n\n"
-"We have a @global.weekly_workshop on family budgeting in five weeks, but you can already access some core family budgeting tips under @global.my_tips!"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_money_tools
-#.      @global.my_tips
-msgctxt "template"
-msgid "@global.w_money_tools added to @global.my_tips"
+msgid "@data.workshop.w_money.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
 #. type=template
@@ -3463,36 +3595,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-#.      @global.weekly_workshops
-#.      @global.my_tips
+#.      @data.workshop.w_stress.tools
+#.      @data.parent_centre.my_tips.title
 msgctxt "template"
-msgid "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. To look after yourselves and help you feel calmer when things get tough, we’ll remind you every day to relax, recognise and reward yourself. You matter!\n\n"
-"We will learn more about managing stress in week 5 of the @global.weekly_workshops, but you can already access some helpful tools under @global.my_tips to get started."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.parent_centre
-#.      @global.my_tips
-msgctxt "template"
-msgid "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. \n\n"
-"We hope our stress management tools will help you to feel calmer in hard situations. You can find them in your @global.parent_centre, under @global.my_tips ."
-msgstr ""
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. \n\n"
-"We all feel overwhelmed sometimes, and using @global.parent_app is a great step to help you and your family!\n\n"
-"Our materials have helped thousands of parents and families to be less stressed and have more positive time together. We are here to support you."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_stress_tools
-#.      @global.my_tips
-msgctxt "template"
-msgid "@global.w_stress_tools added to @global.my_tips"
+msgid "@data.workshop.w_stress.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
 #. type=template
@@ -3522,24 +3628,10 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
-#.      @global.weekly_workshops
-#.      @global.my_tips
+#.      @data.workshop.w_safe.tools
+#.      @data.parent_centre.my_tips.title
 msgctxt "template"
-msgid "This is a real concern for parents everywhere. We’ll make sure you get support with building communication. \n\n"
-"We’ll talk more about planning for your teen’s safety later in the @global.weekly_workshops, but you can already access some first core tips to keep your teen safe under @global.my_tips!"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_safe_tools
-#.      @global.my_tips
-msgctxt "template"
-msgid "@global.w_safe_tools added to @global.my_tips"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "This is really great. Parenting is hard, but you’re really succeeding in this."
+msgid "@data.workshop.w_safe.tools added to @data.parent_centre.my_tips.title."
 msgstr ""
 
 #. type=template
@@ -3558,48 +3650,6 @@ msgid "This could be when they are going out with friends, or talking about the 
 msgstr ""
 
 #. type=template
-#. The following strings should not be translated: 
-#.      @global.parent_centre
-#.      @global.weekly_workshops
-msgctxt "template"
-msgid "Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! You can get focused tools, extra content and resources on this in the @global.parent_centre at any time. \n\n"
-"We’ll also unlock the @global.weekly_workshops on rules and safety planning, which help with this – they'll be available for you anytime."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshops
-#.      @global.w_rules
-#.      @global.w_safe
-msgctxt "template"
-msgid "@global.weekly_workshops @global.w_rules and @global.w_safe unlocked"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.parent_centre
-#.      @global.weekly_workshop
-msgctxt "template"
-msgid "Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! You can get focused tools, extra content and resources on this in the @global.parent_centre at any time. \n\n"
-"We’ll also unlock the @global.weekly_workshop on rules, which help with this – they'll be available for you anytime."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshops
-#.      @global.w_rules
-msgctxt "template"
-msgid "@global.weekly_workshops @global.w_rules unlocked"
-msgstr ""
-
-#. type=template
-#. The string @global.weekly_workshops should not be translated.
-msgctxt "template"
-msgid "Being a parent is not easy. Well done for focusing on keeping your teen safe. \n\n"
-"We’ll have more support for you on this in the later @global.weekly_workshops if you’d like to know even more!"
-msgstr ""
-
-#. type=template
 msgctxt "template"
 msgid "We have a new challenge now – keeping our teenagers safe from COVID-19."
 msgstr ""
@@ -3612,13 +3662,13 @@ msgstr ""
 #. type=template
 #. The string @global.parent_centre should not be translated.
 msgctxt "template"
-msgid "It can be challenging to keep your teen safe in COVID! We are putting together some advice - you will soon be able to access it in the @global.parent_centre ."
+msgid "It can be challenging to keep your teen safe in COVID! We are putting together some advice - you will soon be able to access it in the @global.parent_centre."
 msgstr ""
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
 msgctxt "template"
-msgid "That’s great. We are putting together some advice for keeping your teen safe in COVID - you will soon be able to access it in the @global.parent_centre ."
+msgid "That’s great. We are putting together some advice for keeping your teen safe in COVID - you will soon be able to access it in the @global.parent_centre."
 msgstr ""
 
 #. type=template
@@ -3627,9 +3677,376 @@ msgid "Thank you for being honest"
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_1on1.in_text_title
+msgctxt "template"
+msgid "We know this is hard. You can review some helpful tips on how you can spend time with your teen under @data.parent_centre.my_tips.location_text or you can have another look at the @data.workshop.w_1on1.in_text_title."
+msgstr ""
+
+#. type=template
+#. The string @data.workshop.w_1on1.in_text_title should not be translated.
+msgctxt "template"
+msgid "Well done for laying such a good foundation! You can always review the @data.workshop.w_1on1.in_text_title to get more ideas on how to spend time together."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_praise.in_text_title
+msgctxt "template"
+msgid "Using this app shows that you care about your teen. You can review how to use praise under @data.parent_centre.my_tips.location_text.\n\n"
+"For more tips on how to use this skill well, you can also have another look at the @data.workshop.w_praise.in_text_title."
+msgstr ""
+
+#. type=template
+#. The string @data.workshop.w_praise.in_text_title should not be translated.
+msgctxt "template"
+msgid "Wonderful that you are praising your teen! This helps them feel valued – your encouragement means a lot. \n\n"
+"You can always have another look at the @data.workshop.w_praise.in_text_title for more tips on how to use this skill well."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Great that this has been a good week!\n\n"
+"We will keep reminding you to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Great that you felt calm most of the week! \n\n"
+"We will keep reminding you to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.weekly_workshop
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "We understand how stressful life can be. We will keep reminding you to relax, recognise and reward yourself, to help manage your stress and feel calmer.\n\n"
+"You can find more ideas to manage stress in the @global.weekly_workshop or under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.weekly_workshop
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "Thank you for being honest. It can be so difficult to control our stress. To look after yourself and help you feel calmer when things get tough, we will keep reminding you to relax, recognise and reward yourself. You matter!\n\n"
+"You can find more ideas to manage stress in the @global.weekly_workshop or under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+#. The string @data.parent_centre.my_tips.location_text should not be translated.
+msgctxt "template"
+msgid "Thank you for being honest. It can be so difficult to control our stress. You can always find some helpful stress management tools under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @data.workshop.w_money.in_text_title
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "Great. If any stress or disagreements around money do come up in your family in the future, you can always review the @data.workshop.w_money.in_text_title or @data.parent_centre.my_tips.location_text!"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @data.workshop.w_money.in_text_title
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "Money stress can be overwhelming. \n\n"
+"Whenever stress or disagreements around money come up in your family, you can find tips in the @data.workshop.w_money.in_text_title or under @data.parent_centre.my_tips.location_text!"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.weekly_workshop
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. To look after yourselves and help you feel calmer when things get tough, we will keep reminding you to relax, recognise and reward yourself. You matter!\n\n"
+"You can find more ideas to manage stress in the @global.weekly_workshop or under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. \n\n"
+"We all feel overwhelmed sometimes, and continuing to use @global.parent_app is a great step to help you and your family!\n\n"
+"Our materials have helped thousands of parents and families to be less stressed and have more positive time together. We are here to support you."
+msgstr ""
+
+#. type=template
+#. The string @data.parent_centre.my_tips.location_text should not be translated.
+msgctxt "template"
+msgid "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. \n\n"
+"We hope our stress management tools will continue to help you to feel calmer in hard situations. You can find them under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.weekly_workshop
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "This is a real concern for parents everywhere. Remember to use your new skills to continue to build good communication with your teen. \n\n"
+"You can review core tips on planning for your teen’s safety in the @global.weekly_workshop or under @data.parent_centre.my_tips.location_text!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Great that you are aware of what your teen is doing. Parenting is hard, but you’re really succeeding in this to keep them safe."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you!\n\n"
+"Remember, you can find focused tools, extra content and resources on this in the @global.parent_centre at any time. You can also review core tips on rules and safety planning under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! Remember, you can find focused tools, extra content and resources on this in the @global.parent_centre at any time. \n\n"
+"You can also review core tips on making rules under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+#. The string @data.workshop.w_safe.in_text_title should not be translated.
+msgctxt "template"
+msgid "Being a parent is not easy. Well done for focusing on keeping your teen safe. \n\n"
+"Remember, you can find more support on this in the @data.workshop.w_safe.in_text_title whenever you need it!"
+msgstr ""
+
+#. type=template
+#. The string @global.parent_centre should not be translated.
+msgctxt "template"
+msgid "Remember you can access lots of helpful tips and resources in the @global.parent_centre - this is available for you at any time!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "checkbox_tracker"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Are there teens in your family?"
+msgstr ""
+
+#. type=template
+#. The string @global.teen_age_bracket should not be translated.
+msgctxt "template"
+msgid "This app focuses on families with teenagers age @global.teen_age_bracket, but you are welcome to continue - you may learn useful things for your family too!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Are there adults in your family?"
+msgstr ""
+
+#. type=template
+#. The string @global.teen_age_bracket should not be translated.
+msgctxt "template"
+msgid "This app focuses on parents of teenagers age @global.teen_age_bracket, but you are welcome to continue - you may learn useful things too!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Are you sure you want to skip this question?"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Remember, if you DO answer, your answer stays anonymous.\n\n"
+"You can always choose not to answer a question by checking the check box next to the slider."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You selected \"I would rather not answer\""
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "That's okay!\n\n"
+"Remember, if you DO answer, your answer stays anonymous and you will receive content that is exactly right for you!"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_1on1.title
+#.      @global.weekly_workshop
+msgctxt "template"
+msgid "We know this is hard. We have added some helpful tips on how you can spend time with your teen to @data.parent_centre.my_tips.location_text, so you can access it right away. \n\n"
+"Because @data.workshop.w_1on1.title builds the foundation for all other parenting tools,  it will be the @global.weekly_workshop you receive next week!"
+msgstr ""
+
+#. type=template
+#. The string @global.weekly_workshop should not be translated.
+msgctxt "template"
+msgid "Well done! Our next @global.weekly_workshop  will give you more ideas for this, as a foundation for all the other parenting tools. But you already have a great start!"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @data.parent_centre.my_tips.location_text
+#.      @data.workshop.w_praise.in_text_title
+msgctxt "template"
+msgid "Using this app shows that you care about your teen. We have added some essential tools on how to use praise to @data.parent_centre.my_tips.location_text for quick access.\n\n"
+"In our @data.workshop.w_praise.in_text_title you will learn even more on how to use this skill well."
+msgstr ""
+
+#. type=template
+#. The string @data.workshop.w_praise.in_text_title should not be translated.
+msgctxt "template"
+msgid "Wonderful that you are praising your teen! This helps them feel valued – your encouragement means a lot. In our @data.workshop.w_praise.in_text_title you will learn even more how to use this skill well."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Great that this has been a good week!\n\n"
+"We will remind you regularly to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Great that you felt calm most of the week! \n\n"
+"We will remind you regularly to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @data.workshop.w_stress.number
+#.      @global.weekly_workshops
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "We understand how stressful life can be. We will remind you regularly to relax, recognise and reward yourself, to help manage your stress and feel calmer.\n\n"
+"We will learn more about managing stress in week @data.workshop.w_stress.number of the @global.weekly_workshops - but you can already access some helpful tools under @data.parent_centre.my_tips.location_text to get you started!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Well done. Brain science shows that controlling your anger improves your teen’s brain development. Be proud of yourself."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @data.workshop.w_stress.number
+#.      @global.weekly_workshops
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "Thank you for being honest. It can be so difficult to control our stress. To look after yourself and help you feel calmer when things get tough, we’ll remind you regularly to relax, recognise and reward yourself. You matter!\n\n"
+"We will learn more about managing stress in week @data.workshop.w_stress.number of the @global.weekly_workshops, but you can already access some helpful tools under @data.parent_centre.my_tips.location_text to get started."
+msgstr ""
+
+#. type=template
+#. The string @data.parent_centre.my_tips.location_text should not be translated.
+msgctxt "template"
+msgid "Thank you for being honest. It can be so difficult to control our stress. We hope our stress management tools will be useful to you. You can already find them under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Great. We have a workshop on family budgeting that can help with money stress more generally, and reduce money-related arguments."
+msgstr ""
+
+#. type=template
+#. The string @data.parent_centre.my_tips.location_text should not be translated.
+msgctxt "template"
+msgid "Money stress can be overwhelming. \n\n"
+"We have a workshop on family budgeting in five weeks, but you can already access some core family budgeting tips under @data.parent_centre.my_tips.location_text!"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.weekly_workshops
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. To look after yourselves and help you feel calmer when things get tough, we’ll remind you every day to relax, recognise and reward yourself. You matter!\n\n"
+"We will learn more about managing stress in week 5 of the @global.weekly_workshops, but you can already access some helpful tools under @data.parent_centre.my_tips.location_text to get started."
+msgstr ""
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. \n\n"
+"We all feel overwhelmed sometimes, and using @global.parent_app is a great step to help you and your family!\n\n"
+"Our materials have helped thousands of parents and families to be less stressed and have more positive time together. We are here to support you."
+msgstr ""
+
+#. type=template
+#. The string @data.parent_centre.my_tips.location_text should not be translated.
+msgctxt "template"
+msgid "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. \n\n"
+"We hope our stress management tools will help you to feel calmer in hard situations. You can find them under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.weekly_workshops
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "This is a real concern for parents everywhere. We’ll make sure you get support with building communication. \n\n"
+"We’ll talk more about planning for your teen’s safety later in the @global.weekly_workshops, but you can already access some first core tips to keep your teen safe under @data.parent_centre.my_tips.location_text!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "This is really great. Parenting is hard, but you’re really succeeding in this."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! You can get focused tools, extra content and resources on this in the @global.parent_centre at any time. \n\n"
+"You can already access some first core tips which will help with making rules and safety planning under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @data.workshop.w_rules.tools
+#.      @data.workshop.w_safe.tools
+#.      @data.parent_centre.my_tips.title
+msgctxt "template"
+msgid "@data.workshop.w_rules.tools and @data.workshop.w_safe.tools added to @data.parent_centre.my_tips.title."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid "Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! You can get focused tools, extra content and resources on this in the @global.parent_centre at any time. \n\n"
+"You can already access some first core tips which will help with making rules under @data.parent_centre.my_tips.location_text."
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @data.workshop.w_rules.tools
+#.      @data.parent_centre.my_tips.title
+msgctxt "template"
+msgid "@data.workshop.w_rules.tools added to @data.parent_centre.my_tips.title."
+msgstr ""
+
+#. type=template
 #. The string @global.weekly_workshops should not be translated.
 msgctxt "template"
-msgid "Content unlocked by these questions is now accessible in the @global.weekly_workshops"
+msgid "Being a parent is not easy. Well done for focusing on keeping your teen safe. \n\n"
+"We’ll have more support for you on this in the later @global.weekly_workshops if you’d like to know even more!"
+msgstr ""
+
+#. type=template
+#. The string @data.parent_centre.my_tips.location_text should not be translated.
+msgctxt "template"
+msgid "Content unlocked by these questions is now accessible under @data.parent_centre.my_tips.location_text."
 msgstr ""
 
 #. type=template
@@ -3639,8 +4056,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Every parent in the world is struggling in these hard times. These quick questions will fit this app to your needs.\n\n"
-"Be honest. Remember that you are not alone! Millions of parents feel like you do, and we all deserve support."
+msgid "These quick questions will fit this app to your needs."
 msgstr ""
 
 #. type=template
@@ -3691,6 +4107,34 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Babies"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.adults_word
+#.      @global.adult_age_bracket
+msgctxt "template"
+msgid "@local.adults_word (@global.adult_age_bracket)"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.teens_word
+#.      @global.teen_age_bracket
+msgctxt "template"
+msgid "@local.teens_word (@global.teen_age_bracket)"
+msgstr ""
+
+#. type=template
+#. The string @local.children_word should not be translated.
+msgctxt "template"
+msgid "@local.children_word (2-9)"
+msgstr ""
+
+#. type=template
+#. The string @local.babies_word should not be translated.
+msgctxt "template"
+msgid "@local.babies_word (0-2)"
 msgstr ""
 
 #. type=template
@@ -3757,21 +4201,19 @@ msgid "Sunday"
 msgstr ""
 
 #. type=template
-#. The string @local.combo_box should not be translated.
 msgctxt "template"
-msgid "Great! We will unlock a new workshop for your group every week on @local.@local.combo_box . This allows all of you to try what you learned with your families before building the next skill."
+msgid "Great! We will unlock a new workshop for your group every week. This allows all of you to try what you learned with your families before building the next skill."
 msgstr ""
 
 #. type=template
-#. The string @local.combo_box should not be translated.
 msgctxt "template"
-msgid "Great! We will unlock a new workshop for you every week on @local.@local.combo_box . This allows you to try what you learned with your family before building the next skill."
+msgid "Great! We will unlock a new workshop for you every week. This allows you to try what you learned with your family before building the next skill."
 msgstr ""
 
 #. type=template
 #. The string @global.weekly_workshop_options should not be translated.
 msgctxt "template"
-msgid "You can always change these settings in your @global.weekly_workshop_options ."
+msgid "You can always change these settings in your @global.weekly_workshop_options."
 msgstr ""
 
 #. type=template
@@ -3808,7 +4250,23 @@ msgstr ""
 #. type=template
 #. The string @global.weekly_workshop_options should not be translated.
 msgctxt "template"
-msgid "You always can change your workshop day and your group name in the @global.weekly_workshop_options ."
+msgid "You always can change your workshop day and your group name in the @global.weekly_workshop_options."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Some rules that other groups made:"
+msgstr ""
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "* Tuesday at 7pm is our @global.parent_app time together\n"
+"* Take turns holding the phone (1 activity per person)\n"
+"* Accept each other’s experiences. We are all different!\n"
+"* Take turns speaking and listening\n"
+"* All questions are welcome\n"
+"* What we share stays among us"
 msgstr ""
 
 #. type=template
@@ -3872,6 +4330,11 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Let's think of ways to spend one-on-one time with your teen."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "w_1on1_question_a"
 msgstr ""
 
 #. type=template
@@ -3947,14 +4410,6 @@ msgid "We’re sorry it’s a difficult day. We are proud of you for all you hav
 msgstr ""
 
 #. type=template
-#. The following strings should not be translated: 
-#.      @global.home_practice_problem_solving
-#.      @global.w_crisis
-msgctxt "template"
-msgid "@global.home_practice_problem_solving: @global.w_crisis"
-msgstr ""
-
-#. type=template
 msgctxt "template"
 msgid "Well done!"
 msgstr ""
@@ -3967,10 +4422,11 @@ msgid "CONGRATULATIONS! You have done it! You have built 11 important parenting 
 msgstr ""
 
 #. type=template
+#. The string @global.parent_app should not be translated.
 msgctxt "template"
 msgid "CONGRATULATIONS! You have done it! You have built 11 important parenting skills. \n\n"
 "This is a huge achievement. It shows such care for your family. \n\n"
-"Let’s celebrate you, and plan your future ParentApp support."
+"Let’s celebrate you, and plan your future @global.parent_app support."
 msgstr ""
 
 #. type=template
@@ -4006,7 +4462,42 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Reflect with Sbo"
+msgid "Reflect"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Listen and reflect"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Read and reflect"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Close eyes and relax.\n\n"
+"Think of your family life before you started your journey with this app.\n"
+"       \n"
+"Think back of skills you learned:\n"
+"* Self-care\n"
+"* One-on-one time\n"
+"* Praise\n"
+"* Positive instructions\n"
+"* Managing stress\n"
+"* Family budgeting\n"
+"* Rules\n"
+"* Calm consequences\n"
+"* Problem solving\n"
+"* Teen safety\n"
+"* Dealing with crisis\n\n"
+"Reflect on the journey – how was it for you to:\n"
+"* Share ideas and experiences\n"
+"* Reflect on and learn from the stories\n"
+"* Practice skills with your teen\n\n"
+"Did anything change for you and your family?\n\n"
+"What do you need to continue to use skills?"
 msgstr ""
 
 #. type=template
@@ -4070,6 +4561,13 @@ msgid "Share @global.parent_app and help other families start their journey."
 msgstr ""
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "You have been using @global.parent_app for the last months, but parenting a teen is long lasting!  The next questions about your parenting experiences will help us assess your parenting.\n\n"
+"Be honest. Remember that millions of parents feel like you do, and we all deserve support. You are not alone!"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Plan how you will support each other going forward. \n\n"
 "You can use the ideas from other families, or make up your own!"
@@ -4100,14 +4598,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Sorry that things are difficult right now. Take a deep breath and know that you are valued."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.home_practice_problem_solving
-#.      @global.w_rules
-msgctxt "template"
-msgid "@global.home_practice_problem_solving: @global.w_rules"
 msgstr ""
 
 #. type=template
@@ -4204,11 +4694,6 @@ msgid "Giving a consequence this way did not work well because..."
 msgstr ""
 
 #. type=template
-msgctxt "template"
-msgid "Why did giving a consequence this way not work well?"
-msgstr ""
-
-#. type=template
 #. The string @global.w_consequence_male_caregiver should not be translated.
 msgctxt "template"
 msgid "@global.w_consequence_male_caregiver was angry"
@@ -4231,6 +4716,11 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "The consequence was too strong"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Why did giving a consequence this way not work well?"
 msgstr ""
 
 #. type=template
@@ -4393,7 +4883,7 @@ msgstr ""
 #.      @global.w_consequence_teen_boy_1
 #.      @global.w_consequence_teen_boy_1
 msgctxt "template"
-msgid "@global.w_consequence_male_caregiver: \"I am concerned that you are often still coming home late, @global.w_consequence_teen_boy_1 . What can we do to help you remember to come home in time?\"\n\n"
+msgid "@global.w_consequence_male_caregiver: \"I am concerned that you are often still coming home late, @global.w_consequence_teen_boy_1. What can we do to help you remember to come home in time?\"\n\n"
 "@global.w_consequence_teen_boy_1: \"If I come home in time, maybe I can stay up 30 minutes later than usual?\""
 msgstr ""
 
@@ -4422,7 +4912,7 @@ msgstr ""
 #.      @global.w_consequence_male_caregiver
 msgctxt "template"
 msgid "@global.w_consequence_male_caregiver: \"You have to do your homework anyway. If you forget the rule, it is fair that you will not be able to see your friends the next day.\"\n\n"
-"@global.w_consequence_teen_boy_1: \"Okay, @global.w_consequence_male_caregiver .\""
+"@global.w_consequence_teen_boy_1: \"Okay, @global.w_consequence_male_caregiver.\""
 msgstr ""
 
 #. type=template
@@ -4471,7 +4961,7 @@ msgstr ""
 #.      @global.w_consequence_female_caregiver
 #.      @global.w_consequence_male_caregiver
 msgctxt "template"
-msgid "@global.w_consequence_teen_boy_1: “I am sorry I worried you and @global.w_consequence_female_caregiver .” \n\n"
+msgid "@global.w_consequence_teen_boy_1: “I am sorry I worried you and @global.w_consequence_female_caregiver.” \n\n"
 "@global.w_consequence_male_caregiver: “Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night.”"
 msgstr ""
 
@@ -4483,11 +4973,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Using a consequence worked well this time because..."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Why did using a consequence work well this time?"
 msgstr ""
 
 #. type=template
@@ -4522,6 +5007,11 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "The consequence was realistic and appropriate"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Why did using a consequence work well this time?"
 msgstr ""
 
 #. type=template
@@ -4605,14 +5095,6 @@ msgid "Sorry to hear you are feeling difficult feelings today. Well done for rec
 msgstr ""
 
 #. type=template
-#. The following strings should not be translated: 
-#.      @global.home_practice_problem_solving
-#.      @global.w_safe
-msgctxt "template"
-msgid "@global.home_practice_problem_solving: @global.w_safe"
-msgstr ""
-
-#. type=template
 msgctxt "template"
 msgid "Every small thing you do matters. We hope you are proud of yourself too."
 msgstr ""
@@ -4693,7 +5175,7 @@ msgstr ""
 #.      @global.w_crisis_female_caregiver
 #.      @global.w_crisis_teen_girl_1
 msgctxt "template"
-msgid "@global.w_crisis_teen_girl_1: \"Yesterday when you went to see @global.w_crisis_adult_friend . He just came and that’s when it happened.\"\n\n"
+msgid "@global.w_crisis_teen_girl_1: \"Yesterday when you went to see @global.w_crisis_adult_friend. He just came and that’s when it happened.\"\n\n"
 "@global.w_crisis_female_caregiver:  \"It’s okay, I believe you my child. This is a big thing and we will find a way to get the help we need. Where could we go for help?\"\n\n"
 "@global.w_crisis_teen_girl_1: \"My school?\""
 msgstr ""
@@ -4777,7 +5259,7 @@ msgstr ""
 #.      @global.w_crisis_male_caregiver_1
 #.      @global.w_crisis_teen_boy_1
 msgctxt "template"
-msgid "@global.w_crisis_male_caregiver_1: \"I am glad you are telling me about this, @global.w_crisis_teen_boy_1 . Let’s sit down together now and discuss whether we should involve the police or someone else to help.\""
+msgid "@global.w_crisis_male_caregiver_1: \"I am glad you are telling me about this, @global.w_crisis_teen_boy_1. Let’s sit down together now and discuss whether we should involve the police or someone else to help.\""
 msgstr ""
 
 #. type=template
@@ -4863,8 +5345,9 @@ msgid "Crisis 1: @global.w_crisis_teen_boy_2 fights at school"
 msgstr ""
 
 #. type=template
+#. The string @global.w_crisis_teen_boy_2 should not be translated.
 msgctxt "template"
-msgid "\"I’ve never done this before. And now they will expel me\""
+msgid "@global.w_crisis_teen_boy_2: \"I’ve never done this before. And now they will expel me\""
 msgstr ""
 
 #. type=template
@@ -4874,9 +5357,11 @@ msgid "Crisis 2: @global.w_crisis_teen_girl_1 gets pregnant"
 msgstr ""
 
 #. type=template
-#. The string @global.w_crisis_male_caregiver_1 should not be translated.
+#. The following strings should not be translated: 
+#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_male_caregiver_1
 msgctxt "template"
-msgid "\"@global.w_crisis_male_caregiver_1, I’m so ashamed. I don’t know what to do\""
+msgid "@global.w_crisis_teen_girl_1: \"@global.w_crisis_male_caregiver_1, I’m so ashamed. I don’t know what to do\""
 msgstr ""
 
 #. type=template
@@ -4886,9 +5371,11 @@ msgid "Crisis 3: @global.w_crisis_teen_boy_2 makes a girl pregnant"
 msgstr ""
 
 #. type=template
-#. The string @global.w_crisis_male_caregiver_2 should not be translated.
+#. The following strings should not be translated: 
+#.      @global.w_crisis_teen_boy_2
+#.      @global.w_crisis_male_caregiver_2
 msgctxt "template"
-msgid "\"@global.w_crisis_male_caregiver_2, I don’t want to have a baby\""
+msgid "@global.w_crisis_teen_boy_2: \"@global.w_crisis_male_caregiver_2, I don’t want to have a baby\""
 msgstr ""
 
 #. type=template
@@ -4919,9 +5406,11 @@ msgid "Crisis 5: @global.w_crisis_teen_girl_1 is pressured into sex by her boyfr
 msgstr ""
 
 #. type=template
-#. The string @global.w_crisis_female_caregiver should not be translated.
+#. The following strings should not be translated: 
+#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_female_caregiver
 msgctxt "template"
-msgid "\"I didn’t really want to. Now I will get pregnant or be ill. @global.w_crisis_female_caregiver, I’m so scared...\""
+msgid "@global.w_crisis_teen_girl_1: \"I didn’t really want to. Now I will get pregnant or be ill. @global.w_crisis_female_caregiver, I’m so scared...\""
 msgstr ""
 
 #. type=template
@@ -4973,14 +5462,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Whatever went ‘wrong’ today, let it go and try again tomorrow. It’s okay!"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.home_practice_problem_solving
-#.      @global.w_praise
-msgctxt "template"
-msgid "@global.home_practice_problem_solving: @global.w_praise"
 msgstr ""
 
 #. type=template
@@ -5168,7 +5649,7 @@ msgstr ""
 #.      @global.w_instruct_female_caregiver
 #.      @global.w_instruct_teen_girl
 msgctxt "template"
-msgid "@global.w_instruct_female_caregiver: \"Thank you for practicing outside while I finished cleaning, @global.w_instruct_teen_girl . Now I have some time to watch your dance.\""
+msgid "@global.w_instruct_female_caregiver: \"Thank you for practicing outside while I finished cleaning, @global.w_instruct_teen_girl. Now I have some time to watch your dance.\""
 msgstr ""
 
 #. type=template
@@ -5319,14 +5800,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Wonderful, I am so happy things are going well. Keep up the good work."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.home_practice_problem_solving
-#.      @global.w_stress
-msgctxt "template"
-msgid "@global.home_practice_problem_solving: @global.w_stress"
 msgstr ""
 
 #. type=template
@@ -5502,12 +5975,18 @@ msgid "Make a budget as one big family!"
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.currency
+#.      @local.monthly_income
+#.      @local.number_of_beans
+#.      @global.currency
+#.      @local.bean_value
 msgctxt "template"
 msgid "* One person will volunteer to share his/her list (If no one volunteers you can make a new list together) \n"
 "* Take roles - some will be adults, some will be teens. \n"
 "* Decide what your income is for the month.\n"
 "* Take some stones or beans or anything with lots of bits - this is your income for the month. \n"
-"(For example: If your income is $100, and you have 20 beans, each bean is $5.  \n"
+"(For example: If your income is @global.currency@local.monthly_income, and you have @local.number_of_beans beans, each bean is @global.currency@local.bean_value.)  \n"
 "* Decide together what you will spend on what, and put the stones/objects on that image. \n\n"
 "Not sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine!"
 msgstr ""
@@ -5518,10 +5997,16 @@ msgid "Make a budget as a family!"
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.currency
+#.      @local.monthly_income
+#.      @local.number_of_beans
+#.      @global.currency
+#.      @local.bean_value
 msgctxt "template"
 msgid "* Write down what your income is for the month.\n"
 "* Take some stones or beans or anything with lots of bits - this is your income for the month. \n"
-"(For example: If your income is $100, and you have 20 beans, each bean is $5.  \n"
+"(For example: If your income is @global.currency@local.monthly_income, and you have @local.number_of_beans beans, each bean is @global.currency@local.bean_value.)\n"
 "* Decide what you will spend on what, and put the stones/objects on that image. \n\n"
 "Not sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine!"
 msgstr ""
@@ -5577,7 +6062,7 @@ msgstr ""
 #. type=template
 #. The string @global.w_money_grandma should not be translated.
 msgctxt "template"
-msgid "We all have dreams for our family, just like @global.w_money_grandma . By setting aside a bit of money every month, you can realise them too!"
+msgid "We all have dreams for our family, just like @global.w_money_grandma. By setting aside a bit of money every month, you can realise them too!"
 msgstr ""
 
 #. type=template
@@ -5801,14 +6286,6 @@ msgid "Sorry to hear that you are not having a good day. Well done for getting u
 msgstr ""
 
 #. type=template
-#. The following strings should not be translated: 
-#.      @global.home_practice_problem_solving
-#.      @global.w_1on1
-msgctxt "template"
-msgid "@global.home_practice_problem_solving: @global.w_1on1"
-msgstr ""
-
-#. type=template
 msgctxt "template"
 msgid "Step 1: Share what went well and what was hard"
 msgstr ""
@@ -5936,10 +6413,11 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
+#.      @global.w_praise_female_caregiver_name
 #.      @global.w_praise_girl
 #.      @global.w_praise_teen_girl
 msgctxt "template"
-msgid "\"Thank you for doing your schoolwork, @global.w_praise_girl, and thank you for helping your sister,  @global.w_praise_teen_girl . I'm so proud of you!\""
+msgid "@global.w_praise_female_caregiver_name: \"Thank you for doing your schoolwork, @global.w_praise_girl, and thank you for helping your sister,  @global.w_praise_teen_girl. I'm so proud of you!\""
 msgstr ""
 
 #. type=template
@@ -6099,14 +6577,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Well done for recognising a difficult feeling. It’s okay not to be okay sometimes. Remember you are not alone."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.home_practice_problem_solving
-#.      @global.w_money
-msgctxt "template"
-msgid "@global.home_practice_problem_solving: @global.w_money"
 msgstr ""
 
 #. type=template
@@ -6382,7 +6852,7 @@ msgstr ""
 #.      @global.w_rules_female_caregiver_2
 msgctxt "template"
 msgid "@global.w_rules_female_caregiver_2: \"You are a really great dancer! Tell me about why you like it\"\n\n"
-"@global.w_rules_teen_girl: \"All my friends are on it, @global.w_rules_female_caregiver_2 . I have more than 600 likes and 120 followers.\""
+"@global.w_rules_teen_girl: \"All my friends are on it, @global.w_rules_female_caregiver_2. I have more than 600 likes and 120 followers.\""
 msgstr ""
 
 #. type=template
@@ -6391,7 +6861,7 @@ msgstr ""
 #.      @global.w_rules_teen_girl
 #.      @global.teen_social_medium
 msgctxt "template"
-msgid "@global.w_rules_female_caregiver_2: \"I’m proud of how well you dance, @global.w_rules_teen_girl . But we need to make sure you are safe. \n\n"
+msgid "@global.w_rules_female_caregiver_2: \"I’m proud of how well you dance, @global.w_rules_teen_girl. But we need to make sure you are safe. \n\n"
 "I know your friends look at @global.teen_social_medium, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.\""
 msgstr ""
 
@@ -6467,14 +6937,6 @@ msgid "Being a parent is hard. But it is amazing that you are using this app –
 msgstr ""
 
 #. type=template
-#. The following strings should not be translated: 
-#.      @global.home_practice_problem_solving
-#.      @global.w_solve
-msgctxt "template"
-msgid "@global.home_practice_problem_solving: @global.w_solve"
-msgstr ""
-
-#. type=template
 msgctxt "template"
 msgid "Doing any of these makes you a great parent."
 msgstr ""
@@ -6526,11 +6988,11 @@ msgstr ""
 #. The following strings should not be translated: 
 #.      @global.w_safe_teen_girl_1
 #.      @global.w_safe_teen_girl_2
-#.      @global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_3
 #.      @global.w_safe_female_caregiver
 #.      @global.w_safe_teen_girl_1
 msgctxt "template"
-msgid "@global.w_safe_teen_girl_1: \"Something happened when I was out with my friends @global.w_safe_teen_girl_2 and @global.w_safe_teen_girl_1!\"\n\n"
+msgid "@global.w_safe_teen_girl_1: \"Something happened when I was out with my friends @global.w_safe_teen_girl_2 and @global.w_safe_teen_girl_3!\"\n\n"
 "@global.w_safe_female_caregiver: \"Tell me, @global.w_safe_teen_girl_1\""
 msgstr ""
 
@@ -6749,8 +7211,7 @@ msgctxt "template"
 msgid "Sometimes, we can find ourselves in trouble. Discuss together:\n"
 " \n"
 "* Where can you and your teen get support when you face a crisis? \n"
-"     – MARK those areas with a little object like a stone or piece of paper.  \n\n"
-"Below are some places that can be helpful"
+"     – MARK those areas with a little object like a stone or piece of paper."
 msgstr ""
 
 #. type=template
@@ -6849,8 +7310,7 @@ msgstr ""
 msgctxt "template"
 msgid "Sometimes, we can find ourselves in trouble.\n"
 "* Where can you and your teen get support when you face a crisis? \n"
-"     – MARK those areas with a little object like a stone or piece of paper.  \n\n"
-"Below are some places that can be helpful"
+"     – MARK those areas with a little object like a stone or piece of paper."
 msgstr ""
 
 #. type=template
@@ -7247,7 +7707,7 @@ msgstr ""
 #. type=template
 #. The string @global.weekly_workshops should not be translated.
 msgctxt "template"
-msgid "Now that we have built some self-care skills, let’s make sure your @global.weekly_workshops are exactly right for you"
+msgid "Now that we have built some self-care skills, let’s make sure your @global.weekly_workshops are exactly right for you."
 msgstr ""
 
 #. type=template
@@ -7257,7 +7717,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "You seem to have completed the customisation process already. You can now skip this activity"
+msgid "You seem to have completed the customisation process already. You can now skip this activity."
 msgstr ""
 
 #. type=template
@@ -7311,14 +7771,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Sorry that things are not easy today. All parents have these days."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.home_practice_problem_solving
-#.      @global.w_consequence
-msgctxt "template"
-msgid "@global.home_practice_problem_solving: @global.w_consequence"
 msgstr ""
 
 #. type=template
@@ -7379,7 +7831,7 @@ msgstr ""
 #.      @global.w_solve_female_caregiver_1
 msgctxt "template"
 msgid "@global.w_solve_female_caregiver_1: “@global.w_solve_teen_girl, where did you get that thing?” \n\n"
-"@global.w_solve_teen_girl: “@global.w_solve_teen_boy_1 bought it for me. It’s a nice phone, @global.w_solve_female_caregiver_1 . It takes great photos!\""
+"@global.w_solve_teen_girl: “@global.w_solve_teen_boy_1 bought it for me. It’s a nice phone, @global.w_solve_female_caregiver_1. It takes great photos!\""
 msgstr ""
 
 #. type=template
@@ -7514,7 +7966,7 @@ msgstr ""
 #.      @global.w_solve_teen_boy_2
 #.      @global.w_solve_teen_boy_2
 msgctxt "template"
-msgid "@global.w_solve_female_caregiver_2: \"I am sorry to hear that but am glad that you told me, @global.w_solve_teen_boy_2 . It doesn’t mean that you can eat everybody’s dinner. After we speak, you need to go to the shop to buy some more bread. But first: What do you think we should do about the bully problem?\"\n\n"
+msgid "@global.w_solve_female_caregiver_2: \"I am sorry to hear that but am glad that you told me, @global.w_solve_teen_boy_2. It doesn’t mean that you can eat everybody’s dinner. After we speak, you need to go to the shop to buy some more bread. But first: What do you think we should do about the bully problem?\"\n\n"
 "@global.w_solve_teen_boy_2: \"Well… I want to just hit him or get him back.\""
 msgstr ""
 
@@ -7588,8 +8040,8 @@ msgstr ""
 #.      @global.w_solve_teen_boy_2
 #.      @global.w_solve_female_caregiver_2
 msgctxt "template"
-msgid "@global.w_solve_female_caregiver_2: \"I am sorry to hear that, @global.w_solve_teen_boy_2 . Shall I ask your uncle to go talk to his parents? If that does not work, we will try something else!\"\n\n"
-"@global.w_solve_teen_boy_2: \"Yes, thank you @global.w_solve_female_caregiver_2 . At least I know you are on my side.\""
+msgid "@global.w_solve_female_caregiver_2: \"I am sorry to hear that, @global.w_solve_teen_boy_2. Shall I ask your uncle to go talk to his parents? If that does not work, we will try something else!\"\n\n"
+"@global.w_solve_teen_boy_2: \"Yes, thank you @global.w_solve_female_caregiver_2. At least I know you are on my side.\""
 msgstr ""
 
 #. type=template
@@ -7745,14 +8197,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Sometimes things go great. Sometimes they don't. And sometimes we don't quite know what to think... and that's totally okay! Remember that you are not alone."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.home_practice_problem_solving
-#.      @global.w_instruct
-msgctxt "template"
-msgid "@global.home_practice_problem_solving: @global.w_instruct"
 msgstr ""
 
 #. type=template
@@ -7987,7 +8431,7 @@ msgstr ""
 #.      @global.w_stress_teen_boy_1
 msgctxt "template"
 msgid "@global.w_stress_teen_boy_1: “I can help out with looking for work, too, @global.w_stress_male_caregiver?”  \n\n"
-"@global.w_stress_male_caregiver: “No it’s okay, @global.w_stress_teen_boy_1 . I appreciate your offer. The most important thing is that you work hard at school. Thanks for listening to me.”"
+"@global.w_stress_male_caregiver: “No it’s okay, @global.w_stress_teen_boy_1. I appreciate your offer. The most important thing is that you work hard at school. Thanks for listening to me.”"
 msgstr ""
 
 #. type=template
@@ -8153,6 +8597,17 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
+msgid "fef8eebc2ac1817a"
+msgstr ""
+
+#. type=global
+#. The string @global.parent_app should not be translated.
+msgctxt "global"
+msgid "Your @global.parent_app Code"
+msgstr ""
+
+#. type=global
+msgctxt "global"
 msgid "Make me smile"
 msgstr ""
 
@@ -8162,20 +8617,18 @@ msgid "Get me going"
 msgstr ""
 
 #. type=global
-#. The string @global.weekly_workshop should not be translated.
 msgctxt "global"
-msgid "New @global.weekly_workshop ready tomorrow!"
-msgstr ""
-
-#. type=global
-#. The string @global.weekly_workshop! should not be translated.
-msgctxt "global"
-msgid "New @global.weekly_workshop!"
+msgid "New workshop ready tomorrow!"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Workshop reminder"
+msgid "New workshop!"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Workshop Reminder"
 msgstr ""
 
 #. type=global
@@ -8190,18 +8643,18 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Something fun"
+msgid "Something Fun"
 msgstr ""
 
 #. type=global
 #. The string @global.parent_points should not be translated.
 msgctxt "global"
-msgid "Your @global.parent_points"
+msgid "Your @global.parent_points this week"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Home practice reminder"
+msgid "Home Practice Reminder"
 msgstr ""
 
 #. type=global
@@ -8217,6 +8670,16 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "My challenge is not listed here."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Mother"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Father"
 msgstr ""
 
 #. type=global
@@ -8237,6 +8700,16 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Sending this message requires internet access. To limit data use, send this message when on WiFi."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "10-17"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "18+"
 msgstr ""
 
 #. type=global
@@ -8272,6 +8745,11 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Parent Library"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "In-Week Messages"
 msgstr ""
 
 #. type=global
@@ -8316,6 +8794,11 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
+msgid "Done"
+msgstr ""
+
+#. type=global
+msgctxt "global"
 msgid "Next"
 msgstr ""
 
@@ -8326,118 +8809,77 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Help"
+msgid "Challenges & solutions"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "My Tips"
+msgid "Save"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Essential Tools"
+msgid "My Favourite Relaxes"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "COVID"
+msgid "All Relaxes"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Relax & Activities"
-msgstr ""
-
-#. type=global
-#. The string @global.parent_app should not be translated.
-msgctxt "global"
-msgid "Customise @global.parent_app"
+msgid "Random Relax"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Customise Again"
+msgid "This Week's Relax"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Support Contacts"
+msgid "Listen & Relax (1-2 minutes)"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Evidence Base"
+msgid "Listen & Relax (3-5 minutes)"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Technical Support"
+msgid "Do & Relax (5-10 minutes)"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Favourite relaxes"
+msgid "My Favourite Activities"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "All relaxes"
+msgid "All Activities"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Random relax"
+msgid "Random Activity"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "This week's relax"
+msgid "This Week's Activity"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Listen & relax (1-2 minutes)"
+msgid "Chat Together"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Listen & relax (3-5 minutes)"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Do & relax (5-10 minutes)"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Favourite activities"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "All activities"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Random activity"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "This week's activity"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Chat together"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Do together"
+msgid "Do Together"
 msgstr ""
 
 #. type=global
@@ -8652,6 +9094,11 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
+msgid "I've understood this. Don't show me this message again."
+msgstr ""
+
+#. type=global
+msgctxt "global"
 msgid "Welcome and Self-Care"
 msgstr ""
 
@@ -8811,21 +9258,6 @@ msgctxt "global"
 msgid "friends"
 msgstr ""
 
-#. type=global
-msgctxt "global"
-msgid "friday"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "alone"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Value of the first debug variable"
-msgstr ""
-
 #. type=tour
 #. The string @global.parent_app should not be translated.
 msgctxt "tour"
@@ -8943,66 +9375,6 @@ msgstr ""
 #. type=tour
 msgctxt "tour"
 msgid "<p> Tap here to change your group name. </p>"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Start"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Continue"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Welcome to ParentApp. Click here to start your journey!"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "New message from PLH"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
 msgstr ""
 
 #. type=data_list
@@ -9251,14 +9623,14 @@ msgid "COVID"
 msgstr ""
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Relax & Activities"
-msgstr ""
-
-#. type=data_list
 #. The string @global.parent_app should not be translated.
 msgctxt "data_list"
 msgid "Customise @global.parent_app"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Relax & Activities"
 msgstr ""
 
 #. type=data_list
@@ -9274,6 +9646,11 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Technical Support"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Message Archive"
 msgstr ""
 
 #. type=data_list
@@ -9373,12 +9750,12 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Great to hear it went well! This can help keep your teen safe!"
+msgid "Great to hear it went well! Talking about risks and support options prevents problems and really helps to keep your teen safe."
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Sorry that this has been hard. Try to do this with your teen again later, and maybe involve some other family members to help give ideas!"
+msgid "Sorry that this was hard. Mapping risks and places to get support can be challenging and emotional. It really does help to keep your teen safe!"
 msgstr ""
 
 #. type=data_list
@@ -9389,6 +9766,11 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Great to hear it went well! Getting consequences right helps teens behave better and makes family life calmer."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Great to hear it went well! When your teen learns how to solve problems, they can use that skill their whole life. What a gift!"
 msgstr ""
 
 #. type=data_list
@@ -9508,7 +9890,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Angry? Take a break."
+msgid "Angry? Take a break"
 msgstr ""
 
 #. type=data_list
@@ -9528,7 +9910,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "How to add self-care"
+msgid "How to do self-care"
 msgstr ""
 
 #. type=data_list
@@ -9696,387 +10078,63 @@ msgctxt "data_list"
 msgid "How to support each other"
 msgstr ""
 
-#. type=template
-msgctxt "template"
-msgid "Unlock workshops"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.workshop_data.title
-#.      @local.workshop_data.title
-#.      @global.parent_centre
-msgctxt "template"
-msgid "We will need to cover other parenting issues before we can start working on @local.workshop_data.title.\n\n"
-"You can get essential tools on @local.workshop_data.title via the @global.parent_centre."
-msgstr ""
-
-#. type=template
-#. The string @data.parent_centre.relax_and_activities.location_text should not be translated.
-msgctxt "template"
-msgid "This is perfect! If you need any inspiration, you can find suggestions for activities @data.parent_centre.relax_and_activities.location_text. Remember, let your teen choose the activity!"
-msgstr ""
-
-#. type=template
-#. The string @data.parent_centre.relax_and_activities.location_text should not be translated.
-msgctxt "template"
-msgid "That’s perfect! If you need any inspiration, you can find suggestions for activities @data.parent_centre.relax_and_activities.location_text. Remember, let your teen choose the activity!"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshop
-#.      @data.parent_centre.relax_and_activities.location_text
-msgctxt "template"
-msgid "It is difficult to come up with instructions while we are still angry. Try and find a time when you are calm to introduce a positive instruction to your teen. \n\n"
-"In the next @global.weekly_workshop, we’ll talk more about how we can manage our emotions!  You can find more relaxation activities @data.parent_centre.relax_and_activities.location_text."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.currency
-#.      @global.monthly_income_estimate
-#.      @global.currency
-#.      @global.monthly_income_precise
-msgctxt "template"
-msgid "You don’t have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have @global.currency@global.monthly_income_estimate every month” rather than, “I make @global.currency@global.monthly_income_precise”."
-msgstr ""
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "You deserve some praise, too. Thank you again for using @global.parent_app. It shows you really care!"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @fields.user_name
-#.      @local.workshop_data.in_text_title
-msgctxt "template"
-msgid "Hi @fields.user_name. Your @local.workshop_data.in_text_title is ready for you."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @fields.group_name
-#.      @local.workshop_data.in_text_title
-msgctxt "template"
-msgid "Hi @fields.group_name. Your @local.workshop_data.in_text_title is ready for you."
-msgstr ""
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "It’s great that you’ve been using @global.parent_app. You’ve gained 6 parenting tools already! \n\n"
-"Take the next workshop to get another parenting tool!"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @field.user_name
-#.      @global.parent_app
-msgctxt "template"
-msgid "Hi @field.user_name! You are starting your second month of using @global.parent_app. Amazing! \n\n"
-"Almost every family struggles with money issues, therefore, this week’s workshop will give you a tool that will help you to plan your expenses so you can have enough money to get through the month."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @field.group_name
-#.      @global.parent_app
-msgctxt "template"
-msgid "Hi @field.group_name! You are starting your second month of using @global.parent_app. Amazing! \n\n"
-"Almost every family struggles with money issues, therefore, this week’s workshop will give you a tool that will help you to plan your expenses so you can have enough money to get through the month."
-msgstr ""
-
-#. type=template
-#. The string @global.parent_centre should not be translated.
-msgctxt "template"
-msgid "Here are this week’s takeaway skills! \n\n"
-"Use them at home and find them anytime in your @global.parent_centre."
-msgstr ""
-
-#. type=template
-#. The string @global.parent_centre should not be translated.
-msgctxt "template"
-msgid "It can be challenging to keep your teen safe in COVID! We are putting together some advice - you will soon be able to access it in the @global.parent_centre."
-msgstr ""
-
-#. type=template
-#. The string @global.parent_centre should not be translated.
-msgctxt "template"
-msgid "That’s great. We are putting together some advice for keeping your teen safe in COVID - you will soon be able to access it in the @global.parent_centre."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshops
-#.      @data.parent_centre.my_tips.location_text
-msgctxt "template"
-msgid "Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. To look after yourselves and help you feel calmer when things get tough, we’ll remind you every day to relax, recognise and reward yourself. You matter!\n\n"
-"We will learn more about managing stress in week 5 of the @global.weekly_workshops, but you can already access some helpful tools under @data.parent_centre.my_tips.location_text to get started."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshops
-#.      @data.parent_centre.my_tips.location_text
-msgctxt "template"
-msgid "This is a real concern for parents everywhere. We’ll make sure you get support with building communication. \n\n"
-"We’ll talk more about planning for your teen’s safety later in the @global.weekly_workshops, but you can already access some first core tips to keep your teen safe under @data.parent_centre.my_tips.location_text!"
-msgstr ""
-
-#. type=template
-#. The string @global.weekly_workshop_options should not be translated.
-msgctxt "template"
-msgid "You can always change these settings in your @global.weekly_workshop_options."
-msgstr ""
-
-#. type=template
-#. The string @global.weekly_workshop_options should not be translated.
-msgctxt "template"
-msgid "You always can change your workshop day and your group name in the @global.weekly_workshop_options."
-msgstr ""
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "CONGRATULATIONS! You have done it! You have built 11 important parenting skills. \n\n"
-"This is a huge achievement. It shows such care for your family. \n\n"
-"Let’s celebrate you, and plan your future @global.parent_app support."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_consequence_male_caregiver
-#.      @global.w_consequence_teen_boy_1
-#.      @global.w_consequence_teen_boy_1
-msgctxt "template"
-msgid "@global.w_consequence_male_caregiver: \"I am concerned that you are often still coming home late, @global.w_consequence_teen_boy_1. What can we do to help you remember to come home in time?\"\n\n"
-"@global.w_consequence_teen_boy_1: \"If I come home in time, maybe I can stay up 30 minutes later than usual?\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_consequence_male_caregiver
-#.      @global.w_consequence_teen_boy_1
-#.      @global.w_consequence_male_caregiver
-msgctxt "template"
-msgid "@global.w_consequence_male_caregiver: \"You have to do your homework anyway. If you forget the rule, it is fair that you will not be able to see your friends the next day.\"\n\n"
-"@global.w_consequence_teen_boy_1: \"Okay, @global.w_consequence_male_caregiver.\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_consequence_teen_boy_1
-#.      @global.w_consequence_female_caregiver
-#.      @global.w_consequence_male_caregiver
-msgctxt "template"
-msgid "@global.w_consequence_teen_boy_1: “I am sorry I worried you and @global.w_consequence_female_caregiver.” \n\n"
-"@global.w_consequence_male_caregiver: “Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night.”"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_crisis_teen_girl_1
-#.      @global.w_crisis_adult_friend
-#.      @global.w_crisis_female_caregiver
-#.      @global.w_crisis_teen_girl_1
-msgctxt "template"
-msgid "@global.w_crisis_teen_girl_1: \"Yesterday when you went to see @global.w_crisis_adult_friend. He just came and that’s when it happened.\"\n\n"
-"@global.w_crisis_female_caregiver:  \"It’s okay, I believe you my child. This is a big thing and we will find a way to get the help we need. Where could we go for help?\"\n\n"
-"@global.w_crisis_teen_girl_1: \"My school?\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_crisis_male_caregiver_1
-#.      @global.w_crisis_teen_boy_1
-msgctxt "template"
-msgid "@global.w_crisis_male_caregiver_1: \"I am glad you are telling me about this, @global.w_crisis_teen_boy_1. Let’s sit down together now and discuss whether we should involve the police or someone else to help.\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_crisis_teen_girl_1
-#.      @global.w_crisis_male_caregiver_1
-msgctxt "template"
-msgid "@global.w_crisis_teen_girl_1: \"@global.w_crisis_male_caregiver_1, I’m so ashamed. I don’t know what to do\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_crisis_teen_boy_2
-#.      @global.w_crisis_male_caregiver_2
-msgctxt "template"
-msgid "@global.w_crisis_teen_boy_2: \"@global.w_crisis_male_caregiver_2, I don’t want to have a baby\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_crisis_teen_girl_1
-#.      @global.w_crisis_female_caregiver
-msgctxt "template"
-msgid "@global.w_crisis_teen_girl_1: \"I didn’t really want to. Now I will get pregnant or be ill. @global.w_crisis_female_caregiver, I’m so scared...\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_instruct_female_caregiver
-#.      @global.w_instruct_teen_girl
-msgctxt "template"
-msgid "@global.w_instruct_female_caregiver: \"Thank you for practicing outside while I finished cleaning, @global.w_instruct_teen_girl. Now I have some time to watch your dance.\""
-msgstr ""
-
-#. type=template
-#. The string @global.w_money_grandma should not be translated.
-msgctxt "template"
-msgid "We all have dreams for our family, just like @global.w_money_grandma. By setting aside a bit of money every month, you can realise them too!"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_praise_female_caregiver_name
-#.      @global.w_praise_girl
-#.      @global.w_praise_teen_girl
-msgctxt "template"
-msgid "@global.w_praise_female_caregiver_name: \"Thank you for doing your schoolwork, @global.w_praise_girl, and thank you for helping your sister,  @global.w_praise_teen_girl. I'm so proud of you!\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_rules_female_caregiver_2
-#.      @global.w_rules_teen_girl
-#.      @global.w_rules_female_caregiver_2
-msgctxt "template"
-msgid "@global.w_rules_female_caregiver_2: \"You are a really great dancer! Tell me about why you like it\"\n\n"
-"@global.w_rules_teen_girl: \"All my friends are on it, @global.w_rules_female_caregiver_2. I have more than 600 likes and 120 followers.\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_rules_female_caregiver_2
-#.      @global.w_rules_teen_girl
-#.      @global.teen_social_medium
-msgctxt "template"
-msgid "@global.w_rules_female_caregiver_2: \"I’m proud of how well you dance, @global.w_rules_teen_girl. But we need to make sure you are safe. \n\n"
-"I know your friends look at @global.teen_social_medium, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens.\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_safe_teen_girl_1
-#.      @global.w_safe_teen_girl_2
-#.      @global.w_safe_teen_girl_3
-#.      @global.w_safe_female_caregiver
-#.      @global.w_safe_teen_girl_1
-msgctxt "template"
-msgid "@global.w_safe_teen_girl_1: \"Something happened when I was out with my friends @global.w_safe_teen_girl_2 and @global.w_safe_teen_girl_3!\"\n\n"
-"@global.w_safe_female_caregiver: \"Tell me, @global.w_safe_teen_girl_1\""
-msgstr ""
-
-#. type=template
-#. The string @global.weekly_workshops should not be translated.
-msgctxt "template"
-msgid "Now that we have built some self-care skills, let’s make sure your @global.weekly_workshops are exactly right for you."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "You seem to have completed the customisation process already. You can now skip this activity."
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_solve_female_caregiver_1
-#.      @global.w_solve_teen_girl
-#.      @global.w_solve_teen_girl
-#.      @global.w_solve_teen_boy_1
-#.      @global.w_solve_female_caregiver_1
-msgctxt "template"
-msgid "@global.w_solve_female_caregiver_1: “@global.w_solve_teen_girl, where did you get that thing?” \n\n"
-"@global.w_solve_teen_girl: “@global.w_solve_teen_boy_1 bought it for me. It’s a nice phone, @global.w_solve_female_caregiver_1. It takes great photos!\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_solve_female_caregiver_2
-#.      @global.w_solve_teen_boy_2
-#.      @global.w_solve_teen_boy_2
-msgctxt "template"
-msgid "@global.w_solve_female_caregiver_2: \"I am sorry to hear that but am glad that you told me, @global.w_solve_teen_boy_2. It doesn’t mean that you can eat everybody’s dinner. After we speak, you need to go to the shop to buy some more bread. But first: What do you think we should do about the bully problem?\"\n\n"
-"@global.w_solve_teen_boy_2: \"Well… I want to just hit him or get him back.\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_solve_female_caregiver_2
-#.      @global.w_solve_teen_boy_2
-#.      @global.w_solve_teen_boy_2
-#.      @global.w_solve_female_caregiver_2
-msgctxt "template"
-msgid "@global.w_solve_female_caregiver_2: \"I am sorry to hear that, @global.w_solve_teen_boy_2. Shall I ask your uncle to go talk to his parents? If that does not work, we will try something else!\"\n\n"
-"@global.w_solve_teen_boy_2: \"Yes, thank you @global.w_solve_female_caregiver_2. At least I know you are on my side.\""
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.w_stress_teen_boy_1
-#.      @global.w_stress_male_caregiver
-#.      @global.w_stress_male_caregiver
-#.      @global.w_stress_teen_boy_1
-msgctxt "template"
-msgid "@global.w_stress_teen_boy_1: “I can help out with looking for work, too, @global.w_stress_male_caregiver?”  \n\n"
-"@global.w_stress_male_caregiver: “No it’s okay, @global.w_stress_teen_boy_1. I appreciate your offer. The most important thing is that you work hard at school. Thanks for listening to me.”"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Workshop Reminder"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Something Fun"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Random Relax"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Listen & Relax (1-2 minutes)"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Listen & Relax (3-5 minutes)"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Do & Relax (5-10 minutes)"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "All Activities"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Random Activity"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Chat Together"
+#. type=data_list
+msgctxt "data_list"
+msgid "Start"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Angry? Take a break"
+msgid "Continue"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Welcome to ParentApp. Click here to start your journey!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New message from PLH"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
 msgstr ""
 
