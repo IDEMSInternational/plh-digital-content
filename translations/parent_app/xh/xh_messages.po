@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2021-10-15 13:54\n"
+"PO-Revision-Date: 2021-10-18 15:50\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -365,7 +365,7 @@ msgstr "Yongeza lo msebenzi kwi-@global.my_activities"
 #. type=template
 msgctxt "template"
 msgid "Relaxation activities"
-msgstr "Izinto ezenziwayo xa kupholiwe"
+msgstr "Izenzo zokuzipholisa"
 
 #. type=template
 msgctxt "template"
@@ -376,7 +376,7 @@ msgstr "Izinto ezonwabisayo onokuzenza nomntwana wakho ofikisayo"
 #. The string @global.my_relaxes should not be translated.
 msgctxt "template"
 msgid "You have not added any relaxation activities to @global.my_relaxes yet. Why don't you choose some?"
-msgstr "Awukafaki nto eyenziwayo xa kupholiwe kwi @global.my_relaxes. Kutheni ungakhethi ezimbalwa?"
+msgstr "Awukafaki nto eyenziwayo malunga nezenzo zokuzipholisa kwi @global.my_relaxes. Kutheni ungakhethi ezimbalwa?"
 
 #. type=template
 #. The string @global.my_activities should not be translated.
@@ -573,7 +573,7 @@ msgid ""
 msgstr ""
 "Kubakho imiceli-mngeni kubazali abaninzi xa bechitha ixesha kunye nabantwana babo abafikisayo. \n"
 "\n"
-"Nantsi imiceli-mngeni ezi-8 abazali abaye basixelela zona ngaphambili ukuba bahlangabezana nazo xa beceba okanye bechitha ixesha kunye nabantwana babo abafikisayo. Ukuba nawe ukhe wanayo okanye unoloyiko lokuba uza kuba nayo, cofa kuye uze ufumane isicombululo. Ungacofa uze engene kweminye imiceli-mngeni emva koko."
+"Nantsi imiceli-mngeni esi-8 abazali abaye basixelela ngayo nabathi bahlangabezane nayo xa beceba okanye bechitha ixesha kunye nabantwana babo abafikisayo. Ukuba nawe ukhe wanayo okanye unoloyiko lokuba uza kuba nayo, cofa kuyo uze ufumane isicombululo. Ungacofa uze uqwalasele eminye imiceli-mngeni emva koko."
 
 #. type=template
 msgctxt "template"
@@ -902,9 +902,9 @@ msgid ""
 "\n"
 "Check to make sure your consequence is fair and reasonable. Listen to your teen’s explanation, and make sure to give a “Safety Amnesty” if they broke a rule in order to stay safe."
 msgstr ""
-"Xa umntwana wakho ofikisayo esiba nomsindo, kusenokufuneka umshiye yedwa nide nehle umsindo nobabini. \n"
+"Xa umntwana wakho ofikisayo esiba nomsindo, kusenokufuneka umshiye yedwa ude wehle umsindo kuni nobabini. \n"
 "\n"
-"Hlola ukuba umphumo awufumanayo usengqiqweni kanye unobulungisa. Mamela umntwana wakho ofikisayo xa ecacisa uze uqinisekise ukuba kukho “Uxolelo yemeko Yokhuseleko” ukuba akawuthobelanga umthetho kuba efuna ukukhuseleka."
+"Hlola ukuba umphumo awufumanayo usengqiqweni kanye unobulungisa. Mamela umntwana wakho ofikisayo xa ecacisa uze uqinisekise ukuba kukho “Uxolelo kwimeko Yokhuseleko” ukuba akawuthobelanga umthetho kuba efuna ukukhuseleka."
 
 #. type=template
 msgctxt "template"
@@ -1148,7 +1148,7 @@ msgstr "Kuhle gqitha! Ngokuncedisana ngeembopheleleko, uza kuba nexesha elinga
 #. type=template
 msgctxt "template"
 msgid "Yes, it takes some time to get used to giving positive instructions – it’s really worth trying again! Think about the behaviour you would love to see your teen do more and think of positive ways to give that instruction!"
-msgstr "Ewe, kuthatha ixesha ukuqhelana nokunika imiyalelo ekhuthazayo – akulo lize ukuzama kwakhona! Cinga ngendlela yokuziphatha ongathanda ukuyibona kumntwana wakho uze ucinge ngeendlela ezikhuthazayo zokumnika loo myalelo!"
+msgstr "Ewe, kuthatha ixesha ukuqhelana nokunika imiyalelo ekhuthazayo – akulolize ukuzama kwakhona! Cinga ngendlela yokuziphatha ongathanda ukuyibona kumntwana wakho uze ucinge ngeendlela ezikhuthazayo zokumnika loo myalelo!"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -1162,7 +1162,7 @@ msgid ""
 msgstr ""
 "Kunzima ukucinga ngemiyalelo ngoxa sisenomsindo. Zama ukufumana ixesha ozole ngalo uze unike umntwana wakho ofikisayo umyalelo okhuthazayo. \n"
 "\n"
-"Kwi-@global.weekly_workshop elandelayo, siza kuthetha ngakumlwbi ngendlela yokulawula iimvakalelo zethu!  Ungafumana izinto zokuphola ezingakumbi kwi-@data.parent_centre.relax_and_activities.location_text."
+"Kwi-@global.weekly_workshop elandelayo, siza kuthetha ngakumbi malunga nendlela yokulawula iimvakalelo zethu!  Ungafumana izinto zokuphola ezingakumbi kwi-@data.parent_centre.relax_and_activities.location_text."
 
 #. type=template
 #. The string @data.habit.money.in_text_title should not be translated.
@@ -1214,7 +1214,7 @@ msgstr "Bendingafuni ukuxelela intsapho yam ukuba ndamkela malini."
 #.      @global.monthly_income_precise
 msgctxt "template"
 msgid "You don’t have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have @global.currency@global.monthly_income_estimate every month” rather than, “I make @global.currency@global.monthly_income_precise”."
-msgstr "Awunyanzelekanga uchaze ngqo imali oyamkelayo; unokuchaza inani eliqIkelelwayo. Usenokuthi, “Apha ekhaya sine @global.currency@global.monthly_income_estimate qho ngenyanga” endaweni yokuthi, “Ndamkela @global.currency@global.monthly_income_precise”."
+msgstr "Awunyanzelekanga uchaze ngqo imali oyamkelayo; unokuchaza inani eliqikelelwayo. Usenokuthi, “Apha ekhaya sine @global.currency@global.monthly_income_estimate qho ngenyanga” endaweni yokuthi, “Ndamkela @global.currency@global.monthly_income_precise”."
 
 #. type=template
 msgctxt "template"
@@ -1563,7 +1563,7 @@ msgstr "Ndiye ndanomsido xa bekuvela ingxaki ndaza ndalibala ukusebenzisa amanya
 #. type=template
 msgctxt "template"
 msgid "When a problem comes up, we all get angry or stressed sometimes. Remember, when you feel angry or stressed, you can take a pause to help you stay calm and then solve the problem you are facing."
-msgstr "Xa kuvela ingxaki, ngamanye amaxesha sonke siye sibe nomsindo okanye sibe noxinezeleko. Ukhumbule ukuba xa uziva unomsindo okanye ucaphukile, ungathatha ikhefu ukuze likuncede uhlale uzolile uze usombulule ingxaki onayo."
+msgstr "Xa kuvela ingxaki, ngamanye amaxesha sonke siye sibe nomsindo okanye sibe noxinezeleko. Khumbula, ukuba xa uziva unomsindo okanye ucaphukile, ungathatha ikhefu ukuze likuncede uhlale uzolile uze usombulule ingxaki onayo."
 
 #. type=template
 msgctxt "template"
@@ -1573,7 +1573,7 @@ msgstr "Umtwana wam ofikisayo uye wanomsindo kwaye khange afune ukuthetha ngengx
 #. type=template
 msgctxt "template"
 msgid "Your teen might be too overwhelmed to deal with the problem right away. Recognise and name their emotions, and create a time later in the day or week to discuss and solve the problem together. By giving your teen time, the problem can be solved well."
-msgstr "Umntwana wakho unokunzinyelwa ukujongana nengxaki ngoko nangoko. Qaphela uze uyazi indlela avakalelwa ngayo, uze wenze ixesha kamva kwangolo suku okanye kulo veki ukuze nithethe nize niyisombulule kunye ingxaki. Ngokwenza ixesha nomntwana wakho ofikisayo, ingxaki ingasonjululwa kakuhle."
+msgstr "Umntwana wakho unokunzinyelwa kukujongana nengxaki ngoko nangoko. Qaphela uze uyazi indlela avakalelwa ngayo, uze wenze ixesha kamva kwangolo suku okanye kuloo veki ukuze nithethe nize niyisombulule kunye ingxaki. Ngokwenza ixesha nomntwana wakho ofikisayo, ingxaki ingasonjululwa kakuhle."
 
 #. type=template
 #. The string @data.habit.breathe.in_text_title should not be translated.
@@ -1594,7 +1594,7 @@ msgstr "Kuhambe njani oku?"
 #. type=template
 msgctxt "template"
 msgid "Your goal was also to talk to your teen about how you both felt in a stressful situation."
-msgstr "Injongo yakho ibikukuthetha kunye nomntwana wakho ofikisayo maluga nendlela eniye navakalelwa ngayo kwimeko ebangela uxinezeleko."
+msgstr "Injongo yakho ibikukuthetha kunye nomntwana wakho ofikisayo malunga nendlela eniye navakalelwa ngayo kwimeko ebangela uxinezeleko."
 
 #. type=template
 msgctxt "template"
@@ -1604,7 +1604,7 @@ msgstr "Ihambe njani le nto?"
 #. type=template
 msgctxt "template"
 msgid "Did you experience any of these challenges when sharing how you feel with your teen?"
-msgstr "Ngaba uye wahlangabezana noluye lwale micelo-mngeni xa ubuthetha ngendlela ovakalelwa ngayo emntwaneni wakho ofikisayo?"
+msgstr "Ngaba uye wahlangabezana nolunye lwale micelo-mngeni xa ubuthetha ngendlela ovakalelwa ngayo emntwaneni wakho ofikisayo?"
 
 #. type=template
 msgctxt "template"
@@ -1654,7 +1654,7 @@ msgstr "Ukuthetha ngeemvakalelo kunceda umntwana wakho ofikisayo azazi aze afund
 #. type=template
 msgctxt "template"
 msgid "I was too stressed or angry to try sharing my feelings – I prefer to be alone when I feel like that."
-msgstr "Bendixinezeleke okanye ndinomsindo kakhulu ukuba ndingathetha ngeemvakalelo zam – ndithanda ukuba ndibe ndodwa xa ndivakalelwa ngalaa ndlela."
+msgstr "Bendixinezeleke gqitha okanye ndinomsindo kakhulu ukuba ndingathetha ngeemvakalelo zam – ndithanda ukuba ndibe ndodwa xa ndivakalelwa ngalaa ndlela."
 
 #. type=template
 msgctxt "template"
@@ -1813,7 +1813,7 @@ msgid ""
 "\n"
 "This workshop will show you how."
 msgstr ""
-"Molo @field.user_name! Ingxaki inokwehlela nabani - ukuyilungela kunceda kakhulu. \n"
+"Molo @field.user_name! Ingxaki enkulu inokwehlela nabani - ukuyilungela kunceda kakhulu. \n"
 "\n"
 "Olu qeqesho luza kukubonisa indlela yokwenza loo nto."
 
@@ -1825,7 +1825,7 @@ msgid ""
 "\n"
 "This workshop will show you how."
 msgstr ""
-"Molo @field.group_name! Ingxaki inokwehlela nabani - ukuyilungela kunceda kakhulu. \n"
+"Molo @field.group_name! Ingxaki enkulu inokwehlela nabani - ukuyilungela kunceda kakhulu. \n"
 "\n"
 "Olu qeqesho luza kukubonisa indlela yokwenza loo nto."
 
@@ -2375,7 +2375,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Your commitment is an inspiration to everyone. Keep calm and carry on!"
-msgstr "Ukuzimisela kwakho kulukhuthazo kuye wonke umntu. Khawuzole uze uqhubekeke!"
+msgstr "Ukuzimisela kwakho kulukhuthazo kuye wonke umntu. Qhubeka uzolile uze uqhubekeke!"
 
 #. type=template
 msgctxt "template"
@@ -2429,7 +2429,7 @@ msgstr ""
 #. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
 msgid "Great that you completed the @local.workshop_data.in_text_title. Tomorrow, a new workshop is unlocked to help you keep your teen safe."
-msgstr "Kuhle xa ugqibe i@local.workshop_data.in_text_title. Ngomso, uqeqsho olutsha luvuliwe ukuze lukuncede ugcine umntwana wakho ofikisayo ekhuselekile."
+msgstr "Kuhle xa ugqibe i@local.workshop_data.in_text_title. Ngomso, uqeqesho olutsha luvuliwe ukuze lukuncede ugcine umntwana wakho ofikisayo ekhuselekile."
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2443,7 +2443,7 @@ msgid ""
 msgstr ""
 "Molo @field.user_name! Sivuyisana nawe ngokuqala iveki 5 kwi-@global.parent_app.\n"
 "\n"
-"Uqeqesho olutsha lokuba ngumzali lukulindela kwaye lunamacebiso endlela yokuhlala uzolile ibe uzibambile xa abantwana bethu abafikisayo besicaphukisa."
+"Uqeqesho olutsha lokuba ngumzali lukulindele kwaye lunamacebiso endlela yokuhlala uzolile ibe usemandleni xa abantwana bethu abafikisayo besicaphukisa."
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2457,7 +2457,7 @@ msgid ""
 msgstr ""
 "Molo @field.group_name! Sivuyisana nawe ngokuqala iveki 5 kwi-@global.parent_app.\n"
 "\n"
-"Uqeqesho olutsha lokuba ngumzali lukulindela kwaye lunamacebiso endlela yokuhlala uzolile ibe uzibambile xa abantwana bethu abafikisayo besicaphukisa."
+"Uqeqesho olutsha lokuba ngumzali lukulindele kwaye lunamacebiso endlela yokuhlala uzolile ibe uzibambile xa abantwana bethu abafikisayo besicaphukisa."
 
 #. type=template
 msgctxt "template"
@@ -2489,7 +2489,7 @@ msgstr "Unjani umlinganiselo woxinezeleko lwakho kule veki? Zama ukutsala umoya 
 #. type=template
 msgctxt "template"
 msgid "Well done for taking a big breath before responding to your teen! Each time you are taking a pause, you are getting back control."
-msgstr "Usebenzile ngokutsala umoya ngaphambi kokusabela kumntwana wakho ofikisayo! Qho wenza unqumamo, uye ukwazi ukuzibamba."
+msgstr "Usebenzile ngokutsala umoya ngaphambi kokusabela kumntwana wakho ofikisayo! Qho xa usenza unqumamo, uye ukwazi ukuzibamba."
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2588,7 +2588,7 @@ msgstr "Ziqhwabele izandla. Ukufanele oku."
 #. The string @global.parent_point should not be translated.
 msgctxt "template"
 msgid "Every @global.parent_point counts!"
-msgstr "Um@global.parent_point ngamnye uyabala!"
+msgstr "I@global.parent_point nganye uyabala!"
 
 #. type=template
 msgctxt "template"
@@ -2615,7 +2615,7 @@ msgid ""
 msgstr ""
 "Nazi izakhono eziphambili kule veki! \n"
 "\n"
-"Zisebezise xa usekhaya kwaye ungazifumana nanini na kwi-@global.parent_centre yakho."
+"Zisebenzise xa usekhaya kwaye ungazifumana nanini na kwi-@global.parent_centre yakho."
 
 #. type=template
 msgctxt "template"
@@ -2630,7 +2630,7 @@ msgstr "Izenzo ezincinane, iziphumo ezinkulu! Abazali abaqhelisela izakhono zabo
 #. type=template
 msgctxt "template"
 msgid "Next week, you’ll share with your group how your home practice went. You can also support and remind each other during the week."
-msgstr "Kwiveki ezayo, uza kuxelela iqela lakho ukuba zihambe njani izito xa ubuqhelisela ekhaya. Ebudeni beveki, ninako nokukhumbuzana nize nixhasane."
+msgstr "Kwiveki ezayo, uza kuxelela iqela lakho ukuba zihambe njani izinto xa ubuqhelisela ekhaya. Ebudeni beveki, ninako nokukhumbuzana nize nixhasane."
 
 #. type=template
 msgctxt "template"
@@ -3196,7 +3196,7 @@ msgid ""
 msgstr ""
 "* Buzanani imibuzo. Ingayimibuzo emalunga nezinto ozithandayo okanye ozenzileyo namhlanje.\n"
 "* Umthetho mnye qha kukuba awunakuphendula uthi, “Ewe” okanye “Hayi” okanye uthi, “Mhlawumbi.”\n"
-"* Niza kuyenza kangangexesha elingakakani? Iimpendulo zakho zingacingisiswa kangakanani?\n"
+"* Niza kuyenza kangangexesha elingakanani? Iimpendulo zakho zingacingisiswa kangakanani?\n"
 "* Tshintshanani nize nidlale kwakhona!"
 
 #. type=template
@@ -3220,7 +3220,7 @@ msgid ""
 "* Make sure to end the story on a positive note.\n"
 "* Ask your teen what was their favourite part of the story!"
 msgstr ""
-"* Qalisa ibali ngokuthi, “Kudala kwaye kukho...”\n"
+"* Qalisa ibali ngokuthi, “Ngaminazana ithile kwaye kukho...”\n"
 "* Vumela umntwana wakho ofikisayo athethe into elandelayo.\n"
 "* Emva koko ugqibezela isivakalisi.\n"
 "* Tshintshanani nide nibe nebali elitsha elimnandi.\n"
