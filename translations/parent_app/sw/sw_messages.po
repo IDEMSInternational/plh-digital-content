@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2021-10-19 16:23\n"
+"PO-Revision-Date: 2021-10-20 05:45\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -1950,6 +1950,15 @@ msgstr ""
 msgctxt "template"
 msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title once already  – so you’re making great progress."
 msgstr "Umeweka alama kwenye kitu chochote  @global.parent_points @data.habit.instruct_positively.title tayari - hivyo unaendelea vizuri."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_point
+#.      @data.habit.instruct_positively.title
+#.      @field.total_parent_point_instruct_positively
+msgctxt "template"
+msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title @field.total_parent_point_instruct_positively times already  – so you’re making great progress."
+msgstr "Umeweka alama kwenye  @global.parent_points @data.habit.instruct_positively.title @field.total_parent_point_instruct_positively times already - Unafanya maendeleo mazuri sana."
 
 #. type=template
 #. The string @global.parent_app should not be translated.
