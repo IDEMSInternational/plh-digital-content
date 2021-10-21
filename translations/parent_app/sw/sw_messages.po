@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2021-10-21 12:03\n"
+"PO-Revision-Date: 2021-10-21 14:59\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -23,11 +23,6 @@ msgstr "Daima unaweza kupata zana hizi katika @global.parent_centre"
 msgctxt "template"
 msgid "Home"
 msgstr "Mwanzo"
-
-#. type=template
-msgctxt "template"
-msgid "About PLH App"
-msgstr "Kuhusu Programu ya PLH"
 
 #. type=template
 msgctxt "template"
@@ -88,6 +83,11 @@ msgstr "Machaguo ya Warsha"
 msgctxt "template"
 msgid "Demo Presentation"
 msgstr "Video za Mfano"
+
+#. type=template
+msgctxt "template"
+msgid "Organisation Registration"
+msgstr "Usajili wa Shirika"
 
 #. type=template
 msgctxt "template"
@@ -156,9 +156,31 @@ msgid "Language"
 msgstr "Lugha"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
 msgctxt "template"
-msgid "Welcome Back!"
-msgstr "Karibu Tena!"
+msgid "You may be asked to share this code with people who will support your @global.parent_app journey."
+msgstr "Unaweza kuombwa kuwaonyesha namba hii watu watakaokusaidia katika safari yako ya @global.parent_app."
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Imeoanishwa mara ya mwisho saa: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced"
+msgstr "Kifaa hiki hakijawahi kuoanishwa"
+
+#. type=template
+msgctxt "template"
+msgid "Sync Now"
+msgstr "Oanisha Sasa"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Inaoanisha..."
 
 #. type=template
 msgctxt "template"
@@ -194,11 +216,6 @@ msgstr ""
 msgctxt "template"
 msgid "My name"
 msgstr "Jina langu"
-
-#. type=template
-msgctxt "template"
-msgid "Day to do the workshops"
-msgstr "Siku ya kufanya warsha"
 
 #. type=template
 msgctxt "template"
@@ -391,13 +408,13 @@ msgstr "Kitu cha kufurahisha kufanya na kijana wako"
 #. The string @global.my_relaxes should not be translated.
 msgctxt "template"
 msgid "You have not added any relaxation activities to @global.my_relaxes yet. Why don't you choose some?"
-msgstr "Bado hujaongeza kazi yoyote ya kupumzika/kutulia kwenye @global.my_relaxes. Kwanini usichangue baadhi?"
+msgstr "Bado haujaongeza shughuli zozote za kupumzika kwenye @global.my_relaxes. Kwa nini usichague baadhi?"
 
 #. type=template
 #. The string @global.my_activities should not be translated.
 msgctxt "template"
 msgid "You have not added any activities to @global.my_activities yet. Why don't you choose some?"
-msgstr "Bado hujaongeza kazi yoyote kwenye @global.my_activities. Kwanini usichague baadhi?"
+msgstr "Bado haujaongeza shughuli zozote kwenye @global.my_activities. Kwa nini usichague baadhi?"
 
 #. type=template
 #. The string @local.threshold should not be translated.
@@ -464,7 +481,7 @@ msgstr "Gandamiza pembe tatu kukusaidia kuweka majadiliano haya kwenye @local.ti
 #. The string @data.habit.spend_time.in_text_title should not be translated.
 msgctxt "template"
 msgid "Your goal was to spend one-on-one time with your teen. We noticed you tapped the @data.habit.spend_time.in_text_title - great job for remembering!"
-msgstr "Lengo lako lilikuwa kutumia mda wa pamoja na kijana wako. Tumegundua ulibonyeza @data.habit.spend.in_text_tutle - Kazi nzuri kwa kukumbuka!"
+msgstr "Lengo lako lilikuwa kutumia muda wa mazungumzo ya wawili ukiwa na kijana wako. Tumegundua umebonyeza @data.habit.spend_time.in_text_title – kazi nzuri kwa kukumbuka!"
 
 #. type=template
 msgctxt "template"
@@ -479,7 +496,7 @@ msgstr "SIKU - Fanya kila siku"
 #. type=template
 msgctxt "template"
 msgid "PLAY – Let your teen choose the activity"
-msgstr "CHEZAC - Muache kijana wako achague kazi"
+msgstr "CHEZA – Mwache kijana wako achague shughuli"
 
 #. type=template
 msgctxt "template"
@@ -512,7 +529,7 @@ msgstr "\"@local.choice_3\"ilikuwa msaada kwa sababu..."
 #. type=template
 msgctxt "template"
 msgid "Having a specific time to do this helps me to remember."
-msgstr "Kuwa na mda maalum wa kufanya hiki hunisaidia kukumbuka."
+msgstr "Kuwa na muda maalum wa kufanya jambo hili hunisaidia kukumbuka."
 
 #. type=template
 msgctxt "template"
@@ -522,12 +539,12 @@ msgstr "Kwa kuwa na ratiba, kijana wangu na mimi wote tunaweza kuweka huru ratib
 #. type=template
 msgctxt "template"
 msgid "Spending time with my teen every day helps to build trust with them/him/her."
-msgstr "Kutumia mda pamoja na kijana wangu kila siku husaidia kujenge uaminifu kwake."
+msgstr "Kutumia muda pamoja na kijana wangu kila siku humsaidia kuniamini."
 
 #. type=template
 msgctxt "template"
 msgid "Ah yes, even 10 minutes together makes a big difference – that makes it easy to schedule it in, next to your work and chores!"
-msgstr "Aa ndiyo, hata dakika 10 za pamoja hulete tofauti kubwa - hiyo hurahisisha kupanga ratiba ndani yake, baada ya kazi zako na kazi za nyumbani!"
+msgstr "Naam, hata dakika 10 tu za kuwa pamoja huleta mabadiliko makubwa – kufanya hivyo hurahisisha kulipangia ratiba, sambamba na kazi yako na shughuli zako za nyumbani!"
 
 #. type=template
 msgctxt "template"
@@ -537,32 +554,32 @@ msgstr "Kuwafanya vijana wangu wachague nini cha kufanya hujenga kujiamini kwao.
 #. type=template
 msgctxt "template"
 msgid "If my teen chooses, s/he is more likely to want to spend time together."
-msgstr "Kama kijana wangu akichangua, atakuwa na uwezekano zaidi wa kuhitaji mda wa pamoja."
+msgstr "Kama kijana wangu akichagua, kuna uwezekano mkubwa akataka tutumie muda pamoja."
 
 #. type=template
 msgctxt "template"
 msgid "Letting my teen choose shows that I care about his/her interests."
-msgstr "Kumfanya kijana wangu achague huonesha ninajari kuhusu mapendekezo yake."
+msgstr "Kumwacha kijana wangu achague kunaonyesha kuwa ninajali mambo anayoyapenda."
 
 #. type=template
 msgctxt "template"
 msgid "By accepting my teen’s suggestions, I show that I listen to him/her."
-msgstr "Kwa kukubali mapendekezo ya kijana wangu, naonesha kwamba namsikiliza."
+msgstr "Kukubali maoni ya kijana wangu kunaonyesha kuwa ninamsikiliza."
 
 #. type=template
 msgctxt "template"
 msgid "Saying something nice about my teen’s choice helps them feel valued."
-msgstr "Kusema kitu kizuri kuhusu chaguo la kijana wangu huwasaidia kujisikia wamethaminiwa."
+msgstr "Kusema vizuri kuhusu chaguo la kijana wangu kunamsaidia kuhisi kuwa anathaminiwa."
 
 #. type=template
 msgctxt "template"
 msgid "So true! And if our teens choose, they are encouraged to also take responsibility in other areas of their lives."
-msgstr "Hivyo kweli! Na kama vijana wetu watachagu, wanahamasika pia kuwajibika katika maeneo mengine ya maisha yao."
+msgstr "Kweli kabisa! Na vijana wetu wakichagua, wanahamasika pia kuwajibika kwenye nyanja nyingine za maisha yao."
 
 #. type=template
 msgctxt "template"
 msgid "By preventing interruptions, I show my teen that s/he is most important."
-msgstr "Kwa kuzuia usumbufu, namuonesha kijana wangu kwamba yeye ni muhimu sana."
+msgstr "Kwa kuacha kuingiliaingilia, ninamuonyesha kijana wangu kuwa yeye ni muhimu zaidi."
 
 #. type=template
 msgctxt "template"
@@ -572,12 +589,12 @@ msgstr "Hata kama siwezi kujiunga katika kazi ya kijana wangu, kama michezo, bad
 #. type=template
 msgctxt "template"
 msgid "When I pay attention, I can learn so much about my teen’s interests, views and abilities."
-msgstr "Nikiweka umakini, naweza kujifunza mengi kuhusu maslahi, maoni na uwezo wa kijana wangu."
+msgstr "Ninapokuwa makini, ninajifunza mengi mno kuhusu maoni, uwezo na mambo anayoyapendelea kijana wangu."
 
 #. type=template
 msgctxt "template"
 msgid "Yes! If we give our teens our full attention, they will more likely do the same for us the next time we ask them for something!"
-msgstr "Ndiyo! Kama tutawapa umakani wote vijana wetu, wana uwezekano zaidi wa kufanya hivyohivyo kwetu kwa wakati mwingine tukiwaomba kufanya kitu flani!"
+msgstr "Ndiyo! Kama tutawapa vijana wetu usikivu wetu wote, kuna uwezekano mkubwa nao wakafanya hivyohivyo tutakapowaomba wafanye kitu wakati ujao!"
 
 #. type=template
 msgctxt "template"
@@ -586,14 +603,14 @@ msgid ""
 "\n"
 "Here are the top 8 challenges parents told us they experience when planning or spending one-on-one time with their teen. If you experienced one of these or are afraid that you will, tap it to get a possible solution. You can tap and explore other challenges afterwards."
 msgstr ""
-"Wazazi wengi wanapata changamoto kupata mda wa pamoja na vijana wao.\n"
+"Wazazi wengi wanapata changamoto za kufanya mazungumzo ya wawili na vijana wao.\n"
 "\n"
-"Hizi changamoto kuu 8 wazazi walizotuambia wanapata wakati wanapanga au wanatumia mda wa pamoja na vijana wao. Kama unapata majwapo ya hizi au unahofia kwamba utaipata, ibonyeze kupata majibu yanawezekana. unaweza kubinyeza na kutafuta changamoto nyingine baadae."
+"Hapa kuna changamoto kuu 8 walizotwambia wazazi kuwa huzipata wanapopanga au wanapofanya mazungumzo ya wawili na vijana wao. Kama ulipata changamoto mojawapo kati ya hizi au wasiwasi kuwa itakutokea, ibofye ili kupata suluhisho linaloweza kutumiwa. Baadaye, unaweza kubofya na kuchunguza changamoto nyingine."
 
 #. type=template
 msgctxt "template"
 msgid "Did you have any challenges when trying to spend time with your teen?"
-msgstr "Je mlipata changamoto yoyote wakati mnajaribu kutumia mda na kijana wako?"
+msgstr "Je, ulipata changamoto zozote ulipojaribu kutumia muda na kijana wako?"
 
 #. type=template
 msgctxt "template"
@@ -608,7 +625,7 @@ msgstr "Sina mda wa kutosha."
 #. type=template
 msgctxt "template"
 msgid "My teen does not want to spend time with me."
-msgstr "Kijana wangu hahitaji kutumia muda na mim."
+msgstr "Kijana wangu hataki kutumia muda na mimi."
 
 #. type=template
 msgctxt "template"
@@ -618,7 +635,7 @@ msgstr "Kijana wangu anataka kuangalia tu TV au kucheza katika simu yake."
 #. type=template
 msgctxt "template"
 msgid "My teen wants to do things that are not safe or that cost money."
-msgstr "Kijana wangu anataka kufanya vitu ambavyo sio salama au vinavyogharimu pesa."
+msgstr "Kijana wangu anataka kufanya mambo yasiyo salama au vinavyogharimu pesa."
 
 #. type=template
 msgctxt "template"
@@ -628,12 +645,12 @@ msgstr "Kijana wangu anataka kufanya vitu ambavyo siwezi kuvifanya."
 #. type=template
 msgctxt "template"
 msgid "My teen chose a competitive activity. I won and s/he got angry."
-msgstr "Kijana anachagua kazi ya kimashindano. Nilishinda na alikasirika."
+msgstr "Kijana wangu alichagua shughuli ya kushindana. Nilishinda halafu akakasirika."
 
 #. type=template
 msgctxt "template"
 msgid "I struggled to end the one-on-one time."
-msgstr "Nilihangaika kusitisha mda wa pamoja."
+msgstr "Nilihangaika kumaliza muda wa mazungumzo ya wawili."
 
 #. type=template
 msgctxt "template"
@@ -658,7 +675,7 @@ msgstr "Fikiria muda ambao kijana wangu anakuwa muwazi zaidi kwangu, kama vile a
 #. type=template
 msgctxt "template"
 msgid "Sit next to my teen when they are doing something they enjoy and show interest in what they like."
-msgstr "Kukaa karibu na kijana wangu wakati wanafanya kitu wanachofurahia na kuonesha kuvutiwa kwa kile wanachopenda."
+msgstr "Kukaa karibu na kijana wangu anapofanya kitu anachofurahia na kuonyesha kuvutiwa na kile anachopenda."
 
 #. type=template
 msgctxt "template"
@@ -668,22 +685,22 @@ msgstr "Fanya kitu cha kufurahisha na familia yote."
 #. type=template
 msgctxt "template"
 msgid "Great! Picking a time when your teen is more talkative will help them to respond well to your attempt to connect."
-msgstr "Vizuri! Kuchukua mda wakati kijana wako akiwa muongeaji zaidi inawasaidia kuitikia vizuri kwenye jaribio lako la kuunganisha."
+msgstr "Vizuri sana! Kuchagua muda ambao kijana wako anapenda kuzungumza kutamsaidia kuitikia vizuri jitihada zako za kuwasiliana naye."
 
 #. type=template
 msgctxt "template"
 msgid "Nice! Watching your teen’s favourite T.V. show or sports match together will show them that you care. Just be patient; they will open up to you over time!"
-msgstr "Safi! Kuangalia kipindi pendwa cha T.V. kwa mwanao au mechi ya mchezo pamoja itawaonesha kwamba unajari. Kuwa mvumilivu tu, watakuwa wawazi kwako kadri mda unavyoenda!"
+msgstr "Safi! Kuangalia pamoja kipindi cha runinga au mechi inayopendwa na kijana wako kutamwonyesha kuwa unamjali. Vumilia tu; baada ya muda ataanza kuwa wazi kwako!"
 
 #. type=template
 msgctxt "template"
 msgid "Perfect! Sometimes it can be easier to start with spending time with the whole family. That way your teen can get more comfortable with spending one-on-one time with you over time."
-msgstr "Vizuri! Wakati mwingine inaweza kuwa rahisi kutumia mda pamoja na familia nzima. Kwa njia hiyo kijana wako atakuwa huru zaidi kutumia mda wa pamoja na wewe kadri mda unavyoenda."
+msgstr "Vizuri sana! Wakati mwingine inaweza kuwa rahisi zaidi kuanza kwa kutumia muda pamoja na familia nzima. Kwa njia hiyo, hatimaye kijana wako atajiamini zaidi kutumia muda wa mazungumzo ya wawili akiwa na wewe."
 
 #. type=template
 msgctxt "template"
 msgid "Sorry that you had that challenge. Children often want to spend time watching T.V. or playing with a gadget. Well done for being patient with your teen!"
-msgstr "Pole kwamba umepata hiyo changamoto. Mara nyingi watoto hupenda kutumia muda kuangalia T.V. au kuchezea vifaa/vitu vyao. Umefanya vizuri sana kwakuwa mstahimilivu kwa kijana wako!"
+msgstr "Tunasikitika kusikia kuwa ulipata changamoto hiyo. Mara nyingi watoto wanapenda kutumia muda wao wakitazama runinga au kuchezea vifaa vya kielektroniki. Hongera kwa kumvumilia kijana wako!"
 
 #. type=template
 msgctxt "template"
@@ -698,7 +715,7 @@ msgstr "Kutafuta kitu cha kuelimisha cha kufanya na kijana wangu kwenye kitu/kif
 #. type=template
 msgctxt "template"
 msgid "Ask my teen to show me how their phone/gadget works."
-msgstr "Kumuomba kijana wangu kunionesha jinsi simu au kifaa chao/chake kinavyofanya kazi."
+msgstr "Kumwomba kijana wangu anionyeshe jinsi simu yake au kifaa chake cha kielektroniki kinavyofanya kazi."
 
 #. type=template
 msgctxt "template"
@@ -708,12 +725,12 @@ msgstr "Hiyo ni nzuri sana! Kama unahitaji hamasa, haya hapa mawazo kutoka katik
 #. type=template
 msgctxt "template"
 msgid "Wonderful!  There are lots of fun and educational apps on phones that you can explore together. Ask questions, show interest, and remember to say something nice."
-msgstr "Safi sana! Kuna apps nyingi sana kwenye simu za kuelimisha na kufurahisha ambazo mnaweza kuzitafuta pamoja. uliza maswali, onesha kuvutiwa, na kumbuka kusema kitu flani kizuri."
+msgstr "Safi sana! Kuna programu nyingi sana kwenye simu zinazoelimisha na kufurahisha mnazoweza kuzitafuta pamoja. Uliza maswali, onyesha shauku, na kumbuka kusema kitu fulani vizuri."
 
 #. type=template
 msgctxt "template"
 msgid "Nice! Teens love it when you show interest in their gadget and when they get to explain something they know to you. This is a great starting point!"
-msgstr "Vizuri! Vijana wanaipenda pale unapoonesha kuvutiwa katika vifaa vyao na wakielezea kwako kitu flani wanachokijua. Huu ni mwanzo mzuri sana!"
+msgstr "Vizuri! Vijana wanafurahi sana unapoonyesha kuvutiwa na vifaa vyao vya kielektroniki au unapowaomba wakueleze kitu fulani wanachokijua. Huu ni mwanzo mzuri sana!"
 
 #. type=template
 msgctxt "template"
@@ -3036,61 +3053,8 @@ msgstr "Umemaliza warsha ya wiki hii."
 
 #. type=template
 msgctxt "template"
-msgid "Finish with a song"
-msgstr "Malizi kwa kuimba wimbo"
-
-#. type=template
-msgctxt "template"
 msgid "See you soon."
 msgstr "Tutaonana baadae kidogo."
-
-#. type=template
-msgctxt "template"
-msgid "Goodbye!"
-msgstr "Kwa heri!"
-
-#. type=template
-msgctxt "template"
-msgid "Organisation Registration"
-msgstr "Usajili wa Shirika"
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "If you are going through the @global.parent_app programme with the support of an organisation, they should have given you a code. Please enter the code in the box below and press Done."
-msgstr "Kama unapitia programu ya @global.parent_app kwa msaada wa shirika, watakuwa walikupa namba ya kujisajilia. Tafadhali ingiza namba hiyo kwenye kisanduku hapo chini kisha ubonyeze Imefanyika."
-
-#. type=template
-msgctxt "template"
-msgid "Done"
-msgstr "Imefanyika"
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "You may be asked to share this code with people who will support your @global.parent_app journey."
-msgstr "Unaweza kuombwa kuwaonyesha namba hii watu watakaokusaidia katika safari yako ya @global.parent_app."
-
-#. type=template
-#. The string @local.sync_latest should not be translated.
-msgctxt "template"
-msgid "Last sync at: @local.sync_latest"
-msgstr "Imeoanishwa mara ya mwisho saa: @local.sync_latest"
-
-#. type=template
-msgctxt "template"
-msgid "This device has never been synced"
-msgstr "Kifaa hiki hakijawahi kuoanishwa"
-
-#. type=template
-msgctxt "template"
-msgid "Sync Now"
-msgstr "Oanisha Sasa"
-
-#. type=template
-msgctxt "template"
-msgid "Syncing..."
-msgstr "Inaoanisha..."
 
 #. type=template
 msgctxt "template"
@@ -4262,6 +4226,21 @@ msgstr "@data.workshop.w_safe.tools zimeongezwa kwenye @data.parent_centre.my_ti
 msgctxt "template"
 msgid "We all want to keep our children safe."
 msgstr "Wote tunataka kuwaweka watoto wetu salama."
+
+#. type=template
+msgctxt "template"
+msgid "How many days in the past month (30 days) did you talk with your teen about keeping safe from sexual violence online or offline?"
+msgstr "Ni siku ngapi katika mwezi (siku 30) uliopita uliongea na kijana wako kuhusu kuwa salama kutoka katika ukatili wa kingono mtandaoni au nje ya mtandao?"
+
+#. type=template
+msgctxt "template"
+msgid "This could be when they are going out with friends, or talking about the websites they use."
+msgstr "Hii inweza kuwa katika mda ambao wanatoka na rafiki zao, au kuongelea kuhusu tovuti wanazotumia."
+
+#. type=template
+msgctxt "template"
+msgid "We have a new challenge now – keeping our teenagers safe from COVID-19."
+msgstr "Tuna changamoto mpya sasa hivi - kuwaweka vijana wetu salama kutoka katika KORONA (COVID- 19)."
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -7766,18 +7745,8 @@ msgstr "Sasa kwa kuwa tumejifunza kwa kiasi fulani ujuzi wa kujitunza, hebu tuha
 
 #. type=template
 msgctxt "template"
-msgid "Start customising"
-msgstr "Anza kurekebisha"
-
-#. type=template
-msgctxt "template"
 msgid "You seem to have completed the customisation process already. You can now skip this activity."
 msgstr "Inaonekana tayari umemaliza kufanya marekebisho. Sasa unaweza kuruka shughuli hii."
-
-#. type=template
-msgctxt "template"
-msgid "Skip customisation survey"
-msgstr "Ruka ukaguzi wa marekebisho"
 
 #. type=template
 msgctxt "template"
@@ -9087,6 +9056,11 @@ msgstr "Mawazo kutoka familia nyingine..."
 
 #. type=global
 msgctxt "global"
+msgid "Challenges & solutions"
+msgstr "Changamoto & utatuzi"
+
+#. type=global
+msgctxt "global"
 msgid "Find out more"
 msgstr "Pata maelezo zaidi"
 
@@ -9127,13 +9101,23 @@ msgstr "Iliyopita"
 
 #. type=global
 msgctxt "global"
-msgid "Challenges & solutions"
-msgstr "Changamoto & utatuzi"
+msgid "Save"
+msgstr "Tunza"
 
 #. type=global
 msgctxt "global"
-msgid "Save"
-msgstr "Tunza"
+msgid "Start"
+msgstr "Anza"
+
+#. type=global
+msgctxt "global"
+msgid "Finish with a song"
+msgstr "Malizi kwa kuimba wimbo"
+
+#. type=global
+msgctxt "global"
+msgid "Goodbye!"
+msgstr "Kwa heri!"
 
 #. type=global
 msgctxt "global"
@@ -9863,8 +9847,8 @@ msgstr "Burudika"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Relax\" @global.parent_point"
-msgstr "@global.parent_point ya \"Burudika\""
+msgid "**Relax** @global.parent_point"
+msgstr "@global.parent_point ya **Burudika**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9874,14 +9858,14 @@ msgstr "Jitendee vizuri"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Treat yourself well\" @global.parent_point"
-msgstr "@global.parent_point ya \"Jitendee vizuri\""
+msgid "**Treat yourself well** @global.parent_point"
+msgstr "@global.parent_point ya **Jitendee vizuri**"
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Praise yourself\" @global.parent_point"
-msgstr "@global.parent_point ya \"Jisifie\""
+msgid "**Praise yourself** @global.parent_point"
+msgstr "@global.parent_point ya **Jisifie**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9891,8 +9875,8 @@ msgstr "Muda wa mazungumzo ya wawili"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"One-on-one time\" @global.parent_point"
-msgstr "@global.parent_point ya \"Muda wa mazungumzo ya wawili\""
+msgid "**One-on-one time** @global.parent_point"
+msgstr "@global.parent_point ya **Muda wa mazungumzo ya wawili**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9902,8 +9886,8 @@ msgstr "Msifie kijana wako"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Praise your teen\" @global.parent_point"
-msgstr "@global.parent_point ya \"Msifie kijana wako\""
+msgid "**Praise your teen** @global.parent_point"
+msgstr "@global.parent_point ya **Msifie kijana wako**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9913,8 +9897,8 @@ msgstr "Kuwa na mtazamo chanya"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Get positive\" @global.parent_point"
-msgstr "@global.parent_point ya \"Kuwa na mtazamo chanya\""
+msgid "**Get positive** @global.parent_point"
+msgstr "@global.parent_point ya **Kuwa na mtazamo chanya**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9924,8 +9908,8 @@ msgstr "Vuta pumzi, usipige mayowe"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Breathe not yell\" @global.parent_point"
-msgstr "@global.parent_point ya \"Vuta pumzi, usipige mayowe\""
+msgid "**Breathe not yell** @global.parent_point"
+msgstr "@global.parent_point ya **Vuta pumzi, usipige mayowe**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9935,8 +9919,8 @@ msgstr "Maamuzi mazuri kuhusu pesa"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Good money choice\" @global.parent_point"
-msgstr "@global.parent_point ya \"Maamuzi mazuri kuhusu pesa\""
+msgid "**Good money choice** @global.parent_point"
+msgstr "@global.parent_point ya **Maamuzi mazuri kuhusu pesa**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9946,8 +9930,8 @@ msgstr "Matokeo ya utulivu"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Calm consequence\" @global.parent_point"
-msgstr "@global.parent_point ya \"Matokeo ya utulivu\""
+msgid "**Calm consequence** @global.parent_point"
+msgstr "@global.parent_point ya **Matokeo ya utulivu**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9957,8 +9941,8 @@ msgstr "Salama"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Safe\" @global.parent_point"
-msgstr "@global.parent_point ya \"Salama\""
+msgid "**Safe** @global.parent_point"
+msgstr "@global.parent_point ya **Salama**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10258,8 +10242,8 @@ msgstr "Makaribisho na Ujitunzaji"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Welcome and Self-Care\" workshop"
-msgstr "Warsha ya \"Makaribisho na Ujitunzaji\""
+msgid "**Welcome and Self-Care** workshop"
+msgstr "Warsha ya **Makaribisho na Ujitunzaji**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10278,8 +10262,8 @@ msgstr "Muda wa Mazungumzo ya Wawili"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"One-on-One Time\" workshop"
-msgstr "Warsha ya \"Mazungumzo ya Wawili\""
+msgid "**One-on-One Time** workshop"
+msgstr "Warsha ya **Mazungumzo ya Wawili**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10293,8 +10277,8 @@ msgstr "Usifiaji"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Praise\" workshop"
-msgstr "Warsha ya \"Usifiaji\""
+msgid "**Praise** workshop"
+msgstr "Warsha ya **Usifiaji**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10308,8 +10292,8 @@ msgstr "Maagizo Chanya"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Positive Instructions\" workshop"
-msgstr "Warsha ya \"Maagizo Chanya\""
+msgid "**Positive Instructions** workshop"
+msgstr "Warsha ya **Maagizo Chanya**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10323,8 +10307,8 @@ msgstr "Kudhibiti Msongo wa Mawazo"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Managing Stress\" workshop"
-msgstr "Warsha ya \"Kudhibiti Msongo wa Mawazo\""
+msgid "**Managing Stress** workshop"
+msgstr "Warsha ya **Kudhibiti Msongo wa Mawazo**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10338,8 +10322,8 @@ msgstr "Bajeti za Familia"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Family Budgets\" workshop"
-msgstr "Warsha ya \"Bajeti za Familia\""
+msgid "**Family Budgets** workshop"
+msgstr "Warsha ya **Bajeti za Familia**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10353,8 +10337,8 @@ msgstr "Sheria"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Rules\" workshop"
-msgstr "Warsha ya \"Sheria\""
+msgid "**Rules** workshop"
+msgstr "Warsha ya **Sheria**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10368,8 +10352,8 @@ msgstr "Matokeo ya Utulivu"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Calm Consequences\" workshop"
-msgstr "Warsha ya \"Matokeo ya Utulivu\""
+msgid "**Calm Consequences** workshop"
+msgstr "Warsha ya **Matokeo ya Utulivu**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10383,8 +10367,8 @@ msgstr "Kutatua Matatizo"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Problem Solving\" workshop"
-msgstr "Warsha ya \"Kutatua Matatizo\""
+msgid "**Problem Solving** workshop"
+msgstr "Warsha ya **Kutatua Matatizo**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10398,8 +10382,8 @@ msgstr "Usalama wa Vijana"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Teen Safety\" workshop"
-msgstr "Warsha ya \"Usalama wa Vijana\""
+msgid "**Teen Safety** workshop"
+msgstr "Warsha ya **Usalama wa Vijana**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10413,8 +10397,8 @@ msgstr "Kushughulikia Migogoro"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Dealing with Crisis\" workshop"
-msgstr "Warsha ya \"Kushughulikia Migogoro\""
+msgid "**Dealing with Crisis** workshop"
+msgstr "Warsha ya **Kushughulikia Migogoro**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10428,8 +10412,8 @@ msgstr "Usherehekeaji na Hatua Zinazofuata"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Celebration and Next Steps\" workshop"
-msgstr "Warsha ya \"Usherehekeaji na Hatua Zinazofuata\""
+msgid "**Celebration and Next Steps** workshop"
+msgstr "Warsha ya **Usherehekeaji na Hatua Zinazofuata**"
 
 #. type=data_list
 msgctxt "data_list"
