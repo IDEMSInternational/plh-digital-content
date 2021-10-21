@@ -15,11 +15,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "About PLH App"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Settings"
 msgstr ""
 
@@ -59,6 +54,21 @@ msgid "App terms"
 msgstr ""
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "About @global.parent_app"
+msgstr ""
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid ""
+"@global.parent_app was developed by Parenting for Lifelong Health (PLH) – a worldwide collaboration between parenting experts from UNICEF, the WHO and Universities in South Africa and the UK, as well as African NGOs and families and teens all across Africa. Parents and teens worked with us on the app and helped to ensure it is easy-to-use, fun and engaging. Some of the content in this app, like suggestions of activities and illustrated stories, were created with parents and teens to make sure it fits families’ needs.\n"
+"\n"
+"Parenting for Lifelong Health (PLH) is committed to supporting free and shareable parenting materials and programmes, to support parents worldwide to promote the well-being of their children."
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Open Survey"
 msgstr ""
@@ -76,6 +86,11 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Demo Presentation"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Organisation Registration"
 msgstr ""
 
 #. type=template
@@ -137,8 +152,51 @@ msgid "Language"
 msgstr ""
 
 #. type=template
+#. The string @global.parent_app should not be translated.
 msgctxt "template"
-msgid "Welcome Back!"
+msgid "How did you hear about @global.parent_app?"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "I found it myself"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "A friend or family"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Other"
+msgstr ""
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "You may be asked to share this code with people who will support your @global.parent_app journey."
+msgstr ""
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Sync Now"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
 msgstr ""
 
 #. type=template
@@ -174,8 +232,9 @@ msgid "My name"
 msgstr ""
 
 #. type=template
+#. The string @global.weekly_workshop should not be translated.
 msgctxt "template"
-msgid "Day to do the workshops"
+msgid "@global.weekly_workshop day"
 msgstr ""
 
 #. type=template
@@ -2805,60 +2864,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Finish with a song"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "See you soon."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Goodbye!"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Organisation Registration"
-msgstr ""
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "If you are going through the @global.parent_app programme with the support of an organisation, they should have given you a code. Please enter the code in the box below and press Done."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Done"
-msgstr ""
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "You may be asked to share this code with people who will support your @global.parent_app journey."
-msgstr ""
-
-#. type=template
-#. The string @local.sync_latest should not be translated.
-msgctxt "template"
-msgid "Last sync at: @local.sync_latest"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "This device has never been synced"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Sync Now"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Syncing..."
 msgstr ""
 
 #. type=template
@@ -4769,12 +4775,22 @@ msgid "Share @global.parent_app and help other families start their journey."
 msgstr ""
 
 #. type=template
+msgctxt "template"
+msgid "End of programme check-in"
+msgstr ""
+
+#. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
 msgid ""
 "You have been using @global.parent_app for the last months, but parenting a teen is long lasting!  The next questions about your parenting experiences will help us assess your parenting.\n"
 "\n"
 "Be honest. Remember that millions of parents feel like you do, and we all deserve support. You are not alone!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You seem to have completed the end of programme check-in already. You can now skip this activity."
 msgstr ""
 
 #. type=template
@@ -8282,17 +8298,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Start customising"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "You seem to have completed the customisation process already. You can now skip this activity."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Skip customisation survey"
 msgstr ""
 
 #. type=template
@@ -9420,6 +9426,16 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
+msgid "Challenges & solutions"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Submit"
+msgstr ""
+
+#. type=global
+msgctxt "global"
 msgid "Find out more"
 msgstr ""
 
@@ -9460,12 +9476,27 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Challenges & solutions"
+msgid "Save"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Save"
+msgid "Start"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Skip"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Finish with a song"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Goodbye!"
 msgstr ""
 
 #. type=global
@@ -10155,7 +10186,17 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Household chores aren’t fun… or are they? You can make them into a game!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "What are you doing?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here is a fun game you can do with your family!"
 msgstr ""
 
 #. type=data_list
@@ -10171,7 +10212,18 @@ msgstr ""
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Relax\" @global.parent_point"
+msgid "**Relax** @global.parent_point"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Doing a relaxation activity"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do a relax, tap the @global.parent_point and celebrate your success!"
 msgstr ""
 
 #. type=data_list
@@ -10182,13 +10234,35 @@ msgstr ""
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Treat yourself well\" @global.parent_point"
+msgid "**Treat yourself well** @global.parent_point"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Doing something they like for themselves"
 msgstr ""
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Praise yourself\" @global.parent_point"
+msgid "Every time you treat yourself well, tap the @global.parent_point and celebrate your success!"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Praise yourself** @global.parent_point"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praising themselves"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you praise yourself, tap the @global.parent_point and celebrate your success!"
 msgstr ""
 
 #. type=data_list
@@ -10199,7 +10273,18 @@ msgstr ""
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"One-on-one time\" @global.parent_point"
+msgid "**One-on-one time** @global.parent_point"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Spending time with their teen"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do one-on-one time, tap the @global.parent_point and celebrate your success!"
 msgstr ""
 
 #. type=data_list
@@ -10210,7 +10295,18 @@ msgstr ""
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Praise your teen\" @global.parent_point"
+msgid "**Praise your teen** @global.parent_point"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praising their teen when they did positive thing"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you praise your teen, tap the @global.parent_point and celebrate your success!"
 msgstr ""
 
 #. type=data_list
@@ -10221,7 +10317,18 @@ msgstr ""
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Get positive\" @global.parent_point"
+msgid "**Get positive** @global.parent_point"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Giving their teen a positive instruction"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a positive instruction, tap the @global.parent_point and celebrate your success!"
 msgstr ""
 
 #. type=data_list
@@ -10232,7 +10339,18 @@ msgstr ""
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Breathe not yell\" @global.parent_point"
+msgid "**Breathe not yell** @global.parent_point"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking a pause before responding"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you take a pause before responding, tap the @global.parent_point and celebrate your success!"
 msgstr ""
 
 #. type=data_list
@@ -10243,7 +10361,18 @@ msgstr ""
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Good money choice\" @global.parent_point"
+msgid "**Good money choice** @global.parent_point"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Keeping the budget"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you make a good choice about needs, wants and savings, tap the @global.parent_point and celebrate your success!"
 msgstr ""
 
 #. type=data_list
@@ -10254,7 +10383,18 @@ msgstr ""
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Calm consequence\" @global.parent_point"
+msgid "**Calm consequence** @global.parent_point"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Giving their teen a consequence in a calm way"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a calm consequence, tap the @global.parent_point and celebrate your success!"
 msgstr ""
 
 #. type=data_list
@@ -10265,7 +10405,23 @@ msgstr ""
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Safe\" @global.parent_point"
+msgid "**Safe** @global.parent_point"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Planning or keeping a family safety plan"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do something to keep your teen safe, tap the @global.parent_point and celebrate your success!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did it? Tap it!"
 msgstr ""
 
 #. type=data_list
@@ -10274,8 +10430,20 @@ msgid "Help"
 msgstr ""
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Help** in the @global.parent_centre"
+msgstr ""
+
+#. type=data_list
 msgctxt "data_list"
 msgid "My Tips"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**My Tips** in the @global.parent_centre"
 msgstr ""
 
 #. type=data_list
@@ -10284,8 +10452,20 @@ msgid "Essential Tools"
 msgstr ""
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Essential Tools** in the @global.parent_centre"
+msgstr ""
+
+#. type=data_list
 msgctxt "data_list"
 msgid "COVID"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**COVID** in the @global.parent_centre"
 msgstr ""
 
 #. type=data_list
@@ -10296,7 +10476,26 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Customise Again"
+msgstr ""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app**
+#.      @global.parent_centre
+msgctxt "data_list"
+msgid "**Customise @global.parent_app** in the @global.parent_centre"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Relax & Activities"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "under **Relax & Activities** in the @global.parent_centre"
 msgstr ""
 
 #. type=data_list
@@ -10305,8 +10504,20 @@ msgid "Support Contacts"
 msgstr ""
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Support Contacts** in the @global.parent_centre"
+msgstr ""
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Evidence Base"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Evidence Base** in the @global.parent_centre"
 msgstr ""
 
 #. type=data_list
@@ -10315,8 +10526,20 @@ msgid "Technical Support"
 msgstr ""
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Technical Support** in the @global.parent_centre"
+msgstr ""
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Message Archive"
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Message Archive** in the @global.parent_centre"
 msgstr ""
 
 #. type=data_list
@@ -10566,7 +10789,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Welcome and Self-Care\" workshop"
+msgid "**Welcome and Self-Care** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10586,7 +10809,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"One-on-One Time\" workshop"
+msgid "**One-on-One Time** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10601,7 +10824,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Praise\" workshop"
+msgid "**Praise** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10616,7 +10839,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Positive Instructions\" workshop"
+msgid "**Positive Instructions** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10631,7 +10854,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Managing Stress\" workshop"
+msgid "**Managing Stress** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10646,7 +10869,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Family Budgets\" workshop"
+msgid "**Family Budgets** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10661,7 +10884,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Rules\" workshop"
+msgid "**Rules** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10676,7 +10899,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Calm Consequences\" workshop"
+msgid "**Calm Consequences** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10691,7 +10914,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Problem Solving\" workshop"
+msgid "**Problem Solving** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10706,7 +10929,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Teen Safety\" workshop"
+msgid "**Teen Safety** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10721,7 +10944,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Dealing with Crisis\" workshop"
+msgid "**Dealing with Crisis** workshop"
 msgstr ""
 
 #. type=data_list
@@ -10736,7 +10959,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Celebration and Next Steps\" workshop"
+msgid "**Celebration and Next Steps** workshop"
 msgstr ""
 
 #. type=data_list
