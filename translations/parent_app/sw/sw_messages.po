@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2021-10-20 11:53\n"
+"PO-Revision-Date: 2021-10-21 06:05\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -786,7 +786,7 @@ msgstr "Cheza mchezo kwa timu, kwa hivyo nitaweza kumtia moyo kijana wangu kama 
 #. The string @data.parent_centre.relax_and_activities.location_text should not be translated.
 msgctxt "template"
 msgid "Remember, let your teen choose! You can find suggestions for activities you could do with your teen @data.parent_centre.relax_and_activities.location_text, if you need it."
-msgstr "Kumbuka, muache kijana wako achague! Unaweza kupata mapendekezo ya kazi unazoweza kufanya na kijana wako @data.parent_centre.relax_and_activities.location_text, kama unazihitaji."
+msgstr "Kumbuka, muache kijana wako achague! Unaweza kupata mapendekezo ya kazi unazoweza kufanya na kijana wako @data.parent_centre.relax_and_activities.location_text, kama unazihitaji. "
 
 #. type=template
 msgctxt "template"
@@ -2722,10 +2722,265 @@ msgid "Listen Together"
 msgstr "Sikiliza Pamoja"
 
 #. type=template
+msgctxt "template"
+msgid "Let's listen to an audio together!"
+msgstr "Ngoja tusikilize sauti kwa pamoja!"
+
+#. type=template
+msgctxt "template"
+msgid "Listen"
+msgstr "Sikiliza"
+
+#. type=template
+msgctxt "template"
+msgid "Let's listen to an audio!"
+msgstr "Ngoja tusikilize sauti!"
+
+#. type=template
+#. The string @local.workshop_data.title should not be translated.
+msgctxt "template"
+msgid "Why @local.workshop_data.title?"
+msgstr "Kwa nini @local.workshop_data.tittle?"
+
+#. type=template
+msgctxt "template"
+msgid "Hear Sbo's message"
+msgstr "Sikia ujumbe wa Sbo"
+
+#. type=template
+msgctxt "template"
+msgid "Read Sbo's message"
+msgstr "Soma ujumbo wa Sbo"
+
+#. type=template
+msgctxt "template"
+msgid "Today's steps"
+msgstr "Hatua za leo"
+
+#. type=template
+msgctxt "template"
+msgid "Question Time"
+msgstr "Mda wa maswali"
+
+#. type=template
+msgctxt "template"
+msgid "It's time for some questions!"
+msgstr "Ni mda wa maswali baadhi!"
+
+#. type=template
+msgctxt "template"
+msgid "Read Together"
+msgstr "Soma Pamoja"
+
+#. type=template
+msgctxt "template"
+msgid "Let's read a story together!"
+msgstr "Ngoja tusome hadithi pamoja!"
+
+#. type=template
+msgctxt "template"
+msgid "Let's read a story!"
+msgstr "Ngoja tusome hadithi!"
+
+#. type=template
+msgctxt "template"
+msgid "Think Together"
+msgstr "Fikiria Pamoja"
+
+#. type=template
+msgctxt "template"
+msgid "It's time to think together!"
+msgstr "Ni mda wa kufikiria pamoja!"
+
+#. type=template
+msgctxt "template"
+msgid "Think"
+msgstr "Fikiria"
+
+#. type=template
+msgctxt "template"
+msgid "It's time to think!"
+msgstr "Ni mda wa kufikiria!"
+
+#. type=template
+msgctxt "template"
+msgid "Learn Together"
+msgstr "Jinfunze pamoja"
+
+#. type=template
+msgctxt "template"
+msgid "It's time to learn and practice together!"
+msgstr "Ni mda wa kujifunza na kufanya mazezi pamoja!"
+
+#. type=template
+msgctxt "template"
+msgid "Learn"
+msgstr "Jifunze"
+
+#. type=template
+msgctxt "template"
+msgid "It's time to learn and practice!"
+msgstr "Ni mda wa kujifunza na kufanya mazezi!"
+
+#. type=template
+msgctxt "template"
+msgid "Relax Together"
+msgstr "Tulia Pamoja"
+
+#. type=template
+msgctxt "template"
+msgid "Relax"
+msgstr "Tulia"
+
+#. type=template
+msgctxt "template"
+msgid "Let’s do a short relaxation activity together – it will take less than 1 minute and you will feel more relaxed."
+msgstr "Ngoja tufanye kazi fupi ya kutulia pamoja - itachukua mda chini ya dakika 1 na utajisikia kutulia zaidi."
+
+#. type=template
+#. The string @global.my_relaxes should not be translated.
+msgctxt "template"
+msgid "Add this activity to @global.my_relaxes"
+msgstr "Ongeza kazi hii katika @global.my_relaxes"
+
+#. type=template
+msgctxt "template"
+msgid "Listen and relax"
+msgstr "Sikiliza na tulia"
+
+#. type=template
+msgctxt "template"
+msgid "Read and relax"
+msgstr "Soma na tulia"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"You are a star!\n"
+"\n"
+"Every day, recognise something you have done well. Reward yourself with something that makes you happy. And take a deep breath to relax."
+msgstr "Wewe ni nyota."
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "Customise @global.parent_app"
+msgstr "Binafsisha @global.parent_app"
+
+#. type=template
+msgctxt "template"
+msgid "Talk Together"
+msgstr "Ongea Pamoja"
+
+#. type=template
+msgctxt "template"
+msgid "Share ideas, support each other!"
+msgstr "Shirikishana mawazo, saidian kila mmoja!"
+
+#. type=template
+msgctxt "template"
+msgid "Try it Together"
+msgstr "Jaribu Pamoja"
+
+#. type=template
+msgctxt "template"
+msgid "Let's practice together."
+msgstr "Tufanye mazezi pamoja."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Home practice is how we make our family life better. But it often brings challenges. \n"
+"\n"
+"Let's share our successes and problems, and help each other find new ideas to try!"
+msgstr ""
+"Zoezi la nyumbani ni jinsi tunavyfanya maisha ya familia zetu kuwa mazuri zaidi. Lakini mara nyingu huleta changamoto.\n"
+"\n"
+"Ngoja tushirikishane mafanikio yetu na changamoto, na kusaidiana kupata mawazo mapya ya kujaribu!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Think about how your home activities went this week. \n"
+"\n"
+"Take turns to discuss: \n"
+"* What went well and what was a problem? \n"
+"* What solutions can you think of together? \n"
+"* Pick one solution and try it later with your teen! \n"
+"\n"
+"(Or you can even practice it now so it will be easier later!)"
+msgstr ""
+"Fikiria kuhusu kazi zako za nyumbani zilivyoenda wiki hii.\n"
+"\n"
+"Jadili kwa zamu:\n"
+"* Nini kilienda vizuri na nini ilikuwa tatizo?\n"
+"*Suluhisho gani mnaweza kufikiria pamoja?\n"
+"*Chagua suluhisho moja na lijaribu na kijana wako!\n"
+"\n"
+"(Au unaweza hata uka4lijaribu sasa hivi ili iwe rahisi baadae!)"
+
+#. type=template
 #. The string @data.workshop.w_1on1.title should not be translated.
 msgctxt "template"
 msgid "Discussion example from @data.workshop.w_1on1.title"
 msgstr "Mfano wa majadiliano kutoka @data.workshop.w_1on1.title"
+
+#. type=template
+msgctxt "template"
+msgid "Start Positively Together"
+msgstr "Anzeni vizuri pamoja"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"It's great to see you again! \n"
+"\n"
+"Let's start with caring for you."
+msgstr ""
+"Ni vizuiri kukuona tena!\n"
+"\n"
+"Ngoja tuanze na kujitunza mwenyewe."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Take turns:\n"
+"* Share: How are you feeling today?\n"
+"* Praise someone in your group for something they did well this week!\n"
+"\n"
+"Remember that no matter how you feel, it’s great you are here. You all deserve praise."
+msgstr ""
+"Kwa zamu:\n"
+"*Shirikisha: Jinsi unavyohisi leo?\n"
+"*Msifie mto mmoja katika kundi lako kwa kitu flani walichofanya vizuri wiki hii!\n"
+"\n"
+"Kumbuka kwamba haijalishi unajisikiaje, ni vizuri uko hapa. Nyote mnastahili sifa."
+
+#. type=template
+msgctxt "template"
+msgid "Ideas from other families:"
+msgstr "Mawazo kutoka familia nyingine:"
+
+#. type=template
+#. The string @fields.user_name should not be translated.
+msgctxt "template"
+msgid "Welcome @fields.user_name"
+msgstr "Karibu kwenye @fields.user_name"
+
+#. type=template
+msgctxt "template"
+msgid "It's great to see you again!"
+msgstr "Ni vizuri sana kukuona tena!"
+
+#. type=template
+msgctxt "template"
+msgid "Let's see how this week has been."
+msgstr "Ngoja tuone wiki hii imeendaje."
+
+#. type=template
+msgctxt "template"
+msgid "This week you have done..."
+msgstr "Wiki hii ulichofanya..."
 
 #. type=template
 msgctxt "template"
@@ -3002,6 +3257,132 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"* Ask your teen what kind of meal they would like to eat. \n"
+"* Prepare it together!    \n"
+"* Let them have a turn at being the head chef – they lead, and you follow their instructions. \n"
+"* You can even help them to make a budget for the ingredients! \n"
+"\n"
+"Don’t think it will work? Ask your teens what THEY would like for you and them to do together. Let them lead. Relax. Have fun."
+msgstr ""
+"* Muulize kijana wako chakula gani wangependa kula.\n"
+"* Kiandaeni pamoja!\n"
+"* Waache wawe wapishi wakuu kwa zamu - wanaongoza, na unafuata maelekezo yao.\n"
+"* Unaweza hata ukawasaidia kutengeneza bajeti ya mahitaji!\n"
+"\n"
+"Usifikirie itafanikiwa? Waulize vijana wako nini WANGEPENDA kwa wewe na wao kufanya pamoja.\n"
+"Waache waongoze. Tulia. Furahia."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"* Create a set of dance moves to your teen's favourite songs. \n"
+"* One person does a dance move and everyone else copies it.  \n"
+"* Everyone takes turns being the leader. \n"
+"* Perform it for the household!"
+msgstr ""
+"* Tengenezeni namna ya kucheza kwenye nyimbo zinazopendwa na kijana wako.\n"
+"* Mtu mmoja acheze na kila mmoja afuate hiyo staili.\n"
+"* Kila mmoja anakuwa na zamu ya kuwa kiongozi.\n"
+"*Uchezeni nyumbani!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"* This game can be played in pairs or with many people in a group.\n"
+"* Stand facing each other or in a circle. \n"
+"* One person leads first and everyone else copies them, trying to move exactly at the same time as the leader.\n"
+"* Make sure the leader moves slowly enough for everyone else to follow! Explore moving different body parts and in different levels.\n"
+"* After a while, switch who is leading. Give everyone a chance to lead.\n"
+"* Try it with no leaders!"
+msgstr ""
+"* Mchezo huu unaweza ukachezwa na watu wawili wawili au na watu wengi kwenye kundi.\n"
+"* Simama kwa kuangaliana au katika mduara.\n"
+"* Mtu mmoja anaongoza kwanza na kila mmoja atafuatisha kwao, jaribu kucheza kwa kuafuata vile vile kama kiongozi.\n"
+"* Hakikisha kiongozi anacheza taratibu vya kutosha kwa kila mmoja kumfuatisha! Angalia namna viungo mbalimbali vya mwili vinavyocheza na kwa kiwango gani.\n"
+"* Baada ya mda, badilisha mtu wa kuongoza. Mpe kila mmoja nafasi ya kuongoza.\n"
+"* Jaribuni kucheza bila kiongozi!"
+
+#. type=template
+msgctxt "template"
+msgid "Praise time! Look at your teen and praise them for one thing they are doing well! And when was the last time you praised yourself or another adult in your household? Try it!"
+msgstr "Mda wa sifa! Muangalie kijana wako na wasifie kwa kitu kimoja wanachofanya vizuri! Na lini mara ya mwisho ulijisifia mwenyewe au kumsifia mtu mzima mwingine katika familia yako? Jaribu!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"* Think of a new skill you could learn together with your teen. For example, keeping a ball in the air or your foot, juggling, making soup?\n"
+"* Take turns in trying the new skill out.\n"
+"* Make sure to praise each other, and try to learn and play together!"
+msgstr ""
+"*Fikiria kuhusu ujuzi mpya unaoweza kujifunza pamoja na kijana wako. Kwa mfano, kuweka mpira hewani au mguu wako, mazingaombwe au kutengeneza supu?\n"
+"*Fanyeni zamu za kujaribu ujuzi mpya.\n"
+"* Hakikisha mnasifiana, na jaribuni kujifunza na kucheza pamoja!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"* Come up with three types of exercise together. For example, walking, jogging, soccer or dancing.\n"
+"* Pick one together and try it out. \n"
+"* If you both like it, decide how often you are going to do it. Once or twice a week? Every morning?\n"
+"* Together think of ways to make it even more fun. Can you jog to a certain point? Take turns in being the coach? Motivate each other with a small free reward?"
+msgstr ""
+"* Njooni na aina tatu za zoezi pamoja. Kwa mfano, kutembea, mazoezi, mpira wa miguu au kucheza mziki.\n"
+"* Chagua moja kwa pamoja na ijaribuni.\n"
+"* Kama wote wawili mmependa, amueni ni mara ngapi mtakuwa mnaifanya. Mara moja au mara mbili kwa wiki? Kila siku asubuhi?\n"
+"*Kwa pamoja fikiria njia mnayoweza kuifanya kuwa ya kufurahisha zaidi. Je, mnaweza kufanya mazoezi kwa hatua flani? Kupeana zamu za kuwa kocha? Kuhamasishana kwa kupeana zawadi ndogo ya bure?"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"* The first person gets to choose or sing a song.\n"
+"* Everyone else must guess the name of the tune (to make it harder they can guess the singer).\n"
+"* The first one to guess it right becomes the next leader."
+msgstr ""
+"* Mtu wa kwanza anayechagua au kuimba wimbo.\n"
+"* Kila mmoja anayebaki atatabiri jina la mulio/sauti (kuifanya iwe ngumu zaidi wanaweza kubashiri muimbaji).\n"
+"* Mtu wa kwanza kubashiriki kwa usahihi anakuwa kiongozi anayefuata."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"This game is best with at least 3 people.\n"
+"* Start in a circle and pass one “snap” around the circle (or a “clap” if you cannot snap).\n"
+"* You “snap” once to throw the “snap”, and once to catch it. Look at the person you are throwing it to.  \n"
+"* The direction (up, down, straight, curved, rolling the ground) and force (hard, soft, medium) that you throw the snap should affect how the person catches it.  \n"
+"* You can bounce the “snap”, throw it in the air, and catch it a few times before passing it.  \n"
+"* When everyone gets good at this, you can start moving around the room, still passing the “snap”.  \n"
+"* Can you throw under the leg? Behind the back? Through your head? Intercept a pass? Have fun with the “snap”!"
+msgstr ""
+"Mchezo huu ni mzuri kwa watu angalau watatu.\n"
+"* Anza katika mduara na mpe \"Mrushie kitu\" kwenye mduara (au \"mpigie kofi\" kama huwezi kumkonyeza).\n"
+"* Unamrushia mara moja kwa kurusha kitu na mara moja kwa kukikamata. Muangalie mtu unayemrushia.\n"
+"* Uelekeo (juu, chini, moja kwa moja, upande, kudunda juu ya ardhi) na lazimisha (ngumu, laini, ya kati) kwamba ukirusha kitu kinaweza kuathiri jinsi mtu atakavyokikamata.\n"
+"* Unaweza ukadunda kitu, kukirusha hewani, na kukimata mda mfupi kabla hujakitoa kwa mwingine.\n"
+"* Kila mmoja akiwa vizuri katika hili, mnaweza kuanza kutembea chumbani, mkiendelea kurushiana kitufe.\n"
+"*Je unaweza kukirusha chini ya mguu? Nyuma ya mgongo? Kupitia kichwani kwako? Kukatisha pasi? Furahia kitufe!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Choose a sport or exercise to do together. Decide on a schedule. Are you going to do it every day? For how long? \n"
+"\n"
+"Try it out for a week. At the end of the week, ask yourself and your family these questions:\n"
+"* How is it going? \n"
+"* How did you feel at the start of the week? \n"
+"* How do you feel at the end of the week? \n"
+"* What can we do differently next week?"
+msgstr ""
+"Chagua mchezo au zoezi la kufanya pamoja. Amua kuhusu ratiba. Je mtakuwa mnaifanya kila siku? Kwa mda gani?\n"
+"\n"
+"Jaribu kwa wiki. Mwisho wa wiki, jiulize wewe na familia yako maswali haya:\n"
+"* Inaendaje?\n"
+"* Ulihisije wakati unaanza wiki? \n"
+"* Unajisikiaje mwisho wa wiki?\n"
+"* Tunaweza kufanyaje tofati wiki ijayo?"
+
+#. type=template
+msgctxt "template"
 msgid "Quick Parenting Tips"
 msgstr "Vidokezo vya Malezi vya Haraka"
 
@@ -3189,6 +3570,21 @@ msgstr "@data.workshop.w_1on1.tools zimeongezwa kwenye @data.parent_centre.my_ti
 msgctxt "template"
 msgid "@data.workshop.w_praise.tools added to @data.parent_centre.my_tips.title."
 msgstr "@data.workshop.w_praise.tools zimeongezwa kwenye @data.parent_centre.my_tips.title."
+
+#. type=template
+msgctxt "template"
+msgid "How many days in the past week did you shout, scream or yell at your teen?"
+msgstr "Ni siku ngapi katika wiki iliyopita ulifoka, kupiga kelele au kupayuka kwa kijana wako?"
+
+#. type=template
+msgctxt "template"
+msgid "Money is one of the biggest stresses for families now."
+msgstr "Pesa ni moja ya msongo mkubwa sana wa mawazo kwa familia sasa hivi."
+
+#. type=template
+msgctxt "template"
+msgid "How many days in the past week have you worried or felt anxious about money?"
+msgstr "Ni siku ngapi kwa wiki iliyopita ulikuwa na wasiwasi au ulihisi kiwewe kuhusu pesa?"
 
 #. type=template
 #. The following strings should not be translated: 
