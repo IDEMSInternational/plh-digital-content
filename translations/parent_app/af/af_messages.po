@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2021-10-21 12:03\n"
+"PO-Revision-Date: 2021-10-21 14:58\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -23,11 +23,6 @@ msgstr "Jy kan altyd hierdie hulpmiddels in die @global.parent_centre kry"
 msgctxt "template"
 msgid "Home"
 msgstr "Tuis"
-
-#. type=template
-msgctxt "template"
-msgid "About PLH App"
-msgstr "Meer oor PLH-app"
 
 #. type=template
 msgctxt "template"
@@ -88,6 +83,11 @@ msgstr "Werksessie-opsies"
 msgctxt "template"
 msgid "Demo Presentation"
 msgstr "Demo-aanbieding"
+
+#. type=template
+msgctxt "template"
+msgid "Organisation Registration"
+msgstr "Registrasie van organisasie"
 
 #. type=template
 msgctxt "template"
@@ -157,8 +157,35 @@ msgstr "Taal"
 
 #. type=template
 msgctxt "template"
-msgid "Welcome Back!"
-msgstr "Welkom terug!"
+msgid "Other"
+msgstr "Ander"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "You may be asked to share this code with people who will support your @global.parent_app journey."
+msgstr "Jy sal moontlik gevra word om hierdie kode te deel met mense wat jou @global.parent_app-reis sal ondersteun."
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Laas gesinchroniseer om: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced"
+msgstr "Hierdie toestel is nog nooit gesinchroniseer nie"
+
+#. type=template
+msgctxt "template"
+msgid "Sync Now"
+msgstr "Sinchroniseer nou"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Besig om te sinchroniseer..."
 
 #. type=template
 msgctxt "template"
@@ -194,11 +221,6 @@ msgstr ""
 msgctxt "template"
 msgid "My name"
 msgstr "My naam"
-
-#. type=template
-msgctxt "template"
-msgid "Day to do the workshops"
-msgstr "Dag om die werksessies te doen"
 
 #. type=template
 msgctxt "template"
@@ -3044,61 +3066,8 @@ msgstr "Jy het hierdie week se werksessie voltooi."
 
 #. type=template
 msgctxt "template"
-msgid "Finish with a song"
-msgstr "Sluit af met ’n liedjie"
-
-#. type=template
-msgctxt "template"
 msgid "See you soon."
 msgstr "Sien jou binnekort."
-
-#. type=template
-msgctxt "template"
-msgid "Goodbye!"
-msgstr "Totsiens!"
-
-#. type=template
-msgctxt "template"
-msgid "Organisation Registration"
-msgstr "Registrasie van organisasie"
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "If you are going through the @global.parent_app programme with the support of an organisation, they should have given you a code. Please enter the code in the box below and press Done."
-msgstr "As jy met die ondersteuning van ’n organisasie deur die@global.parent_app-program gaan, moes hulle jou ’n kode gegee het. Voer die kode in die veld hier onder in en druk op Klaar."
-
-#. type=template
-msgctxt "template"
-msgid "Done"
-msgstr "Klaar"
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "You may be asked to share this code with people who will support your @global.parent_app journey."
-msgstr "Jy sal moontlik gevra word om hierdie kode te deel met mense wat jou @global.parent_app-reis sal ondersteun."
-
-#. type=template
-#. The string @local.sync_latest should not be translated.
-msgctxt "template"
-msgid "Last sync at: @local.sync_latest"
-msgstr "Laas gesinchroniseer om: @local.sync_latest"
-
-#. type=template
-msgctxt "template"
-msgid "This device has never been synced"
-msgstr "Hierdie toestel is nog nooit gesinchroniseer nie"
-
-#. type=template
-msgctxt "template"
-msgid "Sync Now"
-msgstr "Sinchroniseer nou"
-
-#. type=template
-msgctxt "template"
-msgid "Syncing..."
-msgstr "Besig om te sinchroniseer..."
 
 #. type=template
 msgctxt "template"
@@ -9816,18 +9785,8 @@ msgstr "Noudat ons ’n paar selfsorgvaardighede gebou het, kom ons maak seker d
 
 #. type=template
 msgctxt "template"
-msgid "Start customising"
-msgstr "Begin pasmaak"
-
-#. type=template
-msgctxt "template"
 msgid "You seem to have completed the customisation process already. You can now skip this activity."
 msgstr "Dit kom voor dat jy reeds die pasmaakproses voltooi het. Jy kan nou hierdie aktiwiteit oorslaan."
-
-#. type=template
-msgctxt "template"
-msgid "Skip customisation survey"
-msgstr "Slaan die pasmaakopname oor"
 
 #. type=template
 msgctxt "template"
@@ -11136,6 +11095,11 @@ msgstr "Idees van ander gesinne ..."
 
 #. type=global
 msgctxt "global"
+msgid "Challenges & solutions"
+msgstr "Uitdagings en oplossings"
+
+#. type=global
+msgctxt "global"
 msgid "Find out more"
 msgstr "Vind meer uit"
 
@@ -11176,13 +11140,23 @@ msgstr "Vorige"
 
 #. type=global
 msgctxt "global"
-msgid "Challenges & solutions"
-msgstr "Uitdagings en oplossings"
+msgid "Save"
+msgstr "Stoor"
 
 #. type=global
 msgctxt "global"
-msgid "Save"
-msgstr "Stoor"
+msgid "Start"
+msgstr "Begin"
+
+#. type=global
+msgctxt "global"
+msgid "Finish with a song"
+msgstr "Sluit af met ’n liedjie"
+
+#. type=global
+msgctxt "global"
+msgid "Goodbye!"
+msgstr "Totsiens!"
 
 #. type=global
 msgctxt "global"
@@ -11911,8 +11885,8 @@ msgstr "Ontspan"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Relax\" @global.parent_point"
-msgstr "“Ontspan” @global.parent_point"
+msgid "**Relax** @global.parent_point"
+msgstr "**Ontspan** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11922,14 +11896,14 @@ msgstr "Behandel jouself goed"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Treat yourself well\" @global.parent_point"
-msgstr "“Behandel jouself goed” @global.parent_point"
+msgid "**Treat yourself well** @global.parent_point"
+msgstr "**Behandel jouself goed** @global.parent_point"
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Praise yourself\" @global.parent_point"
-msgstr "“Prys jouself” @global.parent_point"
+msgid "**Praise yourself** @global.parent_point"
+msgstr "**Prys jouself** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11939,8 +11913,8 @@ msgstr "Een-tot-een-tyd"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"One-on-one time\" @global.parent_point"
-msgstr "“Een-tot-een-tyd” @global.parent_point"
+msgid "**One-on-one time** @global.parent_point"
+msgstr "**Een-tot-een-tyd** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11950,8 +11924,8 @@ msgstr "Prys jou tiener"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Praise your teen\" @global.parent_point"
-msgstr "“Prys jou tiener” @global.parent_point"
+msgid "**Praise your teen** @global.parent_point"
+msgstr "**Prys jou tiener** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11961,8 +11935,8 @@ msgstr "Wees positief"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Get positive\" @global.parent_point"
-msgstr "“Wees positief” @global.parent_point"
+msgid "**Get positive** @global.parent_point"
+msgstr "**Wees positief** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11972,8 +11946,8 @@ msgstr "Haal asem, moenie skree nie"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Breathe not yell\" @global.parent_point"
-msgstr "“Haal asem, moenie skree nie” @global.parent_point"
+msgid "**Breathe not yell** @global.parent_point"
+msgstr "**Haal asem, moenie skree nie** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11983,8 +11957,8 @@ msgstr "Goeie geldkeuse"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Good money choice\" @global.parent_point"
-msgstr "“Goeie geldkeuse” @global.parent_point"
+msgid "**Good money choice** @global.parent_point"
+msgstr "**Goeie geldkeuse** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11994,8 +11968,8 @@ msgstr "Kalm gevolg"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Calm consequence\" @global.parent_point"
-msgstr "“Kalm gevolg” @global.parent_point"
+msgid "**Calm consequence** @global.parent_point"
+msgstr "**Kalm gevolg** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12005,8 +11979,8 @@ msgstr "Veilig"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "\"Safe\" @global.parent_point"
-msgstr "“Veilig” @global.parent_point"
+msgid "**Safe** @global.parent_point"
+msgstr "**Veilig** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12306,8 +12280,8 @@ msgstr "Welkom en selfsorg"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Welcome and Self-Care\" workshop"
-msgstr "“Welkom en selfsorg”-werksessie"
+msgid "**Welcome and Self-Care** workshop"
+msgstr "**Welkom en selfsorg**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12326,8 +12300,8 @@ msgstr "Een-tot-een-tyd"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"One-on-One Time\" workshop"
-msgstr "“Een-tot-een-tyd”-werksessie"
+msgid "**One-on-One Time** workshop"
+msgstr "**Een-tot-een-tyd**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12341,8 +12315,8 @@ msgstr "Prys"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Praise\" workshop"
-msgstr "“Prys”-werksessie"
+msgid "**Praise** workshop"
+msgstr "**Prys**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12356,8 +12330,8 @@ msgstr "Positiewe opdragte"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Positive Instructions\" workshop"
-msgstr "“Positiewe opdragte”-werksessie"
+msgid "**Positive Instructions** workshop"
+msgstr "**Positiewe opdragte**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12371,8 +12345,8 @@ msgstr "Hantering van stres"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Managing Stress\" workshop"
-msgstr "“Streshantering”-werksessie"
+msgid "**Managing Stress** workshop"
+msgstr "**Streshantering**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12386,8 +12360,8 @@ msgstr "Gesinsbegrotings"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Family Budgets\" workshop"
-msgstr "“Gesinsbegrotings”-werksessie"
+msgid "**Family Budgets** workshop"
+msgstr "**Gesinsbegrotings**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12401,8 +12375,8 @@ msgstr "Reëls"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Rules\" workshop"
-msgstr "“Reëls”-werksessie"
+msgid "**Rules** workshop"
+msgstr "**Reëls**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12416,8 +12390,8 @@ msgstr "Kalm gevolge"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Calm Consequences\" workshop"
-msgstr "“Kalm gevolge”-werksessie"
+msgid "**Calm Consequences** workshop"
+msgstr "**Kalm gevolge**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12431,8 +12405,8 @@ msgstr "Probleemoplossing"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Problem Solving\" workshop"
-msgstr "“Probleemoplossing”-werksessie"
+msgid "**Problem Solving** workshop"
+msgstr "**Probleemoplossing**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12446,8 +12420,8 @@ msgstr "Tienerveiligheid"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Teen Safety\" workshop"
-msgstr "“Tienerveiligheid”-werksessie"
+msgid "**Teen Safety** workshop"
+msgstr "**Tienerveiligheid**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12461,8 +12435,8 @@ msgstr "Krisishantering"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Dealing with Crisis\" workshop"
-msgstr "“Krisishantering”-werksessie"
+msgid "**Dealing with Crisis** workshop"
+msgstr "**Krisishantering**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12476,8 +12450,8 @@ msgstr "Viering en volgende stappe"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "\"Celebration and Next Steps\" workshop"
-msgstr "“Viering en volgende stappe”-werksessie"
+msgid "**Celebration and Next Steps** workshop"
+msgstr "**Viering en volgende stappe**-werksessie"
 
 #. type=data_list
 msgctxt "data_list"
