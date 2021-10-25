@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2021-10-25 10:16\n"
+"PO-Revision-Date: 2021-10-25 16:12\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -1063,7 +1063,7 @@ msgstr "kujiandaa na kijana wako kuhusu hali ya hatari inayoweza kutokea"
 #. type=template
 msgctxt "template"
 msgid "My teen told me that something serious happened to them and I did not know how to handle it."
-msgstr "Kijana wangu aliniambia kwamba kitu flani kikubwa kimetokea kwao na sikujua jinsi ya kukikabili."
+msgstr "Kijana wangu aliniambia kuwa kuna jambo kubwa limewapata na sikujua jinsi ya kulishughulikia."
 
 #. type=template
 msgctxt "template"
@@ -11955,6 +11955,12 @@ msgid "Doing a relaxation activity"
 msgstr "Kufanya kazi ya kutulia/ kupumzika"
 
 #. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do a relax, tap the @global.parent_point and celebrate your success!"
+msgstr "Kila muda ukifanya tulizo/pumziko, @global.parent_point na sherekea mafanikio yako!"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Treat yourself well"
 msgstr "Jitendee vizuri"
@@ -11966,10 +11972,32 @@ msgid "**Treat yourself well** @global.parent_point"
 msgstr "@global.parent_point ya **Jitendee vizuri**"
 
 #. type=data_list
+msgctxt "data_list"
+msgid "Doing something they like for themselves"
+msgstr "Kufanya kitu flani wanachokipenda"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you treat yourself well, tap the @global.parent_point and celebrate your success!"
+msgstr "Kila muda ukijitendea vizuri, bonyeza @global.parent_point na sherekea mafanikio yako!"
+
+#. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
 msgid "**Praise yourself** @global.parent_point"
 msgstr "@global.parent_point ya **Jisifie**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praising themselves"
+msgstr "Kujisifu wenyewe"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you praise yourself, tap the @global.parent_point and celebrate your success!"
+msgstr "Kila mara unapojisifia, bofya @global.parent_point na usherehekee mafanikio yako!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11984,6 +12012,17 @@ msgstr "@global.parent_point ya **Muda wa mazungumzo ya wawili**"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Spending time with their teen"
+msgstr "Kutumia muda na kijana wake"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do one-on-one time, tap the @global.parent_point and celebrate your success!"
+msgstr "Kila marai unapofanya mazungumzo ya watu wawili, bofya @global.parent_point na usherehekee mafanikio yako!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Praise your teen"
 msgstr "Msifie kijana wako"
 
@@ -11992,6 +12031,17 @@ msgstr "Msifie kijana wako"
 msgctxt "data_list"
 msgid "**Praise your teen** @global.parent_point"
 msgstr "@global.parent_point ya **Msifie kijana wako**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praising their teen when they did positive thing"
+msgstr "Kumsifia kijana wake alipofanya jambo chanya"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you praise your teen, tap the @global.parent_point and celebrate your success!"
+msgstr "Kila mara unapomsifia kijana wako, bofya @global.parent_point na usherehekee mafanikio yako!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12006,6 +12056,17 @@ msgstr "@global.parent_point ya **Kuwa na mtazamo chanya**"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Giving their teen a positive instruction"
+msgstr "Kumpa vijana wake maagizo chanya"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a positive instruction, tap the @global.parent_point and celebrate your success!"
+msgstr "Kila mara unapotoa maagizo chanya, bofya @global.parent_point na usherehekee mafanikio yako!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Breathe not yell"
 msgstr "Vuta pumzi, usipige mayowe"
 
@@ -12014,6 +12075,17 @@ msgstr "Vuta pumzi, usipige mayowe"
 msgctxt "data_list"
 msgid "**Breathe not yell** @global.parent_point"
 msgstr "@global.parent_point ya **Vuta pumzi, usipige mayowe**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking a pause before responding"
+msgstr "Kutulia kabla ya kujibu"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you take a pause before responding, tap the @global.parent_point and celebrate your success!"
+msgstr "Kila mara unapotulia kabla ya kujibu, bofya @global.parent_point na usherehekee mafanikio yako!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12028,6 +12100,17 @@ msgstr "@global.parent_point ya **Maamuzi mazuri kuhusu pesa**"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Keeping the budget"
+msgstr "Kutumia bajeti"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you make a good choice about needs, wants and savings, tap the @global.parent_point and celebrate your success!"
+msgstr "Kila mara unapochagua vizuri mahitaji, matakwa na kujiwekea akiba, bofya @global.parent_point na usherehekee mafanikio yako!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Calm consequence"
 msgstr "Malipo mepesi"
 
@@ -12036,6 +12119,17 @@ msgstr "Malipo mepesi"
 msgctxt "data_list"
 msgid "**Calm consequence** @global.parent_point"
 msgstr "@global.parent_point ya **Malipo mepesi**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Giving their teen a consequence in a calm way"
+msgstr "Kuamuru kwa utulivu kijana wake afanye malipo"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a calm consequence, tap the @global.parent_point and celebrate your success!"
+msgstr "Kila mara unapoamuru kufanywa kwa malipo mepesi, bofya @global.parent_point na usherehekee mafanikio yako!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12050,8 +12144,30 @@ msgstr "@global.parent_point **Salama**"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Planning or keeping a family safety plan"
+msgstr "Kupanga au kutumia mpango wa usalama wa familia"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do something to keep your teen safe, tap the @global.parent_point and celebrate your success!"
+msgstr "Kila mara unapofanya jambo ili kumweka salama kijana wako, bofya @global.parent_point na usherehekee mafanikio yako!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did it? Tap it!"
+msgstr "Ulifanya hivyo? Bofya!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Help"
 msgstr "Msaada"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Help** in the @global.parent_centre"
+msgstr "**Msaada** kwenye @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12059,14 +12175,32 @@ msgid "My Tips"
 msgstr "Vidokezo Vyangu"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**My Tips** in the @global.parent_centre"
+msgstr "**Vidokezo Vyangu** kwenye @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Essential Tools"
 msgstr "Nyenzo Muhimu"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Essential Tools** in the @global.parent_centre"
+msgstr "**Nyenzo Muhimu** kwenye @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "COVID"
 msgstr "UVIKO"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**COVID** in the @global.parent_centre"
+msgstr "**UVIKO** kwenye @global.parent_centre"
 
 #. type=data_list
 #. The string @global.parent_app should not be translated.
@@ -12076,13 +12210,38 @@ msgstr "Rekebisha @global.parent_app"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Customise Again"
+msgstr "Rekebisha Tena"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app**
+#.      @global.parent_centre
+msgctxt "data_list"
+msgid "**Customise @global.parent_app** in the @global.parent_centre"
+msgstr "**Rekebisha @global.parent_app** kwenye @global.parent_centre"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Relax & Activities"
 msgstr "Burudani & Shughuli"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "under **Relax & Activities** in the @global.parent_centre"
+msgstr "kwenye **Burudani & Shughuli** katika @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Support Contacts"
-msgstr "Kuwasiliana kwa Msaada"
+msgstr "Kuwasiliana Nasi kwa Msaada"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Support Contacts** in the @global.parent_centre"
+msgstr "**Kuwasiliana Nasi kwa Msaada** kwenye @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12090,14 +12249,32 @@ msgid "Evidence Base"
 msgstr "Kituo cha Ushahidi"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Evidence Base** in the @global.parent_centre"
+msgstr "**Kituo cha Ushahidi** kwenye @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Technical Support"
 msgstr "Msaada wa Kiufundi"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Technical Support** in the @global.parent_centre"
+msgstr "**Msaada wa Kiufundi** kwenye @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Message Archive"
 msgstr "Hifadhi ya Ujumbe"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Message Archive** in the @global.parent_centre"
+msgstr "**Hifadhi ya Ujumbe** kwenye @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
