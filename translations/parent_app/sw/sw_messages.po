@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2021-10-29 05:34\n"
+"PO-Revision-Date: 2021-10-29 11:45\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -78,9 +78,9 @@ msgid ""
 "\n"
 "Parenting for Lifelong Health (PLH) is committed to supporting free and shareable parenting materials and programmes, to support parents worldwide to promote the well-being of their children."
 msgstr ""
-"@globa.parent_app ilianzishwa na Malezi kwa Maisha yenye Afya (PLH) - duniani kote ushirikiano kati watalaam wa malezi kutoka shirika la watoto duniani (UNICEF), shirika la afya duniani (WHO) na Chuo Kikuu cha Afrika Kusini na Uingereza, pamoja na mashirika ya Afrika yasiyo ya kiserikali na familia na vijana Afrika nzima. Wazazi na vijana walifanya kazi na sisi katika programu na walisaidia kuhakikisha ni rahisi--kutumia, ya kufurahisha na ya kushirikisha. Baadhi ya maudhui katika programu hii, kama mapendekezo ya kazi na hadithi kwa njia ya picha, zilitengenezwa na wazazi na vijana kuhakikisha yanfaa kwa mahitaji ya familia.\n"
+"@global.parent_app iliundwa na taasisi ya Parenting for Lifelong Health (PLH) inayotokana na ushirikiano ulioanzishwa duniani kote wa wataalamu wa malezi kutoka Shirika la UNICEF, Shirika la Afya Duniani (WHO), vyuo vikuu vya nchini Afrika Kusini na Uingereza, mashirika yasiyo ya kiserikali barani Afrika, na familia na vijana mbalimbali kote barani Afrika. Wazazi na vijana walifanya kazi nasi kwenye programu hii na kutusaidia kuhakikisha kuwa programu hii inakuwa rahisi kutumia, inafurahisha na inashughulisha. Baadhi ya maudhui yaliyomo kwenye programu hii, kama vile shughuli zinazopendekezwa na simulizi zilizotolewa kama mifano, yaliundwa kwa kuwashirikisha wazazi na vijana ili kuhakikisha kuwa maudhui hayo yanakidhi mahitaji ya familia.\n"
 "\n"
-"Malezi kwa Maisha yenye Afya (PLH) imejidhatiti kusaidia vitendea kazi na miradi bura na yenye kushirikishana,kusaidia wazazi duniani kote kuboresha ustawi wa watoto wao."
+"Taasisi ya PLH inajitolea kwa dhati ili kusaidia kuundwa kwa nyenzo na programu za malezi zisizouzwa na zinazoweza kusambazwa kwa watu wengine, ili kuwasaidia wazazi duniani kote waweze kuboresha ustawi wa watoto wao."
 
 #. type=template
 msgctxt "template"
@@ -187,12 +187,12 @@ msgstr "Niliipata mwenyewe"
 #. type=template
 msgctxt "template"
 msgid "A friend or family"
-msgstr "Rafiki ay familia"
+msgstr "Rafiki au familia"
 
 #. type=template
 msgctxt "template"
 msgid "Other"
-msgstr "Mwingine"
+msgstr "Njia nyingine"
 
 #. type=template
 #. The string @global.parent_app should not be translated.
@@ -229,7 +229,7 @@ msgstr "Anza"
 #. type=template
 msgctxt "template"
 msgid "How would you like to do this workshop?"
-msgstr "Je, kwa namna gani ungependa kufanya warsha hii?"
+msgstr "Je, ungependa kufanyaje warsha hii?"
 
 #. type=template
 msgctxt "template"
@@ -260,7 +260,7 @@ msgstr "Jina langu"
 #. The string @global.weekly_workshop should not be translated.
 msgctxt "template"
 msgid "@global.weekly_workshop day"
-msgstr "@global.weekly_siku ya warsha"
+msgstr "Siku ya @global.weekly_workshop"
 
 #. type=template
 msgctxt "template"
@@ -396,7 +396,7 @@ msgstr "Wasiliana na mimi kwa WhatsApp"
 #. type=template
 msgctxt "template"
 msgid "Contact me via email"
-msgstr "Wasiliana na mimi kupitia barua pepe"
+msgstr "Wasiliana nami kwa barua-pepe"
 
 #. type=template
 msgctxt "template"
@@ -406,12 +406,12 @@ msgstr "Andika namba yako ya simu"
 #. type=template
 msgctxt "template"
 msgid "Type your email address"
-msgstr "Andika anuani yako ya barua pepe"
+msgstr "Andika anuani yako ya barua-pepe"
 
 #. type=template
 msgctxt "template"
 msgid "Tell us about your issue"
-msgstr "Tuambie kuhusu jambo lako"
+msgstr "Tueleze tatizo lako"
 
 #. type=template
 msgctxt "template"
@@ -437,17 +437,17 @@ msgstr "Machaguo"
 #. The string @global.my_activities should not be translated.
 msgctxt "template"
 msgid "Add this activity to @global.my_activities"
-msgstr "Ongeza kazi hii kwenye @global.my_activites"
+msgstr "Ongeza shughuli hii kwenye @global.my_activities"
 
 #. type=template
 msgctxt "template"
 msgid "Relaxation activities"
-msgstr "Kazi za kupumzika/Kutulia"
+msgstr "Shughuli za kuburudisha"
 
 #. type=template
 msgctxt "template"
 msgid "Something fun to do with your teen"
-msgstr "Kitu cha kufurahisha kufanya na kijana wako"
+msgstr "Kitu cha kufurahisha cha kufanya na kijana wako"
 
 #. type=template
 #. The string @global.my_relaxes should not be translated.
@@ -465,7 +465,7 @@ msgstr "Bado haujaongeza shughuli zozote kwenye @global.my_activities. Kwa nini 
 #. The string @local.threshold should not be translated.
 msgctxt "template"
 msgid "You selected @local.threshold or less"
-msgstr "Umechagua @local.threshold au chini ya hiyo"
+msgstr "Umechagua @local.threshold au pungufu yake"
 
 #. type=template
 #. The string @local.threshold should not be translated.
@@ -481,24 +481,24 @@ msgstr "Jibu"
 #. type=template
 msgctxt "template"
 msgid "Days in the past month"
-msgstr "Siku katika mwezi uliopita"
+msgstr "Siku za mwezi uliopita"
 
 #. type=template
 msgctxt "template"
 msgid "Days in the past week"
-msgstr "Siku katika wiki iliyopita"
+msgstr "Siku za wiki iliyopita"
 
 #. type=template
 #. The string @local.threshold should not be translated.
 msgctxt "template"
 msgid "You selected less than @local.threshold"
-msgstr "Umechagua kidogo kuliko @local.threshold"
+msgstr "Umechagua pungufu ya @local.threshold"
 
 #. type=template
 #. The string @local.threshold should not be translated.
 msgctxt "template"
 msgid "Unlock for less than @local.threshold"
-msgstr "Fungua kidogo kuliko @local.threshold"
+msgstr "Fungua kwa pungufu ya @local.threshold"
 
 #. type=template
 #. The string @local.threshold should not be translated.
@@ -514,13 +514,13 @@ msgstr "Video"
 #. type=template
 msgctxt "template"
 msgid "Timer"
-msgstr "Kipima mda"
+msgstr "Kipima muda"
 
 #. type=template
 #. The string @local.timer_duration should not be translated.
 msgctxt "template"
 msgid "Press the triangle to help you keep this discussion to @local.timer_duration minutes."
-msgstr "Gandamiza pembe tatu kukusaidia kuweka majadiliano haya kwenye @local.timer_duration minutes."
+msgstr "Binya pembetatu ili mjadala huu udumu kwa dakika @local.timer_duration."
 
 #. type=template
 #. The string @data.habit.spend_time.in_text_title should not be translated.
@@ -536,7 +536,7 @@ msgstr "Lengo lilikuwa kuzungumza na kijana wako mkiwa wawili."
 #. type=template
 msgctxt "template"
 msgid "DAY – Do it every day"
-msgstr "SIKU - Fanya kila siku"
+msgstr "SIKU – Fanya kila siku"
 
 #. type=template
 msgctxt "template"
@@ -546,30 +546,30 @@ msgstr "CHEZA – Mwache kijana wako achague shughuli"
 #. type=template
 msgctxt "template"
 msgid "STAY – Give your teen all of your attention"
-msgstr "UWEPO - Mpe kijana wako umakini wako wote"
+msgstr "KAA – Mpe kijana wako usikivu wako wote"
 
 #. type=template
 msgctxt "template"
 msgid "Why was this tip helpful for you?"
-msgstr "Kwa nini dondoo hii ilikuwa msaada kwako?"
+msgstr "Kwa nini kidokezo hiki kilikufaa?"
 
 #. type=template
 #. The string @local.choice_1 should not be translated.
 msgctxt "template"
 msgid "\"@local.choice_1\" was helpful because..."
-msgstr "\"@local.choice_1\"ilikuwa msaada kwa sababu..."
+msgstr "\"@local.choice_1\" lilifaa kwa sababu..."
 
 #. type=template
 #. The string @local.choice_2 should not be translated.
 msgctxt "template"
 msgid "\"@local.choice_2\" was helpful because..."
-msgstr "\"@local.choice_2\"ilikuwa msaada kwa sababu..."
+msgstr "\"@local.choice_2\" lilifaa kwa sababu..."
 
 #. type=template
 #. The string @local.choice_3 should not be translated.
 msgctxt "template"
 msgid "\"@local.choice_3\" was helpful because..."
-msgstr "\"@local.choice_3\"ilikuwa msaada kwa sababu..."
+msgstr "\"@local.choice_3\" lilifaa kwa sababu..."
 
 #. type=template
 msgctxt "template"
@@ -579,7 +579,7 @@ msgstr "Kuwa na muda maalum wa kufanya jambo hili hunisaidia kukumbuka."
 #. type=template
 msgctxt "template"
 msgid "With a routine, my teen and I can both keep our schedule free."
-msgstr "Kwa kuwa na ratiba, kijana wangu na mimi wote tunaweza kuweka huru ratiba yetu."
+msgstr "Kwa kuweka utaratibu, mimi na kijana wangu tunaweza kupata muda wa ziada kwenye ratiba zetu."
 
 #. type=template
 msgctxt "template"
