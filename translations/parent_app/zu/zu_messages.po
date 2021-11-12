@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2021-11-12 12:01\n"
+"PO-Revision-Date: 2021-11-12 18:03\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -4208,11 +4208,6 @@ msgstr "Kuyacindezela kakhulu lapho izingane ziziphatha kabi."
 
 #. type=template
 msgctxt "template"
-msgid "In the past week, did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
-msgstr "Esontweni elidlule, ingabe ujezise izingane zakho ngokuzishaya ngesandla sakho noma ngento enjengenduku noma ibhande?"
-
-#. type=template
-msgctxt "template"
 msgid "It is wonderful that you are responding calmly when your teen does something upsetting. They can learn so much from you!"
 msgstr "Kuhle ukuthi uphendula ngomoya ophansi lapho ingane yakho yenza okuthile okucasulayo. Bangafunda okuningi kuwe!"
 
@@ -4553,30 +4548,8 @@ msgstr "Ingabe uyaqiniseka ukuthi ufuna ukuweqa lo mbuzo?"
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Remember, if you DO answer, your answer stays anonymous.\n"
-"\n"
-"You can always choose not to answer a question by checking the check box next to the slider."
-msgstr ""
-"Khumbula, UMA uwuphendula, impendulo yakho ngeke idalule igama lakho.\n"
-"\n"
-"Ungahlala ukhetha ukungawuphenduli umbuzo ngokuqoka ibhokisi lokuhlola eduze kwesilayidi."
-
-#. type=template
-msgctxt "template"
 msgid "You selected \"I would rather not answer\""
 msgstr "Ukhethe okuthi \"Angithandi ukungaphenduli\""
-
-#. type=template
-msgctxt "template"
-msgid ""
-"That's okay!\n"
-"\n"
-"Remember, if you DO answer, your answer stays anonymous and you will receive content that is exactly right for you!"
-msgstr ""
-"Kulungile!\n"
-"\n"
-"Khumbula, UMA uphendula, impendulo yakho ngeke idalule igama lakho futhi uzothola okuqukethwe okulungele wena!"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4845,18 +4818,13 @@ msgstr "Singathanda ukwazi igama lakho noma isiteketiso sakho:"
 
 #. type=template
 msgctxt "template"
-msgid "Are you a lady or a gentleman?"
-msgstr "Ingabe ungowesifazane noma owesilisa?"
-
-#. type=template
-msgctxt "template"
-msgid "Lady"
+msgid "Woman"
 msgstr "Owesifazane"
 
 #. type=template
 msgctxt "template"
-msgid "Gentleman"
-msgstr "Owesilisa"
+msgid "Man"
+msgstr "owesilisa"
 
 #. type=template
 msgctxt "template"
@@ -11624,12 +11592,6 @@ msgstr ""
 "<p> Kanye ngeviki ukuqeqeshwa okusha kuzokwenziwa kutholakalele wena - ngaso sonke isikhathi kuzogxila ekhonweni elihlukile lokuba umzali. Kuchofoze ukuze uqale ukuqeqeshwa kwakho kokuqala!</p>"
 
 #. type=tour
-#. The string @global.weekly_workshops should not be translated.
-msgctxt "tour"
-msgid "@global.weekly_workshops quick start"
-msgstr "@global.weekly_workshops ukukuqala ngokushesha"
-
-#. type=tour
 #. The string @global.weekly_workshop should not be translated.
 msgctxt "tour"
 msgid "<p>The round button appears when a new @global.weekly_workshop is ready for you to do.</p>"
@@ -11745,6 +11707,66 @@ msgstr "<p> Ungakushintsha lapha uma ufuna ukwenza @global.weekly_workshops yakh
 msgctxt "tour"
 msgid "<p> Tap here to change your group name. </p>"
 msgstr "<p> Chofoza lapha uma ufuna ukushintsha igama leqembu lakho. </p>"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Start"
+msgstr "Qala"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Continue"
+msgstr "Qhubeka"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Welcome to ParentApp. Click here to start your journey!"
+msgstr "Siyakwamukela kuParentApp. Chofoza lapha ukuze uqale uhambo lwakho!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
+msgstr "Sithembe ukuthi uzizwa KAHLE. Ukuba umzali kunzima, kodwa akwephuzanga ukuthi uphinde uqale futhi nosemusha wakho. Sekuyatholakala ukuqeqeshwa kwakho kokuqala kokuba umzali! Chofoza lapha ukuze uqale uhambo lwakho ParentApp!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
+msgstr "Sawubona! Ingabe konke kuhamba KAHLE? Kubonakala sengathi muva nje awuyivulanga i-ParentApp. Kungani ungayizami? Izigidi zabazali zithole ewusizo la mathuluzi. Sisekhona lapha ukuba sikusekele."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
+msgstr "Sawubona futhi! Akukaze kwephuza ukuthi usebenzise i-ParentApp bese uthola ukusekelwa okuqhubekayo ekubeni umzali. Kungani ungakuzami lapho usendleleni eya emsebenzini noma uma upheka? Izigidi zabazali ziwathole ewusizo amathuluzi ethu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
+msgstr "I-ParentApp iyakukhumbula! Kuningi ongakuhlola. Sisekhona lapha ukuba sikusekele."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
+msgstr "Sithembe ukuthi uzizwa KAHLE. Siyazi ukuthi kunzima ukuba wumzali - sebenzisa i-app yabazali ukuze uzisize ukulawula ukucindezeleka."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
+msgstr "Sithembe ukuthi uzizwa KAHLE. Siyazi ukuthi kunzima ukuba umzali - sebenzisa i-ParentApp ukuze ulungiselele intsha yakho ukuthi iphumelele empilweni."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
+msgstr "Sithembe ukuthi uzizwa KAHLE. Siyazi ukuthi kunzima ukuba umzali - sebenzisa i-ParentApp ukuze ikusize ulawule indlela osemusha wakho aziphatha ngayo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New message from PLH"
+msgstr "Umlayezo omusha ovela ku-PLH"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
+msgstr "Sithembe ukuthi uzizwa KAHLE. Siyazi ukuthi kunzima ukuba umzali - sebenzisa i-ParentApp ukuze nizwane kakhulu nengane yakho eseminyakeni yokuthomba!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12451,64 +12473,4 @@ msgstr "Ukuqeqeshelwa **Ukubungaza kanye Nezinyathelo Ezilandelayo**"
 msgctxt "data_list"
 msgid "How to support each other"
 msgstr "Indlela yokusekelana"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Start"
-msgstr "Qala"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Continue"
-msgstr "Qhubeka"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Welcome to ParentApp. Click here to start your journey!"
-msgstr "Siyakwamukela kuParentApp. Chofoza lapha ukuze uqale uhambo lwakho!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
-msgstr "Sithembe ukuthi uzizwa KAHLE. Ukuba umzali kunzima, kodwa akwephuzanga ukuthi uphinde uqale futhi nosemusha wakho. Sekuyatholakala ukuqeqeshwa kwakho kokuqala kokuba umzali! Chofoza lapha ukuze uqale uhambo lwakho ParentApp!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
-msgstr "Sawubona! Ingabe konke kuhamba KAHLE? Kubonakala sengathi muva nje awuyivulanga i-ParentApp. Kungani ungayizami? Izigidi zabazali zithole ewusizo la mathuluzi. Sisekhona lapha ukuba sikusekele."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
-msgstr "Sawubona futhi! Akukaze kwephuza ukuthi usebenzise i-ParentApp bese uthola ukusekelwa okuqhubekayo ekubeni umzali. Kungani ungakuzami lapho usendleleni eya emsebenzini noma uma upheka? Izigidi zabazali ziwathole ewusizo amathuluzi ethu."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
-msgstr "I-ParentApp iyakukhumbula! Kuningi ongakuhlola. Sisekhona lapha ukuba sikusekele."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
-msgstr "Sithembe ukuthi uzizwa KAHLE. Siyazi ukuthi kunzima ukuba wumzali - sebenzisa i-app yabazali ukuze uzisize ukulawula ukucindezeleka."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
-msgstr "Sithembe ukuthi uzizwa KAHLE. Siyazi ukuthi kunzima ukuba umzali - sebenzisa i-ParentApp ukuze ulungiselele intsha yakho ukuthi iphumelele empilweni."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
-msgstr "Sithembe ukuthi uzizwa KAHLE. Siyazi ukuthi kunzima ukuba umzali - sebenzisa i-ParentApp ukuze ikusize ulawule indlela osemusha wakho aziphatha ngayo."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "New message from PLH"
-msgstr "Umlayezo omusha ovela ku-PLH"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
-msgstr "Sithembe ukuthi uzizwa KAHLE. Siyazi ukuthi kunzima ukuba umzali - sebenzisa i-ParentApp ukuze nizwane kakhulu nengane yakho eseminyakeni yokuthomba!"
 
