@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2021-10-22 07:55\n"
+"PO-Revision-Date: 2021-11-12 18:03\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -4201,11 +4201,6 @@ msgstr "Go tshwenya mo maikutlong tota fa bana ba sa itshware sentle."
 
 #. type=template
 msgctxt "template"
-msgid "In the past week, did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
-msgstr "Mo bekeng e e fetileng, a o kile wa otlhaya bana ba gago mo mmeleng ka go ba itaya, go ba kgwathisa, kgotsa go ba faphola ka seatla sa gago kgotsa ka sengwe jaaka thupa kgotsa lebante?"
-
-#. type=template
-msgctxt "template"
 msgid "It is wonderful that you are responding calmly when your teen does something upsetting. They can learn so much from you!"
 msgstr "Go gontle fa o araba o kgobile makgwafo fa mosha wa gago a dira sengwe se se tenang. Ba ka ithuta go le gontsi go tswa mo go wena!"
 
@@ -4546,30 +4541,8 @@ msgstr "A o a tlhomamisa gore o batla go tlola potso eno?"
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Remember, if you DO answer, your answer stays anonymous.\n"
-"\n"
-"You can always choose not to answer a question by checking the check box next to the slider."
-msgstr ""
-"Gopola, fa O araba, karabo ya gago e nna ya motlhokaina.\n"
-"\n"
-"O ka nna wa tlhopha gore o se ka wa araba potso ka go tshwaya lebokosotshwao le le mo selaedareng."
-
-#. type=template
-msgctxt "template"
 msgid "You selected \"I would rather not answer\""
 msgstr "O tlhophile “Ke tlhopha go se arabe”"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"That's okay!\n"
-"\n"
-"Remember, if you DO answer, your answer stays anonymous and you will receive content that is exactly right for you!"
-msgstr ""
-"Ga se bothata!\n"
-"\n"
-"Gopola, fa O araba, karabo ya gago e tla nna ya tlhokaina mme o tla romelelwa mafoko a a go tshwanetseng sentle!"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4838,17 +4811,12 @@ msgstr "Re ka rata go itse leina la gago la ntlha kgotsa leina le o tlwaelegilen
 
 #. type=template
 msgctxt "template"
-msgid "Are you a lady or a gentleman?"
-msgstr "O mosadi kgotsa o monna?"
-
-#. type=template
-msgctxt "template"
-msgid "Lady"
+msgid "Woman"
 msgstr "Mosadi"
 
 #. type=template
 msgctxt "template"
-msgid "Gentleman"
+msgid "Man"
 msgstr "Monna"
 
 #. type=template
@@ -11617,12 +11585,6 @@ msgstr ""
 "<p> Gangwe ka beke go tla nna le workshop e ntšha - mme nako nngwe le nngwe fa e tsena, e tla bo e bua ka mokgwa o o farologaneng wa go godisa bana. E tobetse mme o simolole workshop ya gago ya ntlha!</p>"
 
 #. type=tour
-#. The string @global.weekly_workshops should not be translated.
-msgctxt "tour"
-msgid "@global.weekly_workshops quick start"
-msgstr "@global.weekly_workshops simolola ka bonako"
-
-#. type=tour
 #. The string @global.weekly_workshop should not be translated.
 msgctxt "tour"
 msgid "<p>The round button appears when a new @global.weekly_workshop is ready for you to do.</p>"
@@ -11738,6 +11700,66 @@ msgstr "<p> O ka fetola fano fa o batla go dira @global.weekly_workshops lo le s
 msgctxt "tour"
 msgid "<p> Tap here to change your group name. </p>"
 msgstr "<p> Tobetsa fano go fetola leina la setlhopha sa lona. </p>"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Start"
+msgstr "Simolola"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Continue"
+msgstr "Tswelela"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Welcome to ParentApp. Click here to start your journey!"
+msgstr "Re a go amogela mo ParentApp. Tobetsa fano gore o simolole go e dirisa!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
+msgstr "Ke solofela gore lo SIAME. Go nna motsadi ga go motlhofo, mme gone, ga go ise go nne thari gore o leke gape go thusa mosha wa gago. Workshop ya gago ya ntlha ya batsadi e setse e le teng! Tobetsa fano gore o simolole go dirisa ParentApp!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
+msgstr "Dumela! A o SIAME? Go bonala o ise o bule ParentApp. Goreng o sa leke go e dirisa? Batsadi ba le bantsi ba bontsha gore tshedimosetso eno e ba thusitse. Re ikemiseditse go tswelela re go thusa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
+msgstr "Dumelang gape! Ga go thari gore o ka dirisa ParentApp gore o bone thuso e e tshwanetseng maemo a gago o le motsadi. Goreng o sa leke go e dirisa fa o le mo tseleng go ya tirong kgotsa fa o apeile? Batsadi ba le bantsi ba bontsha gore tshedimosetso eno ya rona e ba thusitse."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
+msgstr "O seka wa itetla go fetwa ke tshedimosetso ya botlhokwa e e mo ParentApp! E na le tshedimosetso e ntsi tota. Re ikemiseditse go tswelela re go thusa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
+msgstr "Ke solofela gore lo SIAME. Re a itse gore ga go motlhofo go nna motsadi - dirisa ParentApp go go thusa go rarabolola matshwenyego a go nna motsadi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
+msgstr "Ke solofela gore lo SIAME. Re a itse gore ga go motlhofo go nna motsadi - dirisa ParentApp go thusa mosha wa gago gore a kgone go atlega mo botshelong."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
+msgstr "Ke solofela gore lo SIAME. Re a itse gore ga go motlhofo go nna motsadi - dirisa ParentApp go go thusa go lepalepana le boitshwaro jwa mosha wa gago."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New message from PLH"
+msgstr "Molaetsa o mosha go tswa go PLH"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
+msgstr "Ke solofela gore lo SIAME. Re a itse gore ga go motlhofo go nna motsadi - dirisa ParentApp go go thusa go nna tsala ya mosha wa gago gape!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12444,64 +12466,4 @@ msgstr "Workshop ya **Go Keteka le Dikgato Tse di Latelang**"
 msgctxt "data_list"
 msgid "How to support each other"
 msgstr "Kafa lo ka thusanang ka teng"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Start"
-msgstr "Simolola"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Continue"
-msgstr "Tswelela"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Welcome to ParentApp. Click here to start your journey!"
-msgstr "Re a go amogela mo ParentApp. Tobetsa fano gore o simolole go e dirisa!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
-msgstr "Ke solofela gore lo SIAME. Go nna motsadi ga go motlhofo, mme gone, ga go ise go nne thari gore o leke gape go thusa mosha wa gago. Workshop ya gago ya ntlha ya batsadi e setse e le teng! Tobetsa fano gore o simolole go dirisa ParentApp!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
-msgstr "Dumela! A o SIAME? Go bonala o ise o bule ParentApp. Goreng o sa leke go e dirisa? Batsadi ba le bantsi ba bontsha gore tshedimosetso eno e ba thusitse. Re ikemiseditse go tswelela re go thusa."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
-msgstr "Dumelang gape! Ga go thari gore o ka dirisa ParentApp gore o bone thuso e e tshwanetseng maemo a gago o le motsadi. Goreng o sa leke go e dirisa fa o le mo tseleng go ya tirong kgotsa fa o apeile? Batsadi ba le bantsi ba bontsha gore tshedimosetso eno ya rona e ba thusitse."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
-msgstr "O seka wa itetla go fetwa ke tshedimosetso ya botlhokwa e e mo ParentApp! E na le tshedimosetso e ntsi tota. Re ikemiseditse go tswelela re go thusa."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
-msgstr "Ke solofela gore lo SIAME. Re a itse gore ga go motlhofo go nna motsadi - dirisa ParentApp go go thusa go rarabolola matshwenyego a go nna motsadi."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
-msgstr "Ke solofela gore lo SIAME. Re a itse gore ga go motlhofo go nna motsadi - dirisa ParentApp go thusa mosha wa gago gore a kgone go atlega mo botshelong."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
-msgstr "Ke solofela gore lo SIAME. Re a itse gore ga go motlhofo go nna motsadi - dirisa ParentApp go go thusa go lepalepana le boitshwaro jwa mosha wa gago."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "New message from PLH"
-msgstr "Molaetsa o mosha go tswa go PLH"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
-msgstr "Ke solofela gore lo SIAME. Re a itse gore ga go motlhofo go nna motsadi - dirisa ParentApp go go thusa go nna tsala ya mosha wa gago gape!"
 
