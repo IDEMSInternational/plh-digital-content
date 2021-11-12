@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2021-11-01 12:45\n"
+"PO-Revision-Date: 2021-11-12 18:03\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -205,16 +205,6 @@ msgstr "Unaweza kuombwa kuwaonyesha namba hii watu watakaokusaidia katika safari
 msgctxt "template"
 msgid "Last sync at: @local.sync_latest"
 msgstr "Imeoanishwa mara ya mwisho saa: @local.sync_latest"
-
-#. type=template
-msgctxt "template"
-msgid "This device has never been synced"
-msgstr "Kifaa hiki hakijawahi kuoanishwa"
-
-#. type=template
-msgctxt "template"
-msgid "Sync Now"
-msgstr "Oanisha Sasa"
 
 #. type=template
 msgctxt "template"
@@ -4262,11 +4252,6 @@ msgstr "Watoto wanapokuwa na tabia mbaya wanaleta msongo mkubwa sana wa mawazo."
 
 #. type=template
 msgctxt "template"
-msgid "In the past week, did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
-msgstr "Kwa wiki iliyopita, je, uliwaadhibu watoto wako kwa kuwapiga kwa mkono au kuwachapa na kitu kama fimbo au mkanda?"
-
-#. type=template
-msgctxt "template"
 msgid "It is wonderful that you are responding calmly when your teen does something upsetting. They can learn so much from you!"
 msgstr "Inafurahisha sana kuona unajibu kwa utulivu licha ya kijana wako kufanya jambo la kufadhaisha. Anaweza kujifunza mambo mengi sana kutoka kwako!"
 
@@ -4607,30 +4592,8 @@ msgstr "Je, una uhakika unataka kuruka swali hili?"
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Remember, if you DO answer, your answer stays anonymous.\n"
-"\n"
-"You can always choose not to answer a question by checking the check box next to the slider."
-msgstr ""
-"Kumbuka, iwapo UTAJIBU, jina la aliyejibu halitajulikana.\n"
-"\n"
-"Wakati wote unaweza kuchagua kutojibu swali kwa kuchagua kisanduku kilichopo karibu na kitelezi."
-
-#. type=template
-msgctxt "template"
 msgid "You selected \"I would rather not answer\""
 msgstr "Umechagua \"Nisingependa kujibu\""
-
-#. type=template
-msgctxt "template"
-msgid ""
-"That's okay!\n"
-"\n"
-"Remember, if you DO answer, your answer stays anonymous and you will receive content that is exactly right for you!"
-msgstr ""
-"Si vibaya!\n"
-"\n"
-"Kumbuka, iwapo UTAJIBU, jina la aliyejibu halitajulikana na utapokea maudhui yanayokufaa kabisa wewe!"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4896,21 +4859,6 @@ msgstr "Hebu tuanze na maswali machache kuhusu wewe na familia yako."
 msgctxt "template"
 msgid "We would love to know your first name or nickname:"
 msgstr "Tungependa kujua jina lako la kwanza au jina lako la utani:"
-
-#. type=template
-msgctxt "template"
-msgid "Are you a lady or a gentleman?"
-msgstr "Je, wewe ni mwanamke au mwanaume?"
-
-#. type=template
-msgctxt "template"
-msgid "Lady"
-msgstr "Mwanamke"
-
-#. type=template
-msgctxt "template"
-msgid "Gentleman"
-msgstr "Mwanaume"
 
 #. type=template
 msgctxt "template"
@@ -11696,12 +11644,6 @@ msgstr ""
 "<p> Utapata warsha mpya kwa ajili yako mara moja kwa wiki – kila warsha italenga ujuzi tofauti wa malezi. Bonyeza kitufe ili kuanza warsha yako ya kwanza!</p>"
 
 #. type=tour
-#. The string @global.weekly_workshops should not be translated.
-msgctxt "tour"
-msgid "@global.weekly_workshops quick start"
-msgstr "Mafunzo mepesi ya kuanza kutumia @global.weekly_work"
-
-#. type=tour
 #. The string @global.weekly_workshop should not be translated.
 msgctxt "tour"
 msgid "<p>The round button appears when a new @global.weekly_workshop is ready for you to do.</p>"
@@ -11817,6 +11759,66 @@ msgstr "<p> Kama unataka kufanya @global.weekly_workshops kama kikundi au peke y
 msgctxt "tour"
 msgid "<p> Tap here to change your group name. </p>"
 msgstr "<p> Gonga hapa kubadili jina la kikundi chako. </p>"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Start"
+msgstr "Anza"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Continue"
+msgstr "Endelea"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Welcome to ParentApp. Click here to start your journey!"
+msgstr "Karibu kwenye ParentApp. Bonyeza hapa kuanza safari yako!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
+msgstr "Tunatumaini kuwa haujambo. Kulea ni kugumu, lakini usichoke kuanza tena kwa ajili ya kijana wako. Warsha yako ya kwanza ya malezi iko tayari kwa ajili yako! Bonyeza hapa kuanza safari yako ya ParentApp!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
+msgstr "Halo! Kuna tatizo lolote? Inaonekana haujafungua ParentApp hivi karibuni. Hebu ijaribu! Mamilioni ya wazazi wamegundua kuwa taarifa hizi zinasaidia. Bado tuko hapa ili kukusaidia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
+msgstr "Halo kwa mara nyingine! Kamwe haujachelewa kutumia ParentApp ili kupata msaada stahiki wa malezi. Kwa nini usiijaribu unaposafiri kwenda kazini au unaposubiri chakula kiive? Mamilioni ya wazazi wameona kuwa taarifa zetu zinasaidia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
+msgstr "ParentApp inakupenza! Kuna mengi ya kujifunza. Bado tuko hapa ili kukusaidia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
+msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia ParentApp ikusaidie kudhibiti msongo wa mawazo ya malezi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
+msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia ParentApp kumwandaa kijana wako afanikiwe maishani."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
+msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia ParentApp ikusaidie kudhibiti tabia za kijana wako."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New message from PLH"
+msgstr "Ujumbe mpya kutoka PLH"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
+msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia ParentApp kupatana tena na kijana wako!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12710,64 +12712,4 @@ msgstr "Warsha ya **Usherehekeaji na Hatua Zinazofuata**"
 msgctxt "data_list"
 msgid "How to support each other"
 msgstr "Jinsi ya kusaidiana"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Start"
-msgstr "Anza"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Continue"
-msgstr "Endelea"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Welcome to ParentApp. Click here to start your journey!"
-msgstr "Karibu kwenye ParentApp. Bonyeza hapa kuanza safari yako!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
-msgstr "Tunatumaini kuwa haujambo. Kulea ni kugumu, lakini usichoke kuanza tena kwa ajili ya kijana wako. Warsha yako ya kwanza ya malezi iko tayari kwa ajili yako! Bonyeza hapa kuanza safari yako ya ParentApp!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
-msgstr "Halo! Kuna tatizo lolote? Inaonekana haujafungua ParentApp hivi karibuni. Hebu ijaribu! Mamilioni ya wazazi wamegundua kuwa taarifa hizi zinasaidia. Bado tuko hapa ili kukusaidia."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
-msgstr "Halo kwa mara nyingine! Kamwe haujachelewa kutumia ParentApp ili kupata msaada stahiki wa malezi. Kwa nini usiijaribu unaposafiri kwenda kazini au unaposubiri chakula kiive? Mamilioni ya wazazi wameona kuwa taarifa zetu zinasaidia."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
-msgstr "ParentApp inakupenza! Kuna mengi ya kujifunza. Bado tuko hapa ili kukusaidia."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
-msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia ParentApp ikusaidie kudhibiti msongo wa mawazo ya malezi."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
-msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia ParentApp kumwandaa kijana wako afanikiwe maishani."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
-msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia ParentApp ikusaidie kudhibiti tabia za kijana wako."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "New message from PLH"
-msgstr "Ujumbe mpya kutoka PLH"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
-msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia ParentApp kupatana tena na kijana wako!"
 
