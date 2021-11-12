@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2021-10-22 07:54\n"
+"PO-Revision-Date: 2021-11-12 18:02\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -187,16 +187,6 @@ msgstr "Jy sal moontlik gevra word om hierdie kode te deel met mense wat jou @gl
 msgctxt "template"
 msgid "Last sync at: @local.sync_latest"
 msgstr "Laas gesinchroniseer om: @local.sync_latest"
-
-#. type=template
-msgctxt "template"
-msgid "This device has never been synced"
-msgstr "Hierdie toestel is nog nooit gesinchroniseer nie"
-
-#. type=template
-msgctxt "template"
-msgid "Sync Now"
-msgstr "Sinchroniseer nou"
 
 #. type=template
 msgctxt "template"
@@ -4237,11 +4227,6 @@ msgstr "Dis so stresvol as kinders stout of ongehoorsaam is."
 
 #. type=template
 msgctxt "template"
-msgid "In the past week, did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
-msgstr "Hoeveel keer die afgelope week het jy jou kinders fisies gedissiplineer deur hulle te klap, pak te gee of te slaan met jou hand of ’n voorwerp soos ’n stok of ’n belt?"
-
-#. type=template
-msgctxt "template"
 msgid "It is wonderful that you are responding calmly when your teen does something upsetting. They can learn so much from you!"
 msgstr "Dit is wonderlik dat jy kalm reageer as jou tiener iets ontstellends doen. Hulle kan soveel by jou leer!"
 
@@ -4582,30 +4567,8 @@ msgstr "Is jy seker dat jy hierdie vraag wil oorslaan?"
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Remember, if you DO answer, your answer stays anonymous.\n"
-"\n"
-"You can always choose not to answer a question by checking the check box next to the slider."
-msgstr ""
-"Onthou, as jy WEL antwoord, bly jou antwoord anoniem.\n"
-"\n"
-"Jy kan altyd kies om ’n vraag nie te beantwoord nie deur die blokkie langs die skuifbalk te merk."
-
-#. type=template
-msgctxt "template"
 msgid "You selected \"I would rather not answer\""
 msgstr "Jy het “Ek wil liewer nie antwoord nie” gekies"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"That's okay!\n"
-"\n"
-"Remember, if you DO answer, your answer stays anonymous and you will receive content that is exactly right for you!"
-msgstr ""
-"Dis in die haak!\n"
-"\n"
-"Onthou, as jy WEL antwoord, bly jou antwoord anoniem en ontvang jy inhoud wat presies by jou pas!"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4874,17 +4837,7 @@ msgstr "Ons sal graag jou voornaam of bynaam wil weet:"
 
 #. type=template
 msgctxt "template"
-msgid "Are you a lady or a gentleman?"
-msgstr "Is jy ’n man of ’n vrou?"
-
-#. type=template
-msgctxt "template"
-msgid "Lady"
-msgstr "Man"
-
-#. type=template
-msgctxt "template"
-msgid "Gentleman"
+msgid "Woman"
 msgstr "Vrou"
 
 #. type=template
@@ -11652,12 +11605,6 @@ msgstr ""
 "<p>’n Werksessie sal een keer per week vir jou gereed wees – elke keer met die fokus op ’n verskillende ouervaardigheid. Druk dit om jou eerste werksessie te begin!</p>"
 
 #. type=tour
-#. The string @global.weekly_workshops should not be translated.
-msgctxt "tour"
-msgid "@global.weekly_workshops quick start"
-msgstr "@global.weekly_workshops-kitsbegin"
-
-#. type=tour
 #. The string @global.weekly_workshop should not be translated.
 msgctxt "tour"
 msgid "<p>The round button appears when a new @global.weekly_workshop is ready for you to do.</p>"
@@ -11772,6 +11719,66 @@ msgstr "<p> Jy kan hier verander of jy jou @global.weekly_workshops as ’n groe
 msgctxt "tour"
 msgid "<p> Tap here to change your group name. </p>"
 msgstr "<p> Tik hier om jou groep se naam te verander. </p>"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Start"
+msgstr "Begin"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Continue"
+msgstr "Gaan voort"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Welcome to ParentApp. Click here to start your journey!"
+msgstr "Welkom by ParentApp. Klik hier om jou reis te begin!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
+msgstr "Hoop jy voel oukei. Ouerskap is moeilik, maar dit is nooit te laat om weer met jou tiener te begin nie. Jou eerste ouerskapwerksessie is gereed! Klik hier om jou ParentApp-reis te begin!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
+msgstr "Hallo! Is alles oukei? Dit lyk asof jy ParentApp nie onlangs oopgemaak het nie. Hoekom probeer jy nie? Miljoene ouers het hierdie materiaal nuttig gevind. Ons is steeds hier om jou te ondersteun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
+msgstr "Hallo, weereens! Dit is nooit te laat om ParentApp te gebruik en aangepaste ouerskapondersteuning te kry nie. Hoekom probeer jy dit nie terwyl jy werk toe pendel, of terwyl jy kos kook nie? Miljoene ouers het ons materiaal nuttig gevind."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
+msgstr "ParentApp mis jou! Daar is baie om te ondersoek. Ons is steeds hier om jou te ondersteun."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
+msgstr "Hoop jy voel oukei. Ons weet ouerskap is moeilik – gebruik ParentApp om jou te help om jou stres as ouer te hanteer."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
+msgstr "Hoop jy voel oukei. Ons weet ouerskap is moeilik – gebruik ParentApp om jou tiener voor te berei vir sukses."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
+msgstr "Hoop jy voel oukei. Ons weet ouerskap is moeilik – gebruik ParentApp om jou te help om jou tiener se gedrag te hanteer."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New message from PLH"
+msgstr "Nuwe boodskap van PLH"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
+msgstr "Hoop jy voel oukei. Ons weet ouerskap is moeilik – gebruik ParentApp om jou te help om weer ’n band met jou tiener te vorm!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12473,64 +12480,4 @@ msgstr "**Viering en volgende stappe**-werksessie"
 msgctxt "data_list"
 msgid "How to support each other"
 msgstr "Hoe om mekaar te ondersteun"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Start"
-msgstr "Begin"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Continue"
-msgstr "Gaan voort"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Welcome to ParentApp. Click here to start your journey!"
-msgstr "Welkom by ParentApp. Klik hier om jou reis te begin!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
-msgstr "Hoop jy voel oukei. Ouerskap is moeilik, maar dit is nooit te laat om weer met jou tiener te begin nie. Jou eerste ouerskapwerksessie is gereed! Klik hier om jou ParentApp-reis te begin!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
-msgstr "Hallo! Is alles oukei? Dit lyk asof jy ParentApp nie onlangs oopgemaak het nie. Hoekom probeer jy nie? Miljoene ouers het hierdie materiaal nuttig gevind. Ons is steeds hier om jou te ondersteun."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
-msgstr "Hallo, weereens! Dit is nooit te laat om ParentApp te gebruik en aangepaste ouerskapondersteuning te kry nie. Hoekom probeer jy dit nie terwyl jy werk toe pendel, of terwyl jy kos kook nie? Miljoene ouers het ons materiaal nuttig gevind."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
-msgstr "ParentApp mis jou! Daar is baie om te ondersoek. Ons is steeds hier om jou te ondersteun."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
-msgstr "Hoop jy voel oukei. Ons weet ouerskap is moeilik – gebruik ParentApp om jou te help om jou stres as ouer te hanteer."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
-msgstr "Hoop jy voel oukei. Ons weet ouerskap is moeilik – gebruik ParentApp om jou tiener voor te berei vir sukses."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
-msgstr "Hoop jy voel oukei. Ons weet ouerskap is moeilik – gebruik ParentApp om jou te help om jou tiener se gedrag te hanteer."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "New message from PLH"
-msgstr "Nuwe boodskap van PLH"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
-msgstr "Hoop jy voel oukei. Ons weet ouerskap is moeilik – gebruik ParentApp om jou te help om weer ’n band met jou tiener te vorm!"
 
