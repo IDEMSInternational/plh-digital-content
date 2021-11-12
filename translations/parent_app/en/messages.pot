@@ -186,12 +186,12 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "This device has never been synced. Sync to reveal your code."
+msgid "This device has never been synced"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Sync now"
+msgid "Sync Now"
 msgstr ""
 
 #. type=template
@@ -3727,7 +3727,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "How many days in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
+msgid "In the past week, did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
 msgstr ""
 
 #. type=template
@@ -4029,9 +4029,9 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid ""
-"Are you sure you want to skip this question? Remember, your answer will be kept private and will help us understand your parenting needs. \n"
+"Remember, if you DO answer, your answer stays anonymous.\n"
 "\n"
-"You can also choose not to answer any question by selecting the circle."
+"You can always choose not to answer a question by checking the check box next to the slider."
 msgstr ""
 
 #. type=template
@@ -4042,9 +4042,9 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid ""
-"That’s ok! \n"
+"That's okay!\n"
 "\n"
-"Remember, if you do answer your answer will be kept private and will help us to provide you with content that is exactly right for you."
+"Remember, if you DO answer, your answer stays anonymous and you will receive content that is exactly right for you!"
 msgstr ""
 
 #. type=template
@@ -4270,17 +4270,17 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Are you a woman or a man?"
+msgid "Are you a lady or a gentleman?"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Woman"
+msgid "Lady"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Man"
+msgid "Gentleman"
 msgstr ""
 
 #. type=template
@@ -9969,6 +9969,12 @@ msgid ""
 msgstr ""
 
 #. type=tour
+#. The string @global.weekly_workshops should not be translated.
+msgctxt "tour"
+msgid "@global.weekly_workshops quick start"
+msgstr ""
+
+#. type=tour
 #. The string @global.weekly_workshop should not be translated.
 msgctxt "tour"
 msgid "<p>The round button appears when a new @global.weekly_workshop is ready for you to do.</p>"
@@ -10066,81 +10072,6 @@ msgstr ""
 #. type=tour
 msgctxt "tour"
 msgid "<p> Tap here to change your group name. </p>"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Start"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Continue"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hi great parent, remember to take care of yourself too - it will help you AND your family! Get your tips and more in ParentApp."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hi great parent! Remember, you can find lots of helpful tips in ParentApp."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hi great parent! ParentApp is here to support you. Check it out now!"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Welcome to ParentApp. Click here to start your journey!"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "New message from PLH"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
 msgstr ""
 
 #. type=data_list
@@ -11034,4 +10965,64 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "How to support each other"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Start"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Continue"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Welcome to ParentApp. Click here to start your journey!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your ParentApp journey!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi! Is everything OK? It seems you haven’t opened ParentApp lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "ParentApp misses you! There is a lot to explore. We are still here to support you."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage your teen's behaviour."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "New message from PLH"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
 msgstr ""
