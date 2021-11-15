@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Southern Sotho\n"
 "\n"
 "Language: st_ZA\n"
-"PO-Revision-Date: 2021-11-15 12:31\n"
+"PO-Revision-Date: 2021-11-15 18:35\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -71,9 +71,589 @@ msgid "About @global.parent_app"
 msgstr "Mabapi @global.parent_app"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid ""
+"@global.parent_app was developed by Parenting for Lifelong Health (PLH) – a worldwide collaboration between parenting experts from UNICEF, the WHO and Universities in South Africa and the UK, as well as African NGOs and families and teens all across Africa. Parents and teens worked with us on the app and helped to ensure it is easy-to-use, fun and engaging. Some of the content in this app, like suggestions of activities and illustrated stories, were created with parents and teens to make sure it fits families’ needs.\n"
+"\n"
+"Parenting for Lifelong Health (PLH) is committed to supporting free and shareable parenting materials and programmes, to support parents worldwide to promote the well-being of their children."
+msgstr ""
+"@global.parent_centre e ile ya qapuwa ke Parenting for Lifelong Health (PLH) – e tswetsweng ke ho ikopanya ha ditsebi tsa botswadi lefatsheng lohle ho tswa UNICEF, WHO le Diyunivesithing tsa Afrika Borwa le UK, hammoho le diNGO le malapa le batjha hohle Afrika. Batswadi le batjha ba sebeditse le rona epong ena mme ba re thusitse ho netefatsa hore ho bonolo ho e sebedisa, ebile ke ntho e monate e kgathollang. Tse ding tsa dikahare tse epong ena, jwaloka ditshisinyo tsa mesebetsi le dipale tse tshwantsheditsweng, di ile tsa qapuwa ke batswadi le batjha ho tiisa hore e tshwanela ditlhoko tsa malapa.\n"
+"\n"
+"Parenting for Lifelong Health (PLH) e ikemiseditse ho tshehetsa dingolwa le mananeo a mahala le a abelanwang a botswadi, ho tshehetsa batswadi lefatsheng ka bophara ho kgothalletsa boiketlo ba bana ba bona."
+
+#. type=template
+msgctxt "template"
+msgid "Open Survey"
+msgstr "Bula Patlisiso"
+
+#. type=template
+msgctxt "template"
+msgid "Select Language"
+msgstr "Kgetha Puo"
+
+#. type=template
+msgctxt "template"
+msgid "Workshop Options"
+msgstr "Dikgetho tsa Wekshopo"
+
+#. type=template
+msgctxt "template"
+msgid "Demo Presentation"
+msgstr "Nehelano ya Mohlala"
+
+#. type=template
+msgctxt "template"
+msgid "Organisation Registration"
+msgstr "Ngodiso ya Mokgatlo"
+
+#. type=template
+msgctxt "template"
+msgid "Developer Mode"
+msgstr "Developer Mode"
+
+#. type=template
+msgctxt "template"
+msgid "Unlock all workshops"
+msgstr "Notlolla diwekshopo tsohle"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"By clicking in the button below you will unlock all the workshops.\n"
+"\n"
+"NOTE: Users should not use this functionality to unlock workshops, this is not recommended unless strictly necessary."
+msgstr ""
+"Ka ho tobetsa konopo e katlase o tla notlolla diwekshopo tsohle.\n"
+"\n"
+"TLHOKOMEDISO: Basebedisi ha baa lokela ho sebedisa tshebetso ya ho notlolla diwekshopo, sena ha se kgothalletswe ntle le haeba kannete seo se hlokahala."
+
+#. type=template
+msgctxt "template"
+msgid "Unlock workshops"
+msgstr "Notlolla diwekshopo"
+
+#. type=template
+msgctxt "template"
+msgid "All workshops are now unlocked."
+msgstr "Hona jwale diwekshopo tsohle di notlolotswe."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"By clicking in the button below you will reset the app to its initial settings. \n"
+"\n"
+"This means that all your progress and usage data will be deleted and your app will work as if it was just installed for the first time.\n"
+"\n"
+"NOTE: Resetting the app is permanent and you will not be able to recover any information."
+msgstr ""
+"Ka ho tobetsa konopo e ka tlaase o tla seta epo botjha hore e kgutlele ho diseting tsa mathomo.\n"
+"\n"
+"Sena se bolela hore kgatelopele yohle ya hao le datha ya tshebediso e tla hlakoleha mme epo e tla sebetsa jwalokaha eka e sa tswa instolwa ka lekgetlo la pele.\n"
+"\n"
+"TLHOKOMEDISO: Ho seta botjha epo ke ketso e sa etsollweng ebile o ke ke wa kgona ho fumana tlhahisoleseding efe kapa efe hape."
+
+#. type=template
+msgctxt "template"
+msgid "Reset App"
+msgstr "Seta Epo Botjha"
+
+#. type=template
+msgctxt "template"
+msgid "You have successfully entered developer mode."
+msgstr "O kentse ka katleho developer mode."
+
+#. type=template
+msgctxt "template"
+msgid "You have entered an incorrect code."
+msgstr "O kentse khoutu e fosahetseng."
+
+#. type=template
+msgctxt "template"
+msgid "Language"
+msgstr "Puo"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "How did you hear about @global.parent_app?"
+msgstr "O utlwetse ka @global.parent_app jwang?"
+
+#. type=template
+msgctxt "template"
+msgid "I found it myself"
+msgstr "Ke iphumanetse yona"
+
+#. type=template
+msgctxt "template"
+msgid "A friend or family"
+msgstr "Ka motswalle kapa lelapa"
+
+#. type=template
 msgctxt "template"
 msgid "Other"
 msgstr "Ho hong"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "You may be asked to share this code with people who will support your @global.parent_app journey."
+msgstr "O ka nna wa kopuwa ho romela khoutu ena ho batho ba tla o tshehetsa leetong la hao la @global.parent_app."
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Lekgetlo la ho qetela la ho phera: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "Sesebediswa sena ha se eso pherwe. Phera ho senola khoutu ya hao."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Phera hona jwale"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "E a phera..."
+
+#. type=template
+msgctxt "template"
+msgid "Start"
+msgstr "Qala"
+
+#. type=template
+msgctxt "template"
+msgid "How would you like to do this workshop?"
+msgstr "O ka thabela ho etsa wekshopo ena jwang?"
+
+#. type=template
+msgctxt "template"
+msgid "Coming soon"
+msgstr "E tla haufinyane"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.title
+#.      @local.workshop_data.title
+#.      @global.parent_centre
+msgctxt "template"
+msgid ""
+"We will need to cover other parenting issues before we can start working on @local.workshop_data.title.\n"
+"\n"
+"You can get essential tools on @local.workshop_data.title via the @global.parent_centre."
+msgstr ""
+"Re tla tlameha ho tshohla ditaba tse ding tsa botswadi pele re qala ho sebetsa ka @local.workshop_data.title.\n"
+"\n"
+"O ka fumana dithulusi tsa bohlokwa ho @local.workshop_data.title ka @global.parent_centre."
+
+#. type=template
+msgctxt "template"
+msgid "My name"
+msgstr "Lebitso la ka"
+
+#. type=template
+#. The string @global.weekly_workshop should not be translated.
+msgctxt "template"
+msgid "@global.weekly_workshop day"
+msgstr "Letsatsi la @global.weekly_workshop"
+
+#. type=template
+msgctxt "template"
+msgid "I do the workshops..."
+msgstr "Ke etsa diwekshopo..."
+
+#. type=template
+msgctxt "template"
+msgid "My group's name"
+msgstr "Lebitso la sehlopha sa ka"
+
+#. type=template
+msgctxt "template"
+msgid "My group is now doing the workshop..."
+msgstr "Hona jwale sehlopha sa ka se etsa wekshopo..."
+
+#. type=template
+msgctxt "template"
+msgid "I am now doing the workshop..."
+msgstr "Hona jwale ke etsa wekshopo..."
+
+#. type=template
+msgctxt "template"
+msgid "Are you sure you want to unlock all the workshops? Once you do this you will not be able to lock them back"
+msgstr "Na o tiile o batla ho notlolla diwekshopo tsohle? Hang ha o entse jwalo, o ke ke wa kgona ho di notlela hape"
+
+#. type=template
+msgctxt "template"
+msgid "Unlock Workshops"
+msgstr "Notlolla Diwekshopo"
+
+#. type=template
+msgctxt "template"
+msgid "Give me quick parenting tips"
+msgstr "Mphe dikeletso tsa botswadi tse potlakileng"
+
+#. type=template
+msgctxt "template"
+msgid "Something really bad happened"
+msgstr "Ho etsahetse ntho e mpe haholo"
+
+#. type=template
+msgctxt "template"
+msgid "I have technical problems with the app"
+msgstr "Ke na le bothata ba setekgenike ka epo ena"
+
+#. type=template
+msgctxt "template"
+msgid "You will find tips that we think you may find useful here, based on your answers to the app customisation."
+msgstr "O tla fumana dikeletso tseo re nahanang hore o ka di fumana di le molemo mona, ho itshetlehile ka dikarabo tsa hao ho customisation ya epo."
+
+#. type=template
+msgctxt "template"
+msgid "Ah yes, even 10 minutes together makes a big difference – that makes it easy to schedule it in, next to your work and chores!"
+msgstr "Ehlile ho jwalo, le ho qeta metsotso e 10 mmoho ho tlisa phapang e kgolo – seo se etsa hore ho be bonolo ho e hlophisa, hore ebe haufi mosebetsi wa hao le mesebetsi ya lapeng!"
+
+#. type=template
+msgctxt "template"
+msgid "Letting my teen choose what to do builds their confidence."
+msgstr "Ho tlohella motjha wa ka ho kgetha seo a ka se etsang ho matlafatsa boitshepo ba hae."
+
+#. type=template
+msgctxt "template"
+msgid "If my teen chooses, s/he is more likely to want to spend time together."
+msgstr "Haeba motjha wa ka a kgetha, ho ka etsahala hore a batle hore re qete nako e ngata mmoho."
+
+#. type=template
+msgctxt "template"
+msgid "Letting my teen choose shows that I care about his/her interests."
+msgstr "Ho tlohella motjha wa ka ho ikgethela ho bontsha hore ke tsotella dintho tseo a di thahasellang."
+
+#. type=template
+msgctxt "template"
+msgid "By accepting my teen’s suggestions, I show that I listen to him/her."
+msgstr "Ka ho amohela ditshisinyo tsa motjha wa ka, ke bontsha hore ke ya mo mamela."
+
+#. type=template
+msgctxt "template"
+msgid "Saying something nice about my teen’s choice helps them feel valued."
+msgstr "Ho bua ntho e ntle ka ntho eo motjha wa ka a e kgethang ho mo bontsha hore ke mo nka e le wa bohlokwa."
+
+#. type=template
+msgctxt "template"
+msgid "So true! And if our teens choose, they are encouraged to also take responsibility in other areas of their lives."
+msgstr "Ka sebele ke nnete! Mme ha batjha ba rona ba kgetha, ba kgothalletswa ho jara le boikarabelo dikarolong tse ding tsa bophelo ba bona."
+
+#. type=template
+msgctxt "template"
+msgid "By preventing interruptions, I show my teen that s/he is most important."
+msgstr "Ka ho thibela ditshitiso, ke bontsha hore motjha wa ka o bohlokwa haholo."
+
+#. type=template
+msgctxt "template"
+msgid "Even if I can’t join my teen’s activity, like sports, I can still cheer them on."
+msgstr "Esita le haeba nke ke ka etsa ketso e itseng le motjha, jwaloka dipapadi, ke ntse nka mo thoholetsa."
+
+#. type=template
+msgctxt "template"
+msgid "When I pay attention, I can learn so much about my teen’s interests, views and abilities."
+msgstr "Ha ke ela hloko motjha wa ka, nka ithuta dintho tse ngata ka dithahasello, maikutlo le bokgoni ba motjha wa ka."
+
+#. type=template
+msgctxt "template"
+msgid "Yes! If we give our teens our full attention, they will more likely do the same for us the next time we ask them for something!"
+msgstr "E! Ha re tsepamisa mehopolo ya rona ho batjha ba rona, ho na le monyetla o moholo wa hore ba etse se tshwanang ho rona kamoso ha re ba kopa ntho e itseng!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Many parents experience challenges in having one-on-one time with their teens. \n"
+"\n"
+"Here are the top 8 challenges parents told us they experience when planning or spending one-on-one time with their teen. If you experienced one of these or are afraid that you will, tap it to get a possible solution. You can tap and explore other challenges afterwards."
+msgstr ""
+"Batswadi ba bangata ba tobana le diphephetso tsa ho qeta nako ya boinotshing le batjha ba bona.\n"
+"\n"
+"Tsena ke diphephetso tse 8 tse ka sehloohong tseo batswadi ba itseng ba tobana le tsona ha ba hlophisa kapa ba qeta nako ya boinotshing le batjha ba bona. Haeba o tobana le e nngwe ya tsena kapa o tshaba hore o ka tobana le yona, e tobetse ho fumana tharollo e ka nnang ya sebetsa. O ka tobetsa mme wa ithuta ka diphephetso tse ding kamora moo."
+
+#. type=template
+msgctxt "template"
+msgid "Did you have any challenges when trying to spend time with your teen?"
+msgstr "Na o bile le diphephetso dife kapa dife ha o leka ho qeta nako le motjha wa hao?"
+
+#. type=template
+msgctxt "template"
+msgid "What challenge did you have when trying to spend time with your teen?"
+msgstr "Ke phephetso efe eo o bileng le yona ha o leka ho qeta nako le motjha wa hao?"
+
+#. type=template
+msgctxt "template"
+msgid "I don’t have enough time."
+msgstr "Ha ke na nako e lekaneng."
+
+#. type=template
+msgctxt "template"
+msgid "My teen does not want to spend time with me."
+msgstr "Motjha wa ka ha a batle ho qeta nako le nna."
+
+#. type=template
+msgctxt "template"
+msgid "My teen only wants to watch TV or play on his/her phone."
+msgstr "Motjha wa ka o batla ho shebella TV feela kapa ho bapala ka founo ya hae."
+
+#. type=template
+msgctxt "template"
+msgid "My teen wants to do things that are not safe or that cost money."
+msgstr "Motjha wa ka o batla ho etsa dintho tse sa sireletsehang kapa tse jang tjhelete."
+
+#. type=template
+msgctxt "template"
+msgid "My teen wants to do things that I cannot physically do."
+msgstr "Motjha wa ka o batla ho etsa dintho tseo ke sa kgoneng ho di etsa."
+
+#. type=template
+msgctxt "template"
+msgid "My teen chose a competitive activity. I won and s/he got angry."
+msgstr "Motjha wa ka o kgethile papadi ya tlhodisano. Ha ke hlola o ile a kwata."
+
+#. type=template
+msgctxt "template"
+msgid "I struggled to end the one-on-one time."
+msgstr "Ho bile thata ho nna ha nako ya boinotsing e fela."
+
+#. type=template
+msgctxt "template"
+msgid "All my children want one-on-one time with me at the same time."
+msgstr "Bana bohle ba ka ba batla nako ya boinotshing le nna ka nako e tshwanang."
+
+#. type=template
+msgctxt "template"
+msgid "Yes, it can be really hard to find time during the day, with work, chores, and everything else."
+msgstr "E, kannete ho ka ba thata haholo ho fumana nako motshehare, ka lebaka la mosebetsi, mabaka a lelapa le dintho tse ding tseo ke di etsang."
+
+#. type=template
+msgctxt "template"
+msgid "Sorry that you struggled with that. It can make us feel bad if our children do not want to spend one-on-one time with us."
+msgstr "Ke maswabi hore o ile wa thatafallwa ke seo. Re ka utlwa bohloko ha bana ba rona ba sa batle ho qeta nako ya boinotshing le rona."
+
+#. type=template
+msgctxt "template"
+msgid "Think of a time when my teen is more open to me, like in the morning or right before bedtime."
+msgstr "Ke nahana ka nako eo ka yona motjha wa ka a mphutholohelang, jwaloka hoseng kapa pele a ilo robala."
+
+#. type=template
+msgctxt "template"
+msgid "Sit next to my teen when they are doing something they enjoy and show interest in what they like."
+msgstr "Ke dula haufi le motjha wa ka ha a etsa ho hong hoo a ho ratang mme ke bontsha thahasello ya dintho tseo a di ratang."
+
+#. type=template
+msgctxt "template"
+msgid "Do something fun with the whole family."
+msgstr "Re etsa dintho tse monate re le lelapa kaofela."
+
+#. type=template
+msgctxt "template"
+msgid "Great! Picking a time when your teen is more talkative will help them to respond well to your attempt to connect."
+msgstr "Ke ditaba tse monate! Ho kgetha nako eo motjha wa hao a buang haholo ka tsona ho tla mo thusa ho arabela hantle ha o leka ho matlafatsa dikamano."
+
+#. type=template
+msgctxt "template"
+msgid "Nice! Watching your teen’s favourite T.V. show or sports match together will show them that you care. Just be patient; they will open up to you over time!"
+msgstr "Ho a thabisa! Ho shebella lenaneo la T.V. leo motjha a le ratang kapa papadi mmoho ho tla mo bontsha hore o a mo tsotella. O be le mamello; ho tla nka nako pele a phutholoha!"
+
+#. type=template
+msgctxt "template"
+msgid "Perfect! Sometimes it can be easier to start with spending time with the whole family. That way your teen can get more comfortable with spending one-on-one time with you over time."
+msgstr "Ke hantle! Ka dinako tse ding ho ka ba bonolo ho qala ka ho qeta nako le lelapa lohle. Ka tsela eo motjha wa hao a ka phutholoha haholo ho qeta nako ya boinotsing le wena ha nako e ntse e feta."
+
+#. type=template
+msgctxt "template"
+msgid "Sorry that you had that challenge. Children often want to spend time watching T.V. or playing with a gadget. Well done for being patient with your teen!"
+msgstr "Ke maswabi hore o thulane le bothata. Hangata bana ba rata ho qeta nako ba shebeletse T.V. kapa ba bapala ka disebediswa. O entse hantle ka ho mamella motjha wa hao!"
+
+#. type=template
+msgctxt "template"
+msgid "Suggest fun things my teen and I could do together."
+msgstr "Mphe ditshisinyo tsa dintho tse thabisang tseo nna le motjha wa ka re ka di etsang mmoho."
+
+#. type=template
+msgctxt "template"
+msgid "Find something educational to do with my teen on the gadget."
+msgstr "Fumana ntho e itseng ya thuto eo nka e etsang le motjha wa ka ka sesebediswa."
+
+#. type=template
+msgctxt "template"
+msgid "Ask my teen to show me how their phone/gadget works."
+msgstr "Kopa motjha wa ka ho mpontsha hore na founo/sesebediswa se sebetsa jwang."
+
+#. type=template
+msgctxt "template"
+msgid "That's perfect! If you need inspiration, here are some ideas from other families of what you could do together. Remember, let your teen choose."
+msgstr "O sebeditse! Haeba o hloka kgothatso, tsena ke tse ding tsa dikeletso tse tswang malapeng a mang tsa seo le ka se etsang mmoho. Hopola, tlohela motjha wa hao hore a ikgethele."
+
+#. type=template
+msgctxt "template"
+msgid "Wonderful!  There are lots of fun and educational apps on phones that you can explore together. Ask questions, show interest, and remember to say something nice."
+msgstr "Ke botle! Ho na le menate e mengata hammoho le diepo tsa thuto difounong tseo le ka di batlang hammoho. Botsa dipotso, bontsha thahasello mme o hopole ho bua ntho e ntle."
+
+#. type=template
+msgctxt "template"
+msgid "Nice! Teens love it when you show interest in their gadget and when they get to explain something they know to you. This is a great starting point!"
+msgstr "Hase moo! Batjha ba thaba ha o bontsha thahasello disebedisweng tsa bona mme ba o hlalosetsa ntho eo ba e tsebang. Ke hona moo o tlamehang ho qala teng!"
+
+#. type=template
+msgctxt "template"
+msgid "You are not alone here. Many parents sometimes have this challenge, too. One-on-one time should always be safe, and it does not have to cost a thing!"
+msgstr "Ha o mong mona. Ka dinako tse ding batswadi ba bangata ba thulana le bothata bona. Kamehla ebang boinotshing moo le sireletsehileng, ebile ha ho hlokehe hore o patale le sente e ntsho!"
+
+#. type=template
+msgctxt "template"
+msgid "Explain to my teen why their suggestion is not safe or possible and ask them for other ideas."
+msgstr "Hlalosetsa motjha wa ka hore na hobaneng ha tshisinyo ya hae e sa bolokeha kapa sa kgonehe mme mo kope maikutlo a mang."
+
+#. type=template
+msgctxt "template"
+msgid "Suggest other fun activities that we could do together."
+msgstr "Sisinya diketso tse ding tse monate tseo re ka di etsang mmoho."
+
+#. type=template
+msgctxt "template"
+msgid "Awesome! It is very important that your teen understands why you cannot do the activity that they suggested. Ask them for other ideas!"
+msgstr "Hase moo! Ho bohlokwa haholo hore motjha wa hao a utlwisise lebaka leo o ke keng wa etsa ntho eo a e sisinyang ka lona. Mo kope ditshisinyo tse ding!"
+
+#. type=template
+#. The string @data.parent_centre.relax_and_activities.location_text should not be translated.
+msgctxt "template"
+msgid "This is perfect! If you need any inspiration, you can find suggestions for activities @data.parent_centre.relax_and_activities.location_text. Remember, let your teen choose the activity!"
+msgstr "Ena ke yona! Haeba o hloka kgothatso efe kapa efe, o ka fumana ditshisinyo bakeng sa dintho tse ka etswang ho @data.parent_centre.relax_and_activities.location_text. Hopola, e re motjha wa hao a kgethe ntho eo le e etsang!"
+
+#. type=template
+msgctxt "template"
+msgid "Sorry to hear this. Our teens may be disappointed if we cannot do what they want to do, like playing sports or doing other physically demanding activities. But remember, what is most important is that we spend time with them. That looks different for everyone!"
+msgstr "Ke maswabi ho utlwa seo. Batjha ba rona ba ka swetseha haeba re sa kgone ho etsa dintho tseo ba batlang ho di etsa, jwaloka ho bapala papadi kapa ho etsa dintho tse ding tse batlang matla a mangata. Empa hopola, ntho ya bohlokwa haholo ke hore re qeta nako le bona. Batho ba etsa sena ka ditsela tse sa tshwaneng!"
+
+#. type=template
+msgctxt "template"
+msgid "Watch my teen do the activity and cheer them on."
+msgstr "Shebella motjha wa ka a etsa ntho e itseng mme o mo thoholetse."
+
+#. type=template
+msgctxt "template"
+msgid "Suggest other fun activities we can do together."
+msgstr "Sisinya dintho tse ding tse monate tseo re ka di etsang mmoho."
+
+#. type=template
+msgctxt "template"
+msgid "Wonderful! Even if you are watching instead of doing the activity together, you can show your interest by describing and praising what your teen is doing!"
+msgstr "Hase moo! Le haeba o mo shebelletsa ho fapana le ho etsa ntho le yena, o ka bontsha thahasello ka ho hlalosa le ho babatsa seo motjha wa hao a se etsang!"
+
+#. type=template
+#. The string @data.parent_centre.relax_and_activities.location_text should not be translated.
+msgctxt "template"
+msgid "That’s perfect! If you need any inspiration, you can find suggestions for activities @data.parent_centre.relax_and_activities.location_text. Remember, let your teen choose the activity!"
+msgstr "O sebeditse! Haeba o hloka kgothatso efe kapa efe, o ka fumana ditshisinyo tsa dintho tse ka etswang ho @data.parent_centre.relax_and_activities.location_text. Hopola, tlohela motjha wa hao ho kgetha ntho e ka etswang!"
+
+#. type=template
+msgctxt "template"
+msgid "This sometimes happens! Competitive games can be challenging for teens (and adults!) if they have difficulty with losing."
+msgstr "Ka dinako tse ding sena sea etsahala! Batjha (esita le batho ba baholo) ba ka thatafallwa ke dipapadi tsa tlhodisano ha ba sitwa ho amohela ha ba hlotswe."
+
+#. type=template
+msgctxt "template"
+msgid "Suggest other activities that we can do together instead of against each other."
+msgstr "Sisinya dintho tse ding tseo re ka di etsang mmoho ho fapana le ho di etsa re le ba direng."
+
+#. type=template
+msgctxt "template"
+msgid "Play the activity in teams, so I can encourage my teen if our team loses."
+msgstr "Bapala papadi ka dihlopha, hore nka kgothatsa motjha wa ka haeba sehlopha sa rona se hlotswe."
+
+#. type=template
+msgctxt "template"
+msgid "GET POSITIVE – Use positive words and praise them!"
+msgstr "KGOTHATSA – Sebedisa mantswe a kgothatsang le ho mo babatsa!"
+
+#. type=template
+msgctxt "template"
+msgid "GET CLEAR – Be clear and specific!"
+msgstr "ITLHAKISE – Bua ka tsela e hlakileng le e tobileng!"
+
+#. type=template
+msgctxt "template"
+msgid "Wonderful! When we ask our teen to do something that is realistic, it is easier for them to succeed."
+msgstr "Ke eo taba! Ha re kopa motjha wa rona ho etsa ntho e utlwahalang, ho bonolo hore a atlehe."
+
+#. type=template
+msgctxt "template"
+msgid "When we praise them, our teens feel encouraged to listen to us again!"
+msgstr "Ha re babatsa batjha ba rona, ba ikutlwa ba kgothaditswe hore ba re mamele hape!"
+
+#. type=template
+msgctxt "template"
+msgid "Awesome! When we think ahead of specific instructions to give our teen, our instructions become much easier to follow!"
+msgstr "Hase moo! Ha re nahana esale pele ka ditaelo tse tobileng tseo re di fang motja wa rona, ho ba bonolo haholo ho latela ditaelo tsa rona!"
+
+#. type=template
+msgctxt "template"
+msgid "Did you have any challenges?"
+msgstr "Na o bile le diphephetso dife kapa dife?"
+
+#. type=template
+msgctxt "template"
+msgid "What challenge did you have?"
+msgstr "O tobane le diphephetso dife?"
+
+#. type=template
+msgctxt "template"
+msgid "My teenager did not want to follow the instruction."
+msgstr "Motjha wa ka ha a batle ho latela ditaelo."
+
+#. type=template
+msgctxt "template"
+msgid "I did not find time to spend one-on-one time with my teen."
+msgstr "Ha kea fumana nako ya boinotshing eo nka e qetang le motjha wa ka. "
+
+#. type=template
+msgctxt "template"
+msgid "I gave a negative instead of a positive instruction."
+msgstr "Ke fane ka taelo ho hanyetsa ho fapana le taelo ya se lokelang ho etsuwa."
+
+#. type=template
+msgctxt "template"
+msgid "I shouted at my teen when they behaved negatively, instead of giving them a positive instruction for what they should do."
+msgstr "Ke ile ka tjwedietsa motjha wa ka ha a itshwara hampe, ho fapana le ho mo fa taelo e tobileng ya seo a lokelang ho se etsa."
+
+#. type=template
+msgctxt "template"
+msgid "I know; our children need time to learn to follow instructions. Be patient, try again, and remember to praise them every time they follow an instruction!"
+msgstr "Kea tseba hore bana ba rona ba hloka nako hore ba ithute ho latela ditaelo. Eba le mamello, o leke hape, mme o hopole ho ba babatsa nako le nako ha ba latela ditaelo!"
+
+#. type=template
+msgctxt "template"
+msgid "Do you want to try one of the following things?"
+msgstr "Na o batla ho leka e nngwe ya dintho tse latelang?"
+
+#. type=template
+msgctxt "template"
+msgid "Think of a time each day that I can spare five minutes or a bit more time."
+msgstr "Nahana ka nako letsatsi ka leng eo nka qetang metsotso e mehlano kapa nako e fetang moo hanyane."
+
+#. type=template
+msgctxt "template"
+msgid "Find a chore that we could do together in a fun way."
+msgstr "Fumana mosebetsi wa lapeng oo re ka o etsang mmoho ka tsela e monate."
+
+#. type=template
+msgctxt "template"
+msgid "Ask my teen or someone else to help me with a chore, so I have some extra free time."
+msgstr "Kopa motjha wa ka kapa motho e mong ho nthusa ka mesebetsi ya katlung, hore ke be le nako e eketsehileng eo ke sa etseng letho ka yona."
+
+#. type=template
+msgctxt "template"
+msgid "Perfect! Even spending 5 minutes makes a big difference, and if you do it at the same time every day (like at breakfast or before bed), it will be easier to keep it up!"
+msgstr "Hase moo! Ho qeta metsotso e 5 ho etsa phapang e kgolo, mme ha o etsa seo ka nako e tshwanang letsatsi le letsatsi, (jwaloka nakong ya dijo tsa hoseng kapa pele le robala), ho ba bonolo ho se fetwe!"
 
 #. type=template
 msgctxt "template"
