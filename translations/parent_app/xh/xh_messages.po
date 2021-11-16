@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2021-11-16 12:28\n"
+"PO-Revision-Date: 2021-11-16 18:26\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -222,6 +222,12 @@ msgstr ""
 msgctxt "template"
 msgid "My name"
 msgstr "Igama lam"
+
+#. type=template
+#. The string @global.weekly_workshop should not be translated.
+msgctxt "template"
+msgid "@global.weekly_workshop day"
+msgstr "Usuku lwe @global.weekly_workshop"
 
 #. type=template
 msgctxt "template"
@@ -4219,6 +4225,11 @@ msgstr "I-@data.workshop.w_money.tools ifakwe kwi-@data.parent_centre.my_tips.ti
 msgctxt "template"
 msgid "It is so stressful when children misbehave."
 msgstr "Xa abantwana besenza ukusa, oko kubangela uxinezeleko."
+
+#. type=template
+msgctxt "template"
+msgid "How many days in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
+msgstr "Zingaphi intsuku kule veki idlulileyo oye waqeqesha abantwana bakho ngokubabetha, ukubabetha ezimpundu okanye ukubabetha ngesandla sakho okanye ngenye into efana noswazi okanye ibhanti?"
 
 #. type=template
 msgctxt "template"
@@ -12029,9 +12040,21 @@ msgid "Help"
 msgstr "Uncedo"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Help** in the @global.parent_centre"
+msgstr "**Uncedo** kwi @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "My Tips"
 msgstr "Amacebiso Am"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**My Tips** in the @global.parent_centre"
+msgstr "**Iingcebiso Zam** kwi @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12039,9 +12062,21 @@ msgid "Essential Tools"
 msgstr "Izixhobo Ezibalulekileyo"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Essential Tools** in the @global.parent_centre"
+msgstr "**Izixhobo Ezibalulekileyo** kwi @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "COVID"
 msgstr "I-COVID"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**COVID** in the @global.parent_centre"
+msgstr "**i-Covid** kwi @global.parent_centre"
 
 #. type=data_list
 #. The string @global.parent_app should not be translated.
@@ -12055,9 +12090,23 @@ msgid "Customise Again"
 msgstr "Phinda Uzivumelanise"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app**
+#.      @global.parent_centre
+msgctxt "data_list"
+msgid "**Customise @global.parent_app** in the @global.parent_centre"
+msgstr "**Yenza Ngokwezifiso ze @global.parent_app** kwi @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Relax & Activities"
 msgstr "Ukuphola Nemisebenzi"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "under **Relax & Activities** in the @global.parent_centre"
+msgstr "phantsi **Phola & Imisebenzi** kwi @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12070,14 +12119,32 @@ msgid "Evidence Base"
 msgstr "Isiseko Sobungqina"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Evidence Base** in the @global.parent_centre"
+msgstr "**Ubungqina Siseko** kwi @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Technical Support"
 msgstr "Inkxaso Yobunjineli"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Technical Support** in the @global.parent_centre"
+msgstr "**Uxhaso Lobuchwepheshe** kwi @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Message Archive"
 msgstr "Ugcino Lwemiyalezo"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Message Archive** in the @global.parent_centre"
+msgstr "**Uvimba Womyalezo** kwi @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
