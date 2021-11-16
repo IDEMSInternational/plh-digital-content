@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Southern Sotho\n"
 "\n"
 "Language: st_ZA\n"
-"PO-Revision-Date: 2021-11-16 00:33\n"
+"PO-Revision-Date: 2021-11-16 12:28\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -68,7 +68,7 @@ msgstr "Mantswe a Epo"
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
 msgid "About @global.parent_app"
-msgstr "Mabapi @global.parent_app"
+msgstr "Mabapi le @global.parent_app"
 
 #. type=template
 #. The string @global.parent_app should not be translated.
@@ -315,7 +315,7 @@ msgstr "O tla fumana dikeletso tseo re nahanang hore o ka di fumana di le molemo
 #. type=template
 msgctxt "template"
 msgid "Ah yes, even 10 minutes together makes a big difference – that makes it easy to schedule it in, next to your work and chores!"
-msgstr "Ehlile ho jwalo, le ho qeta metsotso e 10 mmoho ho tlisa phapang e kgolo – seo se etsa hore ho be bonolo ho e hlophisa, hore ebe haufi mosebetsi wa hao le mesebetsi ya lapeng!"
+msgstr "Ehlile ho jwalo, le ho qeta metsotso e 10 mmoho ho tlisa phapang e kgolo – seo se etsa hore ho be bonolo ho e hlophisa, hore ebe haufi le mosebetsi wa hao le mesebetsi ya lapeng!"
 
 #. type=template
 msgctxt "template"
@@ -376,7 +376,7 @@ msgid ""
 msgstr ""
 "Batswadi ba bangata ba tobana le diphephetso tsa ho qeta nako ya boinotshing le batjha ba bona.\n"
 "\n"
-"Tsena ke diphephetso tse 8 tse ka sehloohong tseo batswadi ba itseng ba tobana le tsona ha ba hlophisa kapa ba qeta nako ya boinotshing le batjha ba bona. Haeba o tobana le e nngwe ya tsena kapa o tshaba hore o ka tobana le yona, e tobetse ho fumana tharollo e ka nnang ya sebetsa. O ka tobetsa mme wa ithuta ka diphephetso tse ding kamora moo."
+"Tsena ke diphephetso tse 8 tse ka sehloohong tseo batswadi ba itseng ba tobanang le tsona ha ba hlophisa kapa ba qeta nako ya boinotshing le batjha ba bona. Haeba o tobana le e nngwe ya tsena kapa o tshaba hore o ka tobana le yona, e tobetse ho fumana tharollo e ka nnang ya sebetsa. O ka tobetsa mme wa ithuta ka diphephetso tse ding kamora moo."
 
 #. type=template
 msgctxt "template"
@@ -466,7 +466,7 @@ msgstr "Ho a thabisa! Ho shebella lenaneo la T.V. leo motjha a le ratang kapa pa
 #. type=template
 msgctxt "template"
 msgid "Perfect! Sometimes it can be easier to start with spending time with the whole family. That way your teen can get more comfortable with spending one-on-one time with you over time."
-msgstr "Ke hantle! Ka dinako tse ding ho ka ba bonolo ho qala ka ho qeta nako le lelapa lohle. Ka tsela eo motjha wa hao a ka phutholoha haholo ho qeta nako ya boinotsing le wena ha nako e ntse e feta."
+msgstr "Ke hantle! Ka dinako tse ding ho ka ba bonolo ho qala ka ho qeta nako le lelapa lohle. Ka tsela eo motjha wa hao a ka phutholoha haholo ho qeta nako ya boinotshing le wena ha nako e ntse e feta."
 
 #. type=template
 msgctxt "template"
@@ -511,7 +511,7 @@ msgstr "Ha o mong mona. Ka dinako tse ding batswadi ba bangata ba thulana le bot
 #. type=template
 msgctxt "template"
 msgid "Explain to my teen why their suggestion is not safe or possible and ask them for other ideas."
-msgstr "Hlalosetsa motjha wa ka hore na hobaneng ha tshisinyo ya hae e sa bolokeha kapa sa kgonehe mme mo kope maikutlo a mang."
+msgstr "Hlalosetsa motjha wa ka hore na hobaneng ha tshisinyo ya hae e sa bolokeha kapa e sa kgonehe mme mo kope maikutlo a mang."
 
 #. type=template
 msgctxt "template"
@@ -613,7 +613,7 @@ msgstr "Motjha wa ka ha a batle ho latela ditaelo."
 #. type=template
 msgctxt "template"
 msgid "I did not find time to spend one-on-one time with my teen."
-msgstr "Ha kea fumana nako ya boinotshing eo nka e qetang le motjha wa ka. "
+msgstr "Ha kea fumana nako ya boinotshing eo nka e qetang le motjha wa ka."
 
 #. type=template
 msgctxt "template"
@@ -715,6 +715,51 @@ msgstr "etsa bajete mmoho le lelapa la hae"
 msgctxt "template"
 msgid "Did you have any challenges when making your budget together?"
 msgstr "Na le bile le diphephetso dife kapa dife ha le etsa bajete ya lona mmoho?"
+
+#. type=template
+msgctxt "template"
+msgid "What whas difficult for you about making your budget together?"
+msgstr "Ke eng e le thatafalletseng ka ho etsa bajete hammoho?"
+
+#. type=template
+msgctxt "template"
+msgid "I did not want to tell my family how much I earn."
+msgstr "Ke ne ke sa batle ho bolella lelapa la ka hore na ke amohela tjhelete e kae."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.currency
+#.      @global.monthly_income_estimate
+#.      @global.currency
+#.      @global.monthly_income_precise
+msgctxt "template"
+msgid "You don’t have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have @global.currency@global.monthly_income_estimate every month” rather than, “I make @global.currency@global.monthly_income_precise”."
+msgstr "Ha ho hlokahale hore o bolele ka ho toba tjhelete eo o e amohelang; o ka fana ka kgakanyo. O ka bua tjena, “Lelapeng lena, re na le @global.currency@global.monthly_income_estimate kgwedi le kgwedi” ho fapana le hore, “Ke etsa @global.currency@global.monthly_income_precise”."
+
+#. type=template
+msgctxt "template"
+msgid "When budgeting, we could not agree on what should fall under needs and what should fall under wants."
+msgstr "Ha re etsa bajete, re ne re sa dumellane hore na ke eng e lokelang ho wela tlasa dintho tseo re di hlokang le tseo re di batlang."
+
+#. type=template
+msgctxt "template"
+msgid "People’s wants and needs are different sometimes. Talking about them together can help you and your teen to understand each other, respect your differences, and see where you can compromise."
+msgstr "Ka dinako tse ding dintho tseo batho ba di batlang le tseo ba di hlokang dia fapana. Ho buisana ka tsona ho ka thusa wena le ngwana kapa motjha wa hao hore le utlwisisane, le hlomphe ho se tshwane ha lona, le ho bona hore na le ka itima dintho dife."
+
+#. type=template
+msgctxt "template"
+msgid "I did not understand what to do."
+msgstr "Ke ne ke sa utlwisise seo ke tlamehang ho se etsa."
+
+#. type=template
+msgctxt "template"
+msgid "I’m sorry to hear this. I know it can be difficult! Why don’t we go through it again? Your teen or other family members can join and help you!"
+msgstr "Ke maswabi ho utlwa seo. Kea tseba hore ho ka ba thata! Ke kopa hore re ke re hlahlobe dintlha hape. Motjha wa hao kapa ditho tse ding tsa lelapa di ka tla mme tsa o thusa!"
+
+#. type=template
+msgctxt "template"
+msgid "My teen did not want to do the budgeting with me."
+msgstr "Motjha wa ka o ne a sa batle ho etsa bajete le nna."
 
 #. type=template
 msgctxt "template"
