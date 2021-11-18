@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2021-11-18 10:14\n"
+"PO-Revision-Date: 2021-11-18 16:23\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -4609,6 +4609,17 @@ msgid "You selected \"I would rather not answer\""
 msgstr "Ukhethe \"Ndikhetha ukungaphenduli\""
 
 #. type=template
+msgctxt "template"
+msgid ""
+"That’s ok! \n"
+"\n"
+"Remember, if you do answer your answer will be kept private and will help us to provide you with content that is exactly right for you."
+msgstr ""
+"Kulungile!\n"
+"\n"
+"Khumbula, ukuba uyakhetha ukunikeza impendulo yakho izokugcinwa bucala kwaye izokusinceda ekukuboneleleni umxholo olungele wena kanye."
+
+#. type=template
 #. The following strings should not be translated: 
 #.      @data.parent_centre.my_tips.location_text
 #.      @data.workshop.w_1on1.title
@@ -4872,6 +4883,11 @@ msgstr "Masiqale ngemibuzo embalwa malunga nawe kunye nentsapho yakho."
 msgctxt "template"
 msgid "We would love to know your first name or nickname:"
 msgstr "Singathanda ukwazi igama okanye isiteketiso sakho:"
+
+#. type=template
+msgctxt "template"
+msgid "Are you a woman or a man?"
+msgstr "Ungumfazi okanye uyindoda?"
 
 #. type=template
 msgctxt "template"
@@ -5486,6 +5502,11 @@ msgstr "YABELANANI"
 msgctxt "template"
 msgid "Share @global.parent_app and help other families start their journey."
 msgstr "Yabelanani nge-@global.parent_app nize nincede ezinye iintsapho ziqale uhambo lwazo."
+
+#. type=template
+msgctxt "template"
+msgid "End of programme check-in"
+msgstr "Uphela kwenkqubo yokungena"
 
 #. type=template
 #. The string @global.parent_app should not be translated.
@@ -11969,6 +11990,11 @@ msgstr "**Phola** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Doing a relaxation activity"
+msgstr "Ukwenza umsebenzi wokuzipholisa"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Treat yourself well"
 msgstr "Zinonophele kakuhle"
 
@@ -11977,6 +12003,12 @@ msgstr "Zinonophele kakuhle"
 msgctxt "data_list"
 msgid "**Treat yourself well** @global.parent_point"
 msgstr "**Zinonophele kakuhle** @global.parent_point"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you treat yourself well, tap the @global.parent_point and celebrate your success!"
+msgstr "Rhoqo xawu zinonophele kakuhle, cofa i @global.parent_point ubhiyozele impumelelo yakho!"
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
@@ -11994,6 +12026,11 @@ msgstr "Ixesha lenu nobabini"
 msgctxt "data_list"
 msgid "**One-on-one time** @global.parent_point"
 msgstr "**Ixesha lenu nobabini** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Spending time with their teen"
+msgstr "Ukuchitha ixesha nabantwana babo abafikisayo"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12069,7 +12106,7 @@ msgstr "**Ikhuselekile** @global.parent_point"
 #. type=data_list
 msgctxt "data_list"
 msgid "Did it? Tap it!"
-msgstr "Uyenzile? Yithephe!"
+msgstr "Uyenzile? Uyicofile!"
 
 #. type=data_list
 msgctxt "data_list"
