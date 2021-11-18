@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2021-11-16 18:26\n"
+"PO-Revision-Date: 2021-11-18 10:14\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -187,6 +187,27 @@ msgstr "Enye indlela"
 msgctxt "template"
 msgid "You may be asked to share this code with people who will support your @global.parent_app journey."
 msgstr "Unokucelwa ukuba wabelane ngale khowudi nabantu abaza kuxhasa uhambo lwakho lwe@global.parent_app."
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Ungqamaniso Lokugqibela e: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "Esi sixhobo asizange singqanyaniswe. Ngqamanisa uzokuveza ikhowudi yakho."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Ngqamanisa ngoku"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Ungqamaniso..."
 
 #. type=template
 msgctxt "template"
@@ -4570,6 +4591,17 @@ msgstr "Le app ijolise kubazali babantwana abafikisayo @global.teen_age_bracket,
 msgctxt "template"
 msgid "Are you sure you want to skip this question?"
 msgstr "Uqinisekile ufuna ukuwutsiba lo mbuzo?"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Are you sure you want to skip this question? Remember, your answer will be kept private and will help us understand your parenting needs. \n"
+"\n"
+"You can also choose not to answer any question by selecting the circle."
+msgstr ""
+"Uqinisekile ukuba ufuna ukuwudlula lo mbuzo? Khumbula, impedulo yakho izokugcinwa bucala kwaye izosinceda siqonde iimfuno zobuzali bakho. \n"
+"\n"
+"Ungakwazi ukukhetha ukungaphenduli noba ngowuphi umbuzo ngokukhetha isangqa."
 
 #. type=template
 msgctxt "template"
@@ -12033,6 +12065,11 @@ msgstr "Ikhuselekile"
 msgctxt "data_list"
 msgid "**Safe** @global.parent_point"
 msgstr "**Ikhuselekile** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did it? Tap it!"
+msgstr "Uyenzile? Yithephe!"
 
 #. type=data_list
 msgctxt "data_list"
