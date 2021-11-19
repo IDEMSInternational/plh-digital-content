@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2021-11-19 10:20\n"
+"PO-Revision-Date: 2021-11-19 16:24\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -69,6 +69,18 @@ msgstr "Imimiselo ye-App"
 msgctxt "template"
 msgid "About @global.parent_app"
 msgstr "Malunga"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid ""
+"@global.parent_app was developed by Parenting for Lifelong Health (PLH) – a worldwide collaboration between parenting experts from UNICEF, the WHO and Universities in South Africa and the UK, as well as African NGOs and families and teens all across Africa. Parents and teens worked with us on the app and helped to ensure it is easy-to-use, fun and engaging. Some of the content in this app, like suggestions of activities and illustrated stories, were created with parents and teens to make sure it fits families’ needs.\n"
+"\n"
+"Parenting for Lifelong Health (PLH) is committed to supporting free and shareable parenting materials and programmes, to support parents worldwide to promote the well-being of their children."
+msgstr ""
+"@global.parent_app yaphuhliswa yiParenting for Lifelong Health (PLH) - intsebenziswano yehlabathi lonke phakathi kweengcali zobuzali ezivela kwi-UNICEF, i-WHO kunye neeYunivesithi zaseMzantsi Afrika nase-UK, kunye nee-NGO zase-Afrika kunye neentsapho kunye nolutsha kwi-Afrika iphela. Abazali kunye nabantwana abafikisayo basebenze nathi kwi-app kwaye bancedise ekuqinisekiseni ukuba kulula ukuyisebenzisa, imnandi kwaye iyabandakanya. Enye ikhontenti kule app, njenga macebiso kwizinto ezinokwenziwa kunye namabali anemifanekiso, yenziwe nabazali kunye nabantwana abafikisayo ukuqinisekisa ukuba iyahambelana nemfuno zentsapho\n"
+"\n"
+"i-Parenting for Lifelong Health (PLH) izibophelele ekuxhaseni izixhobo nenkqubo ezisimahla nokwabelwana ngazo zobuzali, ukuxhasa abazali kwihlabathi jikelele ukukhuthaza impilo-ntle yabantwana babo."
 
 #. type=template
 msgctxt "template"
@@ -5519,6 +5531,11 @@ msgstr ""
 "Uye wasebenzisa i@global.parent_app kwezi nyanga zidlulileyo, kodwa ukuba ngumzali kumntwana ofikisayo kokwexesha elide!  Imibuzo elandelayo malunga namava akho okuba ngumzali iza kusinceda sihlole ukuba ngumzali kwakho.\n"
 "\n"
 "Nyaniseka. Ukhumbule ukuba izigidi zabazali zivakalelwa ngale ndlela ovakalelwa ngayo kwaye sonke siyayifuna inkxaso. Awukho wedwa!"
+
+#. type=template
+msgctxt "template"
+msgid "You seem to have completed the end of programme check-in already. You can now skip this activity."
+msgstr "Kubonakala ngathi sele uyigqibile inkqubo yokuzivumelanisa. Ngoku ungawutsiba lo msebenzi."
 
 #. type=template
 msgctxt "template"
@@ -11809,6 +11826,21 @@ msgstr "Qhubeka"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Hi great parent, remember to take care of yourself too - it will help you AND your family! Get your tips and more in ParentApp."
+msgstr "Molo mzali ogqwesileyo, khumbula ukuzinakekela nawe - izokunceda KWAYE nosapho lwakho! Fumana iingcebiso nezingakumbi Kwi-app Yomzali."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi great parent! Remember, you can find lots of helpful tips in ParentApp."
+msgstr "Molo mzali ogqwesileyo! Khumbula, ungafumana iingcebiso eziluncedo Kwi-app Yomzali."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi great parent! ParentApp is here to support you. Check it out now!"
+msgstr "Molo mzali ogqwesileyo! I-app Yomzali ilapha ukukuxhasa. Yijonge!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Welcome to ParentApp. Click here to start your journey!"
 msgstr "Wamkelekile kwiApp Yomzali. Cofa apha ukuze uqalise uhambo lwakho!"
 
@@ -11969,6 +12001,11 @@ msgstr "Ukwenza umsebenzi wekhaya ube mnandi"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Household chores aren’t fun… or are they? You can make them into a game!"
+msgstr "Imisebenzi yasekhaya ayikhomnandi... okanye? Ningabenza babe ngumdlalo!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "What are you doing?"
 msgstr "Wenza ntoni?"
 
@@ -12104,6 +12141,12 @@ msgid "Giving their teen a positive instruction"
 msgstr "Ukunika imiyalelo eyakhayo kwabantwana babo abafikisayo"
 
 #. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a positive instruction, tap the @global.parent_point and celebrate your success!"
+msgstr "Ixesha ngalinye unikeza imiyalelo yakhayo, cofa u @global.parent_point ubhiyozele impumelelo yakho!"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Breathe not yell"
 msgstr "Thatha umoya ungangxoli"
@@ -12113,6 +12156,17 @@ msgstr "Thatha umoya ungangxoli"
 msgctxt "data_list"
 msgid "**Breathe not yell** @global.parent_point"
 msgstr "**Thatha umoya ungangxoli** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking a pause before responding"
+msgstr "Nqumama phambi koba uphendule"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you take a pause before responding, tap the @global.parent_point and celebrate your success!"
+msgstr "Ixesha ngalinye unqumama phambi koba uphendule, cofa u @global.parent_point ubhiyozele impumelelo yakho!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12131,6 +12185,12 @@ msgid "Keeping the budget"
 msgstr "Ukugcina uhlahlo lwabiwo-mali"
 
 #. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you make a good choice about needs, wants and savings, tap the @global.parent_point and celebrate your success!"
+msgstr "Ixesha ngalinye owenza ukhetho olululo ngokweentswelo, iimfuno, ukonga, cofa u @global.parent_point ubhiyozele impumelelo yakho!"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Calm consequence"
 msgstr "Imiphumo Ezolileyo"
@@ -12143,6 +12203,17 @@ msgstr "**Imiphumo Ezolileyo** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Giving their teen a consequence in a calm way"
+msgstr "Indlela yokunika abantwana abafikisayo imiphumo ezolileyo"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a calm consequence, tap the @global.parent_point and celebrate your success!"
+msgstr "Ixesha ngalinye unikeza imiphumo ezolileyo, cofa u @global.parent_point ubhiyozele impumelelo yakho!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Safe"
 msgstr "Ikhuselekile"
 
@@ -12151,6 +12222,17 @@ msgstr "Ikhuselekile"
 msgctxt "data_list"
 msgid "**Safe** @global.parent_point"
 msgstr "**Ikhuselekile** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Planning or keeping a family safety plan"
+msgstr "Ukucwangcisa okanye ukugcina isicwangciso sokhuseleko losapho"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do something to keep your teen safe, tap the @global.parent_point and celebrate your success!"
+msgstr "Ixesha ngalinye wenza into yokukhusela umntwana wakho ofikisayo, cofa u @global.parent_point ubhiyozele impumelelo yakho!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12235,6 +12317,12 @@ msgstr "phantsi **Phola & Imisebenzi** kwi @global.parent_centre"
 msgctxt "data_list"
 msgid "Support Contacts"
 msgstr "Abaqhagamshelwa Benkxaso"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Support Contacts** in the @global.parent_centre"
+msgstr "**Abaqhagamshelwa Benkxaso** kwi @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
