@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Southern Sotho\n"
 "\n"
 "Language: st_ZA\n"
-"PO-Revision-Date: 2021-11-25 04:24\n"
+"PO-Revision-Date: 2021-11-25 10:29\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -4171,7 +4171,7 @@ msgid ""
 "\n"
 "Be honest. Remember that you are not alone! Millions of parents feel like you do, and we all deserve support."
 msgstr ""
-"Batswadi bohle lefatsheng ba hula ka thata dinakong tseng tse boima. Dipotso tse latelang di amanang le dintho tse o hlahetseng jwaloka motswadi di tla re thusa ho fumana thuso eo re e hlokang.\n"
+"Batswadi bohle lefatsheng ba hula ka thata dinakong tseng tse boima. Dipotso tse latelang tse amanang le dintho tse o hlahetseng jwaloka motswadi di tla re thusa ho fumana thuso eo re e hlokang.\n"
 "\n"
 "Tshepahala. Hopola hore ha o mong! Ho na le batswadi ba dimilione ba ikutlwang jwaloka wena, mme kaofela re tshwanelwa ke ho fuwa thuso."
 
@@ -4353,7 +4353,7 @@ msgstr "Rea leboha ka hore o arabe ka botshepehi"
 #.      @data.workshop.w_1on1.in_text_title
 msgctxt "template"
 msgid "We know this is hard. You can review some helpful tips on how you can spend time with your teen under @data.parent_centre.my_tips.location_text or you can have another look at the @data.workshop.w_1on1.in_text_title."
-msgstr "Rea tseba hore ena ke ntho e thata. O ka ikgopotso tse ding tsa dikeletso tse molemo tsa kamoo o ka qetang nako le motjha wa hao kateng ho @data.parent_centre.my_tips.location_text kapa o ka boela wa sheba @data.workshop.w_1on1.in_text_title."
+msgstr "Rea tseba hore ena ke ntho e thata. O ka ikgopotsa tse ding tsa dikeletso tse molemo tsa kamoo o ka qetang nako le motjha wa hao kateng ho @data.parent_centre.my_tips.location_text kapa o ka boela wa sheba @data.workshop.w_1on1.in_text_title."
 
 #. type=template
 #. The string @data.workshop.w_1on1.in_text_title should not be translated.
@@ -4383,7 +4383,7 @@ msgid ""
 "\n"
 "You can always have another look at the @data.workshop.w_praise.in_text_title for more tips on how to use this skill well."
 msgstr ""
-"O etsa hantle hore ee o babatsa motjha wa hao! Sena se mo thusa hore a ikutlwe e le wa bohlokwa – kgothatso ya hao e kgatha tema ya bohlokwa haholo. \n"
+"O etsa hantle hore o babatsa motjha wa hao! Sena se mo thusa hore a ikutlwe e le wa bohlokwa – kgothatso ya hao e kgatha tema ya bohlokwa haholo. \n"
 "\n"
 "Kamehla o ka boela wa sheba @data.workshop.w_praise.in_text_title hore o fumane dikeletso tse ding tsa kamoo tsebo ena e ka sebediswang hantle."
 
@@ -4491,7 +4491,9 @@ msgid ""
 msgstr ""
 "Rea leboha hore ebe o ipuetse nnete – re maswabi hore dintho ha di tsamaye hantle pakeng tsa hao le motjha wa hao.\n"
 "\n"
-"Kaofela re ikutlwa re imetswe ka dinako tse ding, mme ho tswela pele ho sebedisa @global.parent_app ke bohato bo botle haholo ba ho thusa wena le lelapa la hao."
+"Kaofela re ikutlwa re imetswe ka dinako tse ding, mme ho tswela pele ho sebedisa @global.parent_app ke bohato bo botle haholo ba ho thusa wena le lelapa la hao.\n"
+"\n"
+"Dikeletso tsa rona di thusitse batswadi le malapa a dikete hore a fokotse seterese le ho qeta nako e ngata a le mmoho ka tsela e molemo. Re tla wa re tsoha le wena."
 
 #. type=template
 #. The string @data.parent_centre.my_tips.location_text should not be translated.
@@ -4522,7 +4524,7 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Great that you are aware of what your teen is doing. Parenting is hard, but you’re really succeeding in this to keep them safe."
-msgstr "Ke hantle hore ebe o tseba seo motjha wa hao a se etsang. Ho thata ho ba motswadi, empa kannete o a atleha ho tiisa hore wa hao o sireletsehile."
+msgstr "Ke hantle hore ebe o tseba seo motjha wa hao a se etsang. Ho thata ho ba motswadi, empa kannete o a atleha ho ba boloka ba sireletsehile."
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4971,6 +4973,11 @@ msgid "Great! We will unlock a new workshop for your group every week. This allo
 msgstr "Hase moo! Re tla notlolla wekshopo e ntjha bakeng sa sehlopha sa hao beke le beke. Sena se tla fa bohle monyetla wa ho leka seo ba ithutileng sona ha ba na le ba malapa a bona pele ba hahella tsebo e latelang."
 
 #. type=template
+msgctxt "template"
+msgid "Great! We will unlock a new workshop for you every week. This allows you to try what you learned with your family before building the next skill."
+msgstr "Hase moo! Re tla notlolla wekshopo e ntjha bakeng sa hao beke le beke. Sena se tla o fa wa ho leka seo o ithutileng sona ha o na le ba lelapa la hao pele o hahella tsebo e latelang."
+
+#. type=template
 #. The string @global.weekly_workshop_options should not be translated.
 msgctxt "template"
 msgid "You can always change these settings in your @global.weekly_workshop_options."
@@ -5349,4 +5356,570 @@ msgstr "Mamela le ho ikgopotsa"
 msgctxt "template"
 msgid "Read and reflect"
 msgstr "Bala mme o ikgopotse"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Close eyes and relax.\n"
+"\n"
+"Think of your family life before you started your journey with this app.\n"
+"       \n"
+"Think back of skills you learned:\n"
+"* Self-care\n"
+"* One-on-one time\n"
+"* Praise\n"
+"* Positive instructions\n"
+"* Managing stress\n"
+"* Family budgeting\n"
+"* Rules\n"
+"* Calm consequences\n"
+"* Problem solving\n"
+"* Teen safety\n"
+"* Dealing with crisis\n"
+"\n"
+"Reflect on the journey – how was it for you to:\n"
+"* Share ideas and experiences\n"
+"* Reflect on and learn from the stories\n"
+"* Practice skills with your teen\n"
+"\n"
+"Did anything change for you and your family?\n"
+"\n"
+"What do you need to continue to use skills?"
+msgstr ""
+"Kwala mahlo mme o phutholohe.\n"
+"\n"
+"Nahana ka bophelo ba lelapa la hao pele o qala leeto la epo ena.\n"
+"       \n"
+"Nahana ka tsebo eo o ithutileng yona:\n"
+"* Ho itlhokomela\n"
+"* Nako ya boinotsing\n"
+"* Pabatso\n"
+"* Ditaelo tsa se lokelang ho etswa\n"
+"* Ho laola seterese\n"
+"* Ho etsa bajete ya lelapa\n"
+"* Melao\n"
+"* Ho jarisa ditlamorao o theotse moya\n"
+"* Ho rarolla mathata\n"
+"* Polokeho ya batjha\n"
+"* Ho sebetsana le koduwa\n"
+"\n"
+"Nahana ka leeto lena – ho bile jwang ho wena ha:\n"
+"* O bolela maikutlo a hao le dintho tseo o fetileng ho tsona\n"
+"* Nahana le ho ithuta ho tswa ho dipale\n"
+"* Prakthisa tsebo ena ho motjha wa hao\n"
+"\n"
+"Na ho na le eng kapa eng e fetohileng ho wena le ba lelapa la hao?\n"
+"\n"
+"O hloka eng hore o tswele pele ho sebedisa tsebo ye?"
+
+#. type=template
+msgctxt "template"
+msgid "Let's talk about what has changed."
+msgstr "A re bue ka dintho tse fetohileng."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Discuss together:\n"
+"* What has changed in your family?\n"
+"* What are you proud of that you have done?\n"
+"\n"
+"Remember to praise and encourage each other!"
+msgstr ""
+"Buisanang:\n"
+"* Ho fetohile eng lelapeng la hao?\n"
+"* Ke eng eo o e entseng eo o leng motlotlo ka yona?\n"
+"\n"
+"Hopolang ho babatsana le ho kgothatsana!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"How will you support each other going forward? \n"
+"\n"
+"Here are some ideas from other families:"
+msgstr ""
+"Le tla tshehetsana jwang ha le ntse le tswele pale?\n"
+"\n"
+"Bona dikeletso tsena tse tswang malapeng a mang:"
+
+#. type=template
+msgctxt "template"
+msgid "MEET"
+msgstr "KOPANANG"
+
+#. type=template
+msgctxt "template"
+msgid "Keep meeting regularly to give each other parenting support."
+msgstr "Dulang le kopana kamehla hore le tshehetsane jwaloka batswadi."
+
+#. type=template
+msgctxt "template"
+msgid "CALL"
+msgstr "LETSETSANANG"
+
+#. type=template
+msgctxt "template"
+msgid "Be ‘parenting buddies’ to call when you are upset or don’t know what to do."
+msgstr "E bang ‘mekgotsi e kopanngwang ke botswadi’ e letsetsanang ha le halefile kapa le sa tsebe hore le etseng."
+
+#. type=template
+msgctxt "template"
+msgid "TEXT"
+msgstr "NGOLLANANG"
+
+#. type=template
+msgctxt "template"
+msgid "Text each other every week to share what you’ve done well."
+msgstr "Ngollanang beke le beke ho bolellana seo le se entseng hantle."
+
+#. type=template
+msgctxt "template"
+msgid "SHARE"
+msgstr "ABANG"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "Share @global.parent_app and help other families start their journey."
+msgstr "Abang @global.parent_app mme le thuse malapa a mang a qale leeto la wona."
+
+#. type=template
+msgctxt "template"
+msgid "End of programme check-in"
+msgstr "Tlhahlobo ya qetello ya lenaneo"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid ""
+"You have been using @global.parent_app for the last months, but parenting a teen is long lasting!  The next questions about your parenting experiences will help us assess your parenting.\n"
+"\n"
+"Be honest. Remember that millions of parents feel like you do, and we all deserve support. You are not alone!"
+msgstr ""
+"Haesale o sebedisa @global.parent_app dikgweding tse fetileng, empa ho ba motswadi wa motjha ho nka nako e telele! Dipotso tse latelang tse amanang le boiphihlelo ba hao jwaloka motswadi di tla thusa ho lekola botswadi ba hao.\n"
+"\n"
+"Ipuele nnete feela. Hopola hore batswadi ba dimilione ba ikutlwa jwaloka wena, mme kaofela re tshwanelwa ke pabatso. Ha o mong!"
+
+#. type=template
+msgctxt "template"
+msgid "You seem to have completed the end of programme check-in already. You can now skip this activity."
+msgstr "Ho bonahala eka o se o phethile tlhahlobo ya qetellong ya lenaneo. Hona o ka feta mosebetsi ona."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Plan how you will support each other going forward. \n"
+"\n"
+"You can use the ideas from other families, or make up your own!"
+msgstr ""
+"Etsang moralo wa kamoo le tla tshehetsana kateng ho tloha jwale ho ya pele.\n"
+"\n"
+"O ka sebedisa dikeletso tse tswang malapeng a mang, kapa wa iketsetsa tsa hao!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"We are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing. \n"
+"\n"
+"This song is for parents everywhere. Listen, dance together and celebrate yourselves!"
+msgstr ""
+"Re motlotlo ka wena haholo. O bonahaladitse matla, sebete le lerato bakeng sa lelapa la hao. Batswadi baa hlolla. Le wena o motho ya hlollang.\n"
+"\n"
+"Pina ena ke ya batswadi hohle moo ba leng teng. E mameleng, e tantshetseng le ho iketeka!"
+
+#. type=template
+msgctxt "template"
+msgid "EXPLAIN"
+msgstr "HLALOSA"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Check you are both calm. Take a few breaths. Explain to your teen why you are concerned about their behaviour.\n"
+"\n"
+"Explain the reasons why the rule mattered. You can share your feelings - it’s okay to say you are disappointed."
+msgstr ""
+"Tiisa hore bobedi ba lona le kgobile matshwafo. Hemela hodimo ka makgetlo a seng makae. Hlalosetsa motjha wa hao hore na ke hobaneng ha o kgathatsehile ka boitshwaro ba hae.\n"
+"\n"
+"Hlalosa mabaka a hore na hobaneng ha ho hlokeha molao. O ka mo phetela maikutlo a hao - ho lokile ho mo bolella hore o swabile."
+
+#. type=template
+msgctxt "template"
+msgid "AGREE"
+msgstr "DUMELLANANG"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Plan consequences with your teen for following and not following the rule.\n"
+"\n"
+"Ask for their ideas. Talk until you agree on something realistic.\n"
+"\n"
+"Make a consequence for NOT following the rule and a privilege when they DO follow the rule."
+msgstr ""
+"Hlophisa ditlamorao le motjha wa hao tsa ho latela molao le ho se o latele.\n"
+"\n"
+"Mo botse hore na o nahana jwang. Buisanang ho fihlela le dumellana ka ho hong ho utlwahalang.\n"
+"\n"
+"Etsang ditlamorao tsa HO SE latele molao le tlotla ya ha A latela molao."
+
+#. type=template
+msgctxt "template"
+msgid "ACT"
+msgstr "NKA BOHATO"
+
+#. type=template
+msgctxt "template"
+msgid "When your teen follows the rule, give praise and privileges!"
+msgstr "Ha motjha wa hao a latela molao, mo babatse mme o mo fe dintho tse kgethehileng!"
+
+#. type=template
+msgctxt "template"
+msgid "They will feel respected and valued. Remember: The more we praise them, the more they will show that good behaviour!"
+msgstr "O tla ikutlwa a hlomphuwa ebile e le wa bohlokwa. Hopola: Ha o mo babatsa haholo, o tla bonahatsa boitshwaro boo bo botle!"
+
+#. type=template
+msgctxt "template"
+msgid "When your teen does not follow the rule, follow through with the consequence."
+msgstr "Ha motjha wa hao a sa latela molao, mo jarise ditlamorao."
+
+#. type=template
+msgctxt "template"
+msgid "When your teen breaks the rule, calmly give the consequence. This should be FAIR (not too harsh), IMMEDIATE (do it straight away) CONSISTENT (same every time)."
+msgstr "Ha motjha wa hao a tlola molao, ka mosa mo jarise ditlamorao tsa ketso ya hae. E lokela ho ba tse LOKILENG (eseng tse sehloho), HANGHANG (di jarise tsona ntle ho tshenyo ya nako) KA TSELA E TSHWANANG (ebe tse tshwanang nako le nako)."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Discuss together:\n"
+"* What rules do your teens often break? \n"
+"* What consequence could you use for each specific broken rule? \n"
+"\n"
+"Consequences should be: \n"
+"FAIR (not too harsh)\n"
+"IMMEDIATE (do it straight away) \n"
+"CONSISTENT (same every time).\n"
+"\n"
+"Praise and encourage each other – we can give each other strength!"
+msgstr ""
+"Buisanang ka:\n"
+"* Ke melao efe eo motjha wa hao a e tlolang kgafetsa? \n"
+"* O ka sebedisa ditlamorao dife bakeng sa molao ka mong o tobileng o tlotsweng? \n"
+"\n"
+"Ditlamorao di lokela ho ba: \n"
+"TSE LOKILENG (eseng tse sehloho)\n"
+"HANGHANG (ntle ho tshenyo ya nako) \n"
+"TSE TSHWANANG (tse tshwanang nako le nako).\n"
+"\n"
+"Babatsanang le ho kgothatsana – re ka matlafatsana!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+msgctxt "template"
+msgid "Let's go back to @global.w_consequence_teen_boy_1 and his @global.w_consequence_male_caregiver"
+msgstr "A re kgutlele ho @global.w_consequence_teen_boy_1 le @global.w_consequence_male_caregiver"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_teen_boy_1
+msgctxt "template"
+msgid ""
+"@global.w_consequence_male_caregiver: \"I am concerned that you are often still coming home late, @global.w_consequence_teen_boy_1. What can we do to help you remember to come home in time?\"\n"
+"\n"
+"@global.w_consequence_teen_boy_1: \"If I come home in time, maybe I can stay up 30 minutes later than usual?\""
+msgstr ""
+"@global.w_consequence_male_caregiver: \"Ke kgathatsehile ka hore o sa ntse o fihla lapeng leite mme sena se etsahala kgafetsa, @global.w_consequence_teen_boy_1. Re ka etsang ho o thusa ho hopola ho tla lapeng ka nako?\"\n"
+"\n"
+"@global.w_consequence_teen_boy_1: \"Ha ke fihla lapeng ka nako, mohlomong nka fihla metsotso metsotso e 30 pele ho nako e tlwaelehileng?\""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+msgctxt "template"
+msgid ""
+"@global.w_consequence_male_caregiver: That is a good idea! And what should we do if you don’t follow the rule?  \n"
+"\n"
+"@global.w_consequence_teen_boy_1 (mumbles): “Mgmluuhm”"
+msgstr ""
+"@global.w_consequence_male_caregiver: O nahanne ntho e ntle! Mme jwale re tla etsang haeba o sa latele molao?  \n"
+"\n"
+"@global.w_consequence_teen_boy_1 (o a korotla): “Mgmluuhm”"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+msgctxt "template"
+msgid ""
+"@global.w_consequence_male_caregiver: \"Oh come on, I know you have some ideas.\"\n"
+"\n"
+"@global.w_consequence_teen_boy_1: \"Okay…. What about: I have to do my homework?\""
+msgstr ""
+"@global.w_consequence_male_caregiver: \"Bona hle moshana, kea tseba hore ho na le ntho eo o e nahanang.\"\n"
+"\n"
+"@global.w_consequence_teen_boy_1: \"Ho lokile…. Ho thweng ka: Ke tlameha ho etsa homeweke ya ka?\""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+msgctxt "template"
+msgid ""
+"@global.w_consequence_male_caregiver: \"You have to do your homework anyway. If you forget the rule, it is fair that you will not be able to see your friends the next day.\"\n"
+"\n"
+"@global.w_consequence_teen_boy_1: \"Okay, @global.w_consequence_male_caregiver.\""
+msgstr ""
+"@global.w_consequence_male_caregiver: \"O lokela ho etsa homeweke ya hao hanghang. Ha o lebala molao, etlaba hantle hore letsatsing le hlahlamang o se ke wa bona metswalle ya hao.\"\n"
+"\n"
+"@global.w_consequence_teen_boy_1: \"Ho lokile, @global.w_consequence_male_caregiver.\""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+msgctxt "template"
+msgid ""
+"The next day...\n"
+"\n"
+"@global.w_consequence_male_caregiver: “@global.w_consequence_teen_boy_1! What time is it! It is late!”"
+msgstr ""
+"Letsatsing le hlahlamang...\n"
+"\n"
+"@global.w_consequence_male_caregiver: “@global.w_consequence_teen_boy_1! Ke nako mang! Ke leite!”"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_male_caregiver
+msgctxt "template"
+msgid ""
+"@global.w_consequence_teen_boy_1: “Sorry @global.w_consequence_male_caregiver – you can go back to sleep.”  \n"
+"\n"
+"@global.w_consequence_male_caregiver: “It is WAY past the time you were supposed to be home!”"
+msgstr ""
+"@global.w_consequence_teen_boy_1: “Ke kopa tshwarelo @global.w_consequence_male_caregiver – tsa mo robala hape.”  \n"
+"\n"
+"@global.w_consequence_male_caregiver: “Nako ya hore ebe o se o fihlile lapeng e fetile KGALE!”"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_female_caregiver
+msgctxt "template"
+msgid ""
+"@global.w_consequence_teen_boy_1: “I can explain, @global.w_consequence_male_caregiver, I can.” \n"
+"\n"
+"@global.w_consequence_male_caregiver: “@global.w_consequence_teen_boy_1, it is the middle of the night and you came home later than we agreed. Whatever the reason is, you must understand that this is not acceptable. @global.w_consequence_female_caregiver and I felt really worried.”"
+msgstr ""
+"@global.w_consequence_teen_boy_1: “E re ke o hlalosetse, @global.w_consequence_male_caregiver, Nka o hlalosetsa.” \n"
+"\n"
+"@global.w_consequence_male_caregiver: “@global.w_consequence_teen_boy_1, ke hara mpa ya bosiu mme o fihlile leite ka nako eo re sa dumellanang ka yona. Ho sa tsotellehe lebaka, o tlameha ho utlwisisa hore ntho ena ha e amohelehe. @global.w_consequence_female_caregiver mme ke utlwa ke tshwenyehile haholo.”"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+msgctxt "template"
+msgid ""
+"@global.w_consequence_teen_boy_1: “My friends wanted me to stay longer. They were calling me a baby for having to go home already.” \n"
+"\n"
+"@global.w_consequence_male_caregiver: “I know it can be hard to say no to your friends. Let’s talk more about this in the morning when we have had some rest.”"
+msgstr ""
+"@global.w_consequence_teen_boy_1: “Metswalle ya ka e ne e batla re dule ho fihlela bosiu. E mpitsa ngwana hobane ke batla ho tla lapeng ka nako.” \n"
+"\n"
+"@global.w_consequence_male_caregiver: “Kea tseba hore ho ka ba thata ho hanyetsa metswalle ya hao. E re re bue ka taba eo hoseng ha re se re phomotse.”"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_female_caregiver
+#.      @global.w_consequence_male_caregiver
+msgctxt "template"
+msgid ""
+"@global.w_consequence_teen_boy_1: “I am sorry I worried you and @global.w_consequence_female_caregiver.” \n"
+"\n"
+"@global.w_consequence_male_caregiver: “Thank you. Now go to bed, but just to be clear, as you came home later than we agreed, you will not be allowed to go out tomorrow night.”"
+msgstr ""
+"@global.w_consequence_teen_boy_1: “Ke kopa tshwarelo ke ile ka le tshwenya ebile @global.w_consequence_female_caregiver.” \n"
+"\n"
+"@global.w_consequence_male_caregiver: “Kea leboha. Tsa mo robala, empa o hopole, kaha o fihlela lapeng kamora nako eo re dumellaneng ka yona, hosane re ke ke ra o dumella ho tswa bosiu.”"
+
+#. type=template
+msgctxt "template"
+msgid "Let's talk about this story"
+msgstr "A re bue ka pale ena"
+
+#. type=template
+msgctxt "template"
+msgid "Using a consequence worked well this time because..."
+msgstr "Ho mo jarisa ditlamorao ho atlehile lekgetlong lena hobane..."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_teen_boy_1
+#.      @global.w_consequence_male_caregiver
+msgctxt "template"
+msgid "@global.w_consequence_teen_boy_1 and his @global.w_consequence_male_caregiver discussed consequences when they were both calm"
+msgstr "@global.w_consequence_teen_boy_1 le @global.w_consequence_male_caregiver wa hae ba buisana ka ditlamorao ha bobedi ba bona ba theotse moya"
+
+#. type=template
+msgctxt "template"
+msgid "They agreed on consequences together"
+msgstr "Ba dumellana ka ditlamorao mmoho"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+msgctxt "template"
+msgid "@global.w_consequence_male_caregiver responded calmly but firmly when @global.w_consequence_teen_boy_1 broke the rule"
+msgstr "@global.w_consequence_male_caregiver o arabetse a theotse moya empa a sa hlathe kwana le kwana ha @global.w_consequence_teen_boy_1 a tlotse molao"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_consequence_male_caregiver
+#.      @global.w_consequence_teen_boy_1
+msgctxt "template"
+msgid "@global.w_consequence_male_caregiver listened to @global.w_consequence_teen_boy_1"
+msgstr "@global.w_consequence_male_caregiver o ile a mamela @global.w_consequence_teen_boy_1"
+
+#. type=template
+msgctxt "template"
+msgid "The consequence was realistic and appropriate"
+msgstr "Ditlamorao ebile tse utlwahalang le tse loketseng"
+
+#. type=template
+msgctxt "template"
+msgid "Why did using a consequence work well this time?"
+msgstr "Ke hobaneng ha ho mo jarisa ditlamorao ho atlehile lekgetlong lee?"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"What would be a calm consequence for your teenagers arguing with each other during dinner? \n"
+"\n"
+"Remember it needs to be: \n"
+"FAIR - IMMEDIATE - CONSISTENT"
+msgstr ""
+"Ke ditlamorao dife tse ka jariswang batjha ba phehisanang kgang nakong ya dijo tsa tinare empa seo se etswa ka tsela e kgutsitseng?\n"
+"\n"
+"Hopola hore e tlameha ho ba tse:\n"
+"LOKILENG - HANGHANG - TSE TSHWANANG"
+
+#. type=template
+msgctxt "template"
+msgid "Not seeing any friends for a month"
+msgstr "Ho se bone metswalle efe kapa efe kgwedi kaofela"
+
+#. type=template
+msgctxt "template"
+msgid "This may be hard to do for you and also too harsh!"
+msgstr "Ena ekaba ntho e thata ho wena ebile e tla be e le sehloho!"
+
+#. type=template
+msgctxt "template"
+msgid "Cancelling their birthday plans in a month’s time"
+msgstr "Ho tlohela ditokisetso tsa mokete wa letsatsi la tswalo o saletsweng ke kgwedi"
+
+#. type=template
+msgctxt "template"
+msgid "This is too far in the future, and too harsh as well!"
+msgstr "Ke ntho ya kgale haholo, ebile le ena e tla ba ketso e sehloho!"
+
+#. type=template
+msgctxt "template"
+msgid "No TV this evening"
+msgstr "Ha ba shebelle TV mantsiboyeng ana"
+
+#. type=template
+msgctxt "template"
+msgid "Perfect, this sounds fair and can be done straight away"
+msgstr "Hase moo, ena e utlwahala e lokile ebile e ka etswa hanghang"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Plan a calm consequence for your teenagers arguing with each other during dinner. Remember they need to be \n"
+"\n"
+"FAIR - IMMEDIATE - CONSISTENT"
+msgstr ""
+"Hlophisa ditlamorao tse ka jariswang batjha ba phehisanang kgang nakong ya dijo tsa tinare empa seo se etswa ka tsela e kgutsitseng. Hopola hore e tlameha ho ba tse:\n"
+"LOKILENG - HANGHANG - TSE TSHWANANG"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Your home practice for this week will be to talk together with your teen about a ONE negative consequence and ONE positive consequence.\n"
+"\n"
+"Consequences should be:\n"
+"FAIR (not too harsh)\n"
+"IMMEDIATE (do it straight away)\n"
+"CONSISTENT (same every time)"
+msgstr ""
+"Boikwetliso ba hao ba lapeng bekeng ena e tla ba ho buisana le motjha wa hao ka ntho e le NNGWE e seng monate le ntho e le NNGWE e monate e tla etsahala e le ditlamorao.\n"
+"\n"
+"TSE LOKILENG (eseng tse sehloho)\n"
+"HANGHANG (ntle ho tshenyo ya nako) \n"
+"TSE TSHWANANG (tse tshwanang nako le nako)"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Negative Behaviour: Coming home after the agreed hour. \n"
+"\n"
+"Negative Consequence: Cannot see friends the next day. \n"
+"\n"
+"Negative Behaviour: Talking rudely. \n"
+"\n"
+"Negative Consequence: Write a letter of apology. \n"
+" \n"
+"Positive Behaviour: Helping out with shopping. \n"
+"\n"
+"Positive Consequence: 30 minutes extra of loved activity of their choice.  \n"
+"\n"
+"Positive Behaviour: Helping look after younger siblings. \n"
+"\n"
+"Positive Consequence: One hour of extra time with friends on the weekend."
+msgstr ""
+"Boitshwaro bo Bobe: Ho fihla lapeng kamora hora eo ho dumellanweng ka yona. \n"
+"\n"
+"Ditlamorao tse Bohloko: Ha a bone metswalle letsatsing le hlahlamang. \n"
+"\n"
+"Boitshwaro bo Bobe: Ho bua ka tello. \n"
+"\n"
+"Ditlamorao tse Bohloko: Ngola lengolo la ho kopa tshwarelo. \n"
+" \n"
+"Boitshwaro bo Botle: Ho thusa ha ho ilo rekwa mabenkeleng. \n"
+"\n"
+"Ditlamorao tse Monate: Metsotso e meng e 30 ya ho etsa ntho eo a e ratang eo a e kgethileng.  \n"
+"\n"
+"Boitshwaro bo Botle: Ho thusa ho hlokomela bana babo ba banyane. \n"
+"\n"
+"Ditlamorao tse Monate: Ho ekeletswa hora eo a e qetang le metswalle ya hae ka mafelobeke."
+
+#. type=template
+msgctxt "template"
+msgid "How are you feeling today?"
+msgstr "O ikutlwa jwang kajeno?"
+
+#. type=template
+msgctxt "template"
+msgid "Great that today is going well! What is one thing that has gone well today? Remember to praise yourself for it."
+msgstr "Ke hantle hore o phetse hantle kajeno! Ntho e le nngwe e tsamaileng hantle ke efe kajeno? Hopola ho ipabatsa ka yona."
+
+#. type=template
+msgctxt "template"
+msgid "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions, and trying to be calm and kind to yourself. You are setting a great example for your family."
+msgstr "Ke maswabi ho utlwa hore ha o ikutlwe hantle kajeno. O sebeditse ka ho lemoha maikutlo a hao, le ho leka ho kgoba matshwafo le ho iqenehela. O behela lelapa la hao mohlala o motle."
 
