@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2021-11-29 01:33\n"
+"PO-Revision-Date: 2021-11-29 13:31\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -205,6 +205,16 @@ msgstr "Unaweza kuombwa kuwaonyesha namba hii watu watakaokusaidia katika safari
 msgctxt "template"
 msgid "Last sync at: @local.sync_latest"
 msgstr "Imeoanishwa mara ya mwisho saa: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "Kifaa hiki hakijawahi kusanikishwa. Sanikisha kupata namba ya siri."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Sanikisha sasa"
 
 #. type=template
 msgctxt "template"
@@ -4255,6 +4265,11 @@ msgstr "Watoto wanapokuwa na tabia mbaya wanaleta msongo wa mawazo."
 
 #. type=template
 msgctxt "template"
+msgid "How many days in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
+msgstr "Ni siku ngapi katika wiki iliyopita uliadhibu watoto wako kwa kuwapiga, kuwachapa au kuwapiga makofi au kuwapiga kwa fimbo au mkanda?"
+
+#. type=template
+msgctxt "template"
 msgid "It is wonderful that you are responding calmly when your teen does something upsetting. They can learn so much from you!"
 msgstr "Inafurahisha sana kuona unajibu kwa utulivu licha ya kijana wako kufanya jambo la kufadhaisha. Anaweza kujifunza mambo mengi sana kutoka kwako!"
 
@@ -4595,8 +4610,27 @@ msgstr "Je, una uhakika unataka kuruka swali hili?"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Are you sure you want to skip this question? Remember, your answer will be kept private and will help us understand your parenting needs. \n"
+"\n"
+"You can also choose not to answer any question by selecting the circle."
+msgstr "Una uhakika unataka kuruka swali hili? Kumbuka, jibu lako litakuwa ni siri na litatusaidia kuelewa mahitaji yako ya malezi."
+
+#. type=template
+msgctxt "template"
 msgid "You selected \"I would rather not answer\""
 msgstr "Umechagua \"Nisingependa kujibu\""
+
+#. type=template
+msgctxt "template"
+msgid ""
+"That’s ok! \n"
+"\n"
+"Remember, if you do answer your answer will be kept private and will help us to provide you with content that is exactly right for you."
+msgstr ""
+"Vizuri!\n"
+"\n"
+"Kumbuka, ukijibu swali hili jibu litakuwa siri na litatusaidia kukupa maudhui yatakayokufaa."
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4862,6 +4896,21 @@ msgstr "Hebu tuanze na maswali machache kuhusu wewe na familia yako."
 msgctxt "template"
 msgid "We would love to know your first name or nickname:"
 msgstr "Tungependa kujua jina lako la kwanza au jina lako la utani:"
+
+#. type=template
+msgctxt "template"
+msgid "Are you a woman or a man?"
+msgstr "Je, wewe ni mwanamke au mwanaume?"
+
+#. type=template
+msgctxt "template"
+msgid "Woman"
+msgstr "Mwanamke"
+
+#. type=template
+msgctxt "template"
+msgid "Man"
+msgstr "Mwanaume"
 
 #. type=template
 msgctxt "template"
@@ -11773,6 +11822,21 @@ msgstr "Anza"
 msgctxt "data_list"
 msgid "Continue"
 msgstr "Endelea"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi great parent, remember to take care of yourself too - it will help you AND your family! Get your tips and more in ParentApp."
+msgstr "Habari mzazi, kumbuka kujitunza mwenyewe pia - itakusaidia wewe NA familia yako! Pata dondoo zaidi katika programu ya ParentApp."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi great parent! Remember, you can find lots of helpful tips in ParentApp."
+msgstr "Habari mzazi mzuri! Kumbuka, unaweza kupata vidokezo vingi vya kukusaidia katika programu ya ParentApp."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi great parent! ParentApp is here to support you. Check it out now!"
+msgstr "Habari mzazi mzuri! Programu ya ParentApp ipo hapa kukusaidia. Itazame sasa!"
 
 #. type=data_list
 msgctxt "data_list"
