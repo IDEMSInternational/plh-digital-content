@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Southern Sotho\n"
 "\n"
 "Language: st_ZA\n"
-"PO-Revision-Date: 2021-11-30 07:27\n"
+"PO-Revision-Date: 2021-11-30 13:33\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -4261,6 +4261,11 @@ msgstr "Bana ba itshwarang hampe ba baka seterese se sengata."
 
 #. type=template
 msgctxt "template"
+msgid "How many days in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
+msgstr "Ke ka matsatsi a makae bekeng e fetileng o ileng wa kgalemela bana ba hao ka hore o ba otle, o ba shape, kapa o ba jabele ka mpama kapa ka ntho e kang thupa kapa lebanta?"
+
+#. type=template
+msgctxt "template"
 msgid "It is wonderful that you are responding calmly when your teen does something upsetting. They can learn so much from you!"
 msgstr "Ke ditaba tse monate hore ebe o arabela o kgobile matshwafo ha motjha wa hao a etsa ntho e halefisang. A ka ithuta dintho tse ngata ho wena!"
 
@@ -4601,8 +4606,30 @@ msgstr "Na o tiile o batla ho feta potso ye?"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Are you sure you want to skip this question? Remember, your answer will be kept private and will help us understand your parenting needs. \n"
+"\n"
+"You can also choose not to answer any question by selecting the circle."
+msgstr ""
+"Na o tiisitse o batla ho feta potso ye? Hopola, karabo ya hao e tla bolokwa e le lekunutu mme e tla re thusa ho utlwisisa ditlhoko tsa hao tsa botswadi.\n"
+"\n"
+"Hape o ka kgetha ho se arabe potso efe kapa efe ka ho kgetha sedikadikwe."
+
+#. type=template
+msgctxt "template"
 msgid "You selected \"I would rather not answer\""
 msgstr "O kgethile \"Ke kgetha ho se arabe\""
+
+#. type=template
+msgctxt "template"
+msgid ""
+"That’s ok! \n"
+"\n"
+"Remember, if you do answer your answer will be kept private and will help us to provide you with content that is exactly right for you."
+msgstr ""
+"Ho lokile!\n"
+"\n"
+"Hopola, haeba o araba, karabo ya hao e tla bolokwa e le lekunutu ebile seo se tla re thusa ho o fa tlhahisoleseding e nepahetseng bakeng sa hao."
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4868,6 +4895,11 @@ msgstr "A re qale ka dipotso tse seng kae tse amanang le wena le lelapa la hao."
 msgctxt "template"
 msgid "We would love to know your first name or nickname:"
 msgstr "Re lakatsa ho tseba lebitso kapa lebitso la hao la boswaswi pele:"
+
+#. type=template
+msgctxt "template"
+msgid "Are you a woman or a man?"
+msgstr "Na o mosadi kapa o monna?"
 
 #. type=template
 msgctxt "template"
@@ -10066,6 +10098,313 @@ msgstr ""
 "@global.w_solve_female_caregiver_2 (o a nahana): \"Iyo maoto a ka a bohloko! Ke tlameha ho dula fatshe hanyane mme ke nwe kofi pele ke qala ho pheha dijo tsa lelapa.\""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+msgctxt "template"
+msgid "@global.w_solve_female_caregiver_2: \"@global.w_solve_teen_boy_2! What are you doing? That bread is for dinner! Now there won’t be enough for us all!\""
+msgstr "@global.w_solve_female_caregiver_2: \"@global.w_solve_teen_boy_2! O etsang? Ke bohobe ba mantsiboya boo! Jwale bo ke ke ba re lekana kaofela!\""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_female_caregiver_2
+msgctxt "template"
+msgid ""
+"@global.w_solve_teen_boy_2: “Sorry, @global.w_solve_female_caregiver_2, I was just hungry. I can explain, you see, there is this guy at school...” \n"
+"\n"
+"@global.w_solve_female_caregiver_2 (thinking): “Take a Pause… just breathe…”"
+msgstr ""
+"@global.w_solve_teen_boy_2: “Ntsharele, @global.w_solve_female_caregiver_2, ke utlwa ke lapile. E re ke o jwetse, ho na le moshemane enwa sekolong...” \n"
+"\n"
+"@global.w_solve_female_caregiver_2 (o a nahana): “Kgefuta hanyane… kga moya…”"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+msgctxt "template"
+msgid ""
+"@global.w_solve_female_caregiver_2: “Just give me a moment. I am tired and now worried about having enough food for dinner.” \n"
+"\n"
+"@global.w_solve_teen_boy_2: “I am sorry, @global.w_solve_female_caregiver_2\""
+msgstr ""
+"@global.w_solve_female_caregiver_2: “Ako eme hanyane feela hle. Ke kgathetse ebile jwale ke kgathatsehile ka hore na re tla ba le dijo tse lekaneng mantsiboya.” \n"
+"\n"
+"@global.w_solve_teen_boy_2: “Askisi hle, @global.w_solve_female_caregiver_2\""
+
+#. type=template
+msgctxt "template"
+msgid "Step 1: KNOW IT"
+msgstr "Bohato ba 1: BO TSEBE"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+msgctxt "template"
+msgid ""
+"@global.w_solve_female_caregiver_2: \"Now tell me, why are you so hungry? Did you not eat your lunch at school?” \n"
+"\n"
+"@global.w_solve_teen_boy_2: \"That is the problem. There’s a guy at school who bullies me. He says if I do not give my lunch to him every day, he and his friends will hurt me. He makes me so mad!\""
+msgstr ""
+"@global.w_solve_female_caregiver_2: \"Jwale ako mpolelle, hobaneng ha o lapile? Na ha o a ja sekhafothine sa hao ka lantjhe sekolong?” \n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Bothata bo qala hona moo. Ho na le moshemane e mong sekolong ya ratang ho iketsa mpodi. Mehlaena o re haeba ke sa mo fe lantjhe ya ka, yena le metswalle ya hae ba tla ntematsa. O nkwatisa haholo!\""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_teen_boy_2
+msgctxt "template"
+msgid ""
+"@global.w_solve_female_caregiver_2: \"I am sorry to hear that but am glad that you told me, @global.w_solve_teen_boy_2. It doesn’t mean that you can eat everybody’s dinner. After we speak, you need to go to the shop to buy some more bread. But first: What do you think we should do about the bully problem?\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Well… I want to just hit him or get him back.\""
+msgstr ""
+"@global.w_solve_female_caregiver_2: \"Ke maswabi ho utlwa seo empa ke thabile ha e le mona o mpolelletse, @global.w_solve_teen_boy_2. Empa seo ha se bolele hore o tla ja dijo tsa mantsiboya tsa rona kaofela. Kamora hore re bue, o tla lokela ho ya shopong ho ya reka bohobe bo bong. Empa a re qale mona: O nahana hore re lokela ho etsang ka bothata ba bompodi?\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Emmm… Ke batla ho mo otla kapa ke mo kgalemele.\""
+
+#. type=template
+msgctxt "template"
+msgid "Step 2: SOLVE IT"
+msgstr "Bohato ba 2: BO RAROLLE"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+msgctxt "template"
+msgid ""
+"@global.w_solve_female_caregiver_2: \"Hmmm… what do you think will happen to you if you do that?\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"I don’t know. He is bigger than me so he will probably hurt me more. And I could get into trouble at school and expelled.\""
+msgstr ""
+"@global.w_solve_female_caregiver_2: \"Hmmm… o nahana hore ho tla etsahalang ha o etsa jwalo?\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Ha ke tsebe. O moholo ho nna, mohlomong o tla ntlhola. Ebile nka kena mathateng sekolong yaba kea tebelwa.\""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+msgctxt "template"
+msgid ""
+"@global.w_solve_female_caregiver_2: \"Yes, that could happen. What could we do instead?\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"I guess I could tell the teacher. But then the other kids will call me a tattletale. Maybe you could talk to the teacher?\""
+msgstr ""
+"@global.w_solve_female_caregiver_2: \"E, seo se ka etsahala. Empa ho fapana le moo re ka etsang?\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Ke nahana hore nka bolella titjhere. Empa jwale bana ba bang ba tla mpitsa selallane. Mohlomong wena o ka bua le titjhere?\""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+msgctxt "template"
+msgid ""
+"@global.w_solve_female_caregiver_2: \"That sounds like a better idea. I could also have a word with his parents if you want me to.\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Sure. If you think that would help too. Thanks, @global.w_solve_female_caregiver_2\""
+msgstr ""
+"@global.w_solve_female_caregiver_2: \"Ekare ke leano le letle leo. Mohlomong nka bua le batswadi ba hae haeba o batle ke bue le bona.\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"E. Haeba o bona eka seo se ka thusa. Kea leboha, @global.w_solve_female_caregiver_2\""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+msgctxt "template"
+msgid ""
+"@global.w_solve_female_caregiver_2: \"Anything for you, my dear. I will do it first thing after dinner. And you know? If that doesn’t work, we can always try something else together.\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Thanks, @global.w_solve_female_caregiver_2\""
+msgstr ""
+"@global.w_solve_female_caregiver_2: \"Haeba ho na le ntho e nngwe eo o e batlang, moshanyanaka. Ke tla o etsetsa yona hang ha re qeta ho ja dijo tsa mantsiboya. Ene wa tseba keng? Haeba e sa sebetse, re tla leka e nngwe re le babedi.\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Kea leboha, @global.w_solve_female_caregiver_2\""
+
+#. type=template
+msgctxt "template"
+msgid "Step 3: TRY IT"
+msgstr "Bohato ba 3: E LEKE"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+msgctxt "template"
+msgid ""
+"A week later… \n"
+"\n"
+"@global.w_solve_female_caregiver_2: \"How are things going at school now?\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"It’s going better, the boy does not take my lunch anymore. But he is still being really mean to me.\""
+msgstr ""
+"Beke hamorao… \n"
+"\n"
+"@global.w_solve_female_caregiver_2: \"Ho tsamaya jwang sekolong hona jwale?\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Ho betere, moshemane eo ha a sa nkukela lantjhe ya ka. Empa o ntse a sa mpatle.\""
+
+#. type=template
+msgctxt "template"
+msgid "Step 4: TEST IT"
+msgstr "Mohato wa 4: E TUTSE"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_teen_boy_2
+#.      @global.w_solve_female_caregiver_2
+msgctxt "template"
+msgid ""
+"@global.w_solve_female_caregiver_2: \"I am sorry to hear that, @global.w_solve_teen_boy_2. Shall I ask your uncle to go talk to his parents? If that does not work, we will try something else!\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Yes, thank you @global.w_solve_female_caregiver_2. At least I know you are on my side.\""
+msgstr ""
+"@global.w_solve_female_caregiver_2: \"Ke maswabi ho utlwa seo, @global.w_solve_teen_boy_2. Na ke kope malome wa hao ho buisana le batswadi ba hae? Haeba seo se sa sebetse, re tla leka tsela e nngwe!\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"E, kea leboha @global.w_solve_female_caregiver_2. Bonyane kea tseba hore o a nthusa.\""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+msgctxt "template"
+msgid ""
+"Discuss together: \n"
+"\n"
+"How could @global.w_solve_teen_girl and @global.w_solve_female_caregiver_1 use the 4 steps of problem solving, like @global.w_solve_female_caregiver_2 and @global.w_solve_teen_boy_2 did? \n"
+"\n"
+"KNOW IT - SOLVE IT - TRY IT - TEST IT"
+msgstr ""
+"Buisanang: \n"
+"\n"
+"Ke jwang @global.w_solve_teen_girl le @global.w_solve_female_caregiver_1 ba ka sebedisang mehato e 4 ya ho rarolla bothata, jwalokaha @global.w_solve_female_caregiver_2 le @global.w_solve_teen_boy_2 ba entse? \n"
+"\n"
+"BO TSEBE - BO RAROLLE - E LEKE - E TUTSE"
+
+#. type=template
+#. The string @global.w_solve_teen_girl should not be translated.
+msgctxt "template"
+msgid "Remember @global.w_solve_teen_girl and the phone she got from the boy?"
+msgstr "Hopola @global.w_solve_teen_girl le founo eo a e fuweng ke moshemane yane?"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
+#.      @global.w_solve_female_caregiver_2
+#.      @global.w_solve_teen_boy_2
+msgctxt "template"
+msgid ""
+"How could @global.w_solve_teen_girl and @global.w_solve_female_caregiver_1 use the 4 steps of problem solving, like @global.w_solve_female_caregiver_2 and @global.w_solve_teen_boy_2 did? \n"
+"\n"
+"KNOW IT - SOLVE IT - TRY IT - TEST IT"
+msgstr ""
+"Ke jwang @global.w_solve_teen_girl le @global.w_solve_female_caregiver_1 ba ka sebedisang mehato e 4 ya ho rarolla bothata, jwalokaha @global.w_solve_female_caregiver_2 le @global.w_solve_teen_boy_2 ba entse? \n"
+"\n"
+"BO TSEBE - BO RAROLLE - E LEKE - E TUTSE"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
+msgctxt "template"
+msgid "Let’s go back to @global.w_solve_teen_girl and her @global.w_solve_female_caregiver_1 and see what solutions they came up with."
+msgstr "A re kgutlele ho @global.w_solve_teen_girl le @global.w_solve_female_caregiver_1 mme re bone hore na ke ditharollo dife tseo ba tlang ka tsona."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_solve_teen_girl
+#.      @global.w_solve_female_caregiver_1
+msgctxt "template"
+msgid "@global.w_solve_teen_girl and her @global.w_solve_female_caregiver_1 came up with three solutions."
+msgstr "@global.w_solve_teen_girl le @global.w_solve_female_caregiver_1 wa hae ba tlile ka ditharollo tse tharo."
+
+#. type=template
+#. The string @global.w_solve_female_caregiver_1 should not be translated.
+msgctxt "template"
+msgid ""
+"Parenting teens is really hard. \n"
+"\n"
+"Often there are no simple and easy solutions, but now @global.w_solve_female_caregiver_1 learned she can talk to her daughter about these things. \n"
+"\n"
+"Before, she worried alone, now they can come up with solutions together!"
+msgstr ""
+"Ho thata haholo ho ba motswadi wa motjha. \n"
+"\n"
+"Hangata ha ho na ditharollo tse bonolo le tse seng thata, empa jwale @global.w_solve_female_caregiver_1 o ithutile hore a ka buisana le moradi wa hae ka dintho tsena. \n"
+"\n"
+"Pele, o ne a kgathatseha a le mong, jwale ba ka tla ka ditharollo mmoho!"
+
+#. type=template
+#. The string @global.w_solve_teen_girl should not be translated.
+msgctxt "template"
+msgid "Ground @global.w_solve_teen_girl for a month"
+msgstr "Ropa @global.w_solve_teen_girl kgwedi e le nngwe"
+
+#. type=template
+#. The string @global.w_solve_female_caregiver_1 should not be translated.
+msgctxt "template"
+msgid "@global.w_solve_female_caregiver_1: “You can’t go out for the next month”"
+msgstr "@global.w_solve_female_caregiver_1: “O ke ke wa intsha kgweding e latelang”"
+
+#. type=template
+msgctxt "template"
+msgid "That didn’t work... Let's try something else."
+msgstr "Seo ha sea sebetsa... A re lekeng ho hong."
+
+#. type=template
+msgctxt "template"
+msgid "Return the phone and save up"
+msgstr "Kgutlisa founo mme o ipehele tjhelete"
+
+#. type=template
+#. The string @global.w_solve_female_caregiver_1 should not be translated.
+msgctxt "template"
+msgid "@global.w_solve_female_caregiver_1: \"I am not trying to accuse your friend or be jealous. I am worried that when someone gives a gift it is hard to say 'no' when they ask something in return – like sex. If you want to have a phone, we’ll save up together so you can make your own decisions without owing him anything.\""
+msgstr "@global.w_solve_female_caregiver_1: \"Ha ke leke ho qosa motswalle wa hao ebile ha ke mona. Ke mpa ke tshwenyehile hore ha motho a o fa mpho, ho ba thata ho re 'tjhe' ha a o kopa ntho e nngwe le wena – jwaloka thobalano. Haeba o batla founo, re tla baballa tjhelete mmoho e le hore o iketsetse diqeto tsa hao o sa kolote motho eng kapa eng.\""
+
+#. type=template
+msgctxt "template"
+msgid "This is great! Try the third option as well."
+msgstr "Ena e ntle! Leka le tsela ya boraro."
+
+#. type=template
+msgctxt "template"
+msgid "Learn about safe sex"
+msgstr "Ithute ka thobalano e bolokehileng"
+
+#. type=template
+#. The string @global.w_solve_female_caregiver_1 should not be translated.
+msgctxt "template"
+msgid "@global.w_solve_female_caregiver_1: “This makes me realise we should talk about boyfriends and protecting yourself. Many teens your age get pregnant or become HIV positive. Let’s go to the clinic so you can talk with the nurse to learn how you can stay safe.”"
+msgstr "@global.w_solve_female_caregiver_1: “Sena se nthusa hore ke bone hore re tlameha ho bua ka bahlankana le ho itshireletsa. Batjha ba bangata ba dilemong tsa hao eba baimana kapa ba tshwarwa ke HIV. A re ye tliliniking hore o buisane le mooki hore o ithute hore na o ka dula o itshireleditse jwang.”"
+
+#. type=template
+msgctxt "template"
+msgid "This is great!"
+msgstr "Ena e ntle!"
+
+#. type=template
+msgctxt "template"
+msgid "Let's practice problem-solving!"
+msgstr "A re itlwaetse tsela ya ho rarolla mathata!"
+
+#. type=template
 msgctxt "template"
 msgid ""
 "Practice together on a problem you have now. One of you is the parent and one the teen. \n"
@@ -10511,7 +10850,7 @@ msgstr "@global.w_stress_teen_boy_2: \"Ke nahana hore ba rekisa dithethefatsi. K
 #. The string @global.w_stress_teen_girl should not be translated.
 msgctxt "template"
 msgid "@global.w_stress_teen_girl: \"I’m scared. Everyone is too drunk to drive me home. This boy says he’ll take me but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party.\""
-msgstr "@global.w_stress_teen_girl: \"Ke tshohile. Batho bohle ba nwele haholo hoo ba ke keng ba nkisa lapeng. Moshemane enwa o re o tla nkisa empa re qale habo pele. Nkeke ka jwetsa batswadi ba ka – ke ba jwetsitse leshano ka phani ena.\""
+msgstr "@global.w_stress_teen_girl: \"Ke tshohile. Batho bohle ba nwele haholo hoo ba ke keng ba nkisa lapeng. Moshemane enwa o re o tla nkisa empa re qale habo pele. Nkeke ka jwetsa batswadi ba ka – ke ba jwetsitse leshano ka ho tla phating ena.\""
 
 #. type=template
 #. The following strings should not be translated: 
@@ -10546,7 +10885,7 @@ msgstr "@global.w_stress_teen_girl: \"@global.w_stress_parent, ke tshwarelo mole
 #.      @global.w_stress_parent
 msgctxt "template"
 msgid "@global.w_stress_teen_boy_2: \"@global.w_stress_parent, safety amnesty. I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Can we talk?\""
-msgstr "@global.w_stress_teen_boy_2: \"@global.w_stress_parent, tshwarelo molemong wa polokeho. Ke bona eka mekgotsi ya ka e mathateng. Ha ke batle ho ema habo motswalle wa bona, empa ke kgathatsehile. Na re ka bua?\""
+msgstr "@global.w_stress_teen_boy_2: \"@global.w_stress_parent, tshwarelo molemong wa polokeho. Ke bona eka mekgotsi ya ka e mathateng. Ha ke batle ho emisa hoba motswalle wa bona, empa ke kgathatsehile. Na re ka bua?\""
 
 #. type=template
 msgctxt "template"
@@ -10642,7 +10981,7 @@ msgstr ""
 "Bekeng e tlang, re tla buisana ka tjhelete - o tla hloka:\n"
 "* leqephe la pampiri/khateboto\n"
 "* pene\n"
-"* majwe/dinwa/dithollo tse nyane tse 20\n"
+"* majwe/dinawa/dithollo tse nyane tse 20\n"
 "\n"
 "E tla ba monate!"
 
@@ -10716,7 +11055,7 @@ msgstr "Na o batla ho leka e nngwe ya dintho tse latelang?"
 #. type=global
 msgctxt "global"
 msgid "My challenge is not listed here."
-msgstr "Phephetho ya ka ha e a thathamiswa mona."
+msgstr "Phephetso ya ka ha e a thathamiswa mona."
 
 #. type=global
 msgctxt "global"
@@ -10732,6 +11071,21 @@ msgstr "Ntate"
 msgctxt "global"
 msgid "TikTok"
 msgstr "TikTok"
+
+#. type=global
+msgctxt "global"
+msgid "Watching this video requires internet access. To limit data use, watch or download this video when on WiFi."
+msgstr "O hloka phihlello ya inthanete hore o shebelle video ena. Ho fokotsa tshebediso ya datha, shebella kapa daonlouda video ena ha o na le WiFi."
+
+#. type=global
+msgctxt "global"
+msgid "Visiting these websites requires internet access. To limit data use, visit these websites when on WiFi."
+msgstr "O hloka phihlello ya inthanete ho kena diwebosaeteng tsena. Ho fokotsa tshebediso ya datha, kena diwebosaeteng tsena ha o na le WiFi."
+
+#. type=global
+msgctxt "global"
+msgid "Sending this message requires internet access. To limit data use, send this message when on WiFi."
+msgstr "O hloka phihlello ya inthanete hore o romele molaetsa ona. Ho fokotsa tshebediso ya datha, romela molaetsa ona ha o na le WiFi."
 
 #. type=global
 msgctxt "global"
@@ -10806,12 +11160,12 @@ msgstr "Ithute haholwanyane"
 #. type=global
 msgctxt "global"
 msgid "Show me how"
-msgstr "Mpotse tsela"
+msgstr "Mpontshe tsela"
 
 #. type=global
 msgctxt "global"
 msgid "Tell me more!"
-msgstr "Mpolele haholo!"
+msgstr "Mpolelle haholwanyane!"
 
 #. type=global
 msgctxt "global"
@@ -10981,7 +11335,7 @@ msgstr "Bapalang game/papadi"
 #. type=global
 msgctxt "global"
 msgid "Teens completing school/university"
-msgstr "Sekolo/yunivesithi eo batjha ba hlodisanang"
+msgstr "Batjha ba qetang sekolong/yunivesithing"
 
 #. type=global
 msgctxt "global"
@@ -11098,6 +11452,296 @@ msgctxt "global"
 msgid "Extra one-on-one time on Sunday (30 min)"
 msgstr "Nako e eketsehileng ya boinotshing ka Sontaha (30 mets)"
 
+#. type=global
+msgctxt "global"
+msgid "Take a deep breath and pause before responding"
+msgstr "Kga moya o mongata mme o kgefutse pele o araba"
+
+#. type=global
+msgctxt "global"
+msgid "Listen to your teen"
+msgstr "Mamela motjha wa hao"
+
+#. type=global
+msgctxt "global"
+msgid "Praise your teen for sharing"
+msgstr "Babatsa motjha wa hao ka hore a o phetele"
+
+#. type=global
+msgctxt "global"
+msgid "Use problem solving skills"
+msgstr "Sebedisa tsebo ya ho rarolla bothata"
+
+#. type=global
+msgctxt "global"
+msgid "Work out where you can get help"
+msgstr "Hlahloba hore na o ka fumana thuso hokae"
+
+#. type=global
+msgctxt "global"
+msgid "Tap and type"
+msgstr "Tobetsa mme o thaepe"
+
+#. type=global
+msgctxt "global"
+msgid "Tap and choose"
+msgstr "Tobetsa mme o kgethe"
+
+#. type=global
+msgctxt "global"
+msgid "Type your own"
+msgstr "Thaepa taba ya hao"
+
+#. type=global
+msgctxt "global"
+msgid "I've understood this. Don't show me this message again."
+msgstr "Ke utlwisisa sena. O se mpontshe molaetsa ona hape."
+
+#. type=global
+msgctxt "global"
+msgid "Welcome and Self-Care"
+msgstr "Kamohelo le ho Itlhokomela"
+
+#. type=global
+msgctxt "global"
+msgid "Self-Care"
+msgstr "Ho Itlhokomela"
+
+#. type=global
+msgctxt "global"
+msgid "How to add self-care"
+msgstr "Tsela ya ho eketsa ho itlhokomela"
+
+#. type=global
+msgctxt "global"
+msgid "One-on-One Time"
+msgstr "Nako ya Boinotshing"
+
+#. type=global
+msgctxt "global"
+msgid "How to spend one-on-one time"
+msgstr "Kamoo nako ya boinotshing e sebediswang kateng"
+
+#. type=global
+msgctxt "global"
+msgid "Praise"
+msgstr "Pabatso"
+
+#. type=global
+msgctxt "global"
+msgid "How to praise"
+msgstr "Tsela ya ho babatsa"
+
+#. type=global
+msgctxt "global"
+msgid "Positive Instructions"
+msgstr "Ditaelo tsa se Tshwanelang ho Etswa"
+
+#. type=global
+msgctxt "global"
+msgid "How to give positive instructions"
+msgstr "Tsela ya ho fana ka ditaelo tsa se tshwanelang ho etswa"
+
+#. type=global
+msgctxt "global"
+msgid "Managing Stress"
+msgstr "Ho Laola Seterese"
+
+#. type=global
+msgctxt "global"
+msgid "How to manage stress"
+msgstr "Tsela ya ho laola seterese"
+
+#. type=global
+msgctxt "global"
+msgid "Family Budgets"
+msgstr "Dibajete tsa Lelapa"
+
+#. type=global
+msgctxt "global"
+msgid "How to budget & save"
+msgstr "Tsela ya ho bajeta le ho baballa tjhelete"
+
+#. type=global
+msgctxt "global"
+msgid "Rules"
+msgstr "Melao"
+
+#. type=global
+msgctxt "global"
+msgid "How to create rules"
+msgstr "Tsela ya ho theha melao"
+
+#. type=global
+msgctxt "global"
+msgid "Calm Consequences"
+msgstr "Ditlamorao tse Fanwang ho Theotswe Moya"
+
+#. type=global
+msgctxt "global"
+msgid "How to give calm consequences"
+msgstr "Tsela ya ho fana ka ditlamorao ho theotswe moya"
+
+#. type=global
+msgctxt "global"
+msgid "Problem Solving"
+msgstr "Ho Rarolla Mathata"
+
+#. type=global
+msgctxt "global"
+msgid "How to solve problems"
+msgstr "Tsela ya ho rarolla mathata"
+
+#. type=global
+msgctxt "global"
+msgid "Teen Safety"
+msgstr "Polokeho ya Batjha"
+
+#. type=global
+msgctxt "global"
+msgid "How to keep your teen safe"
+msgstr "Tsela ya ho tiisa hore batjha ba bolokehile"
+
+#. type=global
+msgctxt "global"
+msgid "Dealing with Crisis"
+msgstr "Ho Sebetsana le Tsietsi"
+
+#. type=global
+msgctxt "global"
+msgid "How to deal with crisis"
+msgstr "Tsela ya ho sebetsana le tsietsi"
+
+#. type=global
+msgctxt "global"
+msgid "Celebration and Next Steps"
+msgstr "Ho Keteka le Mehato e Latelang"
+
+#. type=global
+msgctxt "global"
+msgid "How to support each other"
+msgstr "Tsela ya ho tshehetsana"
+
+#. type=global
+msgctxt "global"
+msgid "Home Practice"
+msgstr "Boikwetliso ba Lapeng"
+
+#. type=global
+#. The string @global.home_practice should not be translated.
+msgctxt "global"
+msgid "Talk about @global.home_practice"
+msgstr "Bua ka @global.home_practice"
+
+#. type=global
+msgctxt "global"
+msgid "Home Practice Review"
+msgstr "Tlhahlobo ya Boikwetliso ba Lapeng"
+
+#. type=global
+msgctxt "global"
+msgid "In my group"
+msgstr "Sehlopheng sa ka"
+
+#. type=global
+msgctxt "global"
+msgid "By myself"
+msgstr "Ke le mong"
+
+#. type=global
+msgctxt "global"
+msgid "awesome parent"
+msgstr "motswadi wa popota"
+
+#. type=global
+msgctxt "global"
+msgid "friends"
+msgstr "metswalle"
+
+#. type=tour
+#. The string @global.parent_app should not be translated.
+msgctxt "tour"
+msgid "Welcome to @global.parent_app"
+msgstr "Rea o amohela ho @global.parent_app"
+
+#. type=tour
+#. The following strings should not be translated: 
+#.      @global.parent_app.</p>
+#.      <p>@global.parent_app
+msgctxt "tour"
+msgid ""
+"<p>Welcome to @global.parent_app.</p>\n"
+"\n"
+"<p>You deserve to feel good, and have happier family relationships.</p>\n"
+"\n"
+"<p>@global.parent_app will support you and your family in three ways:</p>"
+msgstr ""
+"<p>Rea o amohela ho @global.parent_app.</p>\n"
+"\n"
+"<p>O tshwanela ho ikutlwa hantle, le ho ba le dikamano tse thabileng tsa lelapa.</p>\n"
+"\n"
+"<p>@global.parent_app e tla tshehetsa wena le lelapa la hao ka ditsela tse tharo:</p>"
+
+#. type=tour
+#. The string @global.weekly_workshops should not be translated.
+msgctxt "tour"
+msgid ""
+"<p>This big button takes you to your @global.weekly_workshops </p>\n"
+"\n"
+"<p> Once per week a new workshop will be ready for you - every time focusing on a different a parenting skill. Press it to start your first workshop!</p>"
+msgstr ""
+"<p>Konopo ena e kgolo e o isa ho @global.weekly_workshops tsa hao</p>\n"
+"\n"
+"<p> Hang ka beke wekshopo e ntjha e tla be e lokile bakeng sa hao - nako le nako ha o ameha ka tsebo e fapaneng ya botswadi. E tobetse ho qala wekshopo ya hao ya pele!</p>"
+
+#. type=tour
+#. The string @global.weekly_workshop should not be translated.
+msgctxt "tour"
+msgid "<p>The round button appears when a new @global.weekly_workshop is ready for you to do.</p>"
+msgstr "<p>Ho hlahella konopo e sedikadikwe ha @global.weekly_workshop e ntjha e o loketse bakeng sa hao.</p>"
+
+#. type=tour
+#. The string @global.parent_points should not be translated.
+msgctxt "tour"
+msgid ""
+"<p>Press this big button to get you to your @global.parent_points screen.</p>\n"
+"\n"
+"<p>Track your success in self-care and parenting. </p>\n"
+"\n"
+"<p>See your progress.</p>\n"
+"\n"
+"<p>Celebrate your daily achievements!</p>"
+msgstr ""
+"<p>Tobetsa konopo ena e kgolo hore o fumane sekrine sa hao sa @global.parent_points.</p>\n"
+"\n"
+"<p>Latella katleho ya hao ntlheng ya ho itlhokomela le botswadi. </p>\n"
+"\n"
+"<p>Sheba kgatelopele ya hao.</p>\n"
+"\n"
+"<p>Keteka dintho tseo o di finyelletseng letsatsi le letsatsi!</p>"
+
+#. type=tour
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @global.essential_tools
+msgctxt "tour"
+msgid ""
+"<p>This button takes you to the @global.parent_centre </p>\n"
+"\n"
+"<p>Stacked with the resources you need whenever you want. </p>\n"
+"\n"
+"<p> Instant access to help sections with @global.essential_tools for each skill.</p>\r\n"
+"\n"
+"<p> Extra information and local resources.</p>"
+msgstr ""
+"<p>Konopo ena e o lebisa ho @global.parent_centre </p>\n"
+"\n"
+"<p>E tletse matlotlo ao o a hlokang neng kapa neng ha o a batla. </p>\n"
+"\n"
+"<p> O fihlella hanghang dikarolo tseo o fuwang thuso ho @global.essential_tools bakeng sa tsebo ka nngwe.</p>\r\n"
+"\n"
+"<p> Tlhahisoleseding e nngwe le matlotlo a sebakeng sa heno.</p>"
+
 #. type=tour
 msgctxt "tour"
 msgid "<p>However you start, just the fact you are here shows you care.</p>"
@@ -11179,6 +11823,21 @@ msgstr "Tswela pele"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Hi great parent, remember to take care of yourself too - it will help you AND your family! Get your tips and more in ParentApp."
+msgstr "Dumela motswadi wa mmakgonthe, hopola hore le wena o itlhokomele - seo se tla thusa wena LE ba lelapa la hao! Fumana dikeletso le maele a mang ho ParentApp."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi great parent! Remember, you can find lots of helpful tips in ParentApp."
+msgstr "Dumela motswadi wa mmakgonthe! Hopola, o ka fumana dikeletso tse ngata tse thusang ho ParentApp."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi great parent! ParentApp is here to support you. Check it out now!"
+msgstr "Dumela motswadi wa mmakgonthe! ParentApp e tla wa e tsoha le wena. E hlahlobe hona jwale!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Welcome to ParentApp. Click here to start your journey!"
 msgstr "Rea o amohela ho ParentApp. Tobetsa mona ho qala leeto la hao!"
 
@@ -11195,7 +11854,7 @@ msgstr "Dumela! Na dintho tsohle di SHAPO? Ekare ha o so bule ParentApp morao tj
 #. type=data_list
 msgctxt "data_list"
 msgid "Hello again! It’s never too late to use ParentApp and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
-msgstr "Hape hape dumela! O ka sebedisa ParentApp neng kapa neng hammoho le tshehetso ya botswadi e etseditsweng ditlhoko tsa hao. Hobaneng ha o sa e leke ha o ya mosebetsing kapa ha o ntse o pheha dijo? Batswadi ba dimilione ba fumane hore tlhahisoleseding ena e a ba thusa."
+msgstr "Dumela hape! O ka sebedisa ParentApp neng kapa neng hammoho le tshehetso ya botswadi e etseditsweng ditlhoko tsa hao. Hobaneng ha o sa e leke ha o ya mosebetsing kapa ha o ntse o pheha dijo? Batswadi ba dimilione ba fumane hore tlhahisoleseding ena e a ba thusa."
 
 #. type=data_list
 msgctxt "data_list"
@@ -11205,12 +11864,12 @@ msgstr "ParentApp e o hlolohetswe! O ka ithuta dintho tse ngata. Re tla tswela p
 #. type=data_list
 msgctxt "data_list"
 msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to help you manage parenting stress."
-msgstr "Re tshepa hore o ikutlwa hantle. Rea tseba hore botswadi bo thata - sebedisa ParentApp ho o thusa ho laola seterese sa botswadi."
+msgstr "Re tshepa hore o ikutlwa HANTLE. Rea tseba hore botswadi bo thata - sebedisa ParentApp ho o thusa ho laola seterese sa botswadi."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to prepare your teen for success in life."
-msgstr "Re tshepa hore o ikutlwa hantle. Rea tseba hore botswadi bo thata - sebedisa ParentApp ho lokisetsa motjha wa hao katleho bophelong."
+msgstr "Re tshepa hore o ikutlwa HANTLE. Rea tseba hore botswadi bo thata - sebedisa ParentApp ho lokisetsa motjha wa hao katleho bophelong."
 
 #. type=data_list
 msgctxt "data_list"
@@ -11225,7 +11884,7 @@ msgstr "Molaetsa o motjha o tswang PLH"
 #. type=data_list
 msgctxt "data_list"
 msgid "Hope you are feeling OK. We know parenting is hard - use ParentApp to bond with your teen again!"
-msgstr "Re tshepa hore o ikutlwa hantle. Rea tseba hore botswadi bo thata - sebedisa ParentApp ho tiisa dikamano le motjha wa hao hape!"
+msgstr "Re tshepa hore o ikutlwa HANTLE. Rea tseba hore botswadi bo thata - sebedisa ParentApp ho tiisa dikamano le motjha wa hao hape!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11250,7 +11909,7 @@ msgstr "Phathi e Tummeng"
 #. type=data_list
 msgctxt "data_list"
 msgid "Two truths, one lie"
-msgstr "Dinnete tse pedi, leshono le le leng"
+msgstr "Dinnete tse pedi, leshano le le leng"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11330,7 +11989,7 @@ msgstr "Fetisa senepe"
 #. type=data_list
 msgctxt "data_list"
 msgid "Family workout"
-msgstr "Mosebetsi wa lelapa"
+msgstr "Boikwetliso ba lelapa"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11361,6 +12020,284 @@ msgstr "Tantshi ya dikgoho tse hlanyang"
 msgctxt "data_list"
 msgid "Relax"
 msgstr "Kgatholoha"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Relax** @global.parent_point"
+msgstr "**Kgatholoha** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Doing a relaxation activity"
+msgstr "Ho etsa ntho e o kgathollang"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do a relax, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako le nako ha o etsa ntho e o kgathollang, tobetsa @global.parent_point mme o keteke katleho ya hao!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Treat yourself well"
+msgstr "Itlhokomele hantle"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Treat yourself well** @global.parent_point"
+msgstr "**Itlhokomele hantle** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Doing something they like for themselves"
+msgstr "Ho iketsetsa ntho eo a e ratang"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you treat yourself well, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako le nako ha o itlhokomela hantle, tobetsa @global.parent_point mme o keteke katleho ya hao!"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Praise yourself** @global.parent_point"
+msgstr "**Ipabatse** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praising themselves"
+msgstr "Ha ba ipabatsa"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you praise yourself, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako le nako ha o ipabatsa, tobetsa @global.parent_point mme o keteke katleho ya hao!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One-on-one time"
+msgstr "Nako ya boinotshing"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**One-on-one time** @global.parent_point"
+msgstr "**Nako ya boinotshing** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Spending time with their teen"
+msgstr "Ha a qeta nako le motjha wa hae"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do one-on-one time, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako le nako ha o ba le nako ya boinotshing, tobetsa @global.parent_point mme o keteke katleho ya hao!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praise your teen"
+msgstr "Babatsa motjha wa hao"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Praise your teen** @global.parent_point"
+msgstr "**Babatsa motjha wa hao** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praising their teen when they did positive thing"
+msgstr "Ha ba babatsa batjha ba bona ha ba entse ntho e ntle"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you praise your teen, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako le nako ha o babatsa motjha wa hao, tobetsa @global.parent_point mme o keteke katleho ya hao!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Get positive"
+msgstr "Bua se tshwanetseng"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Get positive** @global.parent_point"
+msgstr "**Bua se tshwanetseng** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Giving their teen a positive instruction"
+msgstr "Ho fa motjha ditaelo tsa se tshwanelang ho etswa"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a positive instruction, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako le nako ha o fana ka taelo ya se tshwanetseng ho etswa, tobetsa @global.parent_point mme o keteke katleho ya hao!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Breathe not yell"
+msgstr "Hema o se hweletse"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Breathe not yell** @global.parent_point"
+msgstr "**Hema o se hweletse** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking a pause before responding"
+msgstr "Ho nka kgefu pele o araba"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you take a pause before responding, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako le nako ha o nka kgefu pele o araba, tobetsa @global.parent_point mme o keteke katleho ya hao!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Good money choice"
+msgstr "Kgetho e nepahetseng ya ditjhelete"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Good money choice** @global.parent_point"
+msgstr "**Kgetho e nepahetseng ya ditjhelete** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Keeping the budget"
+msgstr "Ho boloka bajete"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you make a good choice about needs, wants and savings, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako le nako ha o etsa kgetho e nepahetseng mabapi le ditlhoko, dintho tseo le di batlang ebile le baballa tjhelete, tobetsa @global.parent_point mme o keteke katleho ya hao!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Calm consequence"
+msgstr "Ditlamorao tse fanwang ho theotswe moya"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Calm consequence** @global.parent_point"
+msgstr "**Ditlamorao tse fanwang ho theotswe moya** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Giving their teen a consequence in a calm way"
+msgstr "Ho jarisa motjha ditlamorao ka moya o fatshe"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a calm consequence, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako le nako ha o fana ka ditlamorao o theotse moya, tobetsa @global.parent_point mme o keteke katleho ya hao!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safe"
+msgstr "Bolokehile"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Safe** @global.parent_point"
+msgstr "**Bolokehile** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Planning or keeping a family safety plan"
+msgstr "Ho etsa moralo kapa ho boloka moralo wa lelapa wa polokeho"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do something to keep your teen safe, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako le nako ha o etsa ho hong ho tiisa hore motjha wa hao o bolokehile, tobetsa @global.parent_point mme o keteke katleho ya hao!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did it? Tap it!"
+msgstr "O e entse? E tobetse!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Help"
+msgstr "Thuso"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Help** in the @global.parent_centre"
+msgstr "**Thuso** ho @global.parent_centre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My Tips"
+msgstr "Dikeletso tsa Ka"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**My Tips** in the @global.parent_centre"
+msgstr "**Dikeletso tsa Ka** ho @global.parent_centre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Essential Tools"
+msgstr "Dithulusi tsa Bohlokwa"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Essential Tools** in the @global.parent_centre"
+msgstr "**Dithulusi tsa Bohlokwa** ho @global.parent_centre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "COVID"
+msgstr "COVID"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**COVID** in the @global.parent_centre"
+msgstr "**COVID** ho @global.parent_centre"
+
+#. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid "Customise @global.parent_app"
+msgstr "Fetola @global.parent_app ho dumellana le ditlhoko"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Customise Again"
+msgstr "Fetola Hape ho Dumellana le Ditlhoko"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app**
+#.      @global.parent_centre
+msgctxt "data_list"
+msgid "**Customise @global.parent_app** in the @global.parent_centre"
+msgstr "**Fetola @global.parent_app ho dumellana le ditlhoko** ho @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11616,4 +12553,229 @@ msgstr "Lemoha kamoo o ikutlwang kateng"
 msgctxt "data_list"
 msgid "Pause power"
 msgstr "Matla a kgefu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praise yourself"
+msgstr "Ipabatse"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking care of yourself"
+msgstr "Ho itlhokomela"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a pause"
+msgstr "Nka kgefu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Physical activity"
+msgstr "Boikwetliso"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "List of things"
+msgstr "Letoto la dintho"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Connect"
+msgstr "Hokela"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Prevent anger"
+msgstr "Thibela bohale"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Angry? Take a break"
+msgstr "Na o halefile? Nka kgefu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Welcome and Self-Care"
+msgstr "Kamohelo le ho Itlhokomela"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Welcome and Self-Care** workshop"
+msgstr "Wekshopo ya **Kamohelo le ho Itlhokomela**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Self-Care"
+msgstr "Ho Itlhokomela"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to do self-care"
+msgstr "Tsela ya ho itlhokomela"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One-on-One Time"
+msgstr "Nako ya Boinotshing"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**One-on-One Time** workshop"
+msgstr "Wekshopo ya **Nako ya Boinotshing**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to spend one-on-one time"
+msgstr "Tsela ya ho qeta nako ya boinotshing"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praise"
+msgstr "Pabatso"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Praise** workshop"
+msgstr "Wekshopo ya **Pabatso**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to praise"
+msgstr "Tsela ya ho babatsa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Positive Instructions"
+msgstr "Ditaelo tsa se Tshwanelang ho Etswa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Positive Instructions** workshop"
+msgstr "Wekshopo ya **Ditaelo tsa se Tshwanelang ho Etswa**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to give positive instructions"
+msgstr "Tsela ya ho fana ka ditaelo tsa se tshwanelang ho etswa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Managing Stress"
+msgstr "Ho Laola Seterese"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Managing Stress** workshop"
+msgstr "Wekshopo ya **Ho Laola Seterese**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to manage stress"
+msgstr "Tsela ya ho laola seterese"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Family Budgets"
+msgstr "Dibajete tsa Lelapa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Family Budgets** workshop"
+msgstr "Wekshopo ya **Dibajete tsa Lelapa**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to budget & save"
+msgstr "Tsela ya ho bajeta le ho baballa tjhelete"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Rules"
+msgstr "Melao"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Rules** workshop"
+msgstr "Wekshopo ya **Melao**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to create rules"
+msgstr "Tsela ya ho etsa melao"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Calm Consequences"
+msgstr "Ditlamorao tse Fanwang ho Theotswe Moya"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Calm Consequences** workshop"
+msgstr "Wekshopo ya **Ditlamorao tse Fanwang ho Theotswe Moya**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to give calm consequences"
+msgstr "Tsela ya ho fana ka ditlamorao ho theotswe moya"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Problem Solving"
+msgstr "Ho Rarolla Mathata"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Problem Solving** workshop"
+msgstr "Wekshopo ya **Ho Rarolla Mathata**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to solve problems"
+msgstr "Tsela ya ho rarolla mathata"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Teen Safety"
+msgstr "Polokeho ya Batjha"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Teen Safety** workshop"
+msgstr "Wekshopo ya **Polokeho ya Batjha**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to keep your teen safe"
+msgstr "Tsela ya ho tiisa hore motjha wa hao o bolokehile"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dealing with Crisis"
+msgstr "Ho Sebetsana le Tsietsi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Dealing with Crisis** workshop"
+msgstr "Wekshopo ya **Ho Sebetsana le Tsietsi**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to deal with crisis"
+msgstr "Tsela ya ho sebetsana le tsietsi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Celebration and Next Steps"
+msgstr "Ho Keteka le Mehato e Latelang"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**Celebration and Next Steps** workshop"
+msgstr "Wekshopo ya **Ho Keteka le Mehato e Latelang**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to support each other"
+msgstr "Tsela ya ho tshehetsana"
 
