@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2021-12-03 13:40\n"
+"PO-Revision-Date: 2021-12-06 18:20\n"
 
 #. type=template
 #. The string @global.parent_centre should not be translated.
@@ -63,6 +63,24 @@ msgstr "Privaatheidsbeleid"
 msgctxt "template"
 msgid "App terms"
 msgstr "Toep-voorwaardes"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "About @global.parent_app"
+msgstr "Oor @global.parent_app"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid ""
+"@global.parent_app was developed by Parenting for Lifelong Health (PLH) – a worldwide collaboration between parenting experts from UNICEF, the WHO and Universities in South Africa and the UK, as well as African NGOs and families and teens all across Africa. Parents and teens worked with us on the app and helped to ensure it is easy-to-use, fun and engaging. Some of the content in this app, like suggestions of activities and illustrated stories, were created with parents and teens to make sure it fits families’ needs.\n"
+"\n"
+"Parenting for Lifelong Health (PLH) is committed to supporting free and shareable parenting materials and programmes, to support parents worldwide to promote the well-being of their children."
+msgstr ""
+"@global.parent_app is ontwikkel deur Parenting for Lifelong Health (PLH) – 'n wêreldwye samewerking tussen ouerskapkundiges van UNICEF, die Wêreldgesondheidsorganisasie en universiteite in Suid-Afrika en Engeland, sowel as NPO's in Afrika en gesinne en tieners regoor Afrika. Ouers en tieners het saam met ons aan die toepassing gewerk en gehelp om te verseker dat dit maklik om te gebruik, pret en boeiend is. Sommige van die inhoud in hierdie toepassing, soos voorstelle van aktiwiteite en geïllustreerde stories, is saam met ouers en tieners geskep om seker te maak dit pas by gesinne se behoeftes.\n"
+"\n"
+"Parenting for Lifelong Health (PLH) is toegewy om gratis en deelbare ouerskapmateriale en -programme te ondersteun, om ouers wêreldwyd te ondersteun om die welstand van hul kinders te bevorder."
 
 #. type=template
 msgctxt "template"
@@ -190,6 +208,16 @@ msgstr "Laas gesinchroniseer om: @local.sync_latest"
 
 #. type=template
 msgctxt "template"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "Hierdie toestel is nog nooit gesinkroniseer nie. Sinkroniseer om jou kode te toon."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Sinkroniseer nou"
+
+#. type=template
+msgctxt "template"
 msgid "Syncing..."
 msgstr "Besig om te sinchroniseer..."
 
@@ -227,6 +255,12 @@ msgstr ""
 msgctxt "template"
 msgid "My name"
 msgstr "My naam"
+
+#. type=template
+#. The string @global.weekly_workshop should not be translated.
+msgctxt "template"
+msgid "@global.weekly_workshop day"
+msgstr "@global.weekly_workshop dag"
 
 #. type=template
 msgctxt "template"
@@ -4227,6 +4261,11 @@ msgstr "Dis so stresvol as kinders stout of ongehoorsaam is."
 
 #. type=template
 msgctxt "template"
+msgid "How many days in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
+msgstr "Hoeveel dae die afgelope week het jy jou kinders fisies gedissiplineer deur hulle te klap, pak te gee of te slaan met jou hand of ’n voorwerp soos ’n stok of ’n belt?"
+
+#. type=template
+msgctxt "template"
 msgid "It is wonderful that you are responding calmly when your teen does something upsetting. They can learn so much from you!"
 msgstr "Dit is wonderlik dat jy kalm reageer as jou tiener iets ontstellends doen. Hulle kan soveel by jou leer!"
 
@@ -4567,8 +4606,30 @@ msgstr "Is jy seker dat jy hierdie vraag wil oorslaan?"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Are you sure you want to skip this question? Remember, your answer will be kept private and will help us understand your parenting needs. \n"
+"\n"
+"You can also choose not to answer any question by selecting the circle."
+msgstr ""
+"Is jy seker jy wil hierdie vraag oorslaan? Onthou, jou antwoord sal privaat gehou word en sal ons help om jou ouerskapbehoeftes te verstaan.\n"
+"\n"
+"Jy kan ook kies om enige vraag nie te beantwoord nie deur die sirkel te kies."
+
+#. type=template
+msgctxt "template"
 msgid "You selected \"I would rather not answer\""
 msgstr "Jy het “Ek wil liewer nie antwoord nie” gekies"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"That’s ok! \n"
+"\n"
+"Remember, if you do answer your answer will be kept private and will help us to provide you with content that is exactly right for you."
+msgstr ""
+"Dis oukei!\n"
+"\n"
+"Onthou, as jy antwoord sal jou antwoord privaat gehou word en sal dit ons help om jou te voorsien van inhoud wat presies reg is vir jou."
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4837,8 +4898,18 @@ msgstr "Ons sal graag jou voornaam of bynaam wil weet:"
 
 #. type=template
 msgctxt "template"
+msgid "Are you a woman or a man?"
+msgstr "Is jy 'n vrou of 'n man?"
+
+#. type=template
+msgctxt "template"
 msgid "Woman"
 msgstr "Vrou"
+
+#. type=template
+msgctxt "template"
+msgid "Man"
+msgstr "Man"
 
 #. type=template
 msgctxt "template"
@@ -5444,6 +5515,11 @@ msgid "Share @global.parent_app and help other families start their journey."
 msgstr "Deel @global.parent_app en help ander gesinne om hul reis te begin."
 
 #. type=template
+msgctxt "template"
+msgid "End of programme check-in"
+msgstr "Programeinde check-in"
+
+#. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
 msgid ""
@@ -5454,6 +5530,11 @@ msgstr ""
 "Jy het @global.parent_app vir die afgelope maande gebruik, maar ouerskap van ’n tiener is ’n langdurige proses! Die volgende vrae oor jou ouerskap-ervarings sal ons help om jou ouerskap te assesseer.\n"
 "\n"
 "Wees eerlik. Onthou dat miljoene ouers soos jy voel, en ons almal verdien ondersteuning. Jy is nie alleen nie!"
+
+#. type=template
+msgctxt "template"
+msgid "You seem to have completed the end of programme check-in already. You can now skip this activity."
+msgstr "Dit kom voor dat jy reeds die programeinde check-in voltooi het. Jy kan nou hierdie aktiwiteit oorslaan."
 
 #. type=template
 msgctxt "template"
@@ -11069,6 +11150,11 @@ msgstr "Uitdagings en oplossings"
 
 #. type=global
 msgctxt "global"
+msgid "Submit"
+msgstr "Dien in"
+
+#. type=global
+msgctxt "global"
 msgid "Find out more"
 msgstr "Vind meer uit"
 
@@ -11116,6 +11202,11 @@ msgstr "Stoor"
 msgctxt "global"
 msgid "Start"
 msgstr "Begin"
+
+#. type=global
+msgctxt "global"
+msgid "Skip"
+msgstr "Slaan oor"
 
 #. type=global
 msgctxt "global"
@@ -11907,8 +11998,18 @@ msgstr "Maak huistake pret"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Household chores aren’t fun… or are they? You can make them into a game!"
+msgstr "Huistake is nie pret nie... of is dit? Jy kan 'n speletjie daarvan maak!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "What are you doing?"
 msgstr "Wat doen jy?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here is a fun game you can do with your family!"
+msgstr "Hier is 'n prettige speletjie wat jy saam met jou gesin kan doen!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11928,6 +12029,17 @@ msgstr "**Ontspan** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Doing a relaxation activity"
+msgstr "Doen 'n ontspanningsaktiwiteit"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do a relax, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy ’n ontspanningsaktiwiteit doen, klik op die @global.parent_point en vier jou sukses!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Treat yourself well"
 msgstr "Behandel jouself goed"
 
@@ -11938,10 +12050,32 @@ msgid "**Treat yourself well** @global.parent_point"
 msgstr "**Behandel jouself goed** @global.parent_point"
 
 #. type=data_list
+msgctxt "data_list"
+msgid "Doing something they like for themselves"
+msgstr "Doen iets vir hulself waarvan hulle hou"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you treat yourself well, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy jouself goed behandel, klik op die @global.parent_point en vier jou sukses!"
+
+#. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
 msgid "**Praise yourself** @global.parent_point"
 msgstr "**Prys jouself** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praising themselves"
+msgstr "Hulself prys"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you praise yourself, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy jouself prys, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11956,6 +12090,17 @@ msgstr "**Een-tot-een-tyd** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Spending time with their teen"
+msgstr "Tyd spandeer met hulle tiener"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do one-on-one time, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy een-tot-een tyd spandeer, klik op die @global.parent_point en vier jou sukses!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Praise your teen"
 msgstr "Prys jou tiener"
 
@@ -11964,6 +12109,17 @@ msgstr "Prys jou tiener"
 msgctxt "data_list"
 msgid "**Praise your teen** @global.parent_point"
 msgstr "**Prys jou tiener** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praising their teen when they did positive thing"
+msgstr "Hul tiener prys wanneer hulle positiewe dinge gedoen het"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you praise your teen, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy jou tiener prys, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11978,6 +12134,17 @@ msgstr "**Wees positief** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Giving their teen a positive instruction"
+msgstr "Hul tiener 'n positiewe instruksie gee"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a positive instruction, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy 'n positiewe instruksie gee, klik op die @global.parent_point en vier jou sukses!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Breathe not yell"
 msgstr "Haal asem, moenie skreeu nie"
 
@@ -11986,6 +12153,17 @@ msgstr "Haal asem, moenie skreeu nie"
 msgctxt "data_list"
 msgid "**Breathe not yell** @global.parent_point"
 msgstr "**Haal asem, moenie skreeu nie** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking a pause before responding"
+msgstr "'n Blaaskans vat voor jy reageer"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you take a pause before responding, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy 'n blaaskans vat voor jy reageer, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12000,6 +12178,17 @@ msgstr "**Goeie geldkeuse** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Keeping the budget"
+msgstr "Hou die begroting"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you make a good choice about needs, wants and savings, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy 'n goeie keuse maak oor behoeftes, klik op die @global.parent_point en vier jou sukses!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Calm consequence"
 msgstr "Kalm gevolg"
 
@@ -12008,6 +12197,17 @@ msgstr "Kalm gevolg"
 msgctxt "data_list"
 msgid "**Calm consequence** @global.parent_point"
 msgstr "**Kalm gevolg** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Giving their teen a consequence in a calm way"
+msgstr "Hul tiener op 'n kalm manier 'n gevolg gee"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a calm consequence, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy op 'n kalm manier 'n gevolg gee, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12022,8 +12222,30 @@ msgstr "**Veilig** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Planning or keeping a family safety plan"
+msgstr "'n Gesinsveiligheidsplan maak of hou"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do something to keep your teen safe, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy iets doen om jou tiener veilig te hou, klik op die @global.parent_point en vier jou sukses!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Did it? Tap it!"
+msgstr "Gedoen? Klik dit!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Help"
 msgstr "Hulp"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Help** in the @global.parent_centre"
+msgstr "**Hulp** in die @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12031,14 +12253,32 @@ msgid "My Tips"
 msgstr "My wenke"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**My Tips** in the @global.parent_centre"
+msgstr "**My wenke** in die @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Essential Tools"
 msgstr "Noodsaaklike hulpmiddels"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Essential Tools** in the @global.parent_centre"
+msgstr "**Noodsaaklike hulpmiddels** in die @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "COVID"
 msgstr "COVID"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**COVID** in the @global.parent_centre"
+msgstr "**COVID** in die @global.parent_centre"
 
 #. type=data_list
 #. The string @global.parent_app should not be translated.
@@ -12048,8 +12288,27 @@ msgstr "Pas @global.parent_app aan"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Customise Again"
+msgstr "Pas weer aan"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app**
+#.      @global.parent_centre
+msgctxt "data_list"
+msgid "**Customise @global.parent_app** in the @global.parent_centre"
+msgstr "**Pas @global.parent_app aan** in die @global.parent_centre"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Relax & Activities"
 msgstr "Ontspan en aktiwiteite"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "under **Relax & Activities** in the @global.parent_centre"
+msgstr "onder **Ontspan & aktiwiteite** in die @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12057,9 +12316,21 @@ msgid "Support Contacts"
 msgstr "Ondersteuningskontakte"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Support Contacts** in the @global.parent_centre"
+msgstr "**Ondersteuning kontakte** in die @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Evidence Base"
 msgstr "Bewysbasis"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Evidence Base** in the @global.parent_centre"
+msgstr "**Bewysbasis** in die @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12067,9 +12338,21 @@ msgid "Technical Support"
 msgstr "Tegniese steun"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Technical Support** in the @global.parent_centre"
+msgstr "**Tegniese ondersteuning** in die @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Message Archive"
 msgstr "Boodskapargief"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Message Archive** in the @global.parent_centre"
+msgstr "**Boodskapargief** in die @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
