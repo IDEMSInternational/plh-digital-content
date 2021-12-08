@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Southern Sotho\n"
 "\n"
 "Language: st_ZA\n"
-"PO-Revision-Date: 2021-11-30 01:27\n"
+"PO-Revision-Date: 2021-12-08 21:30\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -580,6 +580,12 @@ msgid "That is okay! If would like to access the link at a later time, please ty
 msgstr "Ho lokile! Haeba o ka rata ho fihlella linki ena hamorao, ka kopo thaepa “Thuso”."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You also have made progress on @results.n_incompletes_week skills."
+msgstr "Hape o hatetse pele tsebong ya mesebetsi e @results.n_incompletes_week."
+
+#. type=text
 msgctxt "text"
 msgid "Type \"Toolkit\" if you want to go back and revisit any of these tips."
 msgstr "Thaepa “Mokotla wa Dithulusi” haeba o batla ho kgutlela morao le ho ya ikgopotsa efe kapa efe ya dikeletso tsena."
@@ -776,6 +782,11 @@ msgstr "@fields.survey_behave_name o na le dikgwedi tse kae? Ka kopo karabong ya
 msgctxt "text"
 msgid "What is your relationship to @fields.survey_behave_name?"
 msgstr "Kamano ya hao le @fields.survey_behave_name e jwang?"
+
+#. type=text
+msgctxt "text"
+msgid "You can also type \"N\" if you do not want to answer. "
+msgstr "Hape o ka thaepa “N” haeba o sa batle ho araba. "
 
 #. type=text
 msgctxt "text"
@@ -2010,13 +2021,28 @@ msgstr "• Bulela SafeSearch ho sebadi sa hao ho ntsha dintho tsa batho ba baho
 
 #. type=text
 msgctxt "text"
+msgid "https://www.internetmatters.org/blog/parental-controls/entertainment-search-engines/"
+msgstr "https://www.internetmatters.org/blog/parental-controls/entertainment-search-engines/"
+
+#. type=text
+msgctxt "text"
 msgid "• Set up parental controls."
 msgstr "• Setapa mehato ya taolo ya motswadi."
 
 #. type=text
 msgctxt "text"
+msgid "https://www.internetmatters.org/parental-controls/"
+msgstr "https://www.internetmatters.org/parental-controls/"
+
+#. type=text
+msgctxt "text"
 msgid "• Set up strict privacy settings on online apps and games."
 msgstr "• Etsa setapo e bolokang ditaba tsa lekunutu ka thata diepong le dipapading tsa inthaneteng."
+
+#. type=text
+msgctxt "text"
+msgid " https://www.internetmatters.org/blog/parental-controls/social-media/"
+msgstr " https://www.internetmatters.org/blog/parental-controls/social-media/"
 
 #. type=text
 msgctxt "text"
@@ -2242,8 +2268,18 @@ msgstr "Ke utlwisisa seo hantle! O ka leka ka ho etsisa boitshwaro boo o batlang
 
 #. type=text
 msgctxt "text"
+msgid "To answer these questions, click this link to take you to an external site for extra privacy:"
+msgstr "Ho araba dipotso tsena, tobetsa linki ena hore e o ise ho webosaete e ka thoko bakeng sa ho boloka lekunutu haholwanyane:"
+
+#. type=text
+msgctxt "text"
 msgid "Can we also ask you a few quick questions about your relationship with your partner?"
 msgstr "Na hape re ka o botsa dipotso tse seng kae tse kgutshwane mabapi le kamano ya hao le molekane wa hao?"
+
+#. type=text
+msgctxt "text"
+msgid "Everything you say will be completely private."
+msgstr "Ntho tsohle tseo o tla di bua e tla ba lekunutu le ke keng la phahlwa."
 
 #. type=text
 msgctxt "text"
@@ -2262,6 +2298,11 @@ msgstr "Rea leboha! Neng kapa neng ha o hloka tshehetso, thaepa feela “Thuso�
 
 #. type=text
 msgctxt "text"
+msgid "Thank you! Anytime you need support, just type \"Help\" and I will do my best to help you. "
+msgstr "Rea leboha! Neng kapa neng ha o hloka tshehetso, thaepa feela “Thuso” mme ke tla etsa sohle seo nka se kgonang ho o thusa. "
+
+#. type=text
+msgctxt "text"
 msgid "This programme is for parents and caregivers like you (aged 18 or older)."
 msgstr "Lenaneo lena ke la batswadi le bahlokomedi ba kang wena (ba dilemo di 18 ho ya hodimo)."
 
@@ -2274,6 +2315,21 @@ msgstr "Dibekeng tse mmalwa tse tlang, o tla amohela melaetsa e tla o thusa ho l
 msgctxt "text"
 msgid "Your participation and any information you provide will be used anonymously by researchers to learn about how to better support families like yours. "
 msgstr "Seabo sa hao le dintlha dife kapa dife tseo o fanang ka tsona di tla sebediswa ke bafuputsi di se na lebitso la hae mme ba tla ithuta tsela e molemo ya ho tshehetsa malapa a kang la hao. "
+
+#. type=text
+msgctxt "text"
+msgid "Click here for more information:"
+msgstr "Tobetsa mona bakeng sa dintlha tse eketsehileng:"
+
+#. type=text
+msgctxt "text"
+msgid "https://covid19parenting.com/assets/consents/eng.pdf"
+msgstr "https://covid19parenting.com/assets/consents/eng.pdf"
+
+#. type=text
+msgctxt "text"
+msgid "Type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate. "
+msgstr "Thaepa “Ee” haeba o dumellana le sena. Thaepa “Tswa” haeba o sa batle ho nka karolo. "
 
 #. type=text
 msgctxt "text"
@@ -2309,6 +2365,16 @@ msgstr "Haeba o batla ho utlwa hore na ParentText e jwang, o ka e romela ho bats
 msgctxt "text"
 msgid "Thank you so much for confirming this. You are now ready to begin your ParentText journey!"
 msgstr "Re leboha haholo ha o netefaditse ntlha ena. Jwale o mothating wa ho qala leeto la ParentText!"
+
+#. type=text
+msgctxt "text"
+msgid "Did you know that over 197 million parents around the world have used our resources developed by Parenting for Lifelong Health, WHO, and UNICEF?"
+msgstr "Na o ne o tseba hore batswadi ba fetang dimilione tse 197 lefatsheng lohle ba sebedisa dikgatiso tse entsweng ke Parenting for Lifelong Health, WHO, le UNICEF?"
+
+#. type=text
+msgctxt "text"
+msgid "Did you know that over 197 million parents around the world have used these resources developed by Parenting for Lifelong Health, WHO, and UNICEF?"
+msgstr "Na o ne o tseba hore batswadi ba fetang dimilione tse 197 lefatsheng lohle ba sebedisa dikgatiso tsena tse entsweng ke Parenting for Lifelong Health, WHO, le UNICEF?"
 
 #. type=text
 msgctxt "text"
@@ -2921,6 +2987,11 @@ msgstr "Dumela! Na o kile wa leka ho kenya letsoho ka ho thusa lapeng hammoho le
 
 #. type=text
 msgctxt "text"
+msgid "We are sorry to hear this. What did you find difficult when trying to help out with caregiving or housework?"
+msgstr "Re maswabi ho utlwa seo. Ke eng e ileng ya o thatafalla ha o leka ho thusa ho hlokomela ba lelapa kapa ho phetha msebetsi ya lapeng?"
+
+#. type=text
+msgctxt "text"
 msgid "We are sorry to hear this. What did you find difficult when trying to involve your partner in caregiving or housework?"
 msgstr "Re maswabi ho utlwa seo. O ile wa thatafallwa ke eng ha o leka ho kenyelletsa molekane wa hao hore a hlokomele ba lelapa kapa a phethe mosebetsi wa lapeng?"
 
@@ -2928,6 +2999,11 @@ msgstr "Re maswabi ho utlwa seo. O ile wa thatafallwa ke eng ha o leka ho kenyel
 msgctxt "text"
 msgid "We are sorry to hear this. What did you find difficult when trying to share responsibilities for caregiving and housework with your partner?"
 msgstr "Re maswabi ho utlwa seo. Ke eng eo o fumaneng e le thata ha o leka ho abela molekane wa hao boikarabelo ba ho hlokomela ba lelapa kapa ho phetha mesebetsi ya lapeng?"
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry to hear this. What did you find difficult when trying to help out with caregiving or housework?"
+msgstr "Ke maswabi ho utlwa seo. Ke eng e ileng ya o thatafalla ha o leka ho thusa ho hlokomela ba lelapa kapa ho phetha msebetsi ya lapeng?"
 
 #. type=text
 msgctxt "text"
@@ -3096,8 +3172,18 @@ msgstr "“Ke tla hlola bothata boo jwang?”"
 
 #. type=text
 msgctxt "text"
+msgid "(1)"
+msgstr "(1)"
+
+#. type=text
+msgctxt "text"
 msgid "“Whatever it is, I am okay.” "
 msgstr "“Ha ho na taba, ho lokile.” "
+
+#. type=text
+msgctxt "text"
+msgid "(2)"
+msgstr "(2)"
 
 #. type=text
 msgctxt "text"
@@ -3106,8 +3192,18 @@ msgstr "“Hula moya. Lokolla moya.\""
 
 #. type=text
 msgctxt "text"
+msgid "(3)"
+msgstr "(3)"
+
+#. type=text
+msgctxt "text"
 msgid "“I can do this. We will get through it together.”"
 msgstr "“O ka atleha. Re tla feta boemong bona hammoho.”"
+
+#. type=text
+msgctxt "text"
+msgid "(4)"
+msgstr "(4)"
 
 #. type=text
 msgctxt "text"
@@ -3314,6 +3410,11 @@ msgid "We understand that spending One-on-One Time can sometimes be difficult. H
 msgstr "Rea utlwisisa hore ka dinako tse ding ho ka ba thata ho qeta Nako ya Boinotshing. A mang a mabaka a maholo a etsang hore ho be thata ho batswadi ke ana. Ke lefe le o amang haholo?"
 
 #. type=text
+msgctxt "text"
+msgid "I understand that spending One-on-One Time can sometimes be difficult. Here are some of the main reasons parents struggle. Which one is the closest to you?"
+msgstr "Kea utlwisisa hore ka dinako tse ding ho ka ba thata ho qeta Nako ya Boinotsing. A mang a mabaka a maholo a etsang hore ho be thata ho batswadi ke ana. Ke lefe le o amang haholo?"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "If @fields.child_nickname wants to do things that are too difficult for you to physically do, you can simply watch @fields.child_nickname. Try describing what they are doing like a sports announcer and praising what they do!"
@@ -3419,6 +3520,11 @@ msgstr "Haeba ngwana wa hao o monyane haholo ho utlwisisa hore na motsotso ke en
 msgctxt "text"
 msgid "We are sorry to hear that you have been having some difficulties spending One-on-One Time with your children. Please type \"Help\" for other advice that might be of use to you. Thank you for trying your best!"
 msgstr "Re maswabi ho utlwa hore o na le mathata a ho qeta Nako ya Boinotsing le bana ba hao. Ka kopo thaepa “Thuso” bakeng sa dikeletso tse ding tseo o ka nnang wa di sebedisa. Rea leboha ka ho leka sohle se matleng a hao!"
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry to hear that you have been having some difficulties spending One-on-One Time with your children. Please type \"Help\" for other advice that might be of use to you. Thank you for trying your best!"
+msgstr "Ke maswabi ho utlwa hore o na le mathata a ho qeta Nako ya Boinotsing le bana ba hao. Ka kopo thaepa “Thuso” bakeng sa dikeletso tse ding tseo o ka nnang wa di sebedisa. Rea leboha ka ho leka sohle se matleng a hao!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -4408,6 +4514,11 @@ msgid "That's okay! Here is a great resource from LEGO of more activities that y
 msgstr "O ska kgathatseha! Bona letlotlo lena le babatsehang le tswang LEGO le ka o fang mesebetsi e meng eo o ka e etsang le bana ba hao!"
 
 #. type=text
+msgctxt "text"
+msgid "https://playlist.legofoundation.com/all-activities/"
+msgstr "https://playlist.legofoundation.com/all-activities/"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Chat to you later @fields.user_name!"
@@ -4967,6 +5078,16 @@ msgstr "Ngwana wa hao o fumane molemo wa sebele ka kgatelopele ya hao ya ho fihl
 
 #. type=text
 msgctxt "text"
+msgid "Which information about COVID-19 would you like to receive?"
+msgstr "O ka rata ho amohela tlhahisoleseling efe ka COVID- 19?"
+
+#. type=text
+msgctxt "text"
+msgid "Thanks so much! We all want the best for our children as parents."
+msgstr "Ke lebohile ho menahane! Re le batswadi, kaofela ha rona re batle bana ba rona se molemo ka ho fetisisa."
+
+#. type=text
+msgctxt "text"
 msgid "Could you please choose the goal that is most important to you as a parent?"
 msgstr "Re kopa o kgethe ntho eo o batlang ho e finyella e molemo haholo ho wena jwaloka motswadi?"
 
@@ -5001,6 +5122,46 @@ msgid "Quick tip: Try to start a conversation with your child about safe and uns
 msgstr "Keletso e kgutshwanyane ke ena: Leka ho qala puisano le ngwana wa hao ka dibaka tse sireletsehileng le tse sa sireletsehang motseng wa heno le inthaneteng. Mohlomong ba tseba tse ding tseo o sa di tsebeng. Sena se tla le thusa ho hlophisa mmoho hore na le ka etsa jwang hore le dule le sireletsehile."
 
 #. type=text
+msgctxt "text"
+msgid "Quick Tip: All children develop and grow at different rates. Understanding how your child is developing can help you meet their needs and give them the best start in life. It will also help you understand your child better!"
+msgstr "Keletso e Kgutshwane: Bana bohle ba butswa le ho hola ka sekgahla se sa tshwaneng. Ho utlwisisa kamoo ngwana wa hao a holang kateng ho ka o thusa ho mo fa dintho tseo a di hlokang le qalong e molemo ka ho fetisisa bophelong. Hape e tla o thusa ho utlwisisa ngwana wa hao betere!"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about how to improve your relationship with your child?"
+msgstr "Na o ka thabela ho tseba haholo ka tsela ya ho ntlafatsa dikamano le ngwana wa hao?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about managing your child's behaviour?"
+msgstr "Na o ka thabela ho tseba haholo ka tsela ya ho laola boitshwaro ba ngwana wa hao?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like know more about how to help your child learn?"
+msgstr "Na o ka thabela ho tseba haholo mabapi le tsela ya ho thusa ngwana wa hao ho ithuta?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about how to reduce family stress?"
+msgstr "Na o ka thabela ho tseba haholo mabapi le tsela ya ho fokotsa seterese ka lapeng?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about how to keep your child safe?"
+msgstr "Na o ka thabela ho tseba haholo mabapi le ho tiisa hore ngwana wa hao o sireletsehile?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about child development?"
+msgstr "Na o ka thabela ho tseba haholo ka kgolo ya ngwana?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay! Remember that you can always get more information by typing \"Help\"."
+msgstr "O ska kgathatseha! Hopola hore kamehla o ka iphumanela dintlha tse ngata ka ho thaepa “Thuso”."
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Congratulations @fields.user_name! You have completed your first parenting tip. Setting Goals is the foundation to building a positive relationship between you and your children. Well done!"
@@ -5021,6 +5182,16 @@ msgstr "Rea o lebohela @fields.user_name! O ekeditse mokato wa pele wa Ntlo ya h
 msgctxt "text"
 msgid "Congratulations! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and your children. Well done!"
 msgstr "Rea o lebohela! O ekeditse mokato wa pele wa Ntlo ya hao ya Tshehetso!  Ho Ipehela Dintho Tseo o Batlang ho di Finyella ke motheo wa kamano e mofuthu pakeng tsa hao le bana ba hao. Mosebetsi o tswileng matsoho!"
+
+#. type=text
+msgctxt "text"
+msgid "Thanks so much for a great chat session! Over the next few weeks, you will receive messages to help you manage stress and maintain positive relationships at home. We are really happy you signed up for these tips. Chat later!"
+msgstr "Ke lebohile ho menahane  ka lenaneo lena la moqoqo o monate! Dibekeng tse mmalwa tse tlang, o tla amohela melaetsa e tla o thusa ho laola seterese le ho baballa dikamano tse ntle le ba lelapa. Kannete re thabile haele mona o saenetse ho amohela dikeletso tsena. A re bue hamorao!"
+
+#. type=text
+msgctxt "text"
+msgid "Thanks so much for a great chat session! Over the next few weeks, you will receive messages to help you manage stress and maintain positive relationships at home. I am really happy you signed up for these tips. Chat later!"
+msgstr "Ke lebohile ho menahane  ka lenaneo lena la moqoqo o monate! Dibekeng tse mmalwa tse tlang, o tla amohela melaetsa e tla o thusa ho laola seterese le ho baballa dikamano tse ntle le ba lelapa. Kannete ke thabile haele mona o saenetse ho amohela dikeletso tsena. A re bue hamorao!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -5434,6 +5605,11 @@ msgstr "Ho lokile, kea leboha! Ke tla bua le wena hamorao!"
 
 #. type=text
 msgctxt "text"
+msgid "Would you like to change the language you are currently receiving messages in?"
+msgstr "Na o ka thabela ho fetola puo eo o amohelang melaetsa ka yona hona jwale?"
+
+#. type=text
+msgctxt "text"
 msgid "Which language would you like?"
 msgstr "O ka thabela puo efe?"
 
@@ -5494,13 +5670,45 @@ msgstr "Re kopa o re bolelle hle hore na ke hobaneng ha o batla ho kgaotsa ho am
 
 #. type=text
 msgctxt "text"
+msgid "Could you please tell me why you want to stop receiving these messages?"
+msgstr "Ke kopa o mpolelle hle hore na ke hobaneng ha o batla ho kgaotsa ho amohela melaetsa ena."
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to tell us a little bit more about your experience?"
+msgstr "Na o ka thabela ho re bolella haholwanyane mabapi le seo o etsahalletseng?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to tell me a little bit more about your experience?"
+msgstr "Na o ka thabela ho mpolella haholwanyane mabapi le seo o etsahalletseng?"
+
+#. type=text
+msgctxt "text"
 msgid "Thank you so much for participating in the programme! If you want to return to the programme, type \"START_MESSAGES\". "
 msgstr "Re leboha haholo ka hore o nke karolo lenaneong lena! Haeba o tla ke o batle ho kgutlela lenaneo lena, thaepa “START_MESSAGES”. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your name or nickname is @fields.user_name."
+msgstr "Lebitso kapa lebitso la hao la boswaswi ke @fields.user_name."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "The name or nickname of your child is @fields.child_nickname."
+msgstr "Lebitso kapa lebitso la boswaswi la ngwana wa hao ke @fields.child_nickname."
 
 #. type=text
 msgctxt "text"
 msgid "What would you like to update?"
 msgstr "O ka thabela ho ntjhafatsa eng?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update any other information?"
+msgstr "Na o ka thabela ho ntjhafatsa tlhahisoleseling efe kapa efe e nngwe?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -5662,6 +5870,11 @@ msgstr "Na o kgonne ho qala molao o le MONG kapa mokgwa wa letsatsi le letsatsi 
 
 #. type=text
 msgctxt "text"
+msgid "Did you manage to establish ONE rule or daily routine together with your child or teen?"
+msgstr "Na o kgonne ho qala molao o le MONG kapa mokgwa wa letsatsi le letsatsi mmoho le ngwana kapa motjha wa hao?"
+
+#. type=text
+msgctxt "text"
 msgid "Great to hear it this! Remember, the more we involve our children in setting rules, the more our children will be likely to follow them!"
 msgstr "Ke thabela ho utlwa ditaba tseo! Hopola hore ha re kenyelletsa bana ba rona haholo ha ho etswa melao, ho na le menyetla e mengata ya hore bana ba rona ba e latele!"
 
@@ -5697,16 +5910,31 @@ msgid "Sorry you did not manage to do this yet. Sit down with @fields.child_nick
 msgstr "Re maswabi hore ebe ha o eso kgone ho etsa sena. Dula fatshe le @fields.child_nickname mme o leke hape kajeno - ho kenyelletsa bana ho tla etsa hore ba batle ho latela molao haholo! "
 
 #. type=text
+msgctxt "text"
+msgid "Sorry you did not manage to do this yet. Sit down with your child or teen and try again today - involving your children will make them want to follow the rule more often! "
+msgstr "Re maswabi hore ebe ha o eso kgone ho etsa sena. Dula fatshe le ngwana kapa motjha wa hao mme o leke hape kajeno - ho kenyelletsa bana ba hao ho tla etsa hore ba batle ho latela molao hangata haholo! "
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "What was difficult for you about establishing a rule or routine with @fields.child_nickname?"
 msgstr "Ke eng e o thatafalletseng ka ho etsa molao kapa mokgwa oo le o latelang le @fields.child_nickname?"
 
 #. type=text
+msgctxt "text"
+msgid "What was difficult for you about establishing a rule or routine with your child or teen?"
+msgstr "Ke eng e o thatafalletseng ka ho etsa molao kapa mokgwa oo le o latelang le ngwana kapa motjha wa hao?"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Amazing! Consistent rules and routines help make @fields.child_nickname feel secure. They also keep them safe!"
 msgstr "Ke ditaba tse monate! Melao le mekgwa e sa fetofetoheng e thusa @fields.child_nickname hore a ikutlwe a sireletsehile. Hape e etsa hore ba ikutlwe ba sireletsehile!"
+
+#. type=text
+msgctxt "text"
+msgid "Amazing! Consistent rules and routines help make your child or teen feel secure. They also keep them safe!"
+msgstr "Ke ditaba tse monate! Melao le mekgwa e sa fetofetoheng e thusa ngwana kapa motjha hore a ikutlwe a sireletsehile. Hape e etsa hore ba ikutlwe ba sireletsehile!"
 
 #. type=text
 msgctxt "text"
@@ -5900,6 +6128,11 @@ msgstr "Iphe Hak e Mofuthu"
 
 #. type=text
 msgctxt "text"
+msgid "Bella mama, bella mama hey. "
+msgstr "Bella mama, bella mama hey. "
+
+#. type=text
+msgctxt "text"
 msgid "Hey there! How are you feeling today? Do you feel great?!"
 msgstr "Dumelang bo! Le ikutlwa jwang kajeno? Na le ikutlwa le le shapo?!"
 
@@ -5912,6 +6145,11 @@ msgstr "Mohlomong ha ho jwalo. Mohlomong le ile la omanya bana ba lona hape kaje
 msgctxt "text"
 msgid "Take a deep breath and think of one thing you did today that you do feel proud of. It doesn't have to be big. And wrap your arms around your body and give yourself a hug. And now think of one thing you did today that you don't feel proud of. What can you do differently tomorrow? And wrap your arms around your body and give yourself a hug. "
 msgstr "Phefumolohela hodimo mme o nahane ka ntho e le nngwe eo o e entseng eo o leng motlotlo ka yona. Ha ho hlokahale hore ebe ntho e kgolo. Kopa mmele wa hao ka diphaka tsa hao mme o iphe hak e kgolo. Nahana ka ntho e le nngwe eo o e entseng eo o leng motlotlo ka yona. O ka etsa eng ka tsela e fapaneng hoseng? Kopa mmele wa hao ka diphaka tsa hao mme o iphe hak e kgolo. "
+
+#. type=text
+msgctxt "text"
+msgid "Bella mama, bella mama, bella mama, bella mama, bella mama, bella mama hey”."
+msgstr "Bella mama, bella mama, bella mama, bella mama, bella mama, bella mama hey”."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
@@ -7665,6 +7903,16 @@ msgstr " Motswadi: “E re ke o bolelle nnete feela, ha ke tsebe hantle. Ho ka b
 
 #. type=text
 msgctxt "text"
+msgid "WHO: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+msgstr "WHO: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"
+
+#. type=text
+msgctxt "text"
+msgid "UNICEF: https://www.unicef.org/coronavirus/covid-19 "
+msgstr "UNICEF: https://www.unicef.org/coronavirus/covid-19 "
+
+#. type=text
+msgctxt "text"
 msgid "Please select another number if you want to learn more about how to talk about COVID-19 with your children:"
 msgstr "Ka kopo kgetha palo e nngwe haeba o batla ho ithuta haholwanyane ka tsela ya ho buisana le ngwana wa hao ka COVID-19:"
 
@@ -7793,6 +8041,16 @@ msgstr "O ska kgathatseha! Ka dinako tsohle o ka thaepa “Thuso” haeba o batl
 msgctxt "text"
 msgid "All children develop at different rates. But there are some things that we expect children to be able to do at an age. These are called ‘development’ milestones."
 msgstr "Bana bohle ba hola ka sekgahla se sa tshwaneng. Empa ho na le dintho tse itseng tseo re lebellang hore bana ba kgone ho di etsa ha ba le dilemo tse itseng. Tsena ke dinako tsa bohlokwa ‘kgolong’."
+
+#. type=text
+msgctxt "text"
+msgid "If you are concerned that your child might be delayed in their development, here is a link to services in your area that may also be helpful:"
+msgstr "Haeba o kgathatsehile hore mohlomong ngwana wa hao a ka diehiswa kgolong ya hae, ena ke linki ya ditshebeletso tsa sebakeng sa heno e ka nnang ya eba molemo:"
+
+#. type=text
+msgctxt "text"
+msgid "You can also visit UNICEF's website for more helpful information about child development:"
+msgstr "Hape o ka kena webosaeteng ya UNICEF hore o fumana tlhahisoleseling e eketsehileng e molemo e amanang le kgolo ya ngwana:"
 
 #. type=text
 msgctxt "text"
@@ -8224,6 +8482,11 @@ msgstr "O ska kgathatseha! Ka dinako tsohle o ka thaepa “Thuso” haeba o batl
 
 #. type=text
 msgctxt "text"
+msgid "Here is a link to disability services in your area that may also be helpful:"
+msgstr "Ena ke linki ya ditshebeletso tsa batho ba holofetseng sebakeng sa heno tseo le tsona di ka thusang:"
+
+#. type=text
+msgctxt "text"
 msgid "Here are 6 simple tips that you can do to support children living with disabilities: "
 msgstr "Bona dikeletso tsena tse bonolo tse 6 tsa seo o ka se etsang ho tshehetsa bana ba holofetseng: "
 
@@ -8369,8 +8632,18 @@ msgstr "Ngwana ya holofetseng: \"Ke kopa o nthuse ho ya dijong tsa tinare?\""
 
 #. type=text
 msgctxt "text"
+msgid "(5)"
+msgstr "(5)"
+
+#. type=text
+msgctxt "text"
 msgid "Parent: \"Thank you for asking. Let's go together. You are so strong!\""
 msgstr "Motswadi: “Kea leboha hore ebe o kopile. A re tsamaye hammoho. O matla hakaakang!”"
+
+#. type=text
+msgctxt "text"
+msgid "(6)"
+msgstr "(6)"
 
 #. type=text
 msgctxt "text"
@@ -9207,6 +9480,17 @@ msgid "5. Take a break!"
 msgstr "5. Nka kgefu!"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe place and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes. "
+msgstr "Haeba o halefiswa ke hore ebe @fields.child_nickname ha a thole, ha ho phoso ho mo siya a kakaletse sebakeng se sireletsehileng ebe o tloha pela hae hanyane. Dula haufi le yena e le hore o mo behe boemo leihlo @fields.child_nickname. Mo hlahlobe @fields.child_nickname ka metsotso e meng e le e meng e 5-10. "
+
+#. type=text
+msgctxt "text"
+msgid "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe place and walk away for a bit. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes. "
+msgstr "Haeba o halefiswa ke hore ebe lesea la hao ha le thole, ha ho phoso ho le siya le kakaletse sebakeng se sireletsehileng ebe o tloha pela lona hanyane. Dula haufi le lesea la hao e le hore o ka le beha leihlo. Sheba hore na lesea la hao le ntse le ya jwang kamora metsotso e meng le e meng e 5-10. "
+
+#. type=text
 msgctxt "text"
 msgid "We know that this is not easy. You are not a bad father if your baby continues to cry after you have done all you can to calm them. You are doing your best!"
 msgstr "Rea tseba hore sena hase bonolo. Hase hore o ntate e mobe haeba lesea la hao le tswela pele ho lla kamora ho etsa sohle seo o ka se kgonang ho le thodisa. O etsa sohle se matleng a hao!"
@@ -9647,6 +9931,11 @@ msgstr "Ngwana: “Ha ke batle ho hleka dijana. Ke batla ho bapala ka koloi ya k
 
 #. type=text
 msgctxt "text"
+msgid "Parent 1: \"The household rule is that you have to help clean up after dinner before you can play with your toys.\""
+msgstr "Motswadi wa 1: “Molao wa lapeng mona ke hore o tlameha ho hlwekisa kamora tinare pele o ka ya bapala ka dithoye tsa hao.”"
+
+#. type=text
+msgctxt "text"
 msgid "Child: \"But it is not fair! Sam doesn't have to clean up after dinner!\""
 msgstr "Ngwana: “Empa hase hantle! Hore ebe Sam yena ha a hlwekise kamora tinare!”"
 
@@ -9687,8 +9976,18 @@ msgstr "Motswadi wa 1: “O ka bapala ka koloi ya hao hosane. Hona jwale ke nako
 
 #. type=text
 msgctxt "text"
+msgid "(7)"
+msgstr "(7)"
+
+#. type=text
+msgctxt "text"
 msgid "Parent 1: \"Once upon a time...\""
 msgstr "Motswadi wa 1: “Ba re enere...\""
+
+#. type=text
+msgctxt "text"
+msgid "(8)"
+msgstr "(8)"
 
 #. type=text
 msgctxt "text"
@@ -9864,6 +10163,237 @@ msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse mokato wa Ntl
 msgctxt "text"
 msgid "Well done! You have added a layer to your House of Support. Over the next few days, try to identify one negative attention-seeking behaviour that you can try to first redirect and then ignore if it continues. Remember to ignore the behaviour, not your child! It is not easy, but if you are patient and give it time, it really works. You can do this!"
 msgstr "Mosebetsi o tswileng matsoho! O ekeditse mokato wa Ntlo ya Tshehetso. Matsatsing a mmalwa a tlang, leka ho hlwaya boitshwaro bo le bong bo fosahetseng ba ho batla hlokomelo boo o ka lekang ho qala ka bona ho bo faposa ebe o iphapanyetsa bona ha bo ntse bo tswela pele. Hopola ho iphapanyetsa boitshwaro eseng ngwana wa hao. Ha ho bonolo, empa haeba o na le mamello mme wa e fa nako, kannete e a sebetsa. O ka atleha!"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like some tips on coping with COVID-19 bereavement?"
+msgstr "Na o ka rata ho fumana dikeletso tsa ho sebetsana le ho siamela motho ya bolailweng ke COVID- 19? "
+
+#. type=text
+msgctxt "text"
+msgid "That's okay! You can always type \"Help\" if you want to learn more about how to cope with COVID-19 related loss."
+msgstr "O ska kgathatseha! Ka dinako tsohle o ka thaepa “Thuso” haeba o batla ho ithuta haholwanyane ka tsela ya ho sebetsana le ha motho eo o mo ratang a bolailwe ke COVID-19."
+
+#. type=text
+msgctxt "text"
+msgid "If you have any further questions about COVID-19, you can always check your local COVID-19 hotline:"
+msgstr "Haeba o na le dipotso dife kapa dife tse ding ka COVID- 19, kamehla o ka letsetsa hotline ya sebaka sa heno ya COVID- 19:"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 10 tips for coping with bereavement as a parent/caregiver:"
+msgstr "Mona ho na le dikeletso tse 10 tsa ho sebetsana le ho hlokahallwa ke motswadi/mohlokomedi:"
+
+#. type=text
+msgctxt "text"
+msgid "1. Looking after yourself helps your child"
+msgstr "1. Ho itlhokomela ho thusa ngwana wa hao"
+
+#. type=text
+msgctxt "text"
+msgid "2. Be honest and tell your children"
+msgstr "2. Bua nnete mme o bolelle bana ba hao"
+
+#. type=text
+msgctxt "text"
+msgid "3. Children grieve in different ways "
+msgstr "3. Bana ba siama ka ditsela tse sa tshwaneng "
+
+#. type=text
+msgctxt "text"
+msgid "4. Be kind to yourself"
+msgstr "4. Inahanela"
+
+#. type=text
+msgctxt "text"
+msgid "5. Practical things you may need"
+msgstr "5. Dintho tse molemo tseo mohlomong o di hlokang"
+
+#. type=text
+msgctxt "text"
+msgid "6. Find a group or person to talk to"
+msgstr "6. Fumana sehlopha kapa motho eo o ka buang le yena"
+
+#. type=text
+msgctxt "text"
+msgid "7. Grieving in your own way"
+msgstr "7. Ho siama ka tsela ya hao"
+
+#. type=text
+msgctxt "text"
+msgid "8. Relaxing helps coping"
+msgstr "8. Ho phomola ho o thusa ho sebetsana le boemo"
+
+#. type=text
+msgctxt "text"
+msgid "9. Giving chances to say goodbye"
+msgstr "9. Ho fana ka monyetla wa ho fonanisa"
+
+#. type=text
+msgctxt "text"
+msgid "10. One on one time with your child"
+msgstr "10.  Nako eo o e qetang le ngwana wa hao boinotsing"
+
+#. type=text
+msgctxt "text"
+msgid "Type \"1\" to \"10\" to learn more about  of these tips. Type \"N\" to stop this tip."
+msgstr "Thaepa “1” ho ya ho “10” hore o ithute haholwanyane ka dikeletso tsena. Thaepa “N” ho emisa keletso ena."
+
+#. type=text
+msgctxt "text"
+msgid "You should tell your children that the person had died - sometimes children do not realise when someone has passed away. When you tell them use words they understand."
+msgstr "O lokela ho bolella bana ba hao hore motho o hlokahetse - ka dinako tse ding bana ha ba elellwe ha motho a hlokahetse. Ha o ba bolella sebedisa mantswe ao ba tla a utlwisisa."
+
+#. type=text
+msgctxt "text"
+msgid "3. Children grieve in different ways"
+msgstr "3. Bana ba siama ka ditsela tse sa tshwaneng"
+
+#. type=text
+msgctxt "text"
+msgid "Grief can affect us for weeks, months, or years. Do not feel pressured to feel better quickly. "
+msgstr "Ho siama ho ka ama motho ka dibeke, dikgwedi kapa dilemo. O se ke wa ikutlwa o hateletswe hore bohloko bo tlameha ho bohla kapele. "
+
+#. type=text
+msgctxt "text"
+msgid "Children, like adults, experience grief in different ways. Children might be sad, angry, not understand or believe it, feel numb, unwell or have pains, nightmares, or problems at school. Children may also seem happy, but still be sad. Children may behave if they are much younger than they are for a while."
+msgstr "Jwaloka batho ba baholo, bana le bona ba siama ka ditsela tse sa tshwaneng. Bana ba ka nna ba utlwa bohloko, ba halefa, ba se utlwisise kapa ho dumela, ba ikutlwa ba le bodutu, ba sa phuthuloha, kapa ba ba le mahlaba, ba lora hampe, kapa ba ba le mathata sekolong. Bana le bona ba ntse ba ka bonahala ba thabile, empa ba ntse ba hloname. Bana ba ka itshwara hantle haeba ba qeta nako e itseng ba le banyane ho feta kamoo ba leng kateng."
+
+#. type=text
+msgctxt "text"
+msgid "Although it may seem like the most important thing is to make sure your children are okay, when you look after yourself, you are also helping your child."
+msgstr "Le hoja ho ka bonahala eka ntho ya bohlokwa ka ho fetisisa ke ho tiisa hore bana ha baa ameha hampe, ha o itlhokomela, bonneteng o hlokomela bana ba hao."
+
+#. type=text
+msgctxt "text"
+msgid "Remember to be kind to yourself, you are also dealing with the loss of a loved one. It is okay to not feel good and it is okay to cry. Try taking some time out of each day for yourself and making a list of things that make you feel better and do them. These small acts can help and make sure that you are being kind to yourself."
+msgstr "Hopola ho inahanela, le wena o ntse o sebetsana le ho hlokahallwa ke moratuwa wa hao. Ho se ikutlwe hantle hase phoso ebile ho lla ha ho phoso. Ho qeta nako e itseng letsatsi ka leng o amehile ka wena le ho etsa letoto la dintho tse etsang hore o ikutlwe betere le ho di etsa. Diketso tsena tse nyane di ka thusa haholo kahoo o tiise hore o a iqenehela."
+
+#. type=text
+msgctxt "text"
+msgid "Ask someone you trust for help, food or childcare can be useful. You may also need documents for inheritance, for children, or to access services. Make sure you find out about your rights, sometimes people try to take money or inheritance from a grieving person."
+msgstr "Ho kopa thuso, dijo kapa tlhokomelo ya ngwana ho motho eo o mo tshepang ho ka o thusa.  Hape o ka nna wa hloka ditokomane tsa lefa, bakeng sa bana, kapa hore o fumane ditshebeletso. Tiisa hore o ithuta haholwanyane ka ditokelo tsa hao, ka dinako tse ding batho ba leka ho amoha batho ba siameng tjhelete kapa lefa la bona."
+
+#. type=text
+msgctxt "text"
+msgid "If they do not understand what death is, help explain that the person they love is not coming back. Try not call it 'sleep' or 'a trip away'. You may have to tell your children about the passing many times before they grasp what happened."
+msgstr "Haeba ba sa utlwisise hore na lefu ke eng, ba thusa ka ho ba hlalosetsa hore moratuwa wa bona a ke ke a kgutla. Leka ho se le bitse ‘boroko’ kapa ‘ho nka leeto’. O ka nna wa tlameha ho bolella bana ba hao ka lefu ka makgetlo a mangata pele ba utlwisisa se etsahetseng."
+
+#. type=text
+msgctxt "text"
+msgid "Here are three steps that you can aim to do every day to look after yourself: "
+msgstr "Ho na le mehato e meraro eo o ka ikemisetsang ho e nka letsatsi le letsatsi hore o itlhokomele: "
+
+#. type=text
+msgctxt "text"
+msgid "1. Get enough sleep and food every day. "
+msgstr "1. Phomola ka ho lekaneng mme o je dijo letsatsi le letsatsi. "
+
+#. type=text
+msgctxt "text"
+msgid "2. Take a few minutes to relax and have a break"
+msgstr "2. Qeta metsotso ese mekae o phomotse mme o kgefutse"
+
+#. type=text
+msgctxt "text"
+msgid "3. Find one or two adults who can support you, listen, and talk. "
+msgstr "3. Fumana motho a moholo a le mong kapa ba babedi ba ka o tshehetsang, ba o mamela le ho bua le wena. "
+
+#. type=text
+msgctxt "text"
+msgid "9. Giving changes to say goodbye"
+msgstr "9. Ho etsa diphetoho ho mo fonanisa."
+
+#. type=text
+msgctxt "text"
+msgid "Saying goodbye is difficult and you should do whatever feels like the right thing to do for you and your child. Families, children and parents are not perfect. When someone has died, it is okay to talk about the good and the bad things we remember. It can help to write a letter or make a drawing of the person that passed away."
+msgstr "Ho mo fonanisa ho thata empa o lokela ho etsa eng kapa eng eo o utlwang eka ke ntho e nepahetseng ho ka e etsa bakeng sa hao le ngwana wa hao. Malapa, bana le batswadi ha baa phethahala. Ha motho a shwa, ho lokile ho buisana ka dintho tse ntle le tse mpe tseo le di hopolang. Seo se ka thusa motho ho ngola lengolo kapa ho toroya motho ya shweleng."
+
+#. type=text
+msgctxt "text"
+msgid "These reactions may not make sense to you, but they are all normal. Children may also feel like it was their fault - that they passed on the virus or that they behaved badly. Tell them clearly that they did nothing wrong."
+msgstr "Diketso tsena e ka nna ya eba tse sa utlwahaleng ho wena, empa kaofela ke dintho tse tlwaelehileng. Bana ba kanna ba nahana hore ke phoso ya bona - hore ba tshwaeditse motho eo vaerase kapa ha baa itshwara hantle. Ba bolella ka ho hlakileng hore ho hang ha baa etsa phoso."
+
+#. type=text
+msgctxt "text"
+msgid "Children can respond in many different ways (e.g. crying, shouting, not believing, going very quiet), and all reactions are okay. Allow your child to ask questions and to talk about it. Most importantly, remind them that you are there for them."
+msgstr "Bana ba ka etsa dintho tse ngata tse sa tshwaneng (ka mohlala, ho lla, ho se dumele, ho thola haholo), ebile kaofela ke diketso tse nepahetseng. Tlhohella ngwana wa hao hore a botse dipotso le ho bua ka taba. Ntho ya bohlokwa le ho feta, mo hopotse hore o tla wa o tsoha le yena."
+
+#. type=text
+msgctxt "text"
+msgid "If there is a support group that your child can be part of, this can help. If your child talks about wanting to hurt or kill themselves, ask for help as soon as you can."
+msgstr "Haeba ho na le sehlopha se tshehetsang seo ngwana wa hao a ka se kenelang, seo se ka mo thusa. Haeba ngwana wa hao a re o batla ho itematsa kapa ho ipolaya, kopa thuso kapele kamoo ho ka kgonehang."
+
+#. type=text
+msgctxt "text"
+msgid "Some people hold a ceremony or have a special meal to celebrate the person and say goodbye. Others make a box of memories, to put things that remind them of the person. It can also help just to talk about the person when you think about them."
+msgstr "Batho ba bang ba tshwara mokete kapa ba ja dijo tse kgethehileng ho keteka bophelo ba motho le ho mo fonanisa. Ba bang ba etsa lebokola la dikgopotso, leo ba tshelang dintho tseo ba ikgopotsang motho ka tsona. Hape ho ka thusa ho bua ka motho ha o nahana ka yena."
+
+#. type=text
+msgctxt "text"
+msgid "Talking with someone who can support you and listen to you can help. It can also help to join a group of people who have also lost someone. Remember nobody is perfect. It is okay to talk about the good and the bad times. "
+msgstr "Ho bua le motho ya ka o tshehetsang le ho o mamela ho ka o thusa. Ntho e nngwe e ka o thusang ke ho ikopanya le sehlopha sa batho ba hlokahalletsweng. Hopola hore ha ho na motho ya phethahetseng. Ho lokile ho buisana ka dinako tse monate le tse bohloko. "
+
+#. type=text
+msgctxt "text"
+msgid "We all grieve in our own ways, from shouting, crying, feeling angry or sad. It can also feel different every day. Sometimes we feel better, then we feel worse again. Whatever you feel, your feelings are valid and it is okay. "
+msgstr "Kaofela re siama ka ditsela tsa rona, ho tloha ho tleroheng, ho lleng, ho ikutlwa re halefile kapa ho utlwa bohloko. Hape o ka ikutlwa ka tsela e sa tshwaneng letsatsi le letsatsi. Ka dinako tse ding re ikutlwa re le betere, athe ka dinako tse ding ho boetse ho boima. Ho sa natswe hore na o ikutlwa jwang, maikutlo a hao aa utlwahala ebile a nepahetse. "
+
+#. type=text
+msgctxt "text"
+msgid "Try to do one simple thing to relax each day with your child or teenage, and also for yourself. It can also help to use this when you are upset or angry."
+msgstr "Letsatsi ka leng leka ho etsa ntho e ka o kgathollang hammoho le ngwana kapa motjha wa hao, hape le bakeng sa hao. Hape ho ka ba molemo ho sebedisa tsela ena ha o ikutlwa o kwatileng kapa o halefile."
+
+#. type=text
+msgctxt "text"
+msgid "It can help to take part in any mourning or cultural rituals that feel helpful, or to think about bonds and connections with the person you have lost."
+msgstr "Hape o ka thuswa ke ho nka karolo moetlong ofe kapa ofe wa ho siama kapa wa setso oo o utlwang eka o a thusa, kapa ho nahana ka maqhama le dikamano le motho ya hlokahetseng."
+
+#. type=text
+msgctxt "text"
+msgid "Sit down comfortably, close your eyes"
+msgstr "Dula o iketlile, o kwale mahlo"
+
+#. type=text
+msgctxt "text"
+msgid "Listen to your breath as it goes in and out for a minute"
+msgstr "Ka motsotso imamele ha o phefumuloha mme moya o kena le ha o tswa."
+
+#. type=text
+msgctxt "text"
+msgid "When you are ready, open your eyes."
+msgstr "Ha o se o lokile, bula mahlo hape."
+
+#. type=text
+msgctxt "text"
+msgid "Spending a few minutes every day focused on your child helps to make them feel more secure and give them a chance to play or talk about things that are upsetting them. "
+msgstr "Ho qeta metsotso e se mekae letsatsi le letsatsi o amehile ka ngwana wa hao ho mo thusa hore a ikutlwa a sireletsehile ebile ho mo fa monyetla wa ho bapala kapa ho bua ka dintho tseo mo utlwisang bohloko. "
+
+#. type=text
+msgctxt "text"
+msgid "Please select another number if you want to learn more about how to cope with bereavement as a parent/caregiver:"
+msgstr "Ka kopo kgetha palo e nngwe haeba o batla ho ithuta haholwanyane ka tsela ya ho sebetsana le ho siama jwaloka motswadi/mohlokomedi:"
+
+#. type=text
+msgctxt "text"
+msgid "A lot of families are dealing with grief due to COVID-19. We are here to support you and your family through this difficult time."
+msgstr "Malapa a mangata a sebetsana le bohloko ba ho shwelwa ka lebaka la COVID-19. Re tla o tshehetsa le ho tshehetsa lelapa la hao nakong ena e thata."
+
+#. type=text
+msgctxt "text"
+msgid "A lot of families are dealing with grief due to COVID-19. I am here to support you and your family through this difficult time."
+msgstr "Malapa a mangata a sebetsana le bohloko ba ho shwelwa ka lebaka la COVID-19. Ke tla o tshehetsa le ho tshehetsa lelapa la hao nakong ena e thata."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done @fields.user_name! You should be proud of yourself for exploring ways to get help for you and your family."
+msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O tlameha ho ikotla sefuba ka ho fuputsa ditsela tse ka thusang wena le ba lelapa la hao."
+
+#. type=text
+msgctxt "text"
+msgid "Well done! You should be proud of yourself for exploring ways to get help for you and your family."
+msgstr "Mosebetsi o tswileng matsoho! O tlameha ho ikotla sefuba ka ho fuputsa ditsela tse ka thusang wena le ba lelapa la hao."
 
 #. type=text
 msgctxt "text"
@@ -10174,6 +10704,28 @@ msgid "• Thank your teen for being open and trusting you"
 msgstr "• Leboha motjha wa hao hobane a o phetlela sefuba mme a o tshepa"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done @fields.user_name! You have added another skill to your Parenting Toolkit. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi: Nakong e tlang ha motjha wa hao a tobane le bothata, leka ho dula o kgobile matshwafo mme le sebetsane le bothata mmoho. Ho thusa motjha wa hao ho ithuta ho rarolla mathata ho tla mo tswela molemo bophelong bohle ba hae. Ke mopho e babatsehang!"
+
+#. type=text
+msgctxt "text"
+msgid "Well done! You have added another skill to your Parenting Toolkit. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+msgstr "Mosebetsi o tswileng matsoho! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi: Nakong e tlang ha motjha wa hao a tobane le bothata, leka ho dula o kgobile matshwafo mme le sebetsane le bothata mmoho. Ho thusa motjha wa hao ho ithuta ho rarolla mathata ho tla mo tswela molemo bophelong bohle ba hae. Ke mopho e babatsehang!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done @fields.user_name! You have added another layer to your House of Support. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse mokato o mong wa Ntlo ya Tshehetso. Nakong e tlang ha motjha wa hao a tobane le bothata, leka ho dula o kgobile matshwafo mme le sebetsane le bothata mmoho. Ho thusa motjha wa hao ho ithuta ho rarolla mathata ho tla mo tswela molemo bophelong bohle ba hae. Ke mopho e babatsehang!"
+
+#. type=text
+msgctxt "text"
+msgid "Well done! You have added another layer to your House of Support. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+msgstr "Mosebetsi o tswileng matsoho! O ekeditse mokato o mong wa Ntlo ya Tshehetso. Nakong e tlang ha motjha wa hao a tobane le bothata, leka ho dula o kgobile matshwafo mme le sebetsane le bothata mmoho. Ho thusa motjha wa hao ho ithuta ho rarolla mathata ho tla mo tswela molemo bophelong bohle ba hae. Ke mopho e babatsehang!"
+
+#. type=text
 msgctxt "text"
 msgid "Which is most like your experience?"
 msgstr "Ke efe eo o utlwang eka o kile wa feta ho yona?"
@@ -10189,16 +10741,56 @@ msgid "Are your children currently going to school/daycare? "
 msgstr "Na hona jwale bana ba hao ba ya sekolong/keretjhe? "
 
 #. type=text
+msgctxt "text"
+msgid "Have you had money problems because of COVID-19 or pandemic restrictions?"
+msgstr "Na o bile le mathata a ditjhelete ka lebaka la COVID-19 kapa dithibelo tse amanang le sewa?"
+
+#. type=text
+msgctxt "text"
+msgid "Has someone in your family been sick for a long time with COVID-19?"
+msgstr "Na lelapeng la hao motho e mong o ile a kula ka nako e telele ka lebaka la COVID-19?"
+
+#. type=text
+msgctxt "text"
+msgid "Have you felt very worried, sad, or afraid because of COVID-19?"
+msgstr "Na o kile wa ikutlwa o tshwenyehile haholo, o halefile kapa o tshohile ka lebaka la COVID-19?"
+
+#. type=text
+msgctxt "text"
+msgid "It’s great to hear that you have been coping with COVID-19 related stress. We will remind you regularly to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm. "
+msgstr "Ke ditaba tse monate ho utlwa hore o kgonne ho sebetsana le mathata a amanang le COVID-19. Re tla dula re o hopotsa hore o phomole, o ikananele le ho iputsa, ho o thusa hore o tswele pele ho laola ho imelwa kelellong le hore o kgobe matshwafo. "
+
+#. type=text
+msgctxt "text"
+msgid "Has someone in your family passed away from COVID-19 or breathing problems?"
+msgstr "Na ho na le setho sa lelapa leno kapa la hao se hlokahetseng ka lebaka la COVID-19 kapa mathata a ho hema?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like some tips on coping with loss as a parent or caregiver?"
+msgstr "Na o ka thabela ho fumana dikeletso tsa ho sebetsana le ho shwelwa ke motswadi kapa mohlokomedi?"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Hi @fields.user_name! We are delighted that you have signed up for these messages. It shows that you care!"
 msgstr "Dumela @fields.user_name! Re thabela hore o saenetse melaetsa ena. Seo se bontsha hore o a tsotella!"
 
 #. type=text
+msgctxt "text"
+msgid "Can we ask you some questions about COVID-19 in your area?"
+msgstr "Na re ka o botsa dipotso tse itseng ka COVID-19 sebakeng sa heno?"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Hi @fields.user_name! I am delighted that you have signed up for these messages. It shows that you care!"
 msgstr "Dumela @fields.user_name! Ke thabela hore o saenetse melaetsa ena. Seo se bontsha hore o a tsotella!"
+
+#. type=text
+msgctxt "text"
+msgid "Can I ask you some questions about COVID-19 in your area?"
+msgstr "Na nka o botsa dipotso tse itseng ka COVID-19 sebakeng sa heno?"
 
 #. type=text
 msgctxt "text"
@@ -10209,6 +10801,86 @@ msgstr "Dumela! Re thabela hore o saenetse melaetsa ena. Seo se bontsha hore o a
 msgctxt "text"
 msgid "Hi! I am delighted that you have signed up for these messages. It shows that you care!"
 msgstr "Dumela! Ke thabela hore o saenetse melaetsa ena. Seo se bontsha hore o a tsotella!"
+
+#. type=text
+msgctxt "text"
+msgid "It is normal to feel overwhelmed or stressed about your children's education during this time. Remember that you are not alone and that we are here to help. Just type \"Help\" at anytime."
+msgstr "Ke ho tlwaelehileng ho ikutlwa imetswe kapa o kgathatsehile ka thuto ya bana ba hao nakong ye? Hopola hore ha o mong le hore re teng ho o thusa. Thaepa feela “Thuso” neng kapa neng."
+
+#. type=text
+msgctxt "text"
+msgid "It is normal to feel overwhelmed or stressed about your children's education during this time. Remember that you are not alone and that I am here to help. Just type \"Help\" at anytime."
+msgstr "Ke ho tlwaelehileng ho ikutlwa imetswe kapa o kgathatsehile ka thuto ya bana ba hao nakong ye? Hopola hore ha o mong le hore ke teng ho o thusa. Thaepa feela “Thuso” neng kapa neng."
+
+#. type=text
+msgctxt "text"
+msgid "We are sorry that you have been dealing with money problems due to COVID-19. "
+msgstr "Re maswabi hore o ile wa tobana le mathata a ditjhelete ka lebaka la COVID-19. "
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry that you have been dealing with money problems due to COVID-19. "
+msgstr "Ke maswabi hore o ile wa tobana le mathata a ditjhelete ka lebaka la COVID-19. "
+
+#. type=text
+msgctxt "text"
+msgid "We are happy to hear that. Because money is often a big issue you can also find family budgeting tips in the Help menu."
+msgstr "Re thabela ho utlwa seo. Kaha hangata tjhelete ke bothata bo boholo, o ka boela wa fumana dikeletso tsa ho bajeta tsa lelapa menyung wa Thuso."
+
+#. type=text
+msgctxt "text"
+msgid "I am happy to hear that. Because money is often a big issue you can also find family budgeting tips in the Help menu."
+msgstr "Ke thabela ho utlwa seo. Kaha hangata tjhelete ke bothata bo boholo, o ka boela wa fumana dikeletso tsa ho bajeta tsa lelapa menyung wa Thuso."
+
+#. type=text
+msgctxt "text"
+msgid "We are sorry that you have been struggling with a sick family member. Caring for someone with COVID-19 for so long is hard. Remember that caring for yourself is equally important and we will remind you regularly to relax, recognise and reward yourself. You deserve this."
+msgstr "Re maswabi hore ebe o hula ka thata ka lebaka la ho kula ha setho sa lelapa. Ho hlokomela motho ya tshwerweng ke COVID-19 ka nako e telele haholo ho thata. Hopola hore ho itlhokomela le hona ke habohlokwa ebile ebile re tla dula re o hopotsa ho phomola, ho ikananela le ho iputsa. O lokela ho phomola."
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry that you have been struggling with a sick family member. Caring for someone with COVID-19 for so long is hard. Remember that caring for yourself is equally important and we will remind you regularly to relax, recognise and reward yourself. You deserve this."
+msgstr "Ke maswabi hore ebe o hula ka thata ka lebaka la ho kula ha setho sa lelapa. Ho hlokomela motho ya tshwerweng ke COVID-19 ka nako e telele haholo ho thata. Hopola hore ho itlhokomela le hona ke habohlokwa ebile ebile re tla dula re o hopotsa ho phomola, ho ikananela le ho iputsa. O lokela ho phomola."
+
+#. type=text
+msgctxt "text"
+msgid "We are sorry that you have been struggling. COVID-19 makes almost everyone feel this way. You are not alone in this! You can always access some helpful activities about how to manage stress through the Help menu."
+msgstr "Re maswabi ho utlwa hore haesale o hula ka thata. COVID-19 e etsa hore bohle ba ikutlwe jwalo. Tseba hore ha o mong ntweng ena! Kamehla ho na le diketso tse molemo tseo o ka di fumanang tse ka o thusang ho sebetsana le kgatello ya maikutlo ho menyu ya Thuso."
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry that you have been struggling. COVID-19 makes almost everyone feel this way. You are not alone in this! You can always access some helpful activities about how to manage stress through the Help menu."
+msgstr "Ke maswabi ho utlwa hore haesale o hula ka thata. COVID-19 e etsa hore bohle ba ikutlwe jwalo. Tseba hore ha o mong ntweng ena! Kamehla ho na le diketso tse molemo tseo o ka di fumanang tse ka o thusang ho sebetsana le kgatello ya maikutlo ho menyu ya Thuso."
+
+#. type=text
+msgctxt "text"
+msgid "We are happy to hear that."
+msgstr "Re thabela ho utlwa seo."
+
+#. type=text
+msgctxt "text"
+msgid "I am happy to hear that."
+msgstr "Ke thabela ho utlwa seo."
+
+#. type=text
+msgctxt "text"
+msgid "We are so sorry for your loss. Thank you for chatting with us and for seeking help. Dealing with your own grief, whilst being a parent is difficult and you should be proud of yourself, we are very proud of you."
+msgstr "Re maswabi haholo ho utlwa hore o hlokahalletswe. Rea leboha hore o buisane le rona le ho kopa thuso. Ho sebetsana le ho siama, kamona botswadi le bona bo le thata, o lokela ho ikotla sefuba mme ruri rona re ikotla sefuba ka wena. "
+
+#. type=text
+msgctxt "text"
+msgid "I am so sorry for your loss. Thank you for chatting with me and for seeking help. Dealing with your own grief, whilst being a parent is difficult and you should be proud of yourself, I am very proud of you."
+msgstr "Ke maswabi haholo ho utlwa hore o hlokahalletswe. Kea leboha hore o buisane le nna le ho kopa thuso. Ho sebetsana le ho siama, kamona botswadi le bona bo le thata, o lokela ho ikotla sefuba mme ruri nna ke ikotla sefuba ka wena."
+
+#. type=text
+msgctxt "text"
+msgid "We are glad to hear that. If you know people who have lost someone, you can support them by sharing our bereavement tips which you can find in the Help menu."
+msgstr "Re thabela ho utlwa seo. Haeba o tseba batho ba hlokahaletsweng ke motho e mong, o ka ba tshehetsa ka ho ba fa dikeletso tsa ho siama tseo o ka di fumanang ho menyu ya Thuso."
+
+#. type=text
+msgctxt "text"
+msgid "I am glad to hear that. If you know people who have lost someone, you can support them by sharing the bereavement tips which you can find in the Help menu."
+msgstr "Ke thabela ho utlwa seo. Haeba o tseba batho ba hlokahaletsweng ke motho e mong, o ka ba tshehetsa ka ho ba fa dikeletso tsa ho siama tseo o ka di fumanang ho menyu ya Thuso."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -10314,18 +10986,18 @@ msgstr "Bua ka ntho e lokelang ho etswa. Ke ho tlwaelehileng ho batla ho bua ho 
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Well done @fields.user_name! You have added another skill to your Parenting Toolkit. Over the next few days, try redirecting your child from a negative behaviour to a positive one before it gets worse. You can do it!"
-msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi: Matsatsing a mmalwa a tlang, ha ngwana wa hao a sa itshware hantle leka ho kgutlisetsa khutlisetsa boitshwarong bo loketseng pele a fetella. O ka atleha!"
+msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi: Matsatsing a mmalwa a tlang, ha ngwana wa hao a sa itshware hantle leka ho kgutlisetsa khutlisetsa boitshwarong bo loketseng pele bo fetella. O ka atleha!"
 
 #. type=text
 msgctxt "text"
 msgid "Well done! You have added another skill to your Parenting Toolkit. Over the next few days, try redirecting your child from a negative behaviour to a positive one before it gets worse. You can do it!"
-msgstr "Mosebetsi o tswileng matsoho! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi: Matsatsing a mmalwa a tlang, ha ngwana wa hao a sa itshware hantle leka ho kgutlisetsa khutlisetsa boitshwarong bo loketseng pele a fetella. O ka atleha!"
+msgstr "Mosebetsi o tswileng matsoho! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi: Matsatsing a mmalwa a tlang, ha ngwana wa hao a sa itshware hantle leka ho kgutlisetsa khutlisetsa boitshwarong bo loketseng pele bo fetella. O ka atleha!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Well done @fields.user_name! You have added another layer to your House of Support. Over the next few days, try redirecting your child from a negative behaviour to a positive one before it gets worse. You can do it!"
-msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse mokato o mong wa Ntlo ya Tshehetso. Matsatsing a mmalwa a tlang, ha ngwana wa hao a sa itshware hantle leka ho kgutlisetsa khutlisetsa boitshwarong bo loketseng pele a fetella. O ka atleha!"
+msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse mokato o mong wa Ntlo ya Tshehetso. Matsatsing a mmalwa a tlang, ha ngwana wa hao a sa itshware hantle leka ho kgutlisetsa khutlisetsa boitshwarong bo loketseng pele bo fetella. O ka atleha!"
 
 #. type=text
 msgctxt "text"
@@ -10594,18 +11266,18 @@ msgstr "Ho kadimana ka dibuka ekaba thuluse e molemo ya ho ithuta bakeng sa ngwa
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Well done @fields.user_name! You have added another skill to your Parenting Toolkit! Over the next few days, try to spend some time reading or looking at a book or magazine with your child. Sharing books with your child will help them to learn to speak, think, and focus better. It also builds their brain!"
-msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi! Matsatsing a seng makae a tlang, leka ho qeta nako o bala kapa o shebile buka kapa makasine le ngwana wa hao. Ho kadimana dibuka le ngwana wa hao ho tla mo thusa ho ithuta ho bua, ho nahana le ho tsepamisa mohopolo hantle. Hape ho haha boko ba hae!"
+msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi! Matsatsing a seng makae a tlang, leka ho qeta nako o bala kapa o shebile buka kapa makasine le ngwana wa hao. Ho kadimana dibuka le ngwana wa hao ho tla mo thusa ho ithuta ho bua, ho nahana le ho tsepamisa mohopolo hantle. Hape ho hodisa boko ba hae!"
 
 #. type=text
 msgctxt "text"
 msgid "Well done! You have added another skill to your Parenting Toolkit! Over the next few days, try to spend some time reading or looking at a book or magazine with your child. Sharing books with your child will help them to learn to speak, think, and focus better. It also builds their brain!"
-msgstr "Mosebetsi o tswileng matsoho! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi! Matsatsing a seng makae a tlang, leka ho qeta nako o bala kapa o shebile buka kapa makasine le ngwana wa hao. Ho kadimana dibuka le ngwana wa hao ho tla mo thusa ho ithuta ho bua, ho nahana le ho tsepamisa mohopolo hantle. Hape ho haha boko ba hae!"
+msgstr "Mosebetsi o tswileng matsoho! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi! Matsatsing a seng makae a tlang, leka ho qeta nako o bala kapa o shebile buka kapa makasine le ngwana wa hao. Ho kadimana dibuka le ngwana wa hao ho tla mo thusa ho ithuta ho bua, ho nahana le ho tsepamisa mohopolo hantle. Hape ho hodisa boko ba hae!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Well done @fields.user_name! You have added another layer to your House of Support! Over the next few days, try to spend some time reading or looking at a book or magazine with your child. Sharing books with your child will help them to learn to speak, think, and focus better. It also builds their brain!"
-msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse mokato o mong Ntlong ya hao ya Tshehetso! Matsatsing a seng makae a tlang, leka ho qeta nako o bala kapa o shebile buka kapa makasine le ngwana wa hao. Ho kadimana dibuka le ngwana wa hao ho tla mo thusa ho ithuta ho bua, ho nahana le ho tsepamisa mohopolo hantle. Hape ho haha boko ba hae!"
+msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse mokato o mong Ntlong ya hao ya Tshehetso! Matsatsing a seng makae a tlang, leka ho qeta nako o bala kapa o shebile buka kapa makasine le ngwana wa hao. Ho kadimana dibuka le ngwana wa hao ho tla mo thusa ho ithuta ho bua, ho nahana le ho tsepamisa mohopolo hantle. Hape ho hodisa boko ba hae!"
 
 #. type=text
 msgctxt "text"
@@ -10901,6 +11573,11 @@ msgstr "3. Eba le dinako tse tsitsitseng tsa kamehla tsa ho ja le ho robala"
 
 #. type=text
 msgctxt "text"
+msgid "4. Involve your child in creating daily routines"
+msgstr "4. Kenyelletsa ngwana wa hao ha o etsa mananeo a dintho tseo le di etsang letsatsi le letsatsi"
+
+#. type=text
+msgctxt "text"
 msgid "To learn more about one of these tips, type \"1\" to 4\". You can also type \"N\" to stop this tip."
 msgstr "Hore o ithute haholwanyane ka dikeletso tsena, thaepa “1” ho ya ho “4”. Hape o ka thaepa “N” ho emisa keletso ena."
 
@@ -11032,6 +11709,17 @@ msgstr "Motswadi: “Kea leboha ka hore o nthuse hakaalo ka bana kajeno.” "
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "4. Involve @fields.child_nickname in creating daily plans. Set goals and rewards together. Let them plan when they do schoolwork and when they can relax!"
+msgstr "4. Kenyelletsa @fields.child_nickname ha o qala etsa meralo ya letsatsi le letsatsi. Behang dipakane le meputso mmoho. Ba tlohele hore ba etse moralo wa hore na ba tla etsa mosebetsi wa sekolo neng hona ba phomole neng!"
+
+#. type=text
+msgctxt "text"
+msgid "4. Involve your child in creating daily plans. Set goals and rewards together. Let them plan when they do schoolwork and when they can relax!"
+msgstr "4. Kenyelletsa ngwanawa hao ha o etsa ditlhophiso tsa letsatsi le letsatsi Behang dipakane le meputso mmoho. Ba tlohele hore ba etse moralo wa hore na ba tla etsa mosebetsi wa sekolo neng hona ba phomole neng!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "Well done @fields.user_name! You have added another skill to your Parenting Toolkit. Over the next few days, try creating at least 1 regular daily routine like having a meal together or sharing a story before bedtime. It will help your child feel secure and loved!"
 msgstr "Mosebetsi o tswileng matsoho @fields.user_name! O ekeditse boiphihlelo bo bong Mokotleng wa hao wa Dithulusi tsa Botswadi: Matsatsing a seng makae a tlang, leka ho qala bonyane lenaneo le 1 la letsatsi le letsatsi jwaloka ho ja hammoho le ho pheta dipale tsa pele a ilo robala. Sena se tla etsa hore ngwana a ikutlwe a sireletsehile ebile a ratwa!"
 
@@ -11081,7 +11769,7 @@ msgstr "Ho lokile ho se batle ho bua ka nako eo. Fumana nako e nngwe hamorao ha 
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Well done @fields.user_name! Using words to describe emotions will help your child manage difficult feelings and enjoy positive ones."
-msgstr "Mosebetsi o tswileng matsoho @fields.user_name! Ho sebedisa mantswe ho hlalosa maikutlo ho tla thusa ngwana wa hao ho laola maikutlo a boima le ho thabela maikutlo a monate."
+msgstr "Mosebetsi o tswileng matsoho @fields.user_name! Ho sebedisa mantswe ho hlalosa maikutlo ho tla thusa ngwana wa hao ho laola maikutlo a boima le ho thabela ho ikutlwa hantle."
 
 #. type=text
 msgctxt "text"
@@ -11098,6 +11786,16 @@ msgstr "Ho elellwa le ho bolela maikutlo ho ka ba thata qalong, empa wena le @fi
 msgctxt "text"
 msgid "Noticing and sharing emotions can be difficult at first, but you and your child or teen  will get used to it. Keep trying and you will see the positive change!"
 msgstr "Ho elellwa le ho bolela maikutlo ho ka ba thata qalong, empa wena le ngwana kapa motjha wa hao le tla tlwaela. O nne o leke mme o tla bona ntlafatso!"
+
+#. type=text
+msgctxt "text"
+msgid "We are sorry it did not go well."
+msgstr "Re maswabi hore dintho ha dia ka tsa tsamaya hantle."
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry it did not go well."
+msgstr "Ke maswabi hore dintho ha dia ka tsa tsamaya hantle."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -11311,6 +12009,11 @@ msgstr "Motswadi wa 1: “Kea leboha hore ebe o ile wa phutha washene ka nako, r
 
 #. type=text
 msgctxt "text"
+msgid "Parent 2: “I thought you said you would bring in the laundry today?”"
+msgstr "Motswadi wa 2: “Ke nahana hore o itse o tla hleka washene kajeno.”"
+
+#. type=text
+msgctxt "text"
 msgid "Parent 1: “No, I was busy cooking dinner! You told me you would take care of it! How could you forget? Now all the laundry is wet!”"
 msgstr "Motswadi wa 1: “Ha kea kgona, ke ne ke phathahane ke lokisa dijo tsa mantsiboya! O itse o tla e hlokomela. Ho tlile jwang hore o e lebale? Jwale washene yohle e metsi!”"
 
@@ -11318,6 +12021,11 @@ msgstr "Motswadi wa 1: “Ha kea kgona, ke ne ke phathahane ke lokisa dijo tsa m
 msgctxt "text"
 msgid "Parent 2: “I’m really sorry. It was a mistake!”"
 msgstr "Motswadi wa 2: “Ao, ntshwarele hle. Ke entse phoso!”"
+
+#. type=text
+msgctxt "text"
+msgid "Parent 1 (thinking): I can’t believe he forgot! But everyone can make mistakes. Take a deep breath…"
+msgstr "Motswadi wa 1 (o a nahana): Ha ke dumelae hore o lebetse! Empa batho bohle ba etsa diphoso. Phefumulohela hodimo…"
 
 #. type=text
 msgctxt "text"
@@ -11725,8 +12433,51 @@ msgstr "Haeba o sa batle ho mpolella, ho lokile. Ka kopo thaepa “N”."
 
 #. type=text
 msgctxt "text"
+msgid "That is okay!"
+msgstr "Ho lokile!"
+
+#. type=text
+msgctxt "text"
 msgid "That is okay! You can always revisit the parenting tips by typing \"Help\"."
 msgstr "Ho lokile! Ka dinako tsohle o ka ikgopotsa dikeletso tsa botswadi ka ho thaepa “Thuso”"
+
+#. type=text
+msgctxt "text"
+msgid "Thanks again for being part of ParentText and for your commitment to your children’s wellbeing and happiness. You are a star!"
+msgstr "Re boetse rea leboha hore ebe o bile karolo ya ParentText le ka ho itella boiketlo le thabo ya bana ba hao. O kgalala!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Congratulations for finishing the ParentText programme @fields.user_name! What a great accomplishment!"
+msgstr "Re thaba le wena haele mona o qetile lenaneo la ParentText @fields.user_name! O finyelletse ntho e kgolo!"
+
+#. type=text
+msgctxt "text"
+msgid "Congratulations for finishing the ParentText programme! What a great accomplishment!"
+msgstr "Re thaba le wena haele mona o qetile lenaneo la ParentText! O finyelletse ntho e kgolo!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have collected @fields.n_skills/@fields.total_skills skills! What an achievement!"
+msgstr "O fumane tsebo ya @fields.total_skills/! Eo ke phihlello ya sebele!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have added @fields.n_skills/@fields.total_skills layers to your House of Support! What an achievement!"
+msgstr "O ekeditse @fields.n_skills/@fields.total_skills mekato ya Ntlo ya hao ya Tshehetso! Eo ke phihlello ya sebele!"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to tell us about your experience?"
+msgstr "Na o ka rata ho re phetela se o hlahetseng?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to tell me about your experience?"
+msgstr "Na o ka rata ho mphetela se o hlahetseng?"
 
 #. type=text
 msgctxt "text"
@@ -11850,6 +12601,11 @@ msgstr "• Batjha ba abang tlhahisoleseding ya botho le dinepe kapa divideo tsa
 msgctxt "text"
 msgid "• Cyberbullying from other young people and strangers."
 msgstr "• Ho tellwa ke batjha ba bang le batho o sa ba tsebeng inthaneteng."
+
+#. type=text
+msgctxt "text"
+msgid "2. Tech fixes to protect your children online"
+msgstr "2. Maiteko a ho lokisa mathata ka theknoloji ya ho sireletsa bana ba hao inthaneteng"
 
 #. type=text
 msgctxt "text"
@@ -11993,6 +12749,11 @@ msgstr "Buisana le motjha wa hao ka tsela ya ho tlaleha dintho tse sa tsamayeng 
 msgctxt "text"
 msgid "Common Sense Media has great advice for apps, games and entertainment for different ages."
 msgstr "Common Sense Media e na le keletso e molemo bakeng sa diepo, di-game le boithabiso ba dilemo tse sa tshwaneng."
+
+#. type=text
+msgctxt "text"
+msgid "https://www.commonsensemedia.org/app-reviews"
+msgstr "https://www.commonsensemedia.org/app-reviews"
 
 #. type=text
 msgctxt "text"
@@ -12566,6 +13327,17 @@ msgstr "Dumela! Ke lakatsa ho utlwa hore na ebe o ntse o ya jwang! Na o kgonne h
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "Sorry to hear that you are finding this challenging. If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes."
+msgstr "Ke maswabi ho utlwa hore o fumana sena se le thata. Haeba o halefiswa ke hore ebe @fields.child_nickname ha a thole, ha ho phoso ho mo siya a kakaletse sebakeng se sireletsehileng, mohlomong kahara bethe ya masea, ebe o tloha pela hae hanyane. Dula haufi le yena e le hore o mo behe boemo leihlo @fields.child_nickname. Mo hlahlobe @fields.child_nickname ka metsotso e meng e le e meng e 5-10."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes."
+msgstr "Ke maswabi ho utlwa hore o fumana sena se le thata. Haeba o halefiswa ke hore ebe lesea la hao ha le thole, ha ho phoso ho le siya le kakaletse sebakeng se sireletsehileng, mohlomong kahara bethe ya masea, ebe o tloha pela lona hanyane. Dula haufi le lesea la hao e le hore o ka le beha leihlo. Sheba hore na lesea la hao le ntse le ya jwang kamora metsotso e meng le e meng e 5-10."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "Hi @fields.user_name! Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else."
 msgstr "Dumela @fields.user_name! Kannete ha ho bonolo ho laola bohale. Nka kgefu ha o utlwa eka bana ba hao kapa motho e mong o etsa hore o tlallane ke bohale. "
 
@@ -12593,6 +13365,17 @@ msgstr "Shebella video ena e ka o thusang ho laola bohale ba hao!"
 msgctxt "text"
 msgid "Here's an audio message to help you manage your anger!"
 msgstr "Mamela molaetsa ona o mamelwang ho o thusa ho laola bohale ba hao!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes."
+msgstr "Haeba o halefiswa ke hore ebe @fields.child_nickname ha a thole, ha ho phoso ho mo siya a kakaletse sebakeng se sireletsehileng, mohlomong kahara bethe ya masea, ebe o tloha pela hae hanyane. Dula haufi le yena e le hore o mo behe boemo leihlo @fields.child_nickname. Mo hlahlobe @fields.child_nickname ka metsotso e meng e le e meng e 5-10."
+
+#. type=text
+msgctxt "text"
+msgid "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes."
+msgstr "Haeba o halefiswa ke hore ebe lesea la hao ha le thole, ha ho phoso ho le siya le kakaletse sebakeng se sireletsehileng, mohlomong kahara bethe ya masea, ebe o tloha pela lona hanyane. Dula haufi le lesea la hao e le hore o ka le beha leihlo. Sheba hore na lesea la hao le ntse le ya jwang kamora metsotso e meng le e meng e 5-10."
 
 #. type=text
 msgctxt "text"
@@ -12666,6 +13449,11 @@ msgstr "Ke lebohile ho menahane! LInki eo o ka ingodisang ho yona ke ena!"
 
 #. type=text
 msgctxt "text"
+msgid "https://parenting.dspi.ox.ac.uk/-/single/JsOvnndbOAyWxFYXucrc5fYzz3Zk0qi?st=To2BOXiK5cDrWs$6JhG35e3KWrrVS8Faa8aSGpM3f1s9PeIbVk40BuYQh$gqPZuz"
+msgstr "https://parenting.dspi.ox.ac.uk/-/single/JsOvnndbOAyWxFYXucrc5fYzz3Zk0qi?st=To2BOXiK5cDrWs$6JhG35e3KWrrVS8Faa8aSGpM3f1s9PeIbVk40BuYQh$gqPZuz"
+
+#. type=text
+msgctxt "text"
 msgid "It is okay!"
 msgstr "Ho lokile!"
 
@@ -12690,6 +13478,17 @@ msgstr "Dumela! Re tshepa hore melaetsa ena e o tswela molemo. Ka kopo thaepa �
 msgctxt "text"
 msgid "Hi! I hope you are finding these messages useful. Please type “MoreTips” when you want to receive your next message."
 msgstr "Dumela! Ke tshepa hore melaetsa ena e o tswela molemo. Ka kopo thaepa “MoreTips” haeba o batla ho amohela melaetsa e latelang."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! In the current times everyone is feeling a little stressed and a brief relaxation activity might help. Please type \"Relax\" to receive the activity!"
+msgstr "Dumela @fields.user_name! Matsatsing ana motho e mong le e mong o ikutlwa a na le seterese se itseng mme ntho e ka mo thusang ke ho phomola hanyane. Ka kopo thaepa \"Phomola\" ho amohela mosebetsi!"
+
+#. type=text
+msgctxt "text"
+msgid "Hi! In the current times everyone is feeling a little stressed and a brief relaxation activity might help. Please type \"Relax\" to receive the activity!"
+msgstr "Dumela! Matsatsing ana motho e mong le e mong o ikutlwa a na le seterese se itseng mme ntho e ka mo thusang ke ho phomola hanyane. Ka kopo thaepa \"Phomola\" ho amohela mosebetsi!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -12740,6 +13539,52 @@ msgstr "Dumela! Ke tshepa hore wena le ngwana wa hao le fumana thuso ka dipuisan
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "Hi @fields.user_name! We have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!"
+msgstr "Dumela @fields.user_name! Re nahanne ntho e ntle bakeng sa boithabiso ba hao le @fields.child_nickname. Ka kopo thaepa “Bapala” hore o amohele boithabiso boo!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! I have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!"
+msgstr "Dumela @fields.user_name! Ke nahanne ntho e ntle bakeng sa boithabiso ba hao le @fields.child_nickname. Ka kopo thaepa “Bapala” hore o amohele boithabiso boo!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! We have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!"
+msgstr "Dumela @fields.user_name! Ke nahanne ntho e ntle bakeng sa boithabiso ba hao le ngwana wa hao. Ka kopo thaepa “Bapala” hore o amohele boithabiso boo!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! I have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!"
+msgstr "Dumela @fields.user_name! Ke nahanne ntho e ntle bakeng sa boithabiso ba hao le ngwana wa hao. Ka kopo thaepa “Bapala” hore o amohele boithabiso boo!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi! We have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!"
+msgstr "Dumela! Re nahanne ntho e ntle bakeng sa boithabiso ba hao le @fields.child_nickname. Ka kopo thaepa “Bapala” hore o amohele boithabiso boo!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi! I have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!"
+msgstr "Dumela! Ke nahanne ntho e ntle bakeng sa boithabiso ba hao le @fields.child_nickname. Ka kopo thaepa “Bapala” hore o amohele boithabiso boo!"
+
+#. type=text
+msgctxt "text"
+msgid "Hi! We have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!"
+msgstr "Dumela! Ke nahanne ntho e ntle bakeng sa boithabiso ba hao le ngwana wa hao. Ka kopo thaepa “Bapala” hore o amohele boithabiso boo!"
+
+#. type=text
+msgctxt "text"
+msgid "Hi! I have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!"
+msgstr "Dumela! Ke nahanne ntho e ntle bakeng sa boithabiso ba hao le ngwana wa hao. Ka kopo thaepa “Bapala” hore o amohele boithabiso boo!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "Hi @fields.user_name! We have noticed that you have not been responding to our chats today and we have been missing you! Please type “MoreTips” whenever you want to receive your next message."
 msgstr "Dumela @fields.user_name! Re hlokometse hore kajeno lena ha o a araba melaetsa ya rona mme re o hlolohetswe! Ka kopo thaepa “MoreTips” neng kapa neng ha o batla ho amohela melaetsa e latelang."
 
@@ -12761,8 +13606,63 @@ msgstr "Dumela! Ke hlokometse hore kajeno lena ha o a araba melaetsa ya rona mme
 
 #. type=text
 msgctxt "text"
+msgid "Hi! We have an update for you. Please reply *START* to proceed. Thank you."
+msgstr "Dumela! Re o tshwaretse ntlafatso. Ka kopo araba ka *QALA* ho tswela pele. Kea leboha."
+
+#. type=text
+msgctxt "text"
+msgid "We would love to hear how you are doing! Can we ask you a few quick questions about your relationship with your partner? Everything you say will be completely private. If you do not want to answer any questions, it is completely okay."
+msgstr "Re lakatsa ho utlwa hore na ebe o ntse o ya jwang! Re kopa ho o botsa dipotso tse seng kae tse kgutshwane mabapi le kamano ya hao le molekane wa hao. Ntho tsohle tseo o tla di bua e tla ba lekunutu le ke keng la phahlwa. Haeba o sa batle ho araba dipotso dife kapa dife, ho hang o se ke wa kgathatseha."
+
+#. type=text
+msgctxt "text"
 msgid "Here is a song made just for parents like you."
 msgstr "Pina ena e etseditswe batswadi ba kang wena."
+
+#. type=text
+msgctxt "text"
+msgid "Please tell us about the length of the ParentText programme (total number of days you received messages). ParentText was..."
+msgstr "Ka kopo re bolelle bolelele ba lenaneo la ParentText (palo yohle ya matsatsi ao o amohetseng melaetsa ka wona). ParentText e ile ya..."
+
+#. type=text
+msgctxt "text"
+msgid "Please tell me about the length of the ParentText programme (total number of days you received messages). ParentText was..."
+msgstr "Ka kopo mpolelle bolelele ba lenaneo la ParentText (palo yohle ya matsatsi ao o amohetseng melaetsa ka wona). ParentText e ile ya..."
+
+#. type=text
+msgctxt "text"
+msgid "Thank so much for your feedback! Please feel free to provide more feedback or type \"N\" to finish."
+msgstr "Re leboha haholo ka karabelo ya hao! Ka kopo ikutlwe o lokolohile ho fana ka karabelo kapa o thaepe “N” ho qetela."
+
+#. type=text
+msgctxt "text"
+msgid "Please tell us about the number of messages that you received each day. They were..."
+msgstr "Ka kopo re bolelle palo ya melaetsa eo o e amohelang letsatsi ka leng. E ile ya..."
+
+#. type=text
+msgctxt "text"
+msgid "Please tell me about the number of messages that you received each day. They were..."
+msgstr "Ka kopo mpolelle palo ya melaetsa eo o e amohelang letsatsi ka leng. E ile ya..."
+
+#. type=text
+msgctxt "text"
+msgid "Open ended question: Is there anything we can do to improve the ParentText chatbot for other families? Please feel free to write as much as you want!"
+msgstr "Potso e reretsweng hore motho a nahane: Na ho na le eng kapa eng eo re ka e etsang ho ntlafatsa chatboto ya ParentText bakeng sa malapa a mang? Ka kopo ikutlweng le lokolohile ho ngola haholo kamoo o batlang!"
+
+#. type=text
+msgctxt "text"
+msgid "Open ended question: Is there anything I can do to improve the ParentText chatbot for other families? Please feel free to write as much as you want!"
+msgstr "Potso e reretsweng hore motho a nahane: Na ho na le eng kapa eng eo nka e etsang ho ntlafatsa chatboto ya ParentText bakeng sa malapa a mang? Ka kopo ikutlweng le lokolohile ho ngola haholo kamoo o batlang!"
+
+#. type=text
+msgctxt "text"
+msgid "That is great! We really appreciate your feedback!"
+msgstr "Ke ditaba tse monate! Kannete re ananela seabo sa hao!"
+
+#. type=text
+msgctxt "text"
+msgid "That is great! I really appreciate your feedback!"
+msgstr "Ke ditaba tse monate! Kannete ke ananela seabo sa hao!"
 
 #. type=text
 msgctxt "text"
@@ -12980,6 +13880,11 @@ msgstr "Re lakatsa ho ithuta haholwanyane ka hore na re ka ntlafatsa lenaneo la 
 msgctxt "text"
 msgid "Thank you so much! Here is a link to sign up! "
 msgstr "Ke lebohile ho menahane! LInki eo o ka ingodisang ho yona ke ena! "
+
+#. type=text
+msgctxt "text"
+msgid "https://parenting.dspi.ox.ac.uk/-/single/28SdcwzKx8cyjH3LFAOQ6qp3ylNZUAk?st=vdKeCZ9ZMvsurDzk98b6rTPPrQXVEpaNxLmOL7LE0mE9nuemCsEWlT1RFl7qbSQE"
+msgstr "https://parenting.dspi.ox.ac.uk/-/single/28SdcwzKx8cyjH3LFAOQ6qp3ylNZUAk?st=vdKeCZ9ZMvsurDzk98b6rTPPrQXVEpaNxLmOL7LE0mE9nuemCsEWlT1RFl7qbSQE"
 
 #. type=text
 msgctxt "text"
@@ -13236,6 +14141,11 @@ msgstr "Linki ke ena:"
 
 #. type=text
 msgctxt "text"
+msgid "[INSERT LINK]"
+msgstr "[INSERT LINK]"
+
+#. type=text
+msgctxt "text"
 msgid "Can you please tell us the name or nickname of this child?"
 msgstr "Ke kopa o re bolelle lebitso kapa lebitso la boswaswi la ngwana enwa?"
 
@@ -13486,7 +14396,7 @@ msgstr "Ke ntho e tlwaelehileng ka ho feletseng ho tobana le bothata bona, ho ka
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It is completely normal to experience this challenge, it can be difficult to get @fields.child_nickname's attention. Next time try letting your child choose the book. It can even be a magazine or colouring the book. You don't even need to read...just looking at the pictures together and talking about them works!"
-msgstr "Ke ntho e tlwaelehileng ka ho feletseng ho tobana le bothata bona, ho ka ba thata ho etsa hore @fields.child_nickname a o mamele. Nakong e tlang o tlohelle @fields.child_nickname a ikgethele buka. Ekaba makasine kapa buka e takwang ka mebala. Ha ho hlokehe le hore o bale...ha le sheba feela ditshwantsho mmoho ebile le buisana ka tsela eo di sebetsang ka yona!"
+msgstr "Ke ntho e tlwaelehileng ka ho feletseng ho tobana le bothata bona, ho ka ba thata ho etsa hore @fields.child_nickname a o mamele. Nakong e tlang o tlohelle  a ikgethele buka. Ekaba makasine kapa buka e takwang ka mebala. Ha ho hlokehe le hore o bale...ha le sheba feela ditshwantsho mmoho ebile le buisana ka tsela eo di sebetsang ka yona!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -13497,7 +14407,7 @@ msgstr "Ke ntho e tlwaelehileng ka ho feletseng ho tobana le bothata bona, ho ka
 #. type=text
 msgctxt "text"
 msgid "It is completely normal to experience this challenge, it can be difficult to get your child's attention. Next time try letting your child choose the book. It can even be a magazine or colouring the book. You don't even need to read...just looking at the pictures together and talking about them works!"
-msgstr "Ke ntho e tlwaelehileng ka ho feletseng ho tobana le bothata bona, ho ka ba thata ho etsa hore ngwana wa hao a o mamele. Nakong e tlang o tlohelle @fields.child_nickname a ikgethele buka. Ekaba makasine kapa buka e takwang ka mebala. Ha ho hlokehe le hore o bale...ha le sheba feela ditshwantsho mmoho ebile le buisana ka tsela eo di sebetsang ka yona!"
+msgstr "Ke ntho e tlwaelehileng ka ho feletseng ho tobana le bothata bona, ho ka ba thata ho etsa hore ngwana wa hao a o mamele. Nakong e tlang o tlohelle  a ikgethele buka. Ekaba makasine kapa buka e takwang ka mebala. Ha ho hlokehe le hore o bale...ha le sheba feela ditshwantsho mmoho ebile le buisana ka tsela eo di sebetsang ka yona!"
 
 #. type=text
 msgctxt "text"
@@ -13723,9 +14633,26 @@ msgid "Sorry to hear it has been challenging. What was difficult for you about m
 msgstr "Ke maswabi ho utlwa hore ho bile thata. O ne o thatafallwa ke eng tabeng ya ho sebetsana le lesea la hao le llang?"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It is completely normal to experience this, it can be really hard to stay calm when @fields.child_nickname is crying but do not give up! Try to think of something that you can do that might help you, like taking a couple deep breaths. This can help reduce stress and clear your mind. "
+msgstr "Kannete ke ntho e tlwaelehileng ho tobana le boemo bona, ebile ho ka ba thata haholo ho dula o kgobile matshwafo ha @fields.child_nickname le lla empa o se ke wa tela! Leka ho nahana ka ntho eo o ka e etsang e ka ka nnang ya o thusa jwaloka ho phefumulohela hodimo ka makgetlo a mmalwa. Sena se ka thusa ho fokotsa seterese le ho hlaphola kelello ya hao. "
+
+#. type=text
 msgctxt "text"
 msgid "It is completely normal to experience this, it can be really hard to stay calm when your baby is crying but do not give up! Try to think of something that you can do that might help you, like taking a couple deep breaths. This can help reduce stress and clear your mind. "
 msgstr "Kannete ke ntho e tlwaelehileng ho tobana le boemo bona, ebile ho ka ba thata haholo ho dula o kgobile matshwafo ha lesea la hao le lla empa o se ke wa tela! Leka ho nahana ka ntho eo o ka e etsang e ka ka nnang ya o thusa jwaloka ho phefumulohela hodimo ka makgetlo a mmalwa. Sena se ka thusa ho fokotsa seterese le ho hlaphola kelello ya hao. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sorry to hear that you are finding this challenging. If you are getting angry because @fields.child_nickname won’t stop crying, it’s okay to leave them on their back in a safe place and walk away for a bit and take a quick pause. Taking a pause will help you respond better. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes."
+msgstr "Ke maswabi ho utlwa hore o fumana sena se le thata. Haeba o halefiswa ke hore ebe @fields.child_nickname ha a thole, ha ho phoso ho mo siya a kakaletse sebakeng se sireletsehileng ebe o tloha pela hae hanyane ebe o kgefutsa ka nako e kgutshwane feela. Ho nka kgefu ho tla o thusa ho arabela habetere. Dula haufi le yena e le hore o mo behe boemo leihlo @fields.child_nickname. Mo hlahlobe @fields.child_nickname ka metsotso e meng e le e meng e 5-10."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s okay to leave them on their back in a safe place and walk away for a bit and take a quick pause. Taking a pause will help you respond better. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes."
+msgstr "Ke maswabi ho utlwa hore o fumana sena se le thata. Haeba o halefiswa ke hore ebe lesea la hao ha le thole, ha ho phoso ho mo siya le kakaletse sebakeng se sireletsehileng ebe o tloha pela hae hanyane ebe o kgefutsa ka nako e kgutshwane feela. Ho nka kgefu ho tla o thusa ho arabela habetere. Dula haufi le lesea la hao e le hore o ka le beha leihlo. Sheba hore na lesea la hao le ntse le ya jwang kamora metsotso e meng le e meng e 5-10."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -13758,6 +14685,16 @@ msgstr "Batswadi bohle lefatsheng ka bophara ba bolela hore ba kgathatsehile ka 
 msgctxt "text"
 msgid "Would you like some tips on some simple ways to do this?"
 msgstr "Na o ka rata ho fumana dikeletso tse itseng ka ditsela tse ding tse bonolo tsa ho etsa see?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay! You can always type \"Help\" if you want to learn more about how to keep your child safe in the community."
+msgstr "O ska kgathatseha! Ka dinako tsohle o ka thaepa “Thuso” haeba o batla ho ithuta haholwanyane ka tsela ya ho tiisa hore ngwana wa hao o sireletsehileng motseng."
+
+#. type=text
+msgctxt "text"
+msgid "Thanks! One helpful way is to create a map with your child or teen that identifies the safe and unsafe places in the community. Here are 4 simple steps:"
+msgstr "Kea leboha! Tsela e nngwe e molemo ke ho etsa mmapa le ngwana kapa motjha wa hao o hlwayang dibaka tse bolokehileng le tse sa bolokehang motseng wa heno. Bona mehato ena e 4 e bonolo:"
 
 #. type=text
 msgctxt "text"
@@ -14032,7 +14969,7 @@ msgstr "Dumela @fields.user_name! Na o ile wa kgona ho buisana le @fields.child_
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Hi @fields.user_name! Were you able to talk to your child about safe and unsafe touch?"
-msgstr "Dumela @fields.user_name! Na o ile wa kgona ho buisana le @fields.user_name ka tsela e sireletsehileng le e sa sireletsehang ya ho tshwarwa kapa ho tshwara motho?"
+msgstr "Dumela @fields.user_name! Na o ile wa kgona ho buisana le ngwna awa hao ka tsela e sireletsehileng le e sa sireletsehang ya ho tshwarwa kapa ho tshwara motho?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -14077,7 +15014,7 @@ msgstr "Kea thaba ho utlwa hore ho tsamaile hantle! Na o nkile mehato ya ho sire
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "We understand this can be a really difficult, it can be hard to know what to say but it is important to have this conversation! What was challenging about talking to @fields.child_nickname about safe and unsafe touch?"
-msgstr "Rea utlwisisa hore kannete taba ena e thata, ho ka ba boima ho tseba hore na o reng empa ntho ya bohlokwa ke ho ba le puisano ena! Ke eng e bileng thata ka ho bua le@fields.child_nickname ka tsela e sireletsehileng le e sa sireletsehang ya ho tshwarwa kapa ho tshwara motho?"
+msgstr "Rea utlwisisa hore kannete taba ena e thata, ho ka ba boima ho tseba hore na o reng empa ntho ya bohlokwa ke ho ba le puisano ena! Ke eng e bileng thata ka ho bua le @fields.child_nickname ka tsela e sireletsehileng le e sa sireletsehang ya ho tshwarwa kapa ho tshwara motho?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -14110,7 +15047,7 @@ msgstr "Ho tlwaelehile hore batho ba kopane le bothata bo jwalo. Babatsa ngwana 
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "We understand. This can be very difficult to do! Try taking a walk with @fields.child_nickname. A change of scenery can help when discussing more serious topics."
-msgstr "Rea utlwisisa. Ho ka ba thata haholo ho etsa jwalo! Bontsha @fields.child_nickname. ka diketso hore na o bolela eng Ho fetola boemo ho ka thusa ha le buisana ka ditaba tse tebileng haholo."
+msgstr "Rea utlwisisa. Ho ka ba thata haholo ho etsa jwalo! Leka ho bontsha @fields.child_nickname. ka diketso hore na o bolela eng Ho fetola boemo ho ka thusa ha le buisana ka ditaba tse tebileng haholo."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -14187,7 +15124,7 @@ msgstr "Ho tlwaelehile hore batho ba kopane le bothata bo jwalo. Leka ho etsa ba
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "We are sorry to hear this. We know it can be difficult! Why don’t we go through the content again? @fields.child_nickname or other family members can join and help you! "
-msgstr "Re maswabi ho utlwa seo. Rea tseba hore ho ka ba thata! Ho ka ba jwang haeba re ka ikgopotsa dintlha tseo re ithutileng tsona hape? @fields.child_nickname kapa ditho tse ding tsa lelapa di ka tla mme tsa o thusa! "
+msgstr "Re maswabi ho utlwa seo. Rea tseba hore ho ka ba thata! Ke kopa hore re ke re hlahlobe dintlha hape. @fields.child_nickname kapa ditho tse ding tsa lelapa di ka tla mme tsa o thusa! "
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -14198,7 +15135,7 @@ msgstr "Ke maswabi ho utlwa seo. Kea tseba hore ho ka ba thata! Ke kopa hore re 
 #. type=text
 msgctxt "text"
 msgid "We are sorry to hear this. We know it can be difficult! Why don’t we go through the content again? Your teen or other family members can join and help you! "
-msgstr "Re maswabi ho utlwa seo. Rea tseba hore ho ka ba thata! Ke kopa hore re ke re hlahlobe dintlha hape. kapa ditho tse ding tsa lelapa di ka tla mme tsa o thusa! "
+msgstr "Re maswabi ho utlwa seo. Rea tseba hore ho ka ba thata! Ke kopa hore re ke re hlahlobe dintlha hape. Motjha wa hao kapa ditho tse ding tsa lelapa di ka tla mme tsa o thusa! "
 
 #. type=text
 msgctxt "text"
@@ -14253,7 +15190,7 @@ msgstr "Ho lokile! Hopola hore o motswadi, eseng titjhere. Ke eng eo o fumaneng 
 #. type=text
 msgctxt "text"
 msgid "We are happy to hear that it went well! Research has found that parental support helps children's academic achievements!"
-msgstr "Rea thaba ho utlwa hore ho tsamaile hantle! Phuputso e senotse hore tshehetso eo batswadi ba fanang ka yona e thusa bana ho atleha dithutong tsa bona.\r\n"
+msgstr "Rea thaba ho utlwa hore ho tsamaile hantle! Phuputso e senotse hore tshehetso eo batswadi ba fanang ka yona e thusa bana ho atleha dithutong tsa bona.\n"
 
 #. type=text
 msgctxt "text"
@@ -14287,6 +15224,16 @@ msgstr "Ke maswabi ho utlwa hore o fumana sena se le thata. Leka ho nahana ka di
 msgctxt "text"
 msgid "That is okay! Here are some resources to help you with supporting @fields.child_nickname's learning:"
 msgstr "Ho lokile! Ena ke mehlodi ya tsebo e ka o thusang ho tshehetsa @fields.child_nickname ha a ithuta:"
+
+#. type=text
+msgctxt "text"
+msgid "https://www.familylives.org.uk/advice/primary/learning-school/supporting-your-child-at-school/"
+msgstr "https://www.familylives.org.uk/advice/primary/learning-school/supporting-your-child-at-school/"
+
+#. type=text
+msgctxt "text"
+msgid "https://www.unicef.org/coronavirus/supporting-your-childs-mental-health-during-covid-19-school-return"
+msgstr "https://www.unicef.org/coronavirus/supporting-your-childs-mental-health-during-covid-19-school-return"
 
 #. type=text
 msgctxt "text"
@@ -14625,7 +15572,7 @@ msgstr "Rea tseba hore ho ka ba thata ho etsa dintho re sa fetofetohe! Haeba o i
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "I know, it is hard to be consistent! If you ignore a behaviour only some of the time, @fields.child_nickname will think it might help them get their way. The more consistent you are, the less they will do it."
-msgstr "Rea tseba hore ho ka ba thata ho etsa dintho re sa fetofetohe! Haeba o iphapanyetsa boitshwaro bo itseng ka dinako tse feela, @fields.child_nickname o tla nahana hore bo tla mo thusa hore dintho di etswe ho latela thato ya hae. Haeba o sa fetofetohe, o tla fokotsa boitshwaro bo jwalo."
+msgstr "Kea tseba hore ho ka ba thata ho etsa dintho re sa fetofetohe! Haeba o iphapanyetsa boitshwaro bo itseng ka dinako tse feela, @fields.child_nickname o tla nahana hore bo tla mo thusa hore dintho di etswe ho latela thato ya hae. Haeba o sa fetofetohe, o tla fokotsa boitshwaro bo jwalo."
 
 #. type=text
 msgctxt "text"
@@ -14690,6 +15637,11 @@ msgstr "Ka sebele ke ntho e tlwaelehileng ho ikutlwa o sa phutholoha, o ferekane
 msgctxt "text"
 msgid "It is completely normal for children to act out or react negatively during these unprecedented times. Give them space to share how they are feeling and let them know you are there for them. You can also try distracting them with fun activities and games."
 msgstr "Ke ntho e tlwaelehileng haholo hore ba itshware ka tsela e fosahetseng dinakong tsena tseo ho seng tse kileng tsa tshwana le tsona. Mo fe monyetla wa ho ntsha maikutlo a hae mme o mo kgodise hore o tla wa o tsoha le yena. Hape o ka leka ho ba kgutlisa ka dintho tsa boithabiso le ka dipapadi."
+
+#. type=text
+msgctxt "text"
+msgid "UNICEF: https://www.unicef.org/coronavirus/covid-19"
+msgstr "UNICEF: https://www.unicef.org/coronavirus/covid-19"
 
 #. type=text
 msgctxt "text"
@@ -15070,28 +16022,28 @@ msgstr "O ska kgathatseha! Ka dinako tsohle o ka fumana malebela ka dintho tseo 
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Remember that you can always get suggestions for activities to do by typing \"Play\". Chat later @fields.user_name!"
-msgstr "Hopola hore ka dinako tsohle o ka fumana malebela ka dintho tseo o ka di etsang ka hore o thaepe “Bapala”. A re bue hamorao @fields.user_name!"
+msgstr "Ka dinako tsohle o ka fumana malebela ka dintho tseo o ka di etsang ka hore o thaepe “Bapala”. A re bue hamorao @fields.user_name!"
 
 #. type=text
 msgctxt "text"
 msgid "Remember that you can always get suggestions for activities to do by typing \"Play\". Chat later!"
-msgstr "Hopola hore ka dinako tsohle o ka fumana malebela ka dintho tseo o ka di etsang ka hore o thaepe “Bapala”. A re bue hamorao!"
+msgstr "Ka dinako tsohle o ka fumana malebela ka dintho tseo o ka di etsang ka hore o thaepe “Bapala”. A re bue hamorao!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Hi @fields.user_name! Every child has challenging behaviour sometimes. Would you like some tips on how to address these behaviours?"
-msgstr "Dumela @fields.user_name! Ngwana e mong le e mong o na le boitshwaro bo thatafatsang dintho ka dinako tse ding. Na o ka thabela dikeletso tsa kamoo o ka sebetsanang le boitshwaro boo?"
+msgstr "Dumela @fields.user_name! Ngwana e mong le e mong o na le boitshwaro bo thatafatsang dintho ka dinako tse ding. Na o ka thabela ho fumana dikeletso tsa kamoo o ka sebetsanang le boitshwaro ba mofuta oo kateng?"
 
 #. type=text
 msgctxt "text"
 msgid "Hi! Every child has challenging behaviour sometimes. Would you like some tips on how to address these behaviours?"
-msgstr "Dumela! Ngwana e mong le e mong o na le boitshwaro bo thatafatsang dintho ka dinako tse ding. Na o ka thabela dikeletso tsa kamoo o ka sebetsanang le boitshwaro boo?"
+msgstr "Dumela! Ngwana e mong le e mong o na le boitshwaro bo thatafatsang dintho ka dinako tse ding. Na o ka thabela ho fumana dikeletso tsa kamoo o ka sebetsanang le boitshwaro ba mofuta oo kateng?"
 
 #. type=text
 msgctxt "text"
 msgid "That is okay! You can always access parenting tips by typing \"Help\"."
-msgstr "Ho lokile! O ka fihlella dikeletso tsa botswadi ka ho thaepa “Thuso”."
+msgstr "Ho lokile! Ka dinako tsohle o ka fumana dikeletso tsa botswadi ka ho thaepa “Thuso”"
 
 #. type=text
 msgctxt "text"
@@ -15127,17 +16079,17 @@ msgstr "Empa kaofela re na le matsatsi a boima, empa ha ho hlokahale hore o toba
 #. type=text
 msgctxt "text"
 msgid "It is completely normal to feel okay. You do not need to feel great everyday. "
-msgstr "Ka sebele ke ntho e tlwaelehileng ho ikutlwa hantle. Ha ho hlokahale hore o ikutlwe o thabile ka matsatsi wohle. "
+msgstr "Kannete ke ntho e tlwaelehileng hore o ikutlwe o le hantle. Ha ho hlokahale hore o ikutlwe o thabile ka matsatsi wohle. "
 
 #. type=text
 msgctxt "text"
 msgid "Life is filled with ups and downs. It is important to recognise and accept how are you feeling. Please remember to be kind to yourself."
-msgstr "Bophelo bo na le mathata le menate ya bona. Ho bohlokwa ho elellwa le ho amohela kamoo o ikutlwang kateng. Hopola hle hore o inahanele."
+msgstr "Bophelo bo na le mathata le menate ya bona. Ho bohlokwa ho elellwa le ho amohela kamoo o ikutlwang kateng. Ka kopo o hopole ho inahanela."
 
 #. type=text
 msgctxt "text"
 msgid "Thank you for sharing! All feelings, whether they are good, bad, or okay are welcome here.  "
-msgstr "Rea leboha hore o re phetele taba eo! Maikutlo wohle, ho sa natswe hore na o ikutlwa hantle, hampe, kapa ho itoketse feela, a amohelehile mona.  "
+msgstr "Kea leboha ka hore o e fetise! Maikutlo wohle, ho sa natswe hore na o ikutlwa hantle, hampe, kapa ho itoketse feela, a amohelehile mona.  "
 
 #. type=text
 msgctxt "text"
@@ -15177,7 +16129,7 @@ msgstr "O se ke wa iqobella ho ikutlwa o thabile o bile o nyakalletse ka dinako 
 #. type=text
 msgctxt "text"
 msgid "Feeling okay is perfectly normal. Try asking how your family members are feeling today. This can help everyone to understand each other better. "
-msgstr "Ho ikutlwa hantle feela ke boikutlo bo tlwaelehileng haholo. Leka ho botsa ba lelapa la hao hore na ba ikutlwa jwang kajeno. Sena se thusa bohle hore ba utlwisisane hantle. "
+msgstr "Ho ikutlwa hantle feela ke boikutlo bo tlwaelehileng haholo. Leka ho botsa ba lelapa la hao hore na ba ikutlwa jwang kajeno. Sena se ka thusa bohle ho utlwisisana hamolemo. "
 
 #. type=text
 msgctxt "text"
@@ -15192,12 +16144,12 @@ msgstr "Ho na le matsatsi ao re yang moo moya o fokelang teng mme le hona moo ho
 #. type=text
 msgctxt "text"
 msgid "It is completely normal to not feel great all the time. Parents all around the world have felt how you are feeling right now, and it is okay! You are doing great!"
-msgstr "Ke ntho e tlwaelehileng ka ho feletseng ho se ikutlwe o thabile ka dinako tsohle. Batswadi lefatsheng lohle ba kile ba ikutlwa kamoo o ikutlwang kateng hona jwale, mme ho lokile! O etsa hantle haholo!"
+msgstr "Kannete ke ntho e tlwaelehileng hore o se ikutlwe hantle ka dinako tsohle. Batswadi lefatsheng lohle ba kile ba ikutlwa kamoo o ikutlwang kateng hona jwale, mme ho lokile! O etsa mosebetsi o tswileng matsoho!"
 
 #. type=text
 msgctxt "text"
 msgid "Just like everyone else, you are allowed to have days where they are not feeling great. Be gentle and patient with yourself. Tomorrow is a new day! "
-msgstr "Jwaloka batho bohle, o dumelletswe ho ba le matsatsi ao ho wona o sa ikutlweng o thabile. Iqenehele mme o imamelle. Matsatsi a tjhaba ka ho fapana! "
+msgstr "Jwaloka batho bohle, o dumelletswe ho ba le matsatsi ao ho wona o sa ikutlweng o thabile. Itshware ka mosa mme o imamelle. Matsatsi a tjhaba ka ho fapana! "
 
 #. type=text
 msgctxt "text"
@@ -15227,7 +16179,7 @@ msgstr "Ena ke ntho e kgutshwane eo o ka e etsang hore o phutholohe:"
 #. type=text
 msgctxt "text"
 msgid "Do you ever feel something so strongly that you want to run away from it? Here's a short activity that might help!"
-msgstr "Na o kile wa utlwa o tshaba ntho e itseng haholo hoo o batlang ho e baleha? Ena ke ntho e kgutshwane eo o ka e etsang e ka nnang ya o thusa!"
+msgstr "Na o kile wa utlwa o tshaba ntho e itseng haholo hoo o batlang ho e baleha? O ka nna wa etsa ketso ena e kgutshwane e ka thusang..."
 
 #. type=text
 msgctxt "text"
@@ -15247,12 +16199,12 @@ msgstr "O ka etsa sena ka potlako hore o ikutlwe o phutholohile..."
 #. type=text
 msgctxt "text"
 msgid "How many sounds can you hear? Listen to the sounds inside and outside the room. Count them on your fingers."
-msgstr "O utlwa medumo e mekae? Mamela medumo e ka hara kamore le e kantle. E bale ka menwana ya hao ya letsoho."
+msgstr "O utlwa medumo e mekae? Mamela medumo e ka tlung le kantle ho kamore. Di bale ka menwana menwana ya hao."
 
 #. type=text
 msgctxt "text"
 msgid "Try again for another ten seconds. Did you hear any new sounds? Did you hear any sounds inside your own body? Notice how you feel now."
-msgstr "Leka hape ka metsotswana e meng e leshome. Na ho na le medumo efe kapa efe e metjha eo o e utlwileng? Na ho na le medumo efe kapa efe eo o e utlwileng kahara mmele wa hao? Elellwa tsela eo o ikutlwang ka yona hona jwale."
+msgstr "Leka hape ka metsotswana e meng e leshome. Na o ile wa utlwa medumo efe kapa efe e metjha? Na o ile wa utlwa medumo efe kapa efe kahara mmele wa hao? Hlokomela tsela eo o ikutlwang ka yona hona jwale."
 
 #. type=text
 msgctxt "text"
@@ -15267,12 +16219,12 @@ msgstr "Ho fapana le ho furalla boikutlo boo, a re lebeng ho bona ka nakwana."
 #. type=text
 msgctxt "text"
 msgid "It’s ok. Close your eyes if you feel comfortable. Take a deep breath."
-msgstr "Ho lokile. Kwala mahlo haeba o ikutlwa o phutholohile. Phefumulohela hodimo."
+msgstr "Ho tla loka. Kwala mahlo haeba o ikutlwa o phuthulohile. Phefumulohela hodimo."
 
 #. type=text
 msgctxt "text"
 msgid "Become curious. Where are you feeling it in your body? Is it hot or cold? Hard or soft? Tight or loose?"
-msgstr "Eba le takatso ya ho tseba dintho. Ke hokae mmeleng wa hao moo o utlwang boikutlo boo? Na ho a tjhesa kapa ho a bata? Ho thata kapa ho bonolo? Ho tiile kapa ho hlephile?"
+msgstr "Eba le takatso ya ho tseba dintho. Ke hokae moo o ikutlwang jwalo mmeleng wa hao? Na ho a tjhesa kapa ho a bata? Ho thata kapa ho bonolo? Ho tiile kapa ho hlephile?"
 
 #. type=text
 msgctxt "text"
@@ -15322,7 +16274,7 @@ msgstr "Lokolla moya ka makgetlo a mararo. 1, 2, 3."
 #. type=text
 msgctxt "text"
 msgid "Sit comfortably and close your eyes if you can."
-msgstr "Dula o phutholohile mme o kwale mahlo haeba o ka kgona."
+msgstr "Dula o iketlile mme o kwale mahlo haeba o ka kgona."
 
 #. type=text
 msgctxt "text"
@@ -15342,12 +16294,12 @@ msgstr "Ameha ka dibaka tseo ka nakwana. Hema ho hula moya sebakeng seo mme ha o
 #. type=text
 msgctxt "text"
 msgid "Do this for a few breaths. "
-msgstr "Etsa sena ka ho hema ka makgetlo a mmalwa. "
+msgstr "Etsa sena ka ho phefumuloha ka makgetlo a mmalwa. "
 
 #. type=text
 msgctxt "text"
 msgid "Open your eyes. How does your body feel now?"
-msgstr "Bula mahlo. Mmele wa hao o ikutlwa jwang hona jwale?"
+msgstr "Bula mahlo a hao. Mmele wa hao o ikutlwa jwang hona jwale?"
 
 #. type=text
 msgctxt "text"
@@ -15367,7 +16319,7 @@ msgstr "Kamano le lefatshe."
 #. type=text
 msgctxt "text"
 msgid " Notice how you feel now."
-msgstr " Elellwa tsela eo o ikutlwang ka yona hona jwale."
+msgstr " Hlokomela tsela eo o ikutlwang ka yona hona jwale."
 
 #. type=text
 msgctxt "text"
@@ -15422,17 +16374,17 @@ msgstr "Ke ntho efe e le nngwe eo o e ratang?"
 #. type=text
 msgctxt "text"
 msgid "They don't have to be big. Sometimes the small things in life count the most!"
-msgstr "Hase setlamo hore ebe dintho tse kgolo. Ka dinako tse ding dintho tse nyane bophelo ke tsa bohlokwa haholo!"
+msgstr "Ha ho hlokahale hore ebe ntho e kgolo. Ka dinako tse ding dintho tse nyane bophelo ke tsa bohlokwa haholo!"
 
 #. type=text
 msgctxt "text"
 msgid "At the end of the day, take a minute to think about the day.  "
-msgstr "Ha letsatsi le dikela, qeta motsotso o nahana ka letsatsi leo.  "
+msgstr "Qetellong ya letsatsi, qeta motsotso o nahana ka letsatsi leo.  "
 
 #. type=text
 msgctxt "text"
 msgid "Think about one positive or fun thing you did."
-msgstr "Nahana ka ntho e le nngwe e molemo kapa e thabisang eo o e entseng."
+msgstr "Nahana ka ntho e le nngwe e ntle kapa e o thabisang eo o e entseng."
 
 #. type=text
 msgctxt "text"
@@ -15441,8 +16393,13 @@ msgstr "Nahana ka ntho e le nngwe eo o ka e etsang ka tsela e fapaneng hosane. "
 
 #. type=text
 msgctxt "text"
+msgid "Think of one thing that you are grateful for."
+msgstr "Nahana ka ntho e le nngwe eo o e lebohelang."
+
+#. type=text
+msgctxt "text"
 msgid "Do you sometimes feel like you are getting everything wrong?  Here's a short activity that might help!"
-msgstr "Na ka dinako tse ding o utlwa eka ntho e nngwe le e nngwe eo o e tshwarang e a senyeha?  Ena ke ntho e kgutshwane eo o ka e etsang e ka nnang ya o thusa!"
+msgstr "Na ka dinako tse ding o utlwa eka ntho e nngwe le e nngwe eo o e tshwarang e a senyeha?  O ka nna wa etsa ketso ena e kgutshwane e ka thusang..."
 
 #. type=text
 msgctxt "text"
@@ -15452,7 +16409,7 @@ msgstr "Matla a mohlolo a tharo."
 #. type=text
 msgctxt "text"
 msgid "Close your eyes and think about the day. Name 1 thing that you are grateful for. Name 1 thing that you did well. Name 1 think that you love. You earned a goodnight of sleep!"
-msgstr "Kwala mahlo mme o nahane ka letsatsi leo. Bolela ntho e 1 eo o e ananelang. Bolela ntho e 1 eo o e entseng hantle. Bolela ntho e 1 eo o e ratang. O tshwanelwa ke ho phomola hamonate bosiu!"
+msgstr "Kwala mahlo mme o nahane ka letsatsi leo. Bolela ntho e 1 eo o e lebohelang. Bolela ntho e 1 eo o e entseng hantle. Bolela ntho e 1 eo o e ratang. O tshwanelwa ke ho phomola hamonate bosiu!"
 
 #. type=text
 msgctxt "text"
@@ -15462,17 +16419,17 @@ msgstr "Nka motsotswana hore o nahane ka letsatsi leo. Nahana ka ntho e le nngwe
 #. type=text
 msgctxt "text"
 msgid "Wrap your arms around your body and give yourself a hug."
-msgstr "Aparela mmele wa hao ka matsoho a hao mme o iphe hak."
+msgstr "Kopa mmele wa hao ka diphaka tsa hao mme o iphe hak."
 
 #. type=text
 msgctxt "text"
 msgid "Think of one thing you did today that you don’t feel proud of. What can you do differently tomorrow?"
-msgstr "Nahana ka ntho e le nngwe eo o e entseng kajeno eo o seng motlotlo ka yona. O ka etsa eng ka tsela e fapaneng hosane?"
+msgstr "Nahana ka ntho e le nngwe eo o e entseng kajeno eo o seng motlotlo ka yona. O ka etsa eng ka tsela e fapaneng hoseng?"
 
 #. type=text
 msgctxt "text"
 msgid "And wrap your arms around your body and give yourself a hug."
-msgstr "Ebe o aparela mmele wa hao ka matsoho a hao mme o iphe hak."
+msgstr "Kopa mmele wa hao ka diphaka tsa hao mme o iphe hak e kgolo."
 
 #. type=text
 msgctxt "text"
@@ -15502,7 +16459,7 @@ msgstr "O tshwanelwa ke ho phomola hamonate bosiu!"
 #. type=text
 msgctxt "text"
 msgid "It’s ok. You are doing your best so be kind to yourself. Get some rest and try again tomorrow!"
-msgstr "Ho lokile. O etsa sohle se matleng a hao kahoo inahanele. Phomola mme o leke hape hosane!"
+msgstr "Ho tla loka. O etsa sohle se matleng a hao kahoo inahanele. Phomola mme o leke hape hosane!"
 
 #. type=text
 msgctxt "text"
@@ -16275,6 +17232,12 @@ msgstr "Lelapa"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "NGO"
+msgstr "NGO"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "I didn’t stay calm during a disagreement"
 msgstr "Ha kea ka ka dula ke kgobile matshwafo nakong ya kgohlano"
 
@@ -16341,6 +17304,24 @@ msgstr "Motho e moholo (dilemo tse 18+)"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Talking to your child about COVID-19"
+msgstr "Ho bua le ngwana wa hao ka COVID-19"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "COVID-19 bereavement support"
+msgstr "Tshehetso kamora ho shwelwa ka lebaka la COVID-19"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "External support"
+msgstr "Tshehetso ya kantle"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Go back to the help menu"
 msgstr "Kgutlela ho menyu ya thuso"
 
@@ -16355,6 +17336,30 @@ msgstr "Ntlafatsa kamano ya ka le ngwana wa ka"
 msgctxt "quick_replies"
 msgid "My child to behave better"
 msgstr "Ngwana wa ka o ntlafatsa boitshwaro ba hae"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Help my child learn"
+msgstr "Thusa ngwana wa hao ho ithuta"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Reduce family stress"
+msgstr "Fokotsa seterese sa lelapa"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Keep my child safe"
+msgstr "Ho tiisa hore ngwana wa ka o bolokehile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Learn about child development"
+msgstr "Ithute ka kgolo ya ngwana"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -16695,6 +17700,12 @@ msgstr "Puo"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "English"
+msgstr "Senyesemane"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Content is not relevant"
 msgstr "Dikateng ha di sebetse"
 
@@ -16715,6 +17726,18 @@ msgstr "Melaetsa e mengata haholo"
 msgctxt "quick_replies"
 msgid "Technical problems"
 msgstr "Mathata a setekgenike"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your name"
+msgstr "Lebitso la hao"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your child's nickname"
+msgstr "Lebitso la ngwana wa hao la boswaswi"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -16769,6 +17792,12 @@ msgstr "Ho sebetsana le seterese sa ditjhelete"
 msgctxt "quick_replies"
 msgid "Family relationships"
 msgstr "Dikamano tsa lelapa"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "COVID bereavement support"
+msgstr "Tshehetso kamora ho shwelwa ka lebaka la COVID"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -17033,6 +18062,36 @@ msgstr "Ithute ka bajete ya lelapa"
 msgctxt "quick_replies"
 msgid "Look for support organisations in your area"
 msgstr "Batla tshehetso mekgatlong ya sebakeng sa heno"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Too short"
+msgstr "E kgutshwane haholo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Just right"
+msgstr "E itoketse feela"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Too long"
+msgstr "E telele haholo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Too few"
+msgstr "Fokola haholo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Too many"
+msgstr "Ngata haholo"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -17464,7 +18523,7 @@ msgstr "motho e moholo"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "other"
-msgstr "e mong"
+msgstr "e nngwe"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -17645,6 +18704,12 @@ msgstr "mohodisi"
 msgctxt "arguments"
 msgid "n no"
 msgstr "t tjhe"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "99"
+msgstr "99"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -17949,6 +19014,12 @@ msgstr "thuto"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "covid"
+msgstr "covid"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "toolkit"
 msgstr "mokotla wa dithuluse"
 
@@ -17963,6 +19034,18 @@ msgstr "dikeletso tse ding"
 msgctxt "arguments"
 msgid "play"
 msgstr "bapala"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "skills"
+msgstr "tsebo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "relax"
+msgstr "phomola"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18029,6 +19112,12 @@ msgstr "ho se wele lehlakoreng le itseng"
 msgctxt "arguments"
 msgid "help"
 msgstr "thuso"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "sos"
+msgstr "sos"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18123,8 +19212,20 @@ msgstr "molekane wa ka o ne a se na nako ya ho thusa"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "1"
+msgstr "1"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "friend"
 msgstr "motswalle"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "ngo"
+msgstr "ngo"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18195,6 +19296,24 @@ msgstr "motho e moholo"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "talking talk"
+msgstr "ho bua bua"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "bereavement"
+msgstr "ho siama"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "external"
+msgstr "kantle"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "improve my relationship with my child"
 msgstr "ntlafatsa kamano ya ka le ngwana wa ka"
 
@@ -18207,8 +19326,68 @@ msgstr "ngwana wa ka o ntlafatsa boitshwaro ba hae"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "help my child learn"
+msgstr "thusa ngwana wa ka ho ithuta"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "reduce family stress"
+msgstr "fokotsa seterese sa lelapa"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "keep my child safe"
+msgstr "boloka ngwana wa ka a sireletsehile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "learn about child development"
+msgstr "ithute ka kgolo ya ngwana"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "a under"
 msgstr "a tlase"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "b 1 2"
+msgstr "b 1 2"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "c 3 4 5"
+msgstr "c 3 4 5"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "d 6 7 8 9"
+msgstr "d 6 7 8 9"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "e 10 11 12 13 14"
+msgstr "e 10 11 12 13 14"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "f 15 16 17 18"
+msgstr "f 15 16 17 18"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "g 19 20 21 22 23"
+msgstr "g 19 20 21 22 23"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18245,6 +19424,54 @@ msgstr "hana,mamela,bohale,tello,hosehlomphe,melao,manganga,horoba,holwana,hosom
 msgctxt "arguments"
 msgid "irritable,mood"
 msgstr "sefelapelwana,kgopehalefeela"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "2"
+msgstr "2"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "3"
+msgstr "3"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "4"
+msgstr "4"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "5"
+msgstr "5"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "6"
+msgstr "6"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "7"
+msgstr "7"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "8"
+msgstr "8"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "9"
+msgstr "9"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18323,6 +19550,12 @@ msgstr "ya maikutlo"
 msgctxt "arguments"
 msgid "safe"
 msgstr "bolokehile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "covid covid19 covid-19"
+msgstr "covid covid19 covid-19"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18471,8 +19704,20 @@ msgstr "tjhe ee morao"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "english"
+msgstr "senyesemane"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "no n not back"
 msgstr "tjhe ee eseng morao"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop_messages"
+msgstr "emisa_melaetsa"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18525,6 +19770,24 @@ msgstr "morao tjhe ee "
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "your name"
+msgstr "lebitso la hao"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "child"
+msgstr "ngwana"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "back n no"
+msgstr "morao tj tjhe"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "high video"
 msgstr "video e hodimo"
 
@@ -18563,6 +19826,12 @@ msgstr "dikamano tsa lelapa"
 msgctxt "arguments"
 msgid "other services"
 msgstr "ditshebeletso tse ding"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "covid bereavement"
+msgstr "ho shwelwa ka lebaka la covid"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18671,6 +19940,12 @@ msgstr "ho se atamellane"
 msgctxt "arguments"
 msgid "no restrictions"
 msgstr "ha ho na dithibelo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "prefer"
+msgstr "rata"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18851,6 +20126,36 @@ msgstr "thahasella"
 msgctxt "arguments"
 msgid "n no stop"
 msgstr "aa tjhe emisa"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "short"
+msgstr "kgutshwane"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "right"
+msgstr "nepahetse"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "long"
+msgstr "telele"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "few"
+msgstr "kgutshwane"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "many"
+msgstr "ngata"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
