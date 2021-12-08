@@ -1,17 +1,6 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=UTF-8\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: 652eb1a39a0f8681c408f40296bb88b4\n"
-"X-Crowdin-Project-ID: 3\n"
-"X-Crowdin-Language: af\n"
-"X-Crowdin-File: /main/translations/parent_text/en/messages.pot\n"
-"X-Crowdin-File-ID: 53\n"
-"Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
-"Language-Team: Afrikaans\n"
-"\n"
-"Language: af_ZA\n"
-"PO-Revision-Date: 2021-11-02 13:01\n"
+"Content-Type: text/plain; charset=utf-8\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -580,6 +569,12 @@ msgid "That is okay! If would like to access the link at a later time, please ty
 msgstr "Dit is oukei! As jy eers later die skakel wil hê, tik asseblief \"Help\"."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You also have made progress on @results.n_incompletes_week skills."
+msgstr "Jy het ook vordering gemaak met @results.n_incompletes_week vaardighede."
+
+#. type=text
 msgctxt "text"
 msgid "Type \"Toolkit\" if you want to go back and revisit any of these tips."
 msgstr "Tik \"Gereedskapkis\" as jy wil teruggaan om weer na enige van die wenke te kyk."
@@ -776,6 +771,11 @@ msgstr "Hoeveel maande oud is @fields.survey_behave_name? Gee asseblief 'n getal
 msgctxt "text"
 msgid "What is your relationship to @fields.survey_behave_name?"
 msgstr "Wat is jou verhouding met @fields.survey_behave_name?"
+
+#. type=text
+msgctxt "text"
+msgid "You can also type \"N\" if you do not want to answer. "
+msgstr "Jy kan ook \"N\" tik as jy nie wil antwoord nie. "
 
 #. type=text
 msgctxt "text"
@@ -1072,7 +1072,7 @@ msgstr "Ons almal voel soms dat ons kinders meer negatiwiteit as positiwiteit ve
 #. type=text
 msgctxt "text"
 msgid "This is a very stressful time for families. How many days in the past week did you feel very stressed as a parent/caregiver? (0, 1, 2, 3, 4, 5, 6, 7)"
-msgstr "Dit is 'n baie stresvolle tyd vir gesinne. Hoeveel dae in die afgelope week het jy gestres gevoel as ouer/versorger? (0, 1, 2, 3, 4, 5, 6, 7)"
+msgstr "Dit is ’n baie stresvolle tyd vir gesinne. Hoeveel dae die afgelope week het jy as ouer/versorger gestres gevoel? (0, 1, 2, 3, 4, 5, 6, 7)"
 
 #. type=text
 msgctxt "text"
@@ -1142,7 +1142,7 @@ msgstr "Geld is een van die dinge wat nou die meeste stres by gesinne veroorsaak
 #. type=text
 msgctxt "text"
 msgid "How many days in the past month (30 days) did you run out of money to pay for food? (0, 1, 2, 3, ... 30)?"
-msgstr "Hoeveel keer in die afgelope maand (30 dae) het jou kosgeld opgeraak? (0, 1, 2, 3, ... 30)?"
+msgstr "Hoeveel keer die afgelope maand (30 dae) het jou kosgeld opgeraak? (0, 1, 2, 3, ... 30)?"
 
 #. type=text
 msgctxt "text"
@@ -1167,7 +1167,7 @@ msgstr "Dit is so wonderlik om te hoor dat jy 'n positiewe verhouding met jou ki
 #. type=text
 msgctxt "text"
 msgid "Bonus question: We all want to keep our children safe. In the past month, have you talked with your child about keeping safe from sexual violence online or offline? This could be when they are going out with friends, or talking about the websites they use."
-msgstr "Bonusvraag: Ons almal wil ons kinders veilig hou. Het jy die afgelope maand met jou kind gepraat oor veiligheid as dit kom by seksuele geweld aanlyn of elders? Dit kan wees as hulle saam met vriende uitgaan, of praat oor webwerwe wat hulle gebruik."
+msgstr "Bonusvraag: Ons almal wil ons kinders veilig hou. Het jy die afgelope maand met jou kind gepraat oor veiligheid as dit kom by seksuele geweld aanlyn of elders? Dit kan wees wanneer hulle saam met vriende uitgaan of praat oor webwerwe wat hulle gebruik."
 
 #. type=text
 msgctxt "text"
@@ -2004,13 +2004,28 @@ msgstr "• Skakel SafeSearch aan op jou blaaier om volwasse inhoud te filtreer.
 
 #. type=text
 msgctxt "text"
+msgid "https://www.internetmatters.org/blog/parental-controls/entertainment-search-engines/"
+msgstr "https://www.internetmatters.org/blog/parental-controls/entertainment-search-engines/"
+
+#. type=text
+msgctxt "text"
 msgid "• Set up parental controls."
 msgstr "• Stel ouerkontrole in."
 
 #. type=text
 msgctxt "text"
+msgid "https://www.internetmatters.org/parental-controls/"
+msgstr "https://www.internetmatters.org/parental-controls/"
+
+#. type=text
+msgctxt "text"
 msgid "• Set up strict privacy settings on online apps and games."
 msgstr "• Stel streng privaatheidsinstellings in op aanlyn toeps en speletjies."
+
+#. type=text
+msgctxt "text"
+msgid " https://www.internetmatters.org/blog/parental-controls/social-media/"
+msgstr " https://www.internetmatters.org/blog/parental-controls/social-media/"
 
 #. type=text
 msgctxt "text"
@@ -2035,7 +2050,12 @@ msgstr "INHOPE-blitslyne: https://www.inhope.org/EN#hotlineReferral"
 #. type=text
 msgctxt "text"
 msgid "IWF portals: https://report.iwf.org.uk/en"
-msgstr "IWF-portale: https://report.iwf.org.uk/en"
+msgstr "IWF-poorte: https://report.iwf.org.uk/en"
+
+#. type=text
+msgctxt "text"
+msgid "Child Helpline: https://www.childhelplineinternational.org/"
+msgstr "Child Helpline: https://www.childhelplineinternational.org/"
 
 #. type=text
 msgctxt "text"
@@ -2231,8 +2251,18 @@ msgstr "Ek verstaan heeltemal! Jy kan probeer deur 'n voorbeeld te stel van die 
 
 #. type=text
 msgctxt "text"
+msgid "To answer these questions, click this link to take you to an external site for extra privacy:"
+msgstr "Om hierdie vrae te beantwoord, kliek op hierdie skakel om na 'n eksterne blad geneem te word vir ekstra privaatheid:"
+
+#. type=text
+msgctxt "text"
 msgid "Can we also ask you a few quick questions about your relationship with your partner?"
 msgstr "Kan ons jou ook 'n paar vinnige vrae vra oor jou verhouding met jou maat?"
+
+#. type=text
+msgctxt "text"
+msgid "Everything you say will be completely private."
+msgstr "Alles wat jy sê is heeltemal privaat."
 
 #. type=text
 msgctxt "text"
@@ -2251,6 +2281,11 @@ msgstr "Dankie! Tik net \"Help\" enige tyd as jy ondersteuning nodig het, en ons
 
 #. type=text
 msgctxt "text"
+msgid "Thank you! Anytime you need support, just type \"Help\" and I will do my best to help you. "
+msgstr "Dankie! Tik net \"Help\" enige tyd as jy ondersteuning nodig het, en ek sal my bes doen om jou te help. "
+
+#. type=text
+msgctxt "text"
 msgid "This programme is for parents and caregivers like you (aged 18 or older)."
 msgstr "Hierdie program is vir ouers en versorgers soos jy (18 jaar en ouer)."
 
@@ -2263,6 +2298,21 @@ msgstr "Oor die volgende paar weke gaan jy boodskappe kry om jou te help om stre
 msgctxt "text"
 msgid "Your participation and any information you provide will be used anonymously by researchers to learn about how to better support families like yours. "
 msgstr "Jou deelname en enige inligting wat jy gee gaan anoniem deur navorsers gebruik word om uit te vind oor hoe om gesinne soos joune beter te ondersteun. "
+
+#. type=text
+msgctxt "text"
+msgid "Click here for more information:"
+msgstr "Kliek hier vir meer inligting:"
+
+#. type=text
+msgctxt "text"
+msgid "https://covid19parenting.com/assets/consents/eng.pdf"
+msgstr "https://covid19parenting.com/assets/consents/eng.pdf"
+
+#. type=text
+msgctxt "text"
+msgid "Type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate. "
+msgstr "Tik \"Ja\" as jy hiermee saamstem. Tik \"Gaan uit\" as jy nie wil deelneem nie. "
 
 #. type=text
 msgctxt "text"
@@ -2298,6 +2348,16 @@ msgstr "As jy graag deel wil wees van ParentText, kan jy dit altyd na jou ouers 
 msgctxt "text"
 msgid "Thank you so much for confirming this. You are now ready to begin your ParentText journey!"
 msgstr "Baie dankie dat jy dit bevestig het. Jy is nou gereed om jou ParentText-reis te begin!"
+
+#. type=text
+msgctxt "text"
+msgid "Did you know that over 197 million parents around the world have used our resources developed by Parenting for Lifelong Health, WHO, and UNICEF?"
+msgstr "Het jy geweet meer as 197 miljoen ouers regoor die wêreld het al ons hulpbronne gebruik, ontwikkel deur Parenting for Lifelong Health, die WGO en UNICEF?"
+
+#. type=text
+msgctxt "text"
+msgid "Did you know that over 197 million parents around the world have used these resources developed by Parenting for Lifelong Health, WHO, and UNICEF?"
+msgstr "Het jy geweet meer as 197 miljoen ouers regoor die wêreld het al hierdie hulpbronne gebruik, ontwikkel deur Parenting for Lifelong Health, die WGO en UNICEF?"
 
 #. type=text
 msgctxt "text"
@@ -2424,7 +2484,7 @@ msgstr "Dit is oukei @fields.user_name! Onthou, jy kan enige tyd toegang kry tot
 #. type=text
 msgctxt "text"
 msgid "Name that tune"
-msgstr "Liedjie-raai"
+msgstr "Liedjieraai"
 
 #. type=text
 msgctxt "text"
@@ -2635,7 +2695,7 @@ msgstr "Let op waar jy dit in jou liggaam voel. Let op na die gedagtes wat saam 
 #. type=text
 msgctxt "text"
 msgid "Thank yourself for taking the time to check in with your feelings and thoughts! Remember, you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat later!"
-msgstr "Sê dankie vir jouself dat jy tyd gemaak het vir jou gevoelens en gedagtes! Onthou, jy kan altyd \"Help\" tik enige tyd as jy 'n aktiwiteit nodig het om jou te help ontspan of stres te verlig. Praat later!"
+msgstr "Sê vir jouself dankie dat jy tyd gemaak het vir jou gevoelens en gedagtes! Onthou, jy kan altyd \"Help\" tik enige tyd as jy 'n aktiwiteit nodig het om jou te help ontspan of stres te verlig. Praat later!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -2910,6 +2970,11 @@ msgstr "Hi! Het jy onlangs probeer betrokke raak in hulp met huistake, asook jou
 
 #. type=text
 msgctxt "text"
+msgid "We are sorry to hear this. What did you find difficult when trying to help out with caregiving or housework?"
+msgstr "Ons is jammer om dit te hoor. Wat was vir jou moeilik toe jy probeer het om met versorging of huistake te help?"
+
+#. type=text
+msgctxt "text"
 msgid "We are sorry to hear this. What did you find difficult when trying to involve your partner in caregiving or housework?"
 msgstr "Ons is jammer om dit te hoor. Wat was vir jou moeilik toe jy probeer het om jou maat te betrek in versorging of huistake?"
 
@@ -2917,6 +2982,11 @@ msgstr "Ons is jammer om dit te hoor. Wat was vir jou moeilik toe jy probeer het
 msgctxt "text"
 msgid "We are sorry to hear this. What did you find difficult when trying to share responsibilities for caregiving and housework with your partner?"
 msgstr "Ons is jammer om dit te hoor. Wat was vir jou moeilik toe jy probeer het om die verantwoordelikhede vir versorging en huistake met jou maat te deel?"
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry to hear this. What did you find difficult when trying to help out with caregiving or housework?"
+msgstr "Ek is jammer om dit te hoor. Wat was vir jou moeilik toe jy probeer het om met versorging of huistake te help?"
 
 #. type=text
 msgctxt "text"
@@ -3085,8 +3155,18 @@ msgstr "\"Hoe gaan ek hierdeur kom?\""
 
 #. type=text
 msgctxt "text"
+msgid "(1)"
+msgstr "(1)"
+
+#. type=text
+msgctxt "text"
 msgid "“Whatever it is, I am okay.” "
 msgstr "\"Wat dit ook al is, ek is oukei.\" "
+
+#. type=text
+msgctxt "text"
+msgid "(2)"
+msgstr "(2)"
 
 #. type=text
 msgctxt "text"
@@ -3095,8 +3175,18 @@ msgstr "\"Asem in. Asem uit.\""
 
 #. type=text
 msgctxt "text"
+msgid "(3)"
+msgstr "(3)"
+
+#. type=text
+msgctxt "text"
 msgid "“I can do this. We will get through it together.”"
 msgstr "\"Ek kan dit doen. Ons sal saam hierdeur kom.\""
+
+#. type=text
+msgctxt "text"
+msgid "(4)"
+msgstr "(4)"
 
 #. type=text
 msgctxt "text"
@@ -3303,6 +3393,11 @@ msgid "We understand that spending One-on-One Time can sometimes be difficult. H
 msgstr "Ons verstaan dis soms moeilik om Een-tot-Een-Tyd te hê. Hier is van die hoofredes waarom ouers sukkel. Watter een is die meeste soos jy?"
 
 #. type=text
+msgctxt "text"
+msgid "I understand that spending One-on-One Time can sometimes be difficult. Here are some of the main reasons parents struggle. Which one is the closest to you?"
+msgstr "Ek verstaan dis soms moeilik om tyd te maak vir persoonlike aandag. Hier is van die hoofredes waarom ouers sukkel. Watter een is die meeste soos jy?"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "If @fields.child_nickname wants to do things that are too difficult for you to physically do, you can simply watch @fields.child_nickname. Try describing what they are doing like a sports announcer and praising what they do!"
@@ -3408,6 +3503,11 @@ msgstr "As jou kind te klein is om te verstaan hoe lank 'n minuut is, kan jy sê
 msgctxt "text"
 msgid "We are sorry to hear that you have been having some difficulties spending One-on-One Time with your children. Please type \"Help\" for other advice that might be of use to you. Thank you for trying your best!"
 msgstr "Ons is jammer om te hoor dat jy gesukkel het om Een-tot-Een-Tyd met jou kinders te spandeer. Tik asseblief \"Help\" vir ander raad wat nuttig kan wees vir jou. Dankie dat jy jou bes probeer!"
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry to hear that you have been having some difficulties spending One-on-One Time with your children. Please type \"Help\" for other advice that might be of use to you. Thank you for trying your best!"
+msgstr "Ek is jammer om te hoor jy sukkel om tyd te kry om persoonlike aandag aan jou kinders te gee. Tik asseblief \"Help\" vir ander raad wat nuttig kan wees vir jou. Dankie dat jy jou bes probeer!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -4251,6 +4351,11 @@ msgstr "Hier is 5 eenvoudige wenke oor hoe jy 'n liefdevolle en vreedsame verhou
 
 #. type=text
 msgctxt "text"
+msgid "  "
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "  1. Treat each other as equals"
 msgstr "  1. Behandel mekaar as gelykes"
 
@@ -4395,6 +4500,11 @@ msgstr "Wil jy graag 'n ander aktiwiteit kies?"
 msgctxt "text"
 msgid "That's okay! Here is a great resource from LEGO of more activities that you can do with your children!"
 msgstr "Dis oukei! Hier is 'n wonderlike bron van LEGO vir meer aktiwiteite wat jy saam met jou kinders kan doen!"
+
+#. type=text
+msgctxt "text"
+msgid "https://playlist.legofoundation.com/all-activities/"
+msgstr "https://playlist.legofoundation.com/all-activities/"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -4956,6 +5066,16 @@ msgstr "Jou kind het regtig voordeel getrek uit jou vordering na jou doelwit om 
 
 #. type=text
 msgctxt "text"
+msgid "Which information about COVID-19 would you like to receive?"
+msgstr "Watter inligting oor COVID-19 wil jy graag ontvang?"
+
+#. type=text
+msgctxt "text"
+msgid "Thanks so much! We all want the best for our children as parents."
+msgstr "Baie dankie! As ouers wil ons almal die beste vir ons kinders hê."
+
+#. type=text
+msgctxt "text"
 msgid "Could you please choose the goal that is most important to you as a parent?"
 msgstr "Kan jy asseblief die doelwit kies wat vir jou as ouer die belangrikste is?"
 
@@ -4990,6 +5110,46 @@ msgid "Quick tip: Try to start a conversation with your child about safe and uns
 msgstr "Vinnige wenk: Probeer 'n gesprek met jou kind begin oor veilige en onveilige plekke in jou gemeenskap en aanlyn. Hulle weet dalk van plekke wat jy nie ken nie. Dit sal julle help om saam 'n plan te maak oor hoe om veilig te bly."
 
 #. type=text
+msgctxt "text"
+msgid "Quick Tip: All children develop and grow at different rates. Understanding how your child is developing can help you meet their needs and give them the best start in life. It will also help you understand your child better!"
+msgstr "Vinnige wenk: Alle kinders ontwikkel en groei teen verskillende tempo’s. As jy verstaan hoe jou kind ontwikkel, kan dit jou help om in hulle behoeftes te voorsien en hulle ten beste vir die lewe voor te berei. Dit sal jou ook help om jou kind beter te verstaan!"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about how to improve your relationship with your child?"
+msgstr "Wil jy meer weet oor hoe om jou verhouding met jou kind te verbeter?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about managing your child's behaviour?"
+msgstr "Wil jy meer weet oor hoe om jou kind se gedrag te beheer?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like know more about how to help your child learn?"
+msgstr "Wil jy meer weet oor hoe om jou kind te help om te leer?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about how to reduce family stress?"
+msgstr "Wil jy meer weet oor hoe om spanning in gesinsverband te verminder?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about how to keep your child safe?"
+msgstr "Wil jy meer weet oor hoe om jou kind veilig te hou?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about child development?"
+msgstr "Wil jy meer weet oor kinderontwikkeling?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay! Remember that you can always get more information by typing \"Help\"."
+msgstr "Dis oukei! Onthou, jy kan altyd meer inligting kry deur \"Help\" te tik."
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Congratulations @fields.user_name! You have completed your first parenting tip. Setting Goals is the foundation to building a positive relationship between you and your children. Well done!"
@@ -5010,6 +5170,16 @@ msgstr "Veels geluk @fields.user_name! Jy het jou eerste vlak by jou Huis van On
 msgctxt "text"
 msgid "Congratulations! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and your children. Well done!"
 msgstr "Veels geluk! Jy het jou eerste vlak by jou Huis van Ondersteuning gevoeg.  Doelwitte is die grondslag van 'n positiewe verhouding tussen jou en jou kinders. Mooi so!"
+
+#. type=text
+msgctxt "text"
+msgid "Thanks so much for a great chat session! Over the next few weeks, you will receive messages to help you manage stress and maintain positive relationships at home. We are really happy you signed up for these tips. Chat later!"
+msgstr "Baie dankie vir 'n heerlike gesprek! Oor die volgende paar weke gaan jy boodskappe kry om jou te help om stres te hanteer en positiewe verhoudings by die huis te handhaaf. Ons is regtig bly jy het vir hierdie wenke aangesluit. Praat later!"
+
+#. type=text
+msgctxt "text"
+msgid "Thanks so much for a great chat session! Over the next few weeks, you will receive messages to help you manage stress and maintain positive relationships at home. I am really happy you signed up for these tips. Chat later!"
+msgstr "Baie dankie vir 'n heerlike gesprek! Oor die volgende paar weke gaan jy boodskappe kry om jou te help om stres te hanteer en positiewe verhoudings by die huis te handhaaf. Ek is regtig bly jy het vir hierdie wenke aangesluit. Praat later!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -5261,6 +5431,11 @@ msgstr "Jammer, ek verstaan nie wat jy bedoel nie. Antwoord asseblief met 'n nom
 
 #. type=text
 msgctxt "text"
+msgid " "
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "Would you like to go back to the Help menu?"
 msgstr "Wil jy na die Help-kieslys teruggaan?"
 
@@ -5330,6 +5505,11 @@ msgstr "Geweld by die huis: "
 msgctxt "text"
 msgid "Drug: "
 msgstr "Dwelms: "
+
+#. type=text
+msgctxt "text"
+msgid "Childline: "
+msgstr "Childline: "
 
 #. type=text
 msgctxt "text"
@@ -5418,6 +5598,11 @@ msgstr "Ok, dankie. Ons praat later!"
 
 #. type=text
 msgctxt "text"
+msgid "Would you like to change the language you are currently receiving messages in?"
+msgstr "Wil jy die taal verander waarin jy tans boodskappe ontvang?"
+
+#. type=text
+msgctxt "text"
 msgid "Which language would you like?"
 msgstr "Watter taal verkies jy?"
 
@@ -5478,13 +5663,45 @@ msgstr "Kan jy asseblief vir ons sê waarom jy nie meer hierdie boodskappe wil o
 
 #. type=text
 msgctxt "text"
+msgid "Could you please tell me why you want to stop receiving these messages?"
+msgstr "Kan jy asseblief vir my sê waarom jy nie meer hierdie boodskappe wil ontvang nie?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to tell us a little bit more about your experience?"
+msgstr "Wil jy vir ons ’n bietjie meer oor jou ervaring vertel?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to tell me a little bit more about your experience?"
+msgstr "Wil jy vir my ’n bietjie meer oor jou ervaring vertel?"
+
+#. type=text
+msgctxt "text"
 msgid "Thank you so much for participating in the programme! If you want to return to the programme, type \"START_MESSAGES\". "
 msgstr "Baie dankie vir jou deelname aan die program! As jy na die program wil terugkeer, tik \"BEGIN_BOODSKAPPE\". "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your name or nickname is @fields.user_name."
+msgstr "Jou naam of bynaam is @fields.user_name."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "The name or nickname of your child is @fields.child_nickname."
+msgstr "Jou kind se naam of bynaam is @fields.child_nickname."
 
 #. type=text
 msgctxt "text"
 msgid "What would you like to update?"
 msgstr "Wat wil jy graag bywerk?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update any other information?"
+msgstr "Is daar enige van jou ander inligting wat verander het?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -5646,6 +5863,11 @@ msgstr "Kon jy EEN reël of daaglikse roetine saam met @fields.child_nickname va
 
 #. type=text
 msgctxt "text"
+msgid "Did you manage to establish ONE rule or daily routine together with your child or teen?"
+msgstr "Kon jy EEN reël of daaglikse roetine saam met jou kind of tiener neerlê?"
+
+#. type=text
+msgctxt "text"
 msgid "Great to hear it this! Remember, the more we involve our children in setting rules, the more our children will be likely to follow them!"
 msgstr "Wonderlik om dit te hoor! Onthou, hoe meer ons ons kinders betrek in die neerlê van reëls, hoe meer sal hulle geneig wees om daarby te hou!"
 
@@ -5681,16 +5903,31 @@ msgid "Sorry you did not manage to do this yet. Sit down with @fields.child_nick
 msgstr "Jammer dat jy dit nog nie gedoen kon kry nie. Gaan sit saam met @fields.child_nickname en probeer vandag weer – wanneer jou kinders betrokke is, gaan hulle meer dikwels die reël nakom! "
 
 #. type=text
+msgctxt "text"
+msgid "Sorry you did not manage to do this yet. Sit down with your child or teen and try again today - involving your children will make them want to follow the rule more often! "
+msgstr "Jammer dat jy dit nog nie gedoen kon kry nie. Gaan sit saam met jou kind of tiener en probeer vandag weer – as jy jou kinders betrek, sal hulle meer geneë wees om die reël na te kom! "
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "What was difficult for you about establishing a rule or routine with @fields.child_nickname?"
 msgstr "Wat was vir jou moeilik toe jy 'n reël of roetine saam met @fields.child_nickname wou vasstel?"
 
 #. type=text
+msgctxt "text"
+msgid "What was difficult for you about establishing a rule or routine with your child or teen?"
+msgstr "Wat was vir jou moeilik toe jy 'n reël of roetine saam met jou kind of tiener wou neerlê?"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Amazing! Consistent rules and routines help make @fields.child_nickname feel secure. They also keep them safe!"
 msgstr "Fantasties! Konsekwente reëls en roetines help om @fields.child_nickname geborge te laat voel. Dit hou hulle ook veilig!"
+
+#. type=text
+msgctxt "text"
+msgid "Amazing! Consistent rules and routines help make your child or teen feel secure. They also keep them safe!"
+msgstr "Fantasties! Konsekwente reëls en roetines help om jou kind of tiener geborge te laat voel. Dit hou hulle ook veilig!"
 
 #. type=text
 msgctxt "text"
@@ -5956,7 +6193,7 @@ msgstr "Da ta! Die wonder van 'n Blaaskans! My transformasie van knorrig na kalm
 #. type=text
 msgctxt "text"
 msgid "Taking care of yourself"
-msgstr "Gee om vir jouself"
+msgstr "Sorg vir jouself"
 
 #. type=text
 msgctxt "text"
@@ -7094,7 +7331,7 @@ msgstr "Vra jou kind wat was hulle gunstelingdeel van die storie!"
 #. type=text
 msgctxt "text"
 msgid "The Interrupter"
-msgstr "Die Onderbreker"
+msgstr "Die onderbreker"
 
 #. type=text
 msgctxt "text"
@@ -7169,7 +7406,7 @@ msgstr "Deel dit met jou kind en let op hoe hulle luister!"
 #. type=text
 msgctxt "text"
 msgid "Co-chef"
-msgstr "Mede-kok"
+msgstr "Medekok"
 
 #. type=text
 msgctxt "text"
@@ -7429,7 +7666,7 @@ msgstr "Probeer om dit elke dag saam te doen, wanneer julle saam eet of voor sla
 #. type=text
 msgctxt "text"
 msgid "Just a friendly chat"
-msgstr "Net 'n vriendelike geselsie"
+msgstr "Net ’n vriendelike geselsie"
 
 #. type=text
 msgctxt "text"
@@ -7519,7 +7756,7 @@ msgstr "Tweede persoon las aan by die eerste persoon se plan: \"Wanneer COVID-19
 #. type=text
 msgctxt "text"
 msgid "Yes, No or Maybe"
-msgstr "Ja, Nee of Miskien"
+msgstr "Ja, nee of miskien"
 
 #. type=text
 msgctxt "text"
@@ -7664,6 +7901,11 @@ msgstr "WGO: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/adv
 
 #. type=text
 msgctxt "text"
+msgid "UNICEF: https://www.unicef.org/coronavirus/covid-19 "
+msgstr "UNICEF: https://www.unicef.org/coronavirus/covid-19 "
+
+#. type=text
+msgctxt "text"
 msgid "Please select another number if you want to learn more about how to talk about COVID-19 with your children:"
 msgstr "Kies asseblief 'n ander nommer as jy meer wil uitvind oor hoe om met jou kinders oor COVID-19 te praat:"
 
@@ -7792,6 +8034,16 @@ msgstr "Dis oukei! Jy kan altyd \"Help\" tik as jy meer oor kinderontwikkeling w
 msgctxt "text"
 msgid "All children develop at different rates. But there are some things that we expect children to be able to do at an age. These are called ‘development’ milestones."
 msgstr "Alle kinders ontwikkel teen verskillende tempo’s. Maar daar is sommige dinge wat van kinders op 'n sekere ouderdom verwag word. Dit word \"ontwikkelingsmylpale\" genoem."
+
+#. type=text
+msgctxt "text"
+msgid "If you are concerned that your child might be delayed in their development, here is a link to services in your area that may also be helpful:"
+msgstr "As jy bekommerd is dat jou kind dalk agter is in hulle ontwikkeling, kan hierdie skakel na dienste in jou omgewing dalk help:"
+
+#. type=text
+msgctxt "text"
+msgid "You can also visit UNICEF's website for more helpful information about child development:"
+msgstr "Jy kan ook UNICEF se webwerf besoek vir meer nuttige inligting oor kinderontwikkeling:"
 
 #. type=text
 msgctxt "text"
@@ -8223,6 +8475,11 @@ msgstr "Dis oukei! Jy kan altyd \"Help\" tik as jy meer wil uitvind oor hoe om k
 
 #. type=text
 msgctxt "text"
+msgid "Here is a link to disability services in your area that may also be helpful:"
+msgstr "Hier is 'n skakel na gestremdheidsdienste in jou omgewing wat ook nuttig kan wees:"
+
+#. type=text
+msgctxt "text"
 msgid "Here are 6 simple tips that you can do to support children living with disabilities: "
 msgstr "Hier is 6 eenvoudige wenke vir dinge wat jy kan doen om kinders wat met gestremdhede leef, te ondersteun: "
 
@@ -8368,8 +8625,18 @@ msgstr "Gestremde kind: \"Kan jy my help etenstafel toe?\""
 
 #. type=text
 msgctxt "text"
+msgid "(5)"
+msgstr "(5)"
+
+#. type=text
+msgctxt "text"
 msgid "Parent: \"Thank you for asking. Let's go together. You are so strong!\""
 msgstr "Ouer: \"Dankie dat jy vra. Kom ons doen dit saam. Jy is so sterk!\""
+
+#. type=text
+msgctxt "text"
+msgid "(6)"
+msgstr "(6)"
 
 #. type=text
 msgctxt "text"
@@ -8636,7 +8903,7 @@ msgstr "Ouer: \"Jy het 'n keuse, of jy gee my die foon, of jy mag dit nie na aan
 #. type=text
 msgctxt "text"
 msgid "Teen (not happy but agreeing): “Fine.”"
-msgstr "Tiener (nie gelukkig nie, maar stem in): \"Fine.\""
+msgstr "Tiener (nie gelukkig nie, maar stem in): “Reg so.”"
 
 #. type=text
 msgctxt "text"
@@ -9206,6 +9473,17 @@ msgid "5. Take a break!"
 msgstr "5. Vat 'n blaaskans!"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe place and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes. "
+msgstr "As jy begin kwaad word omdat @fields.child_nickname nie wil ophou huil nie, is dit OK om hulle 'n bietjie op hulle rug te los op 'n veilige plek en weg te stap vir 'n oomblik. Bly naby sodat jy @fields.child_nickname. kan dophou. Gooi elke 5–10 minute ‘n ogie oor @fields.child_nickname. "
+
+#. type=text
+msgctxt "text"
+msgid "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe place and walk away for a bit. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes. "
+msgstr "As jy begin kwaad word omdat jou baba nie wil ophou huil nie, is dit OK om hulle 'n bietjie op hulle rug te los op 'n veilige plek en weg te stap vir 'n oomblik. Bly naby sodat jy jou baba kan dophou. Gaan loer elke 5-10 minute by jou baba in. "
+
+#. type=text
 msgctxt "text"
 msgid "We know that this is not easy. You are not a bad father if your baby continues to cry after you have done all you can to calm them. You are doing your best!"
 msgstr "Ons weet dit is nie maklik nie. Jy is nie 'n slegte pa as jou baba aanhou huil nadat jy alles in jou vermoë gedoen het om hulle te kalmeer nie. Jy doen jou bes!"
@@ -9646,6 +9924,11 @@ msgstr "Kind: \"Ek wil nie die tafel afdek nie. Ek wil met my nuwe karretjie spe
 
 #. type=text
 msgctxt "text"
+msgid "Parent 1: \"The household rule is that you have to help clean up after dinner before you can play with your toys.\""
+msgstr "Ouer 1: \"Die huis se reël is dat jy help afdek na ete voor jy met jou speelgoed kan speel.\""
+
+#. type=text
+msgctxt "text"
 msgid "Child: \"But it is not fair! Sam doesn't have to clean up after dinner!\""
 msgstr "Kind: \"Dis nie reg nie! Sam hoef nie af te dek na ete nie!\""
 
@@ -9686,8 +9969,18 @@ msgstr "Ouer 1: \"Jy kan môre met jou karretjie speel. Dis slaaptyd. Kom, my li
 
 #. type=text
 msgctxt "text"
+msgid "(7)"
+msgstr "(7)"
+
+#. type=text
+msgctxt "text"
 msgid "Parent 1: \"Once upon a time...\""
 msgstr "Ouer 1: \"Eendag was daar...\""
+
+#. type=text
+msgctxt "text"
+msgid "(8)"
+msgstr "(8)"
 
 #. type=text
 msgctxt "text"
@@ -9863,6 +10156,237 @@ msgstr "Mooi so @fields.user_name! Jy het nog 'n vlak by jou Huis van Ondersteun
 msgctxt "text"
 msgid "Well done! You have added a layer to your House of Support. Over the next few days, try to identify one negative attention-seeking behaviour that you can try to first redirect and then ignore if it continues. Remember to ignore the behaviour, not your child! It is not easy, but if you are patient and give it time, it really works. You can do this!"
 msgstr "Mooi so! Jy het nog 'n vlak by jou Huis van Ondersteuning gevoeg. Probeer oor die volgende paar dae 'n voorval van negatiewe aandagsoekende gedrag raaksien. Lei jou kind se aandag af, as jy kan. Ignoreer dan die gedrag as dit aanhou.  Onthou, ignoreer die gedrag, nie jou kind nie! Dit is nie maklik nie, maar as jy geduldig is en dit tyd gee, werk dit regtig. Jy kan dit doen!"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like some tips on coping with COVID-19 bereavement?"
+msgstr "Wil jy ‘n paar wenke hê oor hoe om ‘n COVID-19-verlies te  verwerk?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay! You can always type \"Help\" if you want to learn more about how to cope with COVID-19 related loss."
+msgstr "Dis oukei! Jy kan altyd \"Help\" tik as jy meer wil uitvind oor hoe om ‘n COVID-19-verwante verlies te verwerk."
+
+#. type=text
+msgctxt "text"
+msgid "If you have any further questions about COVID-19, you can always check your local COVID-19 hotline:"
+msgstr "As jy enige verdere vrae oor COVID-19 het, kan jy altyd jou plaaslike COVID-19-blitslyn skakel:"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 10 tips for coping with bereavement as a parent/caregiver:"
+msgstr "Hier is tien wenke oor hoe om verlies te verwerk as ouer/versorger:"
+
+#. type=text
+msgctxt "text"
+msgid "1. Looking after yourself helps your child"
+msgstr "1. Dit help jou kind as jy na jouself omsien"
+
+#. type=text
+msgctxt "text"
+msgid "2. Be honest and tell your children"
+msgstr "2. Wees eerlik en vertel jou kinders"
+
+#. type=text
+msgctxt "text"
+msgid "3. Children grieve in different ways "
+msgstr "3. Kinders rou op verskillende maniere "
+
+#. type=text
+msgctxt "text"
+msgid "4. Be kind to yourself"
+msgstr "4. Wees jouself goedgesind"
+
+#. type=text
+msgctxt "text"
+msgid "5. Practical things you may need"
+msgstr "5. Praktiese goed wat jy dalk kan nodig kry"
+
+#. type=text
+msgctxt "text"
+msgid "6. Find a group or person to talk to"
+msgstr "6. Kry ‘n groep of persoon om mee te praat"
+
+#. type=text
+msgctxt "text"
+msgid "7. Grieving in your own way"
+msgstr "7. Dis die beste vir jou om op jou eie manier te rou"
+
+#. type=text
+msgctxt "text"
+msgid "8. Relaxing helps coping"
+msgstr "8. Om te ontspan maak dit makliker om dinge te hanteer"
+
+#. type=text
+msgctxt "text"
+msgid "9. Giving chances to say goodbye"
+msgstr "9. Gee almal ‘n kans om totsiens te sê"
+
+#. type=text
+msgctxt "text"
+msgid "10. One on one time with your child"
+msgstr "10. Spandeer bietjie tyd met jou kind"
+
+#. type=text
+msgctxt "text"
+msgid "Type \"1\" to \"10\" to learn more about  of these tips. Type \"N\" to stop this tip."
+msgstr "Tik \"1\" tot \"10\" om meer oor hierdie wenke uit te vind. Tik \"N\" om hierdie wenk te stop."
+
+#. type=text
+msgctxt "text"
+msgid "You should tell your children that the person had died - sometimes children do not realise when someone has passed away. When you tell them use words they understand."
+msgstr "Vertel vir jou kinders dat die persoon dood is – soms besef kinders nie dat iemand oorlede is nie. Gebruik woorde wat hulle verstaan wanneer jy hulle vertel."
+
+#. type=text
+msgctxt "text"
+msgid "3. Children grieve in different ways"
+msgstr "3. "
+
+#. type=text
+msgctxt "text"
+msgid "Grief can affect us for weeks, months, or years. Do not feel pressured to feel better quickly. "
+msgstr "Die rouproses kan ons weke, maande of jare lank affekteer. Moenie onder druk voel om gou beter te voel nie. "
+
+#. type=text
+msgctxt "text"
+msgid "Children, like adults, experience grief in different ways. Children might be sad, angry, not understand or believe it, feel numb, unwell or have pains, nightmares, or problems at school. Children may also seem happy, but still be sad. Children may behave if they are much younger than they are for a while."
+msgstr "Net soos volwassenes ervaar kinders ook die rouproses op verskillende maniere. Kinders kan hartseer of kwaad voel, dit nie verstaan of glo nie, afgestomp of siek voel of pyn ervaar, nagmerries kry of probleme by die skool optel. Kinders kan ook gelukkig voorkom terwyl hulle eintlik hartseer is. Kinders kan ‘n ruk lank baie jonger as hulle ouderdom optree."
+
+#. type=text
+msgctxt "text"
+msgid "Although it may seem like the most important thing is to make sure your children are okay, when you look after yourself, you are also helping your child."
+msgstr "Al voel dit asof dit die belangrikste is om seker te maak jou kinders is oukei, help jy ook jou kind as jy na jouself omsien."
+
+#. type=text
+msgctxt "text"
+msgid "Remember to be kind to yourself, you are also dealing with the loss of a loved one. It is okay to not feel good and it is okay to cry. Try taking some time out of each day for yourself and making a list of things that make you feel better and do them. These small acts can help and make sure that you are being kind to yourself."
+msgstr "Onthou om sag op jouself te wees, jy is ook besig om die verlies van ‘n geliefde te probeer verwerk. Dis oukei om nie lekker te voel nie en dis oukei om te huil. Probeer elke dag vir jouself tyd maak, en maak ‘n lys van goed wat jou beter laat voel en doen dit. Hierdie klein stappies kan help, en hulle maak dat jy na jouself omsien."
+
+#. type=text
+msgctxt "text"
+msgid "Ask someone you trust for help, food or childcare can be useful. You may also need documents for inheritance, for children, or to access services. Make sure you find out about your rights, sometimes people try to take money or inheritance from a grieving person."
+msgstr "Vra iemand op wie jy kan staatmaak om jou te help; kos of kindersorg kan goed te pas kom. Jy het dalk ook dokumente vir erflatings, vir kinders of vir toegang tot dienste nodig. Maak seker jy vind uit wat jou regte is; mense probeer partykeer geld of erfporsies van ‘n persoon in rou afvat."
+
+#. type=text
+msgctxt "text"
+msgid "If they do not understand what death is, help explain that the person they love is not coming back. Try not call it 'sleep' or 'a trip away'. You may have to tell your children about the passing many times before they grasp what happened."
+msgstr "As hulle nie verstaan wat die dood beteken nie, help verduidelik dat die persoon vir wie hulle lief is, nie terugkom nie. Probeer om nie te sê hulle ‘slaap’ of ‘het êrens heen gegaan’ nie. Jy sal dalk die sterfte oor en oor aan jou kinders moet verduidelik voordat hulle snap wat gebeur het."
+
+#. type=text
+msgctxt "text"
+msgid "Here are three steps that you can aim to do every day to look after yourself: "
+msgstr "Hier is drie stappe wat jy elke dag kan probeer volg om na jouself om te sien: "
+
+#. type=text
+msgctxt "text"
+msgid "1. Get enough sleep and food every day. "
+msgstr "1. Kry elke dag genoeg slaap en kos in. "
+
+#. type=text
+msgctxt "text"
+msgid "2. Take a few minutes to relax and have a break"
+msgstr "2. Gun jouself ‘n paar minute om te ontspan en te rus"
+
+#. type=text
+msgctxt "text"
+msgid "3. Find one or two adults who can support you, listen, and talk. "
+msgstr "3. Kry een of twee volwassenes wat jou kan ondersteun en na jou kan luister en met jou kan gesels. "
+
+#. type=text
+msgctxt "text"
+msgid "9. Giving changes to say goodbye"
+msgstr "9. Gee almal ‘n kans om totsiens te sê"
+
+#. type=text
+msgctxt "text"
+msgid "Saying goodbye is difficult and you should do whatever feels like the right thing to do for you and your child. Families, children and parents are not perfect. When someone has died, it is okay to talk about the good and the bad things we remember. It can help to write a letter or make a drawing of the person that passed away."
+msgstr "Dis moeilik om iemand te groet, en jy moet doen wat jy dink reg is vir jou en jou kind. Gesinne, kinders en ouers is nie perfek nie. Wanneer iemand oorlede is, is dit oukei om oor die goeie en slegte goed te praat wat ons onthou. Dit kan help om ‘n brief vir die oorledene te skryf of ‘n tekening van hulle te maak."
+
+#. type=text
+msgctxt "text"
+msgid "These reactions may not make sense to you, but they are all normal. Children may also feel like it was their fault - that they passed on the virus or that they behaved badly. Tell them clearly that they did nothing wrong."
+msgstr "Hierdie reaksies maak dalk nie vir jou sin nie, maar dis heeltemal normaal. Kinders kan ook voel dit was hulle fout – dat hulle die virus oorgedra het of dat hulle iets verkeerd gedoen het. Sê in soveel woorde vir hulle dat hulle niks verkeerd gedoen het nie."
+
+#. type=text
+msgctxt "text"
+msgid "Children can respond in many different ways (e.g. crying, shouting, not believing, going very quiet), and all reactions are okay. Allow your child to ask questions and to talk about it. Most importantly, remind them that you are there for them."
+msgstr "Kinders kan op baie verskillende maniere reageer (bv. huil, skree, nie glo wat gebeur het nie, baie stil raak), en alle reaksies is oukei. Laat jou kind toe om vrae te vra en daaroor te praat. Belangrikste van alles, herinner hulle daaraan dat jy daar is vir hulle."
+
+#. type=text
+msgctxt "text"
+msgid "If there is a support group that your child can be part of, this can help. If your child talks about wanting to hurt or kill themselves, ask for help as soon as you can."
+msgstr "As daar ‘n ondersteuningsgroep is waaraan jou kind kan deelneem, kan dit help. As jou kind daarvan praat om hulself seer te maak of selfdood te pleeg, kry so gou moontlik hulp."
+
+#. type=text
+msgctxt "text"
+msgid "Some people hold a ceremony or have a special meal to celebrate the person and say goodbye. Others make a box of memories, to put things that remind them of the person. It can also help just to talk about the person when you think about them."
+msgstr "Party mense hou ‘n seremonie of berei ‘n spesiale maaltyd voor om die persoon se lewe te vier en afskeid te neem. Ander maak ‘n boks vol aandenkinge wat hulle aan die persoon herinner. Dit kan ook help om eenvoudig oor die persoon te praat wanneer jy aan hulle dink."
+
+#. type=text
+msgctxt "text"
+msgid "Talking with someone who can support you and listen to you can help. It can also help to join a group of people who have also lost someone. Remember nobody is perfect. It is okay to talk about the good and the bad times. "
+msgstr "Dit kan help om met iemand te praat wat jou kan ondersteun en na jou kan luister. Dit kan ook help om aan te sluit by ‘n groep mense wat self iemand verloor het. Onthou, niemand is perfek nie. Dis oukei om oor die goeie en slegte tye te praat. "
+
+#. type=text
+msgctxt "text"
+msgid "We all grieve in our own ways, from shouting, crying, feeling angry or sad. It can also feel different every day. Sometimes we feel better, then we feel worse again. Whatever you feel, your feelings are valid and it is okay. "
+msgstr "Ons rou almal op ons eie manier, van skree tot huil, tot kwaad word of hartseer voel. Dit kan ook elke dag anders voel. Partykeer voel ons beter, dan voel ons weer erger. Wat ook al jou gevoelens, hoe jy voel is hoe jy voel, en dis oukei. "
+
+#. type=text
+msgctxt "text"
+msgid "Try to do one simple thing to relax each day with your child or teenage, and also for yourself. It can also help to use this when you are upset or angry."
+msgstr "Probeer elke dag een eenvoudige ding doen om saam met jou kind of tiener te ontspan, en doen iets net vir jouself ook. Dit kan ook help wanneer jy ontsteld of kwaad voel."
+
+#. type=text
+msgctxt "text"
+msgid "It can help to take part in any mourning or cultural rituals that feel helpful, or to think about bonds and connections with the person you have lost."
+msgstr "Dit kan help as jy aan rou- of kulturele rituele deelneem wat jou beter laat voel, of om te dink aan goed wat jou verbind het met die persoon wat jy verloor het."
+
+#. type=text
+msgctxt "text"
+msgid "Sit down comfortably, close your eyes"
+msgstr "Sit gemaklik en maak jou oë toe"
+
+#. type=text
+msgctxt "text"
+msgid "Listen to your breath as it goes in and out for a minute"
+msgstr "Luister ‘n minuut lank na jou asem soos dit in- en uitgaan."
+
+#. type=text
+msgctxt "text"
+msgid "When you are ready, open your eyes."
+msgstr "Wanneer jy gereed is, maak jou oë oop."
+
+#. type=text
+msgctxt "text"
+msgid "Spending a few minutes every day focused on your child helps to make them feel more secure and give them a chance to play or talk about things that are upsetting them. "
+msgstr "As jy elke dag ‘n paar minute lank op jou kind fokus, help dit hulle om meer geborge te voel en gee dit hulle ‘n kans om te speel of oor goed te praat wat hulle ontstel. "
+
+#. type=text
+msgctxt "text"
+msgid "Please select another number if you want to learn more about how to cope with bereavement as a parent/caregiver:"
+msgstr "Kies asseblief ‘n ander nommer as jy meer wil leer oor hoe om as ouer/versorger die verlies van ‘n geliefde te verwerk."
+
+#. type=text
+msgctxt "text"
+msgid "A lot of families are dealing with grief due to COVID-19. We are here to support you and your family through this difficult time."
+msgstr "Baie gesinne is in rou gedompel as gevolg van COVID-19. Ons is hier om jou en jou gesin in hierdie moeilike tyd te ondersteun."
+
+#. type=text
+msgctxt "text"
+msgid "A lot of families are dealing with grief due to COVID-19. I am here to support you and your family through this difficult time."
+msgstr "Baie gesinne is in rou gedompel as gevolg van COVID-19. Ek is hier om jou en jou gesin in hierdie moeilike tyd te ondersteun."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done @fields.user_name! You should be proud of yourself for exploring ways to get help for you and your family."
+msgstr "Mooi so @fields.user_name! Wees trots op jouself omdat jy maniere soek om jou en jou gesin te help."
+
+#. type=text
+msgctxt "text"
+msgid "Well done! You should be proud of yourself for exploring ways to get help for you and your family."
+msgstr "Mooi so! Wees trots op jouself omdat jy maniere soek om jou en jou gesin te help."
 
 #. type=text
 msgctxt "text"
@@ -10173,6 +10697,28 @@ msgid "• Thank your teen for being open and trusting you"
 msgstr "• Bedank jou tiener dat hulle oop is en jou vertrou"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done @fields.user_name! You have added another skill to your Parenting Toolkit. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+msgstr "Mooi so @fields.user_name! Jy het nog 'n vaardigheid by jou Ouerskap-gereedskapkis gevoeg. Volgende keer as jou kind of tiener voor 'n uitdaging te staan kom, probeer kalm bly en die uitdaging saam aanpak. Wanneer jy jou tiener leer hoe om probleme op te los, rus jy hulle toe met iets wat hulle die res van hulle lewe kan benut. Wat 'n geskenk!"
+
+#. type=text
+msgctxt "text"
+msgid "Well done! You have added another skill to your Parenting Toolkit. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+msgstr "Mooi so! Jy het nog 'n vaardigheid by jou Ouerskap-gereedskapkis gevoeg. Volgende keer as jou kind of tiener voor 'n uitdaging te staan kom, probeer kalm bly en die uitdaging saam aanpak. Wanneer jy jou tiener leer hoe om probleme op te los, rus jy hulle toe met iets wat hulle die res van hulle lewe kan benut. Wat 'n geskenk!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done @fields.user_name! You have added another layer to your House of Support. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+msgstr "Mooi so @fields.user_name! Jy het nog 'n vlak by jou Huis van Ondersteuning gevoeg. Volgende keer as jou kind of tiener voor 'n uitdaging te staan kom, probeer kalm bly en die uitdaging saam aanpak. Wanneer jy jou tiener leer hoe om probleme op te los, rus jy hulle toe met iets wat hulle die res van hulle lewe kan benut. Wat 'n geskenk!"
+
+#. type=text
+msgctxt "text"
+msgid "Well done! You have added another layer to your House of Support. Next time your teen is confronted with a challenge, try remaining calm and tackle the challenge together. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+msgstr "Mooi so! Jy het nog 'n vlak by jou Huis van Ondersteuning gevoeg. Volgende keer as jou kind of tiener voor 'n uitdaging te staan kom, probeer kalm bly en die uitdaging saam aanpak. Wanneer jy jou tiener leer hoe om probleme op te los, rus jy hulle toe met iets wat hulle die res van hulle lewe kan benut. Wat 'n geskenk!"
+
+#. type=text
 msgctxt "text"
 msgid "Which is most like your experience?"
 msgstr "Watter een is die naaste aan jou ervaring?"
@@ -10188,16 +10734,56 @@ msgid "Are your children currently going to school/daycare? "
 msgstr "Gaan jou kinders tans skool/dagsorg toe? "
 
 #. type=text
+msgctxt "text"
+msgid "Have you had money problems because of COVID-19 or pandemic restrictions?"
+msgstr "Sukkel jy met geld as gevolg van COVID-19 of die pandemieverwante beperkings?"
+
+#. type=text
+msgctxt "text"
+msgid "Has someone in your family been sick for a long time with COVID-19?"
+msgstr "Is iemand in jou gesin al ‘n geruime tyd lank siek van COVID-19?"
+
+#. type=text
+msgctxt "text"
+msgid "Have you felt very worried, sad, or afraid because of COVID-19?"
+msgstr "Het jy al erg bekommerd, hartseer of bang gevoel as gevolg van COVID-19?"
+
+#. type=text
+msgctxt "text"
+msgid "It’s great to hear that you have been coping with COVID-19 related stress. We will remind you regularly to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm. "
+msgstr "Dis goed om te hoor jy hanteer die stres van COVID-19 so goed. Ons sal jou gereeld daaraan herinner om te ontspan en jouself erkenning te gee en te beloon, sodat jy jou stresvlakke in toom kan hou en kalm kan bly. "
+
+#. type=text
+msgctxt "text"
+msgid "Has someone in your family passed away from COVID-19 or breathing problems?"
+msgstr "Het iemand in jou gesin as gevolg van COVID-19 gesterf of asemhalingsprobleme opgedoen?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like some tips on coping with loss as a parent or caregiver?"
+msgstr "Wil jy graag ‘n paar wenke hê oor hoe om as ouer of versorger die verlies van ‘n geliefde te verwerk?"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Hi @fields.user_name! We are delighted that you have signed up for these messages. It shows that you care!"
 msgstr "Hi @fields.user_name! Ons is so bly jy het aangesluit vir hierdie boodskappe. Dit wys dat jy omgee!"
 
 #. type=text
+msgctxt "text"
+msgid "Can we ask you some questions about COVID-19 in your area?"
+msgstr "Kan ons vir jou ‘n paar vrae oor COVID-19 in jou omgewing vra?"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Hi @fields.user_name! I am delighted that you have signed up for these messages. It shows that you care!"
 msgstr "Hi @fields.user_name! Ek is so bly jy het aangesluit vir hierdie boodskappe. Dit wys dat jy omgee!"
+
+#. type=text
+msgctxt "text"
+msgid "Can I ask you some questions about COVID-19 in your area?"
+msgstr "Kan ek vir jou ‘n paar vrae oor COVID-19 in jou omgewing vra?"
 
 #. type=text
 msgctxt "text"
@@ -10208,6 +10794,86 @@ msgstr "Hi! Ons is so bly jy het aangesluit vir hierdie boodskappe. Dit wys dat 
 msgctxt "text"
 msgid "Hi! I am delighted that you have signed up for these messages. It shows that you care!"
 msgstr "Hi! Ek is so bly jy het aangesluit vir hierdie boodskappe. Dit wys dat jy omgee!"
+
+#. type=text
+msgctxt "text"
+msgid "It is normal to feel overwhelmed or stressed about your children's education during this time. Remember that you are not alone and that we are here to help. Just type \"Help\" at anytime."
+msgstr "Dit is normaal om in hierdie tyd oorweldig of gestres te voel oor jou kinders se opvoeding. Onthou, jy is nie alleen nie en ons is hier om te help. Jy kan enige tyd \"Help\" tik."
+
+#. type=text
+msgctxt "text"
+msgid "It is normal to feel overwhelmed or stressed about your children's education during this time. Remember that you are not alone and that I am here to help. Just type \"Help\" at anytime."
+msgstr "Dit is normaal om in hierdie tyd oorweldig of gestres te voel oor jou kinders se opvoeding. Onthou, jy is nie alleen nie en ons is hier om te help. Jy kan enige tyd \"Help\" tik."
+
+#. type=text
+msgctxt "text"
+msgid "We are sorry that you have been dealing with money problems due to COVID-19. "
+msgstr "Ons is jammer om te hoor dat jy geldprobleme het as gevolg van COVID-19. "
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry that you have been dealing with money problems due to COVID-19. "
+msgstr "Ek is jammer om te hoor dat jy geldprobleme het as gevolg van COVID-19. "
+
+#. type=text
+msgctxt "text"
+msgid "We are happy to hear that. Because money is often a big issue you can also find family budgeting tips in the Help menu."
+msgstr "Ons is bly om dit te hoor. Omdat geld baie keer ‘n groot probleem is, is daar ook wenke oor die opstel van ‘n gesinsbegroting in die Hulp-kieslys."
+
+#. type=text
+msgctxt "text"
+msgid "I am happy to hear that. Because money is often a big issue you can also find family budgeting tips in the Help menu."
+msgstr "Ek is bly om dit te hoor. Omdat geld baie keer ‘n groot probleem is, is daar ook wenke oor die opstel van ‘n gesinsbegroting in die Hulp-kieslys."
+
+#. type=text
+msgctxt "text"
+msgid "We are sorry that you have been struggling with a sick family member. Caring for someone with COVID-19 for so long is hard. Remember that caring for yourself is equally important and we will remind you regularly to relax, recognise and reward yourself. You deserve this."
+msgstr "Ons is jammer om te hoor jy sukkel met ‘n siek familielid. Dis baie moeilik om vir so lank iemand met COVID-19 te versorg. Onthou, dis ewe belangrik om vir jouself te sorg, en ons sal jou gereeld daaraan herinner om te ontspan en jouself erkenning te gee en te beloon. Jy verdien dit."
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry that you have been struggling with a sick family member. Caring for someone with COVID-19 for so long is hard. Remember that caring for yourself is equally important and we will remind you regularly to relax, recognise and reward yourself. You deserve this."
+msgstr "Ek is jammer om te hoor jy sukkel met ‘n siek familielid. Dis baie moeilik om vir so lank iemand met COVID-19 te versorg. Onthou, dis ewe belangrik om vir jouself te sorg, en ons sal jou gereeld daaraan herinner om te ontspan en jouself erkenning te gee en te beloon. Jy verdien dit."
+
+#. type=text
+msgctxt "text"
+msgid "We are sorry that you have been struggling. COVID-19 makes almost everyone feel this way. You are not alone in this! You can always access some helpful activities about how to manage stress through the Help menu."
+msgstr "Ons is jammer om te hoor jy sukkel so. COVID-19 laat net omtrent almal so voel. Jy is nie alleen nie! Jy kan altyd ‘n paar nuttige aktiwiteite vir die hantering van stres kry deur na die Hulp-kieslys toe te gaan."
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry that you have been struggling. COVID-19 makes almost everyone feel this way. You are not alone in this! You can always access some helpful activities about how to manage stress through the Help menu."
+msgstr "Ek is jammer om te hoor jy sukkel so. COVID-19 laat net omtrent almal so voel. Jy is nie alleen nie! Jy kan altyd ‘n paar nuttige aktiwiteite vir die hantering van stres kry deur na die Hulp-kieslys toe te gaan."
+
+#. type=text
+msgctxt "text"
+msgid "We are happy to hear that."
+msgstr "Ons is bly om dit te hoor."
+
+#. type=text
+msgctxt "text"
+msgid "I am happy to hear that."
+msgstr "Ek is bly om dit te hoor."
+
+#. type=text
+msgctxt "text"
+msgid "We are so sorry for your loss. Thank you for chatting with us and for seeking help. Dealing with your own grief, whilst being a parent is difficult and you should be proud of yourself, we are very proud of you."
+msgstr "Ons is so jammer oor jou verlies. Dankie dat jy met ons gepraat het en om hulp gevra het. Dis moeilik vir ‘n ouer om jou eie smart te verwerk, en jy kan trots op jouself wees, ons is baie trots op jou."
+
+#. type=text
+msgctxt "text"
+msgid "I am so sorry for your loss. Thank you for chatting with me and for seeking help. Dealing with your own grief, whilst being a parent is difficult and you should be proud of yourself, I am very proud of you."
+msgstr "Ek is so jammer oor jou verlies. Dankie dat jy met my gepraat het en om hulp gevra het. Dis moeilik vir ‘n ouer om jou eie smart te verwerk, en jy kan trots op jouself wees, ek is baie trots op jou."
+
+#. type=text
+msgctxt "text"
+msgid "We are glad to hear that. If you know people who have lost someone, you can support them by sharing our bereavement tips which you can find in the Help menu."
+msgstr "Ons is bly om dit te hoor. As jy mense ken wat iemand verloor het, kan jy hulle ondersteun deur ons rouwenke met hulle te deel, wat jy in die Hulp-kieslys kan kry."
+
+#. type=text
+msgctxt "text"
+msgid "I am glad to hear that. If you know people who have lost someone, you can support them by sharing the bereavement tips which you can find in the Help menu."
+msgstr "Ek is bly om dit te hoor. As jy mense ken wat iemand verloor het, kan jy hulle ondersteun deur die rouwenke met hulle te deel, wat jy in die Hulp-kieslys kan kry."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -10372,7 +11038,7 @@ msgstr "Onthou, jy kan altyd \"Help\" tik as jy ooit meer ouerskapwenke of onder
 #. type=text
 msgctxt "text"
 msgid "We are now spending a lot more time online. Being connected helps us stay positive…but it also presents risks and dangers."
-msgstr "Ons spandeer deesdae baie meer tyd aanlyn. Met tegnologie hou ons kontak met die wêreld. Dit help ons om positief te bly...maar hou ook risiko’s en gevare in."
+msgstr "Ons spandeer deesdae baie meer tyd aanlyn. Met tegnologie hou ons kontak met die wêreld. Dit help ons om positief te bly…maar hou ook risiko’s en gevare in."
 
 #. type=text
 msgctxt "text"
@@ -10731,7 +11397,7 @@ msgstr "Wil jy 4 vinnige stappe hê om 'n begroting op te stel en geld te spaar?
 #. type=text
 msgctxt "text"
 msgid "Step 1: What do we spend on now?"
-msgstr "Stap 1: Waarop gee ons nou geld uit?"
+msgstr "Stap 1: Waarop bestee ons nou ons geld?"
 
 #. type=text
 msgctxt "text"
@@ -10900,6 +11566,11 @@ msgstr "3. Bepaal gereelde eet- en slaaptye"
 
 #. type=text
 msgctxt "text"
+msgid "4. Involve your child in creating daily routines"
+msgstr "4. Betrek jou kind wanneer daaglikse roetines geskep word"
+
+#. type=text
+msgctxt "text"
 msgid "To learn more about one of these tips, type \"1\" to 4\". You can also type \"N\" to stop this tip."
 msgstr "Tik \"1\" tot \"4\" om meer oor hierdie wenke uit te vind. Jy kan ook \"N\" tik om hierdie wenk te stop."
 
@@ -10996,7 +11667,7 @@ msgstr "Storietyd"
 #. type=text
 msgctxt "text"
 msgid "One-on-One Time"
-msgstr "Een-tot-Een-Tyd"
+msgstr "Een-tot-een-tyd"
 
 #. type=text
 msgctxt "text"
@@ -11027,6 +11698,17 @@ msgstr "Ouer: \"En fluit-fluit my storie is uit... Lekker slaap, my liefie.\""
 msgctxt "text"
 msgid "Parent: \"Thank you for being so supportive with the kids today.” "
 msgstr "Ouer: \"Dankie dat jy my so gehelp het met die kinders vandag.\" "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "4. Involve @fields.child_nickname in creating daily plans. Set goals and rewards together. Let them plan when they do schoolwork and when they can relax!"
+msgstr "4. Betrek @fields.child_nickname by die vasstel van daaglikse planne. Besluit saam oor doelwitte en belonings. Laat hulle beplan wanneer om skoolwerk te doen en wanneer hulle kan ontspan!"
+
+#. type=text
+msgctxt "text"
+msgid "4. Involve your child in creating daily plans. Set goals and rewards together. Let them plan when they do schoolwork and when they can relax!"
+msgstr "4. Betrek jou kind by die maak van daaglikse planne. Besluit saam oor doelwitte en belonings. Laat hulle beplan wanneer om skoolwerk te doen en wanneer hulle kan ontspan!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -11097,6 +11779,16 @@ msgstr "Dit kan aan die begin moeilik wees om emosies op te merk en te deel, maa
 msgctxt "text"
 msgid "Noticing and sharing emotions can be difficult at first, but you and your child or teen  will get used to it. Keep trying and you will see the positive change!"
 msgstr "Dit kan aan die begin moeilik wees om emosies op te merk en te deel, maar jy en jou kind of tiener sal daaraan gewoond raak. Byt vas en jy sal die positiewe verandering sien!"
+
+#. type=text
+msgctxt "text"
+msgid "We are sorry it did not go well."
+msgstr "Ons is jammer dit het nie goed gegaan nie."
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry it did not go well."
+msgstr "Ek is jammer dit het nie goed gegaan nie."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -11310,6 +12002,11 @@ msgstr "Ouer 1: \"Ek is bly jy het vroeër die wasgoed in gebring, my skat. Ande
 
 #. type=text
 msgctxt "text"
+msgid "Parent 2: “I thought you said you would bring in the laundry today?”"
+msgstr "Ouer 2: \"Ek dog jy het gesê jý gaan die wasgoed inbring vandag?\""
+
+#. type=text
+msgctxt "text"
 msgid "Parent 1: “No, I was busy cooking dinner! You told me you would take care of it! How could you forget? Now all the laundry is wet!”"
 msgstr "Ouer 1: \"Nee, ek het kos gemaak! Jy’t gesê jy gaan dit doen! Hoe kon jy vergeet het? Nou is al die wasgoed nat!\""
 
@@ -11317,6 +12014,11 @@ msgstr "Ouer 1: \"Nee, ek het kos gemaak! Jy’t gesê jy gaan dit doen! Hoe kon
 msgctxt "text"
 msgid "Parent 2: “I’m really sorry. It was a mistake!”"
 msgstr "Ouer 2: \"Ek’s regtig jammer. Dit was 'n fout!\""
+
+#. type=text
+msgctxt "text"
+msgid "Parent 1 (thinking): I can’t believe he forgot! But everyone can make mistakes. Take a deep breath…"
+msgstr "Ouer 1 (dink): Ek kan nie glo hy’t vergeet nie. Maar almal maak foute. Haal diep asem..."
 
 #. type=text
 msgctxt "text"
@@ -11724,8 +12426,51 @@ msgstr "As jy nie vir my wil sê nie, is dit oukei. Tik asseblief \"N\"."
 
 #. type=text
 msgctxt "text"
+msgid "That is okay!"
+msgstr "Dit is oukei!"
+
+#. type=text
+msgctxt "text"
 msgid "That is okay! You can always revisit the parenting tips by typing \"Help\"."
 msgstr "Dit is oukei! Jy kan altyd weer na die ouerskapwenke kyk deur \"Help\" te tik."
+
+#. type=text
+msgctxt "text"
+msgid "Thanks again for being part of ParentText and for your commitment to your children’s wellbeing and happiness. You are a star!"
+msgstr "Nogmaals dankie dat jy aan ParentText deelgeneem het en vir jou verbintenis tot jou kinders se welsyn en geluk. Jy is 'n ster!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Congratulations for finishing the ParentText programme @fields.user_name! What a great accomplishment!"
+msgstr "Veels geluk dat jy die ParentText-program voltooi het @fields.user_name! Dis 'n groot prestasie!"
+
+#. type=text
+msgctxt "text"
+msgid "Congratulations for finishing the ParentText programme! What a great accomplishment!"
+msgstr "Veels geluk dat jy die ParentText-program voltooi het! Dis 'n groot prestasie!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have collected @fields.n_skills/@fields.total_skills skills! What an achievement!"
+msgstr "Jy het @fields.n_skills/@fields.total_skills vaardighede versamel! Dis ‘n prestasie!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have added @fields.n_skills/@fields.total_skills layers to your House of Support! What an achievement!"
+msgstr "Jy het @fields.n_skills/@fields.total_skills lae by jou Huis van Ondersteuning gevoeg! Dis ‘n prestasie!"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to tell us about your experience?"
+msgstr "Wil jy vir ons van jou ervaring vertel?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to tell me about your experience?"
+msgstr "Wil jy vir my van jou ervaring vertel?"
 
 #. type=text
 msgctxt "text"
@@ -11767,7 +12512,7 @@ msgstr "Hoe wil jy graag jou boodskappe ontvang? Jy kan hierdie instelling enige
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Hello @fields.user_name! We are now spending a lot more time online. Being connected helps us stay positive…but it also presents risks and dangers."
-msgstr "Hallo @fields.user_name! Ons spandeer deesdae baie meer tyd aanlyn. Met tegnologie hou ons kontak met die wêreld. Dit help ons om positief te bly...maar hou ook risiko’s en gevare in."
+msgstr "Hallo @fields.user_name! Ons spandeer deesdae baie meer tyd aanlyn. Met tegnologie hou ons kontak met die wêreld. Dit help ons om positief te bly…maar hou ook risiko’s en gevare in."
 
 #. type=text
 msgctxt "text"
@@ -11798,7 +12543,7 @@ msgstr "Hallo @fields.user_name! Ons kinders en tieners spandeer deesdae baie me
 #. type=text
 msgctxt "text"
 msgid "Hello! Our children and teens are now spending a lot more time online. Being connected helps them stay positive…but it also presents risks and dangers."
-msgstr "Hallo! Ons kinders en tieners spandeer deesdae baie meer tyd aanlyn. Met tegnologie hou hulle kontak met die wêreld. Dit help hulle om positief te bly...maar hou ook risiko’s en gevare in."
+msgstr "Hallo! Ons kinders en tieners spandeer deesdae baie meer tyd aanlyn. Met tegnologie hou hulle kontak met die wêreld. Dit help hulle om positief te bly…maar hou ook risiko’s en gevare in."
 
 #. type=text
 msgctxt "text"
@@ -11849,6 +12594,11 @@ msgstr "• Tieners wat persoonlike inligting en seksuele foto’s of video’s 
 msgctxt "text"
 msgid "• Cyberbullying from other young people and strangers."
 msgstr "• Kuberboelies, hetsy ander jong mense of vreemdelinge."
+
+#. type=text
+msgctxt "text"
+msgid "2. Tech fixes to protect your children online"
+msgstr "2. Tegniese verstellings om jou kinders aanlyn te beskerm:"
 
 #. type=text
 msgctxt "text"
@@ -11992,6 +12742,11 @@ msgstr "Praat met jou tiener oor hoe om dinge wat nie OK is nie, aan te meld."
 msgctxt "text"
 msgid "Common Sense Media has great advice for apps, games and entertainment for different ages."
 msgstr "Common Sense Media het wonderlike raad vir toeps, speletjies en vermaak vir verskillende ouderdomme."
+
+#. type=text
+msgctxt "text"
+msgid "https://www.commonsensemedia.org/app-reviews"
+msgstr "https://www.commonsensemedia.org/app-reviews"
 
 #. type=text
 msgctxt "text"
@@ -12565,6 +13320,17 @@ msgstr "Hi! Ek wil graag hoor hoe dit met jou gaan! Kon jy oor die afgelope paar
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "Sorry to hear that you are finding this challenging. If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes."
+msgstr "Jammer om te hoor dis 'n uitdaging vir jou. As jy kwaad word omdat @fields.child_nickname nie wil ophou huil nie, is dit OK om hulle op hulle rug te los op 'n veilige plek, soos 'n wiegie, en 'n bietjie weg te stap. Bly naby sodat jy @fields.child_nickname. kan dophou. Gooi elke 5–10 minute ‘n ogie oor @fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes."
+msgstr "Jammer om te hoor dis 'n uitdaging vir jou. As jy kwaad word omdat jou baba nie wil ophou huil nie, is dit OK om hulle op hulle rug in 'n veilige plek te los, soos 'n wiegie, en 'n bietjie weg te stap. Bly naby sodat jy jou baba kan dophou. Gaan loer elke 5-10 minute by jou baba in."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "Hi @fields.user_name! Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else."
 msgstr "Hi @fields.user_name! Om woede te hanteer kan regtig moeilik wees. Vat 'n blaaskans as jy voel jy word kwaad vir jou kinders of iemand anders."
 
@@ -12592,6 +13358,17 @@ msgstr "Hier is 'n video om jou te help om jou woede te beheer!"
 msgctxt "text"
 msgid "Here's an audio message to help you manage your anger!"
 msgstr "Hier is 'n oudioboodskap om jou te help om jou woede te beheer!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "If you are getting angry because @fields.child_nickname won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes."
+msgstr "As jy kwaad word omdat @fields.child_nickname nie wil ophou huil nie, is dit OK om hulle op hulle rug te los op 'n veilige plek, soos 'n wiegie, en 'n bietjie weg te stap. Bly naby sodat jy @fields.child_nickname. kan dophou. Gooi elke 5–10 minute ‘n ogie oor @fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes."
+msgstr "As jy kwaad word omdat jou baba nie wil ophou huil nie, is dit OK om hulle op hulle rug in 'n veilige plek te los, soos 'n wiegie, en 'n bietjie weg te stap. Bly naby sodat jy jou baba kan dophou. Gaan loer elke 5-10 minute by jou baba in."
 
 #. type=text
 msgctxt "text"
@@ -12665,6 +13442,11 @@ msgstr "Baie dankie! Hier is 'n skakel om aan te sluit!"
 
 #. type=text
 msgctxt "text"
+msgid "https://parenting.dspi.ox.ac.uk/-/single/JsOvnndbOAyWxFYXucrc5fYzz3Zk0qi?st=To2BOXiK5cDrWs$6JhG35e3KWrrVS8Faa8aSGpM3f1s9PeIbVk40BuYQh$gqPZuz"
+msgstr "https://parenting.dspi.ox.ac.uk/-/single/JsOvnndbOAyWxFYXucrc5fYzz3Zk0qi?st=To2BOXiK5cDrWs$6JhG35e3KWrrVS8Faa8aSGpM3f1s9PeIbVk40BuYQh$gqPZuz"
+
+#. type=text
+msgctxt "text"
 msgid "It is okay!"
 msgstr "Dis oukei!"
 
@@ -12689,6 +13471,17 @@ msgstr "Hi! Ons hoop hierdie boodskappe is nuttig vir jou. Tik asseblief \"MeerW
 msgctxt "text"
 msgid "Hi! I hope you are finding these messages useful. Please type “MoreTips” when you want to receive your next message."
 msgstr "Hi! Ek hoop hierdie boodskappe is nuttig vir jou. Tik asseblief \"MeerWenke\" as jy jou volgende boodskap wil ontvang."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! In the current times everyone is feeling a little stressed and a brief relaxation activity might help. Please type \"Relax\" to receive the activity!"
+msgstr "Hi @fields.user_name! Deesdae voel almal 'n bietjie gestres, en 'n kort ontspanningsaktiwiteit kan dalk help. "
+
+#. type=text
+msgctxt "text"
+msgid "Hi! In the current times everyone is feeling a little stressed and a brief relaxation activity might help. Please type \"Relax\" to receive the activity!"
+msgstr "Hi! Deesdae voel almal 'n bietjie gestres, en 'n kort ontspanningsaktiwiteit kan dalk help. Tik asseblief “Ontspan” om die aktiwiteit te ontvang!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -12739,6 +13532,52 @@ msgstr "Hi! Ek hoop hierdie gesprekke is nuttig vir jou en jou kind! Tik assebli
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "Hi @fields.user_name! We have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!"
+msgstr "Hi @fields.user_name! Ons het ‘n goeie idee vir ‘n lekker aktiwiteit vir jou en @fields.child_nickname. Tik asseblief “Speel” om die aktiwiteit te ontvang!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! I have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!"
+msgstr "Hi @fields.user_name! Ek het ‘n goeie idee vir ‘n lekker aktiwiteit vir jou en @fields.child_nickname. Tik asseblief “Speel” om die aktiwiteit te ontvang!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! We have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!"
+msgstr "Hi @fields.user_name! Ons het 'n goeie idee vir 'n lekker aktiwiteit vir jou en jou kind. Tik asseblief “Speel” om die aktiwiteit te ontvang!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! I have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!"
+msgstr "Hi @fields.user_name! Ek het 'n goeie idee vir 'n lekker aktiwiteit vir jou en jou kind. Tik asseblief “Speel” om die aktiwiteit te ontvang!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi! We have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!"
+msgstr "Hi! Ons het ‘n goeie idee vir ‘n lekker aktiwiteit vir jou en @fields.child_nickname. Tik asseblief “Speel” om die aktiwiteit te ontvang!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi! I have a great idea for a fun activity for you and @fields.child_nickname. Please type \"Play\" to receive the activity!"
+msgstr "Hi! Ek het ‘n goeie idee vir ‘n lekker aktiwiteit vir jou en @fields.child_nickname. Tik asseblief “Speel” om die aktiwiteit te ontvang!"
+
+#. type=text
+msgctxt "text"
+msgid "Hi! We have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!"
+msgstr "Hi! Ons het 'n goeie idee vir 'n lekker aktiwiteit vir jou en jou kind. Tik asseblief “Speel” om die aktiwiteit te ontvang!"
+
+#. type=text
+msgctxt "text"
+msgid "Hi! I have a great idea for a fun activity for you and your child. Please type \"Play\" to receive the activity!"
+msgstr "Hi! Ek het 'n goeie idee vir 'n lekker aktiwiteit vir jou en jou kind. Tik asseblief “Speel” om die aktiwiteit te ontvang!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "Hi @fields.user_name! We have noticed that you have not been responding to our chats today and we have been missing you! Please type “MoreTips” whenever you want to receive your next message."
 msgstr "Hi @fields.user_name! Ons kom agter jy reageer nie vandag op ons boodskappe nie – ons mis jou! Tik asseblief \"MeerWenke\" as jy jou volgende boodskap wil ontvang."
 
@@ -12760,8 +13599,63 @@ msgstr "Hi! Ek kom agter jy reageer nie vandag op my boodskappe nie – ek mis j
 
 #. type=text
 msgctxt "text"
+msgid "Hi! We have an update for you. Please reply *START* to proceed. Thank you."
+msgstr "Hi! Ons het nuwe inligting vir jou. Antwoord asseblief “BEGIN” om voort te gaan. Dankie."
+
+#. type=text
+msgctxt "text"
+msgid "We would love to hear how you are doing! Can we ask you a few quick questions about your relationship with your partner? Everything you say will be completely private. If you do not want to answer any questions, it is completely okay."
+msgstr "Ons wil graag hoor hoe dit met jou gaan! Kan ons vir jou 'n paar vinnige vrae vra oor jou verhouding met jou maat? Alles wat jy sê is heeltemal privaat. As jy nie enige vrae wil beantwoord nie, is dit heeltemal oukei."
+
+#. type=text
+msgctxt "text"
 msgid "Here is a song made just for parents like you."
 msgstr "Hier is 'n liedjie spesiaal geskryf vir ouers soos jy."
+
+#. type=text
+msgctxt "text"
+msgid "Please tell us about the length of the ParentText programme (total number of days you received messages). ParentText was..."
+msgstr "Vertel ons asseblief hoe lank die ParentText-program is (totale aantal dae waarop jy boodskappe ontvang het). ParentText was..."
+
+#. type=text
+msgctxt "text"
+msgid "Please tell me about the length of the ParentText programme (total number of days you received messages). ParentText was..."
+msgstr "Vertel my asseblief hoe lank die ParentText-program is (totale aantal dae waarop jy boodskappe ontvang het). ParentText was..."
+
+#. type=text
+msgctxt "text"
+msgid "Thank so much for your feedback! Please feel free to provide more feedback or type \"N\" to finish."
+msgstr "Baie dankie vir die terugvoer! Gee gerus vir ons nog terugvoer, of tik “N” om klaar te maak."
+
+#. type=text
+msgctxt "text"
+msgid "Please tell us about the number of messages that you received each day. They were..."
+msgstr "Vertel ons asseblief hoeveel boodskappe jy elke dag gekry het. Daar was..."
+
+#. type=text
+msgctxt "text"
+msgid "Please tell me about the number of messages that you received each day. They were..."
+msgstr "Vertel asseblief vir my hoeveel boodskappe jy elke dag gekry het. Daar was..."
+
+#. type=text
+msgctxt "text"
+msgid "Open ended question: Is there anything we can do to improve the ParentText chatbot for other families? Please feel free to write as much as you want!"
+msgstr "Oop vraag: Is daar enigiets wat ons kan doen om die ParentText-chatbot vir ander gesinne te verbeter? Skryf gerus soveel as wat jy wil!"
+
+#. type=text
+msgctxt "text"
+msgid "Open ended question: Is there anything I can do to improve the ParentText chatbot for other families? Please feel free to write as much as you want!"
+msgstr "Oop vraag: Is daar enigiets wat ek kan doen om die ParentText-chatbot vir ander gesinne te verbeter? Skryf gerus soveel as wat jy wil!"
+
+#. type=text
+msgctxt "text"
+msgid "That is great! We really appreciate your feedback!"
+msgstr "Dis wonderlik! Ons waardeer jou terugvoer baie!"
+
+#. type=text
+msgctxt "text"
+msgid "That is great! I really appreciate your feedback!"
+msgstr "Dis wonderlik! Ek waardeer jou terugvoer baie!"
 
 #. type=text
 msgctxt "text"
@@ -12979,6 +13873,11 @@ msgstr "Ons wil graag meer uitvind oor hoe ons ons program kan verbeter. Sou jy 
 msgctxt "text"
 msgid "Thank you so much! Here is a link to sign up! "
 msgstr "Baie dankie! Hier is 'n skakel om aan te sluit! "
+
+#. type=text
+msgctxt "text"
+msgid "https://parenting.dspi.ox.ac.uk/-/single/28SdcwzKx8cyjH3LFAOQ6qp3ylNZUAk?st=vdKeCZ9ZMvsurDzk98b6rTPPrQXVEpaNxLmOL7LE0mE9nuemCsEWlT1RFl7qbSQE"
+msgstr "https://parenting.dspi.ox.ac.uk/-/single/28SdcwzKx8cyjH3LFAOQ6qp3ylNZUAk?st=vdKeCZ9ZMvsurDzk98b6rTPPrQXVEpaNxLmOL7LE0mE9nuemCsEWlT1RFl7qbSQE"
 
 #. type=text
 msgctxt "text"
@@ -13727,9 +14626,26 @@ msgid "Sorry to hear it has been challenging. What was difficult for you about m
 msgstr "Jammer om te hoor dit was 'n uitdaging. Wat was vir jou moeilik toe jy jou baba se gehuil wou hanteer?"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It is completely normal to experience this, it can be really hard to stay calm when @fields.child_nickname is crying but do not give up! Try to think of something that you can do that might help you, like taking a couple deep breaths. This can help reduce stress and clear your mind. "
+msgstr "Dis heeltemal normaal om dit te ervaar, dit kan regtig moeilik wees om kalm te bly wanneer @fields.child_nickname huil, maar byt vas! Probeer dink aan iets wat jy kan doen wat sal help, soos om 'n paar keer diep asem te haal. Dit kan help om stres te verlig en jou kop skoon te kry. "
+
+#. type=text
 msgctxt "text"
 msgid "It is completely normal to experience this, it can be really hard to stay calm when your baby is crying but do not give up! Try to think of something that you can do that might help you, like taking a couple deep breaths. This can help reduce stress and clear your mind. "
 msgstr "Dis heeltemal normaal om te voel dit is 'n uitdaging, dit kan regtig moeilik wees om kalm te bly wanneer jou baba huil, maar byt vas! Probeer dink aan iets wat jy kan doen wat sal help, soos om 'n paar keer diep asem te haal. Dit kan help om stres te verlig en jou kop skoon te kry. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sorry to hear that you are finding this challenging. If you are getting angry because @fields.child_nickname won’t stop crying, it’s okay to leave them on their back in a safe place and walk away for a bit and take a quick pause. Taking a pause will help you respond better. Stay nearby so that you can monitor @fields.child_nickname. Check on @fields.child_nickname every 5-10 minutes."
+msgstr "Jammer om te hoor dis 'n uitdaging vir jou. As jy kwaad word omdat @fields.child_nickname nie ophou huil nie, is dit oukei om hulle op hulle rug te los in 'n veilige plek en bietjie weg te stap vir 'n vinnige blaaskans. 'n Blaaskans sal jou help om beter te reageer. Bly naby sodat jy @fields.child_nickname. kan dophou. Gooi elke 5–10 minute ‘n ogie oor @fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry to hear that you are finding this challenging. If you are getting angry because your baby won’t stop crying, it’s okay to leave them on their back in a safe place and walk away for a bit and take a quick pause. Taking a pause will help you respond better. Stay nearby so that you can monitor your baby. Check on your baby every 5-10 minutes."
+msgstr "Jammer om te hoor dis 'n uitdaging vir jou. As jy kwaad word omdat jou baba nie ophou huil nie, is dit oukei om hulle op hulle rug te los in 'n veilige plek en bietjie weg te stap vir 'n vinnige blaaskans. 'n Blaaskans sal jou help om beter te reageer. Bly naby sodat jy jou baba kan dophou. Gaan loer elke 5-10 minute by jou baba in."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -13762,6 +14678,16 @@ msgstr "Ouers regoor die wêreld sê hulle is bekommerd oor die beveiliging van 
 msgctxt "text"
 msgid "Would you like some tips on some simple ways to do this?"
 msgstr "Wil jy graag 'n paar wenke hê oor eenvoudige maniere om dit te doen?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay! You can always type \"Help\" if you want to learn more about how to keep your child safe in the community."
+msgstr "Dis oukei! Jy kan altyd \"Help\" tik as jy meer wil uitvind oor hoe om jou kind in die gemeenskap te beveilig."
+
+#. type=text
+msgctxt "text"
+msgid "Thanks! One helpful way is to create a map with your child or teen that identifies the safe and unsafe places in the community. Here are 4 simple steps:"
+msgstr "Dankie! Een nuttige manier is om saam met jou kind of tiener 'n kaart te teken wat die veilige en onveilige plekke in die gemeenskap identifiseer. Hier is 4 maklike stappe:"
 
 #. type=text
 msgctxt "text"
@@ -14294,6 +15220,16 @@ msgstr "Dit is oukei! Hier is 'n paar hulpbronne wat kan help om @fields.child_n
 
 #. type=text
 msgctxt "text"
+msgid "https://www.familylives.org.uk/advice/primary/learning-school/supporting-your-child-at-school/"
+msgstr "https://www.familylives.org.uk/advice/primary/learning-school/supporting-your-child-at-school/"
+
+#. type=text
+msgctxt "text"
+msgid "https://www.unicef.org/coronavirus/supporting-your-childs-mental-health-during-covid-19-school-return"
+msgstr "https://www.unicef.org/coronavirus/supporting-your-childs-mental-health-during-covid-19-school-return"
+
+#. type=text
+msgctxt "text"
 msgid "That is okay! Here are some resources to help you with supporting your child's learning:"
 msgstr "Dit is oukei! Hier is 'n paar hulpbronne wat kan help om jou kind se leer te bevorder:"
 
@@ -14694,6 +15630,11 @@ msgstr "Dit is heeltemal normaal om ongemaklik, deurmekaar of selfs bang te voel
 msgctxt "text"
 msgid "It is completely normal for children to act out or react negatively during these unprecedented times. Give them space to share how they are feeling and let them know you are there for them. You can also try distracting them with fun activities and games."
 msgstr "Dit is heeltemal normaal vir kinders om hulle swak te gedra of negatief te reageer in hierdie ongekende tye. Gee hulle ruimte om te deel hoe hulle voel en laat hulle weet jy is daar vir hulle. Jy kan ook probeer om hulle aandag af te lei met lekker aktiwiteite en speletjies."
+
+#. type=text
+msgctxt "text"
+msgid "UNICEF: https://www.unicef.org/coronavirus/covid-19"
+msgstr "UNICEF: https://www.unicef.org/coronavirus/covid-19"
 
 #. type=text
 msgctxt "text"
@@ -15396,7 +16337,7 @@ msgstr "Dis oukei om te voel. Om te voel is om te genees!"
 #. type=text
 msgctxt "text"
 msgid "Let’s use the magic power of three to stay present and relax. At the end of a tough day, thinking of three things to be grateful for can help us find the courage to try again tomorrow.  "
-msgstr "Kom ons gebruik die towerkrag van drie om ontspanne in die oomblik te bly. Aan die einde van 'n rowwe dag, help dit om te dink aan drie dinge waarvoor ons dankbaar is – dit gee ons krag om weer môre te probeer.  "
+msgstr "Kom ons gebruik die towerkrag van drie om ontspanne in die oomblik te bly. As ons aan die einde van ’n rowwe dag dink aan drie dinge waarvoor ’n mens dankbaar kan wees, kan dit ons die moed help vind om môre weer te probeer.  "
 
 #. type=text
 msgctxt "text"
@@ -15442,6 +16383,11 @@ msgstr "Dink aan een positiewe of lekker ding wat jy gedoen het."
 msgctxt "text"
 msgid "Think of one thing you can do differently tomorrow. "
 msgstr "Dink aan een ding wat jy môre anders kan doen. "
+
+#. type=text
+msgctxt "text"
+msgid "Think of one thing that you are grateful for."
+msgstr "Dink aan een ding waarvoor jy dankbaar is."
 
 #. type=text
 msgctxt "text"
@@ -15576,7 +16522,7 @@ msgstr "Maak spasie en beweeg saam met die musiek. Onthou om asem te haal terwyl
 #. type=text
 msgctxt "text"
 msgid "Even a few minutes of movement can be enough to release stress and lift your mood!"
-msgstr "Selfs 'n paar minute se beweging kan genoeg wees om jou stres te verlig en jou gemoed te lig!"
+msgstr "Selfs ’n paar minute se beweging kan genoeg wees om jou stres te verlig en jou gemoed te lig!"
 
 #. type=text
 msgctxt "text"
@@ -15606,7 +16552,7 @@ msgstr "Miljoene ouers sê dit help – BAIE."
 #. type=text
 msgctxt "text"
 msgid "Try this whenever you are feeling stressed and you need a break to reconnect."
-msgstr "Probeer dit wanneer jy ook al gestres voel en bietjie 'n blaaskans wil vat."
+msgstr "Probeer dit wanneer jy ook al gestres voel en ’n ruskans nodig het om weer teenwoordig te voel."
 
 #. type=text
 msgctxt "text"
@@ -16351,6 +17297,24 @@ msgstr "Volwassene (18+ jaar)"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Talking to your child about COVID-19"
+msgstr "Hoe om met jou kind oor COVID-19 te praat"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "COVID-19 bereavement support"
+msgstr "Ondersteuning na ‘n COVID-19-sterfte"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "External support"
+msgstr "Eksterne ondersteuning"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Go back to the help menu"
 msgstr "Gaan terug na die help-kieslys"
 
@@ -16365,6 +17329,30 @@ msgstr "Verbeter my verhouding met my kind"
 msgctxt "quick_replies"
 msgid "My child to behave better"
 msgstr "Dat my kind se gedrag verbeter"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Help my child learn"
+msgstr "Hulp met my kind se leer"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Reduce family stress"
+msgstr "Hoe om druk op die gesin te verminder"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Keep my child safe"
+msgstr "Hou my kind veilig"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Learn about child development"
+msgstr "Leer oor kinderontwikkeling"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -16705,6 +17693,12 @@ msgstr "Taal"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "English"
+msgstr "Engels"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Content is not relevant"
 msgstr "Inhoud is nie relevant nie"
 
@@ -16725,6 +17719,18 @@ msgstr "Te veel boodskappe"
 msgctxt "quick_replies"
 msgid "Technical problems"
 msgstr "Tegniese probleme"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your name"
+msgstr "Jou naam"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your child's nickname"
+msgstr "Jou kind se bynaam"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -16779,6 +17785,12 @@ msgstr "Hanteer finansiële stres"
 msgctxt "quick_replies"
 msgid "Family relationships"
 msgstr "Gesinsverhoudings"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "COVID bereavement support"
+msgstr "Ondersteuning na ‘n COVID-sterfte"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -16975,6 +17987,12 @@ msgstr "Vrou"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Man"
+msgstr "Man"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Single (not in a relationship)"
 msgstr "Enkellopend (nie in 'n verhouding nie)"
 
@@ -17037,6 +18055,36 @@ msgstr "Meer oor gesinsbegroting"
 msgctxt "quick_replies"
 msgid "Look for support organisations in your area"
 msgstr "Soek organisasies wat ondersteuning gee in jou omgewing"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Too short"
+msgstr "Te kort"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Just right"
+msgstr "Net reg"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Too long"
+msgstr "Te lank"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Too few"
+msgstr "Te min"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Too many"
+msgstr "Te veel"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -17642,13 +18690,19 @@ msgstr "tannie oom tannie/oom"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "foster"
-msgstr "pleeg"
+msgstr "voog"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "n no"
 msgstr "n nee"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "99"
+msgstr "99"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -17953,6 +19007,12 @@ msgstr "opvoeding"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "covid"
+msgstr "covid"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "toolkit"
 msgstr "gereedskapkis"
 
@@ -17967,6 +19027,18 @@ msgstr "meerwenke"
 msgctxt "arguments"
 msgid "play"
 msgstr "speel"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "skills"
+msgstr "vaardighede"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "relax"
+msgstr "ontspan"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18033,6 +19105,12 @@ msgstr "natuurlik"
 msgctxt "arguments"
 msgid "help"
 msgstr "hulp"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "sos"
+msgstr "sos"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18127,6 +19205,12 @@ msgstr "my maat het nie tyd gehad om te help nie"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "1"
+msgstr "1"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "friend"
 msgstr "vriend"
 
@@ -18205,6 +19289,24 @@ msgstr "volwassene"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "talking talk"
+msgstr "praat"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "bereavement"
+msgstr "verlies"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "external"
+msgstr "eksterne"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "improve my relationship with my child"
 msgstr "verbeter my verhouding met my kind"
 
@@ -18217,8 +19319,68 @@ msgstr "dat my kind se gedrag verbeter"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "help my child learn"
+msgstr "hulp met my kind se leer"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "reduce family stress"
+msgstr "hoe om druk op die gesin te verminder"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "keep my child safe"
+msgstr "hou my kind veilig"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "learn about child development"
+msgstr "leer meer oor kinderontwikkeling"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "a under"
 msgstr "a onder"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "b 1 2"
+msgstr "b 1 2"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "c 3 4 5"
+msgstr "c 3 4 5"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "d 6 7 8 9"
+msgstr "d 6 7 8 9"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "e 10 11 12 13 14"
+msgstr "e 10 11 12 13 14"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "f 15 16 17 18"
+msgstr "f 15 16 17 18"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "g 19 20 21 22 23"
+msgstr "g 19 20 21 22 23"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18255,6 +19417,54 @@ msgstr "weier,gehoorsaam,kwaad,onbeskoftheid,oneerbiedig,reëls,hardkoppigheid,b
 msgctxt "arguments"
 msgid "irritable,mood"
 msgstr "prikkelbaar,bui"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "2"
+msgstr "2"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "3"
+msgstr "3"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "4"
+msgstr "4"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "5"
+msgstr "5"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "6"
+msgstr "6"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "7"
+msgstr "7"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "8"
+msgstr "8"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "9"
+msgstr "9"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18333,6 +19543,12 @@ msgstr "emosioneel"
 msgctxt "arguments"
 msgid "safe"
 msgstr "veilig"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "covid covid19 covid-19"
+msgstr "covid covid19 covid-19"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18445,6 +19661,18 @@ msgstr "ervaring"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "stop"
+msgstr "stop"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "media"
+msgstr "media"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "language "
 msgstr "taal "
 
@@ -18469,8 +19697,20 @@ msgstr "nee n terug"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "english"
+msgstr "engels"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "no n not back"
 msgstr "nee n nie terug"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop_messages"
+msgstr "stop_boodskappe"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18506,7 +19746,7 @@ msgstr "ouderdom"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "gender"
-msgstr "geslag"
+msgstr "gender"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18519,6 +19759,24 @@ msgstr "verhouding"
 msgctxt "arguments"
 msgid "back no n"
 msgstr "terug nee n"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your name"
+msgstr "jou naam"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "child"
+msgstr "kind"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "back n no"
+msgstr "terug n nee"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18561,6 +19819,12 @@ msgstr "gesinsverhoudings"
 msgctxt "arguments"
 msgid "other services"
 msgstr "ander dienste"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "covid bereavement"
+msgstr "covid-sterfte"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18625,6 +19889,12 @@ msgstr "j ja "
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "n"
+msgstr "n"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "curfews"
 msgstr "aandklokreëls"
 
@@ -18663,6 +19933,12 @@ msgstr "afstand"
 msgctxt "arguments"
 msgid "no restrictions"
 msgstr "geen beperkings"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "prefer"
+msgstr "verkies"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18769,6 +20045,12 @@ msgstr "vrou"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "man"
+msgstr "man"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "single"
 msgstr "enkellopend"
 
@@ -18837,6 +20119,36 @@ msgstr "stel belang"
 msgctxt "arguments"
 msgid "n no stop"
 msgstr "n nee stop"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "short"
+msgstr "kort"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "right"
+msgstr "reg"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "long"
+msgstr "lank"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "few"
+msgstr "min"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "many"
+msgstr "baie"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -19269,4 +20581,3 @@ msgstr "jong kind "
 msgctxt "arguments"
 msgid "okay ok"
 msgstr "oukei ok"
-
