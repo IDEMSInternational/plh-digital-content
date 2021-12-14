@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2021-12-14 13:17\n"
+"PO-Revision-Date: 2021-12-14 19:32\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -567,7 +567,7 @@ msgstr "A o ka rata go amogela kgokaganyo go lenaane le, gore o kgone go le arol
 #. type=text
 msgctxt "text"
 msgid "It looks like you are busy right now. Please type “GoBack” to receive the most recent messages again."
-msgstr "Go lebega o kare o tshwaregile gajaana. Ka kopo tlanya “GoBack” go amogela melaetsa ya morago gape."
+msgstr "Go lebega o kare o tshwaregile gajaana. Ka kopo tlanya “BoelaMorago” go amogela melaetsa ya morago gape."
 
 #. type=text
 msgctxt "text"
@@ -5650,7 +5650,7 @@ msgstr "Fa o sa batle go amogela melaetsa e mengwe, ka kopo tlanya “EMISA MELA
 #. type=text
 msgctxt "text"
 msgid "If you made a mistake, please type \"back\" and choose another option."
-msgstr "fa o dirile phoso, ka kopo tlanya “morago” mme o kgethe iitlhophelo e nngwe."
+msgstr "Fa o dirile phoso, ka kopo tlanya “morago” mme o kgethe iitlhophelo e nngwe."
 
 #. type=text
 msgctxt "text"
@@ -16723,7 +16723,7 @@ msgstr "Nnyaa"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Great"
-msgstr "Go gontle."
+msgstr "Go gontle"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -16849,7 +16849,7 @@ msgstr "Motsadi wa foseta"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Baby"
-msgstr "Nana:"
+msgstr "Nana"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -16861,7 +16861,7 @@ msgstr "Ngwana yo monnye"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Teen"
-msgstr "* “Mosha”:"
+msgstr "Mosha"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -18499,13 +18499,13 @@ msgstr "Ngwanake o mpoditse dipotso tse ke neng ke sena dikarabo tsa tsona"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "baby"
-msgstr "Nana:"
+msgstr "nana"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "teen"
-msgstr "* “Mosha”:"
+msgstr "mosha"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -18547,7 +18547,7 @@ msgstr "ga a na kgatlhego"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "yes y"
-msgstr "Ee y"
+msgstr "Ee y e"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18559,7 +18559,7 @@ msgstr "nnyaa n"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "great"
-msgstr "Go gontle."
+msgstr "go gontle"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18643,13 +18643,13 @@ msgstr "Tse dingwe"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "y yes"
-msgstr "y Ee"
+msgstr "y Ee e"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "yes y "
-msgstr "Ee y "
+msgstr "Ee y e"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18673,7 +18673,7 @@ msgstr "ke kgetha go se bue"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "parent"
-msgstr "* “Motsadi”:"
+msgstr "motsadi"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18709,7 +18709,7 @@ msgstr "99"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "baby"
-msgstr "Nana:"
+msgstr "nana"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -18829,7 +18829,7 @@ msgstr "tswaya"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "yes y over"
-msgstr "ee y fedile"
+msgstr "ee y e fedile"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -19531,7 +19531,7 @@ msgstr "ga e a felela"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "yes y back"
-msgstr "ee y morago"
+msgstr "ee y e morago"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -19873,7 +19873,7 @@ msgstr "basha basha mosha mosha"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "yes y yep sure yeah"
-msgstr "ee y ee tota ee"
+msgstr "ee y e tota"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -19885,7 +19885,7 @@ msgstr "nnyaa e seng nnyaa n"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "y yes "
-msgstr "y Ee "
+msgstr "y Ee e"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
