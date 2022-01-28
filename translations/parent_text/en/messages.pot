@@ -432,7 +432,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Sorry to hear that you are struggling. Take a moment to reflect on one thing that went well for you today @fields.user_name. Even the smallest things can help. Remember you can always get extra support by typing \"Help\"."
+msgid "Sorry to hear that you are struggling. Take a moment to reflect on one thing that went well for you today @fields.user_name.  Even the smallest things can help. Remember you can always get extra support by typing \"Help\"."
 msgstr ""
 
 #. type=text
@@ -3348,6 +3348,18 @@ msgid "You can also find something educational to do together with @fields.child
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You can also find something educational to do together with @fields.child_nickname on the gadget. Or maybe ask your child to show you what is their favourite thing to do on the gadget. Just be patient. Soon they may open up to other activities, too!"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You can also find something educational to do together with your child on the gadget. Or maybe ask @fields.child_nickname to show you what is their favourite thing to do on the gadget. Just be patient. Soon they may open up to other activities, too!"
+msgstr ""
+
+#. type=text
 msgctxt "text"
 msgid "You can also find something educational to do together with your child on the gadget. Or maybe ask your child to show you what is their favourite thing to do on the gadget. Just be patient. Soon they may open up to other activities, too!"
 msgstr ""
@@ -3546,7 +3558,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Here is a comic on how to communicate with your baby. "
+msgid "Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening. Speak with enthusiasm when describing what your child is doing. Here is a comic on how to communicate with your baby. "
 msgstr ""
 
 #. type=text
@@ -5845,21 +5857,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "How can we help you?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "These tips are for YOU. So that our chats can be as helpful as possible, could you please tell us your gender?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "If you would prefer not to answer, type \"N\"."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "These tips are for YOU. So that our chats can be as helpful as possible, could you please tell me your gender?"
 msgstr ""
 
 #. type=text
@@ -8611,16 +8608,6 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "• Give your child choices: this gives them a sense of control and builds self-esteem."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "• Use simple language and clear instructions. If words aren't good for them, try gestures and pictures. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
 msgid "Step 4. Praise them!"
 msgstr ""
 
@@ -8767,6 +8754,22 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat later!"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "• Give @fields.child_nickname_disabled choices: this gives them a sense of control and builds self-esteem."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "• Use simple language and clear instructions. If words aren't good for them, try gestures and pictures. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "• Give your child choices: this gives them a sense of control and builds self-esteem."
 msgstr ""
 
 #. type=text
@@ -9904,42 +9907,82 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Here is a comic on ignoring your child’s negative behavior."
+msgid "Here is a comic on combining consequences and ignore."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Baby: I want more cool drink."
+msgid "Parent 1: \"Bailey, please clear the dishes after dinner\" "
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Parent: You have had enough, Maya. The rule is only one glass of cool drink."
+msgid "Parent 2: \"Sam, time to get ready for bed. Come with me.\""
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Baby: But I WANT it! Give me!"
+msgid "Child: \"I don't want to clear the dishes. I want to play with my new toy car. \""
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Parent: David, you are eating your dinner so nicely."
+msgid "Parent 1: \"The household rule is that you have to help clean up after dinner before you can play with your toys.\""
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Baby: Waaaaaa! Waaaaaa! WAAAAAA!"
+msgid "Child: \"But it is not fair! Sam doesn't have to clean up after dinner!\""
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Parent: David, please fetch the custard from the counter."
+msgid "Parent 1: \"Bailey, either you clear the table now, or you will not be able to play with your toys later tonight\""
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Parent: It is nice to see you sitting quietly, Maya. Here, have some delicious custard with us."
+msgid "Parent 1: \"Because you did not listen, you cannot play with your toys. Please get ready for bed. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Child: \"But that is not fair!\""
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Child: \"But that is not fair. Waaaah!\""
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Parent 1: \"It is so nice to see that you got ready for bed all by yourself!\""
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Child: \"Now can I play with my toy car?\""
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Parent 1: \"You can play with your car tomorrow. It is bedtime. Come, my sweetie, I will tell your favourite bedtime story.\""
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "(7)"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Parent 1: \"Once upon a time...\""
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "(8)"
 msgstr ""
 
 #. type=text
@@ -11700,7 +11743,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Have you noticed and shared emotions with your child or teen recently?"
+msgid "Have you noticed and shared emotions with your child or teen  recently?"
 msgstr ""
 
 #. type=text
@@ -11737,7 +11780,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Noticing and sharing emotions can be difficult at first, but you and your child or teen will get used to it. Keep trying and you will see the positive change!"
+msgid "Noticing and sharing emotions can be difficult at first, but you and your child or teen  will get used to it. Keep trying and you will see the positive change!"
 msgstr ""
 
 #. type=text
@@ -11769,7 +11812,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Wonderful! You may even start noticing that your child or teen is more aware about how you are feeling, too. Keep it up!"
+msgid "Wonderful! You may even start noticing that your child or teen  is more aware about how you are feeling, too. Keep it up!"
 msgstr ""
 
 #. type=text
@@ -12327,6 +12370,11 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "These tips are for YOU. So that our chats can be as helpful as possible, could you please tell us whether you are a WOMAN or MAN?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "If you would prefer not to answer, type \"N\"."
 msgstr ""
 
 #. type=text
@@ -15264,7 +15312,19 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum, you should ignore your child's behaviour until it is over.  If @fields.child_nickname is older, you might need to walk away until they calm down. "
+msgid "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum,  you should ignore your child's behaviour until it is over.  If @fields.child_nickname is older, you might need to walk away until they calm down. "
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum,  you should ignore your child's behaviour until it is over.  If your child is older, you might need to walk away until they calm down. "
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sometimes our children will react in a negative way when receiving a consequence. If your child is younger than 9 and throws a tantrum, you should ignore your child's behaviour until it is over.  If @fields.child_nickname is older, you might need to walk away until they calm down. "
 msgstr ""
 
 #. type=text
@@ -17554,18 +17614,6 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Woman"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Man"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "My child or teen could not agree on one specific rule or routine"
 msgstr ""
 
@@ -17741,6 +17789,18 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "I don't know"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Woman"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Man"
 msgstr ""
 
 #. type=quick_replies
@@ -19540,24 +19600,6 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "woman"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "man"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "n"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "my child or teen could not agree on one specific rule or routine"
 msgstr ""
 
@@ -19613,6 +19655,12 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "y yes "
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "n"
 msgstr ""
 
 #. type=arguments
@@ -19757,6 +19805,18 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "i don't know"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "woman"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "man"
 msgstr ""
 
 #. type=arguments
