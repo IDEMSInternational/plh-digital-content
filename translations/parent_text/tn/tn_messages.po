@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-01-26 16:44\n"
+"PO-Revision-Date: 2022-01-28 11:48\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -439,12 +439,6 @@ msgstr "Ke maswabi go utlwa gore ona le mathata @fields.user_name. Gopola ka gal
 msgctxt "text"
 msgid "Sorry to hear that you are struggling. Remember you can always get extra support by typing \"Help\"."
 msgstr "Re maswabi go utlwa gore o na le bothata. Gopola gore o ka bona tshegetso e nngwe ka go tlanya “Thusa”."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Sorry to hear that you are struggling. Take a moment to reflect on one thing that went well for you today @fields.user_name.  Even the smallest things can help. Remember you can always get extra support by typing \"Help\"."
-msgstr "Re maswabi go utlwa gore o na le bothata. Tsaya nako go akanya ka selo se le sengwe se se go tsamaetseng sentle gompieno @fields.user_name. Tota le dilo tse dinnye go feta di kgona thusa. Gopola gore o ka bona tshegetso e nngwe ka go tlanya “Thusa”."
 
 #. type=text
 msgctxt "text"
@@ -3359,18 +3353,6 @@ msgid "You can also find something educational to do together with @fields.child
 msgstr "Gape o ka batla sengwe se se nang le thuto go se dira mmogo le @fields.child_nickname go sediriswa sa inthanete. Kgotsa gongwe wa kopa @fields.child_nickname go go bontsha gore selo sa gagwe sa mmamoratwa se a ratang go se dira go sediriswa sa mmamoratwa. Fela nna pelotelele. Mo nakong e e sa fediseng pelo ba go phuthologa go dira ditirwana tse dingwe!"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "You can also find something educational to do together with @fields.child_nickname on the gadget. Or maybe ask your child to show you what is their favourite thing to do on the gadget. Just be patient. Soon they may open up to other activities, too!"
-msgstr "Gape o ka batla sengwe se se nang le thuto go se dira mmogo le @fields.child_nickname go sediriswa sa inthanete. Kgotsa gongwe wa kopa 2 go go bontsha gore selo sa gagwe sa mmamoratwa se a ratang go se dira go sediriswa sa mmamoratwa. Fela nna pelotelele. Mo nakong e e sa fediseng pelo ba go phuthologa go dira ditirwana tse dingwe!"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "You can also find something educational to do together with your child on the gadget. Or maybe ask @fields.child_nickname to show you what is their favourite thing to do on the gadget. Just be patient. Soon they may open up to other activities, too!"
-msgstr "Gape o ka batla sengwe se se nang le thuto go se dira mmogo le 1 go sediriswa sa inthanete. Kgotsa gongwe wa kopa @fields.child_nickname go go bontsha gore selo sa gagwe sa mmamoratwa se a ratang go se dira go sediriswa sa mmamoratwa. Fela nna pelotelele. Mo nakong e e sa fediseng pelo ba go phuthologa go dira ditirwana tse dingwe!"
-
-#. type=text
 msgctxt "text"
 msgid "You can also find something educational to do together with your child on the gadget. Or maybe ask your child to show you what is their favourite thing to do on the gadget. Just be patient. Soon they may open up to other activities, too!"
 msgstr "Gape o ka batla sengwe se se nang le thuto go se dira mmogo le 1 go sediriswa sa inthanete. Kgotsa gongwe wa kopa 2 go go bontsha gore selo sa gagwe sa mmamoratwa se a ratang go se dira go sediriswa sa mmamoratwa. Fela nna pelotelele. Mo nakong e e sa fediseng pelo ba go phuthologa go dira ditirwana tse dingwe!"
@@ -3566,11 +3548,6 @@ msgstr "Kgomano ka mmele e botlhokwa segolo go masea le bomapimpana. Go bana ba 
 msgctxt "text"
 msgid "Children need to do things in their own time. Try to give them time to explore and be patient. Remember that the world is brand new to your child!"
 msgstr "Bana ba tlhoka go dira dilo ka nako ya bona. Leka go ba neela nako go utolola mme o nne pelotelele. Gopola gore go ngwana wa gago lefatshe ke sengwe se seswa!"
-
-#. type=text
-msgctxt "text"
-msgid "Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening. Speak with enthusiasm when describing what your child is doing. Here is a comic on how to communicate with your baby. "
-msgstr "Dirisa mafoko go tlhalosa dikgato, mebala, dipopego, dinomoro, bogolo, boalo, thempereisha, ditatso, medumo, le sengwe fela se se diragalang. Bua ka mafolofolo fa o tlhalosa se ngwana wa gago a se dirang. Fano ke khomiki ka ga gore o ka tlhaeletsana jang le lesea la gago. "
 
 #. type=text
 msgctxt "text"
@@ -5859,6 +5836,11 @@ msgstr "O ka rata melaetsa ya gago jang?"
 msgctxt "text"
 msgid "How can we help you?"
 msgstr "Re ka go thusa jang?"
+
+#. type=text
+msgctxt "text"
+msgid "If you would prefer not to answer, type \"N\"."
+msgstr "Fao tlhopha go se arabe, tlanya “N”."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -8609,6 +8591,16 @@ msgstr "Ba akgolele go bo ba siame le go leka go siama! "
 
 #. type=text
 msgctxt "text"
+msgid "• Give your child choices: this gives them a sense of control and builds self-esteem."
+msgstr "Naya 1 dikhetho: seno se mo neela maikutlo a taolo le go aga go itshepa."
+
+#. type=text
+msgctxt "text"
+msgid "• Use simple language and clear instructions. If words aren't good for them, try gestures and pictures. "
+msgstr "Dirisa puo e e bonolo le ditaelo tse di tlhaloganyegang. Fa tiriso ya mafoko e se ntle go bona, leka go bua ka diatla le ditshwantsho. "
+
+#. type=text
+msgctxt "text"
 msgid "Step 4. Praise them!"
 msgstr "Kgato 4. Ba akgole!"
 
@@ -8756,22 +8748,6 @@ msgstr "(6)"
 msgctxt "text"
 msgid "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat later!"
 msgstr "Gopola go tlanya “Thusa” fa o ka tlhoka dikakantsho tse dingwe tsa botsadi kgotsa thuso nngwe. Tla re bue moragonyana!"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "• Give @fields.child_nickname_disabled choices: this gives them a sense of control and builds self-esteem."
-msgstr "•Naya @fields.child_nickname_disableddikgetho: seno se mo neela maikutlo a taolo le go aga go itshepa."
-
-#. type=text
-msgctxt "text"
-msgid "• Use simple language and clear instructions. If words aren't good for them, try gestures and pictures. "
-msgstr "Dirisa puo e e bonolo le ditaelo tse di tlhaloganyegang. Fa tiriso ya mafoko e se ntle go bona, leka go bua ka diatla le ditshwantsho. "
-
-#. type=text
-msgctxt "text"
-msgid "• Give your child choices: this gives them a sense of control and builds self-esteem."
-msgstr "Naya 1 dikhetho: seno se mo neela maikutlo a taolo le go aga go itshepa."
 
 #. type=text
 msgctxt "text"
@@ -9905,86 +9881,6 @@ msgstr "5. O lolame mo go ikgatholoseng"
 msgctxt "text"
 msgid "6. Make sure you are giving your child plenty of positive attention at other times."
 msgstr "6. Netefatsa gore mo dinakong tse dingwe o neela ngwana wa gago kelotlhoko e ntsi."
-
-#. type=text
-msgctxt "text"
-msgid "Here is a comic on combining consequences and ignore."
-msgstr "Fano ke khomiki mo go kopanyeng ditlamorago le go ikgatholosa."
-
-#. type=text
-msgctxt "text"
-msgid "Parent 1: \"Bailey, please clear the dishes after dinner\" "
-msgstr "Motsadi 1: “Bailey, ke kopa o tlose dijana morago ga dijo” "
-
-#. type=text
-msgctxt "text"
-msgid "Parent 2: \"Sam, time to get ready for bed. Come with me.\""
-msgstr "Motsadi” 2: “Sam, nako go ipaakanyetsa go robala. Tlaya.”"
-
-#. type=text
-msgctxt "text"
-msgid "Child: \"I don't want to clear the dishes. I want to play with my new toy car. \""
-msgstr "Ngwana: “Ga ke batle go phutha dijana. Ke batla go tshameka ka k=setshamekisi sa me sa koloi e ntshwa.”"
-
-#. type=text
-msgctxt "text"
-msgid "Parent 1: \"The household rule is that you have to help clean up after dinner before you can play with your toys.\""
-msgstr "Motsadi 1: “Molao wa fa lapeng ke gore o thuse go phepafatsa le go morago ga dijo pele o tshameka ka ditshamekisi tsa gago.”"
-
-#. type=text
-msgctxt "text"
-msgid "Child: \"But it is not fair! Sam doesn't have to clean up after dinner!\""
-msgstr "Ngwana: “Tota ga go a siama! Sam ga a tlhoke go tlheka morago ga dijo!”"
-
-#. type=text
-msgctxt "text"
-msgid "Parent 1: \"Bailey, either you clear the table now, or you will not be able to play with your toys later tonight\""
-msgstr "Motsadi 1: “Bailey, o ka phutha tafole jaanong, kgotsa o ka se kgone go tshameka ka ditshamekisi moragonyana maitseboa”"
-
-#. type=text
-msgctxt "text"
-msgid "Parent 1: \"Because you did not listen, you cannot play with your toys. Please get ready for bed. "
-msgstr "Motsadi 1: “GO ka se tshameke ka ditshamekisi gonne o sa reetsa. Ke kopa o ipaakanyetse go robala. "
-
-#. type=text
-msgctxt "text"
-msgid "Child: \"But that is not fair!\""
-msgstr "Ngwana: “Tota ga go a siama!"
-
-#. type=text
-msgctxt "text"
-msgid "Child: \"But that is not fair. Waaaah!\""
-msgstr "Ngwana: “Fela ga go a siama! Waaaah!\""
-
-#. type=text
-msgctxt "text"
-msgid "Parent 1: \"It is so nice to see that you got ready for bed all by yourself!\""
-msgstr "Motsadi 1: “Go gontle jang go go bona o ipaakanyetsa go robala ka bowena!”"
-
-#. type=text
-msgctxt "text"
-msgid "Child: \"Now can I play with my toy car?\""
-msgstr "Ngwana: “A jaanong nka tshameka ka koloi ya me ya setshamekisi?”"
-
-#. type=text
-msgctxt "text"
-msgid "Parent 1: \"You can play with your car tomorrow. It is bedtime. Come, my sweetie, I will tell your favourite bedtime story.\""
-msgstr "Motsadi 1: “O tla tshameka ka koloi ya gago ka moso. Ke nako ya go robala. Tlaya moratiwa, ke tla go tlotlela kgang ya gago ya mmamoratwa fa o robala.”"
-
-#. type=text
-msgctxt "text"
-msgid "(7)"
-msgstr "(7)"
-
-#. type=text
-msgctxt "text"
-msgid "Parent 1: \"Once upon a time...\""
-msgstr "Motsadi 1: “Bogologolo tala...”"
-
-#. type=text
-msgctxt "text"
-msgid "(8)"
-msgstr "(8)"
 
 #. type=text
 msgctxt "text"
@@ -11744,11 +11640,6 @@ msgstr "A o lemogile le go arolelanela maikutlo le @fields.child_nickname morago
 
 #. type=text
 msgctxt "text"
-msgid "Have you noticed and shared emotions with your child or teen  recently?"
-msgstr "A o lemogile le go arolelanela maikutlo le ngwana kgotsa mosha wa gago morago jaana?"
-
-#. type=text
-msgctxt "text"
 msgid "How did your child respond?"
 msgstr "Mosha wa gago o tsibogile jang?"
 
@@ -11781,11 +11672,6 @@ msgstr "Go elatlhoko le go bua ka maikutlo go ka nna popota kwa ntlheng, fela we
 
 #. type=text
 msgctxt "text"
-msgid "Noticing and sharing emotions can be difficult at first, but you and your child or teen  will get used to it. Keep trying and you will see the positive change!"
-msgstr "Go elatlhoko le go bua ka maikutlo go ka nna popota kwa ntlheng, fela wena le ngwana kgotsa mosha wa gago le tla tlwaela. Nna o leke mme fa go ntse go ile, dilo di tla tsamaya sentle!"
-
-#. type=text
-msgctxt "text"
 msgid "We are sorry it did not go well."
 msgstr "Re maswabi ga go a tsamaya sentle."
 
@@ -11810,11 +11696,6 @@ msgstr "A Ke eng se se nnileng popota go wena ka ga go arolelanela maikutlo le n
 msgctxt "text"
 msgid "Wonderful! You may even start noticing that @fields.child_nickname is more aware about how you are feeling, too. Keep it up!"
 msgstr "Bontle tota! O ka nna wa simolola go lemoga gore @fields.child_nickname o lemogile go gore o ikutlwa jang le wena. Tswelela fela jalo!"
-
-#. type=text
-msgctxt "text"
-msgid "Wonderful! You may even start noticing that your child or teen  is more aware about how you are feeling, too. Keep it up!"
-msgstr "Bontle tota! O ka nna wa simolola go lemoga gore ngwana kgotsa mosha o lemogile go gore o ikutlwa jang le wena. Tswelela fela jalo!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -12372,11 +12253,6 @@ msgstr "O dira tiro e ntle. Go nna le mekgwatlwaelo e e tshwanang go letla bana 
 msgctxt "text"
 msgid "These tips are for YOU. So that our chats can be as helpful as possible, could you please tell us whether you are a WOMAN or MAN?"
 msgstr "Dikakantsho tse ke tsa GAGO. Gore melaetsa ya rona e kgone go nna mosola mo go kgonegang, a o ka re bolelela gore a o MOSADI kgotsa MONNA?"
-
-#. type=text
-msgctxt "text"
-msgid "If you would prefer not to answer, type \"N\"."
-msgstr "Fao tlhopha go se arabe, tlanya “N”."
 
 #. type=text
 msgctxt "text"
@@ -15311,24 +15187,6 @@ msgid "Great to hear that your child has been behaving well! The best approach i
 msgstr "Go gontle go utlwa gore ngwana wa gago o ntse a itshola sentle! Mokgwa o montle ke go efoga go dirisa ditlamorago kwa ntlheng ka go tshola ngwana wa gago mo tlase ga Kelotlhoko ya Marang a a Siameng. Beeletsa go nako e e boleng mme o akgole maitsholo a a siameng a ngwana wa gago. Kaelogape e mosola go efoga maitsholo se!"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum,  you should ignore your child's behaviour until it is over.  If @fields.child_nickname is older, you might need to walk away until they calm down. "
-msgstr "Nako dingwe bana ba rona ba tla ikarabela go mo sa siamang fa ba newa ditlamorago. Fa @fields.child_nickname a le monnye go 9 mme a dira matepe, o tshwanetse go ikgatholosa maitsholo a ngwana gofitlha a fela.  Fa @fields.child_nickname a le mogalwane, o ka tlhoka go tloga mo go ene go fitlha a ritibala. "
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Sometimes our children will react in a negative way when receiving a consequence. If @fields.child_nickname is younger than 9 and throws a tantrum,  you should ignore your child's behaviour until it is over.  If your child is older, you might need to walk away until they calm down. "
-msgstr "Nako dingwe bana ba rona ba tla ikarabela go mo sa siamang fa ba newa ditlamorago. Fa @fields.child_nickname a le monnye go 9 mme a dira matepe, o tshwanetse go ikgatholosa maitsholo a ngwana gofitlha a fela.  Fa ngwana wa gago a le mogolwane, o ka tlhoka go tloga mo go ene go fitlha a ritibala. "
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Sometimes our children will react in a negative way when receiving a consequence. If your child is younger than 9 and throws a tantrum, you should ignore your child's behaviour until it is over.  If @fields.child_nickname is older, you might need to walk away until they calm down. "
-msgstr "Nako dingwe bana ba rona ba tla ikarabela go mo sa siamang fa ba newa ditlamorago. Fa ngwana wa gago a le monnye go 9 mme a dira matepe, o tshwanetse go ikgatholosa maitsholo a ngwana gofitlha a fela.  Fa @fields.child_nickname a le mogalwane, o ka tlhoka go tloga mo go ene go fitlha a ritibala. "
-
-#. type=text
 msgctxt "text"
 msgid "Sometimes our children will react in a negative way when receiving a consequence. If your child is younger than 9 and throws a tantrum, you should ignore your child's behaviour until it is over.  If your child is older, you might need to walk away until they calm down. "
 msgstr "Nako dingwe bana ba rona ba tla ikarabela go mo sa siamang fa ba newa ditlamorago. Fa ngwana wa gago a le monnye go 9 mme a dira matepe, o tshwanetse go ikgatholosa maitsholo a ngwana gofitlha a fela.  Fa ngwana wa gago a le mogolwane, o ka tlhoka go tloga mo go ene go fitlha a ritibala. "
@@ -17615,6 +17473,18 @@ msgstr "ditirelo tse dingwe"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Woman"
+msgstr "Mosadi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Man"
+msgstr "Monna"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "My child or teen could not agree on one specific rule or routine"
 msgstr "Ngwana kgotsa mosha wa me o ne a sa dumalane le molao kgotsa mokgwatlwaelo o o rileng"
 
@@ -17791,18 +17661,6 @@ msgstr "Nogwana wa me ga a rata"
 msgctxt "quick_replies"
 msgid "I don't know"
 msgstr "Ga ke itse."
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Woman"
-msgstr "Mosadi"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Man"
-msgstr "Monna"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -19601,6 +19459,24 @@ msgstr "selelo sa covid"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "woman"
+msgstr "mosadi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "man"
+msgstr "monna"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "n"
+msgstr "n"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "my child or teen could not agree on one specific rule or routine"
 msgstr "ngwana kgotsa mosha wa me o ne a sa dumalane le molao kgotsa mokgwatlwaelo o o rileng"
 
@@ -19657,12 +19533,6 @@ msgstr "nnyaa seng nnyaa n"
 msgctxt "arguments"
 msgid "y yes "
 msgstr "y Ee e"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "n"
-msgstr "n"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -19807,18 +19677,6 @@ msgstr "ngwana wa me ga a rata"
 msgctxt "arguments"
 msgid "i don't know"
 msgstr "ga ke itse."
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "woman"
-msgstr "mosadi"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "man"
-msgstr "monna"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
