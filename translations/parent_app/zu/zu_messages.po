@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2022-02-22 17:48\n"
+"PO-Revision-Date: 2022-02-23 12:37\n"
 
 #. type=template
 msgctxt "template"
@@ -779,6 +779,17 @@ msgid "You may be asked to share this code with people who will support your @gl
 msgstr "Ungase ucelwe ukuba wabelane ngale khodi nabantu abazokusekela @global.parent_app uhambo lwakho."
 
 #. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Kucgine ukusinkwa (Sync):  @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "Le divayice ayikaze isinkwe (synced). Yisinke khona kuzovela ikhodi yakho."
+
+#. type=template
 msgctxt "template"
 msgid "Sync now"
 msgstr "Vumelanisa manje/Xhumanisa manje (Sync now)"
@@ -894,6 +905,18 @@ msgstr "Imiyalezo"
 msgctxt "template"
 msgid "About @global.parent_app"
 msgstr "Mayelana@global.parent_app"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid ""
+"@global.parent_app was developed by Parenting for Lifelong Health (PLH) – a worldwide collaboration between parenting experts from UNICEF, the WHO and Universities in South Africa and the UK, as well as African NGOs and families and teens all across Africa. Parents and teens worked with us on the app and helped to ensure it is easy-to-use, fun and engaging. Some of the content in this app, like suggestions of activities and illustrated stories, were created with parents and teens to make sure it fits families’ needs.\n"
+"\n"
+"Parenting for Lifelong Health (PLH) is committed to supporting free and shareable parenting materials and programmes, to support parents worldwide to promote the well-being of their children."
+msgstr ""
+"@global.parent_app yasungulwa yi-Parenting for Lifelong Health (PLH) - ngokusebenzisana komhlaba wonke phakathi kochwepheshe bokukhuliswa kwabantwana. Labochephes abakwa UNICEF, WHO, amaNyuvesi aseNingizimu Africa nase UK, nama NGO ase Africa kanye nemindeni nentsha yese Africa yonkana. Abazali nentsha basebenzisane nathi kule app futhi basiza ekuqinisekiseni ukuthi kulula ukuyisebenzisa, iyajabulisa futhi iyaheha. Okunye okuqukethwe ile-app, njengeziphakamiso zemisebenzi,izitori ezinezithombe zasungulwa ngokubambisana nabazali nentsha ukuqinisekisa ukuthi ihambisana nezidingo zemindeni.\n"
+"\n"
+"I-Parenting for Lifelong Health (PLH) izinikele ekutheni ixhase mahala futhi ngokwabelekayo izinto zokukhulisa abantwana nezinye izinhlelo, nokweseka abazali umhlaba wonke ngenhloso yokugqugquzela inhlalakahle yabantwana babo."
 
 #. type=template
 msgctxt "template"
@@ -7170,6 +7193,20 @@ msgid "Speak kindly to yourself about what a great job you are doing. There is n
 msgstr "Mawu khuluma ngawe khuluma ngomusa mayelana nomsebenzi omuhle owenzayo. Akekho umzali ongawenzi amaphutha futhi thina sicabanga ukuthi wenza kahle kakhulu!"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @data.habit.instruct_positively.title
+#.      @global.parent_points
+msgctxt "template"
+msgid ""
+"You’ve not marked any @data.habit.instruct_positively.title @global.parent_points yet. \n"
+"\n"
+"Give it a try today!"
+msgstr ""
+"Awukhethanga nokukodwa phakathi kwalokhu @data.habit.instruct_positively.title @global.parent_points . \n"
+"\n"
+"Kuzame namhlanje!"
+
+#. type=template
 msgctxt "template"
 msgid "Well done!"
 msgstr "Wenze kahle!"
@@ -7181,6 +7218,15 @@ msgstr "Wenze kahle!"
 msgctxt "template"
 msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title once already  – so you’re making great progress."
 msgstr "Umakile @global.parent_point @data.habit.instruct_positively.title kanye kakade - ngakho wenza inqubekelaphambili enhle."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_point
+#.      @data.habit.instruct_positively.title
+#.      @field.parent_point_count_instruct_positively
+msgctxt "template"
+msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title @field.parent_point_count_instruct_positively times already  – so you’re making great progress."
+msgstr "Usuyikhethile - @global.parent_point @data.habit.instruct_positively.title @field.parent_point_count_instruct_positively - ngakho ke uthuthuka kakhulu."
 
 #. type=template
 msgctxt "template"
@@ -7828,6 +7874,23 @@ msgid ""
 msgstr ""
 "-Cela usizo kumuntu omethembayo- ukudla noma ukunakekelwa kwengane kungaba usizo. Kungenzeka udinge amaphepha efa lezingane noma ukuthola izinsiza. \n"
 "-Ngesinye isikhathi abantu bazama ukuthatha imali kumuntu ososizini. Thola ulwazi ngamalungelo akho"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"- Saying goodbye is difficult. Do what feels okay for you and your teen. \n"
+"- Families, teens and parents are not perfect. When someone has died, it is okay to talk about the good and bad things we remember. \n"
+"- It can help to write a letter or make a drawing for the person who has gone.  \n"
+"- Some people hold a ceremony or have a special meal to celebrate the person, and say goodbye.  \n"
+"- It can help to make a box of memories, to put things that remind you and your teen of the person.  \n"
+"- It can help just to talk about the person when you think about them."
+msgstr ""
+"-Kunzima ukuvalelisa. Yenza lokho okukulungele wena nomntwana wakho.\n"
+"-Imindeni, intsha nabantwana abekho msulwa. Uma umuntu eshonile, kulungile ukukhuluma ngokuhle nokubi esikukhumbulayo.\n"
+"-Kungasiza ukumbhalela incwadi noma ukumdwebela lomuntu oshonile.\n"
+"-Abanye abantu benza umcimbi noma babe nesidlo esikhethekile ukubungaza lowomuntu nokuvalelisa.\n"
+"-Kungasiza ukwenza ibhokisi lezikhumbuzo lokufaka izinto ezikhumbuza wena nomntwana wakho ngalowomuntu.\n"
+"-Kungasiza ukukhuluma nje ngalowomuntu uma umcabanga."
 
 #. type=template
 msgctxt "template"
@@ -9752,13 +9815,28 @@ msgstr "Qaphela"
 
 #. type=template
 msgctxt "template"
+msgid "Get your information from reliable sources of information, so you can be confident in these uncertain times. We hear and see a lot of news via other people and phones, TV, internet. Does it make you feel doubt, worry, fear, anger, or confusion? Check before you share or act!"
+msgstr "Thola ulwazi lwakho kwimithombo ethembekile khona uzoba nokuzethemba kulezizikhathi ezingaqinisekile. Sizwa futhi sibona izindaba eziningi kwabanye abantu, emafonini, TV, intanethi. Ingabe kukwenza ungabaze, ukhathazeke, usabe, ucasuke noma udideke? Hlola ngaphambi kokuthi udlulisele kwabanye nagaphambi kokuthi wenze!"
+
+#. type=template
+msgctxt "template"
 msgid "CHOOSE"
 msgstr "Khetha"
 
 #. type=template
 msgctxt "template"
+msgid "Making the right choices that keep everyone healthy and safe can be hard. Especially in these times! You can help your teen make good decisions."
+msgstr "Kungabanzima ukuthatha izinqumo ezifanele ezigcina wonke umuntu enempilo futhi ephephile. Ikakhulukazi kulezizikhati. Ungamsiza umntwana wakho ekuthni enze izinqumo ezinhle."
+
+#. type=template
+msgctxt "template"
 msgid "CHILL"
 msgstr "Phumula"
+
+#. type=template
+msgctxt "template"
+msgid "We all feel stressed sometimes. Take a deep breath or do something fun together. It can make a big difference to make your home happy and peaceful! Here are some ideas you can try:"
+msgstr "Ngesinye isikhathi siba nengcindezi. Donsa umphefumulo kakhulu noma nenze into ejabulisayo ndawonye. Kungenza omkhulu umehluko lokhu ekwenzeni ikhaya lakho libe nentokozo nokuthula. Nanka amacebo ongawazama:"
 
 #. type=template
 msgctxt "template"
@@ -9823,6 +9901,11 @@ msgstr "Intsha inezinhloso anamaphupho ngekusasa- eliseduze nelikude!"
 msgctxt "template"
 msgid "Ask your teen about their goals and dreams, encourage them to think what they want for their future, and make a plan together to work towards realising them."
 msgstr "Buza umntwana wakho ngezinhloso nangamaphupho akhe, mkhuthaze ekutheni acabange akufunayo ngekusasa lakhe bese nenza uhlelo ndawonye lokusebenzela ekufezeni lezozinhlelo namaphupho."
+
+#. type=template
+msgctxt "template"
+msgid "Resilient teens can handle difficult situations, adapt to changes, and solve problems when they come up."
+msgstr "Umntwana oqinile angamelana nezimo ezinzima, azivumelanise nezinguquko futhi axazulule nezinkinga eziqhamukayo."
 
 #. type=template
 msgctxt "template"
@@ -9898,6 +9981,11 @@ msgstr "Ukutshela umntwana wakho ukuthi 'yekela' ngungenza izinto zibe zimbi kak
 msgctxt "template"
 msgid "Sometimes teens can hurt themselves on purpose to deal with negative emotions like anger, guilt, emptiness, or self-hate. This can be caused by anxiety or depression."
 msgstr "Kwesinye isikhathi abantwana bangazilimaza ngamabomu ukumelana nemizwa engemihle efana nokucasuka, ukuba necala, umuzwa wobuze, nokuzizonda. Lokhu kungabangwa ukwethuka nengcindezi."
+
+#. type=template
+msgctxt "template"
+msgid "Telling your teen to ‘just stop’ may make things worse. Rather listen to them, calmly show you understand, and build their confidence. If your teen is willing to explain how hurting themselves makes them feel better, you can start to understand the reasons. Try to get professional help."
+msgstr "Ukutshela umntwana wakho ukuthi 'khawume' kungenza izinto zibe zimbi kakhulu. Kungcono umlalele ngomoya ophansi ukutshengisa ukuthi uyaqonda futhi wakhe ukuzethemba kwakhe. Uma umntwana wakho efuna ukukuchazela ukuthi ukuzilimaza kumsiza kanjani ekutheni azizwe kangcono, ungaqala ngokuqonda izizathu. Zama ukuthola usizo lochepheshe."
 
 #. type=template
 msgctxt "template"
@@ -10042,8 +10130,39 @@ msgstr "Mbonge umntwana wakho ngokwabelana ngemibono bese uyakugqamisa ukuthi ku
 
 #. type=template
 msgctxt "template"
+msgid ""
+"1. Take a deep breath.\n"
+"2. See if the news makes sense.\n"
+"3. Ask where they got the news.\n"
+"4. Double-check with other people/sources you trust.\n"
+"5. Think if this news would help or only scare people if you share it."
+msgstr ""
+"1. Donsa umphefumulo kakhulu..\n"
+"2. Bona ukthi ngabe izindaba zinomqondo.\n"
+"3. Buza ukuthi uzitholephi lezozindaba.\n"
+"4. Qinisekisa nabanye abantu/nemithombo oyethembayo.\n"
+"5. Cabanga ukuba lezizindaba zizosiza noma zizosabisa abantu uma uzixoxa."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"We all sometimes want to tell our teens \"You must do this, or else… trouble!\", but it often does not make them follow rules better.  \n"
+"\n"
+"Instead, you can help your teen make good choices by showing you trust them and speaking with them:"
+msgstr ""
+"Ngesinye isikhathi, sonke sifuna ukutshela abantwana bethu ukuthi \"Kumele wenze lokhu, ngale kwalokho...inkinga!\" Kodwa lokhu akwenzi ukuthi bayilandele kangcono imithetho. \n"
+"\n"
+"Kunalokho, ungamsiza umntwana wakho ekutheni enze izinqumo ezinhle ngomtshengisa ukuthi uyamethemba nokukhuluma naye futhi:"
+
+#. type=template
+msgctxt "template"
 msgid "DISCUSS CONSEQUENCES"
 msgstr "Xoxisanani ngemiphumela"
+
+#. type=template
+msgctxt "template"
+msgid "Ask \"If you do this, what could happen?\""
+msgstr "Buza ukthi \"Uma wenza lokhu, kuzokwenzakalani?\""
 
 #. type=template
 msgctxt "template"
@@ -10054,6 +10173,26 @@ msgstr "Ncoma"
 msgctxt "template"
 msgid "If something goes well, praise your teen!"
 msgstr "Uma okuthile kuhambe kahle, mncome umntwana wakho!"
+
+#. type=template
+msgctxt "template"
+msgid "REFLECT TOGETHER"
+msgstr "Chabangani nihlaziye ndawonye"
+
+#. type=template
+msgctxt "template"
+msgid "If something goes wrong, ask \"How could you have done that differently?\""
+msgstr "Uma kungahambale okuthile, buza ukuthi \"Eyiphi indlela ubungenza kangcono ngayo?\""
+
+#. type=template
+msgctxt "template"
+msgid "START SMALL"
+msgstr "QALA KANCANE"
+
+#. type=template
+msgctxt "template"
+msgid "Give your teen small responsibilities first. When that goes well, you can add more to show that you trust your teen."
+msgstr "Nika umntwana wakho izibopho ezincane kuqala. Uma lokho kuhamba kahle, ungengeza ezinye ukutshengisa ukuthi uyamethemba."
 
 #. type=template
 #. The string @data.habit.spend_time.in_text_title should not be translated.
@@ -11707,6 +11846,11 @@ msgstr "Ikhodi Yakho Ye-@global.parent_app"
 
 #. type=global
 msgctxt "global"
+msgid "Terms & Conditions"
+msgstr "Imigomo nemibandela"
+
+#. type=global
+msgctxt "global"
 msgid "Privacy Policy"
 msgstr "Inqubomgomo Yobumfihlo"
 
@@ -12657,15 +12801,35 @@ msgid "My Tips"
 msgstr "Amacebiso Ami"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**My Tips** in the @global.parent_centre"
+msgstr "**Amathiphu ami** ku-@global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Essential Tools"
 msgstr "Amathuluzi Abalulekile"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Essential Tools** in the @global.parent_centre"
+msgstr "**Amathuluzi abalulekile** ku-@global.parent_centre"
 
 #. type=data_list
 #. The string @global.parent_app should not be translated.
 msgctxt "data_list"
 msgid "Customise @global.parent_app"
 msgstr "Hlela Ngendlela Oyithandayo @global.parent_app"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app**
+#.      @global.parent_centre
+msgctxt "data_list"
+msgid "**Customise @global.parent_app** in the @global.parent_centre"
+msgstr "**Khetha ngokwezifiso zakho @global.parent_app** ku-@global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12678,9 +12842,21 @@ msgid "Relax & Activities"
 msgstr "Ukuphumula kanye Nemisebenzi"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "under **Relax & Activities** in the @global.parent_centre"
+msgstr "ngaphansi **Kokuphumula neMisebenzi** ku- @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Help"
 msgstr "Usizo"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Help** in the @global.parent_centre"
+msgstr "**Usizo** ku- @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12688,9 +12864,46 @@ msgid "Technical Support"
 msgstr "Usizo Lwezobuchwepheshe"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Technical Support** in the @global.parent_centre"
+msgstr "**Ukwesekwa ngokobuchwepheshe** ku-@global.parent_centre"
+
+#. type=data_list
+#. The string @global.covid should not be translated.
+msgctxt "data_list"
+msgid "Coping with @global.covid"
+msgstr "Ukumelana ne- @global.covid"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.covid**
+#.      @global.parent_centre
+msgctxt "data_list"
+msgid "**Coping with @global.covid** in the @global.parent_centre"
+msgstr "**Ukumelana ne @global.covid** ku- @global.parent_centre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Coping with grief"
+msgstr "Ukumelana nosizi"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Coping with grief** in the @global.parent_centre"
+msgstr "**Ukumelana nosizi** ku- @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Message Archive"
 msgstr "Indawo Okugcinwa Kuyo Imiyalezo"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Message Archive** in the @global.parent_centre"
+msgstr "**Indawo egcine imiyalezo** ku- @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12698,9 +12911,56 @@ msgid "Support Contacts"
 msgstr "Izinombolo zalapho ungathola ukwesekwa khona"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Support Contacts** in the @global.parent_centre"
+msgstr "**Labo abangakweseka** ku- @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Evidence Base"
 msgstr "Isisekelo Sobufakazi"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Evidence Base** in the @global.parent_centre"
+msgstr "**Isisekelo sobufakazi** ku- @global.parent_centre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to talk to my teen"
+msgstr "Ngikhulume kanjani nomntwana wami"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Steps to deal with news"
+msgstr "Izinyathelo zomelana nezindaba"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can I help my teen choose well?"
+msgstr "Ngingamusiza kanjani umntwana wami ukuthi akhethe kahle?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What influences teen decisions?"
+msgstr "Yini enomthelela kwizinqumo intsha?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does my teen feel?"
+msgstr "Uzizwa kanjani umntwana wami?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Changing negative to positive"
+msgstr "Ukushintsha okubi ukuse kokuhle"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Help yourself cope"
+msgstr "Zisize ubhekane nakho"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12898,6 +13158,17 @@ msgstr "Imiphumela eyethulwa ngomoya ozolile"
 msgctxt "data_list"
 msgid "**Calm consequence** @global.parent_point"
 msgstr "**Imiphumela eyethulwa ngomoya ozolile** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Giving their teen a consequence in a calm way"
+msgstr "Ukunikeza abantwana babo umphumela ngesizotha"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a calm consequence, tap the @global.parent_point and celebrate your success!"
+msgstr "Ngasosonke isikhathi lapho unikeza umphumela ozothile, cofoza u- @global.parent_point, ujabulele ukuphumelela kwakho!"
 
 #. type=data_list
 msgctxt "data_list"
