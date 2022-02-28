@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-02-28 08:10\n"
+"PO-Revision-Date: 2022-02-28 14:08\n"
 
 #. type=template
 msgctxt "template"
@@ -13124,6 +13124,24 @@ msgid "Have you and your teen discussed what you would do in a crisis?"
 msgstr "Je, wewe na kijana wako mmejadili nini cha kufanya katika matatizo?"
 
 #. type=data_list
+#. The string @data.workshop.w_crisis. should not be translated.
+msgctxt "data_list"
+msgid "Well done for finishing the @data.workshop.w_crisis. Tomorrow, you can access the final workshop to reflect on your journey and plan what to do next!"
+msgstr "Vizuri sana kwa kumaliza warsha @data.workshop.w_crisis. Kesho, unaweza kupata warsha ya mwisho kuvuta kumbukumbu ya safari na kupanga cha kufanya wakati ujao!"
+
+#. type=data_list
+#. The string @data.workshop.w_crisis.in_text_title. should not be translated.
+msgctxt "data_list"
+msgid ""
+"The final workshop unlocks tomorrow!\n"
+"\n"
+"First try to finish the @data.workshop.w_crisis.in_text_title. That way, you can complete your set of parenting skills and decide what to do next."
+msgstr ""
+"Warsha ya mwisho inafunguliwa kesho!\n"
+"\n"
+"Kwanza jaribu kukamilisha warsha @data.workshop.w_crisis_text_title.Kwa njia hiyo, unaweza kukamilisha sehemu yako ya ujuzi wa malezi na kuamua nini cha kufanya kwa siku baadaye."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Welcome to ParentApp. Click here to start your journey!"
 msgstr "Karibu kwenye ParentApp. Bonyeza hapa kuanza safari yako!"
@@ -13668,6 +13686,12 @@ msgstr "**Rekebisha @global.parent_app** kwenye @global.parent_centre"
 msgctxt "data_list"
 msgid "Customise Again"
 msgstr "Rekebisha Tena"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Customise Again** in the @global.parent_centre"
+msgstr "**Binafsisha tena** katika @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
