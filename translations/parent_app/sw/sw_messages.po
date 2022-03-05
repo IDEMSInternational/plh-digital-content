@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-03-04 20:19\n"
+"PO-Revision-Date: 2022-03-05 21:35\n"
 
 #. type=template
 msgctxt "template"
@@ -7173,9 +7173,9 @@ msgid ""
 "\n"
 "Thank you again for using @global.parent_app."
 msgstr ""
-"Habari mzazi, warsha mpya inakusubiri kesho. Inaonekana bado haujamaliza @local.workshop_data.in_text_title. Kwa kweli ni fupi sana (amini ninakwambia!) – unaweza hata kuimalizia wakati unasubiri chakula cha usiku kiive. Kwa nini usiipitie ukipata muda?\n"
+"Halo @global.user_name, warsha mpya inakungoja kesho. Inaonekana bado haujamaliza @local.workshop_data.in_text_title. Kwa kweli ni fupi sana (amini ninakwambia!) – unaweza hata kuimalizia wakati unasubiri chakula cha usiku kiive. Kwa nini usiipitie ukipata muda?\n"
 "\n"
-"Asante kwa mara nyingine kwa kutumia @global.parent_app."
+"Kwa mara nyingine, asante kwa kutumia @global.parent_app."
 
 #. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
@@ -7226,8 +7226,9 @@ msgid ""
 "\n"
 "Give it a try today!"
 msgstr ""
-"Hujaweka alama kwenye chochote\n"
-"@data.habit.instruct_positively.title @global.parent_points yet!"
+"Bado hujaweka alama yoyote kwenye @data.habit.instruct_positively.title @global.parent_points. \n"
+"\n"
+"Ijaribu leo!"
 
 #. type=template
 msgctxt "template"
@@ -7249,7 +7250,7 @@ msgstr "Tayari umeweka alama kwenye @global.parent_point @data.habit.instruct_po
 #.      @field.parent_point_count_instruct_positively
 msgctxt "template"
 msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title @field.parent_point_count_instruct_positively times already  – so you’re making great progress."
-msgstr "Tayari umeweka alama kwenye @global.parent_point @data.habit.instruct_positively.title mara @field.parent_point_count_instruct_positively – kwa hiyo, unapiga hatua nzuri za maendeleo."
+msgstr "Tayari umeweka alama ya @global.parent_point @data.habit.instruct_positively.title mara @field.parent_point_count_instruct_positively – kwa hiyo, unapiga hatua nzuri za maendeleo."
 
 #. type=template
 msgctxt "template"
@@ -7806,7 +7807,7 @@ msgstr "Kumpoteza rafiki au mtu unayempenda ni jambo gumu kwa kila mtu. Kujitend
 #. type=template
 msgctxt "template"
 msgid "Take care of yourself"
-msgstr "Kujitunza mwenyewe"
+msgstr "Jitunze"
 
 #. type=template
 msgctxt "template"
@@ -7856,12 +7857,12 @@ msgstr "Kuwa mkweli"
 #. type=template
 msgctxt "template"
 msgid "My teen's response"
-msgstr "Majibu ya kijana wangu"
+msgstr "Mwitikio wa kijana wangu"
 
 #. type=template
 msgctxt "template"
 msgid "How to support my teen?"
-msgstr "Je, ninaweza kumsaidiaje kijana wangu?"
+msgstr "Jinsi ya kumsaidia kijana wangu?"
 
 #. type=template
 msgctxt "template"
@@ -7922,7 +7923,7 @@ msgstr "Omba msaada"
 #. type=template
 msgctxt "template"
 msgid "Say goodbye"
-msgstr "Sema kwa heri"
+msgstr "Aga"
 
 #. type=template
 msgctxt "template"
@@ -9859,12 +9860,12 @@ msgstr "Asante kwa kuwa mkweli"
 #. type=template
 msgctxt "template"
 msgid "CHAT"
-msgstr "Chati/Zungumzeni"
+msgstr "SOGOA"
 
 #. type=template
 msgctxt "template"
 msgid "Share how you feel, and encourage your teen to talk about their worries too. You will understand each other better and can make a good plan together to stay healthy and happy!"
-msgstr "Shirikisha unavyojihisi, na wahamasishe vijana wako kuzungumzia wasiwasi wao pia. Mtaelewana kila mmoja vizuri zaidi na mnaweza kutengeneza mpango mzuri pamoja wa kubaki salama na furaha!"
+msgstr "Shirikisha jinsi unavyohisi, na mhimize kijana wako azungumzie pia wasiwasi wake. Mtaelewana vizuri zaidi na mnaweza kupanga pamoja mpango mzuri utakaowawezesha kuwa na afya njema na furaha!"
 
 #. type=template
 msgctxt "template"
@@ -9874,7 +9875,7 @@ msgstr "TAHADHARI"
 #. type=template
 msgctxt "template"
 msgid "Get your information from reliable sources of information, so you can be confident in these uncertain times. We hear and see a lot of news via other people and phones, TV, internet. Does it make you feel doubt, worry, fear, anger, or confusion? Check before you share or act!"
-msgstr "Pata taarifa kutoka katika vyanzo vya kuaminika vya utoaji taarifa, hivyo utakuwa unajiamini katika nyakati hizi zisizotabirika. Tunasikia na kuona taarifa nyingi kupitia watu wengine na simu, TV, mtandaoni. Je, zinakufanya kuhisi mashaka, wasiwasi, hofu, hasira au kuchanganyikiwa? Hakikisha kabla hujashirikiaha au kuchukua hatua!"
+msgstr "Pata taarifa zako kutoka kwenye vyanzo vya taarifa vinavyoaminika, ili uweze kuwa na uhakika katika nyakati hizi za mashaka. Tunasikia na kuona habari nyingi kupitia watu wengine na simu, runinga, intaneti. Je, hali hiyo inakufanya uhisi mashaka, wasiwasi, hofu, hasira, au kuchanganyikiwa? Hakiki taarifa zako kabla ya kusambaza au kuchukua hatua!"
 
 #. type=template
 msgctxt "template"
@@ -9884,22 +9885,22 @@ msgstr "CHAGUA"
 #. type=template
 msgctxt "template"
 msgid "Making the right choices that keep everyone healthy and safe can be hard. Especially in these times! You can help your teen make good decisions."
-msgstr "Kufanya chaguo sahihi ambalo linamfanya kila mmoja kuwa na afya nzuri na salama inaweza kuwa vigumu. Hasa katika nyakati hizi! Unaweza kusaidia kijana wako kufanya maamuzi mazuri."
+msgstr "Kufanya uchaguzi sahihi unaomfanya kila mtu kuwa salama na mwenye afya kunaweza kuwa jambo gumu. Hasa katika nyakati hizi! Unaweza kumsaidia kijana wako kufanya maamuzi mazuri."
 
 #. type=template
 msgctxt "template"
 msgid "CHILL"
-msgstr "PUMZIKA"
+msgstr "MFADHAIKO"
 
 #. type=template
 msgctxt "template"
 msgid "We all feel stressed sometimes. Take a deep breath or do something fun together. It can make a big difference to make your home happy and peaceful! Here are some ideas you can try:"
-msgstr "Wote huwa tunahisi msongo wa mawazo wakati flani. Vuta pumzi ndefu au fanya kitu flani cha kufurahisha pamoja. Inaweza kuleta mabadiliko makubwa kuifanya kaya yako kuwa na furaha na amani! Hapa ni baadhi ya mawazo unaweza kujaribu:"
+msgstr "Kuna wakati sisi sote huhisi mfadhaiko. Vuteni pumzi ndefu au fanyeni pamoja jambo la kufurahisha. Kuifanya nyumba yako kuwa yenye furaha na amani kunaweza kuleta mabadiliko makubwa! Hapa kuna mawazo kadhaa unayoweza kuyajaribu:"
 
 #. type=template
 msgctxt "template"
 msgid "Negative thoughts make us say and do negative things. Try changing what you think and say from negative to positive!"
-msgstr "Mawazo hasi hutufanya sisi kusema au kufanya vitu hasi. Jaribu kubadilisha unachokisema au kufanya kutoka hasi kuwa chanya!"
+msgstr "Mawazo hasi hutufanya tuseme na kufanya mambo hasi. Jaribu kubadili unachofikiri na unachosema kutoka kuwa hasi hadi kuwa chanya!"
 
 #. type=template
 msgctxt "template"
@@ -10078,12 +10079,12 @@ msgstr "Mifano"
 #. type=template
 msgctxt "template"
 msgid "Telling yourself or your teen to stop or to say the positive opposite often does not help."
-msgstr "Kujiambia mwenyewe au kumwambia kijana wako kuacha au kusema mambo chanya kwa kinyume mara nyingi haisaidii."
+msgstr "Mara nyingi, kujiambia mwenyewe au kumwambia kijana wako kuacha au kusema kinyume na mambo chanya hakusaidii."
 
 #. type=template
 msgctxt "template"
 msgid "\"I do everything perfectly\""
-msgstr "\"Nafanya kila kitu kwa usahihi\""
+msgstr "\"Ninafanya kila kitu kikamilifu\""
 
 #. type=template
 msgctxt "template"
@@ -10097,14 +10098,14 @@ msgid ""
 "- What happens if I continue to believe this thought?\n"
 " - What would I tell a friend if he/she had this thought?"
 msgstr ""
-"- Je, wazo ni halisia? Nini maelezo ya watu wengine?\n"
-"- Nini hutokea kama nitaendelea kuamini wazo hili?\n"
-"- Nitamwambia nini rafiki kama alikuwa na wazo hili?"
+"- Je, wazo hilo linatekelezeka? Maelezo mengine ni yapi? \n"
+"- Ni nini kitatokea nikiendelea kuamini wazo hili? \n"
+"- Nimwambie nini rafiki kama ana wazo hili?"
 
 #. type=template
 msgctxt "template"
 msgid "\"This is hard, but you are trying your best, and we will work together to find a solution\""
-msgstr "\"Hii ni ngumu, lakini unajitaidi sana, na tufanya kazi pamoja kutafuta suluhisho\""
+msgstr "\"Jambo hili ni gumu, lakini unajitahidi kadri ya uwezo wako, na tutashirikiana kutafuta ufumbuzi\""
 
 #. type=template
 msgctxt "template"
@@ -10114,7 +10115,7 @@ msgstr "\"Ni kosa lako\""
 #. type=template
 msgctxt "template"
 msgid "\"Let’s come up with a solution together\""
-msgstr "\"Ebu tuje na suluhisho pamoja\""
+msgstr "\"Hebu tutafute ufumbuzi pamoja\""
 
 #. type=template
 msgctxt "template"
@@ -10124,27 +10125,27 @@ msgstr "\"Nilipoteza kazi yangu\""
 #. type=template
 msgctxt "template"
 msgid "\"I learned a lot in my job – that will help me find another one\""
-msgstr "\"Nilijifunza mengi sana katika kazi yangu - ambayo yatanisaidia kupata kazi nyingine\""
+msgstr "\"Nilijifunza mengi kwenye kazi yangu – hiyo itanisaidia kupata nyingine\""
 
 #. type=template
 msgctxt "template"
 msgid "\"Nobody likes me\""
-msgstr "\"Hakuna mtu anayenipenda mimi\""
+msgstr "\"Hakuna mtu anayenipenda\""
 
 #. type=template
 msgctxt "template"
 msgid "\"Last week I did have a great time with...\""
-msgstr "\"Wiki iliyopita nilikuwa na muda mzuri na...\""
+msgstr "\"Wiki iliyopita nilifurahi sana na...\""
 
 #. type=template
 msgctxt "template"
 msgid "\"Bad things always happen to me\""
-msgstr "\"Mambo mabaya daima hutokea kwangu\""
+msgstr "\"Mambo mabaya hunitokea kila wakati\""
 
 #. type=template
 msgctxt "template"
 msgid "\"This good thing happened the other day...\""
-msgstr "Hiki kitu kizuri kilitokea siku nyingine...\""
+msgstr "\"Jambo hili zuri lilitokea siku fulani...\""
 
 #. type=template
 msgctxt "template"
@@ -10159,7 +10160,7 @@ msgstr "TENGA MUDA"
 #. type=template
 msgctxt "template"
 msgid "Set aside time to have a conversation without distractions."
-msgstr "Tenga muda wa kuwa na mazungumzo bila muingiliano."
+msgstr "Tenga muda wa kufanya mazungumzo bila kubughudhiwa."
 
 #. type=template
 msgctxt "template"
@@ -10169,22 +10170,22 @@ msgstr "SIKILIZA"
 #. type=template
 msgctxt "template"
 msgid "Ask your teen questions and let them share their views without interrupting."
-msgstr "Waulize vijana wako maswali na waache washirikishe maoni yao bila kuwakatisha."
+msgstr "Muulize kijana wako maswali na mwache atoe maoni yake bila kumkata kauli."
 
 #. type=template
 msgctxt "template"
 msgid "WORK TOGETHER"
-msgstr "FANYA KAZI PAMOJA"
+msgstr "SHIRIKIANENI"
 
 #. type=template
 msgctxt "template"
 msgid "Discuss a specific problem, come up with solutions together, and both do what you agree."
-msgstr "Jadili tatizo maalum, mje na suluhisho pamoja, na wote fanyeni mnachokubaliana."
+msgstr "Jadilini tatizo fulani, tafuteni ufumbuzi pamoja, na kila mmoja wenu afanye kile mnachokubaliana."
 
 #. type=template
 msgctxt "template"
 msgid "Thank your teen for sharing and highlight how it is helping you both."
-msgstr "Mshukuru kijana wako kwa kushirikisha na bainisja jinsi inavyowasaidia wote."
+msgstr "Mshukuru kijana wako kwa kukushirikisha mawazo yake na sisitiza jinsi kufanya hivyo kunavyowasaidia nyote wawili."
 
 #. type=template
 msgctxt "template"
@@ -10195,11 +10196,11 @@ msgid ""
 "4. Double-check with other people/sources you trust.\n"
 "5. Think if this news would help or only scare people if you share it."
 msgstr ""
-"1. Vuta pumzi ndefu\n"
-"2. Angalia kama taarifa inaleta maana\n"
-"3. Uliza wamepata wapi taarifa \n"
+"1. Vuta pumzi ndefu.\n"
+"2. Angalia kama habari ina mantiki.\n"
+"3. Uliza amepata wapi habari hiyo.\n"
 "4. Hakiki kwa watu/vyanzo vingine unavyoviamini.\n"
-"5. Fikiria kama habari hizi zinaweza kusaiia au zinatisha watu kama utazitoa."
+"5. Kama utasambaza habari hii, fikiria kama itawasaidia au kuwatisha tu watu."
 
 #. type=template
 msgctxt "template"
@@ -10208,24 +10209,24 @@ msgid ""
 "\n"
 "Instead, you can help your teen make good choices by showing you trust them and speaking with them:"
 msgstr ""
-"Sisi sote wakati flani tunataka kuwaambia vinaja wetu \" Lazima ufanyi hivi, au vile... usumbufu!, Lakini haifanyi wafuate sheria vizuri zaidi\n"
+"Kuna wakati sisi sote tunataka kuwaambia vijana wetu \"Lazima ufanye hivi, la sivyo... utapata tabu!\", lakini mara nyingi hiyo haiwafanyi wafuate sheria vizuri zaidi. \n"
 "\n"
-"Badala yake, unaweza kumsaidia kijana wako lufanya chaguo sahihi kwa kuonesha uamnifu wako kwao na kuongea nao:"
+"Badala yake, unaweza kumsaidia kijana wako kufanya maamuzi mazuri kwa kuonyesha unamwamini na kuzungumza naye:"
 
 #. type=template
 msgctxt "template"
 msgid "DISCUSS CONSEQUENCES"
-msgstr "JADILI MADHARA"
+msgstr "JADILINI MALIPO"
 
 #. type=template
 msgctxt "template"
 msgid "Ask \"If you do this, what could happen?\""
-msgstr "Uliza \"Kama ukifanya hiki, nini kitatokea"
+msgstr "Uliza \"Ukifanya hivi, ni nini kinachoweza kutokea?\""
 
 #. type=template
 msgctxt "template"
 msgid "PRAISE"
-msgstr "SIFU"
+msgstr "USIFIAJI"
 
 #. type=template
 msgctxt "template"
