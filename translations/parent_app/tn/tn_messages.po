@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-02-23 12:37\n"
+"PO-Revision-Date: 2022-03-22 16:38\n"
 
 #. type=template
 msgctxt "template"
@@ -586,6 +586,12 @@ msgid "My name"
 msgstr "Leina la me"
 
 #. type=template
+#. The string @global.weekly_workshop should not be translated.
+msgctxt "template"
+msgid "@global.weekly_workshop day"
+msgstr "letsatsi la @global.weekly_workshop"
+
+#. type=template
 msgctxt "template"
 msgid "I do the workshops..."
 msgstr "Ke dira di-workshop..."
@@ -768,6 +774,27 @@ msgid "You may be asked to share this code with people who will support your @gl
 msgstr "O ka nna wa kopiwa gore o bontshe batho ba bangwe khoutu eno ba ba tla go tshegetsang mo leetong la gago la @global.parent_app."
 
 #. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "sync ya bofelo ka: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "Sediriswa ga ise se sinkiwe. Sync e tla tlhagisa khoutu."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Sync gone jaanong"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Syncing..."
+
+#. type=template
 #. The string @local.threshold should not be translated.
 msgctxt "template"
 msgid "You selected @local.threshold or less"
@@ -867,6 +894,24 @@ msgstr "Matsholo"
 msgctxt "template"
 msgid "Notifications"
 msgstr "Dikitsiso"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "About @global.parent_app"
+msgstr "Ka ga @global.parent_app"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid ""
+"@global.parent_app was developed by Parenting for Lifelong Health (PLH) – a worldwide collaboration between parenting experts from UNICEF, the WHO and Universities in South Africa and the UK, as well as African NGOs and families and teens all across Africa. Parents and teens worked with us on the app and helped to ensure it is easy-to-use, fun and engaging. Some of the content in this app, like suggestions of activities and illustrated stories, were created with parents and teens to make sure it fits families’ needs.\n"
+"\n"
+"Parenting for Lifelong Health (PLH) is committed to supporting free and shareable parenting materials and programmes, to support parents worldwide to promote the well-being of their children."
+msgstr ""
+"@global.parent_app e tlhamilwe ke Parenting for Lifelong health (PLH) - kopantsho ya lefatshe ka bophara magareng ga baitsi ka botsadi go tswa go UNICEF, ba ga WHO le diunibesithi mo Aforika Borwa le UK, mmogo le di NGO tsa Aforika le malapa le basha botlhe ba Aforika ka bophara. Batsadi le basha ba dirile mmogo le rona mo go app le go thusa go netefatsa gore e bonolo go dirisa, ya itumedisa le go buisana.Diteng tse dingwe mo go app eno, jaaka go akanyetsa ditirwana le dikgang tsa tlhagiso, di dirilwe le batsadi le basha go netefatsa gore di maleba go ditlhokego tsa malapa. \n"
+"\n"
+"Parenting for Lifelong Health (PLH) e ikemiseditse go neelana ka tshegetso ya mahala, didiriswa le mananeo go tshegetsa batsadi lefatshe ka bophara go rotloetsa pholo ya bana ba bona."
 
 #. type=template
 msgctxt "template"
@@ -6406,6 +6451,11 @@ msgid "Share @global.parent_app and help other families start their journey."
 msgstr "Bua ka @global.parent_app mme o thuse malapa a mangwe go simolola leeto la bone."
 
 #. type=template
+msgctxt "template"
+msgid "End of programme check-in"
+msgstr "Bofelo ba netefatso ya matseno a lenaneo"
+
+#. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
 msgid ""
@@ -6416,6 +6466,11 @@ msgstr ""
 "O ntse o dirisa @global.parent_app mo dikgweding tse fetileng, le fa go ntse jalo go godisa mosha ga go fele!  Potso e e latelang ka maitemogelo a gago a go godisa ngwana go tla re thusa go sekaseka go godisa bana ga gago.\n"
 "\n"
 "Bua nnete. Gopola gore dimilione tsa batsadi ba ikutlwa jaaka o ikutlwa, mme rotlhe re tshwanelwa ke go tshegediwa. Ga o esi!"
+
+#. type=template
+msgctxt "template"
+msgid "You seem to have completed the end of programme check-in already. You can now skip this activity."
+msgstr "O bonala o fitlhile kwa bokhutlhong jwa netefatso ya matseno a lenaneo. O kannetse wa tlola tirwana ee."
 
 #. type=template
 msgctxt "template"
@@ -7135,6 +7190,20 @@ msgid "Speak kindly to yourself about what a great job you are doing. There is n
 msgstr "Bua sentle le wena o ipolelele gore o dira tiro e e molemo. Ga gona selo se se jaaka motsadi yo o itekanetseng, mme re akanya gore o dira sentle!"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @data.habit.instruct_positively.title
+#.      @global.parent_points
+msgctxt "template"
+msgid ""
+"You’ve not marked any @data.habit.instruct_positively.title @global.parent_points yet. \n"
+"\n"
+"Give it a try today!"
+msgstr ""
+"Gaise o tshwae sepe go @data.habit.instruct_positively.title @global.parent_points.\n"
+"\n"
+"E leke gompieno!"
+
+#. type=template
 msgctxt "template"
 msgid "Well done!"
 msgstr "O dirile sentle!"
@@ -7146,6 +7215,15 @@ msgstr "O dirile sentle!"
 msgctxt "template"
 msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title once already  – so you’re making great progress."
 msgstr "O setse o tshwaile @global.parent_point @data.habit.instruct_positively.title gangwe – go rialo o gatela pele sentle tota."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_point
+#.      @data.habit.instruct_positively.title
+#.      @field.parent_point_count_instruct_positively
+msgctxt "template"
+msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title @field.parent_point_count_instruct_positively times already  – so you’re making great progress."
+msgstr "O setse o tshwaile go @global.parent_point @data.habit.instruct_positively.title @field.parent_point_count_instruct_positively - o dira tswelopele e ntle."
 
 #. type=template
 msgctxt "template"
@@ -7774,6 +7852,28 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"- Explain that grief comes with many emotions and reactions. Show your teen that they are loved and cared for, and encourage them to share their emotions by talking, writing or drawing. \n"
+"- If there is a support group that your teen can be part of, this can help. \n"
+"- If a teen talks about wanting to hurt or kill themselves, ask for help from someone as soon as you can. \n"
+"- If you can, keep your normal daily routines, this can be comforting for teens. \n"
+"- It can help for teens to be part of rituals around death - to choose a song or something to say. \n"
+"- Spending a few minutes every day focused on your teen helps to make them feel more secure and give them a chance to relax or talk about things that are upsetting them."
+msgstr ""
+"- Tlhalosa gore tatlhegelo e tla le maikutlo le ditlhagiso. Bontsha basha ba gago gore ba ratiwa le gore ba tlhokomelegile, mme o ba rotloetse go neelana ka maikutlo a bona ka go bua,go kwala kgotsa go thala.\n"
+"- Fa go na le setlhopa sa tshegetso se mosha wa gago a ka nnang karolo ya sona, seno se ka thusa.\n"
+"- Fa mosha a bua ka go ikutwisa botlhoko kgotsa go ipolaya, kopa thuso go tswa go mongwe ka potlako.\n"
+"- Fa o ka kgona, dira mekgwatlwaelo ya lona ya letsatsi, seno se ka gomotsa basha.\n"
+"- Go ka thusa basha go nna karolo ya tirelo tsa setso tse di tsamaisang le leso - go tlhopa pina kgotsa go bua sengwe.\n"
+"- Go fetsa metsotso e mmalwa ka letsatsi o lebane le mosha wa gago go ka mo thusa gore a ikutlwe a bolokesegile le go nna le nako ya go iketla kgotsa go bua ka dilo tse di mo tshwenyang."
+
+#. type=template
+msgctxt "template"
+msgid "Losing a loved one can feel very overwhelming. Here are a few practical tips that can be helpful to keep in mind."
+msgstr "Go latlhegelwa ke mongwe yo o mo ratang go ka tlisa maikutlo a bokete. Fano ke dintlha tse mmalwa tse di ka thuang go nna mo monaganong."
+
+#. type=template
+msgctxt "template"
 msgid "Ask for help"
 msgstr "Kopa thuso"
 
@@ -7785,6 +7885,23 @@ msgid ""
 msgstr ""
 "- Kopa mongwe yo o mo tshepang thuso- dijo kgotsa tlhokomelo ya bana e ka thusa. O ka tlhoka ditokomane go lefa, bana kgotsa tetlelesego ya tirelo.\n"
 "-Nako nngwe batho ba leka go tsaya madi kgotsa lefa la motho yo o mo kutlobotlhokong. Batlisistsa ka ditokelo tsa gago."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"- Saying goodbye is difficult. Do what feels okay for you and your teen. \n"
+"- Families, teens and parents are not perfect. When someone has died, it is okay to talk about the good and bad things we remember. \n"
+"- It can help to write a letter or make a drawing for the person who has gone.  \n"
+"- Some people hold a ceremony or have a special meal to celebrate the person, and say goodbye.  \n"
+"- It can help to make a box of memories, to put things that remind you and your teen of the person.  \n"
+"- It can help just to talk about the person when you think about them."
+msgstr ""
+"-Go laela go boima. Dira se se siametseng wena le mosha wa gago.\n"
+"- Malapa,basha le batsadi ba na le diphoso. Fa mongwe a tlhokofetse, go siame go bua ka dilo tse dintle le tse di bosula tse re di gopolang.\n"
+"- Go ka thusa go kwalela moswi lekwalo kgotsa go mo direla setshwantsho.\n"
+"- Bangwe ba dira tirelo kgotsa dijo tse di rileng go keteka moswi le go mo laela.\n"
+"-  Go ka thusa go dira lebokoso la megopolo,go baya dilo tse gopotsang wena le mosha wa gago ka ene.\n"
+"- Go ka thusa go bua ka motho yoo fa o mo naganne."
 
 #. type=template
 msgctxt "template"
@@ -9465,8 +9582,30 @@ msgstr "A o a tlhomamisa gore o batla go tlola potso eno?"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Are you sure you want to skip this question? Remember, your answer will be kept private and will help us understand your parenting needs. \n"
+"\n"
+"You can also choose not to answer any question by selecting the circle."
+msgstr ""
+"A o netefetse gore o batla go tlola potso e? Gopola, karabo ya gago e tlile go tsholwa e le sephiri mme e tlile go re thusa go tlhaloganya ditlhokego tsa gago tsa botsadi.\n"
+"\n"
+"O ka tlhopha le go se arabe potso nngwe le nngwe ka go tlhopha tshekeletsa"
+
+#. type=template
+msgctxt "template"
 msgid "You selected \"I would rather not answer\""
 msgstr "O tlhophile “Ke tlhopha go se arabe”"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"That’s ok! \n"
+"\n"
+"Remember, if you do answer your answer will be kept private and will help us to provide you with content that is exactly right for you."
+msgstr ""
+"Go siame!\n"
+"\n"
+"Gopola, fa o araba, dikarabo tsa gago di tlile go tsholwa di le poraevete mme di tlile go re thusa go go neela diteng tse di maleba go wena."
 
 #. type=template
 msgctxt "template"
@@ -9575,6 +9714,11 @@ msgstr "Go tshwenya mo maikutlong tota fa bana ba sa itshware sentle."
 
 #. type=template
 msgctxt "template"
+msgid "How many days in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
+msgstr "Ke matsatsi a makae mo bekeng e e fititileng a o kileng wa kgalema bana ba gago ka go ba betsa, go ba kgwathisa kgotsa go ba betsa ka seatla kgotsa sediriswa, thupa kgotsa lepanta?"
+
+#. type=template
+msgctxt "template"
 msgid "It is wonderful that you are responding calmly when your teen does something upsetting. They can learn so much from you!"
 msgstr "Go gontle fa o araba o kgobile makgwafo fa mosha wa gago a dira sengwe se se tenang. Ba ka ithuta go le gontsi go tswa mo go wena!"
 
@@ -9668,8 +9812,33 @@ msgstr "Re lebogela gore o buile nnete"
 
 #. type=template
 msgctxt "template"
+msgid "CHAT"
+msgstr "Tlotla"
+
+#. type=template
+msgctxt "template"
+msgid "Share how you feel, and encourage your teen to talk about their worries too. You will understand each other better and can make a good plan together to stay healthy and happy!"
+msgstr "Neelana ka maikutlo a gago, mme o rotloetsa mosha wa gago go bua ka matshwenyego a gagwe. Le tla tlhaloganyana botoka mme le ka dira leano mmogo la go nna le itekanetse le itumetse!"
+
+#. type=template
+msgctxt "template"
+msgid "CAUTION"
+msgstr "Ela tlhoko"
+
+#. type=template
+msgctxt "template"
+msgid "Get your information from reliable sources of information, so you can be confident in these uncertain times. We hear and see a lot of news via other people and phones, TV, internet. Does it make you feel doubt, worry, fear, anger, or confusion? Check before you share or act!"
+msgstr "Amogela kitsiso ya gago go tswa mo metsweding e tshepagalang ya kitso gore o kgone go nna le boitshepi mo nakong tse di sa tshepagaleng tse. Re utlwa ebile re bona dikgang tse dintsi ka batho, megala ya letheka, TV le  inthanete. Aa se se dira o ikutlwe o belaela, tshwenyega, tshoga, galefa kgotsa go tlhakatlhakana? Tlhola pele o phatlhalatsa kgotsa o dira sengwe!"
+
+#. type=template
+msgctxt "template"
 msgid "CHOOSE"
 msgstr "TLHOPHA"
+
+#. type=template
+msgctxt "template"
+msgid "Making the right choices that keep everyone healthy and safe can be hard. Especially in these times! You can help your teen make good decisions."
+msgstr "Go dira ditshweetso tse di nepagetseng go boloka botlhe ba sireletsegile ebile ba phetse sentle go thata. Segolo mo dinakong tsa jaanong! O ka thusa mosha wa gago go dira ditshweetso tse di siameng."
 
 #. type=template
 msgctxt "template"
@@ -9678,13 +9847,227 @@ msgstr "IKETLE"
 
 #. type=template
 msgctxt "template"
+msgid "We all feel stressed sometimes. Take a deep breath or do something fun together. It can make a big difference to make your home happy and peaceful! Here are some ideas you can try:"
+msgstr "Rotlhe re ikutlwa re tshwenyegile ka nako dingwe. Hemela kwa teng kgotsa o dire sengwe se se monate. E ka dira pharologanyo e kgolo go dira lelapa la gago la boitumelo le kagiso! Fano ke dikakanyo tse o ka di lekang:"
+
+#. type=template
+msgctxt "template"
+msgid "Negative thoughts make us say and do negative things. Try changing what you think and say from negative to positive!"
+msgstr "Menagano e e sa siamang e dira gore re bue ebile re dire dilo tse di sa siamang. Leka go fetola dilo tse o di buang le tse o di naganang tse di sa siamang gore e nne tse di siameng!"
+
+#. type=template
+msgctxt "template"
 msgid "A teen sometimes does something because they:"
 msgstr "Mosha nako nngwe o dire sengwe ka gore:"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"- Listen to their friends\n"
+"- Want to do what others do\n"
+"- Think more about ‘now’ than ‘later’\n"
+"- Love impulses and can find being careful boring\n"
+"- Do not worry about risk – may even like risks\n"
+"- Have limited experience to rely on\n"
+"- Are willing to try something – no matter what happens"
+msgstr ""
+"- Utlwelela ditsala tsa bona\n"
+"- Batla go dira seo bangwe ba se dirang\n"
+"- Nagana thata ka 'jaanong' go na le 'mankgapele'\n"
+"- Lerato le na le matlhagatlhaga mme le ka bona go elatlhoko go tswafisa\n"
+"- O seke wa tshwenyega ka go lekelela, o ka rata go lekelela\n"
+"- Nna le maitemogelo a mannye go itshepela mo go one.\n"
+"_ Go fisega go leka sengwe - go sa kgathalesege gore go diregang"
+
+#. type=template
+msgctxt "template"
+msgid "It can help to keep this in mind when your teen makes a wrong decision. Talk to them and spend time together so you can help them choose better next time!"
+msgstr "Go ka thusa go nna le seno mo mogopolong fa ngwana wa gago a tsaya tshwetso e e sa siamang. Bua le bona mme le fetse nako mmogo gore o kgone go ba thusa go tlhopha bokaone mo nakong e e tlang!"
+
+#. type=template
+msgctxt "template"
+msgid "Understanding how your teen feels and how you can support them makes a big difference for you both! Observe your teen and ask how they feel. Click on a face below to find out more:"
+msgstr "Go tlhaloganya gore mosha wa gago o ikutlwa jaang le gore o ka ba tshegetsa jaang, go dira pharologanyo e kgolo mo go lona ka bobedi. Leba mosha wa gago mme o botse gore o ikutlwa jaang. Tobetsa sefatlhego fa tlase go itse go le gontsi:"
+
+#. type=template
+msgctxt "template"
+msgid "Hopeful"
+msgstr "Tsholofelo"
+
+#. type=template
+msgctxt "template"
+msgid "Self-esteem"
+msgstr "Maemo a bowena"
+
+#. type=template
+msgctxt "template"
+msgid "Teens have goals and dreams for the future – near and far!"
+msgstr "Basha ba na le diphitlhelelo le ditoro ka isago - gaufi le kgakala!"
+
+#. type=template
+msgctxt "template"
+msgid "Ask your teen about their goals and dreams, encourage them to think what they want for their future, and make a plan together to work towards realising them."
+msgstr "Botsisa mosha wa gago ka diphitlhelelo le ditoro tsa gagwe, mo rotloetse go nagana ke se ba se batlang mo isagong ya bona mme le dire leano mmogo la go di fitlhelela."
+
+#. type=template
+msgctxt "template"
+msgid "Praise your teen for overcoming difficulty and support them where you can."
+msgstr "Rorisa mosha wa gago fa a fitile mo boimeng mme o mo tshegetse ka fa o kgonang."
+
+#. type=template
+msgctxt "template"
+msgid "A teen’s self-esteem is how they think of themselves."
+msgstr "Maemo a mosha ka bo-ene a dira ke gore o nagana a le jaang."
+
+#. type=template
+msgctxt "template"
+msgid "Encourage a positive self-image, set an example not to make fun of or criticise yourself all the time. Know your teen’s strengths and support their weaknesses."
+msgstr "Rotloetsa tsela ya go iteba e e siameng, dira sekao ka go se itshege kgotsa go inyenyefatsa ka nako tsotlhe. Itse bokgoni ba mosha wa gago mme o tshegetse makoa a gagwe."
+
+#. type=template
+msgctxt "template"
+msgid "Lonely"
+msgstr "Bonosi"
+
+#. type=template
+msgctxt "template"
+msgid "Anxious"
+msgstr "Maikutlo a a sa iketlang"
+
+#. type=template
+msgctxt "template"
+msgid "Teens can feel alone, even when they are with others. They may feel like they don’t have anyone to talk to, trust, or share with."
+msgstr "Basha ba ka ikutlwa ba le nosi le fa ba na le batho. Ba ka ikutlwa okare ga ba na motho yo ba ka buang le ene, go mo tshepa le go neelana."
+
+#. type=template
+msgctxt "template"
+msgid "Anxiety is a normal emotion and it can help us deal with challenging situations. But too much anxiety or worry that prevents teens from doing things they love is a problem."
+msgstr "Maikutlo a a sa iketlang a tlwaelegile mme a re thusa go mekamekana le maemo a a boima. Mme fela maikutlo a a sa iketlang a a feteletseng kgotsa go tshwenyega go go thibelang basha go dira dilo tse ba di ratang ke bothata."
+
+#. type=template
+msgctxt "template"
+msgid "Help your teen identify what makes them anxious and make a plan together how they can respond to anxious thoughts."
+msgstr "Thusa mosha wa gago go senola seo se dirang gore a nne le maikutlo a a sa iketlang mme le dire leano mmogo gore le ka fetola jaang maikutlo aa."
+
+#. type=template
+msgctxt "template"
+msgid "Doing a relaxation activity together can help!"
+msgstr "Go dira ditirwana tsa go iketla mmogo go ka thusa!"
+
+#. type=template
+msgctxt "template"
+msgid "Depressed"
+msgstr "Kgatelelo ya maikutlo"
+
+#. type=template
+msgctxt "template"
+msgid "Self-harm"
+msgstr "Go ikutlwisa botlhoko"
+
+#. type=template
+msgctxt "template"
+msgid "Feeling sad or down, being in a bad mood, are all normal human emotions. Depression is when it carries on for a long time and your teen’s normal daily activities are affected. Your teen may feel hopeless and unable or unmotivated to change anything."
+msgstr "Go ikutlwa o hutsafetse kgotsa mowa o le kwa tlase, go selekega mo moweng, tsotlhe ke maikutlo a tlwaelegileng a batho. Kgatelelo ya maikutlo e fetsa sebaka se se leele mme ditirwana tsa ka metlha tsa mosha wa gago di ka kgoreletsega. Mosha wa gago a ka ikutlwa a sena tshepo mme a sa rotloetsege go fetola sepe."
+
+#. type=template
+msgctxt "template"
+msgid "Telling your teen to ‘just stop’ may make things worse. Rather listen to them, calmly show you understand, and build their confidence. Try to get professional help."
+msgstr "Go bolela mosha wa gago go 'emisa, go ka gakatsa dilo. Gongwe ba reetse, ba bontshe ka mowa o o repileng gore wa tlhaloganya mme o age boithsepi ba bona. Leka go bona thuso ya profeshenale."
+
+#. type=template
+msgctxt "template"
+msgid "What does that mean?"
+msgstr "Seo se raya eng?"
+
+#. type=template
+msgctxt "template"
+msgid "How can you help?"
+msgstr "O ka thusa jang?"
+
+#. type=template
+msgctxt "template"
+msgid "We all have negative thoughts sometimes."
+msgstr "Rotlhe re na le megopolo e e sa siamang nako dingwe."
+
+#. type=template
+msgctxt "template"
+msgid "\"I am a failure\""
+msgstr "\"ke motlholegi\""
+
+#. type=template
+msgctxt "template"
+msgid "What to do?"
+msgstr "Ke dire eng?"
+
+#. type=template
+msgctxt "template"
+msgid "Examples"
+msgstr "Dikao"
+
+#. type=template
+msgctxt "template"
+msgid "\"It’s your fault\""
+msgstr "\"ke phoso ya gago\""
+
+#. type=template
+msgctxt "template"
+msgid "\"Let’s come up with a solution together\""
+msgstr "\"A re tle ka tharabololo mmogo\""
+
+#. type=template
+msgctxt "template"
+msgid "\"I lost my job\""
+msgstr "\"ke latlhegetswe ke tiro\""
+
+#. type=template
+msgctxt "template"
+msgid "\"I learned a lot in my job – that will help me find another one\""
+msgstr "\"Ke ithutile go le gontsi mo tirong ya me - seo se tla thusa go bona tiro enngwe\""
+
+#. type=template
+msgctxt "template"
+msgid "\"Nobody likes me\""
+msgstr "\"Ga go na motho yo a nkgatlhegelang\""
+
+#. type=template
+msgctxt "template"
+msgid "MAKE TIME"
+msgstr "DIRA NAKO"
+
+#. type=template
+msgctxt "template"
 msgid "LISTEN"
 msgstr "REETSA"
+
+#. type=template
+msgctxt "template"
+msgid "WORK TOGETHER"
+msgstr "DIRANG MMOGO"
+
+#. type=template
+msgctxt "template"
+msgid "DISCUSS CONSEQUENCES"
+msgstr "TLOTLANG KA DITLAMORAGO"
+
+#. type=template
+msgctxt "template"
+msgid "PRAISE"
+msgstr "GALALETSA"
+
+#. type=template
+msgctxt "template"
+msgid "If something goes wrong, ask \"How could you have done that differently?\""
+msgstr "Fa sengwe se sa tsamae sentle, botsisa\" O kabo o se direle jang go farologana?\""
+
+#. type=template
+msgctxt "template"
+msgid "START SMALL"
+msgstr "SIMILOLA GANNYANE"
+
+#. type=template
+msgctxt "template"
+msgid "Give your teen small responsibilities first. When that goes well, you can add more to show that you trust your teen."
+msgstr "Naya mosha wa gago maikarabelo a mannye kwa tshimologong. fa seo se tsamaya sentle, o ka oketsa go bontsha gore o tshepa mosha wa gago."
 
 #. type=template
 #. The string @data.habit.spend_time.in_text_title should not be translated.
@@ -11307,6 +11690,11 @@ msgstr "Simolola"
 
 #. type=global
 msgctxt "global"
+msgid "Skip"
+msgstr "Tlola"
+
+#. type=global
+msgctxt "global"
 msgid "Continue"
 msgstr "Tswelela"
 
@@ -11325,6 +11713,11 @@ msgstr "Tsamaya sentle!"
 msgctxt "global"
 msgid "Your @global.parent_app Code"
 msgstr "Khoutu @global.parent_app ya Gago"
+
+#. type=global
+msgctxt "global"
+msgid "Terms & Conditions"
+msgstr "Melao le Dipeelo"
 
 #. type=global
 msgctxt "global"
@@ -11814,8 +12207,23 @@ msgstr "Ke solofela gore lo SIAME. Re a itse gore ga go motlhofo go nna motsadi 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Hi great parent, remember to take care of yourself too - it will help you AND your family! Get your tips and more in ParentApp."
+msgstr "Dumela motsadi o siameng, gopola go itlhokomela le wena - go tla thusa wena le ba lelapa la gago! Bona tshedimosetso le tse dintsi mo go ParentApp."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi great parent! Remember, you can find lots of helpful tips in ParentApp."
+msgstr "Dumela motsadi o siameng! Gopola, o ka bona tshedimosetso e ntsi e thusang mo go ParentApp."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "New message from PLH"
 msgstr "Molaetsa o mosha go tswa go PLH"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hi great parent! ParentApp is here to support you. Check it out now!"
+msgstr "Dumela motsadi o siameng! ParentApp e fano go go tshegetsa. E tlhole jaanong!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12239,8 +12647,18 @@ msgstr "Dira gore tiro ya mo lapeng e nne e e itumedisang"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Household chores aren’t fun… or are they? You can make them into a game!"
+msgstr "Ditori tsa fa gae ga di monate... kgotsa di monate? O ka di fetolela mo motshamekong!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "What are you doing?"
 msgstr "O dira eng?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here is a fun game you can do with your family!"
+msgstr "Fano ke motshameko o o monate o o ka o dirang le lelapa la gago!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12253,15 +12671,35 @@ msgid "My Tips"
 msgstr "Dintlha Tsa me"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**My Tips** in the @global.parent_centre"
+msgstr "**Dintlha tsa me**go @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Essential Tools"
 msgstr "Didiriswa Tsa Botlhokwa"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Essential Tools** in the @global.parent_centre"
+msgstr "**Didiriswa tsa botlhokwa**go @global.parent_centre"
 
 #. type=data_list
 #. The string @global.parent_app should not be translated.
 msgctxt "data_list"
 msgid "Customise @global.parent_app"
 msgstr "Itsenyetse @global.parent_app"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app**
+#.      @global.parent_centre
+msgctxt "data_list"
+msgid "**Customise @global.parent_app** in the @global.parent_centre"
+msgstr "**Tshwanedisa @global.parent_app** mo go @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12274,9 +12712,21 @@ msgid "Relax & Activities"
 msgstr "Go iketla & Ditiro"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "under **Relax & Activities** in the @global.parent_centre"
+msgstr "fa tlase ga ** Go Iketla le Ditirwana** mo go @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Help"
 msgstr "Thuso"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Help** in the @global.parent_centre"
+msgstr "**Thuso** mo go @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12284,9 +12734,27 @@ msgid "Technical Support"
 msgstr "Tshegetso ya Botegeniki"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Technical Support** in the @global.parent_centre"
+msgstr "**Tshegetso e e thekinikhale** mo go @global.parent_centre"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Coping with grief** in the @global.parent_centre"
+msgstr "**Go mekamekana le kutlobotlhoko** mo go @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Message Archive"
 msgstr "Akhaefe ya Molaetsa"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Message Archive** in the @global.parent_centre"
+msgstr "***Bobeelo ba melaetsa*** go @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12294,9 +12762,66 @@ msgid "Support Contacts"
 msgstr "Batho Ba ba Ka go Thusang"
 
 #. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Support Contacts** in the @global.parent_centre"
+msgstr "***Bagolaganyi ba tshegetso***go @global.parent_centre"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Evidence Base"
 msgstr "Motheo wa Bosupi"
+
+#. type=data_list
+#. The string @global.parent_centre should not be translated.
+msgctxt "data_list"
+msgid "**Evidence Base** in the @global.parent_centre"
+msgstr "**Bopaki** mo go @global.parent_centre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to talk to my teen"
+msgstr "Go buisana le mosha wa me"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Steps to deal with news"
+msgstr "Metlhala ya go mekamekana le dikgang"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How can I help my teen choose well?"
+msgstr "Nka thusa mosha waka jang go tlhopha sentle?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What influences teen decisions?"
+msgstr "Ke eng se se rotloetsang ditshwetso tsa basha?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does my teen feel?"
+msgstr "Mosha wa me o ikutlwa jaang?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Changing negative to positive"
+msgstr "Go fetolela se se sa siamang go se se siameng"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Help yourself cope"
+msgstr "Ithuse go mekamekana le seemo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Help your teen cope"
+msgstr "Thusa mosha go mekamekana le seemo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Practical steps"
+msgstr "Metsamao e kgonegang"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12311,6 +12836,17 @@ msgstr "**Iketle** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Doing a relaxation activity"
+msgstr "Go dira tirwana ya go iketla"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do a relax, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako tsotlhe fa o iketla, tobetsa @global.parent_point mme o keteke katlego ya gago!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Treat yourself well"
 msgstr "Ineneketse"
 
@@ -12319,6 +12855,17 @@ msgstr "Ineneketse"
 msgctxt "data_list"
 msgid "**Treat yourself well** @global.parent_point"
 msgstr "**Ineneketse** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Doing something they like for themselves"
+msgstr "Go itirela sengwe se ba se ratang"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you treat yourself well, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako nngwe le nngwe fa o itshotse sentle, tobetsa @global.parent_point mme o keteke katlego ya gago!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12344,6 +12891,17 @@ msgstr "**Go ipha nako mmogo** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Spending time with their teen"
+msgstr "Go fetsa nako le mosha wa bone"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you do one-on-one time, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako tsotlhe fa o dira nako ya motho-ka-mong, tobetsa @global.parent_point mme o keteke katlego ya gago!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Praise your teen"
 msgstr "Baka/Akgola mosha wa gago"
 
@@ -12355,6 +12913,17 @@ msgstr "**Baka/Akgola mosha wa gago** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Praising their teen when they did positive thing"
+msgstr "Galaletsa basha ba bona fa ba dirile sengwe se sentle"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you praise your teen, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako tsotlhe ga o galaletsa mosha wa gago, tobetsa @global.parent_point mme o keteke katlego ya gago!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Get positive"
 msgstr "Leba dilo ka tsela e e siameng"
 
@@ -12363,6 +12932,17 @@ msgstr "Leba dilo ka tsela e e siameng"
 msgctxt "data_list"
 msgid "**Get positive** @global.parent_point"
 msgstr "**Leba dilo ka tsela e e siameng** @global.parent_point"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Giving their teen a positive instruction"
+msgstr "Go naya mosha ditaelo tse dintle"
+
+#. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "Every time you give a positive instruction, tap the @global.parent_point and celebrate your success!"
+msgstr "Nako tsotlhe fa o naya mosha taelo e ntle, tobetsa @global.parent_point mme o keteke katlego ya gago!"
 
 #. type=data_list
 msgctxt "data_list"
