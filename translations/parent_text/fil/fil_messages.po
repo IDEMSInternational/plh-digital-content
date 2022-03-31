@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Filipino\n"
 "\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2022-03-30 20:51\n"
+"PO-Revision-Date: 2022-03-31 07:13\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -472,6 +472,12 @@ msgstr "Nalulungkot kaming marinig na ikaw ay nahihirapan @fields.user_name. Big
 msgctxt "text"
 msgid "Sorry to hear you are struggling. Give yourself a big hug for trying. Tomorrow is another day. Remember you can always get extra support by typing \"Help\"."
 msgstr "Nalulungkot kaming marinig na ikaw ay nahihirapan. Bigyan ng malaking yakap ang iyong sarili dahil ikaw ay sumubok. Bukas ay panibagong araw. Tandaan na maaari kang makakuha ng karagdagang suporta sa pamamagitan ng pag-type ng \"Help\"."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sorry to hear that things are difficult between you and your children. It’s not always easy to be a parent during these difficult times @fields.user_name. Remember you can always get extra support by typing \"Help\"."
+msgstr "Nalulungkot kaming marinig na mahirap ang mga bagay sa pagitan mo at ng iyong mga anak. Hindi laging madaling maging magulang sa ganitong mahirap na panahon @fields.user_name. Tandaan na maaari kang makakuha ng karagdagang suporta sa pamamagitan ng pag-type ng \"Help\"."
 
 #. type=text
 msgctxt "text"
@@ -1146,6 +1152,11 @@ msgstr "Ang pera ay isa sa pinakamalaking nakaka-stress sa mga pamilya ngayon. S
 
 #. type=text
 msgctxt "text"
+msgid "How many days in the past month (30 days) did you run out of money to pay for food? (0, 1, 2, 3, ... 30)"
+msgstr "Ilang araw sa nakaraang buwan (30 araw) na kayo ay kinapos ng perang pambili ng pagkain? (0, 1, 2, 3, ... 30)"
+
+#. type=text
+msgctxt "text"
 msgid "Sorry, I don't understand what you mean. Please reply with a number between 0 and 30."
 msgstr "Paumanhin, hindi ko naiintindihan ang ibig mong sabihin. Mag-reply ng isang numero sa pagitan ng 0 at 30."
 
@@ -1173,6 +1184,11 @@ msgstr "Bonus na katanungan: Gusto nating panatilihing ligtas ang ating mga anak
 msgctxt "text"
 msgid "Sorry, I don't understand what you mean. Please reply with either yes or no."
 msgstr "Paumanhin, hindi ko naiintindihan ang ibig mong sabihin. Pakisagutan ng oo o hindi."
+
+#. type=text
+msgctxt "text"
+msgid "How many days have you had a talk like this? (0, 1, 2, 3, ... 30)"
+msgstr "Ilang araw kayong nagkaroon ng ganitong pag-uusap? (0, 1, 2, 3, ... 30)"
 
 #. type=text
 msgctxt "text"
@@ -4221,6 +4237,11 @@ msgstr "Magandang araw! Salamat sa pag-sign-up para makatanggap ng mga MaPaText 
 
 #. type=text
 msgctxt "text"
+msgid "1. English"
+msgstr "1. English"
+
+#. type=text
+msgctxt "text"
 msgid "How did you find out about ParentText?"
 msgstr "Paano mo nalaman ang MaPaText?"
 
@@ -5001,6 +5022,11 @@ msgstr "Gusto mo bang magkaroon ng mas maraming kaalaman kung paano mapabuti ang
 msgctxt "text"
 msgid "Would you like to know more about managing your child's behaviour?"
 msgstr "Gusto mo bang magkaroon ng mas maraming kaalaman kung paano mapangasiwaan ang pag-uugali ng iyong anak?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about how to help your child learn?"
+msgstr "Gusto mo bang magkaroon ng mas maraming kaalaman kung paano matulungang matuto ang iyong anak?"
 
 #. type=text
 msgctxt "text"
@@ -12405,8 +12431,18 @@ msgstr "Anak: “Lahat ng kaibigan ko ay mahilig dito. Meron na akong lagpas sa 
 
 #. type=text
 msgctxt "text"
+msgid "Parent: \"I’m proud of how well you dance, Shani. But we need to make sure you are safe on this. I know your friends look at TikTok, but with an open account there are also paedophiles who look at videos of teenagers. Paedophiles are older people who want to attack young children and teens.\""
+msgstr "Magulang: “Proud ako sa galing mong sumayaw, Shani. Ngunit dapat masiguro nating ligtas ka dito. Alam kong tumitingin sa TikTok ang mga kaibigan mo, ngunit kapag bukas ang iyong account, mayroon ding mga paedophile na tumitingin sa mga video ng mga teenager. Ang mga paedophile ay mga matatanda na gustong mambiktima ng mga bata at teenager.\""
+
+#. type=text
+msgctxt "text"
 msgid "Parent: \"Let’s look together online at how we can keep this fun for you but also safe. Look – you can make your account private and control who follows you. So you can accept people you know but not strangers. Can we make a rule together that you can use TikTok but with a private account? I trust you to know who to accept!\""
 msgstr "Magulang: “Sabay tayong tumingin online kung paano natin mapapanatiling masaya ito para sa iyo, pero dapat ligtas din. Tingnan mo, puwedeng gawing pribado ang iyong account, at kontrolin kung sino ang puwedeng mag-follow sa iyo. Kaya puwede mo lang tanggapin iyong mga kilala mo pero hindi ang mga hindi mo kilala. Okay lang ba na gumawa tayo ng patakaran na puwede kang gumamit ng TikTok pero dapat pribado ang iyong account? Nagtitiwala akong alam mo kung sino lamang ang puwedeng tanggapin!”"
+
+#. type=text
+msgctxt "text"
+msgid "Parent: \"I’m proud of you Shani...\""
+msgstr "Magulang: “Proud ako sa iyo, Shani...”"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -14499,6 +14535,12 @@ msgstr "Magandang araw! Nagkaroon ka ba ng pagkakataong kausapin si @fields.chil
 msgctxt "text"
 msgid "Hi! Were you able to talk to your child about safe and unsafe touch?"
 msgstr "Magandang araw! Nagkaroon ka ba ng pagkakataong kausapin ang iyong anak tungkol sa ligtas at hindi ligtas na paghawak?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done, that is not very easy to do, @fields.user_name! How did it go?"
+msgstr "Magaling, ito ay hindi madaling gawin @fields.user_name! Kumusta ang kinalabasan nito?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
