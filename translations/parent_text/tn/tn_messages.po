@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-03-30 20:51\n"
+"PO-Revision-Date: 2022-03-31 13:12\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -472,6 +472,12 @@ msgstr "Ke maswabi go utlwa gore o na le mathata @fields.user_name. Itlamparele 
 msgctxt "text"
 msgid "Sorry to hear you are struggling. Give yourself a big hug for trying. Tomorrow is another day. Remember you can always get extra support by typing \"Help\"."
 msgstr "Re maswabi go utlwa gore o a kgaratlha. Ikakgole thata go bo o a leka. Ka moso ke letsatsi le lengwe. Gopola gore o ka bona tshegetso e nngwe ka go tlanya “Thusa”."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sorry to hear that things are difficult between you and your children. It’s not always easy to be a parent during these difficult times @fields.user_name. Remember you can always get extra support by typing \"Help\"."
+msgstr "Ke maswabi go utlwa gore go thata fa gare ga gago le bana ba gago”. Ka gale ga go bonolo go nna motsadi mo nakong tse di bokete tse @fields.user_name. Gopola gore o ka bona tshegetso go feta ka go tlanya “Thusa”."
 
 #. type=text
 msgctxt "text"
@@ -1146,6 +1152,11 @@ msgstr "Madi ke nngwe ya tse dikgolo e e dirang gore malapa a tshwenyege mo maik
 
 #. type=text
 msgctxt "text"
+msgid "How many days in the past month (30 days) did you run out of money to pay for food? (0, 1, 2, 3, ... 30)"
+msgstr "Ke malatsi a le kae mo kgweding (malatsi a 30) e e fetileng mo o o neng o felelwa ke madi a go duela dijo? (0, 1, 2, 3, ... 30)"
+
+#. type=text
+msgctxt "text"
 msgid "Sorry, I don't understand what you mean. Please reply with a number between 0 and 30."
 msgstr "Intshwarele, ga ke go tlhaloganye. Ka kopo araba ka nomoro magareng ga 0 le 30."
 
@@ -1173,6 +1184,11 @@ msgstr "Potso e kgolo: Rotlhe re batla go boloka bana ba rona ba sireletsegile. 
 msgctxt "text"
 msgid "Sorry, I don't understand what you mean. Please reply with either yes or no."
 msgstr "Intshwarele, ga ke go tlhaloganye. Ka kopo, araba ka ee kgotsa nnyaa."
+
+#. type=text
+msgctxt "text"
+msgid "How many days have you had a talk like this? (0, 1, 2, 3, ... 30)"
+msgstr "Ke malatsi a le makae a o nnileng le puisano e e tshwanang le e? (0, 1, 2, 3, ... 30)"
 
 #. type=text
 msgctxt "text"
@@ -4218,6 +4234,11 @@ msgstr "O dirile sentle! O tsentse moalo o le mongwe go Ntlo ya gago ya Tshegets
 msgctxt "text"
 msgid "Hi! Thank you for signing up to receive ParentText tips. Please tell us which language you would like:"
 msgstr "Dumela! Re leboga fa o ikwadisitse go amogela dikakantsho tsa ParentText. Ka kopo re bolelele gore o ka rata puo efe:"
+
+#. type=text
+msgctxt "text"
+msgid "1. English"
+msgstr "1. English"
 
 #. type=text
 msgctxt "text"
@@ -12395,8 +12416,18 @@ msgstr "Ngwana: \"Ditsala tsa me tsotlhe di dira jalo. Ke na le batho ba ba e ra
 
 #. type=text
 msgctxt "text"
+msgid "Parent: \"I’m proud of how well you dance, Shani. But we need to make sure you are safe on this. I know your friends look at TikTok, but with an open account there are also paedophiles who look at videos of teenagers. Paedophiles are older people who want to attack young children and teens.\""
+msgstr "Motsadi: \"Ke motlotlo ka fa o binang bontle ka teng, Shani. Mme re tshwanetse go tlhomamisa gore o sireletsegile. Ke itse gore ditsala tsa gago di lebelela Tiktok, mme di dirisa akhaonto e e sa sireletsegang, go na le batho bangwe ba ba lebang dibidio tsa basha gore ba kgotsofatse keletso ya bone ya thobalano. Batho bano ba ba dirisang bana go ikgotsofatsa ka tsa thobalano ke bagolo ba ba batlang go tlhasela bana le basha.”"
+
+#. type=text
+msgctxt "text"
 msgid "Parent: \"Let’s look together online at how we can keep this fun for you but also safe. Look – you can make your account private and control who follows you. So you can accept people you know but not strangers. Can we make a rule together that you can use TikTok but with a private account? I trust you to know who to accept!\""
 msgstr "Motsadi: \"Tla re lebe inthanete mmogo re bone gore re ka dira jang gore e go itumedise le gore gape e sireletsege. Bona - o ka kgona go dira gore akhaonto ya gago e nne khupamarama le go laola batho ba ba go salang morago. Ka jalo o ka amogela batho ba o ba itseng e seng batho ba sele. A re ka dira molao mmogo o o ka o dirisang TikTok, mme e le ka akhaonto ya khupamarama? Ke a go tshepa gore o tla amogela batho ba o ba itseng!”"
+
+#. type=text
+msgctxt "text"
+msgid "Parent: \"I’m proud of you Shani...\""
+msgstr "Motsadi: \"Ke motlotlo ka wena Shani...\""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -14485,6 +14516,12 @@ msgstr "Dumela! A o kgonne go buisana le @fields.child_nickname ka ga go kgongwa
 msgctxt "text"
 msgid "Hi! Were you able to talk to your child about safe and unsafe touch?"
 msgstr "Dumela! A o kgonne go buisana le ngwana wa gago ka ga go kgongwa go go sireletsegile le go go sa sireletsegang?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done, that is not very easy to do, @fields.user_name! How did it go?"
+msgstr "O dirile sentle, seo ga se bonolo go dirwa, @fields.user_name! Go tsamaile jang?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
