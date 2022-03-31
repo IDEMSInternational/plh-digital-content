@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2022-03-31 13:12\n"
+"PO-Revision-Date: 2022-03-31 19:11\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -472,6 +472,12 @@ msgstr "Ndibuhlungu ukuva ukuba uyasokola @fields.user_name. Zange kakhulu ngoku
 msgctxt "text"
 msgid "Sorry to hear you are struggling. Give yourself a big hug for trying. Tomorrow is another day. Remember you can always get extra support by typing \"Help\"."
 msgstr "Uxolo ngokuva ukuba uyasokola. Zange kakhulu ngokuzama. Lolunye usuku ngomso. Khumbula ukuba ungasoloko uyifumana inkxaso engaphaya ngokubhala “Uncedo”."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sorry to hear that things are difficult between you and your children. It’s not always easy to be a parent during these difficult times @fields.user_name. Remember you can always get extra support by typing \"Help\"."
+msgstr "Ndibuhlungu ukuva ukuba izinto zinzima phakathi kwakho nabantwana bakho. Akusoloko kulula ukuba ngumzali kula maxesha anzima @fields.user_name. Khumbula ukuba ungasoloko uyifumana inkxaso engaphaya ngokubhala “Uncedo”."
 
 #. type=text
 msgctxt "text"
@@ -1146,6 +1152,11 @@ msgstr "Imali yenye yezona zinto zinkulu ezibangela uxinzelelo kwiintsapho ngoku
 
 #. type=text
 msgctxt "text"
+msgid "How many days in the past month (30 days) did you run out of money to pay for food? (0, 1, 2, 3, ... 30)"
+msgstr "Kwinyanga edlulileyo (iintsuku ezingama-30), zingaphi iintsuku oye waphelelwa ngazo yimali yokuthenga ukutya? (0, 1, 2, 3, ... 30)"
+
+#. type=text
+msgctxt "text"
 msgid "Sorry, I don't understand what you mean. Please reply with a number between 0 and 30."
 msgstr "Uxolo, andiqondi ukuba uthetha ukuthini. Nceda uphendule ngenani eliphakathi kwe-0 ne-30. "
 
@@ -1173,6 +1184,11 @@ msgstr "Umbuzo webhonasi: Sonke sifuna abantwana bethu bahlale bekhuselekile. Kw
 msgctxt "text"
 msgid "Sorry, I don't understand what you mean. Please reply with either yes or no."
 msgstr "Uxolo, andiqondi ukuba uthetha ukuthini. Nceda uphendule mhlawumbi ngo ewe okanye uhayi."
+
+#. type=text
+msgctxt "text"
+msgid "How many days have you had a talk like this? (0, 1, 2, 3, ... 30)"
+msgstr "Zintsuku ezingaphi nibenentetho enje? (0, 1, 2, 3, ... 30)"
 
 #. type=text
 msgctxt "text"
@@ -4223,6 +4239,11 @@ msgstr "Molo! Enkosi ngokusayinela ukufumana iingcebiso zeParentText. Nceda usix
 
 #. type=text
 msgctxt "text"
+msgid "1. English"
+msgstr "1. English"
+
+#. type=text
+msgctxt "text"
 msgid "How did you find out about ParentText?"
 msgstr "Ufumanise njani ngeParentText?"
 
@@ -5003,6 +5024,11 @@ msgstr "Ungathanda ukwazi ngokungaphaya malunga nokuba ubuphucula njani ubudlelw
 msgctxt "text"
 msgid "Would you like to know more about managing your child's behaviour?"
 msgstr "Ungathanda ukwazi ngokungaphaya malunga nokulawula ukuziphatha komntwana wakho?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about how to help your child learn?"
+msgstr "Ungathanda ukwazi ngokungaphaya malunga nokuba umnceda njani ukuba afunde umntwana wakho?"
 
 #. type=text
 msgctxt "text"
@@ -8252,6 +8278,11 @@ msgstr "ubuni"
 msgctxt "text"
 msgid "• They may prefer being with peers more than with you"
 msgstr "• Basenokukhetha ukuba kunye nabahlobo ngaphezu kokuba kunye nawe"
+
+#. type=text
+msgctxt "text"
+msgid "• They may show risk-taking behaviours, frequent mood swings, and rebellious attitudes. They can also have exciting new ideas!"
+msgstr "• Banokubonisa isimilo sokuthatha umngcipheko, ukutshintsha rhoqo kweemvakalelo, kunye nokuvukela izimo zengqondo Banokuba nazo neengcamango ezintsha ezinika umdla!"
 
 #. type=text
 msgctxt "text"
@@ -12399,8 +12430,18 @@ msgstr "Umntwana: \"Bonke abahlobo bam bakuwo. . Ndineelikes eziyi-600 neefollow
 
 #. type=text
 msgctxt "text"
+msgid "Parent: \"I’m proud of how well you dance, Shani. But we need to make sure you are safe on this. I know your friends look at TikTok, but with an open account there are also paedophiles who look at videos of teenagers. Paedophiles are older people who want to attack young children and teens.\""
+msgstr "Umzali: \"Ndiyazidla ngendlela odanisa kamnandi ngayo, Shani. Kodwa simele siqinisekise ukuba ukhuselekile. Ndiyazi ukuba abahlobo bakho bajonga kuTikTok, kodwa ngeakhawunti evulekileyo, kukho nabanye abantu abajonga iividiyo zabantu abafikisayo bencwase ukwabelana nabo ngesondo. Abantu abancwase ukwabelana ngesondo ngabantu abadala abahlasela abantwana nabafikisayo.”"
+
+#. type=text
+msgctxt "text"
 msgid "Parent: \"Let’s look together online at how we can keep this fun for you but also safe. Look – you can make your account private and control who follows you. So you can accept people you know but not strangers. Can we make a rule together that you can use TikTok but with a private account? I trust you to know who to accept!\""
 msgstr "Umzali: \"Makhe sijonge kunye kwi-intanethi ukuze sibone ukuba singaqhubeka njani siqiniseka ukuba wonwabile kodwa ukwakhuselekile. Khangela – ungenza iakhawunti yakho ibe nobumfihlo uze ulawule abantu abakulandelayo. Ngoko ungabamkela abantu obaziyo kodwa hayi ongabaziyo. Ngaba singawenza kunye umgaqo onokuwusebenzisa iTikTok, kodwa kwiakhawunti yabucala? Ndiyathemba uyazi ukuba ngubani omawumamkele!”"
+
+#. type=text
+msgctxt "text"
+msgid "Parent: \"I’m proud of you Shani...\""
+msgstr "Umzali: “Ndiyazingca ngawe Shani...”"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -14489,6 +14530,12 @@ msgstr "Molo! Ukwazile ukuthetha @fields.child_nickname malunga nokuphatha okukh
 msgctxt "text"
 msgid "Hi! Were you able to talk to your child about safe and unsafe touch?"
 msgstr "Molo! Ukwazile ukuthetha nomntwana wakho  malunga nokuphatha okukhuselekileyo nokungakhuselekanga?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done, that is not very easy to do, @fields.user_name! How did it go?"
+msgstr "Usebenzile, akululanga neze ukukwenza @fields.user_name! Kuhambe njani?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
