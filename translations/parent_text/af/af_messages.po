@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2022-03-30 20:51\n"
+"PO-Revision-Date: 2022-03-31 13:12\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -472,6 +472,12 @@ msgstr "Jammer om te hoor jy sukkel, @fields.user_name. Gee jouself vandag 'n gr
 msgctxt "text"
 msgid "Sorry to hear you are struggling. Give yourself a big hug for trying. Tomorrow is another day. Remember you can always get extra support by typing \"Help\"."
 msgstr "Jammer om te hoor jy sukkel. Gee jouself 'n groot drukkie omdat jy probeer. Môre is nog 'n dag. Onthou, jy kan altyd ekstra ondersteuning kry deur \"Help\" te tik."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sorry to hear that things are difficult between you and your children. It’s not always easy to be a parent during these difficult times @fields.user_name. Remember you can always get extra support by typing \"Help\"."
+msgstr "Jammer om te hoor dinge is moeilik tussen jou en jou kinders. Dis nie altyd maklik om 'n ouer in hierdie moeilike tye te wees nie @fields.user_name. Onthou, jy kan altyd ekstra ondersteuning kry deur \"Help\" te tik."
 
 #. type=text
 msgctxt "text"
@@ -1146,6 +1152,11 @@ msgstr "Geld is een van die dinge wat nou die meeste stres by gesinne veroorsaak
 
 #. type=text
 msgctxt "text"
+msgid "How many days in the past month (30 days) did you run out of money to pay for food? (0, 1, 2, 3, ... 30)"
+msgstr "Hoeveel keer die afgelope maand (30 dae) het jou kosgeld opgeraak? (0, 1, 2, 3, ... 30)"
+
+#. type=text
+msgctxt "text"
 msgid "Sorry, I don't understand what you mean. Please reply with a number between 0 and 30."
 msgstr "Jammer, ek verstaan nie wat jy bedoel nie. Antwoord asseblief met 'n nommer tussen 0 en 30."
 
@@ -1173,6 +1184,11 @@ msgstr "Bonusvraag: Ons almal wil ons kinders veilig hou. Het jy die afgelope ma
 msgctxt "text"
 msgid "Sorry, I don't understand what you mean. Please reply with either yes or no."
 msgstr "Jammer, ek verstaan nie wat jy bedoel nie. Antwoord asseblief ja of nee."
+
+#. type=text
+msgctxt "text"
+msgid "How many days have you had a talk like this? (0, 1, 2, 3, ... 30)"
+msgstr "Hoeveel dae het jy 'n gesprek soos hierdie gehad? (0, 1, 2, 3, ... 30)"
 
 #. type=text
 msgctxt "text"
@@ -4221,6 +4237,11 @@ msgstr "Hallo! Dankie dat jy aangesluit het om ParentText-wenke te kry. Sê asse
 
 #. type=text
 msgctxt "text"
+msgid "1. English"
+msgstr "1. English"
+
+#. type=text
+msgctxt "text"
 msgid "How did you find out about ParentText?"
 msgstr "Hoe het jy van ParentText te hore gekom?"
 
@@ -5001,6 +5022,11 @@ msgstr "Wil jy meer weet oor hoe om jou verhouding met jou kind te verbeter?"
 msgctxt "text"
 msgid "Would you like to know more about managing your child's behaviour?"
 msgstr "Wil jy meer weet oor hoe om jou kind se gedrag te beheer?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to know more about how to help your child learn?"
+msgstr "Wil jy meer weet oor hoe om jou kind te help om te leer?"
 
 #. type=text
 msgctxt "text"
@@ -8262,6 +8288,11 @@ msgstr "seksualiteit"
 msgctxt "text"
 msgid "• They may prefer being with peers more than with you"
 msgstr "• Hulle kan dalk eerder by hulle portuur wil wees as by jou"
+
+#. type=text
+msgctxt "text"
+msgid "• They may show risk-taking behaviours, frequent mood swings, and rebellious attitudes. They can also have exciting new ideas!"
+msgstr "• Hulle kan risikogedrag begin toon, gereelde gemoedskommelings en 'n rebelse houding. Hulle kan ook opwindende nuwe idees hê!"
 
 #. type=text
 msgctxt "text"
@@ -12407,8 +12438,18 @@ msgstr "Kind: \"Al my vriende is daarop. Ek het meer as 600 likes en 120 followe
 
 #. type=text
 msgctxt "text"
+msgid "Parent: \"I’m proud of how well you dance, Shani. But we need to make sure you are safe on this. I know your friends look at TikTok, but with an open account there are also paedophiles who look at videos of teenagers. Paedophiles are older people who want to attack young children and teens.\""
+msgstr "Ouer: \"Ek is trots op hoe jy dans, Shani. Maar ons moet seker maak jy is veilig hierop. Ek weet jou vriende is op TikTok, maar met 'n oop rekening is daar ook pedofiele wat na video’s van tieners kan kyk. Pedofiele is ouer mense wat jong kinders en tieners wil aanval.\""
+
+#. type=text
+msgctxt "text"
 msgid "Parent: \"Let’s look together online at how we can keep this fun for you but also safe. Look – you can make your account private and control who follows you. So you can accept people you know but not strangers. Can we make a rule together that you can use TikTok but with a private account? I trust you to know who to accept!\""
 msgstr "Ouer: \"Kom ons kyk saam aanlyn hoe ons dit lekker kan hou vir jou, maar ook veilig. Kyk – jy kan jou rekening privaat maak en beheer wie jou volg. So, jy kan mense aanvaar wat jy ken, maar nie vreemdelinge nie. Kan ons saam 'n reël maak dat jy TikTok kan gebruik, maar met 'n privaat rekening? Ek vertrou jou om te weet wie om te aanvaar!\""
+
+#. type=text
+msgctxt "text"
+msgid "Parent: \"I’m proud of you Shani...\""
+msgstr "Ouer: \"Ek’s trots op jou, Shani...\""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -14497,6 +14538,12 @@ msgstr "Hallo! Kon jy met @fields.child_nickname praat oor veilige en onveilige 
 msgctxt "text"
 msgid "Hi! Were you able to talk to your child about safe and unsafe touch?"
 msgstr "Hallo! Kon jy met jou kind praat oor veilige en onveilige aanraking?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done, that is not very easy to do, @fields.user_name! How did it go?"
+msgstr "Welgedaan, dis nie maklik om te doen nie, @fields.user_name! Hoe het dit gegaan?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
