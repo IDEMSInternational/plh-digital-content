@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2022-04-12 08:38\n"
+"PO-Revision-Date: 2022-04-12 14:36\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -4696,6 +4696,17 @@ msgstr "Usendleleni yakho yokufikelela kwinjongo yakho yokuba ngumzali, uqinisek
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "@fields.user_name, you are on your way to reaching your goal of knowing more about your child's development, are you sure you want to exit the programme?"
+msgstr "@field.user_name usendleleni eya ekufikeleleni kwinjongo yakho yokwazi ngakumbi malungo ngokukhula komntwana wakho, uqinisekile ukuba ufuna ukuphuma kwinkqubo?"
+
+#. type=text
+msgctxt "text"
+msgid "You are on your way to reaching your goal of knowing more about your child's development, are you sure you want to exit the programme?"
+msgstr "Usendleleni eya ekufikeleleni kwinjongo zokwazi ngakumbi malunga nokukhula komntwana wakho, ingaba uqinisekile ukuba ufuna ukuphuma kwinkqubo?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "@fields.user_name, you are on your way to reaching your goal of having less conflict in your family, are you sure you want to exit the programme?"
 msgstr "@fields.user_name, usendleleni yakho yokufikelela kwinjongo yakho yokuba nembambano engephi nosapho lwakho, uqinisekile ukuba ufuna ukuphuma kwinkqubo?"
 
@@ -4984,6 +4995,29 @@ msgstr "@fields.child_nickname uzuze nyhani kwinkqubela yakho ngokubhekisele eku
 msgctxt "text"
 msgid "Your child has really benefitted from your progress towards reaching your goal of having less conflict in your family, are you sure you want to exit the programme?"
 msgstr "Umntwana wakho uzuze nyhani kwinkqubela yakho ngokubhekisele ekufikeleleni kwinjongo yakho yokuba nembambano, uqinisekile ukuba ufuna ukuphuma kwinkqubo?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of knowing more about child development. @fields.user_name, are you sure you want to exit the programme?"
+msgstr "@fields.child_nickname uzuze ngokwenene kwinkqubela phambili yakho ekufikeleleni kwinjongo yakho yokwazi malunga ngokhula komntwana. @fields.user_name, ingaba uqinisekile ufuna ukuphuma kwinkqubo?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your child has really benefitted from your progress towards reaching your goal of knowing more about child development. @fields.user_name, are you sure you want to exit the programme?"
+msgstr "Umntwana wakho uzuze ngokwenene kwinkqubela phambili yakho ekufikeleleni kwinjongo yakho yokwazi ngakumbi ngokukhula komntwana. @fields.user_name, uqinisekile ukuba ufuna ukuphuma kwinkqubo?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of knowing more about child development, are you sure you want to exit the programme?"
+msgstr "@fields.child_nickname uzuze ngokwenene kwinkqubela phambili yakho ekufikeleleni kwinjongo yakho yokwazi malunga nokukhula komntwana, uqinisekile ukuba ufuna ukuphuma kwinkqubo?"
+
+#. type=text
+msgctxt "text"
+msgid "Your child has really benefitted from your progress towards reaching your goal of knowing more about child development, are you sure you want to exit the programme?"
+msgstr "Umntwana wakho uzuze ngokwenene kwinkqubela phambili yakho ekufikeleleni kwinjongo yakho yokwazi ngakumbi ngokukhula komntwana, uqinisekile ukuba ufuna ukuphuma kwinkqubo?"
 
 #. type=text
 msgctxt "text"
@@ -5762,8 +5796,18 @@ msgstr "Singakunceda ngantoni?"
 
 #. type=text
 msgctxt "text"
+msgid "These tips are for YOU. So that our chats can be as helpful as possible, could you please tell us your gender?"
+msgstr "Ezi ngcebiso ZEZAKHO. Ukuze iincoko zethu zibe luncedo kangangoko, unganceda usixelele isini sakho?"
+
+#. type=text
+msgctxt "text"
 msgid "If you would prefer not to answer, type \"N\"."
 msgstr "Nceda cofa u “H” ukuba ukhetha ukungaphenduli."
+
+#. type=text
+msgctxt "text"
+msgid "These tips are for YOU. So that our chats can be as helpful as possible, could you please tell me your gender?"
+msgstr "Ezi ngcebiso ZEZAKHO. Ukuze iincoko zethu zibe luncedo kangangoko, unganceda usixelele isini sakho?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -16928,7 +16972,7 @@ msgstr "Uyala ukuthobela"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Temper tantrums"
-msgstr "Ukuba nomsindo"
+msgstr "Umsindo wokucaphuka"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -17030,7 +17074,7 @@ msgstr "Ukuthi nca"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Bad tempered or moody"
-msgstr "Ukuba nomsindo okanye ukungatyhileki"
+msgstr "Umsindo ombi okanye ukungatyhileki"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -18992,7 +19036,7 @@ msgstr "ukukhwina"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "bad tempered moody"
-msgstr "ukuba nomsindo okanye ukungatyhileki"
+msgstr "umsindo ombi okanye ukungatyhileki"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -19016,7 +19060,7 @@ msgstr "ukugeza"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "temper tantrums"
-msgstr "ukuba nomsindo"
+msgstr "umsindo wokucaphuka"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
