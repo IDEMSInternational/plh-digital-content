@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-04-07 16:18\n"
+"PO-Revision-Date: 2022-04-11 00:35\n"
 
 #. type=template
 msgctxt "template"
@@ -516,6 +516,12 @@ msgid "Type your name (optional)"
 msgstr "Kwala leina la gago (itlhophelo)"
 
 #. type=template
+#. The string @global.whatsapp should not be translated.
+msgctxt "template"
+msgid "Contact me on @global.whatsapp"
+msgstr "Golagana le nna mo go @global.whatsapp"
+
+#. type=template
 msgctxt "template"
 msgid "Type your phone number"
 msgstr "Kwala nomoro ya gago ya mogala"
@@ -858,7 +864,7 @@ msgstr "Tobetsa khutlotharo go go thusa go nna o tshwere motlotlo ono @local.tim
 #. type=template
 msgctxt "template"
 msgid "Options"
-msgstr "Tlhopho"
+msgstr "Ditlhopho"
 
 #. type=template
 msgctxt "template"
@@ -7075,6 +7081,12 @@ msgstr ""
 "O dirile sentle go bontsha maikemisetso a a kalo ka ba lelapa la gago."
 
 #. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Well done for completing the @local.workshop_data.in_text_title. Tomorrow, you can access a new workshop to help you relax, enjoy and learn useful skills!"
+msgstr "Tiro e ntle go fetsa completing the @local.workshop_data.in_text_title. kamoso, o ka lekola tirelo e ntsha go go thusa go repa, natefelwa le go ithuta bokgoni jo bo thusang!"
+
+#. type=template
 #. The following strings should not be translated: 
 #.      @field.user_name
 #.      @global.parent_app
@@ -7149,6 +7161,21 @@ msgstr ""
 "Fa o bona mosha wa gago, mo akgole ka sengwe se se molemo se a se dirang sentle! \n"
 "\n"
 "Ke leng la bofelo fa o ne o ikakgola kgotsa o akgola mogolo mongwe mo lelapeng la gago? Go leke!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.user_name
+#.      @local.workshop_data.in_text_title
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @global.user_name, a new workshop awaits you tomorrow. It seems like you haven’t finished the @local.workshop_data.in_text_title yet. It’s really a short one (promise!) – you can even complete it while waiting for dinner to cook. Why don’t you go through it when you have a few minutes? \n"
+"\n"
+"Thank you again for using @global.parent_app."
+msgstr ""
+"Dimela @global.user_name, tiriso e ntsha e go emetse kamoso. Go bontsha okare ga ise o fetse @local.workshop_data.in_text_title gajaana. Ke e khutshwane tota ( kago tshepisa!) - O ka e feleletse ntse emetse dijo tsa maitsiboa go butswa.Goreng o sa e lekole fa o na le metsotsonyana?\n"
+"\n"
+"Ke a leboga gape go bo o dirisitse @global.parent_app."
 
 #. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
@@ -7779,6 +7806,11 @@ msgstr "Go latlhegelwa ke tsala kgotsa mongwe yo o mo ratang go boima. Go se ikg
 
 #. type=template
 msgctxt "template"
+msgid "Take care of yourself"
+msgstr "Itlhokomele"
+
+#. type=template
+msgctxt "template"
 msgid "Find a support group"
 msgstr "Batla setlhopha sa tshegetso"
 
@@ -7821,6 +7853,16 @@ msgstr "Basha ba mekamekana le tatlhegelo ka tsela tse di farologaneng jaaka bag
 msgctxt "template"
 msgid "Be honest"
 msgstr "Nna le nnete"
+
+#. type=template
+msgctxt "template"
+msgid "My teen's response"
+msgstr "Karabo ya mosha wa me"
+
+#. type=template
+msgctxt "template"
+msgid "How to support my teen?"
+msgstr "Nka tshegetsa mosha wa me jang?"
 
 #. type=template
 msgctxt "template"
@@ -7876,6 +7918,11 @@ msgstr "Go latlhegelwa ke mongwe yo o mo ratang go ka tlisa maikutlo a bokete. F
 msgctxt "template"
 msgid "Ask for help"
 msgstr "Kopa thuso"
+
+#. type=template
+msgctxt "template"
+msgid "Say goodbye"
+msgstr "Ere salang sentle"
 
 #. type=template
 msgctxt "template"
@@ -11450,6 +11497,11 @@ msgstr "TikTok"
 
 #. type=global
 msgctxt "global"
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#. type=global
+msgctxt "global"
 msgid "Watching this video requires internet access. To limit data use, watch or download this video when on WiFi."
 msgstr "Ke tlhoka internet gore ke kgone go lebelela bidio eno. Go fokotsa selekanyo sa datha e ke e dirisang, ke lebelele bidio eno kgotsa ke e laisolole fa ke le mo WiFi."
 
@@ -12217,6 +12269,28 @@ msgstr ""
 "<p>Bona gore o atlega go le kana kang.</p>\n"
 "\n"
 "<p>Ikutlwe o le motlotlo ka se o kgonang go se fitlhelela letsatsi le letsatsi!</p>"
+
+#. type=tour
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.essential_tools
+msgctxt "tour"
+msgid ""
+"<p>This button takes you to the @global.parent_centre </p>\n"
+"\n"
+"<p>Stacked with the resources you need whenever you want. </p>\n"
+"\n"
+"<p> Instant access to help sections with @data.parent_centre.essential_tools for each skill.</p>\n"
+"\n"
+"<p> Extra information and local resources.</p>"
+msgstr ""
+"<p>setobediwa seno se go isa kwa @global.parent_centre </p>\n"
+"\n"
+"<p>Tlalelane ka didiriswa tse o di tlhokang nako ngwe le nnwe </p>\n"
+"\n"
+"<p> matseno a potlako go thusa dikarolo ka @data.parent_centre.essential_tool tsa bokgoni.</p>\n"
+"\n"
+"<p> Kitsiso ya tlaleletso le didiriswa tsa selegae.</p>"
 
 #. type=tour
 msgctxt "tour"
