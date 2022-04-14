@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-04-13 19:04\n"
+"PO-Revision-Date: 2022-04-14 01:00\n"
 
 #. type=template
 msgctxt "template"
@@ -12367,6 +12367,12 @@ msgid "This week is about YOU! Treat yourself well. You deserve it!"
 msgstr "Beke eno ke ya GAGO. Itshware sentle. Seo se go tshwanetse!"
 
 #. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid "Start a brand new @global.parent_app workshop tomorrow. You'll see great results!"
+msgstr "Simolola @global.parent_app tirelothuto e ntsha kamoso. O tla bona pholo e ntle!"
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @global.parent_app
 #.      @global.parent_app
@@ -12389,6 +12395,11 @@ msgstr "Dumela @fields.user_name. @data.workshop.w_1on1.in_text_title ya gago e 
 msgctxt "data_list"
 msgid "Hi @fields.group_name. Your @data.workshop.w_1on1.in_text_title is ready for you."
 msgstr "Dumela @fields.group_name. @data.workshop.w_1on1.in_text_title ya gago e go emetse."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You've put so much effort into being a better parent. You are loved and appreciated!"
+msgstr "O tsentse matla a le mantsi mo go nneng motsadi yo o kaone. Wa ratiwa ebile wa kgatlhegelwa!"
 
 #. type=data_list
 #. The string @global.parent_app should not be translated.
@@ -12446,6 +12457,47 @@ msgstr ""
 "Dumela @fields.user_name! O simolola beke ya gago ya boraro ya @global.parent_app.\n"
 "\n"
 "Tirelothuto e ntsha e go emetse!"
+
+#. type=data_list
+#. The string @global.parent_app! should not be translated.
+msgctxt "data_list"
+msgid "Well done for using @global.parent_app! Remember, small things make a big difference."
+msgstr "Tiro e ntle ka go dirisa @global.parent_app! Gopola, dilo di le dinnye di dira pharologanyo e kgolo."
+
+#. type=data_list
+#. The string @data.workshop.w_praise.in_text_title should not be translated.
+msgctxt "data_list"
+msgid "Thank you for investing in yourself and your family.Try the @data.workshop.w_praise.in_text_title to build a great parenting skill!"
+msgstr "Ra leboga gore o bo o tsenyeletsa nako mo go wena le ba lelapa la gago. Leka @data.workshop.w_praise.in_text_title go aga bokgoni ba botsadi bo bontle!"
+
+#. type=data_list
+#. The string @data.workshop.w_praise.in_text_title should not be translated.
+msgctxt "data_list"
+msgid ""
+"Praise makes all the difference. \n"
+"\n"
+"Finish the @data.workshop.w_praise.in_text_title to see how to use it in YOUR family."
+msgstr ""
+"Go akgola go dira pharologanyo.\n"
+"\n"
+"Fetsa @data.workshop.w_praise.in_text_title go bona gore o ka e dirisa jaang le ba lelapa la gago."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Praise your teen for one thing they did well. \n"
+"\n"
+"And when last did you praise yourself or another adult? Try it!"
+msgstr ""
+"Akgola mosha wa gago ka selo se le seng se ba se dirileng.\n"
+"\n"
+"Ebile ke leng labofelo o ikakgola kgotsa motho yo mongwe o mogolo? E leke!"
+
+#. type=data_list
+#. The string @data.workshop.w_praise.in_text_title. should not be translated.
+msgctxt "data_list"
+msgid "Amazing, you completed the @data.workshop.w_praise.in_text_title. A new workshop is ready tomorrow. Try it - you will see a change in your teen’s behaviour."
+msgstr "Gogontle, o feditse @data.workshop.w_praise.in_text_title. Tirelothuto e ntsha e go emetse kamoso. E leke - o tla bona phetogo mo maitsholong a mosha wa gago."
 
 #. type=data_list
 msgctxt "data_list"
