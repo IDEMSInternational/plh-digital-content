@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-04-20 08:25\n"
+"PO-Revision-Date: 2022-04-20 13:41\n"
 
 #. type=template
 msgctxt "template"
@@ -34,10 +34,32 @@ msgid "Let's listen to an audio!"
 msgstr "Hebu tusikilize pamoja!"
 
 #. type=template
+msgctxt "template"
+msgid "Hear a caregiver's testimonial"
+msgstr "Sikia ushuhuda wa mlezi"
+
+#. type=template
+msgctxt "template"
+msgid "Read a caregiver's testimonial"
+msgstr "Soma ushuhuda wa mlezi"
+
+#. type=template
 #. The string @local.workshop_data.title should not be translated.
 msgctxt "template"
 msgid "Why @local.workshop_data.title?"
 msgstr "Kwanini @local.workshop_data.title?"
+
+#. type=template
+#. The string @global.topic_intro_name should not be translated.
+msgctxt "template"
+msgid "Hear @global.topic_intro_name's message"
+msgstr "Sikia ujumbe wa @global.topic_intro_name's"
+
+#. type=template
+#. The string @global.topic_intro_name should not be translated.
+msgctxt "template"
+msgid "Read @global.topic_intro_name's message"
+msgstr "Soma ujumbe wa @global.topic_intro_name's"
 
 #. type=template
 msgctxt "template"
@@ -58,6 +80,16 @@ msgstr "Zoezi la Nyumbani"
 msgctxt "template"
 msgid "Small actions, big results! Parents who practice their workshop skills at home get better results."
 msgstr "Matendo madogo, matokeo makubwa! Wazazi wanaofanyia kazi mazoezi ya nyumbani waliyopata kwenye warsha hupata matokeo mazuri zaidi."
+
+#. type=template
+msgctxt "template"
+msgid "Hear a teen's testimonial"
+msgstr "Sikia ushuhuda wa kijana"
+
+#. type=template
+msgctxt "template"
+msgid "Read a teen's testimonial"
+msgstr "Sikia ushuhuda wa kijana"
 
 #. type=template
 msgctxt "template"
@@ -13219,6 +13251,32 @@ msgid "How to do self-care"
 msgstr "Jinsi ya kujithamini"
 
 #. type=data_list
+#. The string @global.parent_app, should not be translated.
+msgctxt "data_list"
+msgid ""
+"For me as a parent, it was almost impossible to find time for myself. I was always busy taking care of everyone else. Through @global.parent_app, I realised how important it is to take care of myself. It helps me AND my family! \n"
+"\n"
+"Having a moment for myself helps me to breathe and notice how I feel. Even 5 minutes to have a cup of tea makes a big difference. Now I can deal with my stress better."
+msgstr ""
+"Kwa mimi kama mzazi, ilikuwa kama haiwezekani kupata muda kwa ajili yangu. Nilikuwa na kazi nyingi za kumwangalia kila mmoja. Kupitia @global.parent_app, nilikugundua ni jinsi gani ilivyo muhimu kujiangalia mwenyewe. Inanisaidia mimi NA familia yangu!\n"
+"\n"
+"Kuwa na wakati kwa wangu binafsi inanisaidia kupumua na kujua jinsi navyohisi. Hata dakika 5 za kupata kikombe cha chai inaleta mabadiliko makubwa. Sasa naweza kushughulikia msongo wangu wa mawazo vizuri zaidi."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.parent_app
+msgctxt "data_list"
+msgid ""
+"My dad was always busy. He would come home from work and snap at us when we started asking him questions. \n"
+"\n"
+"@global.parent_app helped us a lot. We no longer fight. Now, when my dad comes home, he first sits down by himself for 5 minutes and then we do a relaxing activity from @global.parent_app together, so we can all take a deep breath and relax. Then we can chat about our day, about anything good or bad that happened. Everyone is so much happier now."
+msgstr ""
+"Baba yangu alikuwa na kazi nyingi daima. Angweza kurudi kutoka kazini na kuwa mwenye haraka pale tunapoanza kumuuliza maswali.\n"
+"\n"
+"@global.parent_app imetusaidia sana. Hatugombani tena. sasa hivi, baba yangu akirudi nyumbani, anakaa kwanza chini kwa dakika 5 na baadae tunafanya pamoja zoezi la kupumzika kutoka katika @global.parent_app, hivyo wote tunaweza kuvuta pumzi ndefu na kupumzika. Baadae tunaweza kuongelea kuhusu siku yetu, kuhusu chochote kibaya au kizuri kilichotokea. Kila mmoja ni mwenye furaha zaidi sasa hivi."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "One-on-One Time"
 msgstr "Muda wa Pamoja Wawili"
@@ -13232,6 +13290,36 @@ msgstr "Warsha ya **Muda wa Pamoja Wawili**"
 msgctxt "data_list"
 msgid "How to spend one-on-one time"
 msgstr "Jinsi ya kutumia muda wa pamoja wawili"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When I first heard I had to spend One-on-One Time with my teen, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my teen so that he thinks we have to do everything together. \n"
+"\n"
+"But I really wanted to build my relationship with my teen and I wanted him to open up about what was troubling him. So we tried the One-on-One Time. \n"
+"\n"
+"First, it felt weird, but it turned out to be fun! Now we watch his TV programme together and we chat about it. And we can even talk about how my son is changing into adolescence, and even about girlfriends and those things!"
+msgstr ""
+"Niliposikia kwa mara ya kwanza ninatakiwa kuwa na muda wa pamoja na kijana wangu, ilikuwa vigumu kwangu. Sikujua wakati gani wa kufanya au nini cha kusema. Sikutaka kumharibu kijana wangu ili kwamba ajue tunatakiwa kufanya kila kitu pamoja.\n"
+"\n"
+"Lakini nilitaka sana kujenga uhusiano wangu na kijana wangu na nilitaka awe muwazi kuhusu nini kinachomsumbua. Hivyo tulijaribu muda wa pamoja.\n"
+"\n"
+"Mwanzo, ilionekana ajabu, lakini ilibadilika na kuwa ya kufurahisha! Sasa hivi tunaangalia pamoja vipindi vyake vya TV na tunaviongelea. Na tunaweza hata tukaongea kuhusu jinsi mtoto wangu wa kiume anavyobadilika, na hata kuhusu marafiki wa kike na vitu hivyo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When my mother asked to spend time with me, I thought “Maybe something is wrong, maybe she is sick”. But she said “No, I just want to spend time.” I was sceptical, but I accepted. \n"
+"\n"
+"She asked me what I like doing. It was strange and I was not comfortable, because she never ever spent time with me on my own. \n"
+"\n"
+"The more she kept on trying and we spent this time together, it felt really nice. She got to share her own childhood with me, things I never heard before. That helped me to also share what is going on in my life. We even talk about boyfriends and about problems I have. I know I can talk to my mother now."
+msgstr ""
+"Mama yangu alipoomba kutumia muda na mimi, niliwaza \" Labda kitu flani hakiko sawa, labda anaumwa\".  Lakini alisema \"Hapana, nahitaji tu kutumia muda.\" Nilikuwa na mashaka , lakini nilikubali.\n"
+"\n"
+"Aliniuliza nini ninapenda kufanya. Kilikuwa kitu kigeni na sikuwa huru, kwa sababu hajawahi kutumia muda pamoja na mimi kwa ajili yangu.\n"
+"\n"
+"Kadri alivyoendelea kujaribu na tulitumia muda pamoja, ilikuwa safi sana. Aliweza kinishirikisha utoto wake, vitu ambavyo sikuwa kusikia kabla. Hiyo ilinisaidia pia kusema kinachoendelea katika maisha yangu. Tuliongea hata kuhusu marafiki zangu wa kiume na kuhusu matatizo. Najua ninaweza kuongea na mama yangu sasa hivi."
 
 #. type=data_list
 msgctxt "data_list"
