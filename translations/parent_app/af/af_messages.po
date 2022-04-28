@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2022-04-28 08:54\n"
+"PO-Revision-Date: 2022-04-28 09:49\n"
 
 #. type=template
 msgctxt "template"
@@ -37,6 +37,11 @@ msgstr "Kom ons luister na ’n klankopname!"
 msgctxt "template"
 msgid "Hear a caregiver's testimonial"
 msgstr "Luister na 'n versorger se getuigskrif"
+
+#. type=template
+msgctxt "template"
+msgid "Read a caregiver's testimonial"
+msgstr "Lees 'n versorger se getuigskrif"
 
 #. type=template
 #. The string @local.workshop_data.title should not be translated.
@@ -75,6 +80,16 @@ msgstr "Tuisoefening"
 msgctxt "template"
 msgid "Small actions, big results! Parents who practice their workshop skills at home get better results."
 msgstr "Klein aksies, groot resultate! Ouers wat hulle werksessievaardighede tuis oefen, kry beter resultate."
+
+#. type=template
+msgctxt "template"
+msgid "Hear a teen's testimonial"
+msgstr "Luister na 'n tiener se getuigskrif"
+
+#. type=template
+msgctxt "template"
+msgid "Read a teen's testimonial"
+msgstr "Lees 'n tiener se getuigskrif"
 
 #. type=template
 msgctxt "template"
@@ -812,6 +827,12 @@ msgid "Type your name (optional)"
 msgstr "Tik jou naam in (opsioneel)"
 
 #. type=template
+#. The string @global.whatsapp should not be translated.
+msgctxt "template"
+msgid "Contact me on @global.whatsapp"
+msgstr "Kontak my by @global.whatsapp"
+
+#. type=template
 msgctxt "template"
 msgid "Type your phone number"
 msgstr "Tik jou foonnommer in"
@@ -1016,6 +1037,11 @@ msgstr "Om 'n vriend of geliefde te verloor is vir almal moeilik. Om goed te wee
 
 #. type=template
 msgctxt "template"
+msgid "Take care of yourself"
+msgstr "Sorg goed vir jouself"
+
+#. type=template
+msgctxt "template"
 msgid "Find a support group"
 msgstr "Vind 'n ondersteuningsgroep"
 
@@ -1058,6 +1084,16 @@ msgstr "Tieners hanteer verlies op verskillende maniere, net soos volwassenes. J
 msgctxt "template"
 msgid "Be honest"
 msgstr "Wees eerlik"
+
+#. type=template
+msgctxt "template"
+msgid "My teen's response"
+msgstr "My tiener se reaksie"
+
+#. type=template
+msgctxt "template"
+msgid "How to support my teen?"
+msgstr "Hoe kan ek my tiener ondersteun?"
 
 #. type=template
 msgctxt "template"
@@ -1113,6 +1149,11 @@ msgstr "Die verlies van 'n geliefde kan baie oorweldigend voel. Hier is 'n paar 
 msgctxt "template"
 msgid "Ask for help"
 msgstr "Vra vir hulp"
+
+#. type=template
+msgctxt "template"
+msgid "Say goodbye"
+msgstr "Sê totsiens"
 
 #. type=template
 msgctxt "template"
@@ -4411,6 +4452,12 @@ msgstr ""
 "Welgedaan dat jy soveel toewyding aan jou gesin bewys."
 
 #. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Well done for completing the @local.workshop_data.in_text_title. Tomorrow, you can access a new workshop to help you relax, enjoy and learn useful skills!"
+msgstr "Welgedaan dat jy die @local.workshop_data.in_text_title voltooi het. Môre kan jy 'n nuwe werkswinkel aanpak om jou te help om te ontspan, geniet en nuttige vaardighede aan te leer!"
+
+#. type=template
 #. The following strings should not be translated: 
 #.      @field.user_name
 #.      @global.parent_app
@@ -4485,6 +4532,21 @@ msgstr ""
 "Wanneer jy jou tiener weer sien, prys hulle vir een ding wat hulle goed doen!\n"
 "\n"
 "En wanneer laas het jy jouself of ’n ander volwassene in jou huishouding geprys? Probeer dit!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.user_name
+#.      @local.workshop_data.in_text_title
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @global.user_name, a new workshop awaits you tomorrow. It seems like you haven’t finished the @local.workshop_data.in_text_title yet. It’s really a short one (promise!) – you can even complete it while waiting for dinner to cook. Why don’t you go through it when you have a few minutes? \n"
+"\n"
+"Thank you again for using @global.parent_app."
+msgstr ""
+"Hallo, @global.user_name, 'n nuwe werkswinkel wag môre op jou. Dit lyk asof jy nog nie die @local.workshop_data.in_text_title voltooi het nie. Dis regtig 'n kortetjie (belowe!) – jy kan dit selfs voltooi terwyl jy wag dat jou aandete gaar word. Waarom gaan jy nie daardeur wanneer jy 'n paar minute tyd het nie? \n"
+"\n"
+"Weer eens dankie dat jy @global.parent_app gebruik."
 
 #. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
@@ -12206,6 +12268,28 @@ msgstr ""
 "<p>Vier wat jy daagliks regkry!</p>"
 
 #. type=tour
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.essential_tools
+msgctxt "tour"
+msgid ""
+"<p>This button takes you to the @global.parent_centre </p>\n"
+"\n"
+"<p>Stacked with the resources you need whenever you want. </p>\n"
+"\n"
+"<p> Instant access to help sections with @data.parent_centre.essential_tools for each skill.</p>\n"
+"\n"
+"<p> Extra information and local resources.</p>"
+msgstr ""
+"<p>Hierdie knoppie neem jou na die @global.parent_centre </p>\n"
+"\n"
+"<p>Gepak met die hulpbronne wat jy nodig het, wanneer jy dit ook al wil hê. </p>\n"
+"\n"
+"<p>Kitstoegang tot hulpafdelings met @data.parent_centre.essential_tools vir elke vaardigheid.</p>\n"
+"\n"
+"<p>Ekstra inligting en plaaslike hulpbronne.</p>"
+
+#. type=tour
 msgctxt "tour"
 msgid "<p>However you start, just the fact you are here shows you care.</p>"
 msgstr "<p>Hoe jy ook al begin, die blote feit dat jy hier is, wys jy gee om.</p>"
@@ -12353,8 +12437,159 @@ msgstr "Hallo ongelooflike ouer! @global.parent_app is hier om jou te ondersteun
 
 #. type=data_list
 msgctxt "data_list"
+msgid "This week is about YOU! Treat yourself well. You deserve it!"
+msgstr "Hierdie week gaan oor JOU! Kyk mooi na jouself. Jy verdien dit!"
+
+#. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid "Start a brand new @global.parent_app workshop tomorrow. You'll see great results!"
+msgstr "Begin môre 'n splinternuwe @global.parent_app werkswinkel. Jy sal wonderlike resultate sien!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.parent_app
+msgctxt "data_list"
+msgid "Remember to tell your @global.parent_app partners about the app. Tomorrow, you can start doing @global.parent_app workshops together!"
+msgstr "Onthou om vir jou @global.parent_app-maats van die toep te vertel. Julle kan môre die @global.parent_app-werkswinkels saam begin doen!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.user_name.
+#.      @data.workshop.w_1on1.in_text_title
+msgctxt "data_list"
+msgid "Hi @fields.user_name. Your @data.workshop.w_1on1.in_text_title is ready for you."
+msgstr "Hallo, @fields.user_name. Jou @data.workshop.w_1on1.in_text_title is gereed vir jou."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.group_name.
+#.      @data.workshop.w_1on1.in_text_title
+msgctxt "data_list"
+msgid "Hi @fields.group_name. Your @data.workshop.w_1on1.in_text_title is ready for you."
+msgstr "Hallo, @fields.group_name. Jou @data.workshop.w_1on1.in_text_title is gereed vir jou."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You've put so much effort into being a better parent. You are loved and appreciated!"
+msgstr "Jy het soveel moeite gedoen om 'n beter ouer te wees. Jy is geliefd en word waardeer!"
+
+#. type=data_list
+#. The string @data.workshop.w_1on1.in_text_title should not be translated.
+msgctxt "data_list"
+msgid ""
+"Thank you for committing to your parenting. \n"
+"\n"
+"Your @data.workshop.w_1on1.in_text_title is ready for you!"
+msgstr ""
+"Dankie dat jy so toegewyd is aan jou ouerskap. \n"
+"\n"
+"Jou @data.workshop.w_1on1.in_text_title is gereed vir jou!"
+
+#. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid ""
+"Spending time with your teen helps build trust. \n"
+"\n"
+"Continue your @global.parent_app journey for great results."
+msgstr ""
+"Wanneer jy tyd saam met jou tiener deurbring, help dit om vertroue te bou. \n"
+"\n"
+"Gaan voort met jou @global.parent_app-reis vir wonderlike resultate."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Have you spent time with your teen already?"
 msgstr "Het jy al tyd saam met jou tiener deurgebring?"
+
+#. type=data_list
+#. The string @data.workshop.w_1on1.in_text_title. should not be translated.
+msgctxt "data_list"
+msgid "Well done for completing the @data.workshop.w_1on1.in_text_title. Tomorrow, you can access a new workshop to help you relax, enjoy and learn new skills!"
+msgstr "Welgedaan dat jy die @data.workshop.w_1on1.in_text_title voltooi het. Môre kan jy 'n nuwe werkswinkel aanpak om jou te help om te ontspan, geniet en nuwe vaardighede te leer!"
+
+#. type=data_list
+#. The string @data.workshop.w_1on1.in_text_title. should not be translated.
+msgctxt "data_list"
+msgid ""
+"Remember to finish the @data.workshop.w_1on1.in_text_title. You will get valuable information within minutes! \n"
+"\n"
+"Well done for trying to be a better parent."
+msgstr ""
+"Onthou om die @data.workshop.w_1on1.in_text_title te voltooi. Jy sal binne enkele minute waardevolle inligting kry! \n"
+"\n"
+"Welgedaan dat jy probeer om 'n beter ouer te wees."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.user_name!
+#.      @global.parent_app
+msgctxt "data_list"
+msgid ""
+"Hi @fields.user_name! You're starting your third  @global.parent_app week. \n"
+"\n"
+"A new workshop is ready!"
+msgstr ""
+"Hallo, @fields.user_name! Jy begin met jou derde @global.parent_app-week. \n"
+"\n"
+"'n Nuwe werkswinkel is gereed!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.group_name!
+#.      @global.parent_app
+msgctxt "data_list"
+msgid ""
+"Hi @fields.group_name! You're starting your third  @global.parent_app week. \n"
+"\n"
+"A new workshop is ready!"
+msgstr ""
+"Hallo, @fields.group_name! Jy begin met jou derde @global.parent_app-week. \n"
+"\n"
+"'n Nuwe werkswinkel is gereed!"
+
+#. type=data_list
+#. The string @global.parent_app! should not be translated.
+msgctxt "data_list"
+msgid "Well done for using @global.parent_app! Remember, small things make a big difference."
+msgstr "Welgedaan dat jy @global.parent_app gebruik! Onthou, klein dingetjies maak 'n groot verskil."
+
+#. type=data_list
+#. The string @data.workshop.w_praise.in_text_title should not be translated.
+msgctxt "data_list"
+msgid "Thank you for investing in yourself and your family.Try the @data.workshop.w_praise.in_text_title to build a great parenting skill!"
+msgstr "Dankie dat jy in jouself en jou gesin belê. Probeer die @data.workshop.w_praise.in_text_title om 'n goeie ouerskapvaardigheid te bou!"
+
+#. type=data_list
+#. The string @data.workshop.w_praise.in_text_title should not be translated.
+msgctxt "data_list"
+msgid ""
+"Praise makes all the difference. \n"
+"\n"
+"Finish the @data.workshop.w_praise.in_text_title to see how to use it in YOUR family."
+msgstr ""
+"Aanprysing maak 'n reuseverskil. \n"
+"\n"
+"Voltooi die @data.workshop.w_praise.in_text_title om te sien hoe om dit in JOU gesin te gebruik."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Praise your teen for one thing they did well. \n"
+"\n"
+"And when last did you praise yourself or another adult? Try it!"
+msgstr ""
+"Prys jou tiener vir een ding wat hy/sy goed gedoen het. \n"
+"\n"
+"En wanneer laas het jy jouself of 'n ander volwassene geprys? Probeer dit!"
+
+#. type=data_list
+#. The string @data.workshop.w_praise.in_text_title. should not be translated.
+msgctxt "data_list"
+msgid "Amazing, you completed the @data.workshop.w_praise.in_text_title. A new workshop is ready tomorrow. Try it - you will see a change in your teen’s behaviour."
+msgstr "Wonderlik, jy het die @data.workshop.w_praise.in_text_title voltooi. 'n Nuwe werkswinkel is gereed vir môre. Probeer dit - jy sal 'n verskil in jou tiener se gedrag sien."
 
 #. type=data_list
 msgctxt "data_list"
