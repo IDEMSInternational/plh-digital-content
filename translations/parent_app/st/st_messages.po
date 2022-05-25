@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Southern Sotho\n"
 "\n"
 "Language: st_ZA\n"
-"PO-Revision-Date: 2022-05-25 09:13\n"
+"PO-Revision-Date: 2022-05-25 15:14\n"
 
 #. type=template
 msgctxt "template"
@@ -2151,6 +2151,22 @@ msgstr "Ho holisa bacha ho thata"
 msgctxt "template"
 msgid "You are the best parent your teen could have"
 msgstr "O motswadi ea molemo ka ho fetisisa eo mocha oa hao a ka bang le eena"
+
+#. type=template
+msgctxt "template"
+msgid "Join the 152.4 million parents who have used our resources"
+msgstr "ikopanye le batsoadi ba dimilione tse 152.4 ba sebelisitseng disebelisoa tsa rona"
+
+#. type=template
+msgctxt "template"
+msgid "Powered by Parenting for Lifelong Health and partners"
+msgstr "e tsamaisoa ke Parenting for Lifelong Health le balekane"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "@global.parent_app funded by"
+msgstr "@global.parent_app e tshehelitsoe ke"
 
 #. type=template
 msgctxt "template"
@@ -4872,6 +4888,34 @@ msgid "Complete the workshop and try to discuss with your teen to come up with o
 msgstr "Phethela wekshopo mme o leke ho buisana le motjha wa hao hore a bolele ntho e le nngwe e molemo le e le nngwe e mpe e ka hlahiswang ke boitshwaro bo itseng le le mmoho."
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Today we are celebrating two months of using @global.parent_app! \n"
+"\n"
+"You are doing great! This week’s workshop will help you know what to do when your teen is not following the household rules."
+msgstr ""
+"Dumela @fields.user_name! kajeno re keteka likhoeli tse peli tsa ho sebelisa @global.parent_app!\n"
+"\n"
+"O tla hantle haholo! Thupelo ea beke ena e tla ho u thusa ka ho tseba seo u lokelang ho se etsa ha mocha oa hao a sa latele melao ea lelapa."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Today we are celebrating two months of using @global.parent_app! \n"
+"\n"
+"You are doing great! This week’s workshop will help you know what to do when your teen is not following the household rules."
+msgstr ""
+"Dumela @fields.group_name! kajeno re keteka likhoeli tse peli tsa ho sebelisa @global.parent_app!\n"
+"\n"
+"O tla hantle haholo! Thupelo ea beke ena e tla ho u thusa ka ho tseba seo u lokelang ho se etsa ha mocha oa hao a sa latele melao ea lelapa."
+
+#. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
 msgid ""
@@ -5632,6 +5676,30 @@ msgstr ""
 "Phethela @local.workshop_data.in_text_title mme o ithute tsela e ntlehadi ya ho itshwara ha motjha wa hao a o hloka haholo."
 
 #. type=template
+#. The string @fields.user_name should not be translated.
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! A crisis can happen to anyone - being prepared helps a lot. \n"
+"\n"
+"This workshop will show you how."
+msgstr ""
+"Dumela @fields.user_name! Tlokotsi e ka hlahela mang kapa mang- ho itokisetsa ho thusa haholo.\n"
+"\n"
+"Thupelo ena e tlo ho u thusa."
+
+#. type=template
+#. The string @fields.group_name should not be translated.
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! A crisis can happen to anyone - being prepared helps a lot. \n"
+"\n"
+"This workshop will show you how."
+msgstr ""
+"Dumela @fields.group_name! Mang kapa mang a ka hlahelwa ke tlokotsi - ho molemo haholo ho dula o itokisitse.\n"
+"\n"
+"Wekshopo ena e tla o bontsha tsela ya ho itokisa."
+
+#. type=template
 msgctxt "template"
 msgid ""
 "We never know when a crisis may happen, but we CAN be prepared! \n"
@@ -6180,6 +6248,17 @@ msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.
 msgstr "O se o tshwaile @global.parent_point @data.habit.instruct_positively.title hang – kahoo o hatela pele hantle."
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_point
+#.      @data.habit.instruct_positively.title
+#.      @fields.parent_point_count_instruct_positively
+msgctxt "template"
+msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title @fields.parent_point_count_instruct_positively times already  – so you’re making great progress."
+msgstr ""
+"O setse o tshwaile @global.parent_point @data.habit.instruct_positively.title\n"
+"@fields.parent_point_count_instruct_positively di nako - o hatela pele haholo."
+
+#. type=template
 msgctxt "template"
 msgid "Speak kindly to yourself about what a great job you are doing. There is no such thing as a perfect parent, and we think you’re doing great!"
 msgstr "Ipuise ka mosa ka mosebetsi o tswileng matsoho oo o o phethang. Ha ho na motswadi ya phethahetseng, empa re dumela hore o a ipabola!"
@@ -6195,6 +6274,34 @@ msgstr ""
 "Ho fana ka ditaelo tsa se lokelang ho etswa ho hlahisa boitshwaro bo botle bo eketsehileng!\n"
 "\n"
 "Phethela @local.workshop_data.in_text_title ho fumana ditsela tseo sena se ka sebetsang ka tsona ka lapeng la hao."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Congratulations for starting @global.parent_app week 4. \n"
+"\n"
+"This week’s workshop is about how to increase your chances of getting your teen to do what you ask them to do."
+msgstr ""
+"Dumela @fields.user_name! O sebeditse ka ho qala @global.parent_app beke ea 4.\n"
+"\n"
+"Thupelo ea bekeng ena e ka mabapi le mokhoa ea ho eketsa menyetla ea hau ea ho etsa hore mocha oa hao a etse seo o mo kopang hore a se etse."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Congratulations for starting @global.parent_app week 4. \n"
+"\n"
+"This week’s workshop is about how to increase your chances of getting your teen to do what you ask them to do."
+msgstr ""
+"Dumela @fields.group_name! O sebeditse ka ho qala @global.parent_app beke ea 4.\n"
+"\n"
+"Thupelo ea bekeng ena e ka mabapi le mokhoa ea ho eketsa menyetla ea hau ea ho etsa hore mocha oa hao a etse seo o mo kopang hore a se etse."
 
 #. type=template
 msgctxt "template"
@@ -7654,6 +7761,34 @@ msgstr ""
 "Pabatso ke moriana o moholo. \n"
 "\n"
 "Phethela @local.workshop_data.in_text_title mme o bone kamoo WENA o ka sebedisang pabatso kateng lelapeng la hao."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Congratulations for starting your third  @global.parent_app week. \n"
+"\n"
+"A new workshop awaits you! Can you guess the topic of the workshop from this picture?"
+msgstr ""
+"Dumela @fields.user_name! Tloholetso ka ho qala beke ea boraro ea @global.parent_app. \n"
+"\n"
+"O letetsoe ke thupelo e ncha! Na o ka hakanya sehlooho sa thupelo setshoantshong sena?"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Congratulations for starting your third  @global.parent_app week. \n"
+"\n"
+"A new workshop awaits you! Can you guess the topic of the workshop from this picture?"
+msgstr ""
+"Dumela @fields.group_name! Tloholetso ka ho qala beke ea boraro ea @global.parent_app. \n"
+"\n"
+"O letetsoe ke thupelo e ncha! Na o ka hakanya sehlooho sa thupelo setshoantshong sena?"
 
 #. type=template
 #. The following strings should not be translated: 
