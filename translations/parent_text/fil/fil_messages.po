@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Filipino\n"
 "\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2022-05-26 16:49\n"
+"PO-Revision-Date: 2022-05-26 22:48\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -6355,8 +6355,18 @@ msgstr "Ang tunog ng umiiyak na sanggol ay maaaring nakaka-stress, lalo na para 
 
 #. type=text
 msgctxt "text"
+msgid "Would you like to rejoin the ParentText programme?"
+msgstr "Gusto mo bang sumali ulit sa programa?"
+
+#. type=text
+msgctxt "text"
 msgid "Would you like to start from the beginning or start from where you last left the programme?"
 msgstr "Gusto mo bang magsimula sa umpisa o magsimula sa kung saan ka tumigil noong umalis ka sa programa?"
+
+#. type=text
+msgctxt "text"
+msgid "That is okay. If you ever want to return to the programme, type \"start_messages\". "
+msgstr "Okay lang ‘yan. Kung gusto mong bumalik sa programa, i-type ang \"MAGPADALA_NG MGA MENSAHE\". "
 
 #. type=text
 msgctxt "text"
@@ -16679,6 +16689,12 @@ msgstr "Suporta para sa COVID-19"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Substance abuse"
+msgstr "Substance abuse"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Not enough time"
 msgstr "Hindi sapat na oras"
 
@@ -18497,6 +18513,12 @@ msgstr "covid"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "substance abuse"
+msgstr "substance abuse"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "toolkit"
 msgstr "toolkit"
 
@@ -18559,6 +18581,12 @@ msgstr "kalusugan"
 msgctxt "arguments"
 msgid "natural"
 msgstr "natural"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "drug"
+msgstr "droga"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
