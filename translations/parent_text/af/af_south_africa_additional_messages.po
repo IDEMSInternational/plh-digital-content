@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2022-04-20 13:41\n"
+"PO-Revision-Date: 2022-05-26 16:12\n"
 
 #. type=text
 msgctxt "text"
@@ -185,6 +185,16 @@ msgstr "Lifeline (Berading): 0861 322 322"
 
 #. type=text
 msgctxt "text"
+msgid "Narcotics Anonymous SA. National 24-hour helpline: 083 900 MY NA (083 900 69 62) Website: www.na.org.za"
+msgstr "Narkotika Anoniem SA. Nasionale 24-uur Hulplyn: 083 900 MY NA (083 900 69 62) Webwerf: www.na.org.za"
+
+#. type=text
+msgctxt "text"
+msgid "Alcoholics Anonymous SA. National helpline: 0861 HELPAA (435 722) Website: https://www.aasouthafrica.org.za/"
+msgstr "Alkoholiste Anoniem SA. Nasionale Hulplyn: 0861 HELPAA (435 722) Webwerf: https://www.aasouthafrica.org.za/"
+
+#. type=text
+msgctxt "text"
 msgid "Trauma Centre for Survivors of Violence and Torture: 021 465 7373"
 msgstr "Traumasentrum vir Oorlewendes van Geweld en Marteling. Hulplyn: 021 465 7373"
 
@@ -265,6 +275,16 @@ msgstr "Ngiyaxolisa angizwa ukuthi uqonde ukuthini."
 
 #. type=text
 msgctxt "text"
+msgid "Would you like to rejoin the ParentText programme?"
+msgstr "Wil jy graag weer by die program aansluit?"
+
+#. type=text
+msgctxt "text"
+msgid "That is okay. If you ever want to return to the programme, type \"start_messages\". "
+msgstr "Dit is oukei. As jy ooit na die program wil terugkeer, tik \"BEGIN_BOODSKAPPE\". "
+
+#. type=text
+msgctxt "text"
 msgid "For example, “Dance like a rabbit”, “Dance like a chicken” or “Let’s dance with our knees and hips.”"
 msgstr "Byvoorbeeld, \"Dans soos 'n haas\", \"Dans soos 'n hoender\" of \"Kom ons dans met ons knieë en heupe\"."
 
@@ -277,6 +297,11 @@ msgstr "Skep 'n dansroetine op jou kinders se gunstelingliedjies."
 msgctxt "text"
 msgid "For example, “Dance like a rabbit”, “Dance like a chicken” or “Dance with just our knees and hips”."
 msgstr "Byvoorbeeld: \"Dans soos 'n haas\", \"Dans soos 'n hoender\" of \"Dans met net ons knieë en heupe\"."
+
+#. type=text
+msgctxt "text"
+msgid "Parent: “Thank you for helping me make lunch, Lonwabo” "
+msgstr "Ouer: \"Dankie dat jy gehelp het met middagete, Jan\" "
 
 #. type=text
 msgctxt "text"
@@ -352,11 +377,6 @@ msgstr "WhatsApp Ondersteuningslyn: 0600-123456"
 msgctxt "text"
 msgid "Parent: “Pule and Sabelo, come and help me prepare dinner. We are making your favourite dish!” "
 msgstr "Ouer: \"Petrie en Corniël, kom help my aandete maak. Ons maak julle gunsteling-kos!\" "
-
-#. type=text
-msgctxt "text"
-msgid "Parent: “Thank you for helping me make lunch, Lonwabo” "
-msgstr "Ouer: \"Dankie dat jy gehelp het met middagete, Jan\" "
 
 #. type=text
 msgctxt "text"
@@ -491,6 +511,12 @@ msgstr "Die towerkrag van drie."
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Substance abuse"
+msgstr "Middelmisbruik"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "U-Report"
 msgstr "U-Report"
 
@@ -547,6 +573,18 @@ msgstr "Xhosa"
 msgctxt "quick_replies"
 msgid "Zulu"
 msgstr "Zoeloe"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "substance abuse"
+msgstr "middelmisbruik"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "drug"
+msgstr "dwelm"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
