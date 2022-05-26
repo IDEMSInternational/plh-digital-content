@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Southern Sotho\n"
 "\n"
 "Language: st_ZA\n"
-"PO-Revision-Date: 2022-05-02 13:53\n"
+"PO-Revision-Date: 2022-05-26 16:12\n"
 
 #. type=text
 msgctxt "text"
@@ -185,6 +185,16 @@ msgstr "Lifeline (Counselling): 0861 322 322"
 
 #. type=text
 msgctxt "text"
+msgid "Narcotics Anonymous SA. National 24-hour helpline: 083 900 MY NA (083 900 69 62) Website: www.na.org.za"
+msgstr "Narcotics Anonymous SA. National 24-hour helpline: 083 900 MY NA (083 900 69 62) Website: www.na.org.za"
+
+#. type=text
+msgctxt "text"
+msgid "Alcoholics Anonymous SA. National helpline: 0861 HELPAA (435 722) Website: https://www.aasouthafrica.org.za/"
+msgstr "Alcoholics Anonymous SA. National helpline: 0861 HELPAA (435 722) Website: https://www.aasouthafrica.org.za/"
+
+#. type=text
+msgctxt "text"
 msgid "Trauma Centre for Survivors of Violence and Torture: 021 465 7373"
 msgstr "Trauma Centre for Survivors of Violence and Torture: 021 465 7373"
 
@@ -265,6 +275,16 @@ msgstr "Ngiyaxolisa angizwa ukuthi uqonde ukuthini."
 
 #. type=text
 msgctxt "text"
+msgid "Would you like to rejoin the ParentText programme?"
+msgstr "Na o ka thabela ho kenela lenaneo lena hape?"
+
+#. type=text
+msgctxt "text"
+msgid "That is okay. If you ever want to return to the programme, type \"start_messages\". "
+msgstr "Ho lokile! Haeba o tla ke o batle ho kgutlela lenaneo lena, ngola “QALA_MELAETSA”. "
+
+#. type=text
+msgctxt "text"
 msgid "For example, “Dance like a rabbit”, “Dance like a chicken” or “Let’s dance with our knees and hips.”"
 msgstr "Ka mohlala, “Tjeka jwaloka mmutla”, “Tjeka jwaloka kgoho” kapa “A re tjeke ka mangole le matheka.”"
 
@@ -277,6 +297,11 @@ msgstr "Qapa morethetho wa motjeko ka dipina tseo bana ba hao ba di ratang."
 msgctxt "text"
 msgid "For example, “Dance like a rabbit”, “Dance like a chicken” or “Dance with just our knees and hips”."
 msgstr "Ka mohlala, “Tjeka jwaloka mmutla”, “Tjeka jwaloka kgoho” kapa “Tjeka ka mangole le matheka”."
+
+#. type=text
+msgctxt "text"
+msgid "Parent: “Thank you for helping me make lunch, Lonwabo” "
+msgstr "Motswadi: “Kea leboha ka hore o nthuse ka dijo tsa motshehare, Thankiso” "
 
 #. type=text
 msgctxt "text"
@@ -352,11 +377,6 @@ msgstr "Mohala wa tshehetso wa Whatsapp: 0600-123456"
 msgctxt "text"
 msgid "Parent: “Pule and Sabelo, come and help me prepare dinner. We are making your favourite dish!” "
 msgstr "Motswadi: “Letlotlo le Lehakwe, tlong le tlo nthusa ho lokisa dijo. Re pheha dijo tseo le di ratang!” "
-
-#. type=text
-msgctxt "text"
-msgid "Parent: “Thank you for helping me make lunch, Lonwabo” "
-msgstr "Motswadi: “Kea leboha ka hore o nthuse ka dijo tsa motshehare, Thankiso” "
 
 #. type=text
 msgctxt "text"
@@ -491,6 +511,12 @@ msgstr "Matla a maholo a tharo."
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Substance abuse"
+msgstr "Tshebediso e mpe ya dithetefatsi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "U-Report"
 msgstr "U-Report"
 
@@ -547,6 +573,18 @@ msgstr "Sexhosa"
 msgctxt "quick_replies"
 msgid "Zulu"
 msgstr "Sezulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "substance abuse"
+msgstr "tshebediso e mpe ya dithetefatsi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "drug"
+msgstr "dithethefatsi"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
