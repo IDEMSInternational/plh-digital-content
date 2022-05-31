@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-05-31 10:50\n"
+"PO-Revision-Date: 2022-05-31 12:39\n"
 
 #. type=template
 msgctxt "template"
@@ -881,6 +881,16 @@ msgstr "Katiso ya Legae"
 msgctxt "template"
 msgid "Small actions, big results! Parents who practice their workshop skills at home get better results."
 msgstr "Ditiro tse dinnye, dipholo tse di kgolo! Batsadi bao ba dirisang botswerere jwa bone jwa di workshop ko gae ba nna le dipholo tse di botoka."
+
+#. type=template
+msgctxt "template"
+msgid "Hear a teen's testimonial"
+msgstr "Utlwa bosupi ba mosha"
+
+#. type=template
+msgctxt "template"
+msgid "Read a teen's testimonial"
+msgstr "Buisa bosupi ba mosha"
 
 #. type=template
 msgctxt "template"
@@ -2117,10 +2127,30 @@ msgid "Start"
 msgstr "Simolola"
 
 #. type=template
+msgctxt "template"
+msgid "Please sign in with your Google account to use the app."
+msgstr "Kopa o tsene mo go akhaonto ya Google go dirisa app."
+
+#. type=template
+msgctxt "template"
+msgid "Sign in with Google"
+msgstr "Tsena mo gare ka Google"
+
+#. type=template
 #. The string @global.my_activities should not be translated.
 msgctxt "template"
 msgid "Add this activity to @global.my_activities"
 msgstr "Tsenya tiro eno go @global.my_activities"
+
+#. type=template
+msgctxt "template"
+msgid "Bringing teenagers up is hard"
+msgstr "Go godisa basha go bioma"
+
+#. type=template
+msgctxt "template"
+msgid "You are the best parent your teen could have"
+msgstr "O motsadi wa mmakgonthe o mosha wa gago a ka nnang le ene"
 
 #. type=template
 msgctxt "template"
@@ -2997,6 +3027,16 @@ msgstr "BOKA"
 msgctxt "template"
 msgid "Thank your teen for sharing and highlight how it is helping you both."
 msgstr "Leboga mosha wa gago ka go arolelanela mme o tlhagise gore go le thusa jaang ka bobedi."
+
+#. type=template
+msgctxt "template"
+msgid "Hear a caregiver's testimonial"
+msgstr "Utlwa bosupi ba motlhokomedi"
+
+#. type=template
+msgctxt "template"
+msgid "Read a caregiver's testimonial"
+msgstr "Buisa bosupi ba motlhokomedi"
 
 #. type=template
 #. The string @local.workshop_data.title should not be translated.
@@ -4837,6 +4877,34 @@ msgid "Complete the workshop and try to discuss with your teen to come up with o
 msgstr "Feleletsa workshop mme o leke go buisana le mosha wa gago go tla ka e le nngwe ya ditlamorago tse di siameng le tse di sa siamang tsa boitshwaro lo le mmogo."
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Today we are celebrating two months of using @global.parent_app! \n"
+"\n"
+"You are doing great! This week’s workshop will help you know what to do when your teen is not following the household rules."
+msgstr ""
+"Dumela @fields.user_name! Gompieno re keteka kgwedi di le pedi tsa go dirisa @global.parent_app!\n"
+"\n"
+"O dira bontle! Tirelothuto ya beke eno e tlile go go thusa go itse se o ka se dirang fa mosha wa gago a sa latele melao ya fa gae."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Today we are celebrating two months of using @global.parent_app! \n"
+"\n"
+"You are doing great! This week’s workshop will help you know what to do when your teen is not following the household rules."
+msgstr ""
+"Dumela @fields.group_name! Gompieno re keteka kgwedi di le pedi tsa go dirisa @global.parent_app!\n"
+"\n"
+"O dira bontle! Tirelothuto ya beke eno e tlile go go thusa go itse se o ka se dirang fa mosha wa gago a sa latele melao ya fa gae."
+
+#. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
 msgid ""
@@ -5595,6 +5663,30 @@ msgstr ""
 "Go molemo gore o na le rona mo loetong leno la go nna motsadi! \n"
 "\n"
 "Feleletsa @local.workshop_data.in_text_title mme o ithute tsela e e molemo go tsiboga fa mosha wa gago a go tlhoka thata."
+
+#. type=template
+#. The string @fields.user_name should not be translated.
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! A crisis can happen to anyone - being prepared helps a lot. \n"
+"\n"
+"This workshop will show you how."
+msgstr ""
+"Dumela @fields.user_name! Dipharagobe di ka diragalela mongwe le mongwe - Go ipaakanya go thusa thata.\n"
+"\n"
+"Tirelothuto eno e tlile go go bontsha gore jaang."
+
+#. type=template
+#. The string @fields.group_name should not be translated.
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! A crisis can happen to anyone - being prepared helps a lot. \n"
+"\n"
+"This workshop will show you how."
+msgstr ""
+"Dumela @fields.group_name Dipharagobe di ka diragalela mongwe le mongwe - Go ipaakanya go thusa thata.\n"
+"\n"
+"Tirelothuto eno e tlile go go bontsha gore jaang."
 
 #. type=template
 msgctxt "template"
