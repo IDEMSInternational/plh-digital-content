@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-06-04 00:58\n"
+"PO-Revision-Date: 2022-06-08 16:29\n"
 
 #. type=template
 msgctxt "template"
@@ -10320,6 +10320,30 @@ msgstr ""
 "Feleletsa @local.workshop_data.in_text_title mme o iponele bokgoni jo bongwe jwa botlhokwa jwa go godisa bana!"
 
 #. type=template
+#. The string @fields.user_name should not be translated.
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! You are making such good progress on your parenting journey! \n"
+"\n"
+"Having a teen means having a lot of unexpected problems to deal with. This workshop will show you how to deal with them."
+msgstr ""
+"Dumela @fields.user_name! O dira tswelopele e ntle mo leetong la gago la batsadi!\n"
+"\n"
+"Go nna le mosha go raya go mekamekana le mathata a mantsi a a sa solofelegang. Tirelothuto eno e tlile go go bontsha tsela ya go mekamekana le ona."
+
+#. type=template
+#. The string @fields.group_name should not be translated.
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! You are making such good progress on your parenting journey!\n"
+"\n"
+"Having a teen means having a lot of unexpected problems to deal with. This workshop will show you all how to deal with them."
+msgstr ""
+"Dumela @fields.group_name! O dira tswelopele e ntle mo leetong la gago la batsadi!\n"
+"\n"
+"Go nna le mosha go raya go mekamekana le mathata a mantsi a a sa solofelegang. Tirelothuto eno e tlile go go bontsha tsela ya go mekamekana le ona."
+
+#. type=template
 msgctxt "template"
 msgid ""
 "With teenagers, and in life, unexpected problems come up and we have to deal with them. \n"
@@ -12065,6 +12089,22 @@ msgstr "ditsala"
 msgctxt "tour"
 msgid "Welcome to @global.parent_app"
 msgstr "O amogetswe mo @global.parent_app"
+
+#. type=tour
+#. The string <p>@global.parent_app should not be translated.
+msgctxt "tour"
+msgid ""
+"<p>You deserve to feel good, and have happier family relationships.</p>\n"
+"\n"
+"<p>@global.parent_app is here to support you.</p>\n"
+"\n"
+"<p>Here is how to use the app:</p>"
+msgstr ""
+"<p>O tshwanetse ke go ikutlwa o itumetse, mme o na le botsalano jwa boitumelo le ba lelapa.</p>\n"
+"\n"
+"<p>@global.parent_app e fano go go tshegetsa.</p>\n"
+"\n"
+"<p>Fano ke tsela ya dirisa app:</p>"
 
 #. type=tour
 #. The string @global.weekly_workshops should not be translated.
