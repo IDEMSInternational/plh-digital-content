@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-06-12 15:14\n"
+"PO-Revision-Date: 2022-06-12 21:11\n"
 
 #. type=template
 msgctxt "template"
@@ -12150,6 +12150,12 @@ msgstr ""
 "<p>Fano ke tsela ya dirisa app:</p>"
 
 #. type=tour
+#. The string @global.weekly_workshops. should not be translated.
+msgctxt "tour"
+msgid "<p>This big button takes you to your @global.weekly_workshops. </p>"
+msgstr "<p>Konopo e kgolo ena e go isa kwa @global.weekly_workshops. </p>"
+
+#. type=tour
 msgctxt "tour"
 msgid "<p> Each week you will unlock a new workshop focusing on a different parenting skill. </p>"
 msgstr "<p> Beke nngwe le nngwe o tlile go bula tirelothuto e ntšha e e tlileng go lebagana le bokgoni jo bo farologaneng jwa botsadi. </p>"
@@ -12158,6 +12164,49 @@ msgstr "<p> Beke nngwe le nngwe o tlile go bula tirelothuto e ntšha e e tlileng
 msgctxt "tour"
 msgid "<p>The round button appears when a new workshop is ready for you.</p>"
 msgstr "<p>Konopo eno e e kgolokwe e tlhagelela fa go na le tirelothuto e ntšha e e go letileng.</p>"
+
+#. type=tour
+#. The string @global.parent_point.</p> should not be translated.
+msgctxt "tour"
+msgid "<p>Each new parenting skill comes with a @global.parent_point.</p>"
+msgstr "<p> Bokgoni bo bongwe le bo bongwe bo bo ntšha ba botsadi bo tla le @global.parent_point.</p>"
+
+#. type=tour
+#. The string @global.parent_points should not be translated.
+msgctxt "tour"
+msgid "<p>Use @global.parent_points to celebrate your achievements!</p>"
+msgstr "<p>Dirisa @global.parent_points go keteka diphitlhelelo tsa gago!</p>"
+
+#. type=tour
+#. The following strings should not be translated: 
+#.      @global.parent_centre.</p>
+#.      @data.parent_centre.essential_tools.title
+#.      @global.weekly_workshops.</p>
+msgctxt "tour"
+msgid ""
+"<p>Find lots of helpful resources in the @global.parent_centre.</p>\n"
+"\n"
+"<p>You can get instant access to the @data.parent_centre.essential_tools.title from all @global.weekly_workshops.</p>"
+msgstr ""
+"<p>Bona didiriswa di le dintsi tse di thusang mo go @global.parent_centre.</p>\n"
+"\n"
+"<p>O ka bona tetlelelo ya tshoganyetso mo go @data.parent_centre.essential_tools.title go tswa go @global.weekly_workshops.</p>"
+
+#. type=tour
+msgctxt "tour"
+msgid ""
+"<p>Check out the extra relaxation and parenting activities!</p>\n"
+"\n"
+"<p>You can also get quick parenting tips and technical support.</p>"
+msgstr ""
+"<p>Tlhola ditirwana tse di okeditsweng tsa go itapolosa le botsadi!</p>\n"
+"\n"
+"<p>O ka kgona le go bona maele a botsadi ka potlako le tshegetso ya sethekeniki.</p>"
+
+#. type=tour
+msgctxt "tour"
+msgid "<p>Have a look around! Wherever you start, just the fact you are here shows you care.</p>"
+msgstr "<p>Leba tikologo ya gago! Gongwe le gonwe kwa o simololang, lebaka la gore o fano le bontsha gore wa kgathala.</p>"
 
 #. type=tour
 #. The string @global.weekly_workshops should not be translated.
@@ -13011,6 +13060,32 @@ msgid "How to do self-care"
 msgstr "Tsela ya go itlhokomela"
 
 #. type=data_list
+#. The string @global.parent_app, should not be translated.
+msgctxt "data_list"
+msgid ""
+"For me as a parent, it was almost impossible to find time for myself. I was always busy taking care of everyone else. Through @global.parent_app, I realised how important it is to take care of myself. It helps me AND my family! \n"
+"\n"
+"Having a moment for myself helps me to breathe and notice how I feel. Even 5 minutes to have a cup of tea makes a big difference. Now I can deal with my stress better."
+msgstr ""
+"Mo go nna jaaka motsadi, go batlile go sa kgonagale gore ke itirele nako ya me ke le mongwe. ke ne ke phela ke tlhokomela batho ba bangwe. Ka @global.parent_app, ke lemogile gore go botlhokwa jaang gore ke itlhokomele. E thusa nna le ba lelapa!\n"
+"\n"
+"Go itirela motsotswana go nthusa go hema mme ke lemoge gore ke ikutlwa jaang. Le metsotso e le metlhano ya go nwa tee e dira pharologanyo e kgolo. Jaanong ke kgona go mekamekana le mathata a me bokaone."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.parent_app
+msgctxt "data_list"
+msgid ""
+"My dad was always busy. He would come home from work and snap at us when we started asking him questions. \n"
+"\n"
+"@global.parent_app helped us a lot. We no longer fight. Now, when my dad comes home, he first sits down by himself for 5 minutes and then we do a relaxing activity from @global.parent_app together, so we can all take a deep breath and relax. Then we can chat about our day, about anything good or bad that happened. Everyone is so much happier now."
+msgstr ""
+"Rre wa me o ne a phela a tshwaregile. O ne a boa tirong mme a re omanye fa re mo botsisa dipotso.\n"
+"\n"
+"@global.parent_app e re thusitse thata.ga re sa lwa. Jaanong, fa rre a fitlha gae, o simolola ka go dula a le nosi metsotso e le 5 mme morago re dira dirwana ya go itapolosa go tswa go @global.parent_app mmogo, gore botlhe re hemele teng mme re repe. Morago re kgona go bua gore re tlhotse jaang,ka sengwe le sengwe se se bosula kgotsa molemo se se diragetseng. Rotlhe re itumetse thata jaanong."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "One-on-One Time"
 msgstr "Go Ipha Nako Mmogo"
@@ -13024,6 +13099,36 @@ msgstr "Workshop ya **Go ipha nako mmogo**"
 msgctxt "data_list"
 msgid "How to spend one-on-one time"
 msgstr "Tsela ya go ipha nako lo le mmogo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When I first heard I had to spend One-on-One Time with my teen, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my teen so that he thinks we have to do everything together. \n"
+"\n"
+"But I really wanted to build my relationship with my teen and I wanted him to open up about what was troubling him. So we tried the One-on-One Time. \n"
+"\n"
+"First, it felt weird, but it turned out to be fun! Now we watch his TV programme together and we chat about it. And we can even talk about how my son is changing into adolescence, and even about girlfriends and those things!"
+msgstr ""
+"Fa ke simolola go ultwa gore ke tshwanetse go nna le nako ya motho-ka-mongwe le mosha wa me, go ne go le thata. ke ne ke sa itse gore ke e dire leng mme ke bue ke reng. Ke ne ke sa batle go senya mosha wa me gore a nagane gore re tshwanetse go dira sengwe le sengwe mmogo.\n"
+"\n"
+"Fela ke ne ke batla go aga botsalano le mosha wa me mme ke ne ke batla a tlwaele go bua le nna ka dilo tse mo tshwenyang. Ke ka moo re lekileng nako ya motho-ka-mongwe.\n"
+"\n"
+"Lantha, go ne go sa tlwaelega, mme ga tswa go le monate. Jaanong re bogela mananeo a TV mmogo ebe re tlotle ka ona. Re bua le ka tsela e morwa wa me a fetogelang mo dingwageng tsa bosha, le ka makgarebe le dilo tse di ntseng jalo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When my mother asked to spend time with me, I thought “Maybe something is wrong, maybe she is sick”. But she said “No, I just want to spend time.” I was sceptical, but I accepted. \n"
+"\n"
+"She asked me what I like doing. It was strange and I was not comfortable, because she never ever spent time with me on my own. \n"
+"\n"
+"The more she kept on trying and we spent this time together, it felt really nice. She got to share her own childhood with me, things I never heard before. That helped me to also share what is going on in my life. We even talk about boyfriends and about problems I have. I know I can talk to my mother now."
+msgstr ""
+"Fa mme wa me a nkopa go fetsa nako le nna, ke naganne gore \" Gonwe go na le sengwe se se phoso, kgotsa ga a itekanela\". Mme o rile \" Nnyaa, ke batla fela go fetsa nako le wena.\"Ke ne ke belaela mme ka dumela.\n"
+"\n"
+"O ne a mpotsisa gore ke rata go dira eng. Go ne sa tlwaelega mme ke ne ke sa phuthologa, ka gore ga ise leseng a fetse nako le nna fela.\n"
+"\n"
+"Fa ntse a leka re mme re feletsa re fetsa nako mmogo, go ne go le monate tota. O ne a abelana ka kgolo ya gagwe le nna, dilo tse ke iseng ke di utlwe. Seo se thusitse gore ke kgone go abelana ka seo se diragalng mo botshelong ba me. Ebile re bua ka makau le mathata a ke kopanang le ona. Ke a itse gore nka bua le mme wa me jaanong."
 
 #. type=data_list
 msgctxt "data_list"
