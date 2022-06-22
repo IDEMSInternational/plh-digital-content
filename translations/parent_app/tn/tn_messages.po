@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-06-22 07:14\n"
+"PO-Revision-Date: 2022-06-22 13:11\n"
 
 #. type=template
 msgctxt "template"
@@ -13777,6 +13777,18 @@ msgid "Well done for completing the @data.workshop.w_consequence.in_text_title. 
 msgstr "Tiro e ntle go tlatsa @data.workshop.w_consequence.in_text_title. Tsena go tirelothuto e ntšhwa kamoso go go thusa go natefelwa le go ithuta bokgoni jo bo thusang!"
 
 #. type=data_list
+#. The string @data.workshop.w_consequence.in_text_title, should not be translated.
+msgctxt "data_list"
+msgid ""
+"Calm consequences help your teen follow rules. If you haven't finished  the @data.workshop.w_consequence.in_text_title, give it a go!\n"
+"\n"
+"Well done for showing so much commitment."
+msgstr ""
+"Ditlamorago tse di ritibetseng di thusa mosha wa gago go latela melao. Fa isi o fetse @data.workshop.w_consequence.in_text_title, e leke!\n"
+"\n"
+"Tiro e ntle go bontsha maikemisetso tota."
+
+#. type=data_list
 #. The string @fields.user_name! should not be translated.
 msgctxt "data_list"
 msgid ""
@@ -14227,6 +14239,12 @@ msgid "Have you talked with your teen about safety measures?"
 msgstr "A o setse o buile le mosha wa gago kaga ditsela tsa tshireletsego?"
 
 #. type=data_list
+#. The string @data.workshop.w_safe.in_text_title. should not be translated.
+msgctxt "data_list"
+msgid "Congratulations, you completed @data.workshop.w_safe.in_text_title. A new workshop is ready tomorrow to help your family deal with any situation – together you can do so much!"
+msgstr "Kakgolo, o tladitse @data.workshop.w_safe.in_text_title. Tirelothuto e ntšhwa e go letile kamoso go thusa lelapa la gago go mekamekana le seemo sengwe le sengwe - Mmogo lo ka dira go le gontsi!"
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @data.workshop.w_safe.in_text_title
 #.      @global.parent_app
@@ -14310,4 +14328,102 @@ msgstr ""
 "O mo tseleng ya nnete go rarabolola mathata le mosha wa gago!\n"
 "\n"
 "Tlatsa @data.workshop.w_solve.in_text_title go oketsa bokgoni jwa gago jwa botsadi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Practise the four steps of problem-solving with your teen. \n"
+" \n"
+"KNOW IT, SOLVE IT, TRY IT, TEST IT!"
+msgstr ""
+"Lekelela dikgato di le nne tsa go rarabolola mathata le mosha wa gago.\n"
+" \n"
+"A ITSE, A RARABOLOLE, E LEKE, E TLHATLHOBE!"
+
+#. type=data_list
+#. The string @data.workshop.w_solve.in_text_title. should not be translated.
+msgctxt "data_list"
+msgid "Great! You completed the @data.workshop.w_solve.in_text_title. Tomorrow, a new workshop is unlocked to help you keep your teen safe."
+msgstr "Bontle! O tladitse @data.workshop.w_solve.in_text_title. Kamoso, tirelothuto e ntšhwa e a notlologa go go thusa go tshola mosha wa gago a babalesegile."
+
+#. type=data_list
+#. The string @data.workshop.w_solve.in_text_title should not be translated.
+msgctxt "data_list"
+msgid ""
+"Access a new workshop tomorrow! \n"
+" \n"
+" By completing the @data.workshop.w_solve.in_text_title first, you'll know how to solve problems together."
+msgstr ""
+"Tsena go tirelothuto e ntšhwa kamoso!\n"
+"\n"
+"Ka go tlatsa @data.workshop.w_solve.in_text_title lantlha, O tlile go itse go rarabolola mathata mmogo."
+
+#. type=data_list
+#. The string @fields.user_name! should not be translated.
+msgctxt "data_list"
+msgid ""
+"Hi @fields.user_name! Congratulations for starting week 5.\n"
+"\n"
+"A new workshop awaits with tips on staying calm and in control when our teens drive us crazy."
+msgstr ""
+"Dumela @fields.user_name! Kakgolo ka go simolola beke ya 5.\n"
+"\n"
+"Tirelothuto e ntšhwa e go emetse ka dikgakololo tsa go nna o ritibetse ebile o laola fa basha ba re tlhakanya tlhogo."
+
+#. type=data_list
+#. The string @fields.group_name! should not be translated.
+msgctxt "data_list"
+msgid ""
+"Hi @fields.group_name! Congratulations for starting week 5.\n"
+"\n"
+"A new workshop awaits with tips on staying calm and in control when our teens drive us crazy."
+msgstr ""
+"Dumela @fields.group_name! Kakgolo ka go simolola beke ya 5.\n"
+"\n"
+"Tirelothuto e ntšhwa e go emetse ka dikgakololo tsa go nna o ritibetse ebile o laola fa basha ba re tlhakanya tlhogo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Manage anger and stress with this new workshop. It helps you take better care of yourself."
+msgstr "Laola kgalefo ya gago kgatelelo ya maikutlo ka tirelothuto e ntšhwa. E go thusa go itlhokomela botoka."
+
+#. type=data_list
+#. The string @data.workshop.w_stress.in_text_title should not be translated.
+msgctxt "data_list"
+msgid ""
+"Feeling overwhelmed? Deep breaths help. \n"
+"\n"
+"Complete the @data.workshop.w_stress.in_text_title to help you deal with stress."
+msgstr ""
+"A o ikutlwa o tlalelane? Go hemela kwa teng go a thusa.\n"
+"\n"
+"Tlatsa @data.workshop.w_stress.in_text_title go go thusa go mekamekana le kgatelelo ya maikutlo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feeling stressed this week? Try taking deep breaths before responding to your teen - it makes a big difference."
+msgstr "A o ikutlwa o na le kgatelelo ya maikutlo beke eno? Leka go hemela kwa teng pele o araba mosha wa gago - E dira pharologanyo e kgolo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Well done for taking a big breath before responding to your teen! Each time you take a pause, you take back control."
+msgstr "Tiro e ntle ka go hemela kwa teng pele o araba mosha wa gago! Nako nngwe le nngwe fa o ema go se kae, o boela o nna fa taolong."
+
+#. type=data_list
+#. The string @data.workshop.w_stress.in_text_title. should not be translated.
+msgctxt "data_list"
+msgid "Well done for completing the @data.workshop.w_stress.in_text_title. Tomorrow, access a new workshop to help you relax and build valuable skills!"
+msgstr "Tiro e ntle ka go tlatsa @data.workshop.w_stress.in_text_title. Kamoso, tsena go tirelothuto e ntšhwa go go thusa go itapolosa le go aga bokgoni jo bo nang le boleng!"
+
+#. type=data_list
+#. The string @data.workshop.w_stress.in_text_title should not be translated.
+msgctxt "data_list"
+msgid ""
+"Get ready for a new workshop tomorrow. \n"
+" \n"
+" By completing the @data.workshop.w_stress.in_text_title first, you lay a key foundation: If you feel good, your family will too!"
+msgstr ""
+"Itukisetse tirelothuto e ntšhwa kamoso.\n"
+"\n"
+"ka go tlatsa @data.workshop.w_stress.in_text_title lantlha, o baya motheo o botlhokwa: fa o ikutlwa sentle, le lelapa la gago le tlile go dira jalo!"
 
