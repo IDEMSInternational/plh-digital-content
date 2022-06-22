@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-06-21 21:50\n"
+"PO-Revision-Date: 2022-06-22 07:14\n"
 
 #. type=template
 msgctxt "template"
@@ -14227,6 +14227,20 @@ msgid "Have you talked with your teen about safety measures?"
 msgstr "A o setse o buile le mosha wa gago kaga ditsela tsa tshireletsego?"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.workshop.w_safe.in_text_title
+#.      @global.parent_app
+msgctxt "data_list"
+msgid ""
+"Finish the @data.workshop.w_safe.in_text_title before moving on. This can prevent many problems. \n"
+"\n"
+"Well done for using @global.parent_app to support your family."
+msgstr ""
+"Fetsa @data.workshop.w_safe.in_text_title pele o tswela pele. Seno se ka thibela mathata a le mantsi.\n"
+"\n"
+"Tiro e ntle go dirisa @global.parent_app go tshegetsa lelapa la gago."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "This week is about YOU! Treat yourself well. You deserve it!"
 msgstr "Beke eno ke ya GAGO. Itshware sentle. Seo se go tshwanetse!"
@@ -14284,4 +14298,16 @@ msgstr ""
 "Mathata a a sa solofelwang a tlhagelela fa re na le basha.\n"
 "\n"
 "Ithute tsela ya go buisana ka ona mo tirelothuto e e lateng."
+
+#. type=data_list
+#. The string @data.workshop.w_solve.in_text_title should not be translated.
+msgctxt "data_list"
+msgid ""
+"You are on the right track to solving problems with your teen! \n"
+"\n"
+"Complete the @data.workshop.w_solve.in_text_title to gain another parenting skill."
+msgstr ""
+"O mo tseleng ya nnete go rarabolola mathata le mosha wa gago!\n"
+"\n"
+"Tlatsa @data.workshop.w_solve.in_text_title go oketsa bokgoni jwa gago jwa botsadi."
 
