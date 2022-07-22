@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Filipino\n"
 "\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2022-07-20 15:10\n"
+"PO-Revision-Date: 2022-07-22 15:25\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -111,8 +111,8 @@ msgstr "Payo para sa pagkontrol sa galit"
 
 #. type=text
 msgctxt "text"
-msgid "Hello! We would like to invite you to participate in an interview about your MaPaText experience. We would like to know the facilitators and barriers to program engagement and we invite people of varying levels of engagement in the program to this interview. The 15 persons who say yes to our invitation will receive a load of P300 after the interview."
-msgstr "Hello! Iniimbitahan ka naming sumali sa isang interview tungkol sa iyong karanasan sa MaPaText. Gusto naming alamin ang mga nakatulong at balakid sa paggamit ng programa at nag-iimbita kami ng mga indibidwal na iba't iba ang lebel ng pagiging active sa paggamit nito. Makakatanggap ang 15 na tao na aming kakausapin ng P300 load pagkatapos ng interview."
+msgid "Hello! We would like to invite you to participate in an interview about your MaPaText experience. The 15 persons who say yes to our invitation will receive a load of P300 after the interview."
+msgstr "Hello! Iniimbitahan ka naming sumali sa isang interview tungkol sa iyong karanasan sa MaPaText. Makakatanggap ang 15 na tao na aming kakausapin ng P300 load pagkatapos ng interview."
 
 #. type=text
 msgctxt "text"
@@ -1041,6 +1041,18 @@ msgstr "CPU o iba pang NGO"
 msgctxt "quick_replies"
 msgid "Someone I know"
 msgstr "Sa kakilala o kamag-anak ko"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y 1"
+msgstr "oo y o 1"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n 0"
+msgstr "hindi n h 0"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
