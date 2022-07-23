@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-07-22 13:55\n"
+"PO-Revision-Date: 2022-07-23 10:53\n"
 
 #. type=template
 msgctxt "template"
@@ -2131,6 +2131,17 @@ msgid "Add this activity to @global.my_activities"
 msgstr "Ongeza shughuli hii kwenye @global.my_activities"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "@global.parent_app funded by"
+msgstr "@global.parent_app imefadhiliwa na"
+
+#. type=template
+msgctxt "template"
+msgid "Powered by Parenting for Lifelong Health and partners"
+msgstr "Imewezeshwa na Malezi kwa Maisha Marefu yenye Afya na wadau"
+
+#. type=template
 msgctxt "template"
 msgid "Bringing teenagers up is hard"
 msgstr "Kuwakuza vijana ni kazi ngumu"
@@ -2142,19 +2153,8 @@ msgstr "Wewe ni mzazi bora sana ambaye kijana wako anaye"
 
 #. type=template
 msgctxt "template"
-msgid "Join the 152.4 million parents who have used our resources"
-msgstr "Ungana na wazazi milioni 152.4 ambao wametumia rasilimali zetu"
-
-#. type=template
-msgctxt "template"
-msgid "Powered by Parenting for Lifelong Health and partners"
-msgstr "Imewezeshwa na Malezi kwa Maisha Marefu yenye Afya na wadau"
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "@global.parent_app funded by"
-msgstr "@global.parent_app imefadhiliwa na"
+msgid "Join the 210 million parents who have used our resources"
+msgstr "Ungana na wazazi milioni 210 ambao wametumia rasilimali zetu"
 
 #. type=template
 msgctxt "template"
@@ -11838,17 +11838,16 @@ msgstr "<p>Tumia @global.parent_points kusherekea mafanikio yako!</p>"
 #. type=tour
 #. The following strings should not be translated: 
 #.      @global.parent_centre.</p>
-#.      @data.parent_centre.essential_tools.title
 #.      @global.weekly_workshops.</p>
 msgctxt "tour"
 msgid ""
 "<p>Find lots of helpful resources in the @global.parent_centre.</p>\n"
 "\n"
-"<p>You can get instant access to the @data.parent_centre.essential_tools.title from all @global.weekly_workshops.</p>"
+"<p>You can get instant access to the Essential Tools from all @global.weekly_workshops.</p>"
 msgstr ""
 "<p> Pata rasilimali nyingi za kukusaidia katika @global.parent_centre.</p>\n"
 "\n"
-"<p> Unaweza kupata uwezo wa papo kwa papo kupata @data.parent_centre.essential_tools.title kutoka katika @global.weekly_workshops.</p> zote"
+"<p> Unaweza kupata uwezo wa papo kwa papo kupata Nyenzo Muhimu kutoka katika @global.weekly_workshops.</p>"
 
 #. type=tour
 msgctxt "tour"
