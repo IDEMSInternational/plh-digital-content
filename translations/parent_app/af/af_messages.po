@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2022-06-22 22:09\n"
+"PO-Revision-Date: 2022-07-23 10:50\n"
 
 #. type=template
 msgctxt "template"
@@ -2109,6 +2109,17 @@ msgid "Add this activity to @global.my_activities"
 msgstr "Voeg hierdie aktiwiteit by @global.my_activities"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "@global.parent_app funded by"
+msgstr "@global.parent_app befonds deur"
+
+#. type=template
+msgctxt "template"
+msgid "Powered by Parenting for Lifelong Health and partners"
+msgstr "Gerugsteun deur Parenting for Lifelong Health en vennote"
+
+#. type=template
 msgctxt "template"
 msgid "Bringing teenagers up is hard"
 msgstr "Om tieners groot te maak, is moeilik"
@@ -2117,22 +2128,6 @@ msgstr "Om tieners groot te maak, is moeilik"
 msgctxt "template"
 msgid "You are the best parent your teen could have"
 msgstr "Jy is die beste ouer wat jou tiener kon hê"
-
-#. type=template
-msgctxt "template"
-msgid "Join the 152.4 million parents who have used our resources"
-msgstr "Sluit aan by die 152,4 miljoen ouers wat reeds ons hulpbronne gebruik het"
-
-#. type=template
-msgctxt "template"
-msgid "Powered by Parenting for Lifelong Health and partners"
-msgstr "Gerugsteun deur Parenting for Lifelong Health en vennote"
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "@global.parent_app funded by"
-msgstr "@global.parent_app befonds deur"
 
 #. type=template
 msgctxt "template"
@@ -11780,21 +11775,6 @@ msgstr "<p>Elke nuwe ouerskapsvaardigheid kom met 'n @global.parent_point.</p>"
 msgctxt "tour"
 msgid "<p>Use @global.parent_points to celebrate your achievements!</p>"
 msgstr "<p>Gebruik @global.parent_points om jou prestasies te vier!</p>"
-
-#. type=tour
-#. The following strings should not be translated: 
-#.      @global.parent_centre.</p>
-#.      @data.parent_centre.essential_tools.title
-#.      @global.weekly_workshops.</p>
-msgctxt "tour"
-msgid ""
-"<p>Find lots of helpful resources in the @global.parent_centre.</p>\n"
-"\n"
-"<p>You can get instant access to the @data.parent_centre.essential_tools.title from all @global.weekly_workshops.</p>"
-msgstr ""
-"<p>Vind talle nuttige hulpbronne in die @global.parent_centre.</p>\n"
-"\n"
-"<p>Jy kan onmiddellike toegang tot die @data.parent_centre.essential_tools.title verkry vanaf al die @global.weekly_workshops.</p>"
 
 #. type=tour
 msgctxt "tour"
