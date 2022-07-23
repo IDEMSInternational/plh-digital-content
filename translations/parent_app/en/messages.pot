@@ -3,6 +3,35 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.terms_and_conditions
+#.      @global.privacy_policy
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n"
+"1. This is, and will always be, a fully free app.\n"
+"2. Your data will never be sold. We are not for profit.\n"
+"3. By using the app you are helping to make the app better for you and others.\n"
+"4. Your anonymised data may be used for research purposes by our @global.parent_app team."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "These policies are still under construction. We value advice and input to improve them."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "I consent to the commitments stated above."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You can only move on and access the app if you provide your consent."
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid ""
 "* Ask each other, “What made you happy today?”\n"
@@ -896,6 +925,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "By selecting this organisation you are allowing them to have access to your anonymous usage data so that they can support you on this journey."
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "I found it myself"
 msgstr ""
 
@@ -1748,6 +1782,17 @@ msgid "Add this activity to @global.my_activities"
 msgstr ""
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "@global.parent_app funded by"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Powered by Parenting for Lifelong Health and partners"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Bringing teenagers up is hard"
 msgstr ""
@@ -1759,18 +1804,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Join the 152.4 million parents who have used our resources"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Powered by Parenting for Lifelong Health and partners"
-msgstr ""
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "@global.parent_app funded by"
+msgid "Join the 210 million parents who have used our resources"
 msgstr ""
 
 #. type=template
@@ -10083,13 +10117,12 @@ msgstr ""
 #. type=tour
 #. The following strings should not be translated: 
 #.      @global.parent_centre.</p>
-#.      @data.parent_centre.essential_tools.title
 #.      @global.weekly_workshops.</p>
 msgctxt "tour"
 msgid ""
 "<p>Find lots of helpful resources in the @global.parent_centre.</p>\n"
 "\n"
-"<p>You can get instant access to the @data.parent_centre.essential_tools.title from all @global.weekly_workshops.</p>"
+"<p>You can get instant access to the Essential Tools from all @global.weekly_workshops.</p>"
 msgstr ""
 
 #. type=tour
