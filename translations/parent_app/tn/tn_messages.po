@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-06-22 16:06\n"
+"PO-Revision-Date: 2022-07-23 10:50\n"
 
 #. type=template
 msgctxt "template"
@@ -2109,6 +2109,17 @@ msgid "Add this activity to @global.my_activities"
 msgstr "Tsenya tiro eno go @global.my_activities"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "@global.parent_app funded by"
+msgstr "@global.parent_app e tlametswe ka madi ke"
+
+#. type=template
+msgctxt "template"
+msgid "Powered by Parenting for Lifelong Health and partners"
+msgstr "E Matlafadiwa ke Botsadi jwa Boitekanelo jwa Botshelo jo bo Leele le balekane"
+
+#. type=template
 msgctxt "template"
 msgid "Bringing teenagers up is hard"
 msgstr "Go godisa basha go bioma"
@@ -2117,22 +2128,6 @@ msgstr "Go godisa basha go bioma"
 msgctxt "template"
 msgid "You are the best parent your teen could have"
 msgstr "O motsadi wa mmakgonthe o mosha wa gago a ka nnang le ene"
-
-#. type=template
-msgctxt "template"
-msgid "Join the 152.4 million parents who have used our resources"
-msgstr "Ikopanye le dimilione di le 152.4 tsa batsadi ba ba dirisitseng didiriswa tsa rona"
-
-#. type=template
-msgctxt "template"
-msgid "Powered by Parenting for Lifelong Health and partners"
-msgstr "E Matlafadiwa ke Botsadi jwa Boitekanelo jwa Botshelo jo bo Leele le balekane"
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "@global.parent_app funded by"
-msgstr "@global.parent_app e tlametswe ka madi ke"
 
 #. type=template
 msgctxt "template"
@@ -11782,21 +11777,6 @@ msgstr "<p> Bokgoni bo bongwe le bo bongwe bo bo ntšha ba botsadi bo tla le @gl
 msgctxt "tour"
 msgid "<p>Use @global.parent_points to celebrate your achievements!</p>"
 msgstr "<p>Dirisa @global.parent_points go keteka diphitlhelelo tsa gago!</p>"
-
-#. type=tour
-#. The following strings should not be translated: 
-#.      @global.parent_centre.</p>
-#.      @data.parent_centre.essential_tools.title
-#.      @global.weekly_workshops.</p>
-msgctxt "tour"
-msgid ""
-"<p>Find lots of helpful resources in the @global.parent_centre.</p>\n"
-"\n"
-"<p>You can get instant access to the @data.parent_centre.essential_tools.title from all @global.weekly_workshops.</p>"
-msgstr ""
-"<p>Bona didiriswa di le dintsi tse di thusang mo go @global.parent_centre.</p>\n"
-"\n"
-"<p>O ka bona tetlelelo ya tshoganyetso mo go @data.parent_centre.essential_tools.title go tswa go @global.weekly_workshops.</p>"
 
 #. type=tour
 msgctxt "tour"
