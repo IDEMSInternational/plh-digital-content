@@ -383,6 +383,17 @@ msgid "Hi! It's been a while since you last replied. We hope you are OK?! Would 
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Hi! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again?"
+msgstr ""
+
+#. type=text
 msgctxt "text"
 msgid "Hi! We would love to hear how you are doing! Please reply OK to continue."
 msgstr ""
