@@ -11,7 +11,41 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2022-06-22 16:06\n"
+"PO-Revision-Date: 2022-08-11 14:07\n"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.terms_and_conditions
+#.      @global.privacy_policy
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n"
+"1. This is, and will always be, a fully free app.\n"
+"2. Your data will never be sold. We are not for profit.\n"
+"3. By using the app you are helping to make the app better for you and others.\n"
+"4. Your anonymised data may be used for research purposes by our @global.parent_app team."
+msgstr ""
+"Ngokubonelela ngemvume yakho ngezantsi uyavuma ukufunda kunye nokwamkela i-@global.terms_and_conditions kunye @global.privacy_policy. Ezona zibophelelo zibalulekileyo zezi:\n"
+"1. Le, kwaye iya kuhlala iyiyo, iapp esimahla ngokupheleleyo.\n"
+"2. Idatha yakho ayinakuze ithengiswe. Asiyonzuzo.\n"
+"3. Ngokusebenzisa i-app unceda ukwenza usetyenziso lubengcono kuwe nakwabanye.\n"
+"4. Idatha yakho engaziwa ingasetyenziselwa iinjongo zophando liqela lethu le-@global.parent_app."
+
+#. type=template
+msgctxt "template"
+msgid "These policies are still under construction. We value advice and input to improve them."
+msgstr "Le migaqo-nkqubo isakhiwa. Siyalixabisa icebiso kunye negalelo lokuziphucula."
+
+#. type=template
+msgctxt "template"
+msgid "I consent to the commitments stated above."
+msgstr "Ndiyavumelana nezibophelelo ezichazwe ngasentla."
+
+#. type=template
+msgctxt "template"
+msgid "You can only move on and access the app if you provide your consent."
+msgstr "Ungaqhubela phambili kwaye ufikelele kwi-app ukuba unikezela ngemvume yakho."
 
 #. type=template
 msgctxt "template"
@@ -383,6 +417,12 @@ msgid "Template"
 msgstr "Itemplethi"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "How to use @global.parent_app"
+msgstr "Uyisebenzisa njani i @global.parent_app"
+
+#. type=template
 msgctxt "template"
 msgid "In-Week Messages"
 msgstr "Imiyalezo Yeveki"
@@ -513,6 +553,11 @@ msgstr "Cela uncedo"
 
 #. type=template
 msgctxt "template"
+msgid "Say goodbye"
+msgstr "Yithi Bhayi-Bhayi"
+
+#. type=template
+msgctxt "template"
 msgid ""
 "- Ask someone you trust for help - food or childcare can be useful. You may need documents for inheritance, for your children, or to access services.\n"
 "- Sometimes people try to take money or inheritance from a grieving person. Find out about your rights."
@@ -541,6 +586,11 @@ msgstr ""
 msgctxt "template"
 msgid "Losing a friend or loved one is hard for everyone. Being kind to yourself and doing things to help yourself cope in this difficult time helps your teen too!"
 msgstr "Ukulahlekelwa ngumhlobo okanye othandekayo kunzima kumntu wonke. Ukuba nobubele kuwe kunye nokwenza izinto zokuzinceda uhlangabezane neli xesha linzima kunceda nomntwana wakho ofikisayo!"
+
+#. type=template
+msgctxt "template"
+msgid "Take care of yourself"
+msgstr "Zikhathalele"
 
 #. type=template
 msgctxt "template"
@@ -583,6 +633,16 @@ msgstr "Abantwana abafikisayo bajongana nelahleko ngeendlela ezahlukeneyo, njeng
 msgctxt "template"
 msgid "Be honest"
 msgstr "Nyaniseka"
+
+#. type=template
+msgctxt "template"
+msgid "My teen's response"
+msgstr "Impendulo yomntwana wam ofikisayo"
+
+#. type=template
+msgctxt "template"
+msgid "How to support my teen?"
+msgstr "Ndimxhasa njani umntwana wam ofikisayo?"
 
 #. type=template
 msgctxt "template"
@@ -630,6 +690,17 @@ msgstr ""
 "- Ukuchitha imizuzu embalwa yonke imihla ugxile kumntwana wakho ofikisayo kunceda ukumenza azive ekhuselekile kwaye umnike ithuba lokuphumla okanye ukuthetha ngezinto ezimkhathazayo."
 
 #. type=template
+#. The string @local.parent_point_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "We noticed you tapped the @local.parent_point_data.in_text_title - great job for remembering!"
+msgstr "Siqaphele ukuba ucofe i-@local.parent_point_data.in_text_title - umsebenzi omhle wokukhumbula!"
+
+#. type=template
+msgctxt "template"
+msgid "Did you have a chance to do this?"
+msgstr "Ingaba unalo ithuba lokwenza lento?"
+
+#. type=template
 msgctxt "template"
 msgid "How did it go?"
 msgstr "Luhambe njani?"
@@ -654,6 +725,14 @@ msgstr "Cofa unxa-ntathu ukuze ukwazi ukugcina le ncoko ku-@local.timer_duration
 msgctxt "template"
 msgid "Video"
 msgstr "Ividiyo"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.relevant_content_title
+#.      @data.parent_centre.my_tips.title
+msgctxt "template"
+msgid "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
+msgstr "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
 
 #. type=template
 #. The string @local.threshold should not be translated.
@@ -795,6 +874,11 @@ msgstr "Ulugqibile uqeqesho lwale veki."
 
 #. type=template
 msgctxt "template"
+msgid "Read along"
+msgstr "Funda kunye"
+
+#. type=template
+msgctxt "template"
 msgid "See you soon."
 msgstr "Masiphinde sikubone kungekudala."
 
@@ -818,6 +902,16 @@ msgstr "Uqheliselo Lwasekhaya"
 msgctxt "template"
 msgid "Small actions, big results! Parents who practice their workshop skills at home get better results."
 msgstr "Izenzo ezincinane, iziphumo ezinkulu! Abazali abaqhelisela izakhono zabo zoqeqesho xa besekhaya bafumana iziphumo ezigcono."
+
+#. type=template
+msgctxt "template"
+msgid "Hear a teen's testimonial"
+msgstr "Mamela ubungqina bomntwana ofikisayo"
+
+#. type=template
+msgctxt "template"
+msgid "Read a teen's testimonial"
+msgstr "Funda ubungqina bomntwana ofikisayo"
 
 #. type=template
 msgctxt "template"
@@ -1016,6 +1110,11 @@ msgstr "Uve njani malunga ne @global.parent_app?"
 msgctxt "template"
 msgid "Other"
 msgstr "Enye indlela"
+
+#. type=template
+msgctxt "template"
+msgid "By selecting this organisation you are allowing them to have access to your anonymous usage data so that they can support you on this journey."
+msgstr "Ngokukhetha lo mbutho ubavumela ukuba bafikelele kwi-datha yakho yokusetyenziswa engaziwa ukuze bakwazi ukukuxhasa kolu hambo."
 
 #. type=template
 msgctxt "template"
@@ -1352,6 +1451,12 @@ msgstr "Ngaba uhlangabezana neengxaki zobuxhakaxhaka? Sazise kwaye uncedise ekwe
 msgctxt "template"
 msgid "Type your name (optional)"
 msgstr "Bhala igama lakho (akunyanzelekanga)"
+
+#. type=template
+#. The string @global.whatsapp should not be translated.
+msgctxt "template"
+msgid "Contact me on @global.whatsapp"
+msgstr "Qagamshelana nam ku @global.whatsapp"
 
 #. type=template
 msgctxt "template"
@@ -2043,15 +2148,46 @@ msgid "Start"
 msgstr "Qala"
 
 #. type=template
+msgctxt "template"
+msgid "Please sign in with your Google account to use the app."
+msgstr "Nceda ungene nge-akhawunti yakho kaGoogle ukusebenzisa iapp."
+
+#. type=template
+msgctxt "template"
+msgid "Sign in with Google"
+msgstr "Sayina ngoGoogle"
+
+#. type=template
 #. The string @global.my_activities should not be translated.
 msgctxt "template"
 msgid "Add this activity to @global.my_activities"
 msgstr "Yongeza lo msebenzi kwi-@global.my_activities"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "@global.parent_app funded by"
+msgstr "@global.parent_app ixhaswa ngu"
+
+#. type=template
 msgctxt "template"
 msgid "Powered by Parenting for Lifelong Health and partners"
 msgstr "Ixhaswa yi-Parenting for Lifelong Health kunye namaqabane ayo"
+
+#. type=template
+msgctxt "template"
+msgid "Bringing teenagers up is hard"
+msgstr "Ukukhulisa abantwana abafikisayo kunzima"
+
+#. type=template
+msgctxt "template"
+msgid "You are the best parent your teen could have"
+msgstr "Ungoyena mzali umntwana wakho ofikisayo anokuba naye"
+
+#. type=template
+msgctxt "template"
+msgid "Join the 210 million parents who have used our resources"
+msgstr "Joyina abazali abazizigidi ezingama-210 abasebenzise izixhobo zethu"
 
 #. type=template
 msgctxt "template"
@@ -2135,6 +2271,20 @@ msgstr ""
 msgctxt "template"
 msgid "Remember you can access lots of helpful tips and resources in the @global.parent_centre - this is available for you at any time!"
 msgstr "Khumbula ukuba unokufikelela kwiingcebiso ezininzi eziluncedo kunye nezinto onokuzisebenzisa kwi @global.parent_centre - oku ungakufumana nanini na!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid ""
+"Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you!\n"
+"\n"
+"Remember, you can find focused tools, extra content and resources on this in the @global.parent_centre at any time. You can also review core tips on safety planning under @data.parent_centre.my_tips.location_text."
+msgstr ""
+"Ukuba ngumzali akukho lula. Kunokuba nzima ukwazi indlela yokugcina ulutsha lwethu lukhuselekile. Sihlala siziva singenamandla njengabazali kule nto, kodwa silapha ukukuxhasa!\n"
+"\n"
+"Khumbula, ungafumana izixhobo ezigqalileyo, umxholo owongezelelweyo kunye nezibonelelo kule @global.parent_centre nangaliphi na ixesha. Ungaphinda ujonge iingcebiso ezingundoqo kucwangciso lokhuseleko phantsi kwe-@data.parent_centre.my_tips.location_text."
 
 #. type=template
 #. The string @data.workshop.w_safe.in_text_title should not be translated.
@@ -2383,6 +2533,20 @@ msgid "Content unlocked by these questions is now accessible under @data.parent_
 msgstr "Ikhontenti evulwa yile mibuzo uyafumaneka ngoku phantsi kwe@data.parent_centre.my_tips.location_text."
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid ""
+"Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! You can get focused tools, extra content and resources on this in the @global.parent_centre at any time. \n"
+"\n"
+"You can already access some first core tips which will help with safety planning under @data.parent_centre.my_tips.location_text."
+msgstr ""
+"Ukuba ngumzali akukho lula. Kunokuba nzima ukwazi indlela yokugcina ulutsha lwethu lukhuselekile. Sihlala siziva singenamandla njengabazali kule nto, kodwa silapha ukukuxhasa! Ungafumana izixhobo ezigxininisiweyo, umxholo owongezelelweyo kunye nezibonelelo kule @global.parent_centre nangaliphi na ixesha.\n"
+"\n"
+"Unako ukufikelela kwiingcebiso zokuqala ezingundoqo eziza kunceda kucwangciso lokhuseleko phantsi kwe-@data.parent_centre.my_tips.location_text."
+
+#. type=template
 #. The string @global.weekly_workshops should not be translated.
 msgctxt "template"
 msgid ""
@@ -2609,6 +2773,16 @@ msgstr "NCOMA"
 msgctxt "template"
 msgid "Thank your teen for sharing and highlight how it is helping you both."
 msgstr "Bulela umntwana wakho ofikisayo ngokwabelana kwaye uqaqambise indlela eninceda ngayo nobabini."
+
+#. type=template
+msgctxt "template"
+msgid "Hear a caregiver's testimonial"
+msgstr "Mamela ubungqina bomnakekeli"
+
+#. type=template
+msgctxt "template"
+msgid "Read a caregiver's testimonial"
+msgstr "Funda ubungqina bomnakekeli"
 
 #. type=template
 #. The string @local.workshop_data.title should not be translated.
@@ -4438,6 +4612,34 @@ msgid "Complete the workshop and try to discuss with your teen to come up with o
 msgstr "Gqiba uqeqesho uze uzame ukuncokola kunye nomntwana wakho ofikisayo ukuze nithethe ngomphumo omnye okhuthazayo nomphumo omnye ongathandekiyo xa enze into."
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Today we are celebrating two months of using @global.parent_app! \n"
+"\n"
+"You are doing great! This week’s workshop will help you know what to do when your teen is not following the household rules."
+msgstr ""
+"Molo @fields.user_name! Namhlanje sibhiyozela iinyanga ezimbini sisebenzisa @global.parent_app!\n"
+"\n"
+"Wenza kakuhle! Inkqubo yale veki iza kukunceda ukwazi ukuba wenze ntoni xa umntwana wakho ofikisayo engayilandeli imithetho yekhaya."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Today we are celebrating two months of using @global.parent_app! \n"
+"\n"
+"You are doing great! This week’s workshop will help you know what to do when your teen is not following the household rules."
+msgstr ""
+"Molo @fields.group_name! Namhlanje sibhiyozela iinyanga ezimbini sisebenzisa @global.parent_app!\n"
+"\n"
+"Wenza kakuhle! Inkqubo yale veki iza kukunceda ukwazi ukuba wenze ntoni xa umntwana wakho ofikisayo engayilandeli imithetho yekhaya."
+
+#. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
 msgid ""
@@ -4460,6 +4662,12 @@ msgstr ""
 "Kubonakala ngathi awukayigqibi i-@local.workshop_data.in_text_title. Imiphumo yokuzola imnceda nyhani umntwana wakho ofikisayo ukuba ayilandele kakuhle imithetho – khawukhe ukuzame ngaphambi kokuba uqhubeke!\n"
 "\n"
 "Wenze kakuhle ngokubonisa ukuzinikela kwakho kusapho lwakho."
+
+#. type=template
+#. The string @local.workshop_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "Well done for completing the @local.workshop_data.in_text_title. Tomorrow, you can access a new workshop to help you relax, enjoy and learn useful skills!"
+msgstr "Wenze kakuhle ngokugqibezela i-@local.workshop_data.in_text_title. Ngomso, unokufikelela kwinkqubo entsha ukukunceda uphumle, wonwabe kwaye ufunde izakhono eziluncedo!"
 
 #. type=template
 msgctxt "template"
@@ -5192,6 +5400,30 @@ msgstr ""
 "Gqiba i-@local.workshop_data.in_text_title uze ufunde ngeyona ndlela yokusabela xa umntwana wakho ofikisayo ekufuna kakhulu."
 
 #. type=template
+#. The string @fields.user_name should not be translated.
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! A crisis can happen to anyone - being prepared helps a lot. \n"
+"\n"
+"This workshop will show you how."
+msgstr ""
+"Molo @fields.user_name! Ingxaki inokwenzeka nakubani na – ukuzilungiselela kunceda kakhulu.\n"
+"\n"
+"Le nkqubo iya kukubonisa ukuba njani."
+
+#. type=template
+#. The string @fields.group_name should not be translated.
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! A crisis can happen to anyone - being prepared helps a lot. \n"
+"\n"
+"This workshop will show you how."
+msgstr ""
+"Molo @fields.user_name! Ingxaki inokwenzeka nakubani na – ukuzilungiselela kunceda kakhulu.\n"
+"\n"
+"Le nkqubo iya kukubonisa ukuba njani."
+
+#. type=template
 msgctxt "template"
 msgid ""
 "We never know when a crisis may happen, but we CAN be prepared! \n"
@@ -5736,6 +5968,15 @@ msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.
 msgstr "Sele uyimakishe kwakanye i-@global.parent_point @data.habit.instruct_positively.title  – ngoko wenza inkqubela encomekayo."
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_point
+#.      @data.habit.instruct_positively.title
+#.      @fields.parent_point_count_instruct_positively
+msgctxt "template"
+msgid "You’ve marked the @global.parent_point @data.habit.instruct_positively.title @fields.parent_point_count_instruct_positively times already  – so you’re making great progress."
+msgstr "Umakishe i- @global.parent_point @data.habit.instruct_positively.title @fields.parent_point_count_instruct_positively amaxesha asele ekhona - ke wenza inkqubela entle kakhulu."
+
+#. type=template
 msgctxt "template"
 msgid "Speak kindly to yourself about what a great job you are doing. There is no such thing as a perfect parent, and we think you’re doing great!"
 msgstr "Thetha kakuhle nesiqu sakho ngomsebenzi omhle owenzayo. Akekho umzali ofezekileyo, kwaye sicinga ukuba wenza umsebenzi omhle!"
@@ -5751,6 +5992,34 @@ msgstr ""
 "Imiyalelo ekhuthazayo ikunceda uphawule ukuziphatha okuhle nangakumbi! \n"
 "\n"
 "Gqiba ukwenza i-@local.workshop_data.in_text_title ukuze ufumane amacebo endlela okunokusebenza ngayo oku kwintsapho yakho."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Congratulations for starting @global.parent_app week 4. \n"
+"\n"
+"This week’s workshop is about how to increase your chances of getting your teen to do what you ask them to do."
+msgstr ""
+"Molo @fields.user_name! Sivuyisana nawe ngokuqala @global.parent_app iveki yesi-4.\n"
+"\n"
+"Inkqubo yale veki imalunga nendlela yokwandisa amathuba akho okufumana umntwana wakho ukuba enze into oyicelayo ukuba ayenze."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Congratulations for starting @global.parent_app week 4. \n"
+"\n"
+"This week’s workshop is about how to increase your chances of getting your teen to do what you ask them to do."
+msgstr ""
+"Molo @fields.group_name! Sivuyisana nawe ngokuqala @global.parent_app iveki yesi-4.\n"
+"\n"
+"Inkqubo yale veki imalunga nendlela yokwandisa amathuba akho okufumana umntwana wakho ukuba enze into oyicelayo ukuba ayenze."
 
 #. type=template
 msgctxt "template"
@@ -6704,6 +6973,20 @@ msgstr ""
 "Ukubandakanya amalungu entsapho yakho ngendlela esetyenziswa ngayo imali kungenza lwehle uxinezeleko kunye nokuxambulisana. \n"
 "\n"
 "Gqiba i-@local.workshop_data.in_text_title ukuze incede usapho lwakho ngokubhajetha nokonga imali. Kulula kanti - uza kubona!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! You are starting your second month of using @global.parent_app. Amazing! \n"
+"\n"
+"Almost every family struggles with money issues, therefore, this week’s workshop will give you a tool that will help you to plan your expenses so you can have enough money to get through the month."
+msgstr ""
+"Molo @fields.user_name! Uqala inyanga yesibini usebenzisa @global.parent_app. Iyamangalisa!\n"
+"\n"
+"Phantse lonke usapho luyasokola ngemiba yemali, ke ngoko, inkqubo yale veki iya kukunika isixhobo esiya kukunceda ucwangcise iindleko zakho ukuze ube nemali eyaneleyo yokuyigqiba inyanga."
 
 #. type=template
 msgctxt "template"
