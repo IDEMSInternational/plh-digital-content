@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-08-11 08:08\n"
+"PO-Revision-Date: 2022-08-11 14:07\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -41,6 +41,11 @@ msgstr "Di pholisi tseno di santse di agiwa. Re tseela kgakololo le tsiboso kwa 
 msgctxt "template"
 msgid "I consent to the commitments stated above."
 msgstr "Ke dumela maitlamo a a tlhagisitsweng kwa godimo."
+
+#. type=template
+msgctxt "template"
+msgid "You can only move on and access the app if you provide your consent."
+msgstr "O ka kgona go tswela pele o tsenele ka fa app fela fa o ka neelana ka maitlamo a gago."
 
 #. type=template
 msgctxt "template"
@@ -688,6 +693,17 @@ msgstr ""
 "- Go fetsa metsotso e mmalwa ka letsatsi o lebane le mosha wa gago go ka mo thusa gore a ikutlwe a bolokesegile le go nna le nako ya go iketla kgotsa go bua ka dilo tse di mo tshwenyang."
 
 #. type=template
+#. The string @local.parent_point_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "We noticed you tapped the @local.parent_point_data.in_text_title - great job for remembering!"
+msgstr "Re lemogile gore o tobeditse @local.parent_point_data.in_text_title - tiro e ntle go gopola!"
+
+#. type=template
+msgctxt "template"
+msgid "Did you have a chance to do this?"
+msgstr "Aa o bone monyetla wa go dira seno?"
+
+#. type=template
 msgctxt "template"
 msgid "How did it go?"
 msgstr "Go tsamaile jang?"
@@ -712,6 +728,14 @@ msgstr "Tobetsa khutlotharo go go thusa go nna o tshwere motlotlo ono @local.tim
 msgctxt "template"
 msgid "Video"
 msgstr "Bidio"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.relevant_content_title
+#.      @data.parent_centre.my_tips.title
+msgctxt "template"
+msgid "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
+msgstr "@local.relevant_content_title e tlaleditswe go @data.parent_centre.my_tips.title."
 
 #. type=template
 #. The string @local.threshold should not be translated.
