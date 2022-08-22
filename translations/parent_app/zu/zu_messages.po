@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2022-06-22 16:06\n"
+"PO-Revision-Date: 2022-08-22 12:09\n"
 
 #. type=template
 msgctxt "template"
@@ -383,6 +383,12 @@ msgid "Template"
 msgstr "Isifanekiso"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "How to use @global.parent_app"
+msgstr "Isetshenziswa kanja i-  @global.parent_app"
+
+#. type=template
 msgctxt "template"
 msgid "In-Week Messages"
 msgstr "Imiyalezo Yaphakathi Nesonto"
@@ -653,6 +659,17 @@ msgstr ""
 "-Ukuchitha imizuzu embalwa nsuku zonke ugxile emntwaneni wakho kuyamsiza ekutheni azizwe evikelekile futhi kumnikeze ithuba lokuphumula noma lokuxoxa ngeznto ezimkhathazayo."
 
 #. type=template
+#. The string @local.parent_point_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "We noticed you tapped the @local.parent_point_data.in_text_title - great job for remembering!"
+msgstr "Siyabona ukuthi uchofoze i- @local.parent_point_data.in_text_title - wenze kahle ngokukhumbula!"
+
+#. type=template
+msgctxt "template"
+msgid "Did you have a chance to do this?"
+msgstr "Ingabe ulitholile ithuba lokwenza lokhu?"
+
+#. type=template
 msgctxt "template"
 msgid "How did it go?"
 msgstr "Kuhambe kanjani?"
@@ -677,6 +694,14 @@ msgstr "Cindezela unxantathu ukukusiza ugcine le ngxoxo kumizuzu we- @ local.tim
 msgctxt "template"
 msgid "Video"
 msgstr "Ividiyo"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.relevant_content_title
+#.      @data.parent_centre.my_tips.title
+msgctxt "template"
+msgid "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
+msgstr "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
 
 #. type=template
 #. The string @local.threshold should not be translated.
