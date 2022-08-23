@@ -11,7 +11,41 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2022-07-23 10:50\n"
+"PO-Revision-Date: 2022-08-23 07:36\n"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.terms_and_conditions
+#.      @global.privacy_policy
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n"
+"1. This is, and will always be, a fully free app.\n"
+"2. Your data will never be sold. We are not for profit.\n"
+"3. By using the app you are helping to make the app better for you and others.\n"
+"4. Your anonymised data may be used for research purposes by our @global.parent_app team."
+msgstr ""
+"Go neelana ka tumelano fa tlase o amogela gore o buisitse ebile o amogela di @global.terms_and_conditions and @global.privacy_policy. Maitlamo a botlhokwa thata ke:\n"
+"1. Seno ke, le metlheng yotlhe, app ya mahala ka botlalo.\n"
+"2. Tshedimosetso ya gago ga e kitla e rekisiwa. Ga re ba poelo ya madi.\n"
+"3. Fa o dirisa app o thusa go dira app bokaone go wena le ba bangwe.\n"
+"4. Tshedimosetso ya gago ya bofitlha e ka dirisiwa ka maikaelelo a dipatlisiso ke setlhopha sa rona sa @global.parent_app."
+
+#. type=template
+msgctxt "template"
+msgid "These policies are still under construction. We value advice and input to improve them."
+msgstr "Di pholisi tseno di santse di agiwa. Re tseela kgakololo le tsiboso kwa godimo go di tokafatsa."
+
+#. type=template
+msgctxt "template"
+msgid "I consent to the commitments stated above."
+msgstr "Ke dumela maitlamo a a tlhagisitsweng kwa godimo."
+
+#. type=template
+msgctxt "template"
+msgid "You can only move on and access the app if you provide your consent."
+msgstr "O ka kgona go tswela pele o tsenele ka fa app fela fa o ka neelana ka maitlamo a gago."
 
 #. type=template
 msgctxt "template"
@@ -659,6 +693,17 @@ msgstr ""
 "- Go fetsa metsotso e mmalwa ka letsatsi o lebane le mosha wa gago go ka mo thusa gore a ikutlwe a bolokesegile le go nna le nako ya go iketla kgotsa go bua ka dilo tse di mo tshwenyang."
 
 #. type=template
+#. The string @local.parent_point_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "We noticed you tapped the @local.parent_point_data.in_text_title - great job for remembering!"
+msgstr "Re lemogile gore o tobeditse @local.parent_point_data.in_text_title - tiro e ntle go gopola!"
+
+#. type=template
+msgctxt "template"
+msgid "Did you have a chance to do this?"
+msgstr "Aa o bone monyetla wa go dira seno?"
+
+#. type=template
 msgctxt "template"
 msgid "How did it go?"
 msgstr "Go tsamaile jang?"
@@ -683,6 +728,14 @@ msgstr "Tobetsa khutlotharo go go thusa go nna o tshwere motlotlo ono @local.tim
 msgctxt "template"
 msgid "Video"
 msgstr "Bidio"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.relevant_content_title
+#.      @data.parent_centre.my_tips.title
+msgctxt "template"
+msgid "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
+msgstr "@local.relevant_content_title e tlaleditswe go @data.parent_centre.my_tips.title."
 
 #. type=template
 #. The string @local.threshold should not be translated.
@@ -1060,6 +1113,11 @@ msgstr "O utlwile jang ka @global.parent_app?"
 msgctxt "template"
 msgid "Other"
 msgstr "E ngwe"
+
+#. type=template
+msgctxt "template"
+msgid "By selecting this organisation you are allowing them to have access to your anonymous usage data so that they can support you on this journey."
+msgstr "Ka go tlhopha setlamo seno o ba letlelela go kgona go tsena mo go tirisong ya tshedimosetso ya gago gore ba kgone go go tshegetsa mo leetong leno."
 
 #. type=template
 msgctxt "template"
@@ -2131,6 +2189,11 @@ msgstr "O motsadi wa mmakgonthe o mosha wa gago a ka nnang le ene"
 
 #. type=template
 msgctxt "template"
+msgid "Join the 210 million parents who have used our resources"
+msgstr "Golagana le dimilione di le 210 tsa batsadi ba ba kileng ba dirisa didiriswa tsa rona"
+
+#. type=template
+msgctxt "template"
 msgid "Ideas from other families:"
 msgstr "Dikakantsho go tswa ko malapeng a mangwe:"
 
@@ -2211,6 +2274,20 @@ msgstr ""
 msgctxt "template"
 msgid "Remember you can access lots of helpful tips and resources in the @global.parent_centre - this is available for you at any time!"
 msgstr "Gopola gore o ka kgona go bona ditlhabobotlhale di le dintsi tse di thusang le didirisiwa mo go @global.parent_centre - o ka kgona go di bona nako nngwe le nngwe fela!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid ""
+"Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you!\n"
+"\n"
+"Remember, you can find focused tools, extra content and resources on this in the @global.parent_centre at any time. You can also review core tips on safety planning under @data.parent_centre.my_tips.location_text."
+msgstr ""
+"Go na motsadi ga go bonolo. Go ka nna boima go itse gore o ka tshola basha ba bolokesegile jang. Gantsi re ikutlwa re sena matla jaaka batsadi mo go se, fela re fano go go tshegetsa!\n"
+"\n"
+"Gopola, o ka bona didiriswa tsa maleba, diteng tse di oketsegileng le didiriswa mo go @global.parent_centre nako nngwe le nngwe. O ka lebelela le dikgakololo tse di tseneletseng ka thulaganyo ya pabalesego ka fa tlase ga @data.parent_centre.my_tips.location_text."
 
 #. type=template
 #. The string @data.workshop.w_safe.in_text_title should not be translated.
@@ -2457,6 +2534,20 @@ msgstr ""
 msgctxt "template"
 msgid "Content unlocked by these questions is now accessible under @data.parent_centre.my_tips.location_text."
 msgstr "Diteng tse di bulwang ka dipotso tseno jaanong di ka bonwa mo tlase ga @data.parent_centre.my_tips.location_text."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid ""
+"Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! You can get focused tools, extra content and resources on this in the @global.parent_centre at any time. \n"
+"\n"
+"You can already access some first core tips which will help with safety planning under @data.parent_centre.my_tips.location_text."
+msgstr ""
+"Go na motsadi ga go bonolo. Go ka nna boima go itse gore o ka tshola basha ba bolokesegile jang. Gantsi re ikutlwa re sena matla jaaka batsadi mo go se, fela re fano go go tshegetsa!\n"
+"\n"
+" O setse o ka kgona go tsena mo go dikgakololo dingwe tsa ntlha tse di tseneletseng ka thulaganyo ya pabalesego ka fa tlase ga @data.parent_centre.my_tips.location_text."
 
 #. type=template
 #. The string @global.weekly_workshops should not be translated.
@@ -7262,6 +7353,12 @@ msgid "This week's home practice is to praise your teen once a day. It will only
 msgstr "Ikatiso ya kwa gae ya beke eno ke go akgola mosha wa gago gangwe mo letsatsing. E tlile go tsaya fela metsotswana e le 10!"
 
 #. type=template
+#. The string @data.habit.praise_teen.in_text_title should not be translated.
+msgctxt "template"
+msgid "You’ve tapped the @data.habit.praise_teen.in_text_title this week. Great job for remembering!"
+msgstr "O tobeditse @data.habit.praise_teen.in_text_title beke eno. Tiro e ntle go gopola!"
+
+#. type=template
 msgctxt "template"
 msgid "Your goal was to praise your teen."
 msgstr "Mokgele wa gago e ne e le go akgola mosha wa gago."
@@ -11779,6 +11876,20 @@ msgid "<p>Use @global.parent_points to celebrate your achievements!</p>"
 msgstr "<p>Dirisa @global.parent_points go keteka diphitlhelelo tsa gago!</p>"
 
 #. type=tour
+#. The following strings should not be translated: 
+#.      @global.parent_centre.</p>
+#.      @global.weekly_workshops.</p>
+msgctxt "tour"
+msgid ""
+"<p>Find lots of helpful resources in the @global.parent_centre.</p>\n"
+"\n"
+"<p>You can get instant access to the Essential Tools from all @global.weekly_workshops.</p>"
+msgstr ""
+"<p>Bona didiriswa tse dintsi tse di mosola mo go @global.parent_centre.</p>\n"
+"\n"
+"<p>O ka bona tetlelesego ya tshoganyetso go didiriswa tsa botlhokwa go tswa go @global.weekly_workshops.</p>"
+
+#. type=tour
 msgctxt "tour"
 msgid ""
 "<p>Check out the extra relaxation and parenting activities!</p>\n"
@@ -12638,6 +12749,11 @@ msgstr "Go thata go bona nako ya go itumela le mosha wa gago."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How many days in the past week were you able to do something fun together?"
+msgstr "Ke malatsi a le makae mo bekeng e e fitileng a le kgonneng go dira sengwe se se monate mmogo?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "In our busy lives it’s hard to focus on the positive."
 msgstr "Mo go tshwaregeng ka botshelo jwa rona go boima go tlhoma mogopolo mo dilong tse di siameng."
 
@@ -12665,6 +12781,16 @@ msgstr "Ka dinako tse dingwe bana ba rona ba dira gore re tenege thata."
 msgctxt "data_list"
 msgid "How many days in the past week did you shout, scream or yell at your teen?"
 msgstr "Mo bekeng e e fetileng o omantse kgotsa o goile mosha wa gago malatsi a le kae?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Money is one of the biggest stresses for families."
+msgstr "Madi ke enngwe ya tse dikgolo tse di tlisang kgatelelo ya maikutlo mo malapeng."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many days in the past week have you felt worried or anxious about money?"
+msgstr "Ke malatsi a le makae mo bekeng e e fetileng fa o iphitlhetseng o tshwenyegile kgotsa o sa nnisege ka madi?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12703,8 +12829,43 @@ msgstr "Rotlhe re batla go boloka bana ba rona ba sireletsegile."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "In the past month, did you talk with your teen about keeping safe from sexual violence online or offline?"
+msgstr "Mo kgweding e e fitileng, a o buile le mosha wa gago ka go itshola a bolokesegile kgatlhanong le tiriso dikgoka ya thobalano mo mafaratlhatlheng kgotsa ka namana?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This could be about going out with friends or about the websites and apps they use."
+msgstr "Seno e ka nna ka ga go tswa le ditsala kgotsa ka ga ditsha le di app tse ba di dirisang."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many days have you had a talk like this?"
+msgstr "Ke malatsi a le makae a o nnileng le puisano e e tshwanang le eno?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Days in the past month"
 msgstr "Malatsi mo kgweding e e fetileng"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It can sometimes be difficult to have a positive relationship with our children."
+msgstr "Nako dingwe go ka nna thata go nna le kamano e e rotloetsang le bana ba rona."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How confident do you feel about your ability as a parent/caregiver to have a positive relationship with your children?"
+msgstr "O ikutlwa o tshepile jaang bokgoni jwa gago jaaka motsadi/motlhokomedi go nna le kamano e e rotloetsang le bana ba gago?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Not confident"
+msgstr "Ga ke itshepe"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Extremely confident"
+msgstr "Ke itshepa tota"
 
 #. type=data_list
 msgctxt "data_list"
