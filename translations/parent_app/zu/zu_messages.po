@@ -11,7 +11,26 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2022-06-22 16:06\n"
+"PO-Revision-Date: 2022-08-23 07:36\n"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.terms_and_conditions
+#.      @global.privacy_policy
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n"
+"1. This is, and will always be, a fully free app.\n"
+"2. Your data will never be sold. We are not for profit.\n"
+"3. By using the app you are helping to make the app better for you and others.\n"
+"4. Your anonymised data may be used for research purposes by our @global.parent_app team."
+msgstr ""
+"Ngokunikeza kwakho imvume ngezansi, uyavuma ngokufunda nokwamukela i- @global.terms_and_conditions and @global.privacy_policy. Izivumelwano ezibaluleke kakhulu ilezi: \n"
+"1. Le app imahala futhi iyohlala imahala.\n"
+"2. Ngeke idayiswe imininingwane yakho. Asibona abenzuzo.\n"
+"3. Ngokusebenzisa i app usiza ekuyenzeni ibe ngcono kuwe nakwabanye.\n"
+"4. Imininingwane yakho ingasetshenziswa ngokuyimfihlo iqembu lethu kwezogcwaningo lwe @global.parent_app."
 
 #. type=template
 msgctxt "template"
@@ -383,6 +402,12 @@ msgid "Template"
 msgstr "Isifanekiso"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "How to use @global.parent_app"
+msgstr "Isetshenziswa kanja i-  @global.parent_app"
+
+#. type=template
 msgctxt "template"
 msgid "In-Week Messages"
 msgstr "Imiyalezo Yaphakathi Nesonto"
@@ -653,6 +678,17 @@ msgstr ""
 "-Ukuchitha imizuzu embalwa nsuku zonke ugxile emntwaneni wakho kuyamsiza ekutheni azizwe evikelekile futhi kumnikeze ithuba lokuphumula noma lokuxoxa ngeznto ezimkhathazayo."
 
 #. type=template
+#. The string @local.parent_point_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "We noticed you tapped the @local.parent_point_data.in_text_title - great job for remembering!"
+msgstr "Siyabona ukuthi uchofoze i- @local.parent_point_data.in_text_title - wenze kahle ngokukhumbula!"
+
+#. type=template
+msgctxt "template"
+msgid "Did you have a chance to do this?"
+msgstr "Ingabe ulitholile ithuba lokwenza lokhu?"
+
+#. type=template
 msgctxt "template"
 msgid "How did it go?"
 msgstr "Kuhambe kanjani?"
@@ -677,6 +713,14 @@ msgstr "Cindezela unxantathu ukukusiza ugcine le ngxoxo kumizuzu we- @ local.tim
 msgctxt "template"
 msgid "Video"
 msgstr "Ividiyo"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.relevant_content_title
+#.      @data.parent_centre.my_tips.title
+msgctxt "template"
+msgid "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
+msgstr "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
 
 #. type=template
 #. The string @local.threshold should not be translated.
@@ -818,6 +862,11 @@ msgstr "Uwuqedile umhlangano wokufundisana waleli sonto."
 
 #. type=template
 msgctxt "template"
+msgid "Read along"
+msgstr "Fundani kanye kanye"
+
+#. type=template
+msgctxt "template"
 msgid "See you soon."
 msgstr "Sizokubona maduzane."
 
@@ -841,6 +890,16 @@ msgstr "Ukuzijwayeza Ekhaya"
 msgctxt "template"
 msgid "Small actions, big results! Parents who practice their workshop skills at home get better results."
 msgstr "Izenzo ezincane, imiphumela emikhulu! Abazali abazijwayeza ekhaya amakhono abawathole ekuqeqeshweni yemhlangano wokufundisana bathola imiphumela emihle."
+
+#. type=template
+msgctxt "template"
+msgid "Hear a teen's testimonial"
+msgstr "Yizwa ubufakazi bomntwana"
+
+#. type=template
+msgctxt "template"
+msgid "Read a teen's testimonial"
+msgstr "Funda ubufakazi bomntwana"
 
 #. type=template
 msgctxt "template"
@@ -2079,9 +2138,30 @@ msgid "Add this activity to @global.my_activities"
 msgstr "Faka lo msebenzi ku @global.my_activities"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "@global.parent_app funded by"
+msgstr "@global.parent_app isekwe ngokwezezimali u"
+
+#. type=template
 msgctxt "template"
 msgid "Powered by Parenting for Lifelong Health and partners"
 msgstr "Ixhaswe i-Parenting for Lifelong Health kanye nebambisene nabo"
+
+#. type=template
+msgctxt "template"
+msgid "Bringing teenagers up is hard"
+msgstr "Ukukhulisa ulusha kunzima"
+
+#. type=template
+msgctxt "template"
+msgid "You are the best parent your teen could have"
+msgstr "Ungumzali ongcono umnwa wakho angaba naye"
+
+#. type=template
+msgctxt "template"
+msgid "Join the 210 million parents who have used our resources"
+msgstr "Zibandakanye nezigidi eziwu 210 zabazali abasebenzise izinsiza zethu"
 
 #. type=template
 msgctxt "template"
@@ -2639,6 +2719,16 @@ msgstr "Ncoma"
 msgctxt "template"
 msgid "Thank your teen for sharing and highlight how it is helping you both."
 msgstr "Mbonge umntwana wakho ngokwabelana ngemibono bese uyakugqamisa ukuthi kunisiza nobabili."
+
+#. type=template
+msgctxt "template"
+msgid "Hear a caregiver's testimonial"
+msgstr "Yizwa umufakazi bomzali"
+
+#. type=template
+msgctxt "template"
+msgid "Read a caregiver's testimonial"
+msgstr "Funda ubufakazi bomzali"
 
 #. type=template
 #. The string @local.workshop_data.title should not be translated.
