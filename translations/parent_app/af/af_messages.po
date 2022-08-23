@@ -11,7 +11,41 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2022-07-23 10:50\n"
+"PO-Revision-Date: 2022-08-23 07:36\n"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.terms_and_conditions
+#.      @global.privacy_policy
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n"
+"1. This is, and will always be, a fully free app.\n"
+"2. Your data will never be sold. We are not for profit.\n"
+"3. By using the app you are helping to make the app better for you and others.\n"
+"4. Your anonymised data may be used for research purposes by our @global.parent_app team."
+msgstr ""
+"Deur jou toestemming hieronder te gee, bevestig jy dat jy die @global.terms_and_conditions and @global.privacy_policy gelees en aanvaar het. Die belangrikste verbintenisse hiermee is die volgende::\n"
+"1. Hierdie is, en sal altyd 'n volkome gratis toep bly.\n"
+"2. Jou data sal nooit verkoop word nie. Ons is nie winsgewend nie.\n"
+"3. Deur die gebruik van die toep dra jy by tot die verbetering daarvan vir jouself en ander.\n"
+"4. Jou geanonimiseerde data mag deur ons @global.parent_app span vir navorsingsdoeleindes aangewend word."
+
+#. type=template
+msgctxt "template"
+msgid "These policies are still under construction. We value advice and input to improve them."
+msgstr "Hierdie beleide is steeds in 'n vormingsproses. Ons verwelkom advies en insette vir die verbetering daarvan."
+
+#. type=template
+msgctxt "template"
+msgid "I consent to the commitments stated above."
+msgstr "Ek stem in tot die bogenoemde verpligtinge."
+
+#. type=template
+msgctxt "template"
+msgid "You can only move on and access the app if you provide your consent."
+msgstr "Jy sal slegs kan voortgaan en toegang tot die toep verkry deur jou toestemming te gee."
 
 #. type=template
 msgctxt "template"
@@ -659,6 +693,17 @@ msgstr ""
 "-Deur elke dag 'n paar minute op jou tiener te fokus help om hulle veiliger te laat voel en gee hulle 'n kans om te ontspan of te praat oor dinge wat hulle ontstel."
 
 #. type=template
+#. The string @local.parent_point_data.in_text_title should not be translated.
+msgctxt "template"
+msgid "We noticed you tapped the @local.parent_point_data.in_text_title - great job for remembering!"
+msgstr "Ons het opgemerk dat jy op die @local.parent_point_data.in_text_title getik het- welgedaan dat jy onthou het!"
+
+#. type=template
+msgctxt "template"
+msgid "Did you have a chance to do this?"
+msgstr "Het jy al 'n kans gehad om hierdie te doen?"
+
+#. type=template
 msgctxt "template"
 msgid "How did it go?"
 msgstr "Hoe het dit gegaan?"
@@ -683,6 +728,14 @@ msgstr "Druk die driehoek om jou te help om hierdie gesprek by @local.timer_dura
 msgctxt "template"
 msgid "Video"
 msgstr "Video"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.relevant_content_title
+#.      @data.parent_centre.my_tips.title
+msgctxt "template"
+msgid "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
+msgstr "@local.relevant_content_title bygevoeg by @data.parent_centre.my_tips.title."
 
 #. type=template
 #. The string @local.threshold should not be translated.
@@ -1060,6 +1113,11 @@ msgstr "Hoe het jy gehoor van @global.parent_app?"
 msgctxt "template"
 msgid "Other"
 msgstr "Ander"
+
+#. type=template
+msgctxt "template"
+msgid "By selecting this organisation you are allowing them to have access to your anonymous usage data so that they can support you on this journey."
+msgstr "Deur hierdie organisasie te kies, laat jy hulle toe om toegang tot jou anonieme data te verkry om jou sodeoende op hierdie reis te kan ondersteun."
 
 #. type=template
 msgctxt "template"
@@ -2131,6 +2189,11 @@ msgstr "Jy is die beste ouer wat jou tiener kon hê"
 
 #. type=template
 msgctxt "template"
+msgid "Join the 210 million parents who have used our resources"
+msgstr "Sluit aan by die 210 miljoen ouers wat al ons hulpbronne gebruik het"
+
+#. type=template
+msgctxt "template"
 msgid "Ideas from other families:"
 msgstr "Idees van ander gesinne:"
 
@@ -2211,6 +2274,20 @@ msgstr ""
 msgctxt "template"
 msgid "Remember you can access lots of helpful tips and resources in the @global.parent_centre - this is available for you at any time!"
 msgstr "Onthou dat jy toegang tot baie nuttige wenke en hulpbronne in die @global.parent_centre kan kry – dit is te eniger tyd vir jou beskikbaar!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid ""
+"Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you!\n"
+"\n"
+"Remember, you can find focused tools, extra content and resources on this in the @global.parent_centre at any time. You can also review core tips on safety planning under @data.parent_centre.my_tips.location_text."
+msgstr ""
+"Om 'n ouer te wees is nie maklik nie. Dit mag moeilik wees om te weet hoe om ons tieners veilig te hou. As ouers voel ons dikwels magteloos hiermee, maar ons is hier om jou te ondersteun!\n"
+"\n"
+"Onthou, jy kan doelgerigte gereedskap, ekstra inhoud en hulpbronne hiermee enige tyd op die @global.parent_centre vind. Jy kan ook kern wenke oor veiligheidsbeplanning onder @data.parent_centre.my_tips.location_text hersien."
 
 #. type=template
 #. The string @data.workshop.w_safe.in_text_title should not be translated.
@@ -2457,6 +2534,20 @@ msgstr ""
 msgctxt "template"
 msgid "Content unlocked by these questions is now accessible under @data.parent_centre.my_tips.location_text."
 msgstr "Inhoud wat deur hierdie vrae ontsluit is, is nou toeganklik onder @data.parent_centre.my_tips.location_text."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_centre
+#.      @data.parent_centre.my_tips.location_text
+msgctxt "template"
+msgid ""
+"Being a parent is not easy. It can be difficult to know how to keep our teens safe. We often feel powerless as parents in this, but we are here to support you! You can get focused tools, extra content and resources on this in the @global.parent_centre at any time. \n"
+"\n"
+"You can already access some first core tips which will help with safety planning under @data.parent_centre.my_tips.location_text."
+msgstr ""
+"Om 'n ouer te wees is nie maklik nie. Dit mag moeilik wees om te weet hoe om ons tieners veilig te hou. As ouers voel ons dikwels magteloos hiermee, maar ons is hier om jou te ondersteun! Jy kan doelgerigte gereedskap, ekstra inhoud en hulpbronne hiermee enige tyd op die @global.parent_centre vind. \n"
+"\n"
+"Jy kan alreeds toegang tot die eerste paar kern wenke verkry, wat jou sal help met veiligheidsbeplanning onder @data.parent_centre.my_tips.location_text."
 
 #. type=template
 #. The string @global.weekly_workshops should not be translated.
@@ -7262,6 +7353,12 @@ msgid "This week's home practice is to praise your teen once a day. It will only
 msgstr "Hierdie week se tuisoefening is om jou tiener een keer per dag te prys. Dit sal net 10 sekondes neem!"
 
 #. type=template
+#. The string @data.habit.praise_teen.in_text_title should not be translated.
+msgctxt "template"
+msgid "You’ve tapped the @data.habit.praise_teen.in_text_title this week. Great job for remembering!"
+msgstr "Jy het hierdie week op @data.habit.praise_teen.in_text_title getik. Welgedaan dat jy onthou het!"
+
+#. type=template
 msgctxt "template"
 msgid "Your goal was to praise your teen."
 msgstr "Jou doelwit was om jou tiener te prys."
@@ -11777,6 +11874,20 @@ msgid "<p>Use @global.parent_points to celebrate your achievements!</p>"
 msgstr "<p>Gebruik @global.parent_points om jou prestasies te vier!</p>"
 
 #. type=tour
+#. The following strings should not be translated: 
+#.      @global.parent_centre.</p>
+#.      @global.weekly_workshops.</p>
+msgctxt "tour"
+msgid ""
+"<p>Find lots of helpful resources in the @global.parent_centre.</p>\n"
+"\n"
+"<p>You can get instant access to the Essential Tools from all @global.weekly_workshops.</p>"
+msgstr ""
+"Vind talle nuttige hulpbronne in die @global.parent_centre.</p>\n"
+"\n"
+"Jy kan onmiddellike toegang tot die Essential Tools verkry vanaf alle @global.weekly_workshops.</p>"
+
+#. type=tour
 msgctxt "tour"
 msgid ""
 "<p>Check out the extra relaxation and parenting activities!</p>\n"
@@ -12636,6 +12747,11 @@ msgstr "Dis moeilik om tyd te kry om prettige dinge saam met jou tiener te doen.
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How many days in the past week were you able to do something fun together?"
+msgstr "Hoeveel dae het julle die afgelope week dit reggekry om iets prettig saam te doen?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "In our busy lives it’s hard to focus on the positive."
 msgstr "Dis moeilik om in ons besige lewens op die positiewe te fokus."
 
@@ -12663,6 +12779,16 @@ msgstr "Soms ontstel ons kinders ons baie."
 msgctxt "data_list"
 msgid "How many days in the past week did you shout, scream or yell at your teen?"
 msgstr "Hoeveel dae die afgelope week het jy op jou tiener geskree of gegil?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Money is one of the biggest stresses for families."
+msgstr "Geld is een van die grootste stresoorsake vir families."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many days in the past week have you felt worried or anxious about money?"
+msgstr "Hoeveel dae die afgelope week het jy bekommerd of gespanne gevoel oor geld?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12701,8 +12827,43 @@ msgstr "Ons almal wil ons kinders veilig hou."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "In the past month, did you talk with your teen about keeping safe from sexual violence online or offline?"
+msgstr "Het jy die afgelope maand met jou tiener gepraat oor veilig bly ten opsigte van seksuele geweld aanlyn of elders?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This could be about going out with friends or about the websites and apps they use."
+msgstr "Dit kan verband hou met uitgaan met vriende of die webtuistes en toeps wat hulle gebruik."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many days have you had a talk like this?"
+msgstr "Hoeveel dae het julle so 'n gepsrek gehad?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Days in the past month"
 msgstr "Dae gedurende die afgelope maand"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It can sometimes be difficult to have a positive relationship with our children."
+msgstr "Dit kan soms moeilik wees om 'n positiewe verhouding met ons kinders te hê."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How confident do you feel about your ability as a parent/caregiver to have a positive relationship with your children?"
+msgstr "Hoe selfversekerd voel jy oor jou vermoē om as ouer/ versorger 'n positiewe verhouding met jou kinders te hê?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Not confident"
+msgstr "Geen selfvertroue nie"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Extremely confident"
+msgstr "Uiters selfversekerd"
 
 #. type=data_list
 msgctxt "data_list"
