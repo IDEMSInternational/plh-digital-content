@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2022-08-23 15:23\n"
+"PO-Revision-Date: 2022-08-24 12:52\n"
 
 #. type=text
 msgctxt "text"
@@ -524,14 +524,56 @@ msgid "Here is a comic on spending one-on-time with your teen."
 msgstr "Nantsi ikhomikhi ngokuchitha ixesha lobuso ngobuso nomntwana wakho ofikisayo."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Other children just like @fields.child_nickname are benefiting from ParentText in your community! Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Abanye abantwana abafana @fields.child_nickname bayazuza kwiParentText kwindawo ohlala kuyo! Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
+
+#. type=text
 msgctxt "text"
 msgid "Other children just like yours are benefiting from ParentText in your community! Please type “MoreTips” whenever you want to receive your next message."
 msgstr "Abanye abantwana abafana nabakho bayaxhamla kwi ParentText kwindawo ohlala kuyo! Nceda ubhale \"iingcebiso\" nanini na xa ufuna ukufumana umyalezo wakho olandelayo."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.user_name, every time you are completing an activity, @fields.child_nickname experiences the benefits. We believe you can keep up with your amazing progress. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, ngalo lonke ixesha ugqiba umsetyenzana, @fields.child_nickname ufumana iinzuzo. Siyakholwa ukuba ungayigcina inkqubela yakho emangalisayo. Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.user_name, every time you are completing an activity, your child experiences the benefits. We believe you can keep up with your amazing progress. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, ngalo lonke ixesha usenza umsetyenzana, umntwana wakho ufumana iinzuzo. Siyakholwa ukuba ungayigcina inkqubela yakho emangalisayo. Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Every time you are completing an activity, @fields.child_nickname experiences the benefits. We believe you can keep up with your amazing progress. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Ngalo lonke ixesha egqiba umsebenzi, @fields.child_nickname ufumana iinzuzo. Siyakholwa ukuba ungayigcina inkqubela yakho emangalisayo. Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
+
+#. type=text
 msgctxt "text"
 msgid "Every time you are completing an activity, your child experiences the benefits. We believe you can keep up with your amazing progress. Please type “MoreTips” whenever you want to receive your next message."
 msgstr "Ngalo lonke ixesha ugqibezela umsebenzi, umntwana wakho ufumana inzuzo. Sikholelwa ukuba unokuqhubeka nenkqubela phambili yakho emangalisayo. Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.user_name, without having access to these tips, it will be harder to know how to handle @fields.child_nickname's misbehaviour. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, ungenalo ufikelelo kwezi ngcebiso, kuya kuba nzima ukwazi ukuba umelana njani nokungaziphathi kakuhle @fields.child_nickname. Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.user_name, without having access to these tips, it will be harder to know how to handle your child’s misbehaviour. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, ungenalo ufikelelo kwezi ngcebiso, kuya kuba nzima ukwazi ukuba umelana njani nokungaziphathi kakuhle komntwana wakho. Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Without having access to these tips, it will be harder to know how to handle @fields.child_nickname's misbehaviour. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Ungenalo ufikelelo kwezi ngcebiso, kuya kuba nzima ukwazi ukuba umelana njani nokungaziphathi kakuhle @fields.child_nickname. Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
 
 #. type=text
 msgctxt "text"
@@ -662,6 +704,24 @@ msgstr "Molo @fields.user_name! Kula maxesha angoku wonke umntu uziva enoxinzele
 msgctxt "text"
 msgid "Hi! In the current times everyone is feeling a little stressed and a brief relaxation activity might help. Please type \"Relax\" to receive the activity!"
 msgstr "Molo! Kula maxesha angoku wonke umntu uziva enoxinzelelo kwaye umsetyenzana omfutshane wokukuphumlisa unokunceda. Nceda uchwetheze u \"Phumla\" ukufumana umsetyenzana!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "@fields.user_name, you have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to @fields.child_nickname. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, uqokelele @fields.n_skills/@fields.total_skills izakhono! Ubonakalise ukuzinikela okugqwesileyo ukuza kuthi ga ngoku ngokubhekisele ekubeni ngumzali ogqwesileyo ku @fields.child_nickname. Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "@fields.user_name, you have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to your child. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, uqokelele @fields.n_skills/@fields.total_skills izakhono! Ubonakalise ukuzinikela okugqwesileyo ukuza kuthi ga ngoku ngokubhekisele ekubeni ngumzali ogqwesileyo emntwaneni wakho. Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to @fields.child_nickname. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Uqokelele @fields.n_skills/@fields.total_skills izakhono! Ubonakalise ukuzinikela okugqwesileyo ukuza kuthi ga ngoku ngokubhekisele ekubeni ngumzali ogqwesileyo ku @fields.child_nickname. Nceda ubhale \"iingcebiso\" nanini na ufuna ukufumana umyalezo wakho olandelayo."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
