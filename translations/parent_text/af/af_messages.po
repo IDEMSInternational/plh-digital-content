@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2022-08-29 02:49\n"
+"PO-Revision-Date: 2022-08-29 15:39\n"
 
 #. type=text
 msgctxt "text"
@@ -387,6 +387,17 @@ msgstr "Wil jy vir ons ’n bietjie meer oor jou ervaring vertel?"
 msgctxt "text"
 msgid "Would you like to tell me a little bit more about your experience?"
 msgstr "Wil jy vir my ’n bietjie meer oor jou ervaring vertel?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again? Reply YES or NO"
+msgstr "Hallo, @fields.user_name! Dit is 'n rukkie sedert jy laas geantwoord het. Ons hoop jy is oukei?! Wil jy graag weer ParentText-boodskappe ontvang? Antwoord JA of NEE"
+
+#. type=text
+msgctxt "text"
+msgid "Hi! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again? Reply YES or NO"
+msgstr "Hallo! Dit is 'n rukkie sedert jy laas geantwoord het. Ons hoop jy is oukei?! Wil jy graag weer ParentText-boodskappe ontvang? Antwoord JA of NEE"
 
 #. type=text
 msgctxt "text"
@@ -1014,8 +1025,23 @@ msgstr "Veels geluk! Jy het jou eerste vlak by jou Huis van Ondersteuning gevoeg
 
 #. type=text
 msgctxt "text"
+msgid "Thanks so much for a great chat session! Over the next few weeks, you will receive messages to help you manage stress and maintain positive relationships at home."
+msgstr "Baie dankie vir 'n heerlike geselssessie! Oor die volgende paar weke sal jy boodskappe ontvang om jou te help om stres te beheer en positiewe verhoudinge tuis te handhaaf."
+
+#. type=text
+msgctxt "text"
+msgid "Please remember to interact DAILY so that we can keep sending you messages!"
+msgstr "Onthou asseblief om DAAGLIKS met ons te kommunikeer sodat ons kan aanhou om vir jou boodskappe te stuur!"
+
+#. type=text
+msgctxt "text"
 msgid "We are really happy you signed up for these tips. Chat later!"
 msgstr "Ons is regtig bly jy het vir hierdie wenke aangesluit. Praat later!"
+
+#. type=text
+msgctxt "text"
+msgid "Please remember to interact DAILY so that I can keep sending you messages!"
+msgstr "Onthou asseblief om DAAGLIKS te kommunikeer sodat ek kan aanhou om vir jou boodskappe te stuur!"
 
 #. type=text
 msgctxt "text"
@@ -8120,7 +8146,7 @@ msgstr "Kind: \"Al my vriende is daarop. Ek het meer as 600 likes en 120 followe
 #. type=text
 msgctxt "text"
 msgid "Parent: \"I’m proud of how well you dance, Shani. But we need to make sure you are safe on this. I know your friends look at TikTok, but with an open account there are also paedophiles who look at videos of teenagers. Paedophiles are older people who want to attack young children and teens.\""
-msgstr "Ouer: \"Ek is trots op hoe jy dans, Shani. Maar ons moet seker maak jy is veilig hierop. Ek weet jou vriende is op TikTok, maar met 'n oop rekening is daar ook pedofiele wat na video’s van tieners kan kyk. Pedofiele is ouer mense wat jong kinders en tieners wil aanval.\""
+msgstr "Ouer: \"Ek is trots op hoe jy dans, Shani. Maar ons moet seker maak jy is veilig. Ek weet jou vriende is op TikTok, maar met 'n oop rekening is daar ook pedofiele wat na video’s van tieners kan kyk. Pedofiele is ouer mense wat jong kinders en tieners wil aanval.\""
 
 #. type=text
 msgctxt "text"
@@ -8130,7 +8156,7 @@ msgstr "Ouer: \"Kom ons kyk saam aanlyn hoe ons dit lekker kan hou vir jou, maar
 #. type=text
 msgctxt "text"
 msgid "Parent: \"I’m proud of you Shani...\""
-msgstr "Ouer: \"Ek’s trots op jou, Shani...\""
+msgstr "Ouer: \"Ek’s trots op jou, Shani ...\""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -12089,7 +12115,7 @@ msgstr "Jammer om te hoor jy sukkel. Gee jouself 'n groot drukkie omdat jy probe
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Sorry to hear that things are difficult between you and your children. It’s not always easy to be a parent during these difficult times @fields.user_name. Remember you can always get extra support by typing \"Help\"."
-msgstr "Jammer om te hoor dinge is moeilik tussen jou en jou kinders. Dis nie altyd maklik om 'n ouer in hierdie moeilike tye te wees nie @fields.user_name. Onthou, jy kan altyd ekstra ondersteuning kry deur \"Help\" te tik."
+msgstr "Jammer om te hoor dinge is moeilik tussen jou en jou kinders. Dis nie altyd maklik om 'n ouer in hierdie moeilike tye te wees nie, @fields.user_name. Onthou, jy kan altyd ekstra ondersteuning kry deur \"Help\" te tik."
 
 #. type=text
 msgctxt "text"
@@ -13142,7 +13168,7 @@ msgstr "Hallo! Dankie dat jy aangesluit het om ParentText-wenke te kry. Sê asse
 #. type=text
 msgctxt "text"
 msgid "1. English"
-msgstr "1. English"
+msgstr "1. Engels"
 
 #. type=text
 msgctxt "text"
@@ -13362,12 +13388,12 @@ msgstr "Jy is sterk op pad om jou ouerskap-doelwit te haal, is jy seker jy wil d
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.user_name, you are on your way to reaching your goal of knowing more about your child's development, are you sure you want to exit the programme?"
-msgstr "@fields.user_name, jy is oppad na jou doelwit om meer te weet van jou kind se ontwikkeling, is jy seker jy wil die program verlaat?"
+msgstr "@fields.user_name, jy is op pad na jou doelwit om meer te weet van jou kind se ontwikkeling; is jy seker jy wil die program verlaat?"
 
 #. type=text
 msgctxt "text"
 msgid "You are on your way to reaching your goal of knowing more about your child's development, are you sure you want to exit the programme?"
-msgstr "Jy is oppad na jou doelwit om meer te weet van jou kind se ontwikkeling, is jy seker jy wil die program verlaat?"
+msgstr "Jy is op pad na jou doelwit om meer te weet van jou kind se ontwikkeling; is jy seker jy wil die program verlaat?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -13660,24 +13686,24 @@ msgstr "Jou kind het regtig voordeel getrek uit jou vordering na jou doelwit om 
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of knowing more about child development. @fields.user_name, are you sure you want to exit the programme?"
-msgstr "@fields.child_nickname het regtig baat gevind by jou vordering na die bereiking van jou doelwit om meer oor kinder ontwikkeling te weet. @fields.user_name, is jy seker jy wil die program verlaat?"
+msgstr "@fields.child_nickname het regtig baat gevind by jou vordering na die bereiking van jou doelwit om meer oor kinderontwikkeling te weet. @fields.user_name, is jy seker jy wil die program verlaat?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Your child has really benefitted from your progress towards reaching your goal of knowing more about child development. @fields.user_name, are you sure you want to exit the programme?"
-msgstr "Jou kind het regtig baat gevind by jou vordering na die bereiking van jou doelwit om meer oor kinder ontwikkeling te weet. @fields.user_name, is jy seker jy wil die program verlaat?"
+msgstr "Jou kind het regtig baat gevind by jou vordering na die bereiking van jou doelwit om meer oor kinderontwikkeling te weet. @fields.user_name, is jy seker jy wil die program verlaat?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of knowing more about child development, are you sure you want to exit the programme?"
-msgstr "@fields.child_nickname het regtig baat gevind by jou vordering na die bereiking van jou doelwit om meer oor kinder ontwikkeling te weet, is jy seker jy wil die program verlaat?"
+msgstr "@fields.child_nickname het regtig baat gevind by jou vordering na die bereiking van jou doelwit om meer oor kinderontwikkeling te weet; is jy seker jy wil die program verlaat?"
 
 #. type=text
 msgctxt "text"
 msgid "Your child has really benefitted from your progress towards reaching your goal of knowing more about child development, are you sure you want to exit the programme?"
-msgstr "Jou kind het regtig baat gevind by jou vordering na die bereiking van jou doelwit om meer oor kinder ontwikkeling te weet, is jy seker jy wil die program verlaat?"
+msgstr "Jou kind het regtig baat gevind by jou vordering na die bereiking van jou doelwit om meer oor kinderontwikkeling te weet; is jy seker jy wil die program verlaat?"
 
 #. type=text
 msgctxt "text"
@@ -13702,7 +13728,7 @@ msgstr "Ons hoop ons sien jou gou weer, en ons hoop jy het 'n lekker en rustige 
 #. type=text
 msgctxt "text"
 msgid "I hope to see you again soon, and I wish you a happy and peaceful day!"
-msgstr "Ek hoop ek sien jou gou weer, en ek hoop jy het 'n lekker en rustige dag!"
+msgstr "Ek hoop ek sien jou gou weer, en ek hoop jy het 'n lekker rustige dag!"
 
 #. type=text
 msgctxt "text"
