@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Filipino\n"
 "\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2022-08-03 10:28\n"
+"PO-Revision-Date: 2022-09-07 18:38\n"
 
 #. type=text
 msgctxt "text"
@@ -389,6 +389,12 @@ msgid "Would you like to tell me a little bit more about your experience?"
 msgstr "Maaari mo ba kaming kwentuhan pa tungkol sa iyong naging karanasan?"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again? Reply YES or NO"
+msgstr "Hi @fields.user_name! Ang tagal na noong huli mong reply. Sana ay nasa mabuti kang kalagayan! Nais mo bang makatanggap ulit ng mga ParentText messages? I-type ang OO o HINDI"
+
+#. type=text
 msgctxt "text"
 msgid "Hi! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again? Reply YES or NO"
 msgstr "Hi! Ang tagal na noong huli mong reply. Sana ay nasa mabuti kang kalagayan! Nais mo bang makatanggap ulit ng mga ParentText messages? I-type ang OO o HINDI"
@@ -526,6 +532,63 @@ msgstr "Narito ang isang komiks tungkol sa paglalaan ng One-on-One Time kasama a
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "Other children just like @fields.child_nickname are benefiting from ParentText in your community! Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Ang ibang bata tulad ni @fields.child_nickname ay nakikinabang sa MaPaText sa inyong komunidad! Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+msgctxt "text"
+msgid "Other children just like yours are benefiting from ParentText in your community! Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Ang ibang bata tulad ng iyong anak ay nakikinabang sa MaPaText sa inyong komunidad! Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.user_name, every time you are completing an activity, @fields.child_nickname experiences the benefits. We believe you can keep up with your amazing progress. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, tuwing nakukumpleto mo ang isang gawain, nakikinabang dito si @fields.child_nickname. Naniniwala kaming kaya mong ipagpatuloy ang napakaganda mong nasimulan. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.user_name, every time you are completing an activity, your child experiences the benefits. We believe you can keep up with your amazing progress. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, tuwing nakukumpleto mo ang isang gawain, nakikinabang dito ang iyong anak. Naniniwala kaming kaya mong ipagpatuloy ang napakaganda mong nasimulan. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Every time you are completing an activity, @fields.child_nickname experiences the benefits. We believe you can keep up with your amazing progress. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Tuwing nakukumpleto mo ang isang gawain, nakikinabang dito si @fields.child_nickname. Naniniwala kaming kaya mong ipagpatuloy ang napakaganda mong nasimulan. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+msgctxt "text"
+msgid "Every time you are completing an activity, your child experiences the benefits. We believe you can keep up with your amazing progress. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Tuwing nakukumpleto mo ang isang gawain, nakikinabang dito ang iyong anak. Naniniwala kaming kaya mong ipagpatuloy ang napakaganda mong nasimulan. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.user_name, without having access to these tips, it will be harder to know how to handle @fields.child_nickname's misbehaviour. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, kung wala kang paraan para makuha ang mga tips na ito, mas mahihirapan kang tumugon sa mga negatibong kilos ni @fields.child_nickname. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.user_name, without having access to these tips, it will be harder to know how to handle your child’s misbehaviour. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, kung wala kang paraan para makuha ang mga tips na ito, mas mahihirapan kang tumugon sa mga negatibong kilos ng iyong anak. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Without having access to these tips, it will be harder to know how to handle @fields.child_nickname's misbehaviour. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Kung wala kang paraan para makuha ang mga tips na ito, mas mahihirapan kang tumugon sa mga negatibong kilos ni @fields.child_nickname. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+msgctxt "text"
+msgid "Without having access to these tips, it will be harder to know how to handle your child’s misbehaviour. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Kung wala kang paraan para makuha ang mga tips na ito, mas mahihirapan kang tumugon sa mga negatibong kilos ng iyong anak. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "Hi @fields.user_name! We hope you and @fields.child_nickname are finding these chats helpful! Please type “MoreTips” whenever you want to receive your next message."
 msgstr "Magandang araw @fields.user_name! Sana ay nakakatulong ang mga chat na ito sa iyo at kay @fields.child_nickname! Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
 
@@ -647,6 +710,107 @@ msgstr "Magandang araw @fields.user_name! Sa kasalukuyang panahon, lahat tayo ay
 msgctxt "text"
 msgid "Hi! In the current times everyone is feeling a little stressed and a brief relaxation activity might help. Please type \"Relax\" to receive the activity!"
 msgstr "Magandang araw! Sa kasalukuyang panahon, lahat tayo ay nakakaramdam ng konting stress. Maaaring makatulong ang maiksing pamparelax na gawain. I-type ang “Relax” upang matanggap ang gawain!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "@fields.user_name, you have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to @fields.child_nickname. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, nakakolekta ka na ng @fields.n_skills/@fields.total_skills na kasanayan! Hanggang sa ngayon ay patuloy kang nagpapakita ng mahusay na dedikasyon sa pagiging kahanga-hangang magulang kay @fields.child_nickname. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "@fields.user_name, you have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to your child. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "@fields.user_name, nakakolekta ka na ng @fields.n_skills/@fields.total_skills na kasanayan! Hanggang sa ngayon ay patuloy kang nagpapakita ng mahusay na dedikasyon sa pagiging kahanga-hangang magulang sa iyong anak. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to @fields.child_nickname. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakakolekta ka ng @fields.n_skills/@fields.total_skills na kasanayan! Hanggang sa ngayon ay patuloy kang nagpapakita ng mahusay na dedikasyon sa pagiging kahanga-hangang magulang kay @fields.child_nickname. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have collected @fields.n_skills/@fields.total_skills skills! You have shown excellent dedication so far towards being a great parent to your child. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakakolekta ka ng @fields.n_skills/@fields.total_skills na kasanayan! Hanggang sa ngayon ay patuloy kang nagpapakita ng mahusay na dedikasyon sa pagiging kahanga-hangang magulang sa iyong anak. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of improving your relationship with your child. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga si @fields.child_nickname sa iyong pagsisikap na mapabuti ang relasyon mo sa iyong anak. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+msgctxt "text"
+msgid "Your child has really benefitted from your progress towards reaching your goal of improving your relationship with your child. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga ang iyong anak sa iyong pagsisikap na mapabuti ang relasyon mo sa iyong anak. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of improving your child's behaviour. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga si @fields.child_nickname sa iyong pagsisikap na mapabuti ang kilos niya. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+msgctxt "text"
+msgid "Your child has really benefitted from your progress towards reaching your goal of improving your child's behaviour. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga ang iyong anak sa iyong pagsisikap na mapabuti ang kilos niya. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of your child improving their performance at school. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga si @fields.child_nickname sa iyong pagsisikap na mapabuti ang kakayahan sa paaralan ng iyong anak. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+msgctxt "text"
+msgid "Your child has really benefitted from your progress towards reaching your goal of your child improving their performance at school. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga ang iyong anak sa iyong pagsisikap na mapabuti ang kakayahan sa paaralan ng iyong anak. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of having less conflict in your family. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga si @fields.child_nickname sa iyong pagsisikap na mabawasan ang hindi pagkakasunduan sa pamilya. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+msgctxt "text"
+msgid "Your child has really benefitted from your progress towards reaching your goal of having less conflict in your family. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga ang iyong anak sa iyong pagsisikap na mabawasan ang hindi pagkakasunduan sa pamilya. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of knowing more about how to keep your child safe. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga si @fields.child_nickname sa iyong pagsisikap na matutunan kung paano mapanatiling ligtas ang iyong anak. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+msgctxt "text"
+msgid "Your child has really benefitted from your progress towards reaching your goal of knowing more about how to keep your child safe. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga ang iyong anak sa iyong pagsisikap na matutunan kung paano mapanatiling ligtas ang iyong anak. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of knowing more about child development. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga si @fields.child_nickname sa iyong pagsisikap na abutin ang layunin mong matuto pa ng child development. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+msgctxt "text"
+msgid "Your child has really benefitted from your progress towards reaching your goal of knowing more about child development. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga ang iyong anak sa iyong pagsisikap na abutin ang layunin mong matuto pa ng child development. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname has really benefitted from your progress towards reaching your parenting goal. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga si @fields.child_nickname sa iyong pagsisikap na makamit ang iyong mga layunin bilang magulang. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
+
+#. type=text
+msgctxt "text"
+msgid "Your child has really benefitted from your progress towards reaching your parenting goal. Please type “MoreTips” whenever you want to receive your next message."
+msgstr "Nakikinabang talaga ang iyong anak sa iyong pagsisikap na makamit ang iyong mga layunin bilang magulang. Paki-type ang “KaragdagangTips” kapag gusto mong matanggap ang susunod na mensahe."
 
 #. type=text
 msgctxt "text"
