@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2022-08-24 19:05\n"
+"PO-Revision-Date: 2022-09-09 10:14\n"
 
 #. type=text
 msgctxt "text"
@@ -389,9 +389,26 @@ msgid "Would you like to tell me a little bit more about your experience?"
 msgstr "Ungathanda ukundixelela ngokungaphaya ngamava akho?"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again? Reply YES or NO"
+msgstr "Molo @fields.user_name! Ugqibele kudala ukuphendula. Siyathemba ukuba ulungile?! Ingaba ungathanda ukufumana imiyalezo ye ParentText kwakhona? Phendula EWE okanye HAYI"
+
+#. type=text
 msgctxt "text"
 msgid "Hi! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again? Reply YES or NO"
 msgstr "Molo! Ugqibele kudala ukuphendula. Siyathemba ukuba ulungile?! Ingaba ungathanda ukufumana imiyalezo ye ParentText kwakhona? Phendula EWE okanye HAYI"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again?"
+msgstr "Molo @fields.user_name! Ugqibele kudala ukuphendula. Siyathemba ukuba ulungile?! Ingaba ungathanda ukufumana imiyalezo ye ParentText kwakhona?"
+
+#. type=text
+msgctxt "text"
+msgid "Hi! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again?"
+msgstr "Molo! Ugqibele kudala ukuphendula. Siyathemba ukuba ulungile?! Ingaba ungathanda ukufumana imiyalezo ye ParentText kwakhona?"
 
 #. type=text
 msgctxt "text"
