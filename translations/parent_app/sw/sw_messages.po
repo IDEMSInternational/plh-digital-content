@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-07-25 19:09\n"
+"PO-Revision-Date: 2022-10-05 13:30\n"
 
 #. type=template
 msgctxt "template"
@@ -6018,6 +6018,23 @@ msgstr ""
 "Kesho, kipindi kipya kitakuwa tayari kwa ajili yako: utaona tofauti kubwa kwa kufanya mabadiliko madogo!"
 
 #. type=template
+msgctxt "template"
+msgid "Said something nice first"
+msgstr "Alisema kitu kizuri kwanza"
+
+#. type=template
+#. The string @global.w_instruct_teen_girl should not be translated.
+msgctxt "template"
+msgid "Spoken to @global.w_instruct_teen_girl in a calm voice"
+msgstr "Ameongea na @global.w_instruct_teen_girl kwa sauti ya utulivu"
+
+#. type=template
+#. The string @global.w_instruct_teen_girl should not be translated.
+msgctxt "template"
+msgid "Told @global.w_instruct_teen_girl what she wants her to do"
+msgstr "Alimwambia @global.w_instruct_teen_girl kile anachotaka afanye"
+
+#. type=template
 #. The following strings should not be translated: 
 #.      @global.w_instruct_teen_girl
 #.      @global.w_instruct_female_caregiver
@@ -6032,19 +6049,24 @@ msgid "What could @global.w_instruct_female_caregiver have done differently?"
 msgstr "Je, @global.w_instruct_female_caregiver angeweza kufanya nini tofauti?"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.w_instruct_teen_girl
+#.      @global.w_instruct_female_caregiver
 msgctxt "template"
-msgid "Said something nice first"
-msgstr "Alisema kitu kizuri kwanza"
+msgid "@global.w_instruct_teen_girl felt respected and loved by her @global.w_instruct_female_caregiver"
+msgstr "@global.w_instruct_teen_girl alihisi kuheshimiwa na kupendwa na @global.w_instruct_female_caregiver wake"
 
 #. type=template
+#. The string @global.w_instruct_female_caregiver should not be translated.
 msgctxt "template"
-msgid "Spoken to @global.w_instruct_teen_girl in a calm voice"
-msgstr "Ameongea na @global.w_instruct_teen_girl kwa sauti ya utulivu"
+msgid "@global.w_instruct_female_caregiver was able to stay calm"
+msgstr "@global.w_instruct_female_caregiver aliweza kutulia"
 
 #. type=template
+#. The string @global.w_instruct_female_caregiver should not be translated.
 msgctxt "template"
-msgid "Told @global.w_instruct_teen_girl what she wants her to do"
-msgstr "Alimwambia @global.w_instruct_teen_girl kile anachotaka afanye"
+msgid "@global.w_instruct_female_caregiver kept a positive attitude"
+msgstr "@global.w_instruct_female_caregiver alikuwa na mtazamo chanya"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6059,21 +6081,6 @@ msgstr "Je, @global.w_instruct_teen_girl na @global.w_instruct_female_caregiver 
 msgctxt "template"
 msgid "Why do you think the situation went better for @global.w_instruct_female_caregiver this time?"
 msgstr "Je, kwa nini unadhani mambo yalimwendea vizuri @global.w_instruct_female_caregiver mara hii?"
-
-#. type=template
-msgctxt "template"
-msgid "@global.w_instruct_teen_girl felt respected and loved by her @global.w_instruct_female_caregiver"
-msgstr "@global.w_instruct_teen_girl alihisi kuheshimiwa na kupendwa na @global.w_instruct_female_caregiver wake"
-
-#. type=template
-msgctxt "template"
-msgid "@global.w_instruct_female_caregiver was able to stay calm"
-msgstr "@global.w_instruct_female_caregiver aliweza kutulia"
-
-#. type=template
-msgctxt "template"
-msgid "@global.w_instruct_female_caregiver kept a positive attitude"
-msgstr "@global.w_instruct_female_caregiver alikuwa na mtazamo chanya"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8101,6 +8108,9 @@ msgid "They discussed the reasons behind the rule"
 msgstr "Walijadili sababu za kuwekwa kwa sheria hiyo"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
 msgctxt "template"
 msgid "@global.w_rules_female_caregiver_1 listened to @global.w_rules_teen_boy’s suggestions"
 msgstr "@global.w_rules_female_caregiver_1 alisikiliza maoni ya @global.w_rules_teen_boy"
@@ -8111,6 +8121,9 @@ msgid "The rule was clear, specific and fair"
 msgstr "Sheria hiyo ilikuwa wazi, maalum na ya haki"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.w_rules_female_caregiver_1
+#.      @global.w_rules_teen_boy
 msgctxt "template"
 msgid "@global.w_rules_female_caregiver_1 praised @global.w_rules_teen_boy for helping to make the rule"
 msgstr "@global.w_rules_female_caregiver_1 alimsifia @global.w_rules_teen_boy kwa kusaidia kuweka sheria"
@@ -8979,25 +8992,11 @@ msgstr "Hongera, umemaliza @local.workshop_data.in_text_title. Kesho, warsha mpy
 #. type=template
 #. The string @global.w_safe_teen_girl_1 should not be translated.
 msgctxt "template"
-msgid "Let's think about what happened to @global.w_safe_teen_girl_1:"
-msgstr "Hebu tufikirie kuhusu kile kilichotokea kwa @global.w_safe_teen_girl_1:"
-
-#. type=template
-msgctxt "template"
-msgid "What was risky about that situation?"
-msgstr "Kitu gani kilikuwa cha hatari kwenye tukio hilo?"
-
-#. type=template
-msgctxt "template"
-msgid "The man in the car was pressuring  @global.w_safe_teen_girl_1 with gifts"
-msgstr "Mwanaume wa ndani ya gari alikuwa akimshinikiza @global.w_safe_teen_girl_1 kwa zawadi"
-
-#. type=template
-msgctxt "template"
 msgid "@global.w_safe_teen_girl_1's friend was encouraging her"
 msgstr "Rafiki yake @global.w_safe_teen_girl_1 alikuwa akimtia moyo"
 
 #. type=template
+#. The string @global.w_safe_teen_girl_1 should not be translated.
 msgctxt "template"
 msgid "Going with an older man puts @global.w_safe_teen_girl_1 in a dangerous situation where she can get hurt or be forced to do things"
 msgstr "Kwenda na mwanaume mwenye umri mkubwa kunamweka @global.w_safe_teen_girl_1 kwenye hali ya hatari kwani anaweza kuumizwa au kulazimishwa kufanya mambo fulani"
@@ -9008,24 +9007,26 @@ msgid "Many girls in our communities get pregnant or catch HIV from older men"
 msgstr "Wasichana wengi katika jamii zetu wanapata mimba au kuambukizwa VVU na wanaume wenye umri mkubwa"
 
 #. type=template
+#. The string @global.w_safe_teen_girl_1 should not be translated.
 msgctxt "template"
 msgid "There were no other trusted adults to advise @global.w_safe_teen_girl_1"
 msgstr "Hakukuwa na watu wazima wengine wanaoaminika wa kumshauri @global.w_safe_teen_girl_1"
 
 #. type=template
+#. The string @global.w_safe_teen_girl_1 should not be translated.
+msgctxt "template"
+msgid "Let's think about what happened to @global.w_safe_teen_girl_1:"
+msgstr "Hebu tufikirie kuhusu kile kilichotokea kwa @global.w_safe_teen_girl_1:"
+
+#. type=template
+msgctxt "template"
+msgid "What was risky about that situation?"
+msgstr "Kitu gani kilikuwa cha hatari kwenye tukio hilo?"
+
+#. type=template
 msgctxt "template"
 msgid "All those things are true!"
 msgstr "Mambo yote hayo ni ya kweli!"
-
-#. type=template
-msgctxt "template"
-msgid "Let's think about our teens' online safety."
-msgstr "Hebu tufikirie usalama wa vijana wetu mtandaoni."
-
-#. type=template
-msgctxt "template"
-msgid "What is the biggest online risk for teens these days?"
-msgstr "Je, ipi ni hatari iliyo kubwa zaidi kwa vijana mtandaoni siku hizi?"
 
 #. type=template
 msgctxt "template"
@@ -9051,6 +9052,16 @@ msgstr "Vijana huwashirikisha watu wengine video au picha zinazovutia kimapenzi 
 msgctxt "template"
 msgid "People can often be nasty to teenagers online – they feel like they can bully people safely"
 msgstr "Mara nyingi watu wanaweza kuwafanyia ubaya vijana mtandaoni – wanahisi kama wanaweza kuwaonea watu halafu wao wakabaki salama"
+
+#. type=template
+msgctxt "template"
+msgid "Let's think about our teens' online safety."
+msgstr "Hebu tufikirie usalama wa vijana wetu mtandaoni."
+
+#. type=template
+msgctxt "template"
+msgid "What is the biggest online risk for teens these days?"
+msgstr "Je, ipi ni hatari iliyo kubwa zaidi kwa vijana mtandaoni siku hizi?"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -10762,6 +10773,33 @@ msgstr "Hongera kwa kumaliza @local.workshop_data.in_text_title. Kesho, utaweza 
 
 #. type=template
 msgctxt "template"
+msgid "Recognise why he feels stressed"
+msgstr "Kutambua kwa nini anahisi msongo wa mawazo"
+
+#. type=template
+msgctxt "template"
+msgid "Take a deep breath and speak calmly"
+msgstr "Kuvuta pumzi ndefu na kuzungumza kwa utulivu"
+
+#. type=template
+msgctxt "template"
+msgid "Show he understands his teen’s feelings"
+msgstr "Kuonesha kuwa anaelewa hisia za kijana wake"
+
+#. type=template
+#. The string @global.w_stress_teen_boy_1 should not be translated.
+msgctxt "template"
+msgid "Think about solutions together with @global.w_stress_teen_boy_1"
+msgstr "Kufikiria utatuzi pamoja na @global.w_stress_teen_boy_1"
+
+#. type=template
+#. The string @global.w_stress_teen_boy_1 should not be translated.
+msgctxt "template"
+msgid "Do something positive together with @global.w_stress_teen_boy_1"
+msgstr "Kufanya kitu chanya pamoja na @global.w_stress_teen_boy_1"
+
+#. type=template
+msgctxt "template"
 msgid "Let's think about what happened in this story."
 msgstr "Hebu tufikirie kuhusu kilichotokea kwenye Hadithi hii."
 
@@ -10813,31 +10851,6 @@ msgstr "Kila mmoja wao alihisi kufadhaika kwa sababu zake mwenyewe!"
 msgctxt "template"
 msgid "What could @global.w_stress_male_caregiver have done differently?"
 msgstr "Je, @global.w_stress_male_caregiver angeweza kufanyaje tofauti?"
-
-#. type=template
-msgctxt "template"
-msgid "Recognise why he feels stressed"
-msgstr "Kutambua kwa nini anahisi msongo wa mawazo"
-
-#. type=template
-msgctxt "template"
-msgid "Take a deep breath and speak calmly"
-msgstr "Kuvuta pumzi ndefu na kuzungumza kwa utulivu"
-
-#. type=template
-msgctxt "template"
-msgid "Show he understands his teen’s feelings"
-msgstr "Kuonesha kuwa anaelewa hisia za kijana wake"
-
-#. type=template
-msgctxt "template"
-msgid "Think about solutions together with @global.w_stress_teen_boy_1"
-msgstr "Kufikiria utatuzi pamoja na @global.w_stress_teen_boy_1"
-
-#. type=template
-msgctxt "template"
-msgid "Do something positive together with @global.w_stress_teen_boy_1"
-msgstr "Kufanya kitu chanya pamoja na @global.w_stress_teen_boy_1"
 
 #. type=template
 msgctxt "template"
@@ -12116,11 +12129,6 @@ msgid "**Relax** @global.parent_point"
 msgstr "@global.parent_point ya **Chukua pumziko**"
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Doing a relaxation activity"
-msgstr "Kufanya shughuli ya kuburudisha"
-
-#. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
 msgid "Every time you do a relax, tap the @global.parent_point and celebrate your success!"
@@ -12138,11 +12146,6 @@ msgid "**Treat yourself well** @global.parent_point"
 msgstr "@global.parent_point ya **Jitendee vizuri**"
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Doing something they like for themselves"
-msgstr "Kufanya kitu wanachopenda wao wenyewe"
-
-#. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
 msgid "Every time you treat yourself well, tap the @global.parent_point and celebrate your success!"
@@ -12153,11 +12156,6 @@ msgstr "Kila mara unapojitendea vizuri, bofya @global.parent_point na ushereheke
 msgctxt "data_list"
 msgid "**Praise yourself** @global.parent_point"
 msgstr "@global.parent_point ya **Jisifie**"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Praising themselves"
-msgstr "Kujisifia mwenyewe"
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
@@ -12177,11 +12175,6 @@ msgid "**One-on-one time** @global.parent_point"
 msgstr "@global.parent_point ya **Muda wa kutumia pamoja wawili**"
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Spending time with their teen"
-msgstr "Kutumia muda pamoja na kijana wako"
-
-#. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
 msgid "Every time you do one-on-one time, tap the @global.parent_point and celebrate your success!"
@@ -12199,53 +12192,16 @@ msgid "**Praise your teen** @global.parent_point"
 msgstr "@global.parent_point ya **Msifie kijana wako**"
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Praising their teen when they did positive thing"
-msgstr "Kumsifia kijana wako alipofanya jambo chanya"
-
-#. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
 msgid "Every time you praise your teen, tap the @global.parent_point and celebrate your success!"
 msgstr "Kila mara unapomsifia kijana wako, bofya @global.parent_point na usherehekee mafanikio yako!"
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Get positive"
-msgstr "Kuwa na mtazamo chanya"
-
-#. type=data_list
-#. The string @global.parent_point should not be translated.
-msgctxt "data_list"
-msgid "**Get positive** @global.parent_point"
-msgstr "@global.parent_point ya **Kuwa na mtazamo chanya**"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Giving their teen a positive instruction"
-msgstr "Kuwapa vijana wake maelekezo chanya"
-
-#. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
 msgid "Every time you give a positive instruction, tap the @global.parent_point and celebrate your success!"
 msgstr "Kila mara unapotoa maelekezo chanya, bofya @global.parent_point na usherehekee mafanikio yako!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Breathe not yell"
-msgstr "Vuta pumzi, usifoke"
-
-#. type=data_list
-#. The string @global.parent_point should not be translated.
-msgctxt "data_list"
-msgid "**Breathe not yell** @global.parent_point"
-msgstr "@global.parent_point ya **Vuta pumzi, usifoke**"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Taking a pause before responding"
-msgstr "Kutulia kabla ya kujibu"
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
@@ -12265,11 +12221,6 @@ msgid "**Good money choice** @global.parent_point"
 msgstr "@global.parent_point ya **Maamuzi mazuri kuhusu pesa**"
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Keeping the budget"
-msgstr "Kutumia bajeti"
-
-#. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
 msgid "Every time you make a good choice about needs, wants and savings, tap the @global.parent_point and celebrate your success!"
@@ -12287,31 +12238,10 @@ msgid "**Calm consequence** @global.parent_point"
 msgstr "@global.parent_point ya **Athari nyepesi**"
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Giving their teen a consequence in a calm way"
-msgstr "Kuamuru kwa utulivu kijana wake afanye athari"
-
-#. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
 msgid "Every time you give a calm consequence, tap the @global.parent_point and celebrate your success!"
 msgstr "Kila mara unapoamuru kufanywa kwa athari nyepesi, bofya @global.parent_point na usherehekee mafanikio yako!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Safe"
-msgstr "Salama"
-
-#. type=data_list
-#. The string @global.parent_point should not be translated.
-msgctxt "data_list"
-msgid "**Safe** @global.parent_point"
-msgstr "@global.parent_point **Salama**"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Planning or keeping a family safety plan"
-msgstr "Kupanga au kutumia mpango wa usalama wa familia"
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
@@ -12704,13 +12634,8 @@ msgstr "Je, umekasirika? Pumzika"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "It is hard to find time to have fun with your teenager."
-msgstr "Ni vigumu kupata muda wa kufurahi na kijana wako."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "How many days in the past week were you able to do something fun together?"
-msgstr "Je, ni siku ngapi katika wiki iliyopita mliweza kufanya kitu cha furahisha pamoja?"
+msgid "WhatsApp"
+msgstr "WhatsApp"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12719,18 +12644,8 @@ msgstr "Katika maisha yetu yenye shughuli nyingi ni vigumu kuzingatia mambo chan
 
 #. type=data_list
 msgctxt "data_list"
-msgid "How many days in the past week have you praised your teen?"
-msgstr "Je, ni siku ngapi katika wiki iliyopita ulimsifia kijana wako?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "This is a very stressful time for families."
-msgstr "Huu ni muda wenye msongo mkubwa wa mawazo kwa familia."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "How many days in the past week did you feel very stressed as a parent/caregiver?"
-msgstr "Je, ni siku ngapi katika wiki iliyopita ulihisi kuwa na msongo mkubwa wa mawazo kama mzazi/mlezi?"
+msgid "Days in the past week"
+msgstr "Siku za wiki iliyopita"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12739,23 +12654,8 @@ msgstr "Wakati mwingine watoto wetu hutukasirisha sana."
 
 #. type=data_list
 msgctxt "data_list"
-msgid "How many days in the past week did you shout, scream or yell at your teen?"
-msgstr "Je, ni siku ngapi katika wiki iliyopita ulimfokea kijana wako?"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Money is one of the biggest stresses for families."
 msgstr "Pesa ni miongoni mwa vyanzo vikubwa zaidi vya msongo wa mawazo katika familia."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "How many days in the past week have you felt worried or anxious about money?"
-msgstr "Je, ni siku ngapi katika wiki iliyopita ulikuwa na wasiwasi au hofu kuhusu pesa?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "How many days in the past month (30 days) did you run out of money to pay for food?"
-msgstr "Je, ni siku ngapi katika mwezi uliopita (siku 30) ulikosa pesa za kununulia chakula?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12764,48 +12664,8 @@ msgstr "Watoto wanapokuwa na tabia mbaya wanaleta msongo wa mawazo."
 
 #. type=data_list
 msgctxt "data_list"
-msgid "How many days in the past week did you physically discipline your children by hitting, spanking, or slapping with your hand or an object like a stick or a belt?"
-msgstr "Ni siku ngapi katika wiki iliyopita uliwaadhibu watoto wako kwa kuwachapa au kuwapiga makofi au kuwapiga kwa fimbo au mkanda?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "It’s hard to keep track of your teenagers when they are becoming independent."
-msgstr "Ni vigumu kuwafuatilia vijana wako wanapojitegemea."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "How many days in the past week did you know what your teen was doing and who they were with?"
-msgstr "Ni siku ngapi katika wiki iliyopita ulijua vitu kijana wako alikuwa anafanya na alikuwa na nani?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Days in the past week"
-msgstr "Siku za wiki iliyopita"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "We all want to keep our children safe."
-msgstr "Wote tunataka kuwaweka watoto wetu salama."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "In the past month, did you talk with your teen about keeping safe from sexual violence online or offline?"
-msgstr "Katika mwezi uliopita, ulizungumza na kijana wako kuhusu kujilinda dhidi ya ukatili wa kingono mtandaoni au nje ya mtandao?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "This could be about going out with friends or about the websites and apps they use."
-msgstr "Hii inaweza kuhusisha kutoka na marafiki au tovuti na programu wanazotumia."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "How many days have you had a talk like this?"
-msgstr "Je, ni siku ngapi mmefanya maongezi kama haya?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Days in the past month"
-msgstr "Siku za mwezi uliopita"
+msgid "It is wonderful that you are responding calmly when your teen does something upsetting. They can learn so much from you!"
+msgstr "Inafurahisha sana kuona unajibu kwa utulivu licha ya kijana wako kufanya jambo la kufadhaisha. Anaweza kujifunza mambo mengi sana kutoka kwako!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12819,23 +12679,8 @@ msgstr "Kwa kiwango gani unajiamini kuhusu uwezo wako kama mzazi/mlezi katika ku
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Not confident"
-msgstr "Sijiamini"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Extremely confident"
-msgstr "Najiamini sana"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Welcome and Self-Care"
 msgstr "Makaribisho na Kujithamini"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "**Welcome and Self-Care** workshop"
-msgstr "Warsha ya **Makaribisho na Ujitunzaji**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12880,11 +12725,6 @@ msgstr "Muda wa Pamoja Wawili"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "**One-on-One Time** workshop"
-msgstr "Warsha ya **Muda wa Pamoja Wawili**"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "How to spend one-on-one time"
 msgstr "Jinsi ya kutumia muda wa pamoja wawili"
 
@@ -12922,11 +12762,6 @@ msgstr ""
 msgctxt "data_list"
 msgid "Praise"
 msgstr "Kusifia"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "**Praise** workshop"
-msgstr "Warsha ya **Usifiaji**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12979,11 +12814,6 @@ msgstr "Maelekezo Chanya"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "**Positive Instructions** workshop"
-msgstr "Warsha ya **Maagizo Chanya**"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "How to give positive instructions"
 msgstr "Jinsi ya kutoa maelekezo chanya"
 
@@ -13029,11 +12859,6 @@ msgstr "Kudhibiti Msongo wa Mawazo"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "**Managing Stress** workshop"
-msgstr "Warsha ya **Kudhibiti Msongo wa Mawazo**"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "How to manage stress"
 msgstr "Jinsi ya kudhibiti msongo wa mawazo"
 
@@ -13068,11 +12893,6 @@ msgstr ""
 msgctxt "data_list"
 msgid "Family Budgets"
 msgstr "Bajeti za Familia"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "**Family Budgets** workshop"
-msgstr "Warsha ya **Bajeti za Familia**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13113,11 +12933,6 @@ msgstr ""
 msgctxt "data_list"
 msgid "Rules"
 msgstr "Sheria"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "**Rules** workshop"
-msgstr "Warsha ya **Sheria**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13162,11 +12977,6 @@ msgstr "Athari Nyepesi"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "**Calm Consequences** workshop"
-msgstr "Kipindi cha  **Athari Nyepesi**"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "How to give calm consequences"
 msgstr "Jinsi ya kuamuru athari nyepesi zifanywe"
 
@@ -13205,11 +13015,6 @@ msgstr ""
 msgctxt "data_list"
 msgid "Problem Solving"
 msgstr "Kutatua Matatizo"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "**Problem Solving** workshop"
-msgstr "Warsha ya **Kutatua Matatizo**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13257,11 +13062,6 @@ msgstr "Usalama wa Vijana"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "**Teen Safety** workshop"
-msgstr "Warsha ya **Usalama wa Vijana**"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "How to keep your teen safe"
 msgstr "Jinsi ya kumweka salama kijana wako"
 
@@ -13302,11 +13102,6 @@ msgstr "Kushughulikia Hali ya Matatizo"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "**Dealing with Crisis** workshop"
-msgstr "Warsha ya **Kushughulikia Hali ya Hatari**"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "How to deal with crisis"
 msgstr "Jinsi ya kushughulikia hali ya hatari"
 
@@ -13341,11 +13136,6 @@ msgstr "Kusherehekea na Hatua Zinazofuata"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "**Celebration and Next Steps** workshop"
-msgstr "Warsha ya **Kusherehekea na Hatua Zinazofuata**"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "How to support each other"
 msgstr "Jinsi ya kusaidiana"
 
@@ -13362,74 +13152,8 @@ msgstr "Endelea"
 #. type=data_list
 #. The string @global.parent_app. should not be translated.
 msgctxt "data_list"
-msgid "Hi great parent, remember to take care of yourself too - it will help you AND your family! Get your tips and more in @global.parent_app."
-msgstr "Habari mzazi, kumbuka kujithamini mwenyewe pia - itakusaidia wewe na familia yako! Pata dondoo zaidi katika programu ya @global.parent_app."
-
-#. type=data_list
-#. The string @global.parent_app. should not be translated.
-msgctxt "data_list"
-msgid "Hi great parent! Remember, you can find lots of helpful tips in @global.parent_app."
-msgstr "Habari mzazi! Kumbuka, unaweza kupata vidokezo vingi vya kukusaidia katika programu ya @global.parent_app."
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Hi great parent! @global.parent_app is here to support you. Check it out now!"
-msgstr "Habari mzazi! Programu ya @global.parent_app ipo hapa kukusaidia. Itazame sasa!"
-
-#. type=data_list
-#. The string @global.parent_app. should not be translated.
-msgctxt "data_list"
 msgid "Welcome to @global.parent_app. Click here to start your journey!"
 msgstr "Karibu kwenye @global.parent_app. Bonyeza hapa kuanza safari yako!"
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Hi! Is everything OK? It seems you haven’t opened @global.parent_app lately. Why don’t you give it a try? Millions of parents have found these materials helpful. We are still here to support you."
-msgstr "Habari! Kuna tatizo lolote? Inaonekana haujafungua @global.parent_app hivi karibuni. Hebu ijaribu! Mamilioni ya wazazi wamegundua kuwa taarifa hizi zinasaidia. Bado tuko hapa ili kukusaidia."
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "@global.parent_app misses you! There is a lot to explore. We are still here to support you."
-msgstr "@global.parent_app inakupenza! Kuna mengi ya kujifunza. Bado tuko hapa ili kukusaidia."
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use @global.parent_app to prepare your teen for success in life."
-msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia @global.parent_app kumwandaa kijana wako afanikiwe maishani."
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use @global.parent_app to bond with your teen again!"
-msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia @global.parent_app kupatana tena na kijana wako!"
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Hope you are feeling OK. Parenting is hard, but it’s never too late to start again with your teenager. Your first parenting workshop is ready for you! Click here to start your @global.parent_app journey!"
-msgstr "Tunatumaini kuwa haujambo. Kulea ni kugumu, lakini usichoke kuanza tena kwa ajili ya kijana wako. Warsha yako ya kwanza ya malezi iko tayari kwa ajili yako! Bonyeza hapa kuanza safari yako ya @global.parent_app!"
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use @global.parent_app to help you manage parenting stress."
-msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia @global.parent_app ikusaidie kudhibiti msongo wa mawazo kutokana na malezi."
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Hello again! It’s never too late to use @global.parent_app and get tailored parenting support. Why don’t you give it a try when you are commuting to work or when the food is cooking? Millions of parents found our materials helpful."
-msgstr "Habari kwa mara nyingine! Hata haujachelewa kutumia @global.parent_app ili kupata msaada stahiki wa malezi. Kwa nini usiijaribu unaposafiri kwenda kazini au unaposubiri chakula kiive? Mamilioni ya wazazi wameona kuwa taarifa zetu zinasaidia."
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Hope you are feeling OK. We know parenting is hard - use @global.parent_app to help you manage your teen's behaviour."
-msgstr "Tunatumaini kuwa haujambo. Tunajua malezi ni magumu – tumia @global.parent_app ikusaidie kudhibiti tabia za kijana wako."
 
 #. type=data_list
 #. The following strings should not be translated: 
