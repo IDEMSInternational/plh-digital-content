@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2022-10-05 13:30\n"
+"PO-Revision-Date: 2022-10-10 14:34\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -388,11 +388,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Home"
-msgstr "Ikhasi Lokuqala"
-
-#. type=template
-msgctxt "template"
 msgid "Settings"
 msgstr "Izilungiselelo"
 
@@ -713,20 +708,6 @@ msgstr "Cindezela unxantathu ukukusiza ugcine le ngxoxo kumizuzu we- @ local.tim
 msgctxt "template"
 msgid "Video"
 msgstr "Ividiyo"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.relevant_content_title
-#.      @data.parent_centre.my_tips.title
-msgctxt "template"
-msgid "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
-msgstr "@local.relevant_content_title added to @data.parent_centre.my_tips.title."
-
-#. type=template
-#. The string @local.threshold should not be translated.
-msgctxt "template"
-msgid "You selected less than @local.threshold"
-msgstr "Ukhethe okungaphansi kuka @local.threshold"
 
 #. type=template
 msgctxt "template"
@@ -1087,6 +1068,16 @@ msgstr "Qala @local.workshop_data.in_text_title"
 msgctxt "template"
 msgid "Finish current workshop"
 msgstr "Qedelela lomhlangano wokufundisana wamanje"
+
+#. type=template
+msgctxt "template"
+msgid "Home"
+msgstr "Ikhasi Lokuqala"
+
+#. type=template
+msgctxt "template"
+msgid "Parent Library"
+msgstr "Umtapo Wolwazi Womzali"
 
 #. type=template
 #. The string @global.parent_app should not be translated.
@@ -2175,164 +2166,10 @@ msgid "Customise @global.parent_app"
 msgstr "Hlela Ngendlela Oyithandayo @global.parent_app"
 
 #. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshop
-#.      @data.parent_centre.my_tips.location_text
-msgctxt "template"
-msgid ""
-"Thank you for being honest. It can be so difficult to control our stress. To look after yourself and help you feel calmer when things get tough, we will keep reminding you to relax, recognise and reward yourself. You matter!\n"
-"\n"
-"You can find more ideas to manage stress in the @global.weekly_workshop or under @data.parent_centre.my_tips.location_text."
-msgstr ""
-"Siyakubonga ngokuba qotho. Kungaba nzima kakhulu ukulawula ukucindezeleka kwethu. Ukuze uzinakekele futhi sikusize uhlale uzolile lapho izimo ziba nzima, sizoqhubeka sikukhumbuza ukuba uphumule, uziqaphele futhi uzivuze. Ubalulekile!\n"
-"\n"
-"Ungathola amacebiso engeziwe okubhekana nokucindezeleka ku-@global.weekly_workshop noma ngaphansi kokuthi-@data.parent_centre.my_tips.location_text."
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid ""
-"Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. \n"
-"\n"
-"We all feel overwhelmed sometimes, and continuing to use @global.parent_app is a great step to help you and your family!\n"
-"\n"
-"Our materials have helped thousands of parents and families to be less stressed and have more positive time together. We are here to support you."
-msgstr ""
-"Siyakubonga ngokuba qotho – siyaxolisa ngokuthi ingane yakho eyevile eminyakeni eyishumi nambili ikuthwalise kanzima. \n"
-"\n"
-"Sonke sizizwa sikhungathekile ngezinye izikhathi, futhi ukuqhubeka usebenzisa i-@global.parent_app kuyisinyathelo esihle sokusiza wena nomndeni wakho!\n"
-"\n"
-"Amathuluzi ethu aye asiza izinkulungwane zabazali kanye nemindeni ukuba ingacindezeleki kakhulu futhi ichithe isikhathi kamnandi ndawonye. Silapha ukuze sikusekele."
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshop
-#.      @data.parent_centre.my_tips.location_text
-msgctxt "template"
-msgid ""
-"This is a real concern for parents everywhere. Remember to use your new skills to continue to build good communication with your teen. \n"
-"\n"
-"You can review core tips on planning for your teen’s safety in the @global.weekly_workshop or under @data.parent_centre.my_tips.location_text!"
-msgstr ""
-"Lokhu kubakhathaza ngempela abazali yonke indawo. Khumbula ukusebenzisa amakhono akho amasha ukuze uqhubeke ukwakha ukukhulumisana okuhle nengane yakho esebusheni bayo. \n"
-"\n"
-"Ungahlola amacebiso abalulekile okuhlela ukuphepha kwengane yakho esebusheni ku-@global.weekly_workshop noma ngaphansi kwe-@data.parent_centre.my_tips.location_text!"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @data.workshop.w_money.in_text_title
-#.      @data.parent_centre.my_tips.location_text
-msgctxt "template"
-msgid "Great. If any stress or disagreements around money do come up in your family in the future, you can always review the @data.workshop.w_money.in_text_title or @data.parent_centre.my_tips.location_text!"
-msgstr "Kuhle. Uma kuvela ukucindezeleka noma ukungavumelani okubangelwa yimali emndenini esikhathini esizayo, ungahlola la-ku-@data.workshop.w_money.in_text_title noma okuthi-@data.parent_centre.my_tips.location_text!"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @data.workshop.w_money.in_text_title
-#.      @data.parent_centre.my_tips.location_text
-msgctxt "template"
-msgid ""
-"Money stress can be overwhelming. \n"
-"\n"
-"Whenever stress or disagreements around money come up in your family, you can find tips in the @data.workshop.w_money.in_text_title or under @data.parent_centre.my_tips.location_text!"
-msgstr ""
-"Ingcindezi yemali ingakhungathekisa. \n"
-"\n"
-"Noma nini lapho kuvela ukucindezeleka noma ukungavumelani okubangelwa yimali emndenini wakho, ungathola amacebiso ku @data.workshop.w_money.in_text_title noma ngaphansi kokuthi @data.parent_centre.my_tips.location_text!"
-
-#. type=template
 #. The string @global.parent_centre should not be translated.
 msgctxt "template"
 msgid "Remember you can access lots of helpful tips and resources in the @global.parent_centre - this is available for you at any time!"
 msgstr "Khumbula ungathola amacebiso amaningi awusizo kanye nezinsiza ku-@global.parent_centre - lokhu ungakuthola noma nini!"
-
-#. type=template
-#. The string @data.workshop.w_safe.in_text_title should not be translated.
-msgctxt "template"
-msgid ""
-"Being a parent is not easy. Well done for focusing on keeping your teen safe. \n"
-"\n"
-"Remember, you can find more support on this in the @data.workshop.w_safe.in_text_title whenever you need it!"
-msgstr ""
-"Ukuba umzali akulula. Wenze kahle ngokugxila ekugcineni ingane yakho iphephile. \n"
-"\n"
-"Khumbula, ungathola ukusekwa okwengeziwe mayelana nalokhu ku-@data.workshop.w_safe.in_text_title noma nini lapho ukudinga!"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @data.parent_centre.my_tips.location_text
-#.      @data.workshop.w_1on1.in_text_title
-msgctxt "template"
-msgid "We know this is hard. You can review some helpful tips on how you can spend time with your teen under @data.parent_centre.my_tips.location_text or you can have another look at the @data.workshop.w_1on1.in_text_title."
-msgstr "Siyazi ukuthi kunzima lokho. Ungahlola amacebiso athile awusizo ngezindlela ongachitha ngayo isikhathi nengane yakho esebusheni bayo ngaphansi kwe-@data.parent_centre.my_tips.location_text noma ungaphinde uhlole i-@data.workshop.w_1on1.in_text_title."
-
-#. type=template
-#. The string @data.workshop.w_1on1.in_text_title should not be translated.
-msgctxt "template"
-msgid "Well done for laying such a good foundation! You can always review the @data.workshop.w_1on1.in_text_title to get more ideas on how to spend time together."
-msgstr "Wenze kahle ngokubeka isisekelo esihle kangaka! Ungayihlola noma nini i-@data.workshop.w_1on1.in_text_title ukuze uthole amacebiso ezindlela eningachitha ngazo isikhathi ndawonye."
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @data.parent_centre.my_tips.location_text
-#.      @data.workshop.w_praise.in_text_title
-msgctxt "template"
-msgid ""
-"Using this app shows that you care about your teen. You can review how to use praise under @data.parent_centre.my_tips.location_text.\n"
-"\n"
-"For more tips on how to use this skill well, you can also have another look at the @data.workshop.w_praise.in_text_title."
-msgstr ""
-"Ukusebenzisa le-app kubonisa ukuthi uyayikhathalela ingane yakho esebusheni bayo. Ungahlola indlela yokuncoma ngaphansi kokuthi-@data.parent_centre.my_tips.location_text.\n"
-"\n"
-"Ukuze uthole amacebiso engeziwe endlela yokusebenzisa leli khono kahle, ungaphinde uhlole i-@data.workshop.w_praise.in_text_title."
-
-#. type=template
-#. The string @data.workshop.w_praise.in_text_title should not be translated.
-msgctxt "template"
-msgid ""
-"Wonderful that you are praising your teen! This helps them feel valued – your encouragement means a lot. \n"
-"\n"
-"You can always have another look at the @data.workshop.w_praise.in_text_title for more tips on how to use this skill well."
-msgstr ""
-"Kuhle ukuthi uyayincoma ingane yahoo esebusheni bayo! Lokhu kuzisiza zizizwe zibalulekile – isikhuthazo sakho sibalulekile kahkhulu. \n"
-"\n"
-"Ungahlola futhi i-@data.workshop.w_praise.in_text_title ukuze uthole amacebiso engeziwe endlela yokusebenzisa leli khono kahle."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Great that this has been a good week!\n"
-"\n"
-"We will keep reminding you to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm."
-msgstr ""
-"Kuhle ukuthi deli bekuyisonto elihle!\n"
-"\n"
-"Sizoqhubeka sikukhumbuza ukuthi uphumule, uziqaphele futhi uzivuze, ukuze sikusize uqhubeke ulawula ukucindezeleka kwakho futhi uzizwe uzolile."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Great that you felt calm most of the week! \n"
-"\n"
-"We will keep reminding you to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm."
-msgstr ""
-"Kuhle ukuthi uzizwe uzolile izinsuku eziningi phakathi nesonto! \n"
-"\n"
-"Sizoqhubeka sikukhumbuza ukuba uphumule, uziqaphele futhi uzivuze, ukuze sikusize uqhubeke ulawula ukucindezeleka kwakho futhi uzizwe uzolile."
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshop
-#.      @data.parent_centre.my_tips.location_text
-msgctxt "template"
-msgid ""
-"We understand how stressful life can be. We will keep reminding you to relax, recognise and reward yourself, to help manage your stress and feel calmer.\n"
-"\n"
-"You can find more ideas to manage stress in the @global.weekly_workshop or under @data.parent_centre.my_tips.location_text."
-msgstr ""
-"Siyaqonda ukuthi impilo ingaba nengcindezi kangakanani. Sizohlala sikukhumbuza ukuthi uphumule, uzibone futhi uziklomelise, ukuze usize ukulawula ukucindezeleka kwakho futhi uzizwe upholile.\n"
-"\n"
-"Ungathola amacebiso engeziwe okubhekana nokucindezeleka ku-@global.weekly_workshop noma ngaphansi kokuthi-@data.parent_centre.my_tips.location_text."
 
 #. type=template
 msgctxt "template"
@@ -2354,16 +2191,6 @@ msgstr ""
 msgctxt "template"
 msgid "Thank you for being honest"
 msgstr "Siyakubonga ngokuba qotho"
-
-#. type=template
-msgctxt "template"
-msgid "It is wonderful that you are responding calmly when your teen does something upsetting. They can learn so much from you!"
-msgstr "Kuhle ukuthi uphendula ngomoya ophansi lapho ingane yakho yenza okuthile okucasulayo. Bangafunda okuningi kuwe!"
-
-#. type=template
-msgctxt "template"
-msgid "Great that you are aware of what your teen is doing. Parenting is hard, but you’re really succeeding in this to keep them safe."
-msgstr "Kuhle ukuthi uyakwazi lokho okwenziwa yingane yakho esebusheni bayoi. Ukuba umzali kunzima, kodwa uyaphumelela ngempela ekugcineni ingane yakho iphephile."
 
 #. type=template
 msgctxt "template"
@@ -2420,167 +2247,10 @@ msgstr ""
 "Futhi ungakhetha ukungaphenduli nowodwa umbuzo ngokukhetha indilinga."
 
 #. type=template
-msgctxt "template"
-msgid "Well done. Brain science shows that controlling your anger improves your teen’s brain development. Be proud of yourself."
-msgstr "Wenze kahle. ulwazi lwezinto zemvelo nje ngengqondo ibonisa ukuthi ukulawula intukuthelo yakho kuthuthukisa ukukhula kwengqondo yengane yakho esebusheni bayo. Ziqhenye ngawe ngokwakho."
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @data.workshop.w_stress.number
-#.      @global.weekly_workshops
-#.      @data.parent_centre.my_tips.location_text
-msgctxt "template"
-msgid ""
-"Thank you for being honest. It can be so difficult to control our stress. To look after yourself and help you feel calmer when things get tough, we’ll remind you regularly to relax, recognise and reward yourself. You matter!\n"
-"\n"
-"We will learn more about managing stress in week @data.workshop.w_stress.number of the @global.weekly_workshops, but you can already access some helpful tools under @data.parent_centre.my_tips.location_text to get started."
-msgstr ""
-"Siyakubonga ngokuba qotho. Kungaba nzima kakhulu ukulawula ukucindezeleka kwethu. Ukuze uzinakekele futhi sikusize uhlale uzolile lapho izimo ziba nzima, sizokukhumbuza njalo ukuba uphumule, uziqaphele futhi uzivuze. Ubalulekile!\n"
-"\n"
-"Sizofunda okuningi ngokulawula ukucindezeleka esontweni @data.workshop.w_stress.number le-@global.weekly_workshops, kodwa kakade ungakwazi ukufinyelela amathuluzi awusizo ngaphansi kwe-@data.parent_centre.my_tips.location_text ukuze uqalise."
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid ""
-"Thank you for being honest – and we’re sorry you’re having a difficult time with your teen. \n"
-"\n"
-"We all feel overwhelmed sometimes, and using @global.parent_app is a great step to help you and your family!\n"
-"\n"
-"Our materials have helped thousands of parents and families to be less stressed and have more positive time together. We are here to support you."
-msgstr ""
-"Siyabonga ngokwethembeka - futhi siyaxolisa ngokuba nesikhathi esinzima nengane yakho esebusheni bayo.\n"
-"\n"
-"Sonke sizizwa sikhungathekile ngezinye izikhathi, futhi ukusebenzisa i @global.parent_app kuyisinyathelo esihle sokusiza wena nomndeni wakho!\n"
-"\n"
-"Amacebiso ethu ake asiza izinkulungwane zabazali kanye nemindeni ukuba ingacindezeleki kakhulu futhi ichithe isikhathi esimnandi ndawonye. Silapha ukuze sikusekele."
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.weekly_workshops
-#.      @data.parent_centre.my_tips.location_text
-msgctxt "template"
-msgid ""
-"This is a real concern for parents everywhere. We’ll make sure you get support with building communication. \n"
-"\n"
-"We’ll talk more about planning for your teen’s safety later in the @global.weekly_workshops, but you can already access some first core tips to keep your teen safe under @data.parent_centre.my_tips.location_text!"
-msgstr ""
-"Lokhu kuyabakhathaza abazali yonke indawo. Sizoqinisekisa ukuthi uthola ukwesekwa ngokwakha ukukhulumisana. \n"
-"\n"
-"Sizokhuluma kabanzi ngokuhlela kokuphepha kwengane yakho kamuva ku @global.weekly_workshops, kodwa ungawathola kakade amanye amacebiso ayisisekelo okugcina ingane yakho iphephile ngaphansi kokuthi @data.parent_centre.my_tips.location_text!"
-
-#. type=template
-msgctxt "template"
-msgid "Great. We have a workshop on family budgeting that can help with money stress more generally, and reduce money-related arguments."
-msgstr "Kuhle. Sinemhlangano yokufundisana emayelana nokwenza isabelomali somndeni okungakusiza ngengcindezi yemali kabanzana, futhi kunciphise izingxabano ezihilela imali."
-
-#. type=template
-#. The string @data.parent_centre.my_tips.location_text should not be translated.
-msgctxt "template"
-msgid ""
-"Money stress can be overwhelming. \n"
-"\n"
-"We have a workshop on family budgeting in five weeks, but you can already access some core family budgeting tips under @data.parent_centre.my_tips.location_text!"
-msgstr ""
-"Ingcindezi yemali ingakhungathekisa. \n"
-"\n"
-"Sinokuqeqeshwa okumayelana nokwenza isabelomali somndeni emasontweni amahlanu, kodwa ungawathola kakade amacebiso ayinhloko esabelomali somndeni ngaphansi kwe-@data.parent_centre.my_tips.location_text!"
-
-#. type=template
 #. The string @data.parent_centre.my_tips.location_text should not be translated.
 msgctxt "template"
 msgid "Content unlocked by these questions is now accessible under @data.parent_centre.my_tips.location_text."
 msgstr "Okuqukethwe okuvulwa ngale mibuzo sekuyatholakala ngaphansi kokuthi @data.parent_centre.my_tips.location_text."
-
-#. type=template
-#. The string @global.weekly_workshops should not be translated.
-msgctxt "template"
-msgid ""
-"Being a parent is not easy. Well done for focusing on keeping your teen safe. \n"
-"\n"
-"We’ll have more support for you on this in the later @global.weekly_workshops if you’d like to know even more!"
-msgstr ""
-"Ukuba umzali akulula. Wenze kahle ngokugxila ekugcineni ingane yakho iphephile. \n"
-"\n"
-"Sizokunikeza ukwesekwa okwengeziwe kulokhu kamuva ku @global.weekly_workshops uma ungathanda ukwazi okwengeziwe!"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @data.parent_centre.my_tips.location_text
-#.      @data.workshop.w_1on1.title
-#.      @global.weekly_workshop
-msgctxt "template"
-msgid ""
-"We know this is hard. We have added some helpful tips on how you can spend time with your teen to @data.parent_centre.my_tips.location_text, so you can access it right away. \n"
-"\n"
-"Because @data.workshop.w_1on1.title builds the foundation for all other parenting tools,  it will be the @global.weekly_workshop you receive next week!"
-msgstr ""
-"Siyazi ukuthi kunzima lokho. Senezele amacebiso awusizo endlela ongachitha ngayo isikhathi nengane yakho eyevile eminyakeni eyishumi nambili ukuze @data.parent_centre.my_tips.location_text, uzokwazi ukuwafinyelela ngokushesha. \n"
-"\n"
-"Ngenxa yokuthi i-@data.workshop.w_1on1.title yakha isisekelo sawo wonke amanye amathuluzi okuba umzali, izoba yi-@global.weekly_workshop ozoyithola ngesonto elizayo!"
-
-#. type=template
-#. The string @global.weekly_workshop should not be translated.
-msgctxt "template"
-msgid "Well done! Our next @global.weekly_workshop  will give you more ideas for this, as a foundation for all the other parenting tools. But you already have a great start!"
-msgstr "Wenze kahle! I-@global.weekly_workshop yethu elandelayo izokunikeza eminye imibono yalokhu, njengesisekelo sawo wonke amanye amacebiso okukhulisa izingane. Kodwa usuvele unesiqalo esihle!"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @data.parent_centre.my_tips.location_text
-#.      @data.workshop.w_praise.in_text_title
-msgctxt "template"
-msgid ""
-"Using this app shows that you care about your teen. We have added some essential tools on how to use praise to @data.parent_centre.my_tips.location_text for quick access.\n"
-"\n"
-"In our @data.workshop.w_praise.in_text_title you will learn even more on how to use this skill well."
-msgstr ""
-"Ukusebenzisa le-app kubonisa ukuthi uyayikhathalela ingane yakho esebusheni bayo. Sifake amanye amacebiso abalulekile endlela yokusebenzisa ukuncoma ku-@data.parent_centre.my_tips.location_text ukuze ukuthole ngokushesha.\n"
-"\n"
-"Ku-@data.workshop.w_praise.in_text_title yethu, uzofunda okwengeziwe ngendlela yokusebenzisa leli khono kahle."
-
-#. type=template
-#. The string @data.workshop.w_praise.in_text_title should not be translated.
-msgctxt "template"
-msgid "Wonderful that you are praising your teen! This helps them feel valued – your encouragement means a lot. In our @data.workshop.w_praise.in_text_title you will learn even more how to use this skill well."
-msgstr "Kuhle ukuthi uyayincoma ingane yahoo esebusheni bayo! Lokhu kuzisiza zizizwe zibalulekile – isikhuthazo sakho sisho okukhulu. Ku-@data.workshop.w_praise.in_text_title yethu, uzofunda okwengeziwe ngendlela yokusebenzisa leli khono kahle."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Great that this has been a good week!\n"
-"\n"
-"We will remind you regularly to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm."
-msgstr ""
-"Kuhle ukuthi leli kube yisonto elihle!\n"
-"\n"
-"Sizokukhumbuza njalo ukuba uphumule, uziqaphele futhi uzivuze, ukuze sikusize uqhubeke ulawula ukucindezeleka kwakho futhi uzizwe uzolile."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Great that you felt calm most of the week! \n"
-"\n"
-"We will remind you regularly to relax, recognise and reward yourself, to help you continue to manage your stress and feel calm."
-msgstr ""
-"Kuhle ukuthi uzizwe uzolile izinsuku eziningi phakathi nesonto! \n"
-"\n"
-"Sizokukhumbuza njalo ukuba uphumule, uziqaphele futhi uzivuze, ukuze sikusize uqhubeke ulawula ukucindezeleka kwakho futhi uzizwe uzolile."
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @data.workshop.w_stress.number
-#.      @global.weekly_workshops
-#.      @data.parent_centre.my_tips.location_text
-msgctxt "template"
-msgid ""
-"We understand how stressful life can be. We will remind you regularly to relax, recognise and reward yourself, to help manage your stress and feel calmer.\n"
-"\n"
-"We will learn more about managing stress in week @data.workshop.w_stress.number of the @global.weekly_workshops - but you can already access some helpful tools under @data.parent_centre.my_tips.location_text to get you started!"
-msgstr ""
-"Siyaqonda ukuthi impilo ingaba nengcindezi kangakanani. Sizokukhumbuza njalo ukuthi uphumule, uzibone futhi uziklomelise, ukuze usize ukulawula ukucindezeleka kwakho futhi uzizwe upholile.\n"
-"\n"
-"Sizofunda okuningi ngokulawula ukucindezeleka esontweni @data.workshop.w_stress.number le-@global.weekly_workshops - kodwa kakade ungakwazi ukufinyelela amacebiso awusizo ngaphansi kwe-@data.parent_centre.my_tips.location_text ukuze uqalise!"
 
 #. type=template
 msgctxt "template"
@@ -12320,6 +11990,16 @@ msgstr "Izinsuku esontweni elidlule"
 msgctxt "data_list"
 msgid "Sometimes our children make us really upset."
 msgstr "Ngezinye izikhathi izingane zethu zisithukuthelisa kakhulu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many days in the past month (30 days) did you run out of money to pay for food?"
+msgstr "Zingaki izinsuku enyangeni edlule (izinsuku ezingu-30) oye waphelelwa kuzo yimali yokuthenga ukudla?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Days in the past month"
+msgstr "Izinsuku enyangeni edlule"
 
 #. type=data_list
 msgctxt "data_list"
