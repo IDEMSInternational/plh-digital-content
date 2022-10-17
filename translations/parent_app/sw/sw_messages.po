@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-10-17 08:03\n"
+"PO-Revision-Date: 2022-10-17 14:03\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -533,6 +533,12 @@ msgid "Unlock workshops"
 msgstr "Fungua vipindi"
 
 #. type=template
+#. The string @global.workshops should not be translated.
+msgctxt "template"
+msgid "All @global.workshops are now unlocked."
+msgstr "@global.workshops vyote vimefunguliwa sasa."
+
+#. type=template
 msgctxt "template"
 msgid "Losing a loved one can feel very overwhelming. Here are a few practical tips that can be helpful to keep in mind."
 msgstr "Kumpoteza mtu unayempenda ni jambo zito mno. Hapa kuna vidokezo kadhaa vinavyoweza kukusaidia ukivikumbuka."
@@ -878,6 +884,12 @@ msgstr "Wiki ijayo, utashirikisha kikundi chako jinsi gani zoezi la nyumbani lil
 msgctxt "template"
 msgid "Home Practice"
 msgstr "Zoezi la Nyumbani"
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "Small actions, big results! Parents who practice their @global.workshop skills at home get better results."
+msgstr "Matendo madogo, matokeo makubwa! Wazazi wanaofanyia kazi mazoezi ya nyumbani waliyopata kwenye @global.workshop hupata matokeo mazuri zaidi."
 
 #. type=template
 msgctxt "template"
@@ -1366,6 +1378,12 @@ msgid "Update my personal details"
 msgstr "Sasisha taarifa zangu binafsi"
 
 #. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "Update my @global.workshop options"
+msgstr "Sasisha machaguo yangu ya @global.workshop"
+
+#. type=template
 msgctxt "template"
 msgid "Give me quick parenting tips"
 msgstr "Nipe vidokezo vya malezi vya haraka"
@@ -1379,6 +1397,12 @@ msgstr "Kitu kibaya sana kimetokea"
 msgctxt "template"
 msgid "I have technical problems with the app"
 msgstr "Nina matatizo ya kiufundi kwenye programu hii"
+
+#. type=template
+#. The string @global.workshops should not be translated.
+msgctxt "template"
+msgid "You will find the in-week messages from the previous @global.workshops here."
+msgstr "Utapata jumbe za wiki kutoka @global.workshops vilivyopita hapa."
 
 #. type=template
 #. The string @global.my_activities should not be translated.
@@ -2844,6 +2868,18 @@ msgid "Sunday"
 msgstr "Jumapili"
 
 #. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "Great! We will unlock a new @global.workshop for your group every week. This allows all of you to try what you learned with your families before building the next skill."
+msgstr "Safi sana! Tutafungua @global.workshop mpya kwa kikundi chako kila wiki. Nyinyi nyote mtaweza kujaribu kile mlichojifunza na familia zenu kabla ya kujifunza ujuzi unaofuata."
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "Great! We will unlock a new @global.workshop for you every week. This allows you to try what you learned with your family before building the next skill."
+msgstr "Safi sana! Tutawafungulia @global.workshop mpya kila wiki. Nyinyi nyote mtaweza kujaribu kile mlichojifunza na familia zenu kabla ya kujifunza ujuzi unaofuata."
+
+#. type=template
 #. The string @global.weekly_workshop_options should not be translated.
 msgctxt "template"
 msgid "You can always change these settings in your @global.weekly_workshop_options."
@@ -2889,6 +2925,14 @@ msgstr ""
 "* Je, wakati wa shughuli zetu, ni nani atakayeshikilia simu?\n"
 "* Je, tutahakikishaje kuwa kila mtu anaweza kushiriki kwa uhuru?\n"
 "* Je, tufanyaje ili sisi sote tuhisi kuwa tunaheshimiwa?"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.workshop
+#.      @global.weekly_workshop_options
+msgctxt "template"
+msgid "You always can change your @global.workshop day and your group name in the @global.weekly_workshop_options."
+msgstr "Wakati wote unaweza kubadilisha siku yako ya @global.workshop na jina la kikundi chako kwenye @global.weekly_workshop_options."
 
 #. type=template
 msgctxt "template"
@@ -3441,6 +3485,14 @@ msgstr ""
 "Inaonekana bado haujamaliza @local.workshop_data.in_text_title. Haitachukua muda mrefu, na utapata taarifa muhimu sana.\n"
 "\n"
 "Hongera kwa kujaribu kuwa mzazi bora. Kesho, utaweza kupata kipindi kipya."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+msgctxt "template"
+msgid "Well done for completing @local.workshop_data.in_text_title. Tomorrow, you can access a new @global.workshop to help you relax, enjoy and learn new skills!"
+msgstr "Hongera kwa kumaliza @local.workshop_data.in_text_title. Kesho, utaweza kupata @global.workshop kipya cha kukusaidia kuchukua pumziko, na kujifunza ujuzi mpya!"
 
 #. type=template
 msgctxt "template"
@@ -4204,6 +4256,56 @@ msgid "Have you managed to come up with one positive and one negative consequenc
 msgstr "Je, wewe na kijana wako mmeweza kupata athari moja chanya na athari moja hasi ya kurekebisha tabia?"
 
 #. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "Complete the @global.workshop and try to discuss with your teen to come up with one positive and one negative consequence of a behaviour together."
+msgstr "Maliza @global.workshop hiki halafu ujaribu kujadili pamoja na kijana wako ili kupata athari moja chanya na athari moja hasi ya kurekebisha tabia."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Today we are celebrating two months of using @global.parent_app! \n"
+"\n"
+"You are doing great! This week’s @global.workshop will help you know what to do when your teen is not following the household rules."
+msgstr ""
+"Habari @fields.user_name! Leo tunasherehekea miezi miwili ya kutumia @global.parent_app.\n"
+"\n"
+"Unafanya vizuri! @global.workshop ya wiki hii itakusaidia kujua nini cha kufanya wakati kijana wako hafuati sheria za nyumbani."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Today we are celebrating two months of using @global.parent_app! \n"
+"\n"
+"You are doing great! This week’s @global.workshop will help you know what to do when your teen is not following the household rules."
+msgstr ""
+"Habari @fields.group_name! Leo tunasherehekea miezi miwili ya kutumia @global.parent_app.\n"
+"\n"
+"Unafanya vizuri! @global.workshop ya wiki hii itakusaidia kujua nini cha kufanya wakati kijana wako hafuati sheria za nyumbani."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"It’s great that you’ve been using @global.parent_app. You’ve gained 6 parenting tools already! \n"
+"\n"
+"Take the next @global.workshop to get another parenting tool!"
+msgstr ""
+"Ni jambo zuri sana kwamba umekuwa ukitumia @global.parent_app. Tayari umeshapata nyenzo 6 za malezi!\n"
+"\n"
+"Jifunze @global.workshop kinachofuata ili kupata nyenzo nyingine ya malezi!"
+
+#. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
 msgid ""
@@ -4214,6 +4316,14 @@ msgstr ""
 "Inaonekana bado haujamaliza @local.workshop_data.in_text_title. Athari nyepesi humsaidia sana kijana wako kufuata sheria vizuri – zijaribu kabla ya kuendelea!\n"
 "\n"
 "Hongera kwa kujitoa kwa dhati kwa ajili ya familia yako."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+msgctxt "template"
+msgid "Well done for completing the @local.workshop_data.in_text_title. Tomorrow, you can access a new @global.workshop to help you relax, enjoy and learn useful skills!"
+msgstr "Hongera kwa kumaliza @local.workshop_data.in_text_title. Kesho, utaweza kupata @global.workshop kipya cha kukusaidia kuchukua pumziko, na kujifunza ujuzi muhimu!"
 
 #. type=template
 msgctxt "template"
@@ -4699,6 +4809,42 @@ msgid "Sorry that things are difficult right now. Take a deep breath and know th
 msgstr "Tunasikitika kuona kuwa mambo ni magumu sasa hivi. Vuta pumzi ndefu na ujue kuwa unathaminiwa."
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.workshop
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"You’ve completed this week’s @global.workshop. \n"
+"\n"
+"Next week’s @global.workshop will celebrate you all, and help you plan for the future. \n"
+"\n"
+"Why don’t you plan some party food together, and have some music ready if you like to dance!"
+msgstr ""
+"Umemaliza @global.workshop cha wiki hii.\n"
+"\n"
+"@global.workshop ya wiki ijayo tutasherehekea nyinyi nyote, na kuwasaidia kupanga mipango ya siku zijazo.\n"
+"\n"
+"Kwa nini msipange kufanya pamoja sherehe itakayokuwa na chakula, na kuandaa muziki kama mtapenda kucheza!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.workshop
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"You’ve completed this week’s @global.workshop. \n"
+"\n"
+"Next week’s @global.workshop will celebrate you, and you can choose the support you want going forward. \n"
+"\n"
+"You can prepare a treat to celebrate – something you like to eat, or music you like to listen to!"
+msgstr ""
+"Umemaliza @global.workshop cha wiki hii.\n"
+"\n"
+"@global.workshop cha wiki ijayo tutakusherehekea wewe, na unaweza kuchagua msaada unaoutaka ili kusonga mbele.\n"
+"\n"
+"Unaweza kuandaa sherehe – kitu unachopenda kula, au muziki unaopenda kusikiliza!"
+
+#. type=template
 msgctxt "template"
 msgid ""
 "With your teen choose one of these situations (or think of one yourself!). Look at the cartoon, and discuss what you would do together if this happened to a friend or in your family. \n"
@@ -4914,6 +5060,55 @@ msgstr ""
 "Tunafurahi sana kwamba uko pamoja nasi katika safari hii ya malezi!\n"
 "\n"
 "Maliza @local.workshop_data.in_text_title na jifunze njia nzuri ya namna ya kufanya pale kijana wako anapokuhitaji zaidi."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! A crisis can happen to anyone - being prepared helps a lot. \n"
+"\n"
+"This @global.workshop will show you how."
+msgstr ""
+"Habari @fields.user_name! janga linaweza kumtokea mtu yeyote – kujiandaa mapema husaidia sana.\n"
+"\n"
+"@global.workshop hii itakuonyesha jinsi ya kujiandaa mapema."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! A crisis can happen to anyone - being prepared helps a lot. \n"
+"\n"
+"This @global.workshop will show you how."
+msgstr ""
+"Habari @fields.group_name! janga linaweza kumtokea mtu yeyote – kujiandaa mapema husaidia sana.\n"
+"\n"
+"@global.workshop hii itakuonyesha jinsi ya kujiandaa mapema."
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid ""
+"We never know when a crisis may happen, but we CAN be prepared! \n"
+"\n"
+"Start the next @global.workshop to explore how you can do this together with your teen."
+msgstr ""
+"Hatujui lini matatizo yanaweza kutokea, lakini TUNAWEZA kujiandaa!\n"
+"\n"
+"Anza @global.workshop cha wiki ijayo kwa kutafuta jinsi gani unaweza kufanya hii pamoja na kijana wako."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+#.      @global.parent_app
+msgctxt "template"
+msgid "Well done for completing @local.workshop_data.in_text_title. Tomorrow, you can access the final @global.workshop to reflect on your @global.parent_app journey and on what you can do next!"
+msgstr "Hongera kwa kumaliza @local.workshop_data.in_text_title. Kesho, utaweza kupata @global.workshop ya mwisho ili kutafakari kuhusu safari yako kwenye @global.parent_app na kile unachoweza kufanya baadaye!"
 
 #. type=template
 #. The string @global.w_crisis_female_caregiver should not be translated.
@@ -5451,6 +5646,74 @@ msgstr ""
 "Maelekezo chanya husaidia kuleta tabia nzuri zaidi na zaidi!\n"
 "\n"
 "Maliza @local.workshop_data.in_text_title ili kupata mawazo kuhusu namna jambo hili linavyoweza kufanya kazi kwenye familia yako."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Congratulations for starting @global.parent_app week 4. \n"
+"\n"
+"This week’s @global.workshop is about how to increase your chances of getting your teen to do what you ask them to do."
+msgstr ""
+"Habari @fields.user_name! Hongera kwa kuanza wiki ya 4 ya @global.parent_app.\n"
+"\n"
+"@global.workshop cha wiki hii ni kuhusu jinsi ya kuongeza uwezo wako wa kumfanya kijana wako afanye kile unachomuagiza kufanya."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Congratulations for starting @global.parent_app week 4. \n"
+"\n"
+"This week’s @global.workshop is about how to increase your chances of getting your teen to do what you ask them to do."
+msgstr ""
+"Habari @fields.group_name! Hongera kwa kuanza wiki ya 4 ya @global.parent_app.\n"
+"\n"
+"@global.workshop cha wiki hii ni kuhusu jinsi ya kuongeza uwezo wako wa kumfanya kijana wako afanye kile unachomuagiza kufanya."
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "Does your teen always listen to you? If not (like the rest of us), have a look at this week's @global.workshop to learn how giving positive instructions can help - a lot."
+msgstr "Je, kijana wako anakusikiliza kila mara? Kama hakusikilizi kila mara (kama ilivyo kwetu sisi wengine wote), angalia @global.workshop cha wiki hii ili ujifunze jinsi kutoa maelekezo chanya kunavyoweza kusaidia."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.workshop
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"As usual, you can access a new workshop tomorrow. It will help to complete the previous @global.workshop before then.  \n"
+"\n"
+"Some parents are using the app while commuting to work. Why don’t you use the app when you have a few minutes? \n"
+"\n"
+"Thank you again for using @global.parent_app."
+msgstr ""
+"Kama kawaida, unaweza kupata @global.workshop kipya kesho. Litakuwa jambo zuri kumalizia kipindi kilichopita kabla ya wakati huo.\n"
+"\n"
+"Wazazi wengine wanatumia programu hii wanaposafiri kwenda kazini. Kwa nini usitumie programu hii unapopata muda wa kutulia?\n"
+"\n"
+"Asante kwa mara nyingine kwa kutumia @global.parent_app."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Congratulations, you completed the @local.workshop_data.in_text_title.\n"
+"\n"
+"Tomorrow, a new @global.workshop is ready for you: you will see a big difference by making small changes!"
+msgstr ""
+"Hongera, umemaliza @local.workshop_data.in_text_title.\n"
+"\n"
+"Kesho, @global.workshop kipya kitakuwa tayari kwa ajili yako: utaona tofauti kubwa kwa kufanya mabadiliko madogo!"
 
 #. type=template
 msgctxt "template"
@@ -6380,6 +6643,48 @@ msgstr ""
 "Maliza @local.workshop_data.in_text_title ili kuisaidia familia yako kutengeneza bajeti na kuweka akiba. Kwa kweli ni rahisi – utajionea mwenyewe!"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! You are starting your second month of using @global.parent_app. Amazing! \n"
+"\n"
+"Almost every family struggles with money issues, therefore, this week’s @global.workshop will give you a tool that will help you to plan your expenses so you can have enough money to get through the month."
+msgstr ""
+"Habari @fields.user_name! Unaanza mwezi wako wa pili wa kutumia @global.parent_app. Inastaajabisha!\n"
+"\n"
+"Karibu kila familia inahangaishwa na masuala ya pesa, kwa hiyo, @global.workshop ya wiki hii itakupa nyenzo itakayokusaidia kupanga matumizi yako ili uweze kuwa na pesa za kutosha kumaliza mwezi."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! You are starting your second month of using @global.parent_app. Amazing! \n"
+"\n"
+"Almost every family struggles with money issues, therefore, this week’s @global.workshop will give you a tool that will help you to plan your expenses so you can have enough money to get through the month."
+msgstr ""
+"Habari @fields.group_name! Unaanza mwezi wako wa pili wa kutumia @global.parent_app. Inastaajabisha!\n"
+"\n"
+"Karibu kila familia inahangaishwa na masuala ya pesa, kwa hiyo, @global.workshop ya wiki hii itakupa nyenzo itakayokusaidia kupanga matumizi yako ili uweze kuwa na pesa za kutosha kumaliza mwezi."
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid ""
+"Do you feel stressed about money? Does your teen keep asking for things you can’t afford? \n"
+"\n"
+"This week’s @global.workshop deals with money and budgeting."
+msgstr ""
+"Je, unahisi msongo wa mawazo kuhusu fedha? Je, kijana wako anaendelea kuomba vitu ambavyo huwezi kuvimudu?\n"
+"\n"
+"@global.workshop ya wiki hii inahusu fedha na bajeti."
+
+#. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
 msgid ""
@@ -6390,6 +6695,14 @@ msgstr ""
 "Inaonekana bado haujamaliza @local.workshop_data.in_text_title. Wazazi wengi wanasema kuwa kutengeneza bajeti kumerudisha amani ndani ya nyumba zao – inaweza kukufaa pia.\n"
 "\n"
 "Kwa mara nyingine, asante kwa kuwa mzazi makini."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+msgctxt "template"
+msgid "Great that you completed @local.workshop_data.in_text_title. Tomorrow, a new @global.workshop is unlocked to help you set family rules that work."
+msgstr "Umefanya vizuri sana kumaliza @local.workshop_data.in_text_title. Kesho, @global.workshop mpya itafunguliwa ili kukusaidia kuweka sheria za familia zinazofanya kazi."
 
 #. type=template
 #. The string @global.w_money_grandma should not be translated.
@@ -6865,6 +7178,38 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+#.      @global.workshop
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Congratulations for starting your third  @global.parent_app week. \n"
+"\n"
+"A new @global.workshop awaits you! Can you guess the topic of the @global.workshop from this picture?"
+msgstr ""
+"Habari @fields.user_name! Hongera kwa kuanza wiki yako ya tatu ya @global.parent_app.\n"
+"\n"
+"@global.workshop mpya inakungoja! Je, unaweza kubuni mada ya @global.workshop kutokana na picha hii?"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+#.      @global.workshop
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Congratulations for starting your third  @global.parent_app week. \n"
+"\n"
+"A new @global.workshop awaits you! Can you guess the topic of the @global.workshop from this picture?"
+msgstr ""
+"Habari @fields.group_name! Hongera kwa kuanza wiki yako ya tatu ya @global.parent_app.\n"
+"\n"
+"@global.workshop mpya inakungoja! Je, unaweza kubuni mada ya @global.workshop kutokana na picha hii?"
+
+#. type=template
+#. The following strings should not be translated: 
 #.      @global.parent_app
 #.      @local.workshop_data.in_text_title
 msgctxt "template"
@@ -6876,6 +7221,30 @@ msgstr ""
 "Hongera kwa kutumia @global.parent_app ili kuwekeza kwa ajili yako na familia yako.\n"
 "\n"
 "Jaribu @local.workshop_data.in_text_title ujipatie ujuzi mzuri sana wa malezi!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.user_name
+#.      @global.workshop
+#.      @local.workshop_data.in_text_title
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @global.user_name, a new @global.workshop awaits you tomorrow. It seems like you haven’t finished the @local.workshop_data.in_text_title yet. It’s really a short one (promise!) – you can even complete it while waiting for dinner to cook. Why don’t you go through it when you have a few minutes?\n"
+"\n"
+"Thank you again for using @global.parent_app."
+msgstr ""
+"Halo @global.user_name, @global.workshop kipya kinakungoja kesho. Inaonekana bado haujamaliza @local.workshop_data.in_text_title. Kwa kweli ni fupi sana (amini ninakwambia!) – unaweza hata kuimalizia wakati unasubiri chakula cha usiku kiive. Kwa nini usiipitie ukipata muda?\n"
+"\n"
+"Kwa mara nyingine, asante kwa kutumia @global.parent_app."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+msgctxt "template"
+msgid "Great that you completed the @local.workshop_data.in_text_title. Tomorrow, a new @global.workshop is unlocked. Try it - you will see the difference in your teen’s behaviour."
+msgstr "Umefanya vizuri sana kumaliza @local.workshop_data.in_text_title. Kesho, @global.workshop kipya kitafunguliwa. Jaribu – utaona mabadiliko kwenye tabia ya kijana wako."
 
 #. type=template
 msgctxt "template"
@@ -7609,6 +7978,12 @@ msgstr ""
 msgctxt "template"
 msgid "Online Safety"
 msgstr "Usalama Mtandaoni"
+
+#. type=template
+#. The string @global.weekly_workshop should not be translated.
+msgctxt "template"
+msgid "Rules are important to keep your teens safe - also online. There’s more about this in the @global.weekly_workshop on safety planning, but let’s already have a first look now!"
+msgstr "Sheria ni muhimu ili kuwaweka salama vijana wako – hadi mtandaoni. Kuna mengi zaidi kuhusu jambo hili kwenye @global.weekly_workshop inayohusu kupanga usalama, lakini sasa ngoja tungalie kitu cha kwanza!"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -8778,6 +9153,15 @@ msgid "Start a brand new @global.parent_app workshop tomorrow. You will see the 
 msgstr "Anza warsha mpya kabisa ya @global.parent_app kesho. Utaona matokeo mazuri!"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.parent_app
+#.      @global.workshops
+msgctxt "template"
+msgid "Have you told your @global.parent_app partners about the app yet? From tomorrow, you can start doing your @global.parent_app @global.workshops together!"
+msgstr "Je, umeshawaambia washirika wako wa @global.parent_app kuhusu programu hii? Kuanzia kesho, mnaweza kuanza kufanya pamoja @global.workshop zenu za @global.parent_app!"
+
+#. type=template
 msgctxt "template"
 msgid ""
 "Paying attention to what we do well helps us to focus on the positive. \n"
@@ -9352,6 +9736,62 @@ msgstr ""
 "Uko kwenye njia sahihi ya kuanza kutatua matatizo pamoja na kijana wako!\n"
 "\n"
 "Malizia @local.workshop_data.in_text_title ili upate ujuzi mwingine muhimu wa malezi!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! You are making such good progress on your parenting journey! \n"
+"\n"
+"Having a teen means having a lot of unexpected problems to deal with. This @global.workshop will show you how to deal with them."
+msgstr ""
+"Habari @fields.user_name! Unaendelea vizuri sana katika safari yako ya malezi!\n"
+"\n"
+"Kuwa na kijana inamaanisha kuwa na matatizo mengi yasiyotarajiwa yanayotakiwa kushughulikiwa. @global.workshop hii itakuonesha jinsi ya kuyashughulikia."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! You are making such good progress on your parenting journey!\n"
+"\n"
+"Having a teen means having a lot of unexpected problems to deal with. This @global.workshop will show you all how to deal with them."
+msgstr ""
+"Habari @fields.group_name! Unaendelea vizuri sana katika safari yako ya malezi!\n"
+"\n"
+"Kuwa na kijana inamaanisha kuwa na matatizo mengi yasiyotarajiwa yanayotakiwa kushughulikiwa. @global.workshop hii itakuonesha jinsi ya kuyashughulikia."
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid ""
+"With teenagers, and in life, unexpected problems come up and we have to deal with them. \n"
+"\n"
+"Start the next @global.workshop to learn how to successfully address these problems."
+msgstr ""
+"Unapokuwa na vijana, na katika maisha haya, matatizo yasiyotarajiwa hutokea na tunapaswa kukabiliana nayo.\n"
+"\n"
+"Anza @global.workshop inayofuata ili kujifunza jinsi ya kutatua matatizo hayo kwa mafanikio."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.workshop
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Tomorrow a brand new @global.parent_app @global.workshop is ready for you. \n"
+"\n"
+"Try to complete the @local.workshop_data.in_text_title before starting the new @global.workshop. Knowing how to solve problems together will help in many situations!"
+msgstr ""
+"Kesho, @global.workshop mpya kabisa ya @global.parent_app itakuwa tayari kwa ajili yako.\n"
+"\n"
+"Jaribu kumalizia @local.workshop_data.in_text_title kabla ya kuanza @global.workshop mpya. Kujua jinsi ya kutatua matatizo pamoja kutasaidia katika nyakati mbalimbali!"
 
 #. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
@@ -10002,6 +10442,57 @@ msgstr ""
 "Wakati mwingine sisi sote huhisi kulemewa. Kuvuta pumzi ndefu husaidia!\n"
 "\n"
 "Maliza @local.workshop_data.in_text_title ili kupata baadhi ya nyenzo muhimu za kukabiliana na msongo wa mawazo."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Congratulations for starting @global.parent_app week 5.\n"
+"\n"
+"A new parenting @global.workshop awaits you with tips on how we can stay calm and in control when our teens are driving us crazy."
+msgstr ""
+"Habari @fields.user_name! Hongera kwa kuanza wiki ya 5 ya @global.parent_app.\n"
+"\n"
+"@global.workshop mpya ya malezi inakusubiri ikiwa na dondoo za jinsi tunavyoweza kuwa watulivu na kudhibiti mambo pindi vijana wetu wanapotuchanganya."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Congratulations for starting @global.parent_app week 5.\n"
+"\n"
+"A new parenting @global.workshop awaits you with tips how we can stay calm and in control when our teens are driving us crazy."
+msgstr ""
+"Habari @fields.group_name! Hongera kwa kuanza wiki ya 5 ya @global.parent_app.\n"
+"\n"
+"@global.workshop mpya ya malezi inakusubiri ikiwa na dondoo za jinsi tunavyoweza kuwa watulivu na kudhibiti mambo pindi vijana wetu wanapotuchanganya."
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "We have a new @global.workshop available for you about managing anger and stress. It will help you take better care of yourself."
+msgstr "Tuna @global.workshop kipya kwa ajili yako kinachohusu kudhibiti hasira na msongo wa mawazo. Itakusaidia kujithamini vizuri zaidi."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.workshop
+#.      @local.workshop_data.in_text_title
+msgctxt "template"
+msgid ""
+"Tomorrow a brand new @global.parent_app @global.workshop is ready for you. \n"
+"\n"
+"By completing the @local.workshop_data.in_text_title first, you lay a really important foundation: If you feel good, your family will do better too!"
+msgstr ""
+"Kesho @global.workshop kipya kabisa ya @global.parent_app kitakuwa tayari kwa ajili yako.\n"
+"\n"
+"Kwa kumalizia kwanza @local.workshop_data.in_text_title, utajiwekea msingi mzuri sana: Wewe utakapojisikia vizuri, familia yako nayo itajisikia vizuri!"
 
 #. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
@@ -10780,6 +11271,12 @@ msgid "My challenge is not listed here."
 msgstr "Changamoto yangu haikuorodheshwa hapa."
 
 #. type=global
+#. The string @global.workshop should not be translated.
+msgctxt "global"
+msgid "New @global.workshop ready tomorrow!"
+msgstr "@global.workshop mpya itakuwa tayari kesho!"
+
+#. type=global
 msgctxt "global"
 msgid "New workshop!"
 msgstr "Warsha mpya!"
@@ -11065,6 +11562,18 @@ msgid "<p>This big button takes you to your @global.weekly_workshops. </p>"
 msgstr "<p> hiki kitufe kikubwa kinakupeleka katika warsha yako ya wiki ya @global.weekly_workshops. </p>"
 
 #. type=tour
+#. The string @global.workshop should not be translated.
+msgctxt "tour"
+msgid "<p> Each week you will unlock a new @global.workshop focusing on a different parenting skill. </p>"
+msgstr "<p> Kila wiki utafungua @global.workshop mpya ikijikita katika ujuzi tofauti wa malezi </p>"
+
+#. type=tour
+#. The string @global.workshop should not be translated.
+msgctxt "tour"
+msgid "<p>The round button appears when a new @global.workshop is ready for you.</p>"
+msgstr "<p>Kitufe cha duara kitatokea pindi @global.workshop mpya inapokuwa tayari kwa ajili yako.</p>"
+
+#. type=tour
 #. The string @global.parent_point.</p> should not be translated.
 msgctxt "tour"
 msgid "<p>Each new parenting skill comes with a @global.parent_point.</p>"
@@ -11129,6 +11638,14 @@ msgstr "Nenda kwenye @global.weekly_workshop_options"
 msgctxt "tour"
 msgid "<p>Press this button to go to the @global.weekly_workshop_options </p>"
 msgstr "<p>Bonyeza kitufe hiki ili kwenda kwenye @global.weekly_workshop_options </p>"
+
+#. type=tour
+#. The following strings should not be translated: 
+#.      @global.weekly_workshop_options
+#.      @global.workshop
+msgctxt "tour"
+msgid "<p>Use the @global.weekly_workshop_options to change your @global.workshop settings. </p>"
+msgstr "<p>Tumia @global.weekly_workshop_options kubadilisha mipangilio yako ya @global.workshop. </p>"
 
 #. type=tour
 msgctxt "tour"
@@ -12551,6 +13068,12 @@ msgstr ""
 "@global.w_rules_female_caregiver_1: “Asante, @global.w_rules_teen_boy, kwa kuwahi kuja nyumbani. Ukimaliza kazi zako za darasani, uje tuandae chakula ambacho huwa unapendelea kwa ajili ya usiku wa leo.”"
 
 #. type=data_list
+#. The string @global.weekly_workshop should not be translated.
+msgctxt "data_list"
+msgid "Rules are important to keep your teens safe - also online. There’s more about this in the @global.weekly_workshop on safety planning, but let’s already have a first look now!"
+msgstr "Sheria ni muhimu ili kuwaweka salama vijana wako – hadi mtandaoni. Kuna mengi zaidi kuhusu jambo hili kwenye @global.weekly_workshop inayohusu kupanga usalama, lakini sasa ngoja tungalie kitu cha kwanza!"
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @global.w_rules_female_caregiver_2:
 #.      "@global.w_rules_teen_girl,
@@ -13025,6 +13548,304 @@ msgstr ""
 "@global.w_solve_female_caregiver_2: \"Sema chochote unachohitaji, Mjukuu wangu. Usiku nikimaliza tu kula, nitafanya hivyo. Halafu unajua? Hilo lisipofanikiwa, tunaweza kujaribu njia nyingine pamoja.\"\n"
 "\n"
 "@global.w_solve_teen_boy_2: Asante, @global.w_solve_female_caregiver_2.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Step 3: TRY IT"
+msgstr "Hatua ya Tatu: CHAGUA"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2:
+#.      @global.w_solve_teen_boy_2:
+msgctxt "data_list"
+msgid ""
+"A week later… \n"
+"\n"
+"@global.w_solve_female_caregiver_2: \"How are things going at school now?\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"It’s going better, the boy does not take my lunch anymore. But he is still being really mean to me.\""
+msgstr ""
+"Wiki moja baadaye...\n"
+"\n"
+"@global.w_solve_female_caregiver_2: \"Sasa hivi mambo yanaendaje shuleni?\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Yanaenda vizuri, yule kijana hachukui tena chakula changu. Lakini bado ananisumbua sana.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Step 4: TEST IT"
+msgstr "Hatua ya Nne: JARIBU"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_solve_female_caregiver_2:
+#.      @global.w_solve_teen_boy_2.
+#.      @global.w_solve_teen_boy_2:
+#.      @global.w_solve_female_caregiver_2.
+msgctxt "data_list"
+msgid ""
+"@global.w_solve_female_caregiver_2: \"I am sorry to hear that, @global.w_solve_teen_boy_2. Shall I ask your uncle to go talk to his parents? If that does not work, we will try something else!\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Yes, thank you @global.w_solve_female_caregiver_2. At least I know you are on my side.\""
+msgstr ""
+"@global.w_solve_female_caregiver_2: \"Nasikitika kusikia hivyo, @global.w_solve_teen_boy_2. Je, nimuombe mjomba wako aende kuongea na wazazi wake? Hilo lisipofanikiwa, tutajaribu njia nyingine!\"\n"
+"\n"
+"@global.w_solve_teen_boy_2: \"Sawa, asante @global.w_solve_female_caregiver_2. Angalau najua uko upande wangu.\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_safe_female_caregiver
+#.      @global.w_safe_teen_girl_1:
+msgctxt "data_list"
+msgid ""
+"Communication is the most important thing!\n"
+"\n"
+"Let's see what happened with @global.w_safe_female_caregiver and @global.w_safe_teen_girl_1:"
+msgstr ""
+"Mawasiliano ni jambo muhimu zaidi!\n"
+"\n"
+"Hebu tuangalie kile kilichotokea kwa @global.w_safe_female_caregiver na @global.w_safe_teen_girl_1:"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_safe_teen_girl_1:
+#.      @global.w_safe_teen_girl_2
+#.      @global.w_safe_teen_girl_3!"
+#.      @global.w_safe_female_caregiver:
+#.      @global.w_safe_teen_girl_1"
+msgctxt "data_list"
+msgid ""
+"@global.w_safe_teen_girl_1: \"Something happened when I was out with my friends @global.w_safe_teen_girl_2 and @global.w_safe_teen_girl_3!\"\n"
+"\n"
+"@global.w_safe_female_caregiver: \"Tell me, @global.w_safe_teen_girl_1\""
+msgstr ""
+"@global.w_safe_teen_girl_1: \"Kuna kitu kilitokea nilipoenda kutembea na marafiki zangu @global.w_safe_teen_girl_2 na @global.w_safe_teen_girl_3!\"\n"
+"\n"
+"@global.w_safe_female_caregiver: \"Niambie, @global.w_safe_teen_girl_1\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_safe_teen_girl_2:
+#.      @global.w_safe_teen_girl_1”
+msgctxt "data_list"
+msgid ""
+"Man in car: “Hey beautiful. I have been looking at you for a while. You are very beautiful, what’s your name?  \n"
+"\n"
+"@global.w_safe_teen_girl_2: “Her name is @global.w_safe_teen_girl_1”"
+msgstr ""
+"Mwanaume ndani ya gari: “Halo, mrembo. Nimekuwa nakuona kwa muda. Wewe ni mrembo sana, unaitwa nani?\n"
+"\n"
+"@global.w_safe_teen_girl_2: \"Anaitwa @global.w_safe_teen_girl_1\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      “@global.w_safe_teen_girl_1,
+#.      @global.w_safe_teen_girl_1:
+msgctxt "data_list"
+msgid ""
+"Man in car: “@global.w_safe_teen_girl_1, would you like to come with me to have something to drink and chips? Come on, get in, you’ll be back in time, I promise…” \n"
+"\n"
+"@global.w_safe_teen_girl_1: “I’m not sure if that’s a good idea…”"
+msgstr ""
+"Mwanaume ndani ya gari: \"@global.w_safe_teen_girl_1, ungependa kuongozana nami tukapate chipsi na kinywaji? Twende, ingia, utawahi kurudi, nakuahidi… ”\n"
+"\n"
+"@global.w_safe_teen_girl_1: \"Sidhani kama hilo ni wazo zuri…\""
+
+#. type=data_list
+#. The string @global.w_safe_teen_girl_2: should not be translated.
+msgctxt "data_list"
+msgid "@global.w_safe_teen_girl_2: “You are lucky, my friend. I wish a man would ask ME out and buy me gifts. I’m telling you, if you don’t do this I’m going to tell everyone you are stupid!”"
+msgstr "@global.w_safe_teen_girl_2: “Una bahati, shoga yangu. Natamani mwanamume aniombe MIMI tutoke akaninunulie zawadi. Ninakuambia, usipofanya hivyo, nitaenda nimwambie kila mtu kuwa wewe ni mjinga!”"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_safe_teen_girl_3:
+#.      “@global.w_safe_teen_girl_1
+#.      @global.w_safe_teen_girl_1:
+msgctxt "data_list"
+msgid ""
+"@global.w_safe_teen_girl_3: “@global.w_safe_teen_girl_1 don’t go! Be careful! Let’s go home. It is dangerous to go with people you don’t know. Besides, he’s too old for you and what he is doing is wrong.\"\n"
+"\n"
+"@global.w_safe_teen_girl_1: “I just don’t know…”"
+msgstr ""
+"@global.w_safe_teen_girl_3: “@global.w_safe_teen_girl_1, usiende! Kuwa mwangalifu! Twende nyumbani. Ni hatari kwenda na watu usiowajua. Tena, mtu mwenyewe ni mkubwa sana kwako na anachokifanya sio sawa.\"\n"
+"\n"
+"@global.w_safe_teen_girl_1: \"Hata sijui nifanye nini…\""
+
+#. type=data_list
+#. The string @global.w_safe_female_caregiver: should not be translated.
+msgctxt "data_list"
+msgid "@global.w_safe_female_caregiver: \"Pfff, I am so proud of you that you did not get into the car. That was a dangerous situation, thank you for telling me!\""
+msgstr "@global.w_safe_female_caregiver: \"Ninafurahi sana kwamba hukuingia kwenye gari. Hiyo ilikuwa hali ya hatari, asante kwa kuniambia!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's look at another example of a dangerous situation together."
+msgstr "Hebu tuangalie pamoja mfano mwingine wa tukio la hatari."
+
+#. type=data_list
+#. The string @global.w_safe_teen_girl_1: should not be translated.
+msgctxt "data_list"
+msgid "@global.w_safe_teen_girl_1: \"My friend has been talking with a guy our age online... She’s going to send him photos of herself. Is that better because he’s our age?\""
+msgstr "@global.w_safe_teen_girl_1: \"Rafiki yangu amekuwa akiwasiliana na mvulana wa rika letu mtandaoni... Atamtumia picha zake. Je, hilo ni jambo zuri kwa sababu yeye ni wa rika letu?\""
+
+#. type=data_list
+#. The string @global.w_safe_female_caregiver: should not be translated.
+msgctxt "data_list"
+msgid "@global.w_safe_female_caregiver: \"You are a good friend for being worried about her. Sending sexy photos is a real risk too.\""
+msgstr "@global.w_safe_female_caregiver: \"Wewe ni rafiki mzuri kwa kumjali mwenzako. Kutuma picha zinazovutia kimapenzi ni hatari sana pia.\""
+
+#. type=data_list
+#. The string @global.w_safe_female_caregiver: should not be translated.
+msgctxt "data_list"
+msgid "@global.w_safe_female_caregiver: \"Sometimes people aren’t who they say they are online – he could say he is your age but be a 50 year old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.\""
+msgstr "@global.w_safe_female_caregiver: \"Wakati mwingine watu wanadanganya mtandaoni – anaweza kusema ni wa rika lako kumbe ni mwanaume wa miaka 50. Au wakivunja mahusiano, anaweza kutuma picha hizo kwa kila mtu na rafiki yako akajisikia vibaya sana.\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_female_caregiver:
+msgctxt "data_list"
+msgid ""
+"Crisis can happen to anyone. \n"
+"\n"
+"Let's see what happened with @global.w_crisis_teen_girl_1 and @global.w_crisis_female_caregiver:"
+msgstr ""
+"Hali ya hatari inaweza kumtokea mtu yeyote.\n"
+"\n"
+"Hebu tuone kilichotokea kwa @global.w_crisis_teen_girl_1 na @global.w_crisis_female_caregiver:"
+
+#. type=data_list
+#. The string @global.w_crisis_female_caregiver: should not be translated.
+msgctxt "data_list"
+msgid "@global.w_crisis_female_caregiver: \"Shame my dear, you look really upset, do you want to tell me what happened?\""
+msgstr "@global.w_crisis_female_caregiver: \"Jamani, Mjukuu wangu, unaonekana unasikitika sana, unataka kuniambia kilichotokea?\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_teen_girl_1:
+#.      @global.w_crisis_female_caregiver
+#.      @global.w_crisis_female_caregiver:
+msgctxt "data_list"
+msgid ""
+"@global.w_crisis_teen_girl_1: \"It’s my Uncle, he… he… he touched me.\"  \n"
+"\n"
+"@global.w_crisis_female_caregiver (thinking): \"Take a deep breath... What does my child need? She needs me to be calm and listen\" \n"
+"\n"
+"@global.w_crisis_female_caregiver: \"Come and sit down next to me. Take your time, I’m listening.\""
+msgstr ""
+"@global.w_crisis_teen_girl_1: \"Ni Mjomba wangu, ali-… ali-… alinigusa.\"\n"
+"\n"
+"@global.w_crisis_female_caregiver (akiwaza): \"Vuta pumzi kidogo... Mwanangu anataka nini? Anataka nitulie na nimsikilize.\"\n"
+"\n"
+"@global.w_crisis_female_caregiver: \"Njoo ukae karibu na mimi. Usiwe na haraka, ninakusikiliza.\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_teen_girl_1:
+#.      @global.w_crisis_female_caregiver:
+msgctxt "data_list"
+msgid ""
+"@global.w_crisis_teen_girl_1: \"It’s true, he… he… made me do it! He made me have sex with him! I didn’t want to, I swear, and I even said NO, but he told me I would be in trouble.\"\n"
+"\n"
+"@global.w_crisis_female_caregiver: \"Thank you for sharing this with me. You are not in trouble. This is not your fault.\""
+msgstr ""
+"@global.w_crisis_teen_girl_1: \"Ni kweli, ali-… ali-… alisabisha nifanye hivyo! Alisababisha nifanye naye mapenzi! Naapa, sikutaka; hadi nikasema HAPANA, lakini akaniambia nitapata shida.\"\n"
+"\n"
+"@global.w_crisis_female_caregiver: \"Asante kwa kunishirikisha mimi pia. Usihofu. Hili sio kosa lako.\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_female_caregiver:
+#.      @global.w_crisis_teen_girl_1:
+msgctxt "data_list"
+msgid ""
+"@global.w_crisis_female_caregiver: \"Ah I know, let’s go to the clinic. They will know what we can do to help you. Does that sound okay to you?\"\n"
+"\n"
+"@global.w_crisis_teen_girl_1: \"Yes… Okay… But will you come with me?\""
+msgstr ""
+"@global.w_crisis_female_caregiver: \"Ah najua, twende kliniki. Wao watajua tufanye nini ili kukusaidia. Je, hiyo ni sawa kwako?\"\n"
+"\n"
+"@global.w_crisis_teen_girl_1: \"Ndiyo… Sawa… Lakini, je, tunaenda wote na wewe?\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_female_caregiver:
+#.      @global.w_crisis_teen_girl_1?
+msgctxt "data_list"
+msgid "@global.w_crisis_female_caregiver: \"Of course I will. And @global.w_crisis_teen_girl_1? Remember this is not your fault. I love you. You are a good person. We will get through this.\""
+msgstr "@global.w_crisis_female_caregiver: \"Ni sawa kabisa. Na @global.w_crisis_teen_girl_1? Kumbuka hili siyo kosa lako. Ninakupenda. Wewe ni mtu mzuri. Tutalimaliza hili.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another problem that many parents are worried about is violence and crime. Let’s look at an example together."
+msgstr "Tatizo jingine ambalo wazazi wengi wana wasiwasi nalo ni vurugu na uhalifu. Hebu tuangalie pamoja mfano mmoja."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_male_caregiver_1:
+#.      "@global.w_crisis_teen_boy_1,
+msgctxt "data_list"
+msgid "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, you look worried since yesterday. What is wrong?\""
+msgstr "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, unaonekana una wasiwasi tangu jana. Kuna tatizo gani?\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_teen_boy_1:
+#.      @global.w_crisis_male_caregiver_1:
+msgctxt "data_list"
+msgid ""
+"@global.w_crisis_teen_boy_1: \"Yesterday, my friends and I went to a soccer match. Some guys who were drunk started a fight with my friend.\"\n"
+"\n"
+"@global.w_crisis_male_caregiver_1: \"Continue, I am listening. I hope you did not fight?\""
+msgstr ""
+"@global.w_crisis_teen_boy_1: \"Jana, mimi na marafiki zangu tulienda kwenye mpira. Kuna vijana waliokuwa wamelewa, walianza kupigana na rafiki yangu.\"\n"
+"\n"
+"@global.w_crisis_male_caregiver_1: \"Endelea, ninakusikiliza. Natumaini haukupigana?\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_teen_boy_1:
+#.      @global.w_crisis_male_caregiver_1:
+msgctxt "data_list"
+msgid ""
+"@global.w_crisis_teen_boy_1: \"I didn’t want to, but I couldn’t just stand there and let them beat up my friend, so…\"\n"
+"\n"
+"@global.w_crisis_male_caregiver_1: \"So, did you fight in order to help defend your friend?\""
+msgstr ""
+"@global.w_crisis_teen_boy_1: \"Sikutaka kupigana, lakini nisingeweza kukaa tu hapo na kuwaacha wampige rafiki yangu, kwa hiyo...\"\n"
+"\n"
+"@global.w_crisis_male_caregiver_1: \"Kwa hiyo, ulipigana ili kumtetea rafiki yako?\""
+
+#. type=data_list
+#. The string @global.w_crisis_teen_boy_1: should not be translated.
+msgctxt "data_list"
+msgid "@global.w_crisis_teen_boy_1: “Everyone was fighting. I saw someone lying on the field in a pool of blood. He looked… dead.\""
+msgstr "@global.w_crisis_teen_boy_1: “Kila mtu alikuwa anapigana. Niliona mtu mmoja amelala uwanjani kwenye dimbwi la damu. Alionekana... amefariki.\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_male_caregiver_1:
+#.      @global.w_crisis_teen_boy_1.
+msgctxt "data_list"
+msgid "@global.w_crisis_male_caregiver_1: \"I am glad you are telling me about this, @global.w_crisis_teen_boy_1. Let’s sit down together now and discuss whether we should involve the police or someone else to help.\""
+msgstr "@global.w_crisis_male_caregiver_1: \"Nimefurahi unaniambia kuhusu jambo hili, @global.w_crisis_teen_boy_1. Hebu tukae pamoja sasa na kujadili iwapo tunapaswa kuwahusisha polisi au mtu mwingine wa kutusaidia.\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_teen_boy_1:
+#.      @global.w_crisis_male_caregiver_1"
+#.      @global.w_crisis_male_caregiver_1:
+msgctxt "data_list"
+msgid ""
+"@global.w_crisis_teen_boy_1: \"Thank you, @global.w_crisis_male_caregiver_1\"\n"
+"\n"
+"@global.w_crisis_male_caregiver_1: \"We will get through this. Remember, we will support you as a family.\""
+msgstr ""
+"@global.w_crisis_teen_boy_1: \"Asante, @global.w_crisis_male_caregiver_1\"\n"
+"\n"
+"@global.w_crisis_male_caregiver_1: \"Tutalimaliza hili. Kumbuka, tutakusaidia kama familia.\""
 
 #. type=data_list
 msgctxt "data_list"
@@ -14107,6 +14928,14 @@ msgid "Have you spent time with your teen already?"
 msgstr "Je, tayari umeshatumia muda wa pamoja na kijana wako?"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.workshop.w_1on1.in_text_title.
+#.      @global.workshop
+msgctxt "data_list"
+msgid "Well done for completing the @data.workshop.w_1on1.in_text_title. Tomorrow, you can access a new @global.workshop to help you relax, enjoy and learn new skills!"
+msgstr "Hongera kwa kumaliza @data.workshop.w_1on1.in_text_title. Kesho, utaweza kupata @global.workshop kipya cha kukusaidia kuchukua pumziko, na kujifunza ujuzi mpya!"
+
+#. type=data_list
 #. The string @data.workshop.w_1on1.in_text_title. should not be translated.
 msgctxt "data_list"
 msgid ""
@@ -14153,9 +14982,29 @@ msgstr ""
 "Unatakiwa kujisifu - huu ni muda mgumu kuwa mzazi."
 
 #. type=data_list
+#. The string @global.workshop should not be translated.
+msgctxt "data_list"
+msgid "Well done - you’ve gained 6 parenting tools already! Do the next @global.workshop to get more!"
+msgstr "Vizuri sana - umeshapata nyenzo 6 za malezi tayari! Fanya @global.workshop inayofuata kupata zaidi!"
+
+#. type=data_list
+#. The string @global.workshop should not be translated.
+msgctxt "data_list"
+msgid "Complete the @global.workshop and talk with your teen about a positive and a negative consequence of a behaviour."
+msgstr "Maliza @global.workshop hii halafu ujaribu kujadili pamoja na kijana wako kuhusu matokeo ya tabia chanya na hasi."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Have you thought of a positive and a negative consequence of a behaviour with your teen yet?"
 msgstr "Je, umewahi kufikiria matokeo chanya na hasi ya tabia na kijana wako?"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.workshop.w_consequence.in_text_title.
+#.      @global.workshop
+msgctxt "data_list"
+msgid "Well done for completing the @data.workshop.w_consequence.in_text_title. Access a new @global.workshop tomorrow to help you enjoy and learn useful skills!"
+msgstr "Vizuri sana kwa kumaliza warsha @data.workshop.w_consequence.in_text_title. Pata @global.workshop mpya kesho kukusaidia kufurahia na kujifunza ujuzi muhimu!"
 
 #. type=data_list
 #. The string @data.workshop.w_consequence.in_text_title, should not be translated.
@@ -14171,9 +15020,49 @@ msgstr ""
 "Vizuri sana kwa kuonesha kujitolea sana."
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.user_name!
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Hi @fields.user_name! Crises happen to anyone - being ready helps a lot. \n"
+"\n"
+"This @global.workshop will show you how."
+msgstr ""
+"Habari @fields.user_name! Matatizo yanaweza kumtokea mtu yeyote – kujiandaa mapema husaidia sana.\n"
+"\n"
+"@global.workshop hii itakuonyesha jinsi ya kujiandaa mapema."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.group_name!
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Hi @fields.group_name! Crises happen to anyone - being ready helps a lot. \n"
+"\n"
+"This @global.workshop will show you how."
+msgstr ""
+"Habari @fields.group_name! Matatizo yanaweza kumtokea mtu yeyote – kujiandaa mapema husaidia sana.\n"
+"\n"
+"@global.workshop hii itakuonyesha jinsi ya kujiandaa mapema."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Be proud, you are a committed parent. This is a big achievement!"
 msgstr "Jivunie, wewe ni mzazi unayejitolea sana. Haya ni mafanikio makubwa!"
+
+#. type=data_list
+#. The string @global.workshop should not be translated.
+msgctxt "data_list"
+msgid ""
+"Crises may happen, and we CAN be prepared!\n"
+"\n"
+"Start the next @global.workshop to see how with your teen."
+msgstr ""
+"Matatizo yanaweza kutokea, na TUNAWEZA kuwa na maandalizi! \n"
+"\n"
+"Anza @global.workshop inayofuata kuona jinsi ya kujiandaa mapema wewe na kijana wako."
 
 #. type=data_list
 #. The string @data.workshop.w_crisis.in_text_title should not be translated.
@@ -14191,6 +15080,28 @@ msgstr ""
 msgctxt "data_list"
 msgid "Have you and your teen discussed what you would do in a crisis?"
 msgstr "Je, wewe na kijana wako mmejadili nini cha kufanya katika matatizo?"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.workshop.w_crisis.
+#.      @global.workshop
+msgctxt "data_list"
+msgid "Well done for finishing the @data.workshop.w_crisis. Tomorrow, you can access the final @global.workshop to reflect on your journey and plan what to do next!"
+msgstr "Vizuri sana kwa kumaliza warsha @data.workshop.w_crisis. Kesho, unaweza kupata @global.workshop ya mwisho kuvuta kumbukumbu ya safari na kupanga cha kufanya wakati ujao!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.workshop
+#.      @data.workshop.w_crisis.in_text_title.
+msgctxt "data_list"
+msgid ""
+"The final @global.workshop unlocks tomorrow!\n"
+"\n"
+"First try to finish the @data.workshop.w_crisis.in_text_title. That way, you can complete your set of parenting skills and decide what to do next."
+msgstr ""
+"@global.workshop ya mwisho inafunguliwa kesho!\n"
+"\n"
+"Kwanza jaribu kukamilisha warsha @data.workshop.w_crisis.in_text_title. Kwa njia hiyo, unaweza kukamilisha sehemu yako ya ujuzi wa malezi na kuamua nini cha kufanya kwa siku baadaye."
 
 #. type=data_list
 #. The string @fields.user_name, should not be translated.
@@ -14223,6 +15134,12 @@ msgid "Be kind to yourself. No parent is perfect. Using @global.parent_app shows
 msgstr "Kuwa mpole kwako mwenyewe. Hakuna mzazi aliyekamilika. Tumia @global.parent_app huoenesha unajari!"
 
 #. type=data_list
+#. The string @global.workshop should not be translated.
+msgctxt "data_list"
+msgid "Teens don’t always listen. Look at this week's @global.workshop to learn how positive instructions can help."
+msgstr "Vijana huwa wasikilizi daima. Angalia kwenye @global.workshop za wiki hii kujifunza jinsi maelekezo chanya yanaweza kusaidia."
+
+#. type=data_list
 #. The string @data.workshop.w_instruct.in_text_title should not be translated.
 msgctxt "data_list"
 msgid ""
@@ -14252,10 +15169,54 @@ msgid "You’ve already marked the @global.parent_point @data.habit.instruct_pos
 msgstr "Tayari umeweka alama kwenye @global.parent_point @data.habit.instruct_positively.title mara @fields.parent_point_count_instruct_positively – kwa hiyo, unapiga hatua nzuri za maendeleo."
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.workshop.w_instruct.in_text_title.
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Congratulations, you completed the @data.workshop.w_instruct.in_text_title.\n"
+"\n"
+"Tomorrow, a new @global.workshop is ready for you. See a big difference by making small changes!"
+msgstr ""
+"Hongera, umemaliza @data.workshop.w_instruct.in_text_title.\n"
+"\n"
+"Kesho, @global.workshop mpya itakuwa tayari kwa ajili yako: utaona tofauti kubwa kwa kufanya mabadiliko madogo!"
+
+#. type=data_list
 #. The string @data.workshop.w_instruct.in_text_title should not be translated.
 msgctxt "data_list"
 msgid "Some parents use the app after their evening meal. Why not complete the @data.workshop.w_instruct.in_text_title when you have a few minutes?"
 msgstr "Wazazi baadhi hutumia program (app) baada ya chakula cha jioni. Kwa nini usimalize warsha ya @data.workshop.w_instruct.in_text_title ukiwa na muda wa dakika chache?"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.user_name!
+#.      @global.parent_app.
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Hi @fields.user_name! Amazing, this is your second month with @global.parent_app.\n"
+"\n"
+"Most families struggle with money. This @global.workshop will give you tools to plan your expenses to help you through the month."
+msgstr ""
+"Habari @fields.user_name! Unaanza mwezi wako wa pili wa kutumia @global.parent_app. Inastaajabisha!\n"
+"\n"
+"Karibu kila familia inahangaishwa na masuala ya pesa, kwa hiyo, @global.workshop ya wiki hii itakupa nyenzo itakayokusaidia kupanga matumizi yako ili uweze kuwa na pesa za kutosha kumaliza mwezi."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.group_name!
+#.      @global.parent_app.
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Hi @fields.group_name! Amazing, this is your second month with @global.parent_app. \n"
+"\n"
+"Most families struggle with money. This @global.workshop will give you tools to plan your expenses to help you through the month."
+msgstr ""
+"Habari @fields.group_name! Unaanza mwezi wako wa pili wa kutumia @global.parent_app. Inastaajabisha!\n"
+"\n"
+"Karibu kila familia inahangaishwa na masuala ya pesa, kwa hiyo, @global.workshop ya wiki hii itakupa nyenzo itakayokusaidia kupanga matumizi yako ili uweze kuwa na pesa za kutosha kumaliza mwezi."
 
 #. type=data_list
 msgctxt "data_list"
@@ -14297,6 +15258,14 @@ msgid "Have you talked with your teen about your family budget yet?"
 msgstr "Je, umeshazungumza na kijana wako kuhusu bajeti ya familia yenu?"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.workshop.w_money.in_text_title!
+#.      @global.workshop
+msgctxt "data_list"
+msgid "Great, you completed the @data.workshop.w_money.in_text_title! Tomorrow, access a new @global.workshop to help you set family rules that work."
+msgstr "Umefanya vizuri sana kumaliza @data.workshop.w_money.in_text_title. Kesho, @global.workshop mpya itafunguliwa ili kukusaidia kuweka sheria za familia zinazofanya kazi."
+
+#. type=data_list
 #. The string @data.workshop.w_money.in_text_title, should not be translated.
 msgctxt "data_list"
 msgid ""
@@ -14304,6 +15273,36 @@ msgid ""
 "\n"
 "Thank you for your committed parenting."
 msgstr "Wazazi wengi wanasema kupanga bajeti huleta amani. Kama hujamaliza warsha @data.workshop.w_money.in_text_title, anza sasa."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.user_name!
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Hi @fields.user_name! You're starting your third  @global.parent_app week. \n"
+"\n"
+"A new @global.workshop is ready!"
+msgstr ""
+"Habari @fields.user_name! Unaanza wiki yako ya tatu katika @global.parent_app.\n"
+"\n"
+"@global.workshop mpya iko tayari!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.group_name!
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Hi @fields.group_name! You're starting your third  @global.parent_app week. \n"
+"\n"
+"A new @global.workshop is ready!"
+msgstr ""
+"Habari @fields.group_name! Unaanza wiki yako ya tatu katika @global.parent_app.\n"
+"\n"
+"@global.workshop mpya iko tayari!"
 
 #. type=data_list
 #. The string @global.parent_app! should not be translated.
@@ -14343,6 +15342,45 @@ msgstr ""
 "Na lini mara ya mwisho ulijisifia mwenyewe au kumsifia mtu mzima mwingine? Jaribu!"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.workshop.w_praise.in_text_title.
+#.      @global.workshop
+msgctxt "data_list"
+msgid "Amazing, you completed the @data.workshop.w_praise.in_text_title. A new @global.workshop is ready tomorrow. Try it - you will see a change in your teen’s behaviour."
+msgstr "Safi sana, umemaliza warsha ya @data.workshop.w_praise.in_text_title. @global.workshop mpya ipo tayari kesho. Ijaribu - Utaona mabadiliko katika tabia za kijana wako."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.user_name,
+#.      @global.workshop
+#.      @data.workshop.w_praise.in_text_title.
+msgctxt "data_list"
+msgid ""
+"Hi @global.user_name, a new @global.workshop awaits you tomorrow!\n"
+"\n"
+"It seems like you haven’t finished the @data.workshop.w_praise.in_text_title. It’s short (promise!) – give it a go when you have a few minutes."
+msgstr ""
+"Habari @global.user_name, @global.workshop mpya inakusubiri kesho!\n"
+"\n"
+"Inaonekana kama hujamaliza warsha ya @data.workshop.w_praise.in_text_title, ni fupi(nakuhakikishia!) - ifanye muda ukipata muda wa dakika chache."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.user_name!
+#.      @global.workshop!
+msgctxt "data_list"
+msgid "Hi @fields.user_name! New week, new @global.workshop! Learn to set household rules that your teen understands and follows."
+msgstr "Habari @fields.user_name! Wiki mpya, @global.workshop mpya! Jifunze kuweka sheria za nyumbani ambazo kijana wako anazielewa na kuzifuata."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.group_name!
+#.      @global.workshop!
+msgctxt "data_list"
+msgid "Hi @fields.group_name! New week, new @global.workshop! Learn to set household rules that your teen understands and follows."
+msgstr "Habari @fields.group_name! Wiki mpya, @global.workshop mpya! Jifunze kuweka sheria za nyumbani ambazo kijana wako anazielewa na kuzifuata."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Tried your best but your teen is still grumpy? Remember, you are doing a great job - there will be good times with them too!"
 msgstr ""
@@ -14371,6 +15409,34 @@ msgstr "Unakaribia kupata nyenzo nyingine ya malezi! Maliza @data.workshop.w_rul
 msgctxt "data_list"
 msgid "Have you managed to set a rule with your teen?"
 msgstr "Je, umeweza kutengeneza sheria pamoja na kijana wako?"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title.
+#.      @global.workshop!
+msgctxt "data_list"
+msgid ""
+"Congratulations, you completed the @local.workshop_data.in_text_title.\n"
+" \n"
+"Tomorrow, access a new @global.workshop! It will show you what to do when teens display bad (or good) behaviour!"
+msgstr ""
+"Hongera, umemaliza warsha @local.workshop_data.in_text_title.\n"
+"\n"
+"Kesho, pata @global.workshop mpya! itakusaidia kujua nini cha kufanya pindi vijana wanapoonesha tabia mbaya (au nzuri)!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.workshop
+#.      @local.workshop_data.in_text_title
+msgctxt "data_list"
+msgid ""
+"A brand-new @global.workshop unlocks tomorrow!\n"
+" \n"
+"Complete the @local.workshop_data.in_text_title before moving on. Just a few more minutes to help your teen follow your rules!"
+msgstr ""
+"@global.workshop kabisa itafunguliwa kesho!\n"
+"\n"
+"Kamilisha warsha @local.workshop_data.in_text_title kabla hujaendelea Kwa dakika chache zaidi kumsaidia kijana wao kufuata sheria!"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -14406,6 +15472,18 @@ msgid "Parenting is tough, especially now. Be proud of your achievements. Of the
 msgstr "Malezi ni kitu kigumu, hasa kwa siku hizi. Jivunie mafanikio yako. Ya matunzo unayowapa. Ya kila muda unaowafanya watabasamu. Wewe ni mzuri sana!"
 
 #. type=data_list
+#. The string @global.workshop should not be translated.
+msgctxt "data_list"
+msgid ""
+"Think about all the parenting skills you've already gained!\n"
+"\n"
+"Complete the next @global.workshop to get more."
+msgstr ""
+"Fikiria kuhusu ujuzo wote wa malezi uliiupata!\n"
+"\n"
+"Malizi @global.workshop inayofuata kupata zaidi."
+
+#. type=data_list
 #. The string @data.workshop.w_safe.in_text_title should not be translated.
 msgctxt "data_list"
 msgid ""
@@ -14421,6 +15499,14 @@ msgstr ""
 msgctxt "data_list"
 msgid "Have you talked with your teen about safety measures?"
 msgstr "Je, umezungumza na kijana wako kuhusu hatua za usalama?"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.workshop.w_safe.in_text_title.
+#.      @global.workshop
+msgctxt "data_list"
+msgid "Congratulations, you completed @data.workshop.w_safe.in_text_title. A new @global.workshop is ready tomorrow to help your family deal with any situation – together you can do so much!"
+msgstr "Hongera, umemaliza @data.workshop.w_safe.in_text_title. Kesho, @global.workshop mpya itakuwa tayari kwa ajili yako ili kukusaidia wewe na familia yako kukabiliana na hali yoyote – pamoja mnaweza kufanya makubwa!"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -14442,9 +15528,66 @@ msgid "This week is about YOU! Treat yourself well. You deserve it!"
 msgstr "Wiki hii ni kuhusu WEWE! Jitunze vizuri. Unastahili!"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "data_list"
+msgid "Start a brand new @global.parent_app @global.workshop tomorrow. You'll see great results!"
+msgstr "Anza @global.workshop mpya kabisa ya @global.parent_app kesho. Utaona matokeo mazuri!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.parent_app
+#.      @global.workshops
+msgctxt "data_list"
+msgid "Remember to tell your @global.parent_app partners about the app. Tomorrow, you can start doing @global.parent_app @global.workshops together!"
+msgstr "Kumbuka kuwaambia washirika wako kwenye @global.parent_app kubusu program. Kesho, unaweza kuanza kufanya @global.workshops pamoja kwenye @global.parent_app workshops!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.user_name!
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Hi @fields.user_name! You are making such good progress! \n"
+"\n"
+"Having a teen means having lots of unexpected problems. This @global.workshop will show you how to deal with them."
+msgstr ""
+"Habari @fields.user_name! Unaendelea vizuri sana katika safari yako ya malezi!\n"
+"\n"
+"Kuwa na kijana kunaleta matatizo mengi yasiyotarajiwa. @global.workshop hii itakuonesha jinsi ya kuyashughulikia."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.group_name!
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Hi @fields.group_name! You are making such good progress!\n"
+"\n"
+"Having a teen means having a lot of unexpected problems to deal with. This @global.workshop will show you all how to deal with them."
+msgstr ""
+"Habari @fields.group_name! Unaendelea vizuri sana katika safari yako ya malezi!\n"
+"\n"
+"Kuwa na kijana kunaleta matatizo mengi yasiyotarajiwa ya kushughulikia. @global.workshop hii itakuonesha jinsi ya kuyashughulika nayo."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Your commitment is inspiring. Keep calm and carry on!"
 msgstr "Kujitolea kwako ni mfano wa kunahamasisha. Tulia na uendelee!"
+
+#. type=data_list
+#. The string @global.workshop. should not be translated.
+msgctxt "data_list"
+msgid ""
+"Unexpected problems arise when we have teens. \n"
+" \n"
+"Learn how to address them in the next @global.workshop."
+msgstr ""
+"Matatizo yasiyotarajiwa hutokea tukiwa na vijana.\n"
+"\n"
+"Jifunze jinsi ya kuyatatua katika @global.workshop inayofuata."
 
 #. type=data_list
 #. The string @data.workshop.w_solve.in_text_title should not be translated.
@@ -14469,6 +15612,62 @@ msgstr ""
 "ELEWA – TAFUTA UTATUZI – CHAGUA – JARIBU!"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.workshop.w_solve.in_text_title.
+#.      @global.workshop
+msgctxt "data_list"
+msgid "Great! You completed the @data.workshop.w_solve.in_text_title. Tomorrow, a new @global.workshop is unlocked to help you keep your teen safe."
+msgstr "Umefanya vizuri sana kumaliza @data.workshop.w_solve.in_text_title. Kesho, @global.workshop mpya itafunguliwa ili kukusaidia kumweka salama kijana wako."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.workshop
+#.      @data.workshop.w_solve.in_text_title
+msgctxt "data_list"
+msgid ""
+"Access a new @global.workshop tomorrow! \n"
+" \n"
+" By completing the @data.workshop.w_solve.in_text_title first, you'll know how to solve problems together."
+msgstr ""
+"Pata @global.workshop mpya kesho!\n"
+"\n"
+"Kwa kukamilisha warsha @data.workshop.w_solve.in_text_title kwanza, utajua jinsi ya kutatua matatizo pamoja."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.user_name!
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Hi @fields.user_name! Congratulations for starting week 5.\n"
+"\n"
+"A new @global.workshop awaits with tips on staying calm and in control when our teens drive us crazy."
+msgstr ""
+"Habari @fields.user_name! Hongera kwa kuanza wiki ya 5.\n"
+"\n"
+"@global.workshop mpya inakusubiri ikiwa na dondoo za jinsi ya kuwa mtulivu na mstahimilivu wakati vijana wetu wakituchanganya."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.group_name!
+#.      @global.workshop
+msgctxt "data_list"
+msgid ""
+"Hi @fields.group_name! Congratulations for starting week 5.\n"
+"\n"
+"A new @global.workshop awaits with tips on staying calm and in control when our teens drive us crazy."
+msgstr ""
+"Habari @fields.group_name! Hongera kwa kuanza wiki ya 5.\n"
+"\n"
+"@global.workshop mpya inakusubiri ikiwa na dondoo za jinsi ya kuwa mtulivu na mstahimilivu wakati vijana wetu wakituchanganya."
+
+#. type=data_list
+#. The string @global.workshop. should not be translated.
+msgctxt "data_list"
+msgid "Manage anger and stress with this new @global.workshop. It helps you take better care of yourself."
+msgstr "Dhibiti hasira na msongo wa mawazo kwa hiki @global.workshop kipya. Hukusaidia wewe kujithamini vizuri zaidi."
+
+#. type=data_list
 #. The string @data.workshop.w_stress.in_text_title should not be translated.
 msgctxt "data_list"
 msgid ""
@@ -14489,4 +15688,26 @@ msgstr "Unajisikia mwenye msongo wa mawazo wiki hii? Jaribu kuvuta pumzi ndefu k
 msgctxt "data_list"
 msgid "Well done for taking a big breath before responding to your teen! Each time you take a pause, you take back control."
 msgstr "Hongera kwa kuvuta pumzi ndefu kabla ya kumjibu kijana wako! Kila wakati unapopumzika, unapata uwezo wa kujidhibiti tena."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.workshop.w_stress.in_text_title.
+#.      @global.workshop
+msgctxt "data_list"
+msgid "Well done for completing the @data.workshop.w_stress.in_text_title. Tomorrow, access a new @global.workshop to help you relax and build valuable skills!"
+msgstr "Hongera kwa kumaliza @data.workshop.w_stress.in_text_title. Kesho, utaweza kupata @global.workshop mpya itakayokusaidia kupumzika na kujifunza ujuzi muhimu sana!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.workshop
+#.      @data.workshop.w_stress.in_text_title
+msgctxt "data_list"
+msgid ""
+"Get ready for a new @global.workshop tomorrow. \n"
+" \n"
+" By completing the @data.workshop.w_stress.in_text_title first, you lay a key foundation: If you feel good, your family will too!"
+msgstr ""
+"Kuwa tayari kwa @global.workshop mpya kesho.\n"
+"\n"
+"Kwa kukamilishawarsha kwanza @data.workshop.w_stress.in_text_title. Unaweka msingi muhimu. Kama unajisikia vizuri, familia yako itajisikia vizuri pia!"
 
