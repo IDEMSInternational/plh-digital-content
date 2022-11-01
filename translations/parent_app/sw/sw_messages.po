@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-10-24 22:07\n"
+"PO-Revision-Date: 2022-11-01 23:42\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2177,16 +2177,6 @@ msgstr "Warsha"
 msgctxt "template"
 msgid "Module"
 msgstr "Kipindi"
-
-#. type=template
-msgctxt "template"
-msgid "default"
-msgstr "chaguo-msingi"
-
-#. type=template
-msgctxt "template"
-msgid "professional"
-msgstr "Mtaalam"
 
 #. type=template
 #. The string @global.my_activities should not be translated.
@@ -9560,21 +9550,6 @@ msgstr "Shughuli ya kujipongeza"
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Welcome! It’s great to have you here. This week is about YOU. \n"
-"\n"
-"In this welcome workshop you will: \n"
-"* Get tools to care for yourself \n"
-"* Customise the app for your needs"
-msgstr ""
-"Karibu! Tunafurahi sana kuwa nawe hapa. Wiki hii inahusu WEWE.\n"
-"\n"
-"Katika kipindi cha ukaribisho:\n"
-"* Utapata nyenzo za kujitunzia\n"
-"* Utarekebisha programu hii kulingana na mahitaji yako"
-
-#. type=template
-msgctxt "template"
 msgid "Wonderful, I am so happy things are going well."
 msgstr "Ni jambo la kuvutia sana, ninafurahi sana mambo yanaenda vizuri."
 
@@ -11262,16 +11237,6 @@ msgstr "Janga (UVIKO-19)"
 
 #. type=global
 msgctxt "global"
-msgid "ParentApp"
-msgstr "ParentApp"
-
-#. type=global
-msgctxt "global"
-msgid "Home"
-msgstr "Mwanzo"
-
-#. type=global
-msgctxt "global"
 msgid "Weekly Workshops"
 msgstr "Warsha za Wiki"
 
@@ -11279,11 +11244,6 @@ msgstr "Warsha za Wiki"
 msgctxt "global"
 msgid "Weekly Workshop"
 msgstr "Warsha ya Wiki"
-
-#. type=global
-msgctxt "global"
-msgid "Options"
-msgstr "Machaguo"
 
 #. type=global
 msgctxt "global"
@@ -11304,6 +11264,26 @@ msgstr "Warsha"
 msgctxt "global"
 msgid "Workshop"
 msgstr "Warsha"
+
+#. type=global
+msgctxt "global"
+msgid "ParentApp"
+msgstr "ParentApp"
+
+#. type=global
+msgctxt "global"
+msgid "Home"
+msgstr "Mwanzo"
+
+#. type=global
+msgctxt "global"
+msgid "Options"
+msgstr "Machaguo"
+
+#. type=global
+msgctxt "global"
+msgid "Module"
+msgstr "Kipindi"
 
 #. type=global
 msgctxt "global"
@@ -11904,6 +11884,11 @@ msgstr "Hatua za vitendo"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Well done!"
+msgstr "Hongera!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How to talk to my teen"
 msgstr "Jinsi ya kuongea na kijana wangu"
 
@@ -11931,11 +11916,6 @@ msgstr "Kijana wangu anajisikiaje?"
 msgctxt "data_list"
 msgid "Changing negative to positive"
 msgstr "Kubadili hasi kuwa chanya"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Relax"
-msgstr "Chukua pumziko"
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
@@ -14010,11 +13990,6 @@ msgstr "@global.w_crisis_female_caregiver: \"Ni sawa kabisa. Na @global.w_crisis
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Story"
-msgstr "Hadithi"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Another problem that many parents are worried about is violence and crime. Let’s look at an example together."
 msgstr "Tatizo jingine ambalo wazazi wengi wana wasiwasi nalo ni vurugu na uhalifu. Hebu tuangalie pamoja mfano mmoja."
 
@@ -14393,12 +14368,6 @@ msgstr "Makaribisho na Kujithamini"
 msgctxt "data_list"
 msgid "**Welcome and Self-Care** @global.workshop"
 msgstr "**Kukaribisha na kujithamini**@global.workshop"
-
-#. type=data_list
-#. The string @global.weekly_workshop should not be translated.
-msgctxt "data_list"
-msgid "This @global.weekly_workshop is about YOU. Looking after yourself is essential for a happy family."
-msgstr "Hii @global.weekly_workshop inakuhusu wewe. Kujithamini ni muhimu kwa ajili ya furaha ya familia."
 
 #. type=data_list
 msgctxt "data_list"
@@ -14977,6 +14946,41 @@ msgstr "Sherehekea kila unachojifunza na uendelee kusaidia familia yako."
 msgctxt "data_list"
 msgid "How to support each other"
 msgstr "Jinsi ya kusaidiana"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think"
+msgstr "Fikiria"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk Together"
+msgstr "Zungumza Pamoja"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Relax"
+msgstr "Chukua pumziko"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recognise"
+msgstr "Tambua"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reward"
+msgstr "Tuzo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Learn"
+msgstr "Jifunze"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Story"
+msgstr "Hadithi"
 
 #. type=data_list
 msgctxt "data_list"
