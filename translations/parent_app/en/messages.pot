@@ -691,6 +691,12 @@ msgid "What was difficult for you when trying to @local.hp_description_second_si
 msgstr ""
 
 #. type=template
+#. The string @global.workshops_capital should not be translated.
+msgctxt "template"
+msgid "All @global.workshops_capital"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Sorry we missed this!"
 msgstr ""
@@ -864,6 +870,11 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "By selecting this organisation you are allowing them to have access to your anonymous usage data so that they can support you on this journey."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "NIMR"
 msgstr ""
 
 #. type=template
@@ -1644,22 +1655,17 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "modular"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Workshop"
 msgstr ""
 
 #. type=template
 msgctxt "template"
 msgid "Module"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "default"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "professional"
 msgstr ""
 
 #. type=template
@@ -7424,9 +7430,10 @@ msgid "Reward activity"
 msgstr ""
 
 #. type=template
+#. The string @global.workshop should not be translated.
 msgctxt "template"
 msgid "Welcome! It’s great to have you here. This week is about YOU. \n\n"
-"In this welcome workshop you will: \n"
+"In this welcome @global.workshop you will: \n"
 "* Get tools to care for yourself \n"
 "* Customise the app for your needs"
 msgstr ""
@@ -8806,27 +8813,12 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "ParentApp"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Home"
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "Weekly Workshops"
 msgstr ""
 
 #. type=global
 msgctxt "global"
 msgid "Weekly Workshop"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Options"
 msgstr ""
 
 #. type=global
@@ -8847,6 +8839,41 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Workshop"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "ParentApp"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Home"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Options"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "modules"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "module"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Modules"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Module"
 msgstr ""
 
 #. type=global
@@ -9420,6 +9447,16 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How are you?"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Well done!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How to talk to my teen"
 msgstr ""
 
@@ -9450,7 +9487,23 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Relax"
+msgid "You are doing amazing, keep up the good work."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your teen is so lucky to have you as a parent."
+msgstr ""
+
+#. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid "Parenting can be hard, but @global.parent_app is here to help you win."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Spending 1 minute learning about parenting makes a world of difference."
 msgstr ""
 
 #. type=data_list
@@ -10237,6 +10290,11 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "This booklet answers some common questions about mental health and provides information that could be helpful for you or your loved one."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Booklet"
 msgstr ""
 
 #. type=data_list
@@ -11152,11 +11210,6 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Story"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Another problem that many parents are worried about is violence and crime. Let’s look at an example together."
 msgstr ""
 
@@ -11522,9 +11575,9 @@ msgid "**Welcome and Self-Care** @global.workshop"
 msgstr ""
 
 #. type=data_list
-#. The string @global.weekly_workshop should not be translated.
+#. The string @global.workshop should not be translated.
 msgctxt "data_list"
-msgid "This @global.weekly_workshop is about YOU. Looking after yourself is essential for a happy family."
+msgid "This @global.workshop is about YOU. Looking after yourself is essential for a happy family."
 msgstr ""
 
 #. type=data_list
@@ -11930,6 +11983,56 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "How to support each other"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Question"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk Together"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Try it out!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Relax"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Recognise"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reward"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Survey"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Learn"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Story"
 msgstr ""
 
 #. type=data_list
