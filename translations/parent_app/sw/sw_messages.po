@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-11-02 05:50\n"
+"PO-Revision-Date: 2022-11-03 16:23\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -929,6 +929,12 @@ msgid "What was difficult for you when trying to @local.hp_description_second_si
 msgstr "Je, jambo gani lilikuwia gumu ulipojaribu @local.hp_description_second_singular?"
 
 #. type=template
+#. The string @global.workshops_capital should not be translated.
+msgctxt "template"
+msgid "All @global.workshops_capital"
+msgstr "@global.workshops_capital zote"
+
+#. type=template
 msgctxt "template"
 msgid "Sorry we missed this!"
 msgstr "Samahani, hatukuiona hii!"
@@ -1108,6 +1114,11 @@ msgstr "Njia nyingine"
 msgctxt "template"
 msgid "By selecting this organisation you are allowing them to have access to your anonymous usage data so that they can support you on this journey."
 msgstr "Kwa kuchagua taasisi hii unawaruhusu kutumia taarifa zako zilizoondolewa utambulisho ili waweze kukusaidia katika safari hii."
+
+#. type=template
+msgctxt "template"
+msgid "NIMR"
+msgstr "NIMR"
 
 #. type=template
 msgctxt "template"
@@ -2167,6 +2178,11 @@ msgstr "Ingia kwa kutumia Google"
 msgctxt "template"
 msgid "App Skin"
 msgstr "Aina ya Programu"
+
+#. type=template
+msgctxt "template"
+msgid "modular"
+msgstr "toleo"
 
 #. type=template
 msgctxt "template"
@@ -11298,6 +11314,21 @@ msgstr "Machaguo"
 
 #. type=global
 msgctxt "global"
+msgid "modules"
+msgstr "vipindi"
+
+#. type=global
+msgctxt "global"
+msgid "module"
+msgstr "kipindi"
+
+#. type=global
+msgctxt "global"
+msgid "Modules"
+msgstr "Vipindi"
+
+#. type=global
+msgctxt "global"
 msgid "Module"
 msgstr "Kipindi"
 
@@ -11631,7 +11662,7 @@ msgstr ""
 #. The string @global.weekly_workshops. should not be translated.
 msgctxt "tour"
 msgid "<p>This big button takes you to your @global.weekly_workshops. </p>"
-msgstr "<p> hiki kitufe kikubwa kinakupeleka katika warsha yako ya wiki ya @global.weekly_workshops. </p>"
+msgstr "<p> Hiki kitufe kikubwa kinakupeleka katika @global.weekly_workshops. </p>"
 
 #. type=tour
 #. The string @global.workshop should not be translated.
@@ -11669,7 +11700,7 @@ msgid ""
 msgstr ""
 "<p> Pata rasilimali nyingi za kukusaidia katika @global.parent_centre.</p>\n"
 "\n"
-"<p> Unaweza kupata uwezo wa papo kwa papo kupata Nyenzo Muhimu kutoka katika @global.weekly_workshops.</p>"
+"<p> Unaweza kupata uwezo wa papo kwa hapo kupata Nyenzo Muhimu kutoka katika @global.weekly_workshops.</p>"
 
 #. type=tour
 msgctxt "tour"
@@ -11685,7 +11716,7 @@ msgstr ""
 #. type=tour
 msgctxt "tour"
 msgid "<p>Have a look around! Wherever you start, just the fact you are here shows you care.</p>"
-msgstr "<p>Tazama! Popote utakapoanzia, hata kuwa kwako hapa kunaonesha unajali.</p>"
+msgstr "<p>Tazama! Popote utakapoanzia, hata uwepo wako hapa unaonesha unajali.</p>"
 
 #. type=tour
 #. The string @global.weekly_workshops should not be translated.
@@ -11900,6 +11931,11 @@ msgstr "Hatua za vitendo"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How are you?"
+msgstr "Habari yako?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Well done!"
 msgstr "Hongera!"
 
@@ -11932,6 +11968,27 @@ msgstr "Kijana wangu anajisikiaje?"
 msgctxt "data_list"
 msgid "Changing negative to positive"
 msgstr "Kubadili hasi kuwa chanya"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You are doing amazing, keep up the good work."
+msgstr "Unafanya vizuri sana, endeleza kazi nzuri."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your teen is so lucky to have you as a parent."
+msgstr "Kijana ana bahati kuwa na mzazi kama wewe."
+
+#. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid "Parenting can be hard, but @global.parent_app is here to help you win."
+msgstr "Malezi yanaweza kuwa magumu lakini @global.parent_app iko hapa kukusaidi kushinda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Spending 1 minute learning about parenting makes a world of difference."
+msgstr "Kutumia dakika 1 kujifunza kuhusu malezi inaleta dunia yenye mabadiliko."
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
@@ -12746,6 +12803,11 @@ msgstr "Kijitabu cha \"maswali na majibu\" ya Afya ya Akili cha TEWWY"
 msgctxt "data_list"
 msgid "This booklet answers some common questions about mental health and provides information that could be helpful for you or your loved one."
 msgstr "Kijitabu hiki kinajibu baadhi ya maswali ya kawaida kuhusu afya ya akili na hutoa taarifa inayoweza kuwa ya msaada kwako wewe au mpendwa wako."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Booklet"
+msgstr "Kijitabu"
 
 #. type=data_list
 #. The string @global.w_praise_female_caregiver_name should not be translated.
@@ -14112,7 +14174,7 @@ msgstr "Kuna siku maishani mwetu tunahisi huzuni na tunakuwa wanyonge na kunasik
 #. type=data_list
 msgctxt "data_list"
 msgid "How many days in the past week have you felt depressed?"
-msgstr "Ni siku ngapi katika wiki iliyopita umehisi kisonona?"
+msgstr "Ni siku ngapi katika wiki iliyopita umehisi sonona?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14327,7 +14389,7 @@ msgstr "Mfadhaiko wa kifedha unaweza kuathiri familia yoyote. Unaweza ukajifunza
 #.      @data.parent_centre.my_tips.location_text.
 msgctxt "data_list"
 msgid "Money stress can be overwhelming. The @data.workshop.w_money.in_text_title includes information that will help with budgeting. If you want help right away, you can also find it in @data.parent_centre.my_tips.location_text."
-msgstr "Mafadhaiko ya kifedha yanaweza kukusonga. @data.workshop.w_money.in_text_title inajumuisha taarifa ambazo zitasaidia na kubajeti. Ikiwa unahitaji msaada wa papo kwa hapo unaweza pia ukaupata ndani ya @data.parent_centre.my_tips.location_text."
+msgstr "Mafadhaiko ya kifedha yanaweza kukusonga. @data.workshop.w_money.in_text_title inajumuisha taarifa ambazo zitakusaidia na kubajeti. Ikiwa unahitaji msaada wa papo kwa hapo unaweza pia ukaupata ndani ya @data.parent_centre.my_tips.location_text."
 
 #. type=data_list
 #. The string @data.parent_centre.bereavement.location_text. should not be translated.
@@ -14384,6 +14446,12 @@ msgstr "Makaribisho na Kujithamini"
 msgctxt "data_list"
 msgid "**Welcome and Self-Care** @global.workshop"
 msgstr "**Kukaribisha na kujithamini**@global.workshop"
+
+#. type=data_list
+#. The string @global.workshop should not be translated.
+msgctxt "data_list"
+msgid "This @global.workshop is about YOU. Looking after yourself is essential for a happy family."
+msgstr "Hii @global.workshop ni kwa ajili YAKO. Kujiangalia mwenyewe ni muhimu kwenye familia yenye furaha."
 
 #. type=data_list
 msgctxt "data_list"
@@ -14970,8 +15038,18 @@ msgstr "Fikiria"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Question"
+msgstr "Swali"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Talk Together"
 msgstr "Zungumza Pamoja"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Try it out!"
+msgstr "Ijaribu!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -14987,6 +15065,11 @@ msgstr "Tambua"
 msgctxt "data_list"
 msgid "Reward"
 msgstr "Tuzo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Survey"
+msgstr "Dodoso"
 
 #. type=data_list
 msgctxt "data_list"
