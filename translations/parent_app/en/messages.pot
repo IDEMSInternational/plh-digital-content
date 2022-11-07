@@ -281,11 +281,6 @@ msgid "You have successfully entered developer mode."
 msgstr ""
 
 #. type=template
-msgctxt "template"
-msgid "You have entered an incorrect code."
-msgstr ""
-
-#. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
 msgid "About @global.parent_app"
@@ -770,6 +765,16 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Let's listen to an audio!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Active"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "sections"
 msgstr ""
 
 #. type=template
@@ -1655,6 +1660,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "You have entered an incorrect code."
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "modular"
 msgstr ""
 
@@ -2210,8 +2220,9 @@ msgid "@global.weekly_workshop day"
 msgstr ""
 
 #. type=template
+#. The string @global.workshops.. should not be translated.
 msgctxt "template"
-msgid "I do the workshops..."
+msgid "I do the @global.workshops..."
 msgstr ""
 
 #. type=template
@@ -2220,13 +2231,15 @@ msgid "My group's name"
 msgstr ""
 
 #. type=template
+#. The string @global.workshop.. should not be translated.
 msgctxt "template"
-msgid "My group is now doing the workshop..."
+msgid "My group is now doing the @global.workshop..."
 msgstr ""
 
 #. type=template
+#. The string @global.workshop.. should not be translated.
 msgctxt "template"
-msgid "I am now doing the workshop..."
+msgid "I am now doing the @global.workshop..."
 msgstr ""
 
 #. type=template
@@ -12002,11 +12015,6 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Try it out!"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Relax"
 msgstr ""
 
@@ -12028,6 +12036,11 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Learn"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Try it out!"
 msgstr ""
 
 #. type=data_list
