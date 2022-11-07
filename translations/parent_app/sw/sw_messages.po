@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-11-04 11:50\n"
+"PO-Revision-Date: 2022-11-07 16:56\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -442,11 +442,6 @@ msgstr "Arafa"
 msgctxt "template"
 msgid "You have successfully entered developer mode."
 msgstr "Umefanikiwa kuingia kwenye njia ya msanidi wa programu."
-
-#. type=template
-msgctxt "template"
-msgid "You have entered an incorrect code."
-msgstr "Umeingiza namba isiyo sahihi."
 
 #. type=template
 #. The string @global.parent_app should not be translated.
@@ -2181,6 +2176,11 @@ msgstr "Aina ya Programu"
 
 #. type=template
 msgctxt "template"
+msgid "You have entered an incorrect code."
+msgstr "Umeingiza namba isiyo sahihi."
+
+#. type=template
+msgctxt "template"
 msgid "modular"
 msgstr "toleo"
 
@@ -2777,23 +2777,8 @@ msgstr "Siku ya @global.weekly_workshop"
 
 #. type=template
 msgctxt "template"
-msgid "I do the workshops..."
-msgstr "Ninafanya kipindi..."
-
-#. type=template
-msgctxt "template"
 msgid "My group's name"
 msgstr "Jina la kikundi changu"
-
-#. type=template
-msgctxt "template"
-msgid "My group is now doing the workshop..."
-msgstr "Sasa kikundi changu kinafanya kipindi..."
-
-#. type=template
-msgctxt "template"
-msgid "I am now doing the workshop..."
-msgstr "Sasa ninafanya kipindi..."
 
 #. type=template
 msgctxt "template"
@@ -15048,11 +15033,6 @@ msgstr "Zungumza Pamoja"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Try it out!"
-msgstr "Ijaribu!"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Relax"
 msgstr "Chukua pumziko"
 
@@ -15075,6 +15055,11 @@ msgstr "Dodoso"
 msgctxt "data_list"
 msgid "Learn"
 msgstr "Jifunze"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Try it out!"
+msgstr "Ijaribu!"
 
 #. type=data_list
 msgctxt "data_list"
