@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Southern Sotho\n"
 "\n"
 "Language: st_ZA\n"
-"PO-Revision-Date: 2022-11-01 23:42\n"
+"PO-Revision-Date: 2022-11-07 16:56\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -441,11 +441,6 @@ msgstr "Ditsebiso"
 msgctxt "template"
 msgid "You have successfully entered developer mode."
 msgstr "O kentse ka katleho developer mode."
-
-#. type=template
-msgctxt "template"
-msgid "You have entered an incorrect code."
-msgstr "O kentse khoutu e fosahetseng."
 
 #. type=template
 #. The string @global.parent_app should not be translated.
@@ -984,6 +979,11 @@ msgstr "Mamela"
 msgctxt "template"
 msgid "Let's listen to an audio!"
 msgstr "A re mamele rekoto ena!"
+
+#. type=template
+msgctxt "template"
+msgid "Active"
+msgstr "Sehlahlo"
 
 #. type=template
 #. The string @fields.user_name should not be translated.
@@ -2127,6 +2127,11 @@ msgid "Sign in with Google"
 msgstr "Kena ka ak'haonte ea hau ea Google"
 
 #. type=template
+msgctxt "template"
+msgid "You have entered an incorrect code."
+msgstr "O kentse khoutu e fosahetseng."
+
+#. type=template
 #. The string @global.my_activities should not be translated.
 msgctxt "template"
 msgid "Add this activity to @global.my_activities"
@@ -2703,23 +2708,8 @@ msgstr "Letsatsi la @global.weekly_workshop"
 
 #. type=template
 msgctxt "template"
-msgid "I do the workshops..."
-msgstr "Ke etsa diwekshopo..."
-
-#. type=template
-msgctxt "template"
 msgid "My group's name"
 msgstr "Lebitso la sehlopha sa ka"
-
-#. type=template
-msgctxt "template"
-msgid "My group is now doing the workshop..."
-msgstr "Hona jwale sehlopha sa ka se etsa wekshopo..."
-
-#. type=template
-msgctxt "template"
-msgid "I am now doing the workshop..."
-msgstr "Hona jwale ke etsa wekshopo..."
 
 #. type=template
 msgctxt "template"
