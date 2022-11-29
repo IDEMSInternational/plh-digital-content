@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2022-11-29 14:07\n"
+"PO-Revision-Date: 2022-11-29 20:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6402,6 +6402,44 @@ msgstr ""
 "Hierdie week se @global.workshop gaan oor hoe om jou kanse te verbeter om jou tiener sover te kry om te doen wat jy van hom/haar vra."
 
 #. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "Does your teen always listen to you? If not (like the rest of us), have a look at this week's @global.workshop to learn how giving positive instructions can help - a lot."
+msgstr "Luister jou tiener altyd na jou? Indien nie (soos die res van ons), kyk na hierdie week se @global.workshop om uit te vind hoe positiewe opdragte ons kan help - sommer baie."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.workshop
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"As usual, you can access a new workshop tomorrow. It will help to complete the previous @global.workshop before then.  \n"
+"\n"
+"Some parents are using the app while commuting to work. Why don’t you use the app when you have a few minutes? \n"
+"\n"
+"Thank you again for using @global.parent_app."
+msgstr ""
+"Soos gewoonlik, kry jy môre toegang tot 'n nuwe werksessie. Dit sal help as jy die vorige @global.workshop voor dan kan voltooi.  \n"
+"\n"
+"Sommige ouers gebruik die toep terwyl hulle werk toe ry. Waarom gebruik jy nie die toep wanneer jy 'n paar minute het nie? \n"
+"\n"
+"Weer eens dankie dat jy @global.parent_app gebruik."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Congratulations, you completed the @local.workshop_data.in_text_title.\n"
+"\n"
+"Tomorrow, a new @global.workshop is ready for you: you will see a big difference by making small changes!"
+msgstr ""
+"Veels geluk, jy het @local.workshop_data.in_text_title voltooi.\n"
+"\n"
+"Môre is 'n nuwe @global.workshop gereed vir jou: jy sal 'n groot verskil sien deur klein veranderinge te maak!"
+
+#. type=template
 msgctxt "template"
 msgid "Said something nice first"
 msgstr "Eers iets moois gesê het"
@@ -7329,6 +7367,48 @@ msgstr ""
 "Voltooi die @local.workshop_data.in_text_title om jou gesin met begroting en besparing te help. Dit is eintlik maklik – jy sal sien!"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! You are starting your second month of using @global.parent_app. Amazing! \n"
+"\n"
+"Almost every family struggles with money issues, therefore, this week’s @global.workshop will give you a tool that will help you to plan your expenses so you can have enough money to get through the month."
+msgstr ""
+"Hallo, @fields.user_name! Jy begin met die tweede maand wat jy @global.parent_app gebruik. Fantasties! \n"
+"\n"
+"Bykans alle gesinne sukkel met geldkwessies, daarom sal hierdie week se @global.workshop jou toerus om jou uitgawes so te beplan dat jy genoeg geld sal hê om deur die maand te kom."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! You are starting your second month of using @global.parent_app. Amazing! \n"
+"\n"
+"Almost every family struggles with money issues, therefore, this week’s @global.workshop will give you a tool that will help you to plan your expenses so you can have enough money to get through the month."
+msgstr ""
+"Hallo, @fields.group_name! Jy begin met die tweede maand wat jy @global.parent_app gebruik. Fantasties! \n"
+"\n"
+"Bykans alle gesinne sukkel met geldkwessies, daarom sal hierdie week se @global.workshop jou toerus om jou uitgawes so te beplan dat jy genoeg geld sal hê om deur die maand te kom."
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid ""
+"Do you feel stressed about money? Does your teen keep asking for things you can’t afford? \n"
+"\n"
+"This week’s @global.workshop deals with money and budgeting."
+msgstr ""
+"Voel jy gestres oor geld? Hou jou tiener aan vra vir goed wat jy nie kan bekostig nie?\n"
+"\n"
+"Hierdie week se @global.workshop handel oor geld en begrotings."
+
+#. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
 msgid ""
@@ -7339,6 +7419,14 @@ msgstr ""
 "Dit lyk asof jy nog nie die @local.workshop_data.in_text_title voltooi het nie. Baie ouers het gesê dat om ’n begroting te maak, vrede in hul huis teruggebring het – dit kan ook vir julle werk.\n"
 "\n"
 "Weereens baie dankie dat jy so ’n toegewyde ouer is."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+msgctxt "template"
+msgid "Great that you completed @local.workshop_data.in_text_title. Tomorrow, a new @global.workshop is unlocked to help you set family rules that work."
+msgstr "Geluk met jou voltooiing van @local.workshop_data.in_text_title. Môre word 'n nuwe @global.workshop ontsluit om jou te help om gesinsreëls wat werk, op te stel."
 
 #. type=template
 #. The string @global.w_money_grandma should not be translated.
@@ -7812,6 +7900,38 @@ msgstr ""
 
 #. type=template
 #. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+#.      @global.workshop
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Congratulations for starting your third  @global.parent_app week. \n"
+"\n"
+"A new @global.workshop awaits you! Can you guess the topic of the @global.workshop from this picture?"
+msgstr ""
+"Hallo, @fields.user_name! Veels geluk met die begin van jou derde week op @global.parent_app. \n"
+"\n"
+"'n Nuwe @global.workshop wag op jou! Kan jy uit hierdie prentjie aflei wat die onderwerp van die @global.workshop is?"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+#.      @global.workshop
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Congratulations for starting your third  @global.parent_app week. \n"
+"\n"
+"A new @global.workshop awaits you! Can you guess the topic of the @global.workshop from this picture?"
+msgstr ""
+"Hallo, @fields.group_name! Veels geluk met die begin van jou derde week op @global.parent_app. \n"
+"\n"
+"'n Nuwe @global.workshop wag op jou! Kan jy uit hierdie prentjie aflei wat die onderwerp van die @global.workshop is?"
+
+#. type=template
+#. The following strings should not be translated: 
 #.      @global.parent_app
 #.      @local.workshop_data.in_text_title
 msgctxt "template"
@@ -7823,6 +7943,30 @@ msgstr ""
 "Dankie dat jy @global.parent_app gebruik om in jouself en jou gesin te belê.\n"
 "\n"
 "Probeer die @local.workshop_data.in_text_title en ontwikkel ’n uitstekende ouerskapvaardigheid!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.user_name
+#.      @global.workshop
+#.      @local.workshop_data.in_text_title
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"Hi @global.user_name, a new @global.workshop awaits you tomorrow. It seems like you haven’t finished the @local.workshop_data.in_text_title yet. It’s really a short one (promise!) – you can even complete it while waiting for dinner to cook. Why don’t you go through it when you have a few minutes?\n"
+"\n"
+"Thank you again for using @global.parent_app."
+msgstr ""
+"Hallo, @global.user_name, 'n nuwe @global.workshop wag môre op jou. Dit lyk asof jy nog nie die @local.workshop_data.in_text_title voltooi het nie. Dis regtig 'n kortetjie (belowe!) – jy kan dit selfs voltooi terwyl jy wag dat jou aandete gaar word. Waarom gaan jy nie daardeur wanneer jy 'n paar minute tyd het nie? \n"
+"\n"
+"Weer eens dankie dat jy @global.parent_app gebruik."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+msgctxt "template"
+msgid "Great that you completed the @local.workshop_data.in_text_title. Tomorrow, a new @global.workshop is unlocked. Try it - you will see the difference in your teen’s behaviour."
+msgstr "Dit is wonderlik dat jy die @local.workshop_data.in_text_title. voltooi het. Môre word ’n nuwe @global.workshop ontsluit. Probeer dit – jy sal die verskil in jou tiener se gedrag sien."
 
 #. type=template
 msgctxt "template"
@@ -8558,6 +8702,12 @@ msgid "Online Safety"
 msgstr "Aanlyn veiligheid"
 
 #. type=template
+#. The string @global.weekly_workshop should not be translated.
+msgctxt "template"
+msgid "Rules are important to keep your teens safe - also online. There’s more about this in the @global.weekly_workshop on safety planning, but let’s already have a first look now!"
+msgstr "Reëls is belangrik om jou tieners veilig te hou – ook aanlyn. Daar is meer hieroor in die @global.weekly_workshop oor die beplanning van veiligheid, maar kom ons loer sommer nou solank daarna!"
+
+#. type=template
 #. The following strings should not be translated: 
 #.      @global.w_rules_female_caregiver_2
 #.      @global.w_rules_teen_girl
@@ -9275,6 +9425,12 @@ msgstr "Baie geluk met jou voltooiing van @local.workshop_data.in_text_title.. M
 #. type=template
 #. The string @global.w_safe_teen_girl_1 should not be translated.
 msgctxt "template"
+msgid "The man in the car was pressuring @global.w_safe_teen_girl_1 with gifts"
+msgstr "Die man in die motor het druk op @global.w_safe_teen_girl_1 uitgeoefen met geskenke"
+
+#. type=template
+#. The string @global.w_safe_teen_girl_1 should not be translated.
+msgctxt "template"
 msgid "@global.w_safe_teen_girl_1's friend was encouraging her"
 msgstr "@global.w_safe_teen_girl_1 se vriendin het haar aangemoedig"
 
@@ -9719,6 +9875,15 @@ msgid "Start a brand new @global.parent_app workshop tomorrow. You will see the 
 msgstr "Begin môre met ’n splinternuwe @global.parent_app-slypskool. Jy sal die goeie resultate sien!"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.parent_app
+#.      @global.workshops
+msgctxt "template"
+msgid "Have you told your @global.parent_app partners about the app yet? From tomorrow, you can start doing your @global.parent_app @global.workshops together!"
+msgstr "Het jy jou @global.parent_app-vriende al van die toep vertel? Vanaf môre kan julle jul @global.parent_app @global.workshops saam begin doen!"
+
+#. type=template
 msgctxt "template"
 msgid ""
 "Paying attention to what we do well helps us to focus on the positive. \n"
@@ -10063,6 +10228,22 @@ msgid "Reward activity"
 msgstr "Beloning-aktiwiteit"
 
 #. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid ""
+"Welcome! It’s great to have you here. This week is about YOU. \n"
+"\n"
+"In this welcome @global.workshop you will: \n"
+"* Get tools to care for yourself \n"
+"* Customise the app for your needs"
+msgstr ""
+"Welkom! Dis wonderlik om jou hier te hê. Hierdie week gaan oor JOU.\n"
+"\n"
+"In hierdie verwelkomings-@global.workshop sal jy:\n"
+"* Hulpmiddels kry om na jouself om te sien\n"
+"* Die toep pasmaak vir jou behoeftes"
+
+#. type=template
 msgctxt "template"
 msgid "Wonderful, I am so happy things are going well."
 msgstr "Wonderlik, ek is so bly dit gaan goed."
@@ -10279,6 +10460,62 @@ msgstr ""
 "Jy is op die regte pad om probleme saam met jou tiener op te los!\n"
 "\n"
 "Voltooi die @local.workshop_data.in_text_title en kry nog ’n belangrike ouerskapvaardigheid!"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! You are making such good progress on your parenting journey! \n"
+"\n"
+"Having a teen means having a lot of unexpected problems to deal with. This @global.workshop will show you how to deal with them."
+msgstr ""
+"Hallo, @fields.user_name! Jy maak sulke goeie vordering op jou ouerskapsreis! \n"
+"\n"
+"Wanneer mens 'n tiener het, kan talle onverwagse probleme opduik. Hierdie @global.workshop sal jou wys hoe om dit te hanteer."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! You are making such good progress on your parenting journey!\n"
+"\n"
+"Having a teen means having a lot of unexpected problems to deal with. This @global.workshop will show you all how to deal with them."
+msgstr ""
+"Hallo, @fields.group_name! Julle maak sulke goeie vordering op jul ouerskapsreis! \n"
+"\n"
+"Wanneer mens 'n tiener het, kan talle onverwagse probleme opduik. Hierdie @global.workshop sal julle wys hoe om dit te hanteer."
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid ""
+"With teenagers, and in life, unexpected problems come up and we have to deal with them. \n"
+"\n"
+"Start the next @global.workshop to learn how to successfully address these problems."
+msgstr ""
+"Met tieners, en in die lewe, duik onverwagse probleme op en ons moet dit hanteer.\n"
+"\n"
+"Begin met die volgende @global.workshop om te leer hoe jy hierdie probleme suksesvol kan hanteer."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.workshop
+#.      @local.workshop_data.in_text_title
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Tomorrow a brand new @global.parent_app @global.workshop is ready for you. \n"
+"\n"
+"Try to complete the @local.workshop_data.in_text_title before starting the new @global.workshop. Knowing how to solve problems together will help in many situations!"
+msgstr ""
+"Môre is ’n splinternuwe @global.parent_app @global.workshop gereed vir jou.\n"
+"\n"
+"Probeer om die @local.workshop_data.in_text_title te voltooi voordat jy met die nuwe @global.workshop begin. As julle weet hoe om probleme saam op te los, sal baie situasies makliker wees!"
 
 #. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
@@ -10929,6 +11166,36 @@ msgstr ""
 "Ons voel almal soms oorweldig. Dit help om diep asem te haal!\n"
 "\n"
 "Voltooi die @local.workshop_data.in_text_title om ’n paar nuttige hulpmiddels te kry om stres te hanteer."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.user_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.user_name! Congratulations for starting @global.parent_app week 5.\n"
+"\n"
+"A new parenting @global.workshop awaits you with tips on how we can stay calm and in control when our teens are driving us crazy."
+msgstr ""
+"Hallo, @fields.user_name! Veels geluk met die begin van @global.parent_app Week 5.\n"
+"\n"
+"'n Nuwe @global.workshop oor ouerskap wag op jou, met wenke oor hoe ons kalm en in beheer kan bly wanneer ons tieners ons mal maak."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.group_name
+#.      @global.parent_app
+#.      @global.workshop
+msgctxt "template"
+msgid ""
+"Hi @fields.group_name! Congratulations for starting @global.parent_app week 5.\n"
+"\n"
+"A new parenting @global.workshop awaits you with tips how we can stay calm and in control when our teens are driving us crazy."
+msgstr ""
+"Hallo, @fields.group_name! Veels geluk met die begin van @global.parent_app week 5.\n"
+"\n"
+"'n Nuwe @global.workshop oor ouerskap wag op jou, met wenke oor hoe ons kalm en in beheer kan bly wanneer ons tieners ons mal maak."
 
 #. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
