@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2022-11-29 20:03\n"
+"PO-Revision-Date: 2022-11-30 07:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11198,6 +11198,27 @@ msgstr ""
 "'n Nuwe @global.workshop oor ouerskap wag op jou, met wenke oor hoe ons kalm en in beheer kan bly wanneer ons tieners ons mal maak."
 
 #. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "We have a new @global.workshop available for you about managing anger and stress. It will help you take better care of yourself."
+msgstr "Ons het ’n nuwe @global.workshop vir jou beskikbaar oor die hantering van woede en stres. Dit sal jou help om beter na jouself om te sien."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app
+#.      @global.workshop
+#.      @local.workshop_data.in_text_title
+msgctxt "template"
+msgid ""
+"Tomorrow a brand new @global.parent_app @global.workshop is ready for you. \n"
+"\n"
+"By completing the @local.workshop_data.in_text_title first, you lay a really important foundation: If you feel good, your family will do better too!"
+msgstr ""
+"Môre is ’n splinternuwe @global.parent_app @global.workshop gereed vir jou.\n"
+"\n"
+"Deur eers die @local.workshop_data.in_text_title te voltooi, lê jy ’n baie belangrike grondslag: As jy goed voel, sal jou gesin ook beter doen!"
+
+#. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
 msgid "Well done for completing the @local.workshop_data.in_text_title. Tomorrow, you can access a new workshop to help you relax and build valuable skills!"
@@ -11920,6 +11941,26 @@ msgstr "Weeklikse Slypskole"
 
 #. type=global
 msgctxt "global"
+msgid "workshops"
+msgstr "werkswinkels"
+
+#. type=global
+msgctxt "global"
+msgid "workshop"
+msgstr "werkswinkel"
+
+#. type=global
+msgctxt "global"
+msgid "Workshops"
+msgstr "Werkswinkels"
+
+#. type=global
+msgctxt "global"
+msgid "Workshop"
+msgstr "Werkswinkel"
+
+#. type=global
+msgctxt "global"
 msgid "ParentApp"
 msgstr "OuerToep"
 
@@ -11932,6 +11973,16 @@ msgstr "Tuis"
 msgctxt "global"
 msgid "Options"
 msgstr "Opsies"
+
+#. type=global
+msgctxt "global"
+msgid "modules"
+msgstr "modules"
+
+#. type=global
+msgctxt "global"
+msgid "module"
+msgstr "module"
 
 #. type=global
 msgctxt "global"
@@ -13314,6 +13365,11 @@ msgstr "Polisie"
 msgctxt "data_list"
 msgid "National Child Helpline"
 msgstr "Nasionale Hulplyn vir Kinders"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This helpline is free, available 24/7, and connects you with a professional that can help."
+msgstr "Hierdie hulplyn is gratis, 24/7 beskikbaar, en stel jou in verbinding met 'n professionele persoon wat kan help."
 
 #. type=data_list
 #. The string @global.w_praise_female_caregiver_name should not be translated.
