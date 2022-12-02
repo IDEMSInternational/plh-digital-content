@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-12-02 14:51\n"
+"PO-Revision-Date: 2022-12-02 14:54\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -2798,9 +2798,27 @@ msgid "@global.weekly_workshop day"
 msgstr "Siku ya @global.weekly_workshop"
 
 #. type=template
+#. The string @global.workshops should not be translated.
+msgctxt "template"
+msgid "I do the @global.workshops:"
+msgstr "Ninafanya @global.workshops:"
+
+#. type=template
 msgctxt "template"
 msgid "My group's name"
 msgstr "Jina la kikundi changu"
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "My group is now doing the @global.workshop:"
+msgstr "Sasa kikundi changu kinafanya @global.workshop:"
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "I am now doing the @global.workshop:"
+msgstr "Kwa sasa ninafanya @global.workshop:"
 
 #. type=template
 msgctxt "template"
