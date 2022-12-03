@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2022-12-02 14:50\n"
+"PO-Revision-Date: 2022-12-03 07:31\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -436,6 +436,11 @@ msgstr "Veldtogte"
 msgctxt "template"
 msgid "Notifications"
 msgstr "Kennisgewings"
+
+#. type=template
+msgctxt "template"
+msgid "Entering Developer Mode"
+msgstr "Invoer van Ontwikkelaarsmodus"
 
 #. type=template
 #. The string @global.submit_button should not be translated.
@@ -2799,9 +2804,27 @@ msgid "@global.weekly_workshop day"
 msgstr "@global.weekly_workshop dag"
 
 #. type=template
+#. The string @global.workshops should not be translated.
+msgctxt "template"
+msgid "I do the @global.workshops:"
+msgstr "Ek doen die @global.workshops:"
+
+#. type=template
 msgctxt "template"
 msgid "My group's name"
 msgstr "My groep se naam"
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "My group is now doing the @global.workshop:"
+msgstr "My groep doen nou die @global.workshop:"
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "I am now doing the @global.workshop:"
+msgstr "Ek doen nou die @global.workshop:"
 
 #. type=template
 msgctxt "template"
