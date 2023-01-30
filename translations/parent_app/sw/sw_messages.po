@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-01-30 07:24\n"
+"PO-Revision-Date: 2023-01-30 12:50\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -439,6 +439,11 @@ msgid "Notifications"
 msgstr "Arafa"
 
 #. type=template
+msgctxt "template"
+msgid "Entering Developer Mode"
+msgstr "Unaingia kwenye ukurasa wa mtengenezaji"
+
+#. type=template
 #. The string @global.submit_button should not be translated.
 msgctxt "template"
 msgid "To launch the app in developer mode, enter your developer code in the box below and press @global.submit_button."
@@ -659,6 +664,11 @@ msgstr "Je, ulipata nafasi ya kufanya hivi?"
 
 #. type=template
 msgctxt "template"
+msgid "That's okay, don't be too hard on yourself. We encourage you to try and do it when you can."
+msgstr "Hiyo ni sawa, usiwe mgumu sana kwako mwenyewe. Tunakuhimiza ujaribu kuifanya unapoweza."
+
+#. type=template
+msgctxt "template"
 msgid "How did it go?"
 msgstr "Je, liliendaje?"
 
@@ -824,6 +834,16 @@ msgstr "Umri wa kijana"
 msgctxt "template"
 msgid "Let’s start with a few questions about your family."
 msgstr "Hebu tuanze na maswali machache kuhusu familia yako."
+
+#. type=template
+msgctxt "template"
+msgid "How many teens are in your household?"
+msgstr "Je, kuna watu watu wangapi kwenye kaya yako?"
+
+#. type=template
+msgctxt "template"
+msgid "How old are they?"
+msgstr "Je, wana umri gani?"
 
 #. type=template
 msgctxt "template"
@@ -4997,10 +5017,36 @@ msgid "@global.w_crisis_teen_boy_2: \"I’ve never done this before. And now the
 msgstr "@global.w_crisis_teen_boy_2: \"Sijawahi kufanya hivi. Na sasa watanifukuza.\""
 
 #. type=template
+#. The string @global.w_crisis_teen_girl_2 should not be translated.
+msgctxt "template"
+msgid "Crisis 2: @global.w_crisis_teen_girl_2 gets pregnant"
+msgstr "Tatizo la Pili: @global.w_crisis_teen_girl_2 amepata ujauzito"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.w_crisis_teen_girl_2
+#.      @global.w_crisis_male_caregiver_1
+msgctxt "template"
+msgid "@global.w_crisis_teen_girl_2: \"@global.w_crisis_male_caregiver_1, I’m so ashamed. I don’t know what to do\""
+msgstr "@global.w_crisis_teen_girl_2: \"@global.w_crisis_male_caregiver_1, nina aibu sana. Sijui la kufanya\""
+
+#. type=template
+#. The string @global.w_crisis_teen_girl_2 should not be translated.
+msgctxt "template"
+msgid "How could you respond to @global.w_crisis_teen_girl_2?"
+msgstr "Je, unaweza kumjibu vipi @global.w_crisis_teen_girl_2?"
+
+#. type=template
 #. The string @global.w_crisis_teen_boy_2 should not be translated.
 msgctxt "template"
 msgid "Crisis 3: @global.w_crisis_teen_boy_2 makes a girl pregnant"
 msgstr "Tatizo la Tatu: @global.w_crisis_teen_boy_2 amempa msichana mimba"
+
+#. type=template
+#. The string @global.w_crisis_teen_boy_2 should not be translated.
+msgctxt "template"
+msgid "@global.w_crisis_teen_boy_2: \"I don’t want to have a baby\""
+msgstr "@global.w_crisis_teen_boy_2: \"Sitaki kupata mtoto\""
 
 #. type=template
 #. The string @global.w_crisis_teen_boy_2 should not be translated.
