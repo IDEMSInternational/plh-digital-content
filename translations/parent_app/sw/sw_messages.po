@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2022-12-02 14:54\n"
+"PO-Revision-Date: 2023-01-30 12:50\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -439,6 +439,11 @@ msgid "Notifications"
 msgstr "Arafa"
 
 #. type=template
+msgctxt "template"
+msgid "Entering Developer Mode"
+msgstr "Unaingia kwenye ukurasa wa mtengenezaji"
+
+#. type=template
 #. The string @global.submit_button should not be translated.
 msgctxt "template"
 msgid "To launch the app in developer mode, enter your developer code in the box below and press @global.submit_button."
@@ -466,56 +471,6 @@ msgstr ""
 "@global.parent_app iliundwa na taasisi ya Parenting for Lifelong Health (PLH) inayotokana na ushirikiano ulioanzishwa duniani kote wa wataalamu wa malezi kutoka Shirika la UNICEF, Shirika la Afya Duniani (WHO), vyuo vikuu vya nchini Afrika Kusini na Uingereza, pamoja na mashirika yasiyo ya kiserikali barani Afrika, na familia na vijana mbalimbali kote barani Afrika. Wazazi na vijana walifanya kazi nasi kwenye programu hii na kutusaidia kuhakikisha kuwa programu hii inakuwa rahisi kutumia, inayofurahisha na inayoshughulisha. Baadhi ya maudhui yaliyomo kwenye programu hii, kama vile shughuli zinazopendekezwa na simulizi za mifano, ziliundwa kwa kuwashirikisha wazazi na vijana ili kuhakikisha kuwa maudhui hayo yanakidhi mahitaji ya familia.\n"
 "\n"
 "Taasisi ya PLH inajitolea kwa dhati ili kusaidia kuundwa kwa nyenzo na programu za malezi zisizouzwa na zinazoweza kusambazwa kwa watu wengine, ili kuwasaidia wazazi duniani kote waweze kuboresha ustawi wa watoto wao."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"By clicking in the button below you will reset the app to its initial settings. \n"
-"\n"
-"This means that all your progress and usage data will be deleted and your app will work as if it was just installed for the first time.\n"
-"\n"
-"NOTE: Resetting the app is permanent and you will not be able to recover any information."
-msgstr ""
-"Kwa kubofya kwenye kitufe hapo chini, utapangilia upya programu kwenye mipangilio yake ya awali.\n"
-"\n"
-"Hii inamaanisha kuwa shughuli zako zote na data zilizotumiwa zitafutwa na programu yako itafanya kazi kama inaposakinishwa kwa mara ya kwanza.\n"
-"\n"
-"ANGALIZO: Kupangilia upya programu ni tukio la kudumu na hautaweza kupata tena taarifa yoyote."
-
-#. type=template
-msgctxt "template"
-msgid "Open Survey"
-msgstr "Funguo dodoso"
-
-#. type=template
-msgctxt "template"
-msgid "Select Language"
-msgstr "Chagua Lugha"
-
-#. type=template
-msgctxt "template"
-msgid "Reset App"
-msgstr "Pangilia Upya Programu"
-
-#. type=template
-msgctxt "template"
-msgid "Demo Presentation"
-msgstr "Uwasilishaji wa Mfano"
-
-#. type=template
-msgctxt "template"
-msgid "Organisation Registration"
-msgstr "Usajili wa Shirika"
-
-#. type=template
-msgctxt "template"
-msgid "Developer Mode"
-msgstr "Mtengenezaji wa programu"
-
-#. type=template
-msgctxt "template"
-msgid "Select Skin"
-msgstr "Chagua Aina"
 
 #. type=template
 msgctxt "template"
@@ -709,6 +664,11 @@ msgstr "Je, ulipata nafasi ya kufanya hivi?"
 
 #. type=template
 msgctxt "template"
+msgid "That's okay, don't be too hard on yourself. We encourage you to try and do it when you can."
+msgstr "Hiyo ni sawa, usiwe mgumu sana kwako mwenyewe. Tunakuhimiza ujaribu kuifanya unapoweza."
+
+#. type=template
+msgctxt "template"
 msgid "How did it go?"
 msgstr "Je, liliendaje?"
 
@@ -859,6 +819,31 @@ msgstr "\"Jambo hili zuri lilitokea siku fulani...\""
 msgctxt "template"
 msgid "Change"
 msgstr "Badili"
+
+#. type=template
+msgctxt "template"
+msgid "Teen"
+msgstr "Kijana"
+
+#. type=template
+msgctxt "template"
+msgid "Age of teen"
+msgstr "Umri wa kijana"
+
+#. type=template
+msgctxt "template"
+msgid "Let’s start with a few questions about your family."
+msgstr "Hebu tuanze na maswali machache kuhusu familia yako."
+
+#. type=template
+msgctxt "template"
+msgid "How many teens are in your household?"
+msgstr "Je, kuna watu watu wangapi kwenye kaya yako?"
+
+#. type=template
+msgctxt "template"
+msgid "How old are they?"
+msgstr "Je, wana umri gani?"
 
 #. type=template
 msgctxt "template"
@@ -5032,18 +5017,24 @@ msgid "@global.w_crisis_teen_boy_2: \"I’ve never done this before. And now the
 msgstr "@global.w_crisis_teen_boy_2: \"Sijawahi kufanya hivi. Na sasa watanifukuza.\""
 
 #. type=template
-#. The string @global.w_crisis_teen_girl_1 should not be translated.
+#. The string @global.w_crisis_teen_girl_2 should not be translated.
 msgctxt "template"
-msgid "Crisis 2: @global.w_crisis_teen_girl_1 gets pregnant"
-msgstr "Tatizo la Pili: @global.w_crisis_teen_girl_1 amepata ujauzito"
+msgid "Crisis 2: @global.w_crisis_teen_girl_2 gets pregnant"
+msgstr "Tatizo la Pili: @global.w_crisis_teen_girl_2 amepata ujauzito"
 
 #. type=template
 #. The following strings should not be translated: 
-#.      @global.w_crisis_teen_girl_1
+#.      @global.w_crisis_teen_girl_2
 #.      @global.w_crisis_male_caregiver_1
 msgctxt "template"
-msgid "@global.w_crisis_teen_girl_1: \"@global.w_crisis_male_caregiver_1, I’m so ashamed. I don’t know what to do\""
-msgstr "@global.w_crisis_teen_girl_1: \"@global.w_crisis_male_caregiver_1, ninaona aibu sana. Sijui cha kufanya.\""
+msgid "@global.w_crisis_teen_girl_2: \"@global.w_crisis_male_caregiver_1, I’m so ashamed. I don’t know what to do\""
+msgstr "@global.w_crisis_teen_girl_2: \"@global.w_crisis_male_caregiver_1, nina aibu sana. Sijui la kufanya\""
+
+#. type=template
+#. The string @global.w_crisis_teen_girl_2 should not be translated.
+msgctxt "template"
+msgid "How could you respond to @global.w_crisis_teen_girl_2?"
+msgstr "Je, unaweza kumjibu vipi @global.w_crisis_teen_girl_2?"
 
 #. type=template
 #. The string @global.w_crisis_teen_boy_2 should not be translated.
@@ -5052,12 +5043,10 @@ msgid "Crisis 3: @global.w_crisis_teen_boy_2 makes a girl pregnant"
 msgstr "Tatizo la Tatu: @global.w_crisis_teen_boy_2 amempa msichana mimba"
 
 #. type=template
-#. The following strings should not be translated: 
-#.      @global.w_crisis_teen_boy_2
-#.      @global.w_crisis_male_caregiver_2
+#. The string @global.w_crisis_teen_boy_2 should not be translated.
 msgctxt "template"
-msgid "@global.w_crisis_teen_boy_2: \"@global.w_crisis_male_caregiver_2, I don’t want to have a baby\""
-msgstr "@global.w_crisis_teen_boy_2: \"@global.w_crisis_male_caregiver_2, sitaki kupata mtoto.\""
+msgid "@global.w_crisis_teen_boy_2: \"I don’t want to have a baby\""
+msgstr "@global.w_crisis_teen_boy_2: \"Sitaki kupata mtoto\""
 
 #. type=template
 #. The string @global.w_crisis_teen_boy_2 should not be translated.
