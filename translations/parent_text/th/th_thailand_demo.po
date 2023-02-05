@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Thai\n"
 "\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2023-01-30 17:39\n"
+"PO-Revision-Date: 2023-02-05 03:01\n"
 
 #. type=text
 msgctxt "text"
@@ -98,5 +98,11 @@ msgstr "เยี่ยมมาก @fields.user_name! ทำแล้วได�
 #. type=text
 msgctxt "text"
 msgid "That's great! How did it go?"
-msgstr "เยี่ยมมาก! ทำแล้วได้ผลเป็นอย่างไรบ้างคะ?"
+msgstr "เยี่ยมมาก ทำแล้วเป็นยังไงบ้างคะ?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Good for you @fields.user_name! One-on-One Time shows your children that they are important to you. It really makes a difference!"
+msgstr "ดีมากเลยค่ะ @fields.user_name! การใช้เวลาตามลำพังกับเด็กทำให้เขารู้สึกว่าเขาเป็นคนสำคัญสำหรับคุณ มันช่วยให้เกิดการเปลี่ยนแปลงได้จริงๆ!"
 
