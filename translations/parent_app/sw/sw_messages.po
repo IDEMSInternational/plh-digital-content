@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-03-03 12:03\n"
+"PO-Revision-Date: 2023-03-03 15:02\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1541,31 +1541,6 @@ msgid "**Essential Tools** in the @global.parent_centre"
 msgstr "**Nyenzo Muhimu** kwenye @global.parent_centre"
 
 #. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Customise @global.parent_app"
-msgstr "Rekebisha @global.parent_app"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @global.parent_app**
-#.      @global.parent_centre
-msgctxt "data_list"
-msgid "**Customise @global.parent_app** in the @global.parent_centre"
-msgstr "**Rekebisha @global.parent_app** kwenye @global.parent_centre"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Customise Again"
-msgstr "Rekebisha Tena"
-
-#. type=data_list
-#. The string @global.parent_centre should not be translated.
-msgctxt "data_list"
-msgid "**Customise Again** in the @global.parent_centre"
-msgstr "**Binafsisha tena** katika @global.parent_centre"
-
-#. type=data_list
 msgctxt "data_list"
 msgid "Relax & Activities"
 msgstr "Burudani & Shughuli"
@@ -1586,17 +1561,6 @@ msgstr "Msaada"
 msgctxt "data_list"
 msgid "**Help** in the @global.parent_centre"
 msgstr "**Msaada** kwenye @global.parent_centre"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Technical Support"
-msgstr "Msaada wa Kiufundi"
-
-#. type=data_list
-#. The string @global.parent_centre should not be translated.
-msgctxt "data_list"
-msgid "**Technical Support** in the @global.parent_centre"
-msgstr "**Msaada wa Kiufundi** kwenye @global.parent_centre"
 
 #. type=data_list
 #. The string @global.covid should not be translated.
@@ -1633,28 +1597,6 @@ msgstr "Hifadhi ya Ujumbe"
 msgctxt "data_list"
 msgid "**Message Archive** in the @global.parent_centre"
 msgstr "**Hifadhi ya Ujumbe** kwenye @global.parent_centre"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Support Contacts"
-msgstr "Mawasiliano ya Msaada"
-
-#. type=data_list
-#. The string @global.parent_centre should not be translated.
-msgctxt "data_list"
-msgid "**Support Contacts** in the @global.parent_centre"
-msgstr "**Mawasiliano ya Msaada** kwenye @global.parent_centre"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Evidence Base"
-msgstr "Yenye Ushahidi wa Kufanya Kazi"
-
-#. type=data_list
-#. The string @global.parent_centre should not be translated.
-msgctxt "data_list"
-msgid "**Evidence Base** in the @global.parent_centre"
-msgstr "**Yenye Ushahidi wa Kufanya Kazi** kwenye @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7434,11 +7376,6 @@ msgstr "Rafiki au familia"
 
 #. type=template
 msgctxt "template"
-msgid "Quick Parenting Tips"
-msgstr "Vidokezo vya Malezi vya Haraka"
-
-#. type=template
-msgctxt "template"
 msgid "Raising teens can be hard, and we all struggle sometimes."
 msgstr "Kulea vijana kunaweza kuwa kugumu, na wakati mwingine sisi sote tunahangaika."
 
@@ -7703,18 +7640,13 @@ msgstr "Sahihisha machaguo yangu ya @global.workshop"
 
 #. type=template
 msgctxt "template"
-msgid "Give me quick parenting tips"
-msgstr "Nipe vidokezo vya malezi vya haraka"
+msgid "Support Contacts"
+msgstr "Mawasiliano ya Msaada"
 
 #. type=template
 msgctxt "template"
-msgid "Something really bad happened"
-msgstr "Kitu kibaya sana kimetokea"
-
-#. type=template
-msgctxt "template"
-msgid "I have technical problems with the app"
-msgstr "Nina matatizo ya kiufundi kwenye programu hii"
+msgid "Quick Parenting Tips"
+msgstr "Vidokezo vya Malezi vya Haraka"
 
 #. type=template
 #. The string @global.workshops should not be translated.
@@ -7753,6 +7685,11 @@ msgstr "Kitu cha kufurahisha cha kufanya na kijana wako"
 msgctxt "template"
 msgid "I need help with:"
 msgstr "Ninahitaji msaada na:"
+
+#. type=template
+msgctxt "template"
+msgid "Technical Support"
+msgstr "Msaada wa Kiufundi"
 
 #. type=template
 #. The string @global.parent_app should not be translated.
@@ -8757,6 +8694,18 @@ msgstr "Soma ushuhuda wa mlezi"
 msgctxt "template"
 msgid "Why @local.workshop_data.title?"
 msgstr "Kwanini @local.workshop_data.title?"
+
+#. type=template
+#. The string @local.topic_intro_name should not be translated.
+msgctxt "template"
+msgid "Hear @global.@local.topic_intro_name's message"
+msgstr "Sikia ujumbe wa @global.@local.topic_intro_name"
+
+#. type=template
+#. The string @local.topic_intro_name should not be translated.
+msgctxt "template"
+msgid "Read @global.@local.topic_intro_name's message"
+msgstr "Soma ujumbe wa @global.@local.topic_intro_name"
 
 #. type=template
 msgctxt "template"
