@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-03-02 19:25\n"
+"PO-Revision-Date: 2023-03-03 12:03\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -33,19 +33,19 @@ msgstr "@global.parent_app ni toleo bure la programu tumishi ya Parenting for Li
 #. type=template
 #. The following strings should not be translated: 
 #.      @global.privacy_policy
+#.      @global.privacy_policy
+msgctxt "template"
+msgid "Please read this @global.privacy_policy carefully. By downloading or using the app, you agree to the collection and use of information in relation to this policy. We will not use or share your information with anyone except as described in this @global.privacy_policy."
+msgstr "Tafadhali soma hii @global.privacy_policy kwa umakini. Kwa kupakua au kutumia programu tumishi hii, unakubali ukusanyaji na matumizi ya taarifa kuhusiana na sera hii. Hatutatumia au kushirikisha taarifa zako na mtu yeyote isipokuwa kama ilivyoelezwa katika sera hii ya @global.privacy_policy."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.privacy_policy
 #.      @global.terms_and_conditions
 #.      @global.privacy_policy
 msgctxt "template"
 msgid "The terms used in this @global.privacy_policy have the same meanings as in our @global.terms_and_conditions, which are accessible within the app, unless otherwise defined in this @global.privacy_policy."
 msgstr "Masharti yanayotumika katika @global.privacy_policy yana maana sawa na yaliyopo katika @global.terms_and_conditions zetu, ambazo zinaweza kufikiwa ndani ya programu tumishi, isipokuwa kama imefafanuliwa vinginevyo katika @global.privacy_policy."
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.privacy_policy
-#.      @global.privacy_policy
-msgctxt "template"
-msgid "Please read this @global.privacy_policy carefully. By downloading or using the app, you agree to the collection and use of information in relation to this policy. We will not use or share your information with anyone except as described in this @global.privacy_policy."
-msgstr "Tafadhali soma hii @global.privacy_policy kwa umakini. Kwa kupakua au kutumia programu tumishi hii, unakubali ukusanyaji na matumizi ya taarifa kuhusiana na sera hii. Hatutatumia au kushirikisha taarifa zako na mtu yeyote isipokuwa kama ilivyoelezwa katika sera hii ya @global.privacy_policy."
 
 #. type=template
 msgctxt "template"
@@ -68,12 +68,6 @@ msgstr "Kwa madhumuni ya @global.privacy_policy, \"data binafsi\" inamaanisha ma
 #. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
-msgid "Specifically, this is data regarding chosen username, age, gender, household composition and relationship statuses, and (if applicable) organisation involved in recruiting you to use our app. All data collected is linked to your unique @global.parent_app ID."
-msgstr "Haswa, hii ni taarifa kuhusu jina la mtumiaji ulilochagua, umri, jinsia, muundo wa kaya na hali ya uhusiano, na (ikiwezekana) shirika linalohusika katika kukuajiri ili utumie programu tumishi yetu. Taarifa zote iliyokusanywa imeunganishwa na kitambulisho chako cha kipekee cha @global.parent_app."
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
 msgid "We process your data to provide parenting support to you, communicate when you contact us, for security reasons as well as research purposes (see section ‘Information Sharing’). The primary research purpose includes optimising engagement of a digital parenting intervention (use of @global.parent_app) to prevent violence against adolescents. During the course of research, the study team may use aggregated and anonymised data from the app for further research projects. Finally, please note that we may process your data without your knowledge or consent, where this is required or permitted by law."
 msgstr "Tunachakata taarifa zako ili kukupa usaidizi wa malezi, unapowasiliana nasi, kwa sababu za usalama na pia madhumuni ya utafiti (angalia sehemu ya ‘Kushirikishana Taarifa’). Madhumuni ya kimsingi ya utafiti ni pamoja na kuboresha ushiriki katika malezi kwa njia ya kidijitali (matumizi ya @global.parent_app) ili kuzuia unyanyasaji dhidi ya vijana. Wakati wa utafiti, timu ya utafiti inaweza kutumia taarifa zilizojumlishwa na zisizokuwa na utambulisho kutoka katika programu tumishi kwa miradi zaidi ya utafiti. Hatimaye, tafadhali kumbuka kwamba tunaweza kuchakata taarifa yako bila ujuzi au idhini yako, ambapo hii inahitajika au inaruhusiwa na sheria."
 
@@ -83,25 +77,9 @@ msgid "The processing of your personal data is primarily based on:"
 msgstr "Uchakataji wa taarifa yako ya kibinafsi unategemea kimsingi:"
 
 #. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "The @global.parent_app team legitimate interests in carrying out research activities, under Art. 6(1)(f) GDPR, regarding the sharing of limited details related to how you use the app; and"
-msgstr "Timu ya @global.parent_app ina maslahi halali katika kutekeleza shughuli za utafiti, chini ya Sanaa. 6(1)(f) GDPR, kuhusu kushiriki maelezo machache yanayohusiana na jinsi unavyotumia programu tumishi; na"
-
-#. type=template
-msgctxt "template"
-msgid "Your consent, under Art. 6(1)(a) GDPR, regarding the email address you provide at the point of Google Sign-in and the sharing of answers you may provide to in-app surveys (which are entirely optional)."
-msgstr "Idhini yako, chini ya Sanaa. 6(1)(a) GDPR, kuhusu anwani ya barua pepe unayotoa wakati wa Kuingia kwa Kutumia Google na kushiriki majibu ambayo unaweza kutoa kwa tafiti za ndani ya programu tumishi (ambazo ni za hiari kabisa)."
-
-#. type=template
 msgctxt "template"
 msgid "Log Data"
 msgstr "Data ya Kumbukumbu"
-
-#. type=template
-msgctxt "template"
-msgid "Whenever you use our app, we collect data and information (through third party services) on your phone called Log Data. This Log Data includes information such as a truncated device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilising our app, the time, date and nature of your use of the app."
-msgstr "Wakati wowote unapotumia programu yetu, tunakusanya data na taarifa (kupitia huduma za watu wengine) kwenye simu yako inayoitwa Data ya Kumbukumbu. Data hii ya Kumbukumbu inajumuisha maelezo kama vile anwani ya Itifaki ya Mtandao ya kifaa iliyopunguzwa (\"IP\"), jina la kifaa, toleo la mfumo wa uendeshaji, usanidi wa programu tumishi unapotumia programu tumishi yetu, saa, tarehe na asili ya matumizi yako ya programu tumishi."
 
 #. type=template
 msgctxt "template"
@@ -112,11 +90,6 @@ msgstr "Vidakuzi"
 msgctxt "template"
 msgid "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory."
 msgstr "Vidakuzi ni faili zilizo na kiasi kidogo cha data ambazo hutumiwa kama vitambulishi vya kipekee visivyojulikana. Hizi hutumiwa kwa kivinjari chako kutoka kwa tovuti unazotembelea na kuhifadhiwa kwenye kumbukumbu ya ndani ya kifaa chako."
-
-#. type=template
-msgctxt "template"
-msgid "This app does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. In particular, the app integrates Matomo analytics and Firebase authentication software."
-msgstr "Programu tumishi hii haitumii \"vidakuzi\" hivi kwa uwazi. Hata hivyo, programu tumishi hii inaweza kutumia msimbo wa watu wengine na maktaba zinazotumia \"vidakuzi\" kukusanya maelezo na kuboresha huduma zao. Haswa, programu tumishi inaunganisha uchanganuzi wa Matomo na programu ya uthibitishaji wa firebase."
 
 #. type=template
 msgctxt "template"
@@ -164,17 +137,6 @@ msgstr "Unaweza kuchagua kutopokea arifa za kushinikiza ambazo zitazowekwa kukuj
 msgctxt "template"
 msgid "2. Information Sharing"
 msgstr "2. Kupeana Taarifa"
-
-#. type=template
-msgctxt "template"
-msgid "Limited internal staff to IDEMS may have access to personal data collected via the app, as necessary to perform their duties regarding the operation of the app. These data will only be accessed on a need-to-know basis, and all team members with access to the data are bound to confidentiality."
-msgstr "Wafanyakazi wachache wa ndani kwa IDEMS wanaweza kufikia data ya kibinafsi iliyokusanywa kupitia programu, inapohitajika ili kutekeleza majukumu yao kuhusu uendeshaji wa programu. Data hizi zitafikiwa tu kwa msingi wa kuhitaji kujua, na washiriki wote wa timu walio na ufikiaji wa data wanalazimika kuwa siri."
-
-#. type=template
-#. The string @global.privacy_policy should not be translated.
-msgctxt "template"
-msgid "You agree that your personal information may be shared with third parties such as researchers and partners involved in the improvement or implementation of the app including those outside your country. Prior to the disclosure of information with research partners we will make anonymous to the extent possible and where appropriate information such as chosen username and email address (where collected). In reading and accepting this @global.privacy_policy, you permit us to use your anonymized data in published research."
-msgstr "Unakubali kwamba maelezo yako ya kibinafsi yanaweza kushirikiwa na washirika wengine kama vile watafiti na wabia wanaohusika katika uboreshaji au utekelezaji wa programu tumishi ikiwa ni pamoja na wale walio nje ya nchi yako. Kabla ya kufichuliwa kwa habari na wabia wa utafiti, tutafanya bila utambulisho kwa kadiri tuwezavyo na inapofaa taarifa kama vile jina la mtumiaji lilochaguliwa na anwani ya barua pepe (zinapokusanywa). Katika kusoma na kukubali hii @global.privacy_policy, unaturuhusu kutumia data yako isiyojulikana katika utafiti uliochapishwa."
 
 #. type=template
 msgctxt "template"
@@ -235,20 +197,9 @@ msgid "5. How do we keep your data secure?"
 msgstr "5. Je, tunawekaje data yako salama?"
 
 #. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "We value your trust in providing us your personal information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security. We also reserve the right to storage of your data on third party servers or databases outside of the listed @global.parent_app team. Therefore usage of the app is at your own risk."
-msgstr "Tunathamini uaminifu wako kwa kutupa taarifa zako za kibinafsi, kwa hivyo tunajitahidi kutumia njia zinazokubalika kibiashara za kuzilinda. Lakini kumbuka kuwa hakuna njia ya uwasilishaji kupitia mtandao, au njia ya uhifadhi wa kielektroniki ambayo ni salama na ya kuaminika kwa 100%, na hatuwezi kuhakikisha usalama wake kamili. Pia tunahifadhi haki ya kuhifadhi data yako kwenye seva za watu wengine au hifadhi data nje ya timu iliyoorodheshwa ya @global.parent_app. Kwa hivyo matumizi ya programu ni kwa hatari yako mwenyewe."
-
-#. type=template
 msgctxt "template"
 msgid "6. Children’s Privacy"
 msgstr "6. Faragha ya Watoto"
-
-#. type=template
-msgctxt "template"
-msgid "This app is not targeted towards anyone under the age of 18. We do not knowingly collect personally identifiable information from individuals under 18. We do collect information about children under 18, as the app is targeted at caregivers of children aged 10 - 17 years who may be asked questions about their children's behaviour. In the case we discover that an individual under 18 has provided us with personal information, we will immediately delete this data from our servers. If you are a parent or guardian and are aware that your child has provided us with personal information, please contact us so that we will be able to undertake the necessary actions."
-msgstr "Programu tumishi hii haijalengwa mtu yeyote aliye na umri wa chini ya miaka 18. Hatukusanyi taarifa zinazoweza kumtambulisha mtu binafsi kutoka kwa watu walio chini ya umri wa miaka 18 kwa makusudi. Huwatuna kusanya taarifa kuhusu watoto chini ya miaka 18 maana programu tumishi imelenga walezi wa watoto wenye umri miala 10 - 17 ambao wanaweza kuulizwa maswali kuhusu tabia za watoto wao. Iwapo tutagundua kuwa mtu aliye na umri wa chini ya miaka 18 ametupa taarifa za binafsi, tutafuta data hii mara moja kutoka kwa seva zetu. Ikiwa wewe ni mzazi au mlezi na unafahamu kwamba mtoto wako ametupa taarifa za kibinafsi, tafadhali wasiliana nasi ili tuweze kuchukua hatua zinazohitajika."
 
 #. type=template
 msgctxt "template"
@@ -315,11 +266,6 @@ msgid "If you have any questions or suggestions about our @global.privacy_policy
 msgstr "Ikiwa una maswali au mapendekezo kuhusu @global.privacy_policy, usisite kuwasiliana nasi kwa apps@idems.international."
 
 #. type=template
-msgctxt "template"
-msgid "Last updated: 18 October 2022"
-msgstr "Ilisasishwa mwisho: 18 Oktoba 2022"
-
-#. type=template
 #. The following strings should not be translated: 
 #.      @global.privacy_policy
 #.      @local.link_10_1_text
@@ -350,14 +296,6 @@ msgstr "@global.parent_app ni toleo la programu lisilolipishwa la mpango wa Uzaz
 
 #. type=template
 #. The following strings should not be translated: 
-#.      @global.parent_app
-#.      @global.parent_app
-msgctxt "template"
-msgid "@global.parent_app is brought to you by the collaboration of partners including University of Oxford, IDEMS International, University of Cape Town, National Institute for Medical Research - Mwanza Centre Tanzania, and Clowns Without Borders South Africa (‘the @global.parent_app team’)."
-msgstr "@global.parent_app inaletwa kwako na ushirikiano wa washirika wakiwemo Chuo Kikuu cha Oxford, IDEMS International, Chuo Kikuu cha Cape Town, Taasisi ya Kitaifa ya Utafiti wa Matibabu - Kituo cha Mwanza Tanzania, na Clowns Without Borders Afrika Kusini ('the @global.parent_app team ')."
-
-#. type=template
-#. The following strings should not be translated: 
 #.      @global.terms_and_conditions
 #.      @global.terms_and_conditions
 msgctxt "template"
@@ -379,15 +317,6 @@ msgstr ""
 msgctxt "template"
 msgid "2. Rules of Usage"
 msgstr "2. Kanuni za Matumizi"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @global.parent_app
-#.      @global.parent_app
-#.      @global.parent_app
-msgctxt "template"
-msgid "@global.parent_app is open source and therefore its source code is available on GitHub for the usage and adaption by the wider software community. Nevertheless, you are not allowed to modify the existing app as is or its contents or copy any @global.parent_app team trademarks. Whilst open source, you should not translate the app into other languages or make derivative versions without acknowledging the @global.parent_app team in your efforts. Attempts to obtain sensitive account information or other personal data is not permitted. You should also not falsely represent yourself in the use of the app, make wrongful claims of affiliations to the app or make misleading reports of app misconduct. Use of the app must not also be in breach of any applicable laws or regulations. Finally in accessing and using the app, we believe you not to be a minor in your country of residence."
-msgstr "@global.parent_app ni chanzo huria na kwa hivyo msimbo wake wa chanzo unapatikana kwenye GitHub kwa matumizi na urekebishaji na jumuiya pana ya programu. Hata hivyo, huruhusiwi kurekebisha programu iliyopo kama ilivyo au yaliyomo au kunakili alama za biashara za timu ya @global.parent_app. Ingawa ni chanzo huria, hupaswi kutafsiri programu katika lugha nyingine au kutengeneza matoleo mengine bila kutambua timu ya @global.parent_app katika juhudi zako. Majaribio ya kupata maelezo nyeti ya akaunti au data nyingine ya kibinafsi hairuhusiwi. Pia hupaswi kujiwakilisha kwa uwongo katika matumizi ya programu, kutoa madai yasiyo sahihi ya ushirika na programu au kutoa ripoti za kupotosha za utovu wa nidhamu wa programu. Matumizi ya programu haipaswi pia kukiuka sheria au kanuni zozote zinazotumika. Hatimaye katika kufikia na kutumia programu, tunaamini kuwa wewe si mtoto katika nchi yako ya makazi."
 
 #. type=template
 msgctxt "template"
@@ -471,31 +400,6 @@ msgid "8. Disclaimer"
 msgstr "8. Kanusho"
 
 #. type=template
-#. The following strings should not be translated: 
-#.      @global.parent_app
-#.      @global.parent_app
-#.      @global.parent_app
-#.      @global.parent_app
-#.      @global.parent_app
-#.      @global.parent_app
-msgctxt "template"
-msgid ""
-"Please be aware that the @global.parent_app team exclude responsibility for the following:\n"
-"1. Certain functions of the app will require the app to have an active internet connection. The @global.parent_app team cannot take responsibility for the app not working at full functionality if you do not have access to Wi-Fi, or you do not have any of your data allowance left.\n"
-"2. Using the app outside of an area with Wi-Fi, will mean that your terms of agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you accept responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you are using the app, please be aware that we assume that you have received permission from the bill payer for using the app.\n"
-"3. Although we endeavour to ensure that the app is updated and its content accurate, we do rely on third parties to provide information to us so that we can make it available to you. We do not regularly check out all of the external sites and cannot guarantee that they are always accurate or reliable.\n"
-"4. The @global.parent_app team accepts no liability for any damage or loss, direct or indirect, you experience as a result of using the app, or arising from any reliance you may place on advice or information provided from the app. You should always exercise your own discretion and judgement appropriate to your own circumstances in relation to any advice or information provided from the app.\n"
-"5. Any instances of software bugs, viruses or other malicious material transmitted by a third party through our site are a regret, but we are devoid of responsibility.\n"
-"6. Updates to the app occur regularly in order to improve performance and content. The app is available on Android – the requirements for this system (and for any additional systems we decide to extend the availability of the app to) may change. It is your responsibility to download app updates to keep using the app. The @global.parent_app team does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you agree to always accept updates to the application when offered to you.\n"
-"7. The app site might not be available at all times for reasons of maintenance or trouble with associated software or hardware. Whilst we apologise for inconveniences, we are not liable for any loss you may incur should the site not be accessible or is withdrawn. Equally, we have the right and choice to terminate your access and use of the app (including availability of captured data) at any time, without warning. Unless we tell you otherwise, upon any termination, (a) the rights and licences granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.\n"
-"8. You agree to indemnify, at your own expense, the @global.parent_app team, its officials, employees, consultants and agents, against any claims, including your costs and expenses, by any third party, resulting from your use of the app.\n"
-"9. Companies or products associated with the app should not be interpreted as endorsement by the app or the @global.parent_app team or demonstrate an intention to infringe proprietary rights."
-msgstr ""
-"Tafadhali elewa kuwa timu ya @global.parent_app haitawajibika kwa yafuatayo: 1. Baadhi ya kazi za programu tumishi itahitaji kuwa na intaneti inayofaya kazi. Timu ya @global.parent_app haiwezi kuwajibika kwa programu kutofanya kazi kikamilifu kama hakuna wa Wi-Fi, au usipokuwa na kifurushi chochote cha data. 2. Kutumia programu nje ya eneo lenye Wi-Fi, kutamaanisha kuwa masharti yako ya makubaliano na mtoa huduma wako wa mtandao wa simu bado yatatumika. Kwa hivyo, unaweza kutozwa na mtoa huduma wako wa simu kwa gharama ya data kwa muda wa muunganisho unapofikia programu, au gharama zingine za watu wengine. Kwa kutumia programu, unakubali kuwajibika kwa gharama zozote kama hizo, ikiwa ni pamoja na gharama za data ya kutumia mitandao ikiwa unatumia programu nje ya eneo lako la nyumbani (yaani, eneo au nchi) bila kuzima utumiaji wa data nje ya mtandao wako. Ikiwa wewe si mlipaji bili wa kifaa ambacho unatumia kwa ajili ya programu tumishi, tafadhali fahamu kwamba tunadhani kuwa umepokea ruhusa kutoka kwa mlipaji wa bili kwa kutumia kifaa hicho kwa ajili ya programu. 3.\n"
-"Ingawa tunajitahidi kuhakikisha kuwa programu imesasishwa na maudhui yake ni sahihi, tunategemea washirika wengine kutupa maelezo ili tuweze kufanya yapatikane kwako. Hatuangalii tovuti zote za nje mara kwa mara na hatuwezi kuhakikisha kuwa ni sahihi au za kuaminika kila wakati. 4. Timu ya @global.parent_app haichukui dhamana yoyote ya uharibifu au hasara yoyote, ya moja kwa moja au isiyo ya moja kwa moja, unayopata kutokana na kutumia programu tumishi, au kutokana na utegemea ushauri au maelezo yoyote kutoka kwenye programu. Unapaswa kutumia busara na uamuzi wako kila wakati kulingana na hali yako kuhusiana na ushauri au taarifa yoyote iliyotolewa kutoka kwa programu tumishi. 5. Matukio yoyote ya hitilafu za programu tumishi, virusi au nyenzo zingine hasidi zinazopitishwa na wahusika wengine kupitia tovuti yetu ni majuto, lakini hatuwajibiki nayo. 6. Masasisho ya programu hutokea mara kwa mara ili kuboresha utendaji na maudhui. Programu inapatikana kwenye Android - mahitaji ya mfumo huu (na kwa mifumo yoyote ya ziada tunayoamua kupanua upatikanaji wa programu) inaweza kubadilika. Ni wajibu wako kupakua masasisho ya programu ili kuendelea kutumia programu. Timu ya @global.parent_app haiahidi kuwa itasasisha programu kila wakati ili iwe muhimu kwako na/au kufanya kazi na toleo la Android ambalo umesakinisha kwenye kifaa chako. Hata hivyo, unakubali kila mara kukubali masasisho ya programu inapotolewa kwako. 7.\n"
-"Huenda tovuti ya programu isipatikane wakati wote kwa sababu za matengenezo au matatizo na programu au maunzi husika. Ingawa tunaomba radhi kwa usumbufu, hatuwajibiki kwa hasara yoyote unayoweza kupata iwapo tovuti haitapatikana au kuondolewa. Vile vile, tuna haki na chaguo la kusitisha ufikiaji na matumizi yako ya programu (ikiwa ni pamoja na upatikanaji wa data iliyonaswa) wakati wowote, bila onyo. Isipokuwa tukikuambia vinginevyo baada ya kusitishwa, (a) haki na leseni ulizopewa katika masharti haya zitaisha; (b) lazima uache kutumia programu, na (ikihitajika) uifute kwenye kifaa chako. 8. Unakubali kufidia, kwa gharama yako mwenyewe, timu ya @global.parent_app, maafisa wake, wafanyakazi, washauri na mawakala, dhidi ya madai yoyote, ikiwa ni pamoja na gharama na gharama zako, na wahusika wengine, kutokana na matumizi yako ya programu. 9. Makampuni au bidhaa zinazohusishwa na programu hazipaswi kutafsiriwa kama uidhinishaji na programu au timu ya @global.parent_app au kuonyesha nia ya kukiuka haki za umiliki."
-
-#. type=template
 #. The string @global.terms_and_conditions should not be translated.
 msgctxt "template"
 msgid "9. Changes to the @global.terms_and_conditions"
@@ -519,9 +423,4 @@ msgstr "10. Wasiliana Nasi"
 msgctxt "template"
 msgid "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at apps@idems.international."
 msgstr "Ikiwa una maswali au mapendekezo kuhusu @global.terms_and_conditions zetu, usisite kuwasiliana nasi kwa apps@idems.international."
-
-#. type=template
-msgctxt "template"
-msgid "Last updated: 2 February 2023"
-msgstr "Mara ya mwisho imeboreshwa: 2 mwezi wa pili 2023"
 
