@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Southern Sotho\n"
 "\n"
 "Language: st_ZA\n"
-"PO-Revision-Date: 2023-02-25 18:53\n"
+"PO-Revision-Date: 2023-03-03 12:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3645,6 +3645,11 @@ msgstr "Leano la Lekunutu"
 
 #. type=global
 msgctxt "global"
+msgid "Language"
+msgstr "Puo"
+
+#. type=global
+msgctxt "global"
 msgid "Real-world ideas"
 msgstr "Dikeletso tsa maemo a sebele bophelong"
 
@@ -4608,16 +4613,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Open Survey"
-msgstr "Bula Patlisiso"
-
-#. type=template
-msgctxt "template"
-msgid "Select Language"
-msgstr "Kgetha Puo"
-
-#. type=template
-msgctxt "template"
 msgid "Reset App"
 msgstr "Seta Epo Botjha"
 
@@ -5037,11 +5032,6 @@ msgstr "Na o ka thabela ho re phetela seo o nahanang hore se ka o thusa?"
 msgctxt "template"
 msgid "Thank you for sharing! You are an awesome parent for trying to spend time with your teen. It makes all the difference. Keep up the good work, and remember, I am always here to support!"
 msgstr "Kea leboha ka ho re bolella taba ena! O motswadi wa mmakgonthe ka ho leka ho qeta nako le motjha wa hao. Ruri seo se etsa phapang. Pele ya pele ka mosebetsi o motle, mme o hopole, kamehla ke teng ho o tshehetsa!"
-
-#. type=template
-msgctxt "template"
-msgid "Language"
-msgstr "Puo"
 
 #. type=template
 msgctxt "template"
@@ -6141,25 +6131,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Close your eyes. \n"
-"\n"
-"Do your children ever make you feel like screaming? \n"
-"\n"
-"Give yourself a 10-second pause. Breath in and out slowly 5 times. \n"
-"\n"
-"Then try responding in a calmer way."
-msgstr ""
-"Kwala mahlo. \n"
-"\n"
-"Na bana ba hao ba kile ba etsa hore o ikutlwe eka o ka hweletsa? \n"
-"\n"
-"Iphe kgefu ya metsotswana e 10. Hula moya mme o o lokolle butle ka makgetlo a 5. \n"
-"\n"
-"Leka ho arabela o kgobile matshwafo."
-
-#. type=template
-msgctxt "template"
 msgid "Millions of parents say this helps - A LOT."
 msgstr "Batswadi ba dimilione ba re seo se a thusa - HAHOLO."
 
@@ -6260,11 +6231,6 @@ msgstr "Ho holisa bacha ho thata"
 msgctxt "template"
 msgid "You are the best parent your teen could have"
 msgstr "O motswadi ea molemo ka ho fetisisa eo mocha oa hao a ka bang le eena"
-
-#. type=template
-msgctxt "template"
-msgid "Join the 210 million parents who have used our resources"
-msgstr "ikopanye le batsoali ba limilione tse 210 ba sebelisitseng lisebelisoa tsa rona"
 
 #. type=template
 msgctxt "template"
@@ -6519,18 +6485,6 @@ msgid "Why @local.workshop_data.title?"
 msgstr "Hobaneng @local.workshop_data.title?"
 
 #. type=template
-#. The string @global.topic_intro_name should not be translated.
-msgctxt "template"
-msgid "Hear @global.topic_intro_name's message"
-msgstr "Molaetsa wa @global.topic_intro_name ke ona"
-
-#. type=template
-#. The string @global.topic_intro_name should not be translated.
-msgctxt "template"
-msgid "Read @global.topic_intro_name's message"
-msgstr "Bala molaetsa wa @global.topic_intro_name"
-
-#. type=template
 msgctxt "template"
 msgid "Today's steps"
 msgstr "Mehato ya kajeno"
@@ -6725,6 +6679,16 @@ msgstr "Phera hona jwale"
 msgctxt "template"
 msgid "Syncing..."
 msgstr "E a phera..."
+
+#. type=template
+msgctxt "template"
+msgid "What is your name or nickname?"
+msgstr "Lebitso kapa lebitso la hao la boswaswi ke mang?"
+
+#. type=template
+msgctxt "template"
+msgid "Prefer not to say"
+msgstr "Ke kgetha ho se arabe"
 
 #. type=template
 msgctxt "template"
@@ -8566,6 +8530,11 @@ msgstr "E, hantlentle @global.w_crisis_female_caregiver o sebedisitse ditsebo ts
 msgctxt "template"
 msgid "All these skills can help in a crisis."
 msgstr "Tsebo ena kaofela e ka thusa ha ho hlahile tsietsi."
+
+#. type=template
+msgctxt "template"
+msgid "violence"
+msgstr "dikgoka"
 
 #. type=template
 msgctxt "template"
