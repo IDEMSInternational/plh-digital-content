@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-03-03 11:16\n"
+"PO-Revision-Date: 2023-03-03 12:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5721,6 +5721,11 @@ msgstr "Sera ya Faragha"
 
 #. type=global
 msgctxt "global"
+msgid "Language"
+msgstr "Lugha"
+
+#. type=global
+msgctxt "global"
 msgid "Real-world ideas"
 msgstr "Mawazo ya ulimwengu halisi"
 
@@ -6788,16 +6793,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Open Survey"
-msgstr "Funguo dodoso"
-
-#. type=template
-msgctxt "template"
-msgid "Select Language"
-msgstr "Chagua Lugha"
-
-#. type=template
-msgctxt "template"
 msgid "Reset App"
 msgstr "Pangilia Upya Programu"
 
@@ -7266,11 +7261,6 @@ msgstr "Je, unataka kutushirikisha kitu gani unafikiri kingekusaidia?"
 msgctxt "template"
 msgid "Thank you for sharing! You are an awesome parent for trying to spend time with your teen. It makes all the difference. Keep up the good work, and remember, I am always here to support!"
 msgstr "Asante sana kwa kushirikisha! Wewe ni mzazi mzuri sana kwa kujaribu kutumia muda wa pamoja na kijana wako. Kufanya hivi kunaleta mabadiliko. Endelea na kazi nzuri, na kumbuka, niko hapa kusaidia!"
-
-#. type=template
-msgctxt "template"
-msgid "Language"
-msgstr "Lugha"
 
 #. type=template
 msgctxt "template"
@@ -8398,25 +8388,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Close your eyes. \n"
-"\n"
-"Do your children ever make you feel like screaming? \n"
-"\n"
-"Give yourself a 10-second pause. Breath in and out slowly 5 times. \n"
-"\n"
-"Then try responding in a calmer way."
-msgstr ""
-"Fumba macho yako.\n"
-"\n"
-"Je, watoto wako huwa wanakufanya utake kufoka?\n"
-"\n"
-"Jipumzishe kwa sekunde 10. Vuta pumzi na kuzishusha polepole kwa mara 5.\n"
-"\n"
-"Kisha jaribu kujibu kwa utulivu zaidi."
-
-#. type=template
-msgctxt "template"
 msgid "Millions of parents say this helps - A LOT."
 msgstr "Mamilioni ya wazazi wanasema kufanya hivyo kunasaidia – TENA SANA."
 
@@ -8538,11 +8509,6 @@ msgstr "Kuwakuza vijana ni kazi ngumu"
 msgctxt "template"
 msgid "You are the best parent your teen could have"
 msgstr "Wewe ni mzazi bora sana ambaye kijana wako anaye"
-
-#. type=template
-msgctxt "template"
-msgid "Join the 210 million parents who have used our resources"
-msgstr "Ungana na wazazi milioni 210 ambao wametumia rasilimali zetu"
 
 #. type=template
 msgctxt "template"
@@ -8791,18 +8757,6 @@ msgstr "Soma ushuhuda wa mlezi"
 msgctxt "template"
 msgid "Why @local.workshop_data.title?"
 msgstr "Kwanini @local.workshop_data.title?"
-
-#. type=template
-#. The string @global.topic_intro_name should not be translated.
-msgctxt "template"
-msgid "Hear @global.topic_intro_name's message"
-msgstr "Sikia ujumbe wa @global.topic_intro_name"
-
-#. type=template
-#. The string @global.topic_intro_name should not be translated.
-msgctxt "template"
-msgid "Read @global.topic_intro_name's message"
-msgstr "Soma ujumbe wa @global.topic_intro_name"
 
 #. type=template
 msgctxt "template"
@@ -15109,6 +15063,11 @@ msgstr "Je, wewe na kijana wako mnaweza kufikiria mawazo yanayoweza kusaidia? Je
 msgctxt "template"
 msgid "If all else fails, breathe. You can do this."
 msgstr "Kama mengine yote hayatafaulu, vuta pumzi. Unao uwezo wa kulishinda hili."
+
+#. type=tour
+msgctxt "tour"
+msgid "Things to do"
+msgstr "Vitu vya kufanya"
 
 #. type=tour
 #. The string @global.parent_app should not be translated.
