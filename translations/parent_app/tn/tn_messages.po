@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2023-02-25 18:53\n"
+"PO-Revision-Date: 2023-03-03 12:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3645,6 +3645,11 @@ msgstr "Melao ya Sephiri"
 
 #. type=global
 msgctxt "global"
+msgid "Language"
+msgstr "Loleme"
+
+#. type=global
+msgctxt "global"
 msgid "Real-world ideas"
 msgstr "Dikakantsho tsa se tota se diragalang"
 
@@ -4613,16 +4618,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Open Survey"
-msgstr "Potsolotso e e Bulegileng"
-
-#. type=template
-msgctxt "template"
-msgid "Select Language"
-msgstr "Tlhapha loleme"
-
-#. type=template
-msgctxt "template"
 msgid "Reset App"
 msgstr "Seta App sesha"
 
@@ -5042,11 +5037,6 @@ msgstr "A o batla go re bolelela gore o nagana ke eng se se tla go thusang?"
 msgctxt "template"
 msgid "Thank you for sharing! You are an awesome parent for trying to spend time with your teen. It makes all the difference. Keep up the good work, and remember, I am always here to support!"
 msgstr "Ke lebogela go bo o mpoleletse! O motsadi yo o molemo go bo o batla go ipha nako le mosha wa gago. Go dira pharologano thata. Tswelela pele o dira tiro e molemo, mme gopola, ke fano ka metlha go go tshegetsa!"
-
-#. type=template
-msgctxt "template"
-msgid "Language"
-msgstr "Loleme"
 
 #. type=template
 msgctxt "template"
@@ -6146,25 +6136,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Close your eyes. \n"
-"\n"
-"Do your children ever make you feel like screaming? \n"
-"\n"
-"Give yourself a 10-second pause. Breath in and out slowly 5 times. \n"
-"\n"
-"Then try responding in a calmer way."
-msgstr ""
-"Tswala matlho a gago. \n"
-"\n"
-"A bana ba gago ba a tle ba dire gore o batle go goeletsa? \n"
-"\n"
-"Iphe metsotswana e 10 o eme go se kae. Hemela kwa teng le kwa ntle makgetlo a 5. \n"
-"\n"
-"Leka go araba o kgobile makgwafo."
-
-#. type=template
-msgctxt "template"
 msgid "Millions of parents say this helps - A LOT."
 msgstr "Dimilione tsa batsadi ba a re seno se a thusa - THATA."
 
@@ -6265,11 +6236,6 @@ msgstr "Go godisa basha go bioma"
 msgctxt "template"
 msgid "You are the best parent your teen could have"
 msgstr "O motsadi wa mmakgonthe o mosha wa gago a ka nnang le ene"
-
-#. type=template
-msgctxt "template"
-msgid "Join the 210 million parents who have used our resources"
-msgstr "Golagana le dimilione di le 210 tsa batsadi ba ba kileng ba dirisa didiriswa tsa rona"
 
 #. type=template
 msgctxt "template"
@@ -6524,18 +6490,6 @@ msgid "Why @local.workshop_data.title?"
 msgstr "Goreng @local.workshop_data.title?"
 
 #. type=template
-#. The string @global.topic_intro_name should not be translated.
-msgctxt "template"
-msgid "Hear @global.topic_intro_name's message"
-msgstr "Utlwa molaetsa wa ga @global.topic_intro_name"
-
-#. type=template
-#. The string @global.topic_intro_name should not be translated.
-msgctxt "template"
-msgid "Read @global.topic_intro_name's message"
-msgstr "Buisa molaetsa wa ga @global.topic_intro_name"
-
-#. type=template
 msgctxt "template"
 msgid "Today's steps"
 msgstr "Dikgato tsa gompieno"
@@ -6730,6 +6684,16 @@ msgstr "Sync gone jaanong"
 msgctxt "template"
 msgid "Syncing..."
 msgstr "Syncing..."
+
+#. type=template
+msgctxt "template"
+msgid "What is your name or nickname?"
+msgstr "Leina la gago kgotsa la gago la matlhaletso ke mang?"
+
+#. type=template
+msgctxt "template"
+msgid "Prefer not to say"
+msgstr "Ke tlhopha go se arabe"
 
 #. type=template
 msgctxt "template"
@@ -8571,6 +8535,11 @@ msgstr "Ee, @global.w_crisis_female_caregiver o dirisitse bokgoni jotlhe jo re s
 msgctxt "template"
 msgid "All these skills can help in a crisis."
 msgstr "Bokgoni jono jotlhe bo ka re thusa fa re le mo mathateng."
+
+#. type=template
+msgctxt "template"
+msgid "violence"
+msgstr "tirisodikgoka"
 
 #. type=template
 msgctxt "template"
