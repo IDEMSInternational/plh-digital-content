@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2023-03-03 12:03\n"
+"PO-Revision-Date: 2023-03-03 15:02\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1241,31 +1241,6 @@ msgid "**Essential Tools** in the @global.parent_centre"
 msgstr "**Noodsaaklike hulpmiddels** in die @global.parent_centre"
 
 #. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Customise @global.parent_app"
-msgstr "Pas @global.parent_app aan"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @global.parent_app**
-#.      @global.parent_centre
-msgctxt "data_list"
-msgid "**Customise @global.parent_app** in the @global.parent_centre"
-msgstr "**Pas @global.parent_app aan** in die @global.parent_centre"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Customise Again"
-msgstr "Pas weer aan"
-
-#. type=data_list
-#. The string @global.parent_centre should not be translated.
-msgctxt "data_list"
-msgid "**Customise Again** in the @global.parent_centre"
-msgstr "**Pas weer aan** in die @global.parent_centre"
-
-#. type=data_list
 msgctxt "data_list"
 msgid "Relax & Activities"
 msgstr "Ontspan en aktiwiteite"
@@ -1286,17 +1261,6 @@ msgstr "Hulp"
 msgctxt "data_list"
 msgid "**Help** in the @global.parent_centre"
 msgstr "**Hulp** in die @global.parent_centre"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Technical Support"
-msgstr "Tegniese steun"
-
-#. type=data_list
-#. The string @global.parent_centre should not be translated.
-msgctxt "data_list"
-msgid "**Technical Support** in the @global.parent_centre"
-msgstr "**Tegniese ondersteuning** in die @global.parent_centre"
 
 #. type=data_list
 #. The string @global.covid should not be translated.
@@ -1333,28 +1297,6 @@ msgstr "Boodskapargief"
 msgctxt "data_list"
 msgid "**Message Archive** in the @global.parent_centre"
 msgstr "**Boodskapargief** in die @global.parent_centre"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Support Contacts"
-msgstr "Ondersteuningskontakte"
-
-#. type=data_list
-#. The string @global.parent_centre should not be translated.
-msgctxt "data_list"
-msgid "**Support Contacts** in the @global.parent_centre"
-msgstr "**Ondersteuning kontakte** in die @global.parent_centre"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Evidence Base"
-msgstr "Bewysbasis"
-
-#. type=data_list
-#. The string @global.parent_centre should not be translated.
-msgctxt "data_list"
-msgid "**Evidence Base** in the @global.parent_centre"
-msgstr "**Bewysbasis** in die @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4985,6 +4927,11 @@ msgstr "Privaatheidsbeleid"
 
 #. type=global
 msgctxt "global"
+msgid "Language"
+msgstr "Taal"
+
+#. type=global
+msgctxt "global"
 msgid "Real-world ideas"
 msgstr "Werklike idees"
 
@@ -6641,11 +6588,6 @@ msgstr "Van ‘n Vriend/Vriendin of Familielid"
 
 #. type=template
 msgctxt "template"
-msgid "Quick Parenting Tips"
-msgstr "Vinnige wenke vir ouerskap"
-
-#. type=template
-msgctxt "template"
 msgid "Raising teens can be hard, and we all struggle sometimes."
 msgstr "Dit kan moeilik wees om tieners groot te maak, en ons almal sukkel soms."
 
@@ -6910,18 +6852,8 @@ msgstr "Dateer my @global.workshop-opsies op"
 
 #. type=template
 msgctxt "template"
-msgid "Give me quick parenting tips"
-msgstr "Gee my vinnige wenke vir ouerskap"
-
-#. type=template
-msgctxt "template"
-msgid "Something really bad happened"
-msgstr "Iets baie sleg het gebeur"
-
-#. type=template
-msgctxt "template"
-msgid "I have technical problems with the app"
-msgstr "Ek ervaar tegniese probleme met die toep"
+msgid "Quick Parenting Tips"
+msgstr "Vinnige wenke vir ouerskap"
 
 #. type=template
 #. The string @global.workshops should not be translated.
@@ -8173,6 +8105,16 @@ msgstr "Sinkroniseer nou"
 msgctxt "template"
 msgid "Syncing..."
 msgstr "Besig om te sinchroniseer..."
+
+#. type=template
+msgctxt "template"
+msgid "What is your name or nickname?"
+msgstr "Wat is jou naam of bynaam?"
+
+#. type=template
+msgctxt "template"
+msgid "Prefer not to say"
+msgstr "Verkies om nie te sê nie"
 
 #. type=template
 msgctxt "template"
@@ -14246,6 +14188,11 @@ msgstr "Kan jy en jou tiener dink aan idees wat dalk kan help? Kan julle iets po
 msgctxt "template"
 msgid "If all else fails, breathe. You can do this."
 msgstr "As niks werk nie, haal asem. Jy kan dit doen."
+
+#. type=tour
+msgctxt "tour"
+msgid "Things to do"
+msgstr "Dinge om te doen"
 
 #. type=tour
 #. The string @global.parent_app should not be translated.
