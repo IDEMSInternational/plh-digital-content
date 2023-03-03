@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2023-02-25 18:53\n"
+"PO-Revision-Date: 2023-03-03 12:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2915,6 +2915,11 @@ msgstr "Inqubomgomo Yobumfihlo"
 
 #. type=global
 msgctxt "global"
+msgid "Language"
+msgstr "Ulimi"
+
+#. type=global
+msgctxt "global"
 msgid "Real-world ideas"
 msgstr "Amacebo angempela"
 
@@ -3868,16 +3873,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Open Survey"
-msgstr "Vula Ucwaningo"
-
-#. type=template
-msgctxt "template"
-msgid "Select Language"
-msgstr "Khetha ulimi"
-
-#. type=template
-msgctxt "template"
 msgid "Reset App"
 msgstr "Setha kabusha uhlelo lokusebenza I-App"
 
@@ -4297,11 +4292,6 @@ msgstr "Uyafuna ukwabelana nathi ngalokho ocabanga ukuthi kungakusiza?"
 msgctxt "template"
 msgid "Thank you for sharing! You are an awesome parent for trying to spend time with your teen. It makes all the difference. Keep up the good work, and remember, I am always here to support!"
 msgstr "Siyabonga ngokwabelana nathi! Ungumzali omuhle ngenxa yokuzama ukuchitha isikhathi nengane yakho esebusheni yakho lokho kwenza umehluko omkhulu. Qhubeka wenza umsebenzi omuhle, ukhumbule ukuthi ngihlale ngilapha ukuze ngikusekele!"
-
-#. type=template
-msgctxt "template"
-msgid "Language"
-msgstr "Ulimi"
 
 #. type=template
 msgctxt "template"
@@ -5397,25 +5387,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Close your eyes. \n"
-"\n"
-"Do your children ever make you feel like screaming? \n"
-"\n"
-"Give yourself a 10-second pause. Breath in and out slowly 5 times. \n"
-"\n"
-"Then try responding in a calmer way."
-msgstr ""
-"Vala amehlo akho. \n"
-"\n"
-"Ingabe izingane zakho zike zikwenze uzizwe sengathi ungahayiza? \n"
-"\n"
-"Zinike ikhefana lemizuzwana eyishumi. Donsa umoya uwukhiphe kancane kancane izikhathi ezingu-5. \n"
-"\n"
-"Mase ke usuzama ukuphendula ngendlela ezolile."
-
-#. type=template
-msgctxt "template"
 msgid "Millions of parents say this helps - A LOT."
 msgstr "Izigidi zabazali zithi lokhu kuyasiza - KAKHULU."
 
@@ -5506,11 +5477,6 @@ msgstr "Ukukhulisa ulusha kunzima"
 msgctxt "template"
 msgid "You are the best parent your teen could have"
 msgstr "Ungumzali ongcono umnwa wakho angaba naye"
-
-#. type=template
-msgctxt "template"
-msgid "Join the 210 million parents who have used our resources"
-msgstr "Zibandakanye nezigidi eziwu 210 zabazali abasebenzise izinsiza zethu"
 
 #. type=template
 msgctxt "template"
@@ -5767,18 +5733,6 @@ msgstr ""
 "noma Ngobani @local.workshop_data.title?"
 
 #. type=template
-#. The string @global.topic_intro_name should not be translated.
-msgctxt "template"
-msgid "Hear @global.topic_intro_name's message"
-msgstr "Lalela umyalezo ka@global.topic_intro_name"
-
-#. type=template
-#. The string @global.topic_intro_name should not be translated.
-msgctxt "template"
-msgid "Read @global.topic_intro_name's message"
-msgstr "Funda umyalezo ka@global.topic_intro_name"
-
-#. type=template
 msgctxt "template"
 msgid "Today's steps"
 msgstr "Izinyathelo zanamhlanje"
@@ -5973,6 +5927,16 @@ msgstr "Kuxhumanise manje"
 msgctxt "template"
 msgid "Syncing..."
 msgstr "Kuyaxhumana..."
+
+#. type=template
+msgctxt "template"
+msgid "What is your name or nickname?"
+msgstr "Ubani igama lakho noma isidlaliso sakho?"
+
+#. type=template
+msgctxt "template"
+msgid "Prefer not to say"
+msgstr "Ngikhetha ukungasho"
 
 #. type=template
 msgctxt "template"
@@ -7814,6 +7778,11 @@ msgstr "Yebo, @global.w_crisis_female_caregiver uwasebenzise wonke amakhono – 
 msgctxt "template"
 msgid "All these skills can help in a crisis."
 msgstr "Wonke lamakhono angasiza lapho kunenkinga."
+
+#. type=template
+msgctxt "template"
+msgid "violence"
+msgstr "udlame"
 
 #. type=template
 msgctxt "template"
