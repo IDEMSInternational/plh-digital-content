@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-03-06 11:54\n"
+"PO-Revision-Date: 2023-03-09 12:15\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -262,20 +262,6 @@ msgstr "Vidokezo zaidi vya kuweka kaya salama safi!"
 
 #. type=data_list
 msgctxt "data_list"
-msgid ""
-"* Get rid of pests in your house by sweeping, washing and drying up damp places regularly.\r\n"
-"* Protect food and throw garbage in a covered pit - flies like garbage!\r\n"
-"*Mosquitoes like to live in still water, such as in open containers and puddles. Cover or empty any still water in your home to keep mosquitoes away.\r\n"
-".\n"
-"."
-msgstr ""
-"Ondoa wadudu katika nyumba yako kwa kufagia, kuosha na kukausha sehemu zenye unyevu mara kwa mara.\r\n"
-"* Linda chakula na kutupa taka kwenye shimo lililofunikwa - nzi kama takataka!\r\n"
-"*Mbu hupenda kuishi kwenye maji tulivu, kama vile kwenye vyombo vilivyo wazi na madimbwi. Funika au kumwaga maji yoyote tulivu nyumbani kwako ili kuzuia mbu.\r\n"
-"."
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Set up a handwashing station at home"
 msgstr "Tengeneza sehemu ya kunawia mikono nyumbani"
 
@@ -421,16 +407,6 @@ msgstr "Kusherekea"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Celebrate everything that you learned."
-msgstr "Sherehekea kila kitu ulichojifunza."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "General WASH (including Waste and Bathing topics)"
-msgstr "Jumla ya KUOSHA ya jumla (pamoja na Taka na mada za Kuoga"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Handwashing"
 msgstr "kuosha mikono"
 
@@ -523,31 +499,6 @@ msgstr ""
 msgctxt "data_list"
 msgid "The five ways to keeping your food safe"
 msgstr "Njia tano za kuweka chakula chako salama"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"People become infected with intestinal worms by eating unsafe food.\n"
-"\n"
-"Diseases such as typhoid fever (bacteria infection) can also happen by eating unsafe food or water.\n"
-"\n"
-"There are five ways to keeping your food safe:\n"
-"* Keep clean.\n"
-"* Separate raw and cooked food.\n"
-"* Cook food thoroughly.\n"
-"* Keep food at a safe temperature.\n"
-"* Use safe water"
-msgstr ""
-"Watu huambukizwa na minyoo ya matumbo kwa kula chakula kisicho salama.\n"
-"\n"
-"Magonjwa kama vile homa ya matumbo (maambukizi ya bakteria) yanaweza pia kutokea kwa kula chakula kisicho salama au maji.\n"
-"\n"
-"Kuna njia tano za kuweka chakula chako salama:\n"
-"* Weka safi.\n"
-"* Tenganisha chakula kibichi na kilichopikwa.\n"
-"* Pika chakula vizuri.\n"
-"* Weka chakula katika halijoto salama.\n"
-"*Tumia maji salama"
 
 #. type=data_list
 msgctxt "data_list"
@@ -754,8 +705,107 @@ msgstr "Sheria na Masharti"
 
 #. type=global
 msgctxt "global"
+msgid "Terms & Conditions"
+msgstr "Vigezo & Masharti"
+
+#. type=global
+msgctxt "global"
 msgid "Privacy Policy"
 msgstr "Sera ya Faragha"
+
+#. type=global
+msgctxt "global"
+msgid "Language"
+msgstr "Lugha"
+
+#. type=global
+msgctxt "global"
+msgid "Your Profile"
+msgstr "Wasifu wako"
+
+#. type=global
+msgctxt "global"
+msgid "Next"
+msgstr "Inayofuata"
+
+#. type=global
+msgctxt "global"
+msgid "Previous"
+msgstr "Iliyopita"
+
+#. type=global
+msgctxt "global"
+msgid "Save"
+msgstr "Tunza"
+
+#. type=global
+msgctxt "global"
+msgid "Start"
+msgstr "Anza"
+
+#. type=global
+msgctxt "global"
+msgid "Skip"
+msgstr "Ruka"
+
+#. type=global
+msgctxt "global"
+msgid "Continue"
+msgstr "Endelea"
+
+#. type=global
+msgctxt "global"
+msgid "Tap and type"
+msgstr "Bonya na uandike"
+
+#. type=global
+msgctxt "global"
+msgid "Tap and choose"
+msgstr "Bonya na uchague"
+
+#. type=global
+msgctxt "global"
+msgid "Type your own"
+msgstr "Andika yako mwenyewe"
+
+#. type=global
+msgctxt "global"
+msgid "I've understood this. Don't show me this message again."
+msgstr "Nimeielewa hii. Usinionyeshe tena ujumbe huu."
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @global.terms_and_conditions
+#.      @global.privacy_policy
+#.      @global.parent_app
+msgctxt "template"
+msgid ""
+"By providing your consent below you acknowledge reading and accepting the @global.terms_and_conditions and @global.privacy_policy. The most important commitments are:\n"
+"1. This is, and will always be, a fully free app.\n"
+"2. Your data will never be sold. We are not for profit.\n"
+"3. By using the app you are helping to make the app better for you and others.\n"
+"4. Your anonymised data may be used for research purposes by our @global.parent_app team."
+msgstr ""
+"Kwa kutoa ridhaa hii hapa chini unakubali kusoma na kukubali @global.terms_and_conditions na @global.privacy_policy. Mambo muhimu ya kukubaliana nayo:\n"
+"1. Hii ni na itazidi kuwa programu tumishi inayopatikana bure.\n"
+"2. Taarifa zako kamwe hazitouzwa. Sisi hatupo kwa faida ya kifedha.\n"
+"3. Kwa kutumia programu tumishi unasaidia kuiboresha programu tumishi kwa ajili yako na wengine. \n"
+"4. Taarifa zisizo na utambulisho zitatumika kwa ajili ya utafiti na timu yetu ya @global.parent_app."
+
+#. type=template
+msgctxt "template"
+msgid "These policies are still under construction. We value advice and input to improve them."
+msgstr "Sera hizi bado zinatungwa. Tunathamini ushauri na nyongeza wa kuziboresha."
+
+#. type=template
+msgctxt "template"
+msgid "I consent to the commitments stated above."
+msgstr "Ninaridhia na makubaliano yalioorodheshwa hapo juu."
+
+#. type=template
+msgctxt "template"
+msgid "You can only move on and access the app if you provide your consent."
+msgstr "Utaweza kuendelea kutumia programu tumishi endapo utatoa ridhaa yako."
 
 #. type=template
 msgctxt "template"
@@ -764,13 +814,18 @@ msgstr "Orodha ya vidokezo"
 
 #. type=template
 msgctxt "template"
-msgid "Tour list"
-msgstr "Orodha ya watalii"
+msgid "Reset app"
+msgstr "Weka upya programu"
 
 #. type=template
 msgctxt "template"
-msgid "Reset app"
-msgstr "Weka upya programu"
+msgid "Settings"
+msgstr "Mipangilio"
+
+#. type=template
+msgctxt "template"
+msgid "Privacy Policy"
+msgstr "Sera ya Faragha"
 
 #. type=template
 msgctxt "template"
@@ -779,8 +834,23 @@ msgstr "Vigezo na Masharti"
 
 #. type=template
 msgctxt "template"
-msgid "Privacy Policy"
-msgstr "Sera ya Faragha"
+msgid "Developer Mode"
+msgstr "Mtengenezaji wa programu"
+
+#. type=template
+msgctxt "template"
+msgid "Entering Developer Mode"
+msgstr "Unaingia kwenye ukurasa wa mtengenezaji"
+
+#. type=template
+msgctxt "template"
+msgid "You have successfully entered developer mode."
+msgstr "Umefanikiwa kuingia kwenye njia ya msanidi wa programu."
+
+#. type=template
+msgctxt "template"
+msgid "You have entered an incorrect code."
+msgstr "Umeingiza namba isiyo sahihi."
 
 #. type=template
 msgctxt "template"
@@ -807,4 +877,80 @@ msgstr "Marejeleo"
 msgctxt "template"
 msgid "The list below outlines sources that were additionally consulted in the development of content for the @global.app_name."
 msgstr "Orodha iliyo hapa chini inaangazia vyanzo ambavyo vilishauriwa zaidi katika uundaji wa maudhui ya @global.app_name."
+
+#. type=template
+msgctxt "template"
+msgid ""
+"By clicking in the button below you will reset the app to its initial settings. \n"
+"\n"
+"This means that all your progress and usage data will be deleted and your app will work as if it was just installed for the first time.\n"
+"\n"
+"NOTE: Resetting the app is permanent and you will not be able to recover any information."
+msgstr ""
+"Kwa kubofya kwenye kitufe hapo chini, utapangilia upya programu kwenye mipangilio yake ya awali.\n"
+"\n"
+"Hii inamaanisha kuwa shughuli zako zote na data zilizotumiwa zitafutwa na programu yako itafanya kazi kama inaposakinishwa kwa mara ya kwanza.\n"
+"\n"
+"ANGALIZO: Kupangilia upya programu ni tukio la kudumu na hautaweza kupata tena taarifa yoyote."
+
+#. type=template
+msgctxt "template"
+msgid "Reset App"
+msgstr "Pangilia Upya Programu"
+
+#. type=template
+msgctxt "template"
+msgid "Copy code"
+msgstr "Nakili msimbo"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "Imenakiriwa!"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Imeoanishwa mara ya mwisho saa: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "Kifaa hiki hakijawahi kulandanishwa. Landanisha kupata namba ya siri."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Landanisha sasa"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Inaoanisha..."
+
+#. type=template
+msgctxt "template"
+msgid "What is your name or nickname?"
+msgstr "Jina lako au jina lako la utani ni nani?"
+
+#. type=template
+msgctxt "template"
+msgid "What is your gender?"
+msgstr "Jinsia yako ni ipi?"
+
+#. type=template
+msgctxt "template"
+msgid "Man"
+msgstr "Mwanaume"
+
+#. type=template
+msgctxt "template"
+msgid "Woman"
+msgstr "Mwanamke"
+
+#. type=template
+msgctxt "template"
+msgid "Prefer not to say"
+msgstr "Ningependa nisiseme"
 
