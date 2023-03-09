@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-03-08 12:55\n"
+"PO-Revision-Date: 2023-03-09 15:40\n"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -66,7 +66,7 @@ msgstr "Kwa madhumuni ya @global.privacy_policy, \"data binafsi\" inamaanisha ma
 #.      @global.app_name
 msgctxt "template"
 msgid "Specifically, this is data regarding gender.  All data collected is linked to your unique @global.app_name identification number.  The @global.app_name identification number produced within the app may also be used to link with any out of app surveys conducted."
-msgstr "Hasa, hizi ni taarifa zinazohusisha na jinsia. Taarifa zote zilizokusanywa zitaunganishwa na namba yako ya kipekee ya utambulisho @global.app_name. namba yako ya utambulisho ya @global.app_name itatolewa kupitia programu tumishi, pia itatumika kuunganisha na tafiti nyingine zitakazo fanyika nnje ya programu tumishi."
+msgstr "Hasa, hizi ni taarifa zinazohusu jinsia. Taarifa zote zilizokusanywa zitaunganishwa na namba yako ya kipekee ya utambulisho @global.app_name. namba yako ya utambulisho ya @global.app_name itatolewa kupitia programu tumishi, pia itatumika kuunganisha na tafiti nyingine zitakazo fanyika nnje ya programu tumishi."
 
 #. type=template
 #. The string @global.app_name should not be translated.
@@ -77,7 +77,7 @@ msgstr "Tunachakata taarifa zako ili kukupa usaidizi wa malezi, unapowasiliana n
 #. type=template
 msgctxt "template"
 msgid "The processing of your personal data is primarily based on:"
-msgstr "Uchakataji wa taarifa yako ya kibinafsi unategemea kimsingi:"
+msgstr "Uchakataji wa taarifa yako ya kibinafsi kimsingi hutegemea:"
 
 #. type=template
 #. The string @global.app_name should not be translated.
@@ -88,7 +88,7 @@ msgstr "Timu ya @global.app_name ina maslahi halali katika kutekeleza shughuli z
 #. type=template
 msgctxt "template"
 msgid "Your consent, under Art. 6(1)(a) GDPR, regarding the sharing of answers you may provide to in-app questions (those involving as stated gender and again entirely optional)."
-msgstr "Ridhaa yako, chini ya Sanaa. 6(1)(a) GDPR, kuhusu kushiriki majibu unaweza kutoa kwa maswali ya ndani ya programu (yale yanayohusu jinsia iliyobainishwa na tena ya hiari)."
+msgstr "Ridhaa yako, chini ya ibara. 6(1)(a) GDPR, kuhusu kushiriki majibu unaweza kutoa kwa maswali ya ndani ya programu (yale yanayohusu jinsia iliyobainishwa na tena ya hiari)."
 
 #. type=template
 msgctxt "template"
@@ -98,7 +98,7 @@ msgstr "Data ya Kumbukumbu"
 #. type=template
 msgctxt "template"
 msgid "Whenever you use our app, we collect data and information (through third party services) on your phone called Log Data. This Log Data includes information such as a truncated device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilising our app, the time, date and your intentions within the app (which include but are not limited to any app buttons clicked or pages visited.)"
-msgstr "Wakati wowote unapotumia programu yetu, tunakusanya taarifa zilizoingizwa (kupitia huduma za watu wengine) kupitia simu yako.Taarifa hii ya Kumbukumbu inajumuisha maelezo kama vile anuani ya Itifaki ya Mtandao ya kifaa (\"IP\"), jina la kifaa, toleo la mfumo wa uendeshaji, usanidi wa programu tumishi unapotumia programu tumishi yetu, saa, tarehe na asili ya matumizi yako ya programu tumishi.)"
+msgstr "Wakati wowote unapotumia programu yetu, tunakusanya taarifa  (kupitia huduma za watu wengine) kupitia simu yako.Taarifa hii ya Kumbukumbu inajumuisha maelezo kama vile anuani ya Itifaki ya Mtandao ya kifaa (\"IP\"), jina la kifaa, toleo la mfumo wa uendeshaji, usanidi wa programu tumishi unapotumia programu tumishi yetu, saa, tarehe na asili ya matumizi yako ya programu tumishi.)"
 
 #. type=template
 msgctxt "template"
@@ -112,8 +112,8 @@ msgstr "Vidakuzi ni faili zilizo na kiasi kidogo cha data ambazo hutumiwa kama v
 
 #. type=template
 msgctxt "template"
-msgid "This app does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. In particular, the app integrates Matomo analytics and Firebase authentication software."
-msgstr "Programu tumishi hii haitumii \"vidakuzi\" hivi kwa uwazi. Hata hivyo, programu tumishi hii inaweza kutumia msimbo wa watu wengine na maktaba zinazotumia \"vidakuzi\" kukusanya maelezo na kuboresha huduma zao. Haswa, programu tumishi inaunganisha uchanganuzi wa Matomo na programu ya uthibitishaji wa firebase."
+msgid "This app does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. In particular, the app integrates GlitchTip and Matomo analytics as well as Firebase authentication software."
+msgstr "Programu tumishi hii haitumii \"vidakuzi\" hivi kwa uwazi. Hata hivyo, programu tumishi hii inaweza kutumia msimbo wa watu wengine na maktaba zinazotumia \"vidakuzi\" kukusanya maelezo na kuboresha huduma zao. Haswa, programu tumishi inaunganisha uchanganuzi wa GlitchTip na Matomo vilevile programu ya uthibitishaji wa kanzidata."
 
 #. type=template
 msgctxt "template"
@@ -207,6 +207,11 @@ msgstr "Tunataka kuwafahamisha watumiaji wa programu hii kwamba wahusika hawa we
 msgctxt "template"
 msgid "Links to the privacy policies of third-party service providers used by the app:"
 msgstr "Njia za kufikia sera za faragha za watoa huduma wengine zinazotumiwa na programu tumishi hii:"
+
+#. type=template
+msgctxt "template"
+msgid "GlitchTip"
+msgstr "GlitchTip"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -391,7 +396,7 @@ msgstr "3. Mabadiliko ya Maudhui"
 #. The string @global.app_name should not be translated.
 msgctxt "template"
 msgid "The @global.app_name team is committed to ensuring that the app is as useful and user friendly as possible. For that reason, we reserve the right to make changes to the app which will be delivered through updates. At present the app is free of charge and our intention is for it to stay that way."
-msgstr "Timu ya @global.app_name imejitolea kuhakikisha kuwa programu ni muhimu na rahisi watumiaji iwezekanavyo. Kwa sababu hiyo, tunahifadhi haki ya kufanya mabadiliko kwenye programu ambayo yatawasilishwa kupitia masasisho. Kwa sasa programu haina malipo na nia yetu ni kukaa hivyo."
+msgstr "Timu ya @global.app_name imejitolea kuhakikisha kuwa programu ni muhimu na rahisi kutumia iwezekanavyo. Kwa sababu hiyo, tunahifadhi haki ya kufanya mabadiliko kwenye programu ambayo yatawasilishwa kupitia masasisho. Kwa sasa programu haina malipo na nia yetu ni kukaa hivyo."
 
 #. type=template
 msgctxt "template"
@@ -401,7 +406,7 @@ msgstr "Katika siku zijazo inawezekana kwamba huduma zingine zinaweza kutolewa a
 #. type=template
 msgctxt "template"
 msgid "4. Intellectual property"
-msgstr "4. Miliki"
+msgstr "4. Umiliki"
 
 #. type=template
 #. The string @global.app_name should not be translated.
@@ -475,24 +480,56 @@ msgctxt "template"
 msgid ""
 "Please be aware that the @global.app_name team exclude responsibility for the following:\n"
 "a. Certain functions of the app will require the app to have an active internet connection. The @global.app_name team cannot take responsibility for the app not working at full functionality if you do not have access to Wi-Fi, or you do not have any of your data allowance left.\n"
+"\n"
+"\n"
 "b. Using the app outside of an area with Wi-Fi, will mean that your terms of agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you accept responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you are using the app, please be aware that we assume that you have received permission from the bill payer for using the app.\n"
+"\n"
+"\n"
 "c. Although we endeavour to ensure that the app is updated and its content accurate, we do rely on third parties to provide information to us so that we can make it available to you. We do not regularly check out all of the external sites and cannot guarantee that they are always accurate or reliable.\n"
+"\n"
+"\n"
 "d. The @global.app_name  team accepts no liability for any damage or loss, direct or indirect, you experience as a result of using the app, or arising from any reliance you may place on advice or information provided from the app. You should always exercise your own discretion and judgement appropriate to your own circumstances in relation to any advice or information provided from the app.\n"
+"\n"
+"\n"
 "e. Any instances of software bugs, viruses or other malicious material transmitted by a third party through our site are a regret, but we are devoid of responsibility.\n"
+"\n"
+"\n"
 "f. Updates to the app occur regularly in order to improve performance and content. The app is available on Android – the requirements for this system (and for any additional systems we decide to extend the availability of the app to) may change. It is your responsibility to download app updates to keep using the app. The @global.app_name  team does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you agree to always accept updates to the application when offered to you.\n"
+"\n"
+"\n"
 "g. The app site might not be available at all times for reasons of maintenance or trouble with associated software or hardware. Whilst we apologise for inconveniences, we are not liable for any loss you may incur should the site not be accessible or is withdrawn. Equally, we have the right and choice to terminate your access and use of the app (including availability of captured data) at any time, without warning. Unless we tell you otherwise, upon any termination, (a) the rights and licences granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.\n"
+"\n"
+"\n"
 "h. You agree to indemnify, at your own expense, the @global.app_name , its officials, employees, consultants and agents, against any claims, including your costs and expenses, by any third party, resulting from your use of the app.\n"
+"\n"
+"\n"
 "i. Companies or products associated with the app should not be interpreted as endorsement by the app or the @global.app_name team or demonstrate an intention to infringe proprietary rights."
 msgstr ""
 "Tafadhali fahamu kuwa timu ya @global.app_name haijumuishi wajibu wa yafuatayo:\n"
-"a. Utendaji fulani wa programu utahitaji programu kuwa na muunganisho unaotumika wa intaneti. Timu ya @global.app_name haiwezi kuwajibika kwa programu kutofanya kazi kikamilifu ikiwa huna ufikiaji wa Wi-Fi, au huna salio lolote la intaneti lililosalia.\n"
-"b. Kutumia programu nje ya eneo lenye Wi-Fi, kutamaanisha kuwa masharti yako ya makubaliano na mtoa huduma wako wa mtandao wa simu bado yatatumika. Kwa hivyo, unaweza kutozwa na mtoa huduma wako wa simu kwa gharama ya intaneti kwa muda wa muunganisho unapofikia programu, au gharama zingine za watu wengine. Katika kutumia programu, unakubali kuwajibika kwa gharama zozote kama hizo, ikiwa ni pamoja na gharama za  intaneti ya kutumia mitandao ya ng'ambo ikiwa unatumia programu tumishi nje ya eneo lako la nyumbani (yaani, mkoa au nchi) bila kuzima mtandao wako. Ikiwa wewe si mlipaji bili wa kifaa ambacho unatumia programu, tafadhali fahamu kwamba tunadhania kuwa umepokea ruhusa kutoka kwa mlipaji bili kwa kutumia programu.\n"
-"c. Ingawa tunajitahidi kuhakikisha kuwa programu imesasishwa na maudhui yake ni sahihi, tunategemea washirika wengine kutupa maelezo ili tuweze kuyapata kwako. Hatuangalii tovuti zote za nje mara kwa mara na hatuwezi kuhakikisha kuwa ni sahihi au za kuaminika kila wakati.\n"
-"d. Timu ya @global.app_name haikubali dhima yoyote ya uharibifu au hasara yoyote, ya moja kwa moja au isiyo ya moja kwa moja, unayopata kutokana na kutumia programu, au kutokana na utegemezi wowote unaoweza kuweka kwenye ushauri au maelezo yanayotolewa kutoka kwa programu. Unapaswa kutumia busara na uamuzi wako kila wakati kulingana na hali yako kuhusiana na ushauri au taarifa yoyote iliyotolewa kutoka kwa programu.\n"
+"a. Baadhi ya utendakazi wa programu utahitaji programu kuwa na muunganisho unaotumika wa intaneti. Timu ya @global.app_name haiwezi kuwajibika kwa programu kutofanya kazi kikamilifu ikiwa huna ufikiaji wa Wi-Fi, au huna salio yoyote ya bando la data.\n"
+"\n"
+"\n"
+"b. Kutumia programu nje ya eneo lenye Wi-Fi, kutamaanisha kuwa masharti yako ya makubaliano na mtoa huduma wako wa mtandao wa simu bado yatatumika. Kwa hivyo, unaweza kutozwa na mtoa huduma wako wa simu kwa gharama ya data kwa muda wa muunganisho unapofikia programu, au gharama zingine za watu wengine. Katika kutumia programu, unakubali kuwajibika kwa gharama zozote kama hizo, ikiwa ni pamoja na gharama za data ya kutumia mitandao ya ng'ambo ikiwa unatumia programu nje ya eneo lako la nyumbani (yaani, eneo au nchi) bila kuzima utumiaji wa data nje ya mtandao wako. Ikiwa wewe si mlipaji wa bili wa kifaa ambacho unatumia programu, tafadhali fahamu kwamba tunadhania kuwa umepokea ruhusa kutoka kwa mlipaji wa bili kwa kutumia programu.\n"
+"\n"
+"\n"
+"c. Ingawa tunajitahidi kuhakikisha kuwa programu imesasishwa na maudhui yake ni sahihi, tunategemea washirika wengine kutupa maelezo ili tuweze kufanya ipatikane kwako. Hatuangalii tovuti zote za nje mara kwa mara na hatuwezi kuhakikisha kuwa ni sahihi au za kuaminika kila wakati.\n"
+"\n"
+"\n"
+"d. Timu ya @global.app_name haikubali dhima yoyote ya uharibifu au hasara yoyote, ya moja kwa moja au isiyo ya moja kwa moja, unayopata kutokana na kutumia programu, au kutokana na utegemezi wowote unaoweza kuweka kwa ushauri au maelezo yanayotolewa kutoka kwa programu. Unapaswa kutumia busara na uamuzi wako kila wakati kulingana na hali yako kuhusiana na ushauri au taarifa yoyote iliyotolewa kutoka kwa programu.\n"
+"\n"
+"\n"
 "e. Matukio yoyote ya hitilafu za programu, virusi au nyenzo zingine hasidi zinazopitishwa na mtu mwingine kupitia tovuti yetu ni majuto, lakini hatuna jukumu.\n"
-"f. Masasisho ya programu hutokea mara kwa mara ili kuboresha utendaji na maudhui. Programu inapatikana kwenye Android - mahitaji ya mfumo huu (na kwa mifumo yoyote ya ziada tunayoamua kupanua upatikanaji wa programu) inaweza kubadilika. Ni wajibu wako kupakua masasisho ya programu ili kuendelea kutumia programu. Timu ya @global.app_name haiahidi kuwa itasasisha programu kila wakati ili iwe muhimu kwako na/au kufanya kazi na toleo la Android ambalo umesakinisha kwenye kifaa chako. Hata hivyo, unakubali kila mara kukubali masasisho ya programu yanapotolewa kwako.\n"
-"g. Huenda tovuti ya programu isipatikane wakati wote kwa sababu za matengenezo au matatizo na programu au maunzi husika. Ingawa tunaomba radhi kwa usumbufu, hatuwajibikii kwa hasara yoyote unayoweza kupata iwapo tovuti haitapatikana au kuondolewa. Vile vile, tuna haki na chaguo la kusitisha ufikiaji na matumizi yako ya programu (ikiwa ni pamoja na upatikanaji wa data iliyonaswa) wakati wowote, bila onyo. Isipokuwa tukikuambia vinginevyo, baada ya kusitishwa, (a) haki na leseni ulizopewa katika masharti haya zitaisha; (b) lazima uache kutumia programu, na (ikihitajika) uifute kwenye kifaa chako.\n"
-"h. Unakubali kufidia, kwa gharama yako mwenyewe, jina la @global.app_name , maafisa wake, wafanyakazi, washauri na mawakala wake, dhidi ya madai yoyote, ikiwa ni pamoja na gharama na gharama zako, na wahusika wengine, kutokana na matumizi yako ya programu.\n"
+"\n"
+"\n"
+"f. Masasisho ya programu hutokea mara kwa mara ili kuboresha utendaji na maudhui. Programu inapatikana kwenye Android - mahitaji ya mfumo huu (na kwa mifumo yoyote ya ziada tunayoamua kupanua upatikanaji wa programu) inaweza kubadilika. Ni wajibu wako kupakua masasisho ya programu ili kuendelea kutumia programu. Timu ya @global.app_name haiahidi kuwa itasasisha programu kila wakati ili iwe muhimu kwako na/au kufanya kazi na toleo la Android ambalo umesakinisha kwenye kifaa chako. Hata hivyo, unakubali kwamba kila mara utakubali masasisho ya programu yanapotolewa kwako.\n"
+"\n"
+"\n"
+"g. Tovuti ya programu inaweza kuwa haipatikani kila wakati kwa sababu za matengenezo au shida na programu au maunzi husika. Ingawa tunaomba radhi kwa usumbufu, hatuwajibikii kwa hasara yoyote ambayo unaweza kupata ikiwa tovuti haitafikiwa au kuondolewa. Vile vile, tuna haki na chaguo la kusitisha ufikiaji na matumizi yako ya programu (ikiwa ni pamoja na upatikanaji wa data iliyonaswa) wakati wowote, bila onyo. Isipokuwa tukikuambia vinginevyo, baada ya kusitishwa, (a) haki na leseni ulizopewa katika masharti haya zitaisha; (b) lazima uache kutumia programu, na (ikihitajika) uifute kwenye kifaa chako.\n"
+"\n"
+"\n"
+"h. Unakubali kufidia, kwa gharama yako mwenyewe, jina la @global.app_name , maafisa wake, wafanyakazi, washauri na mawakala wake, dhidi ya madai yoyote, ikiwa ni pamoja na gharama na matumizi yako, na wahusika wengine, kutokana na matumizi yako ya programu.\n"
+"\n"
+"\n"
 "i. Makampuni au bidhaa zinazohusishwa na programu hazipaswi kutafsiriwa kama uidhinishaji na programu au timu ya @global.app_name au kuonyesha nia ya kukiuka haki za umiliki."
 
 #. type=template
@@ -522,6 +559,6 @@ msgstr "Ikiwa una maswali au mapendekezo kuhusu @global.terms_and_conditions zet
 
 #. type=template
 msgctxt "template"
-msgid "Last updated: 20 February 2023"
-msgstr "Mara ya mwisho imeboreshwa: 20 mwezi wa pili 2023"
+msgid "Last updated: 1 March 2023"
+msgstr "Mara ya mwisho imeboreshwa: 1 mwezi wa tatu 2023"
 
