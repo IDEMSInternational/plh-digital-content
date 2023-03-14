@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Southern Sotho\n"
 "\n"
 "Language: st_ZA\n"
-"PO-Revision-Date: 2023-03-14 01:43\n"
+"PO-Revision-Date: 2023-03-14 20:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5526,11 +5526,6 @@ msgid "Relax"
 msgstr "Theolang Moya"
 
 #. type=template
-msgctxt "template"
-msgid "Let’s do a short relaxation activity together – it will take less than 1 minute and you will feel more relaxed."
-msgstr "A re etseng ntho kgutshwane e tla etsa hore re theole moya hammoho – e tla nka katlase ho motsotso o 1 mme o tla utlwa o kgobile matshwafo hamonate."
-
-#. type=template
 #. The string @global.my_relaxes should not be translated.
 msgctxt "template"
 msgid "Add this activity to @global.my_relaxes"
@@ -8388,6 +8383,11 @@ msgstr "Tsebo ena kaofela e ka thusa ha ho hlahile tsietsi."
 
 #. type=template
 msgctxt "template"
+msgid "violence"
+msgstr "dikgoka"
+
+#. type=template
+msgctxt "template"
 msgid "Every small thing you do matters. We hope you are proud of yourself too."
 msgstr "Ntho e nngwe le e nngwe e nyane eo o e etsang e bohlokwa. Re tshepa hore le wena o motlotlo ka wena."
 
@@ -11217,31 +11217,6 @@ msgstr "O entse hantle! Leka ho etsa sena letsatsi le letsatsi."
 
 #. type=template
 msgctxt "template"
-msgid "Have a hot drink"
-msgstr "Phoka tee kapa kofi"
-
-#. type=template
-msgctxt "template"
-msgid "Call a friend or relative"
-msgstr "Letsetsa motswalle kapa mong ka wena"
-
-#. type=template
-msgctxt "template"
-msgid "Have a relaxing bath"
-msgstr "Kena bateng ya metsi a kgathollang"
-
-#. type=template
-msgctxt "template"
-msgid "Read"
-msgstr "Bala"
-
-#. type=template
-msgctxt "template"
-msgid "Watch TV"
-msgstr "Shebella TV"
-
-#. type=template
-msgctxt "template"
 msgid ""
 "Taking care of ourselves is an important parenting skill. Share with each other:\n"
 "\n"
@@ -11284,54 +11259,29 @@ msgid "Nice! Taking care of yourself is an important parenting skill!"
 msgstr "Ke hantle! Ho itlhokomela ke tsebo ya bohlokwa ya botswadi!"
 
 #. type=template
-#. The string @local.name_1 should not be translated.
 msgctxt "template"
-msgid "Try to do something to reward yourself every day. This could be to @local.name_1 or anything else that you enjoy."
-msgstr "Leka ho etsa ntho e nngwe ho iputsa letsatsi le letsatsi. Ekaba ho ya @local.name_1 kapa eng kapa eng eo o e thabelang."
+msgid "Have a hot drink"
+msgstr "Phoka tee kapa kofi"
 
 #. type=template
-#. The string @local.name_2 should not be translated.
 msgctxt "template"
-msgid "Try to do something to reward yourself every day. This could be to @local.name_2 or anything else that you enjoy."
-msgstr "Leka ho etsa ntho e nngwe ho iputsa letsatsi le letsatsi. Ekaba ho ya @local.name_2 kapa eng kapa eng eo o e thabelang."
+msgid "Call a friend or relative"
+msgstr "Letsetsa motswalle kapa mong ka wena"
 
 #. type=template
-#. The string @local.name_3 should not be translated.
 msgctxt "template"
-msgid "Try to do something to reward yourself every day. This could be to @local.name_3 or anything else that you enjoy."
-msgstr "Leka ho etsa ntho e nngwe ho iputsa letsatsi le letsatsi. Ekaba ho ya @local.name_3 kapa eng kapa eng eo o e thabelang."
+msgid "Have a relaxing bath"
+msgstr "Kena bateng ya metsi a kgathollang"
 
 #. type=template
-#. The string @local.name_4 should not be translated.
 msgctxt "template"
-msgid "Try to do something to reward yourself every day. This could be to @local.name_4 or anything else that you enjoy."
-msgstr "Leka ho etsa ntho e nngwe ho iputsa letsatsi le letsatsi. Ekaba ho ya @local.name_4 kapa eng kapa eng eo o e thabelang."
-
-#. type=template
-#. The string @local.name_5 should not be translated.
-msgctxt "template"
-msgid "Try to do something to reward yourself every day. This could be to @local.name_5 or anything else that you enjoy."
-msgstr "Leka ho etsa ntho e nngwe ho iputsa letsatsi le letsatsi. Ekaba ho ya @local.name_5 kapa eng kapa eng eo o e thabelang."
+msgid "Read"
+msgstr "Bala"
 
 #. type=template
 msgctxt "template"
 msgid "Things you can do to reward yourself:"
 msgstr "Dintho tseo o ka di etsang ho iputsa:"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* Have a hot drink \n"
-"* Call a friend or relative \n"
-"* Have a relaxing bath \n"
-"* Read \n"
-"* Watch TV"
-msgstr ""
-"* Phoka tee kapa kofi e tjhesang\n"
-"* Letsetsa motswalle kapa setho sa lelapa\n"
-"* Kena bateng ya metsi a kgathollang \n"
-"* Bala \n"
-"* Shebella TV"
 
 #. type=template
 msgctxt "template"
@@ -11808,25 +11758,6 @@ msgstr "Neng kapa neng ha o kgefutsa pele o arabela, kapa neng kapa neng ha o et
 msgctxt "template"
 msgid "We know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you - and your family."
 msgstr "Rea tseba hore na ho boima hakae ho hodisa batjha dinakong tsena. Ho ithuta ho laola seterese sa hao ho thusa wena - hammoho le lelapa la hao."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Greetings everyone. \n"
-"\n"
-"Today's topic is managing stress. \n"
-"\n"
-"It is important to know how to manage our stress. At times our children can behave in ways that makes us feel stressed and us as parents can make our children feel stressed too. \n"
-"\n"
-"So, it is important to notice when we feel stressed and take a pause and breathe. That will help you manage your stress."
-msgstr ""
-"Dumelang bohle.\n"
-"\n"
-"Sehlooho sa kajeno ke ho laola seterese.\n"
-"\n"
-"Ho bohlokwa hore re tsebe tsela ya ho laola seterese sa rona. Ka dinako tseng bana ba rona ba itshwara ka ditsela tse etsang hore re ikutlwe re na le seterese mme rona jwaloka batswadi re ka etsa hore le bana ba rona ba be le seterese.\n"
-"\n"
-"Kahoo, ho bohlokwa ho elellwa ha re ikutlwa re na le seterese le ho nka kgefu ebe re kga moya. Seo se tla o thusa ho laola seterese sa hao."
 
 #. type=template
 msgctxt "template"
