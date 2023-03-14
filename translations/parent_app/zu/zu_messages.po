@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2023-03-07 18:52\n"
+"PO-Revision-Date: 2023-03-14 01:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -646,17 +646,6 @@ msgstr ""
 msgctxt "data_list"
 msgid "My teen got very angry with me after I gave the consequence."
 msgstr "Ingane yams esebusheni bayo ingithukuthelele lapho ngiyitshela umphumela wezenzo zayo."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"When your teen gets angry, you might need to walk away until you are both calm. \n"
-"\n"
-"Check to make sure your consequence is fair and reasonable. Listen to your teen’s explanation, and make sure to give a “Safety Amnesty” if they broke a rule in order to stay safe."
-msgstr ""
-"Lapho ingane yakho esebusheni bayo ithukuthela, kungase kudingeke uye kwenye indawo wehlise umoya kuze nihlangane lapho nobabili senizolile. \n"
-"\n"
-"Hlola ukuze uqiniseke ukuthi umphumela owubekayo unobulungisa futhi uyacabangela yini. Lalela incazelo yengane yakho esebusheni bayo, bese uqikelela ukuthi unikeza “Ushwele Wokuvikeleka” uma iphule umthetho ukuze ihlale iphephile."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1477,11 +1466,6 @@ msgstr ""
 "@global.w_stress_teen_boy_1: “Kulungile, @global.w_stress_male_caregiver!”"
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Safety Amnesty"
-msgstr "Ukuphepha Kukashwele"
-
-#. type=data_list
 #. The following strings should not be translated: 
 #.      @global.w_stress_teen_boy_2
 #.      @global.w_stress_teen_girl!
@@ -1524,41 +1508,6 @@ msgstr "@global.w_stress_teen_boy_2: “Ngicabanga ukuthi bathengisa izidakamizw
 msgctxt "data_list"
 msgid "@global.w_stress_teen_girl: \"I’m scared. Everyone is too drunk to drive me home. This boy says he’ll take me but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party.\""
 msgstr "@global.w_stress_teen_girl: “Ngethukile kakhulu. Wonke umuntu udakiwe ukuba angashayela angihambise ekhaya. Lo mfana uthi angangihambisa kodwa uthi ufuna sidlule kubo kuqala. Angakwazi ukutshela abazali bami - ngiqambe amanga ngokuthi ngiya ephathini.”"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @global.w_stress_teen_boy_2
-#.      @global.w_stress_teen_girl
-#.      @global.w_stress_parent
-msgctxt "data_list"
-msgid ""
-"These are dangerous situations! Thankfully, @global.w_stress_teen_boy_2 and @global.w_stress_teen_girl then remembered what @global.w_stress_parent told them:  \n"
-"\n"
-"\"I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it. \n"
-"\n"
-"Just say 'SAFETY AMNESTY'. I promise that I will try my best to help and I won’t be angry – even if you are doing something you shouldn't.\""
-msgstr ""
-"Lezi yizimo eziyingozi! Siyabonga, @global.w_stress_teen_boy_2 u @global.w_stress_teen_girl bakhumbulile ukuthi @global.w_stress_parent ubatsheleni:  \n"
-"\n"
-"“Nginendaba nokuphepha kwakho ukudlula noma yini enye. Uma uthukuthele, noma uthukile, ungangishayela ucingo noma nini uma ufuna usizo noma ufuna ukukhuluma. \n"
-"\n"
-"Mane uthi ‘USHWELE WEZOKUPHEPHA’. Ngiyathembisa ukuthi ngizozama okusemandleni ukusiza futhi angeke ngithukuthele - ngisho noma wenze okuthile ebekungakafaneli ukwenze.”"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @global.w_stress_teen_girl:
-#.      "@global.w_stress_parent,
-msgctxt "data_list"
-msgid "@global.w_stress_teen_girl: \"@global.w_stress_parent, it’s a safety amnesty. Can you come and pick me up? I really need a lift home.\""
-msgstr "@global.w_stress_teen_girl: \"@global.w_stress_parent, ushwele wezokuphepha. Ngicela uze uzongilanda? Ngidinga ukuhanjiswa ekhaya.”"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @global.w_stress_teen_boy_2:
-#.      "@global.w_stress_parent,
-msgctxt "data_list"
-msgid "@global.w_stress_teen_boy_2: \"@global.w_stress_parent, safety amnesty. I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Can we talk?\""
-msgstr "@global.w_stress_teen_boy_2: \"@global.w_stress_parent, ushwele wezokuphepha. Ngicabanga ukuthi abangane bami basenkingeni. Angifuni ukuyeka ukuba umngane wabo, kodwa ngikhathazekile ngabo. Singakhuluma?”"
 
 #. type=data_list
 #. The string @global.w_money_grandma should not be translated.
@@ -2636,6 +2585,16 @@ msgstr "Indlela yokulawula ingcindezi"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Problem Solving"
+msgstr "Ukuxazulula Inkinga"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to solve problems"
+msgstr "Indlela yokuxazulula izinkinga"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Family Budgets"
 msgstr "Isabelomali Somndeni"
 
@@ -2663,16 +2622,6 @@ msgstr "Imiphumela Eyethulwa Ngomoya Ozolile"
 msgctxt "data_list"
 msgid "How to give calm consequences"
 msgstr "Indlela yokwethula imiphumela ngomoya ozolile"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Problem Solving"
-msgstr "Ukuxazulula Inkinga"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "How to solve problems"
-msgstr "Indlela yokuxazulula izinkinga"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4173,11 +4122,6 @@ msgstr "Shintsha"
 msgctxt "template"
 msgid "Teen"
 msgstr "Ingane esikhulile (10 kuya ku 17 weminyaka)"
-
-#. type=template
-msgctxt "template"
-msgid "You’ve completed this week’s workshop."
-msgstr "Uwuqedile umhlangano wokufundisana waleli sonto."
 
 #. type=template
 msgctxt "template"
@@ -7195,21 +7139,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid ""
-"You can help your teenager to understand that breaking family rules leads to consequences. \n"
-"\n"
-"But HOW you do this matters. \n"
-"\n"
-"Getting consequences right helps teens behave better and makes family life calmer..."
-msgstr ""
-"Ungasiza ingane yakho iqonde ukuthi ukuphula imithetho yasekhaya kunemiphumela. \n"
-"\n"
-"Kodwa INDLELA owenza ngayo ebalulekile. \n"
-"\n"
-"Ukuthola imiphumela efanele kusiza umntwana ukuthi aziphathe kahle futhi kwenza umndeni uphile ngokuthula..."
-
-#. type=template
-msgctxt "template"
-msgid ""
 "Greetings, everyone. \n"
 "\n"
 "Today's topic is calm consequences.\n"
@@ -7635,19 +7564,8 @@ msgstr "@global.w_crisis_teen_boy_2: “Angikaze ngikwenze lokhu ngaphambili. Nj
 #. type=template
 #. The string @global.w_crisis_teen_boy_2 should not be translated.
 msgctxt "template"
-msgid "Crisis 3: @global.w_crisis_teen_boy_2 makes a girl pregnant"
-msgstr "Inkinga 3: @global.w_crisis_teen_boy_2 ukhulelisa intombazane"
-
-#. type=template
-#. The string @global.w_crisis_teen_boy_2 should not be translated.
-msgctxt "template"
 msgid "How could you respond to @global.w_crisis_teen_boy_2?"
 msgstr "Ungasabela kanjani ku @global.w_crisis_teen_boy_2?"
-
-#. type=template
-msgctxt "template"
-msgid "Crisis 4: Someone in the family gets sick"
-msgstr "Inkinga 4: Ilunga lomndeni liyagula"
 
 #. type=template
 msgctxt "template"
@@ -9994,6 +9912,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Resources to help in the community"
+msgstr "Izinsiza zokusiza emphakathini"
+
+#. type=template
+msgctxt "template"
 msgid "Step 4: What are risky places online and how can you make them safer?"
 msgstr "Isinyathelo 4: Yiziphi izindawo eziyingozi ku-inthanethi futhi ungenza kanjani ukuthi ziphephe?"
 
@@ -10009,6 +9932,11 @@ msgstr ""
 "* Ncomanani ngokusebenzisa kahle lawa mawebusayithi!   \n"
 "* Khulumani ngokuthi yimaphi okungenzeka ukube awaphephile. Kungani? \n"
 "* Yini wena nomntwana wakho eningayenza ukuze nenze ukusebenzisa i-inthanethi kwengane yakho kanye nabangane bayo kuphephe?"
+
+#. type=template
+msgctxt "template"
+msgid "Online Safety Resources"
+msgstr "Izinsiza Zokuphepha Ku-inthanethi"
 
 #. type=template
 msgctxt "template"
@@ -10271,50 +10199,13 @@ msgstr "IMITHETHO"
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Make RULES with your teen about safely using the apps and websites that they like. \n"
-"\n"
-"Remember the story about Online Safety? See it again here."
-msgstr ""
-"Beka IMITHETHO nentsha yakho mayelana nokuphepha uma isebenzisa ama-app namawebhuyasithi ewathandayo. \n"
-"\n"
-"Khumbula indaba Yokuphepha ku-Inthanethi? Sibone futhi lapha."
-
-#. type=template
-msgctxt "template"
 msgid "Online Safety Story"
 msgstr "Indaba Yokuphepha Ku-inthanethi"
 
 #. type=template
 msgctxt "template"
-msgid "AMNESTY"
-msgstr "USHWELE"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Make an AMNESTY agreement. If something happens that makes them upset, uncomfortable or scared, they can talk to you and you won’t get angry or punish them, even if they were doing something wrong.\n"
-"\n"
-"Remember the story about Safety Amnesty? See it again here."
-msgstr ""
-"Yenzani isivumelwano sikaSHWELE. Uma kwenzeka okuthile okubathukuthelisayo, okubenza bazizwe bangakhululekile noma bethuke, bangakhuluma nawe ngakho futhi angeke ucasuke noma ubajezise, ngisho noma kuthiwa bebenza okuthile okungalungile.\n"
-"\n"
-"Khumbula udaba Lokuphepha Kukashwele? Lubone futhi lapha."
-
-#. type=template
-msgctxt "template"
 msgid "Digital parenting is just like parenting in the real world. You have taken a BIG STEP to keeping your teen safe in the community AND online. Good for you!"
 msgstr "Ukuba umzali kwezobuchwepheshe kuyafana nokuba umzali ekuphileni okujwayelekile. Uthathe ISINYATHELO esikhulu sokugcina umntwana wakho ephephile emphakathini KANYE naku-inthanethi. Kuhle lokho!"
-
-#. type=template
-msgctxt "template"
-msgid "Resources to help in the community"
-msgstr "Izinsiza zokusiza emphakathini"
-
-#. type=template
-msgctxt "template"
-msgid "Online Safety Resources"
-msgstr "Izinsiza Zokuphepha Ku-inthanethi"
 
 #. type=template
 msgctxt "template"
@@ -11115,16 +11006,6 @@ msgstr ""
 "Uma uzizwa unengcindezi noma uthukuthele: donsa umoya uphinde uwukhiphe kahlanu ngaphambi kokuba uthathe isinyathelo. \n"
 "\n"
 "Uma nobabili seniwehlisile umoya, khuluma nomntwana wakho umtshele ngendlela ozizwa ngayo."
-
-#. type=template
-msgctxt "template"
-msgid "Discuss \"safety amnesty\" with your teenager, and think of a situation together when you could use this."
-msgstr "Xoxani “ngoshwele wezokuphepha” nengane yakho, bese nicabange ngesimo lapho ningakusebenzisa khona lokhu."
-
-#. type=template
-msgctxt "template"
-msgid "Safety Amnesty Story"
-msgstr "Indaba Kashwele Wezokuphepha"
 
 #. type=template
 #. The string @global.parent_points should not be translated.

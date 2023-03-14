@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Tswana\n"
 "\n"
 "Language: tn_ZA\n"
-"PO-Revision-Date: 2023-03-07 18:52\n"
+"PO-Revision-Date: 2023-03-14 01:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -646,17 +646,6 @@ msgstr ""
 msgctxt "data_list"
 msgid "My teen got very angry with me after I gave the consequence."
 msgstr "Mosha wa me o nkgalefetse tota morago ga ke sena go mo naya ditlamorago."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"When your teen gets angry, you might need to walk away until you are both calm. \n"
-"\n"
-"Check to make sure your consequence is fair and reasonable. Listen to your teen’s explanation, and make sure to give a “Safety Amnesty” if they broke a rule in order to stay safe."
-msgstr ""
-"Fa mosha wa gago a galefa, o ka nna wa tlhoka go mo katoga go fitlha loo-babedi lo kgobile makgwafo. \n"
-"\n"
-"Tlhola go netefatsa gore ditlamorago tsa gago di na le tekatekano mme di a utlwala. Reetsa tlhaloso ya mosha wa gago, mme o netefatse go neelana ka “Tshireletsego ya go Itshwarela” fa ba robile molao e le gore ba nne ba sireletsegile."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1477,11 +1466,6 @@ msgstr ""
 "@global.w_stress_teen_boy_1: \"Go siame, @global.w_stress_male_caregiver!”"
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Safety Amnesty"
-msgstr "Kgololesego ya Pabalesego"
-
-#. type=data_list
 #. The following strings should not be translated: 
 #.      @global.w_stress_teen_boy_2
 #.      @global.w_stress_teen_girl!
@@ -1524,41 +1508,6 @@ msgstr "@global.w_stress_teen_boy_2: “Ke akanya gore ba rekisa diokobatsi. Re 
 msgctxt "data_list"
 msgid "@global.w_stress_teen_girl: \"I’m scared. Everyone is too drunk to drive me home. This boy says he’ll take me but he wants us to go to his house first. I can’t tell my parents – I lied about coming to this party.\""
 msgstr "@global.w_stress_teen_girl: “Ke tshogile. Ga go ope yo o ka kgonang go nkisa gae, mongwe le mongwe o tagilwe tota. Mosimane yono a re o tla nkisa mme gone, o batla re ye kwa a nnang teng pele. Nka se bolelele batsadi ba me – Ke ba akeditse, ga ke a ba bolelela gore ke tla phathing.\""
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @global.w_stress_teen_boy_2
-#.      @global.w_stress_teen_girl
-#.      @global.w_stress_parent
-msgctxt "data_list"
-msgid ""
-"These are dangerous situations! Thankfully, @global.w_stress_teen_boy_2 and @global.w_stress_teen_girl then remembered what @global.w_stress_parent told them:  \n"
-"\n"
-"\"I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it. \n"
-"\n"
-"Just say 'SAFETY AMNESTY'. I promise that I will try my best to help and I won’t be angry – even if you are doing something you shouldn't.\""
-msgstr ""
-"Maemo ano a kotsi! Ka lesego, @global.w_stress_teen_boy_2 le @global.w_stress_teen_girl ba ile ba gakologelwa gore @global.w_stress_parent o ba boleletse eng:  \n"
-"\n"
-"“Sa botlhokwa le go feta, ke tshwenyegile ka pabalesego ya gago. Nako nngwe le nngwe fa o tenegile, kgotsa o boifa, o ka nteletsa gore ke go thuse, kgotsa o mpolelele ka gone. \n"
-"\n"
-"Bua fela o re ‘KGOLOLESEGO YA PABALESEGO’. Ke a go solofetsa, ke tla leka ka tsotlhe tse nka di kgonang go go thusa e bile nka se galefe – le fa gone o ka tswa o dira sengwe se o sa tshwanelang go se dira.”"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @global.w_stress_teen_girl:
-#.      "@global.w_stress_parent,
-msgctxt "data_list"
-msgid "@global.w_stress_teen_girl: \"@global.w_stress_parent, it’s a safety amnesty. Can you come and pick me up? I really need a lift home.\""
-msgstr "@global.w_stress_teen_girl: \"@global.w_stress_parent, ke kgololesego ya pabalesego. A o ka kgona go tla go ntsaya? Tota ke tlhoka mongwe yo o ka nkisang gae.”"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @global.w_stress_teen_boy_2:
-#.      "@global.w_stress_parent,
-msgctxt "data_list"
-msgid "@global.w_stress_teen_boy_2: \"@global.w_stress_parent, safety amnesty. I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Can we talk?\""
-msgstr "@global.w_stress_teen_boy_2: \"@global.w_stress_parent, kgololesego ya pabalesego. Ke akanya gore ditsala tsa me di mo kotsing. Ga ke batle go kgaotsa botsala jwa me le bone mme gone, ke tshwenyegile. A re ka bua?\""
 
 #. type=data_list
 #. The string @global.w_money_grandma should not be translated.
@@ -2808,6 +2757,50 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Problem Solving"
+msgstr "Go Rarabolola Mathata"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to solve problems"
+msgstr "Kafa o ka rarabololang mathata ka teng"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school. \n"
+"\n"
+"Only when I started spending One-on-One time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the 6 steps of problem solving. We identified the problem, and figured out solutions together: “What can I do as a parent so you can attend school and feel safe?”\n"
+"\n"
+"We agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now."
+msgstr ""
+"Ke ne ke se na botsalano jo bontle le moradi wa me. Ke ne ke phela ke mo omanya mme ebile o ne a gana go ya sekolong.\n"
+"\n"
+"Fela fa ke sene ke simolola go fetsa nako ya motho-ka-mong le ene, ke lemogile gore ga a batle go ya sekolong ka gonne o ne a kgerisiwa kwa sekolong. Re ne ra nna fa fatshe ebe re dirisa dikgato tse 6 tsa go rarabolola mathata. Re tlhomolotse bothata, mme ra batla tharabololo mmogo.\"Nka dira eng jaaka motsadi gore o tsene sekolo mme o ikutlwe o bolokesegile?\"\n"
+"\n"
+"Re dumellane gore ke tlile go bua le morutabana go batla tsela ya go tswela pele. Re bone tharabololo mmogo, ebile re atumelane jaanong."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When my father introduced the problem-solving steps to me, it helped me with my family, but it also helped me with my friends. \n"
+"\n"
+"I told my friends about the steps, and now when we are arguing we sit down and everyone comes up with solutions. We then look for the negatives and positives of each solution, and we agree “okay let’s try this one.” \n"
+"\n"
+"My friends even took it to their own homes, and it is helping with their families as well! \n"
+"\n"
+"It is great when others listen to you and accept your ideas even though you are young. We can all bring that harmony with our friends and family."
+msgstr ""
+"Fa rre wa me a ne a nkitsise kgato tsa go rarabolola mathata, e thusitse lelapa la mme e nthusitse le ka ditsala tsa me.\n"
+"\n"
+"Ke boleletse ditsala tsa me ka ga dikgato, jaanong fa re nganga re nna fa fatshe mme rotlhe re tla ka ditharabololo. Re bo re lebelela masula le tseo tse dintle ka tharabololo nngwe le nngwe, mme re dumelana re re \"go giame a re leke ena.\"\n"
+"\n"
+"Ebile ditsala tsa me di di dirisa kwa magaeng a bone, mme e thusa malapa a bone le bona!\n"
+"\n"
+"Go a itumedisa fa bangwe ba go reetsa ebile ba amogela dikakanyo tsa gago le fa o le monnye. Rotlhe re ka tlisa kutlwano mo malapeng le ditsala tsa rona."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Family Budgets"
 msgstr "Ditekanyetsokabo tsa lelapa"
 
@@ -2927,50 +2920,6 @@ msgstr ""
 "Mme le rre wa me ba ne ba nkotlhaya fa ba ne ba nkgalefetse. Ba ne ba nkomanya mme le nna ke ne ke feletsa ke galefa. Go le gantsi ke ne ke sa latele melao, ka gonne ba ne ba le bogale thata, ke ne ke sa tlhalogane se ba se buang, kgotsa, ke ne ke sa itshwenya ka go ba utlwelela, ka gonne rotlhe re ne re galefile.\n"
 "\n"
 "Ka tsatsi le lengwe, ba ne ba ba mpotsisa: A re naganeng mmogo gore ditlamorago tsa go se boe gae ka nako e nne eng. Go ne go le monate go tlhagisa pono ya me - pele sengwe se direga se se re galefisang rotlhe. Re ritibitse botlhe ebile re dumelana pele. Go bonolo go amogela melao jaanong ka gonne ke a itsi gore ke e dumetse ebile ke itse ditlamorago fa ke sa o lalete molao."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Problem Solving"
-msgstr "Go Rarabolola Mathata"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "How to solve problems"
-msgstr "Kafa o ka rarabololang mathata ka teng"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school. \n"
-"\n"
-"Only when I started spending One-on-One time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the 6 steps of problem solving. We identified the problem, and figured out solutions together: “What can I do as a parent so you can attend school and feel safe?”\n"
-"\n"
-"We agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now."
-msgstr ""
-"Ke ne ke se na botsalano jo bontle le moradi wa me. Ke ne ke phela ke mo omanya mme ebile o ne a gana go ya sekolong.\n"
-"\n"
-"Fela fa ke sene ke simolola go fetsa nako ya motho-ka-mong le ene, ke lemogile gore ga a batle go ya sekolong ka gonne o ne a kgerisiwa kwa sekolong. Re ne ra nna fa fatshe ebe re dirisa dikgato tse 6 tsa go rarabolola mathata. Re tlhomolotse bothata, mme ra batla tharabololo mmogo.\"Nka dira eng jaaka motsadi gore o tsene sekolo mme o ikutlwe o bolokesegile?\"\n"
-"\n"
-"Re dumellane gore ke tlile go bua le morutabana go batla tsela ya go tswela pele. Re bone tharabololo mmogo, ebile re atumelane jaanong."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"When my father introduced the problem-solving steps to me, it helped me with my family, but it also helped me with my friends. \n"
-"\n"
-"I told my friends about the steps, and now when we are arguing we sit down and everyone comes up with solutions. We then look for the negatives and positives of each solution, and we agree “okay let’s try this one.” \n"
-"\n"
-"My friends even took it to their own homes, and it is helping with their families as well! \n"
-"\n"
-"It is great when others listen to you and accept your ideas even though you are young. We can all bring that harmony with our friends and family."
-msgstr ""
-"Fa rre wa me a ne a nkitsise kgato tsa go rarabolola mathata, e thusitse lelapa la mme e nthusitse le ka ditsala tsa me.\n"
-"\n"
-"Ke boleletse ditsala tsa me ka ga dikgato, jaanong fa re nganga re nna fa fatshe mme rotlhe re tla ka ditharabololo. Re bo re lebelela masula le tseo tse dintle ka tharabololo nngwe le nngwe, mme re dumelana re re \"go giame a re leke ena.\"\n"
-"\n"
-"Ebile ditsala tsa me di di dirisa kwa magaeng a bone, mme e thusa malapa a bone le bona!\n"
-"\n"
-"Go a itumedisa fa bangwe ba go reetsa ebile ba amogela dikakanyo tsa gago le fa o le monnye. Rotlhe re ka tlisa kutlwano mo malapeng le ditsala tsa rona."
 
 #. type=data_list
 msgctxt "data_list"
@@ -4912,11 +4861,6 @@ msgstr "Phetogo"
 msgctxt "template"
 msgid "Teen"
 msgstr "Mosha"
-
-#. type=template
-msgctxt "template"
-msgid "You’ve completed this week’s workshop."
-msgstr "O feditse workshop ya beke eno."
 
 #. type=template
 msgctxt "template"
@@ -7946,21 +7890,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid ""
-"You can help your teenager to understand that breaking family rules leads to consequences. \n"
-"\n"
-"But HOW you do this matters. \n"
-"\n"
-"Getting consequences right helps teens behave better and makes family life calmer..."
-msgstr ""
-"O ka thusa mosha wa gago go tlhaloganya gore go roba molao wa lelapa go na le ditlamorago. \n"
-"\n"
-"Mme gore o dira seo JANG ke gone go leng botlhokwa. \n"
-"\n"
-"Go otlhaya ka tsela e e siameng go thusa basha gore ba itshware sentle e bile go dira gore maemo a ritibale mo lelapeng..."
-
-#. type=template
-msgctxt "template"
-msgid ""
 "Greetings, everyone. \n"
 "\n"
 "Today's topic is calm consequences.\n"
@@ -8386,19 +8315,8 @@ msgstr "@global.w_crisis_teen_boy_2: “Ke la ntlha ke nna le bothata jono. Mme 
 #. type=template
 #. The string @global.w_crisis_teen_boy_2 should not be translated.
 msgctxt "template"
-msgid "Crisis 3: @global.w_crisis_teen_boy_2 makes a girl pregnant"
-msgstr "Bothata 3: @global.w_crisis_teen_boy_2 ke imisitse mosetsana"
-
-#. type=template
-#. The string @global.w_crisis_teen_boy_2 should not be translated.
-msgctxt "template"
 msgid "How could you respond to @global.w_crisis_teen_boy_2?"
 msgstr "O ka tsibogela jang @global.w_crisis_teen_boy_2?"
-
-#. type=template
-msgctxt "template"
-msgid "Crisis 4: Someone in the family gets sick"
-msgstr "Bothata 4: Mongwe mo lapeng o simolola go lwala"
 
 #. type=template
 msgctxt "template"
@@ -10766,6 +10684,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Resources to help in the community"
+msgstr "Didiriswa tse di ka thusang mo lefelong la lona"
+
+#. type=template
+msgctxt "template"
 msgid "Step 4: What are risky places online and how can you make them safer?"
 msgstr "Kgato 4: Ke mafelo afe a a kotsi mo inthanete mme o ka a dira gore a sireletsege jang?"
 
@@ -10781,6 +10704,11 @@ msgstr ""
 "* Akgolanang ka bolona ka ka fa ba dirisang webo sentle ka teng!  \n"
 "* Buang ka gore ke dife tse di ka tswang di sa sireletsega. Goreng? \n"
 "** Ke eng se wena le mosha le ka se dirang gore tiriso ya inthanete e nne e e sireletsegileng mo mosheng wa gago le ditsala tsa gagwe?"
+
+#. type=template
+msgctxt "template"
+msgid "Online Safety Resources"
+msgstr "Ditlamelwa Tsa Tshireletsego ya Inthanete"
 
 #. type=template
 msgctxt "template"
@@ -11071,50 +10999,13 @@ msgstr "MELAO"
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Make RULES with your teen about safely using the apps and websites that they like. \n"
-"\n"
-"Remember the story about Online Safety? See it again here."
-msgstr ""
-"Dira MELAO le mosha wa gago ka tshireletsego ya go dirisa ditiriso le diwebosaete tse ba di ratang. \n"
-"\n"
-"A o gakologelwa kgang ka Tshireletsego ya Inthanete? E bone gape fano."
-
-#. type=template
-msgctxt "template"
 msgid "Online Safety Story"
 msgstr "Kgang ya Tshireletsego ya Inthanete"
 
 #. type=template
 msgctxt "template"
-msgid "AMNESTY"
-msgstr "KGOLOLESEGO"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Make an AMNESTY agreement. If something happens that makes them upset, uncomfortable or scared, they can talk to you and you won’t get angry or punish them, even if they were doing something wrong.\n"
-"\n"
-"Remember the story about Safety Amnesty? See it again here."
-msgstr ""
-"Dira tumalano ya KGOLOLESEGO. Fa go direga sengwe se se ba kgopisang, se se sa itumediseng kgotsa se se boifisang, ba ka nna ba bua le wena mme o ka nna wa se galefe kgotsa wa se ba otlhae, le fa ba ne ba dira sengwe se se phoso.\n"
-"\n"
-"A o gakologelwa kgang ka Tshireletsego ya Kgololesego? E bone gape fano."
-
-#. type=template
-msgctxt "template"
 msgid "Digital parenting is just like parenting in the real world. You have taken a BIG STEP to keeping your teen safe in the community AND online. Good for you!"
 msgstr "Go tlhokomela bana ka dijithale go tshwana le fa o ba tlhokomela ka tsela ya mmatota. O tsere KGATO E KGOLO ya go boloka mosha wa gago a sireletsegile mo lefelong la lona le mo inthaneteng. Go go siametse!"
-
-#. type=template
-msgctxt "template"
-msgid "Resources to help in the community"
-msgstr "Didiriswa tse di ka thusang mo lefelong la lona"
-
-#. type=template
-msgctxt "template"
-msgid "Online Safety Resources"
-msgstr "Ditlamelwa Tsa Tshireletsego ya Inthanete"
 
 #. type=template
 msgctxt "template"
@@ -11913,16 +11804,6 @@ msgstr ""
 "Fa o ikutlwa o tshwenyegile mo maikutlong kgotsa o hutsafetse, kgwa mowa ga tlhano pele ga o ka tsaya kgato. \n"
 "\n"
 "Mme fa lotlhe lo ritibetse maikutlo, bolelela mosha wa gago gore o ikutlwa jang."
-
-#. type=template
-msgctxt "template"
-msgid "Discuss \"safety amnesty\" with your teenager, and think of a situation together when you could use this."
-msgstr "Tlotlang ka “pabalesego” le mosha wa gago mme lo buisane mmogo gore lo ka dirisa ntlha eno mo maemong afe."
-
-#. type=template
-msgctxt "template"
-msgid "Safety Amnesty Story"
-msgstr "Kgang ya Kgololesego ya Pabalesego"
 
 #. type=template
 #. The string @global.parent_points should not be translated.

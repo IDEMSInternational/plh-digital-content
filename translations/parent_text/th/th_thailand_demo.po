@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Thai\n"
 "\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2023-03-13 05:33\n"
+"PO-Revision-Date: 2023-03-14 14:38\n"
 
 #. type=text
 msgctxt "text"
@@ -483,6 +483,94 @@ msgstr "นี่คือวิดีโอเกี่ยวกับการ
 msgctxt "text"
 msgid "Here's an audio message about spending one-on-one time with @fields.child_nickname!"
 msgstr "นี่คือข้อความเสียงเกี่ยวกับการใช้เวลาตามลำพังกับ @fields.child_nickname!"
+
+#. type=text
+msgctxt "text"
+msgid "Here's an audio message about spending one-on-one time with your child!"
+msgstr "นี่คือข้อความเสียงเกี่ยวกับการใช้เวลาตามลำพังกับลูกของคุณ!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your child. Chat to you later @fields.user_name!"
+msgstr "ไม่เป็นไร! คุณสามารถพิมพ์คำว่า \"ช่วยด้วย\" เมื่อเมื่อไหร่ก็ตามที่คุณต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการใช้เวลาตามลำพังกับเด็ก แล้วค่อยคุยกันอีกนะคะ @fields.user_name!"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your child. Chat to you later!"
+msgstr "ไม่เป็นไร! คุณสามารถพิมพ์คำว่า \"ช่วยด้วย\" เมื่อไหร่ก็ตามที่คุณต้องการเรียนรู้เพิ่มเติมเกี่ยวกับการใช้เวลาตามลำพังกับเด็ก แล้วค่อยคุยกันอีกนะคะ!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Make sure you will not be interrupted. Finish all your chores, switch off the TV and put your phone on silent. It will show @fields.child_nickname, they are important."
+msgstr "ควรพยายามไม่ให้มีการรบกวนขณะใช้เวลากับเด็ก ทำงานบ้านให้เสร็จก่อน ปิดทีวี ตั้งมือถือให้เงียบ การทำแบบนี้จะทำให้น้อง @fields.child_nickname รู้สึกว่าเขาเป็นคนสำคัญ"
+
+#. type=text
+msgctxt "text"
+msgid "Make sure you will not be interrupted. Finish all your chores, switch off the TV and put your phone on silent. It will show your child, they are important."
+msgstr "ควรพยายามไม่ให้มีการรบกวนขณะใช้เวลากับเด็ก ทำงานบ้านให้เสร็จก่อน ปิดทีวี ตั้งมือถือให้เงียบ การทำแบบนี้จะทำให้เด็กรู้สึกว่าเขาเป็นคนสำคัญ"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Ask @fields.child_nickname what they would like to do. You can say, \"I have 5 minutes to spend One-on-One Time with you, what would you like to do?\""
+msgstr "ถามน้อง @fields.child_nickname ว่าเขาอยากทำอะไร คุณอาจพูดว่า \"แม่มีเวลาที่จะอยู่กับหนูตามลำพัง 5 นาทีนะ ลูกอยากทำอะไรบ้างล่ะ?"
+
+#. type=text
+msgctxt "text"
+msgid "Ask your child what they would like to do. You can say, \"I have 5 minutes to spend One-on-One Time with you, what would you like to do?\""
+msgstr "ถามลูกว่าเขาอยากทำอะไร คุณอาจพูดว่า \"แม่มีเวลาที่จะอยู่กับหนูตามลำพัง 5 นาทีนะ ลูกอยากทำอะไรบ้างล่ะ?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "If @fields.child_nickname cannot think of anything, you can give them a choice of a couple things that you know they like."
+msgstr "ถ้าน้อง @fields.child_nickname คิดไม่ออกว่าจะทำอะไรดี คุณอาจเสนอทางเลือกที่คิดว่าเขาน่าจะชอบให้เขาสักสองสามอย่างก็ได้"
+
+#. type=text
+msgctxt "text"
+msgid "If your child cannot think of anything, you can give them a choice of a couple things that you know they like."
+msgstr "ถ้าเด็กคิดไม่ออกว่าจะทำอะไรดี คุณอาจเสนอทางเลือกที่คิดว่าเขาน่าจะชอบให้เขาสักสองสามอย่างก็ได้"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Listening to @fields.child_nickname is more important than talking to them at this time. If you do talk you should describe what @fields.child_nickname is doing. Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening!"
+msgstr "การฟังน้อง @fields.child_nickname จะสำคัญกว่าการพูดกับเขาในเวลาเช่นนี้ ถ้าคุณพูดคุณควรบรรยายสิ่งที่น้อง @fields.child_nickname กำลังทำอยู่มากกว่า ให้ใช้คำพูดที่บรรยายการกระทำ สี รูปร่าง จำนวน ขนาด ลักษณะพื้นผิว อุณหภูมิ รส เสียง หรืออะไรก็ตามที่กำลังเกิดขึ้นในขณะนั้น!"
+
+#. type=text
+msgctxt "text"
+msgid "Listening to your child is more important than talking to them at this time. If you do talk you should describe what your child is doing. Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening!"
+msgstr "การฟังเด็กจะสำคัญกว่าการพูดกับเขาในเวลาเช่นนี้ ถ้าคุณพูดคุณควรบรรยายสิ่งที่เด็กกำลังทำอยู่มากกว่า ให้ใช้คำพูดที่บรรยายการกระทำ สี รูปร่าง จำนวน ขนาด ลักษณะพื้นผิว อุณหภูมิ รส เสียง หรืออะไรก็ตามที่กำลังเกิดขึ้นในขณะนั้น!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "One-on-One Time with your child can be fun for you, too! You might even find that you feel less stressed after playing with @fields.child_nickname."
+msgstr "การใช้เวลาตามลำพังกับลูกอาจเป็นเรื่องสนุกสำหรับคุณด้วย! คุณอาจพบว่าตัวเองเครียดน้อยลงหลังจากเล่นกับน้อง @fields.child_nickname ก็ได้"
+
+#. type=text
+msgctxt "text"
+msgid "One-on-One Time with your child can be fun for you, too! You might even find that you feel less stressed after playing with your child."
+msgstr "การใช้เวลาตามลำพังกับลูกอาจเป็นเรื่องสนุกสำหรับคุณด้วย! คุณอาจพบว่าตัวเองเครียดน้อยลงหลังจากเล่นกับลูกก็ได้"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done @fields.user_name! You have added another skill to your Parenting Toolkit. Over the next few days, try spending at least 5 minutes of One-on-One Time with your child. Quality time is the best gift that you can ever give your child!"
+msgstr "เยี่ยมมากคุณ @fields.user_name! คุณได้เพิ่มทักษะอีกอย่างหนึ่งเข้าไปในกล่องเครื่องมือการเลี้ยงดูเด็กของคุณแล้ว ในสองสามวันต่อไปนี้ขอให้คุณพยายามใช้เวลาอย่างน้อยวันละ 5 นาทีกับลูกของคุณ เวลาที่มีคุณภาพคือของขวัญที่ดีที่สุดที่คุณจะให้แก่ลูกได้!"
+
+#. type=text
+msgctxt "text"
+msgid "Well done! You have added another skill to your Parenting Toolkit. Over the next few days, try spending at least 5 minutes of One-on-One Time with your child. Quality time is the best gift that you can ever give your child!"
+msgstr "เยี่ยมมาก! คุณได้เพิ่มทักษะอีกอย่างหนึ่งเข้าไปในกล่องเครื่องมือการเลี้ยงดูเด็กของคุณแล้ว ในสองสามวันต่อไปนี้ขอให้คุณพยายามใช้เวลาอย่างน้อยวันละ 5 นาทีกับลูกของคุณ เวลาที่มีคุณภาพคือของขวัญที่ดีที่สุดที่คุณจะให้แก่ลูกได้!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done @fields.user_name! You have added another layer to your House of Support. Over the next few days, try spending at least 5 minutes of One-on-One Time with your child. Quality time is the best gift that you can ever give your child!"
+msgstr "เยี่ยมมากคุณ @fields.user_name! คุณได้เพิ่มฝาผนังอีกแผ่นหนึ่งเข้าไปในบ้านแห่งการเกื้อหนุนของคุณแล้ว ในสองสามวันต่อไปนี้ขอให้คุณพยายามใช้เวลาอย่างน้อยวันละ 5 นาทีกับลูกของคุณ เวลาที่มีคุณภาพคือของขวัญที่ดีที่สุดที่คุณจะให้แก่ลูกได้!"
 
 #. type=text
 msgctxt "text"

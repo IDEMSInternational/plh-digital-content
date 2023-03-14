@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-03-09 15:39\n"
+"PO-Revision-Date: 2023-03-14 20:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -705,19 +705,20 @@ msgid "**Keep your teen safe** @global.parent_point"
 msgstr "**Muweke kijana wako salama** @global.parent_point"
 
 #. type=data_list
+#. The string "@global.safety_word": should not be translated.
 msgctxt "data_list"
 msgid ""
 "Help your teen stay safe by doing one of these things:\n"
 "* Map out or talk about safe and unsafe spaces in your community.\n"
 "* Map out or talk about safe and unsafe spaces online.\n"
 "* Make rules with your teen about how they can stay safe in the community and online.\n"
-"* Explain, remind, or use your teen's 'Safety Amnesty': Your teen can always tell you if they are in a dangerous or difficult situation, and you won't get angry or punish them."
+"* Explain, remind, or use your teen's \"@global.safety_word\": Your teen can always tell you if they are in a dangerous or difficult situation, and you won't get angry or punish them."
 msgstr ""
 "Msaidie kijana wako kuwa salama kwa kufanya mojawapo ya vitu hivi:\n"
 "*Tambua au zungumza kuhusu sehemu salama na zisizo salama katika jamii yako.\n"
 "*Tambua au zungumza kuhusu sehemu salama na zisizo salama mtandaoni.\n"
 "* Tengeneza sheria na kijana wako kuhusu jinsi wanavyoweza kuwa salama katika jamii na mtandaoni.\n"
-"* Mueleze, mkumbushe au na tumia 'Msamaha wa Usalama': Kijana wako anaweza kukuambia kila wakati iwapo yupo katika hali hatarishi au ngumu, na hutokasirika au kuwaadhibu."
+"* Mueleze, mkumbushe au tumia \"@global.safety_word\": Kijana wako anaweza kukuambia kila wakati iwapo yupo katika hali hatarishi au ngumu, na hutokasirika au kuwaadhibu."
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
@@ -967,15 +968,16 @@ msgid "My teen got very angry with me after I gave the consequence."
 msgstr "Kijana wangu alinikasirikia sana nilipomuamuru afanye athari."
 
 #. type=data_list
+#. The string “@global.safety_word” should not be translated.
 msgctxt "data_list"
 msgid ""
-"When your teen gets angry, you might need to walk away until you are both calm. \n"
+"When your teen gets angry, you might need to walk away until you are both calm.\n"
 "\n"
-"Check to make sure your consequence is fair and reasonable. Listen to your teen’s explanation, and make sure to give a “Safety Amnesty” if they broke a rule in order to stay safe."
+"Check to make sure your consequence is fair and reasonable. Listen to your teen’s explanation, and react calmly as you agreed if they used the “@global.safety_word” or broke a rule in order to stay safe."
 msgstr ""
-"Kijana wako anapokasirika, unaweza kuhitaji kuondoka hadi nyote mtakapokuwa mmetulia.\n"
+"Kijana wako anapokasirika, unaweza kuhitaji kuondoka karibu nae hadi nyote mtakapokuwa mmetulia.\n"
 "\n"
-"Tazama ili kuhakikisha kuwa athari ni ya haki na ya busara. Sikiliza maelezo ya kijana wako, na hakikisha unatoa \"Msamaha wa Usalama\" kama alivunja sheria ili kuwa salama."
+"Tazama ili kuhakikisha kuwa madhara ni ya kawaida na ya busara. Sikiliza maelezo ya kijana wako, na hakikisha unatoa \"@global.safety_word” au kama alivunja sheria ili kuwa salama."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2044,7 +2046,7 @@ msgstr "@global.w_instruct_teen_girl na rafiki yake wanafurahia mazoezi yao ya k
 #.      @global.w_instruct_teen_girl.
 msgctxt "data_list"
 msgid "@global.w_instruct_female_caregiver: \"Thank you for practising outside while I finished cleaning, @global.w_instruct_teen_girl. Now I have some time to watch your dance.\""
-msgstr "@global.w_instruct_female_caregiver: \"Asante kwa kufanyia mazoezi nje wakati nilipokuwa nikimalizia kufanya usafi, w_instruct_teen_girl. Sasa ninamuda wakuangalia namna unavyocheza mziki.\""
+msgstr "@global.w_instruct_female_caregiver: \"Asante kwa kufanyia mazoezi nje wakati nilipokuwa nikimalizia kufanya usafi, @global.w_instruct_teen_girl. Sasa ninamuda wakuangalia namna unavyocheza mziki.\""
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -2184,11 +2186,6 @@ msgstr ""
 "@global.w_stress_teen_boy_1: “Sawa, @global.w_stress_male_caregiver!”"
 
 #. type=data_list
-msgctxt "data_list"
-msgid "Safety Amnesty"
-msgstr "Msamaha wa Usalama"
-
-#. type=data_list
 #. The following strings should not be translated: 
 #.      @global.w_stress_teen_boy_2
 #.      @global.w_stress_teen_girl!
@@ -2237,35 +2234,59 @@ msgstr "@global.w_stress_teen_girl: \"Ninaogopa. Kila mtu amelewa sana hawezi ku
 #.      @global.w_stress_teen_boy_2
 #.      @global.w_stress_teen_girl
 #.      @global.w_stress_parent
+#.      ‘@global.safety_word_example_1’
+#.      @global.safety_word?
+#.      @global.safety_word_example_1,
 msgctxt "data_list"
 msgid ""
 "These are dangerous situations! Thankfully, @global.w_stress_teen_boy_2 and @global.w_stress_teen_girl then remembered what @global.w_stress_parent told them:  \n"
 "\n"
 "\"I care about your safety more than anything. If you are ever upset, or scared, you can always call me for help, or tell me about it. \n"
 "\n"
-"Just say 'SAFETY AMNESTY'. I promise that I will try my best to help and I won’t be angry – even if you are doing something you shouldn't.\""
+"Shall we use an imaginary ‘@global.safety_word_example_1’ as @global.safety_word? Just say something about @global.safety_word_example_1, I promise that I will try my best to help and I won’t be angry – even if you are doing something you shouldn’t.\""
 msgstr ""
 "Hizi ni hali za hatari! Kwa bahati nzuri, @global.w_stress_teen_boy_2 na @global.w_stress_teen_girl walikumbuka kile @global.w_stress_parent alichowaambia:\n"
 "\n"
 "\"Ninajali sana usalama wenu kuliko kitu chochote. Mkipata shida yoyote, au kuogopa kitu, mnaweza kunipigia simu nije kuwasaidia wakati wowote, au kunieleza shida hiyo.\n"
 "\n"
-"Semeni tu 'NINAOMBA MSAMAHA WA USALAMA'. Ninaahidi kuwa nitajitahidi kadiri ya uwezo wangu kuwasaidia na sitakasirika – hata mkiwa mnafanya jambo ambalo hampaswi kulifanya.\""
+"Je, tunaweza kutumia ya kufikirika  '‘@global.safety_word_example_1 kama @global.safety_word? Sema tu kitu  kuhusu @global.safety_word_example_1, Ninaahidi kuwa nitajitahidi kadri ya uwezo wangu kusaidia na sitakasirika – hata mkiwa mnafanya jambo ambalo hampaswi kulifanya.\""
 
 #. type=data_list
 #. The following strings should not be translated: 
 #.      @global.w_stress_teen_girl:
 #.      "@global.w_stress_parent,
+#.      @global.safety_word_example_1
+#.      @global.w_stress_parent
 msgctxt "data_list"
-msgid "@global.w_stress_teen_girl: \"@global.w_stress_parent, it’s a safety amnesty. Can you come and pick me up? I really need a lift home.\""
-msgstr "@global.w_stress_teen_girl: \"@global.w_stress_parent, ninaomba msamaha wa usalama. Unaweza kuja kunichukua? Ninahitaji sana usafiri wa kuja nyumbani.\""
+msgid ""
+"@global.w_stress_teen_girl: \"@global.w_stress_parent, how is @global.safety_word_example_1 doing now?\"\n"
+"\n"
+"@global.w_stress_parent (on the other side of the phone): \"Not well. We need you at home. I will come pick you up right away. Where are you?\""
+msgstr ""
+"@global.w_stress_teen_girl: \"@global.w_stress_parent, unaendeleaje @global.safety_word_example_1 kwa sasa?\"\n"
+"\n"
+"@global.w_stress_parent (kwa upande mwingine wa simu): \"Sio sawa. Tunakuhitaji nyumbani. Nitakuja kukuchukua mara moja. Uko wapi?\""
 
 #. type=data_list
 #. The following strings should not be translated: 
+#.      @global.w_stress_teen_boy_2
+#.      @global.w_stress_parent
 #.      @global.w_stress_teen_boy_2:
 #.      "@global.w_stress_parent,
+#.      @global.safety_word_example_1
 msgctxt "data_list"
-msgid "@global.w_stress_teen_boy_2: \"@global.w_stress_parent, safety amnesty. I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Can we talk?\""
-msgstr "@global.w_stress_teen_boy_2: \"@global.w_stress_parent, ninaomba msamaha wa usalama. Nadhani marafiki zangu wako matatani. Sitaki kuvunja urafiki wetu, lakini nina wasiwasi. Tunaweza kuzungumza?\""
+msgid ""
+"@global.w_stress_teen_boy_2 (thinking): \"I think my friends are in trouble. I don’t want to stop being their friend, but I’m worried. Maybe @global.w_stress_parent knows what to do.\"\n"
+"\n"
+"@global.w_stress_teen_boy_2: \"@global.w_stress_parent, I just remembered, @global.safety_word_example_1 said she will come visit tomorrow.\"\n"
+"\n"
+" Baba (on the other side of the phone): “Okay, I need you at home to help get things ready. I will come pick you up now. Where are you?”"
+msgstr ""
+"@global.w_stress_teen_boy_2 (anafikiri): \" Nadhani marafiki zangu wapo katika changamoto. Sitaki kuacha kuwa rafiki yao, lakini na wasiwasi. Labda @global.w_stress_parent anajua cha kufanya.\"\n"
+"\n"
+"@global.w_stress_teen_boy_2: \"@global.w_stress_parent, nimekumbuka, @global.safety_word_example_1 alisema atakuja kututembelea kesho.\"\n"
+"\n"
+"Baba (katika upande mwingine wa simu): \"Sawa, ninakuhitaji nyumbani kusadia kuweka vitu tayari. Nitakuja kukuchukua sasa, Upo wapi"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3934,6 +3955,66 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Problem Solving"
+msgstr "Kutatua Matatizo"
+
+#. type=data_list
+#. The string @global.workshop should not be translated.
+msgctxt "data_list"
+msgid "**Problem Solving** @global.workshop"
+msgstr "**Kutatua matatizo** @global.workshop"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Together with your teen, you can handle any challenge."
+msgstr "Pamoja na kijana wako mnaweza kutatua changamoto yoyote."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why Problem Solving?"
+msgstr "Kwa nini Kutatua Matatizo ni muhimu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How to solve problems"
+msgstr "Jinsi ya kutatua matatizo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school. \n"
+"\n"
+"Only when I started spending One-on-One time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the 6 steps of problem solving. We identified the problem, and figured out solutions together: “What can I do as a parent so you can attend school and feel safe?”\n"
+"\n"
+"We agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now."
+msgstr ""
+"Sina mahusiano mazuri na binti yangu. Mara nyingi nilikuwa nikimfokea, na alikuwa akikataa kwenda shuleni.\n"
+"\n"
+"Mara nilipoanza kutumia muda wangu pamoja naye, Nilitambua kwamba hakutaka kwenda shuleni kwa sababu alikuwa akionewa. Tulikaa chini na kutumia hatua sita za kutatua tatizo. Tulitambua tatizo, na kutafuta suluhisho kwa pamoja:\"Naweza kufanya nini kama mzazi ili uweze kuhudhuria shuleni na kujihisi salama?\"\n"
+"\n"
+"Tulikubaliana kuwa nitakwenda kuzungumza na mwalimu kutafuta suluhisho. Ni kweli tulipata suluhisho kwa pamoja, na sasa tupo karibu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When my father introduced the problem-solving steps to me, it helped me with my family, but it also helped me with my friends. \n"
+"\n"
+"I told my friends about the steps, and now when we are arguing we sit down and everyone comes up with solutions. We then look for the negatives and positives of each solution, and we agree “okay let’s try this one.” \n"
+"\n"
+"My friends even took it to their own homes, and it is helping with their families as well! \n"
+"\n"
+"It is great when others listen to you and accept your ideas even though you are young. We can all bring that harmony with our friends and family."
+msgstr ""
+"Pindi Baba yangu aliponitambulisha hatua za kutatua tatizo, ilinisaidia mimi na familia yangu, lakini pia iliwasaidia marafiki zangu.\n"
+"\n"
+"Niliwaambia marafiki zangu kuhusu hatua hizo, na sasa wakati tunapobishana tunakaa chini na kila mmoja anakuja na suluhisho. Kisha tunaangalia madhara hasi na chanya ya kila suluhisho, na tunakubaliana\"sawa ngoja tujaribu hii moja,\"\n"
+"\n"
+"Marafiki zangu huchukua na kupeleka nyumbani kwao, na inawasaidia wao na familia zao pia!\n"
+"\n"
+"Ni furaha pindi ambapo wengine wanakusikiliza na kukubaliana na mawazo yako hata kama wewe ni mdogo. Sote tunaweza kuleta maelewano na marafiki na familia."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Family Budgets"
 msgstr "Bajeti za Familia"
 
@@ -4101,66 +4182,6 @@ msgstr ""
 "Mama yangu na Baba yangu mara nyingi waliniadhibu pindi walipokuwa na hasira na mimi. Walinifokea na mimi nilipata hasira. Mara nyingi sikufuata sheria zao, kwa sababu zilikuwa kali, sikuelewa kile walichokuwa wakisema, au Nilikuwa sijihangaishi kuwasikiliza, kwa sababu wote tulikuwa na hasira.\n"
 "\n"
 "Siku moja, waliniuliza: Hebu tufikiri kwa pamoja madhara yanayoweza kukupata kwa kushindwa kurudi nyumbani kwa wakati. Ilikuwa ni furaha kubwa kutoa maoni yangu kabla kitu hakijatokea na kutufanya wote kuwa na hasira. Wote tulitulia na kukubaliana kwanza. Sasa ni rahisi kwangu kufuata sheria kwa sababu najua na nilikubali sheria hizo na madhara kama sitafuata sheria hizo."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Problem Solving"
-msgstr "Kutatua Matatizo"
-
-#. type=data_list
-#. The string @global.workshop should not be translated.
-msgctxt "data_list"
-msgid "**Problem Solving** @global.workshop"
-msgstr "**Kutatua matatizo** @global.workshop"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Together with your teen, you can handle any challenge."
-msgstr "Pamoja na kijana wako mnaweza kutatua changamoto yoyote."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Why Problem Solving?"
-msgstr "Kwa nini Kutatua Matatizo ni muhimu?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "How to solve problems"
-msgstr "Jinsi ya kutatua matatizo"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"I did not have a good relationship with my daughter. I was always shouting at her, and she was refusing to go to school. \n"
-"\n"
-"Only when I started spending One-on-One time with her, I realised that she did not want to go to school because she was being bullied at school. We sat down and used the 6 steps of problem solving. We identified the problem, and figured out solutions together: “What can I do as a parent so you can attend school and feel safe?”\n"
-"\n"
-"We agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now."
-msgstr ""
-"Sina mahusiano mazuri na binti yangu. Mara nyingi nilikuwa nikimfokea, na alikuwa akikataa kwenda shuleni.\n"
-"\n"
-"Mara nilipoanza kutumia muda wangu pamoja naye, Nilitambua kwamba hakutaka kwenda shuleni kwa sababu alikuwa akionewa. Tulikaa chini na kutumia hatua sita za kutatua tatizo. Tulitambua tatizo, na kutafuta suluhisho kwa pamoja:\"Naweza kufanya nini kama mzazi ili uweze kuhudhuria shuleni na kujihisi salama?\"\n"
-"\n"
-"Tulikubaliana kuwa nitakwenda kuzungumza na mwalimu kutafuta suluhisho. Ni kweli tulipata suluhisho kwa pamoja, na sasa tupo karibu."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"When my father introduced the problem-solving steps to me, it helped me with my family, but it also helped me with my friends. \n"
-"\n"
-"I told my friends about the steps, and now when we are arguing we sit down and everyone comes up with solutions. We then look for the negatives and positives of each solution, and we agree “okay let’s try this one.” \n"
-"\n"
-"My friends even took it to their own homes, and it is helping with their families as well! \n"
-"\n"
-"It is great when others listen to you and accept your ideas even though you are young. We can all bring that harmony with our friends and family."
-msgstr ""
-"Pindi Baba yangu aliponitambulisha hatua za kutatua tatizo, ilinisaidia mimi na familia yangu, lakini pia iliwasaidia marafiki zangu.\n"
-"\n"
-"Niliwaambia marafiki zangu kuhusu hatua hizo, na sasa wakati tunapobishana tunakaa chini na kila mmoja anakuja na suluhisho. Kisha tunaangalia madhara hasi na chanya ya kila suluhisho, na tunakubaliana\"sawa ngoja tujaribu hii moja,\"\n"
-"\n"
-"Marafiki zangu huchukua na kupeleka nyumbani kwao, na inawasaidia wao na familia zao pia!\n"
-"\n"
-"Ni furaha pindi ambapo wengine wanakusikiliza na kukubaliana na mawazo yako hata kama wewe ni mdogo. Sote tunaweza kuleta maelewano na marafiki na familia."
 
 #. type=data_list
 msgctxt "data_list"
@@ -6264,6 +6285,16 @@ msgctxt "global"
 msgid "friends"
 msgstr "marafiki"
 
+#. type=global
+msgctxt "global"
+msgid "Safety Word"
+msgstr "Neno la Usalama"
+
+#. type=global
+msgctxt "global"
+msgid "Aunty Cecilia"
+msgstr "Shangazi Cecilia"
+
 #. type=template
 #. The following strings should not be translated: 
 #.      @global.terms_and_conditions
@@ -6278,7 +6309,7 @@ msgid ""
 "4. Your anonymised data may be used for research purposes by our @global.parent_app team."
 msgstr ""
 "Kwa kutoa ridhaa hii hapa chini unakubali kusoma na kukubali @global.terms_and_conditions na @global.privacy_policy. Mambo muhimu ya kukubaliana nayo:\n"
-"1. Hii ni na itazidi kuwa programu tumishi inayopatikana bure.\n"
+"1. Hii ni, na itazidi kuwa programu tumishi inayopatikana bure.\n"
 "2. Taarifa zako kamwe hazitouzwa. Sisi hatupo kwa faida ya kifedha.\n"
 "3. Kwa kutumia programu tumishi unasaidia kuiboresha programu tumishi kwa ajili yako na wengine. \n"
 "4. Taarifa zisizo na utambulisho zitatumika kwa ajili ya utafiti na timu yetu ya @global.parent_app."
@@ -6791,6 +6822,17 @@ msgid "All @global.workshops are now unlocked."
 msgstr "@global.workshops vyote vimefunguliwa sasa."
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "@global.parent_app has downloaded an update. Please restart the app to finish installation."
+msgstr "@global.parent_app imesasishwa. Tafadhali anzisha tena programu tumishi kumalizia kuiweka swa."
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "Anzisha upya tena"
+
+#. type=template
 msgctxt "template"
 msgid "Losing a loved one can feel very overwhelming. Here are a few practical tips that can be helpful to keep in mind."
 msgstr "Kumpoteza mtu unayempenda ni jambo zito mno. Hapa kuna vidokezo kadhaa vinavyoweza kukusaidia ukivikumbuka."
@@ -7126,9 +7168,10 @@ msgid "How old are they?"
 msgstr "Je, wana umri gani?"
 
 #. type=template
+#. The string @global.workshop should not be translated.
 msgctxt "template"
-msgid "You’ve completed this week’s workshop."
-msgstr "Umemaliza kipindi cha wiki hii."
+msgid "You’ve completed your @global.workshop."
+msgstr "Umekamilisha @global.workshop."
 
 #. type=template
 msgctxt "template"
@@ -8468,6 +8511,11 @@ msgstr "Imewezeshwa na Malezi kwa Maisha Marefu yenye Afya na wadau"
 
 #. type=template
 msgctxt "template"
+msgid "Skip intro"
+msgstr "Ruka utangulizi"
+
+#. type=template
+msgctxt "template"
 msgid "Bringing teenagers up is hard"
 msgstr "Kuwakuza vijana ni kazi ngumu"
 
@@ -8475,6 +8523,12 @@ msgstr "Kuwakuza vijana ni kazi ngumu"
 msgctxt "template"
 msgid "You are the best parent your teen could have"
 msgstr "Wewe ni mzazi bora sana ambaye kijana wako anaye"
+
+#. type=template
+#. The string @local.number should not be translated.
+msgctxt "template"
+msgid "Join the over @local.number million parents who have used our resources"
+msgstr "Jiunge na zaidi ya mamilioni @local.number ya wazazi ambao wametumia rasilimali zetu"
 
 #. type=template
 msgctxt "template"
@@ -8610,7 +8664,8 @@ msgid ""
 "Use them at home and find them anytime in your @global.parent_centre."
 msgstr ""
 "Hapa kuna ujuzi wa kujichukulia kwa wiki hii!\n"
-"utumie nyumbani na unaweza kuupata wakati wowote kwene maktaba ya mzazi @global.parent_centre."
+"\n"
+"Zitumie nyumbani na utaweza kuzipata wakati wowote kwenye @global.parent_centre."
 
 #. type=template
 msgctxt "template"
@@ -10317,17 +10372,17 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid ""
-"You can help your teenager to understand that breaking family rules leads to consequences. \n"
+"Our actions have consequences: Some consequences happen naturally (“if you break something, you can’t use it anymore”). Other consequences we set as a family to motivate us to follow the rules (“if you come home late, you can’t go out with friends tomorrow”).\n"
 "\n"
-"But HOW you do this matters. \n"
+"HOW you set and use consequences together matters.\n"
 "\n"
 "Getting consequences right helps teens behave better and makes family life calmer..."
 msgstr ""
-"Unaweza kumsaidia kijana wako kuelewa kwamba kuvunja sheria za familia kunasababisha mtu kufanya malipo.\n"
+"Angalizo: Matendo yetu yana matokeo: Baadhi ya matokeo yanatokea kwa kawaida (\"kama ukivunja kitu, huwezi kukitumia tena\"). Adhabu nyepesi nyingine tunaweka kama familia kutuhamasisha kufuata sheria (\"kama ukichelewa kurudi nyumbani, hautatoka na marafiki kesho\"). \n"
 "\n"
-"Lakini NAMNA unavyofanya jambo hilo ni muhimu.\n"
+"JINSI mnavyoweka na kutumia adhabu kwa pamoja ni muhimu.\n"
 "\n"
-"Kuweka njia sahihi huwasaidia vijana kuwa na tabia nzuri zaidi na hufanya maisha ya familia kuwa tulivu zaidi..."
+"Kuweka adhabu sahihi inasaidia kijana kuwa na tabia njema na kufanya maisha ya familia kuwa na utulivu..."
 
 #. type=template
 msgctxt "template"
@@ -10753,17 +10808,17 @@ msgstr "Vizuri sana! Hiyo inaonekana kuwa ni haki na inaweza kufanywa mara moja"
 #.      @global.workshop
 msgctxt "template"
 msgid ""
-"You’ve completed this week’s @global.workshop. \n"
+"You’ve completed your @global.workshop. \n"
 "\n"
-"Next week’s @global.workshop will celebrate you all, and help you plan for the future. \n"
+"The next @global.workshop will celebrate you all, and help you plan for the future. \n"
 "\n"
 "Why don’t you plan some party food together, and have some music ready if you like to dance!"
 msgstr ""
 "Umemaliza @global.workshop ya wiki hii.\n"
 "\n"
-"@global.workshop ya wiki ijayo tutawasherehekea, na kuwasaidia kupanga mipango ya siku zijazo.\n"
+"@global.workshop inayofuata itawasheherekea wote, na kuwasaidia kupanga mipango ya siku zijazo.\n"
 "\n"
-"Kwa nini msipange kufanya sherehe pamoja itakayokuwa na chakula, na kuandaa muziki kama mtapenda kucheza!"
+"Kwa nini msipange kufanya sherehe ya chakula pamoja, na kuandaa muziki kama mtapenda kucheza!"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -10771,9 +10826,9 @@ msgstr ""
 #.      @global.workshop
 msgctxt "template"
 msgid ""
-"You’ve completed this week’s @global.workshop. \n"
+"You’ve completed your @global.workshop. \n"
 "\n"
-"Next week’s @global.workshop will celebrate you, and you can choose the support you want going forward. \n"
+"The next @global.workshop will celebrate you, and you can choose the support you want going forward. \n"
 "\n"
 "You can prepare a treat to celebrate – something you like to eat, or music you like to listen to!"
 msgstr ""
@@ -10850,6 +10905,12 @@ msgid "@global.w_crisis_teen_boy_2: \"I’ve never done this before. And now the
 msgstr "@global.w_crisis_teen_boy_2: \"Sijawahi kufanya hivi. Na sasa watanifukuza.\""
 
 #. type=template
+#. The string @global.w_crisis_teen_boy_2 should not be translated.
+msgctxt "template"
+msgid "How could you respond to @global.w_crisis_teen_boy_2?"
+msgstr "Utafanyaje kwa @global.w_crisis_teen_boy_2?"
+
+#. type=template
 #. The string @global.w_crisis_teen_girl_2 should not be translated.
 msgctxt "template"
 msgid "Crisis 2: @global.w_crisis_teen_girl_2 gets pregnant"
@@ -10870,27 +10931,27 @@ msgid "How could you respond to @global.w_crisis_teen_girl_2?"
 msgstr "Je, unaweza kumjibu vipi @global.w_crisis_teen_girl_2?"
 
 #. type=template
-#. The string @global.w_crisis_teen_boy_2 should not be translated.
+#. The string @global.w_crisis_teen_boy_1 should not be translated.
 msgctxt "template"
-msgid "Crisis 3: @global.w_crisis_teen_boy_2 makes a girl pregnant"
-msgstr "Tatizo la Tatu: @global.w_crisis_teen_boy_2 amempa msichana mimba"
+msgid "Crisis 3: @global.w_crisis_teen_boy_1 makes a girl pregnant"
+msgstr "Tatizo la 3: @global.w_crisis_teen_boy_1 kumpa msichana mimba"
 
 #. type=template
-#. The string @global.w_crisis_teen_boy_2 should not be translated.
+#. The string @global.w_crisis_teen_boy_1 should not be translated.
 msgctxt "template"
-msgid "@global.w_crisis_teen_boy_2: \"I don’t want to have a baby\""
-msgstr "@global.w_crisis_teen_boy_2: \"Sitaki kupata mtoto\""
+msgid "@global.w_crisis_teen_boy_1: \"I don’t want to have a baby\""
+msgstr "@global.w_crisis_teen_boy_1: \"Sitaki kuwa na mtoto\""
 
 #. type=template
-#. The string @global.w_crisis_teen_boy_2 should not be translated.
+#. The string @global.w_crisis_teen_boy_1 should not be translated.
 msgctxt "template"
-msgid "How could you respond to @global.w_crisis_teen_boy_2?"
-msgstr "Utafanyaje kwa @global.w_crisis_teen_boy_2?"
+msgid "How could you respond to @global.w_crisis_teen_boy_1?"
+msgstr "Je, unaweza kumjibu vipi @global.w_crisis_teen_boy_1?"
 
 #. type=template
 msgctxt "template"
-msgid "Crisis 4: Someone in the family gets sick"
-msgstr "Tatizo la Nne: Mwanafamilia anaugua"
+msgid "Crisis 4: Someone in the family may get sick"
+msgstr "Tatizo la 4: Mmoja ya wanafamilia anaweza kuwa mgonjwa"
 
 #. type=template
 msgctxt "template"
@@ -13496,6 +13557,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Resources to help in the community"
+msgstr "Rasilimali za msaada katika jamii"
+
+#. type=template
+msgctxt "template"
 msgid "Step 4: What are risky places online and how can you make them safer?"
 msgstr "Hatua ya Nne: Je, maeneo gani mtandaoni ni ya hatari na unawezaje kuyafanya yawe salama zaidi?"
 
@@ -13511,6 +13577,11 @@ msgstr ""
 "* Sifianeni kwa jinsi wanavyojua kutumia mtandao.\n"
 "* Zungumzieni zile ambazo zinaweza zisiwe salama. Kwa nini?\n"
 "* Je, nyinyi na vijana wenu mnaweza kufanya nini ili matumizi ya intaneti yawe salama kwa vijana wenu na marafiki zao?"
+
+#. type=template
+msgctxt "template"
+msgid "Online Safety Resources"
+msgstr "Rasilimali za Usalama Mtandaoni"
 
 #. type=template
 msgctxt "template"
@@ -13808,13 +13879,13 @@ msgstr "SHERIA"
 #. type=template
 msgctxt "template"
 msgid ""
-"Make RULES with your teen about safely using the apps and websites that they like. \n"
+"Make RULES with your teen about how they can stay safe in your community (especially in risky areas that cannot be avoided) and how they can safely use the apps and websites that they like. \n"
 "\n"
 "Remember the story about Online Safety? See it again here."
 msgstr ""
-"Tengeneza SHERIA na kijana wako kuhusu kutumia kwa usalama programu na tovuti anazozipenda.\n"
+"Tengeneza SHERIA na kijana wako kuhusu namna gani wanaweza kuwa salama katika jamii yako (hususani katika maeneo hatarishi ambayo hayawezi kuepukika) na namna wanaweza kutumia kwa usalama programu tumishi na mitandao ambayo wanayopenda.\n"
 "\n"
-"Je, unakumbuka hadithi kuhusu Usalama Mtandaoni? Iangalie tena hapa."
+"Unakumbuka hadithi kuhusu Usalama Mtandaoni? Angalia tena hapa."
 
 #. type=template
 msgctxt "template"
@@ -13822,35 +13893,24 @@ msgid "Online Safety Story"
 msgstr "Hadithi ya Usalama Mtandaoni"
 
 #. type=template
-msgctxt "template"
-msgid "AMNESTY"
-msgstr "MSAMAHA"
-
-#. type=template
+#. The following strings should not be translated: 
+#.      @global.safety_word
+#.      @global.safety_word
+#.      @global.safety_word
 msgctxt "template"
 msgid ""
-"Make an AMNESTY agreement. If something happens that makes them upset, uncomfortable or scared, they can talk to you and you won’t get angry or punish them, even if they were doing something wrong.\n"
+"Agree on a @global.safety_word. If something happens that makes your teen upset, uncomfortable or scared, they can say the @global.safety_word  and you will help them without getting angry or punishing them, even if they were doing something wrong. \n"
 "\n"
-"Remember the story about Safety Amnesty? See it again here."
+"Remember the story about the @global.safety_word? See it again here."
 msgstr ""
-"Wekeni makubaliano ya MSAMAHA. Kama kikitokea kitu kitakachomfadhaisha, kumnyima raha, au kumwogofya, anaweza kuzungumza na wewe na hautakasirika au kumwadhibu, hata kama alikuwa akifanya jambo baya.\n"
+"Kubaliana kuhusu @global.safety_word. Kama kitu kikitokea ambacho kitamfanya kijana wako akasirike, kukosa uhuru au kuogopa,  wanaweza kusema @global.safety_word na utawasaidia bila kukasirika au kuwaadhibu,  hataka kama walikuwa wanafanya kitu ambacho sio sahihi.\n"
 "\n"
-"Je, unakumbuka hadithi kuhusu Msamaha wa Usalama? Iangalie tena hapa."
+"Kumbuka hadithi kuhusu @global.safety_word? Angalia tena hapa."
 
 #. type=template
 msgctxt "template"
 msgid "Digital parenting is just like parenting in the real world. You have taken a BIG STEP to keeping your teen safe in the community AND online. Good for you!"
 msgstr "Malezi yanayohusu masuala ya kidijitali ni sawa tu na malezi ya masuala mengine maishani. Umepiga HATUA KUBWA ya kumweka salama kijana wako katika jamii NA mtandaoni. Ni jambo zuri kwako!"
-
-#. type=template
-msgctxt "template"
-msgid "Resources to help in the community"
-msgstr "Rasilimali za msaada katika jamii"
-
-#. type=template
-msgctxt "template"
-msgid "Online Safety Resources"
-msgstr "Rasilimali za Usalama Mtandaoni"
 
 #. type=template
 msgctxt "template"
@@ -14714,14 +14774,16 @@ msgstr ""
 "Nyote wawili mtakapokuwa mmetulia, mshirikishe kijana wako jinsi unavyojisikia."
 
 #. type=template
+#. The string @global.safety_word should not be translated.
 msgctxt "template"
-msgid "Discuss \"safety amnesty\" with your teenager, and think of a situation together when you could use this."
-msgstr "Jadili na kijana wako kuhusu \"msamaha wa usalama\", kisha fikirieni kwa pamoja mazingira ambamo mnaweza kuutumia."
+msgid "Choose a \"@global.safety_word\" with your teenager, and think of a situation together when you could use this."
+msgstr "Chagua \"@global.safety_word\", na kijana wako na mfikiri kwa pamoja mazingira ambayo mnaweza kutumia."
 
 #. type=template
+#. The string @global.safety_word should not be translated.
 msgctxt "template"
-msgid "Safety Amnesty Story"
-msgstr "Hadithi ya Msamaha wa Usalama"
+msgid "@global.safety_word Story"
+msgstr "Hadithi ya @global.safety_word"
 
 #. type=template
 #. The string @global.parent_points should not be translated.
