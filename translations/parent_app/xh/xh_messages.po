@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2023-03-14 01:43\n"
+"PO-Revision-Date: 2023-03-14 20:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4749,11 +4749,6 @@ msgid "Relax"
 msgstr "Phola"
 
 #. type=template
-msgctxt "template"
-msgid "Let’s do a short relaxation activity together – it will take less than 1 minute and you will feel more relaxed."
-msgstr "Masenze kunye into yokuzipholisa – iza kuthatha ngaphantsi komzuzu oyi-1 kwaye uza kuziva phole ngakumbi."
-
-#. type=template
 #. The string @global.my_relaxes should not be translated.
 msgctxt "template"
 msgid "Add this activity to @global.my_relaxes"
@@ -7612,6 +7607,11 @@ msgstr "Bonke obu bubuchule bunokunceda xa kukho ingxaki."
 
 #. type=template
 msgctxt "template"
+msgid "violence"
+msgstr "ubundlobongela"
+
+#. type=template
+msgctxt "template"
 msgid "Every small thing you do matters. We hope you are proud of yourself too."
 msgstr "Neyona nto incinci oyenzayo ibalulekile. Siyathemba ukuba uyazidla ngesiqu sakho nawe."
 
@@ -10400,31 +10400,6 @@ msgstr "Usebenzile! Zama ukwenza lento usuku ngalunye."
 
 #. type=template
 msgctxt "template"
-msgid "Have a hot drink"
-msgstr "Fumana isiselo esishushu"
-
-#. type=template
-msgctxt "template"
-msgid "Call a friend or relative"
-msgstr "Fowunela umhlobo okanye isizalwana"
-
-#. type=template
-msgctxt "template"
-msgid "Have a relaxing bath"
-msgstr "Zifake emanzini uhlambe uphole"
-
-#. type=template
-msgctxt "template"
-msgid "Read"
-msgstr "Funda"
-
-#. type=template
-msgctxt "template"
-msgid "Watch TV"
-msgstr "Bukela UMABONAKUDE"
-
-#. type=template
-msgctxt "template"
 msgid ""
 "Taking care of ourselves is an important parenting skill. Share with each other:\n"
 "\n"
@@ -10467,54 +10442,29 @@ msgid "Nice! Taking care of yourself is an important parenting skill!"
 msgstr "Kuhle! Ukuzinyamekela sisakhono esibalulekileyo sokuba ngumzali!"
 
 #. type=template
-#. The string @local.name_1 should not be translated.
 msgctxt "template"
-msgid "Try to do something to reward yourself every day. This could be to @local.name_1 or anything else that you enjoy."
-msgstr "Zama ukwenza into oza kuzivuza ngayo suku ngalunye. Oku kunokuba kuku @local.name_1 okanye nantoni na eyenye oyinandiphayo."
+msgid "Have a hot drink"
+msgstr "Fumana isiselo esishushu"
 
 #. type=template
-#. The string @local.name_2 should not be translated.
 msgctxt "template"
-msgid "Try to do something to reward yourself every day. This could be to @local.name_2 or anything else that you enjoy."
-msgstr "Zama ukwenza into oza kuzivuza ngayo suku ngalunye. Oku kunokuba kuku @local.name_2 okanye nantoni na eyenye oyinandiphayo."
+msgid "Call a friend or relative"
+msgstr "Fowunela umhlobo okanye isizalwana"
 
 #. type=template
-#. The string @local.name_3 should not be translated.
 msgctxt "template"
-msgid "Try to do something to reward yourself every day. This could be to @local.name_3 or anything else that you enjoy."
-msgstr "Zama ukwenza into oza kuzivuza ngayo suku ngalunye. Oku kunokuba kuku @local.name_3 okanye nantoni na eyenye oyinandiphayo."
+msgid "Have a relaxing bath"
+msgstr "Zifake emanzini uhlambe uphole"
 
 #. type=template
-#. The string @local.name_4 should not be translated.
 msgctxt "template"
-msgid "Try to do something to reward yourself every day. This could be to @local.name_4 or anything else that you enjoy."
-msgstr "Zama ukwenza into oza kuzivuza ngayo suku ngalunye. Oku kunokuba kuku @local.name_4 okanye nantoni na eyenye oyinandiphayo."
-
-#. type=template
-#. The string @local.name_5 should not be translated.
-msgctxt "template"
-msgid "Try to do something to reward yourself every day. This could be to @local.name_5 or anything else that you enjoy."
-msgstr "Zama ukwenza into oza kuzivuza ngayo suku ngalunye. Oku kunokuba kuku @local.name_5 okanye nantoni na eyenye oyinandiphayo."
+msgid "Read"
+msgstr "Funda"
 
 #. type=template
 msgctxt "template"
 msgid "Things you can do to reward yourself:"
 msgstr "Izinto onokuzenza ukuze uzivuze:"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* Have a hot drink \n"
-"* Call a friend or relative \n"
-"* Have a relaxing bath \n"
-"* Read \n"
-"* Watch TV"
-msgstr ""
-"* Fumana into yokuphunga\n"
-"* Fowunela umhlobo okanye isizalwana sakho \n"
-"* Ngena emanzini uhlambe uphole \n"
-"* Funda \n"
-"* Bukela UMABONAKUDE"
 
 #. type=template
 msgctxt "template"
@@ -10993,25 +10943,6 @@ msgstr "Sihlandlo ngasinye unqumama ngaphambi kokuphendula, okanye nanini na use
 msgctxt "template"
 msgid "We know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you - and your family."
 msgstr "Siyazi ukuba kunzima kangakanani ukukhulisa abantwana abafikisayo kula maxesha. Ukufunda ukulawula uxinezeleko lwakho kunceda wena - nentsapho yakho."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Greetings everyone. \n"
-"\n"
-"Today's topic is managing stress. \n"
-"\n"
-"It is important to know how to manage our stress. At times our children can behave in ways that makes us feel stressed and us as parents can make our children feel stressed too. \n"
-"\n"
-"So, it is important to notice when we feel stressed and take a pause and breathe. That will help you manage your stress."
-msgstr ""
-"Molweni, kuni nonke. \n"
-"\n"
-"Umxholo wanamhlanje uphathelele ukulawula uxinezeleko. \n"
-"\n"
-"Kubalulekile ukwazi indlela yokulawula uxinezeleko lwethu. Maxa wambi abantwana bethu bangaziphatha ngeendlela ezinokusenza sizive sixinezelekile yaye nathi bazali sinokwenza abantwana bazive bexinezelekile. \n"
-"\n"
-"Ngoko, kubalulekile ukuphawula xa siziva sixinezelekile size sime kancinci size sithathe umoya. Loo nto iya kukunceda ulawule uxinezeleko."
 
 #. type=template
 msgctxt "template"
