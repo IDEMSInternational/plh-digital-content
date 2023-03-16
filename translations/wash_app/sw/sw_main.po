@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-03-16 11:58\n"
+"PO-Revision-Date: 2023-03-16 13:19\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1062,6 +1062,12 @@ msgid "Acknowledgement"
 msgstr "Shukrani"
 
 #. type=template
+#. The string @global.app_name should not be translated.
+msgctxt "template"
+msgid "The @global.app_name team would firstly like to acknowledge and show appreciation for the inputs of colleagues from the National Institute for Medical Research (whom are also community members) of Mwanza, Tanzania in shaping the content and design of this App."
+msgstr "Timu ya @global.app_name kwanza ingependa kutambua na kuonyesha kuthamini mchango wa wafanyakazi wenzetu kutoka Taasisi ya Taifa ya Utafiti wa Magonjwa ya Binadamu (NIMR) iliyopo Mwanza, Tanzania (ambao pia ni wanajamii), katika kuunda maudhui na muundo wa Programu hii."
+
+#. type=template
 msgctxt "template"
 msgid "References"
 msgstr "Marejeleo"
@@ -1072,9 +1078,21 @@ msgid "Section 1"
 msgstr "Sehemu 1"
 
 #. type=template
+#. The string @global.app_name should not be translated.
+msgctxt "template"
+msgid "The content of the @global.app_name is driven by the primary source material outlined below:"
+msgstr "Maudhui ya @global.app_name yanatokana na nyenzo za msingi zilizoorodheshwa hapo chini:"
+
+#. type=template
 msgctxt "template"
 msgid "Section 2"
 msgstr "Sehemu 2"
+
+#. type=template
+#. The string @global.app_name should not be translated.
+msgctxt "template"
+msgid "Additional sources consulted in the development of content for the @global.app_name include the below:"
+msgstr "Nyenzo za ziada zilizoshauriwa katika uundaji wa maudhui ya @global.app_name inajumuisha yafuatayo:"
 
 #. type=template
 msgctxt "template"
