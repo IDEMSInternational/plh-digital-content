@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Thai\n"
 "\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2023-03-20 08:07\n"
+"PO-Revision-Date: 2023-03-20 14:30\n"
 
 #. type=text
 msgctxt "text"
@@ -847,6 +847,183 @@ msgstr "หากคุณไม่อยากบอกอายุของค
 msgctxt "text"
 msgid "This looks too old."
 msgstr "ตัวเลขนี้ดูเหมือนจะมากกว่าอายุของคุณนะ"
+
+#. type=text
+msgctxt "text"
+msgid "This looks too young. ParentText is only for people over the age of 18."
+msgstr "ดูเหมือนอายุของคุณจะน้อยเกินไปไหม โปรแกรม ParentText นี้จะใช้สำหรับคนที่อายุเกิน 18 ไปแล้วเท่านั้น"
+
+#. type=text
+msgctxt "text"
+msgid "What is your relationship status?"
+msgstr "ปัจจุบันนี้สถานภาพสมรสของคุณคืออะไร?"
+
+#. type=text
+msgctxt "text"
+msgid "If you don't want to tell us, that's okay. Please type \"N\"."
+msgstr "หากคุณไม่อยากบอกก็ไม่เป็นไร ขอให้พิมพ์ตัวอักษะ \"N\""
+
+#. type=text
+msgctxt "text"
+msgid "If you don't want to tell me, that's okay. Please type \"N\"."
+msgstr "หากคุณไม่อยากบอกก็ไม่เป็นไร ขอให้พิมพ์ตัวอักษะ \"N\""
+
+#. type=text
+msgctxt "text"
+msgid "How would you like to receive your messages?"
+msgstr "คุณอยากได้รับข้อความจากช่องทางไหน?"
+
+#. type=text
+msgctxt "text"
+msgid "You can always change this setting at any time by typing \"Help\" and selecting Technical Support."
+msgstr "คุณสามารถเปลี่ยนข้อตกลงนี้ได้ตลอดเวลาโดยการพิมพ์คำว่า \"ช่วยด้วย\" แล้วเลือกข้อความ การช่วยเหลือด้านเทคนิค"
+
+#. type=text
+msgctxt "text"
+msgid "So we can give you the right information, please choose a child age group that best meets your needs. You can choose the age for the child you are concerned about the most. "
+msgstr "เพื่อที่เราจะได้ให้ข้อมูลที่เหมาะสมแก่คุณ กรุณาเลือกกลุ่มอายุเด็กที่ตรงกับความต้องการของคุณที่สุด คุณอาจเลือกกลุ่มอายุที่ตรงกับลูกคนที่คุณกำลังกังวลใจมากที่สุดอยู่ก็ได้ "
+
+#. type=text
+msgctxt "text"
+msgid "You can always change this later by typing \"Help\" and selecting \"Technical support\"."
+msgstr "คุณสามารถเปลี่ยนข้อตกลงนี้ได้ตลอดเวลาโดยการพิมพ์คำว่า \"ช่วยด้วย\" แล้วเลือกข้อความ การช่วยเหลือด้านเทคนิค"
+
+#. type=text
+msgctxt "text"
+msgid "So I can give you the right information, please choose a child age group that best meets your needs.  You can choose the age for the child you are concerned about the most. "
+msgstr "เพื่อที่เราจะได้ให้ข้อมูลที่เหมาะสมแก่คุณ กรุณาเลือกกลุ่มอายุเด็กที่ตรงกับความต้องการของคุณที่สุด คุณอาจเลือกกลุ่มอายุที่ตรงกับลูกคนที่คุณกำลังกังวลใจมากที่สุดอยู่ก็ได้ "
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr "ใช่"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr "ไม่ใช่"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Great"
+msgstr "เยี่ยม"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Neutral"
+msgstr "พอใช้"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Bad"
+msgstr "แย่"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Not enough time"
+msgstr "มีเวลาไม่พอ"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child did not want to spend time with me"
+msgstr "ลูกไม่อยากใช้เวลาตามลำพังกับฉัน"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "All my child wanted to do is watch T.V. or play with a gadget"
+msgstr "ลูกฉันอยากทำแค่ดูทีวีหรือเล่นกับของประเภทอุปกรณ์อีเลคโทรนิก"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child wanted to do things I felt uncomfortable about"
+msgstr "ลูกของฉันอยากทำสิ่งต่าง ๆ ที่ฉันรู้สึกไม่สบายใจที่จะทำ"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child wanted to do activities that I could not do"
+msgstr "ลูกของฉันอยากทำกิจกรรมที่ฉันไม่สามารถทำได้"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child chose a competitive activity. I won and then they got angry"
+msgstr "ลูกของฉันเลือกทำกิจกรรมที่เป็นการแข่งขัน พอฉันชนะเขาก็โมโห"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child had a tantrum at the end of One-on-One Time"
+msgstr "ลูกของฉันร้องดิ้นอาละวาดหลังจากหมดเวลาที่อยู่ด้วยกันตามลำพัง"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child wanted to do too many things at once"
+msgstr "ลูกของฉันอยากทำอะไรหลาย ๆ อย่างในเวลาเดียวกัน"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "All my children wanted One-on-One Time at the same time"
+msgstr "ลูกของฉันทุกคนต้องการใช้เวลาตามลำพังกับฉันพร้อมกัน"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Prefer not to say"
+msgstr "ขอไม่บอกดีกว่า"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, I am over 18"
+msgstr "ใช่ ฉันอายุมากกว่า 18"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, I am under 18"
+msgstr "ไม่ใช่ ฉันอายุน้อยกว่า 18"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Improve my relationship with my child"
+msgstr "เพื่อปรับปรุงความสัมพันธ์ระหว่างฉันกับลูก"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child to behave better"
+msgstr "เพื่อให้ลูกมีพฤติกรรมดีขึ้น"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Help my child learn"
+msgstr "เพื่อช่วยให้ลูกเรียนได้ดีขึ้น"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Reduce family stress"
+msgstr "เพื่อลดความเครียดในครอบครัว"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Keep my child safe"
+msgstr "เพื่อดูแลให้ลูกปลอดภัย"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
