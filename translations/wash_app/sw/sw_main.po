@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-03-30 15:42\n"
+"PO-Revision-Date: 2023-03-30 15:45\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1019,6 +1019,12 @@ msgstr "Tueleze tatizo lako"
 msgctxt "template"
 msgid "Developer Mode"
 msgstr "Mtengenezaji wa programu"
+
+#. type=template
+#. The string @global.app_name should not be translated.
+msgctxt "template"
+msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
+msgstr "@global.app_name imesasishwa. Tafadhali anzisha tena programu tumishi kumalizia kuiweka swa."
 
 #. type=template
 msgctxt "template"
