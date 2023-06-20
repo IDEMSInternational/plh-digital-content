@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2023-06-19 14:22\n"
+"PO-Revision-Date: 2023-06-20 15:39\n"
 
 #. type=text
 msgctxt "text"
@@ -28,6 +28,11 @@ msgstr "Kuhle!"
 msgctxt "quick_replies"
 msgid "Yes"
 msgstr "Yebo"
+
+#. type=variables
+msgctxt "variables"
+msgid "@(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])"
+msgstr "@(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
