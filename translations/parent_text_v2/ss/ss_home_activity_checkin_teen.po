@@ -11,28 +11,28 @@ msgstr ""
 "Language-Team: Swati\n"
 "\n"
 "Language: ss_ZA\n"
-"PO-Revision-Date: 2023-06-21 13:30\n"
+"PO-Revision-Date: 2023-06-21 19:24\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "You’re doing great towards your goal, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])."
-msgstr "Wenta kahle kufika emgomeni, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])."
+msgstr "Wenta kahle kufika emgomeni wakho, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])."
 
 #. type=text
 msgctxt "text"
 msgid "Were you able to spend 5 minutes of 1-on-1 time with your teen?"
-msgstr "Ukhonile yini kucitsa imizuzu lengu-5 kukhulumisana nemntfwanakho?"
+msgstr "Ukhonile yini kucitsa imizuzu lengu-5 nemntfwanakho ninodvwa?"
 
 #. type=text
 msgctxt "text"
 msgid "Amazing! Well done for making this commitment."
-msgstr "Kuhle kakhulu! Wente kahle kutinikela kuloku."
+msgstr "Kuhle kuyamangalisa! Wente kahle kutinikela kuloku."
 
 #. type=text
 msgctxt "text"
 msgid "That’s okay! Try and set aside some time in the coming days."
-msgstr "Kulungile loko! Tama kutfola sikhatsi emalangeni letako."
+msgstr "Kulungile loko! Tama kutinika sikhatsi kulamalanga letako."
 
 #. type=text
 msgctxt "text"
@@ -58,12 +58,12 @@ msgstr "Kulungile loko! Tama kudvumisa @fields.child_nickname namuhla, noma ngab
 #. type=text
 msgctxt "text"
 msgid "That’s okay! Try to praise your teen today, even if it’s something small."
-msgstr "Kulungile! Tama kudvumisa umntfwanakho namuhla, noma ngabe kuyintfo lencane."
+msgstr "Kulungile loko! Tama kudvumisa umntfwanakho namuhla, noma ngabe kuyintfo lencane."
 
 #. type=text
 msgctxt "text"
 msgid "Were you able to talk to your teen about the six steps to coping with their emotions?"
-msgstr "Ukhonile yini kukhulumisa umntfwanakho ngetinyatselo letisitfupha tekubhekana nemiva yakhe?"
+msgstr "Ukhonile yini kukhuluma nemntfwanakho ngetinyatselo letisitfupha tekubhekana nemiva yakhe?"
 
 #. type=text
 msgctxt "text"
@@ -473,6 +473,52 @@ msgstr "Wente kahle! Khumbula kuphindze nibukete imephu yekuphepha nemntfwanakho
 
 #. type=text
 msgctxt "text"
+msgid "That’s okay! Try and find time to create a safety map with your teen, this is a great tool to keep them safe."
+msgstr "Kulungile lok! Tama kutfola sikhatsi sekucamba imephu yekuphepha nemntfwanakho, loku kulithulusi lelikahle lekumphephisa."
+
+#. type=text
+msgctxt "text"
+msgid "Were you able to share teach self-defence tips with your teen?"
+msgstr "Ukhonile yini kutjela umntfwanakho ngekufundza emasu ekutivikela?"
+
+#. type=text
+msgctxt "text"
+msgid "Good for you! Self-defence is an important step to keep your teen safe."
+msgstr "Kuhle ke loko! Kutivikela kusinyatselo letimcoka sekuphephisa umntfwanakho."
+
+#. type=text
+msgctxt "text"
+msgid "That’s okay! Try and find some time today to talk to your teen about the self-defence tips. Self-defence is an important step to keep your teen safe. You can type SAFE at any time to start the lesson over again with your teen."
+msgstr "Kulungile loko! Tama kutfola sikhatsi namuhla sekukhuluma nemntfwanakho ngemasu ekutivikela. Kutivikela kusinyatselo lesimcoka sekuvikela umntfwanakho. Ungathayipha SAFE noma nini kuphindze ucale lesifundvo kabusha nemntfwanakho."
+
+#. type=text
+msgctxt "text"
+msgid "Were you able to go through the sexual violence prevention tips with your teen?"
+msgstr "Ukhonile yini kubuka onkhe emasu ekuvimbela kuhlukubetwa ngasecansini nemntfwanakho?"
+
+#. type=text
+msgctxt "text"
+msgid "Good for you. That was probably not easy. Well done for making the commitment to keep your teen safe from sexual harm."
+msgstr "Kuhle ke loko! Mhlawumbe loko akukabi lula. Wente kahle kutinikela kugcina umntfwanakho aphephile ekulimaleni ngasecansini."
+
+#. type=text
+msgctxt "text"
+msgid "That’s okay! Try to go through the sexual violence prevention tips with your teen. This information can keep your teen safe. You can type PREVENT at any time to start the lesson over again with your teen."
+msgstr "Kulungile loko! Tama kufundza lamasu ekuvimbela kuhlukubetwa ngasecansini nemntfwanakho. Lolwati lolu lungamgcina umntfwanakho aphephile. Ungathayipha PREVENT noma nini utophindze ucale kabusha nemntfwanakho."
+
+#. type=text
+msgctxt "text"
+msgid "Were you able to talk with your teen about possible crises that may happen and what to do?"
+msgstr "Ukhonile yini kukhuluma nemntfwanakho ngetehlakalo letingenteka nekutsi angenta njani?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Well done! This will help you and @fields.child_nickname be prepared if a crisis ever happens. Good work!"
+msgstr "Wente kahle! Loku kutokusita wena na @fields.child_nickname kulungela uma kuvela sehlakalo. Sinifisela inhlanhla!"
+
+#. type=text
+msgctxt "text"
 msgid "Well done! This will help you and your teen be prepared if a crisis ever happens. Good work!"
 msgstr "Wente kahle! Loku kutawusita wena nemntfwanakho kulungela uma kungenteka kuvele sehlakalo. Ngumsebenti lomuhle lowo!"
 
@@ -723,4 +769,76 @@ msgstr "khuluma nemntfwanakho ngetindzawo letehlukene tekutfolakala kwelusito em
 msgctxt "variables"
 msgid "find time to do an activity that brings you joy"
 msgstr "tfola sikhatsi sekwenta lokutsite lokukuletsela injabulo"
+
+#. type=variables
+msgctxt "variables"
+msgid "share the four steps of managing your teen's behaviour with a family member"
+msgstr "tjela lilunga lemndeni letinyatselo letine tekucondzisa kutiphatsa kwemntfwwanakho"
+
+#. type=variables
+msgctxt "variables"
+msgid "share the four steps to problem solving with Your Teen"
+msgstr "tjela umntfwanakho letinyatselo letine tekucatulula inkinga"
+
+#. type=variables
+msgctxt "variables"
+msgid "write a list of fair consequences with your teen to use later"
+msgstr "bhala nemntfwanakho luhla lwemiphumela lekahle lolungasetjentiswa emva kwesikhatsi"
+
+#. type=variables
+msgctxt "variables"
+msgid "create a community safety map with your teen"
+msgstr "camba imephu yekuphepha kwemphakatsi nemntfwanakho"
+
+#. type=variables
+msgctxt "variables"
+msgid "share teach self-defence tips with your teen"
+msgstr "tjela umntfwanakho ngekufundza emasu ekutivikela"
+
+#. type=variables
+msgctxt "variables"
+msgid "go through the sexual violence prevention tips with your teen"
+msgstr "fundzani onkhe lamasu ekuvimbela kuhlukubetwa ngasecansini nemntfwanakho"
+
+#. type=variables
+msgctxt "variables"
+msgid "talk with your teen about possible crises that may happen and what to do"
+msgstr "khuluma nemntfwanakho ngetehlakalo letingenteka nekutsi angenta njani"
+
+#. type=variables
+msgctxt "variables"
+msgid "involve your partner in a decision you made yesterday"
+msgstr "vumela umlingani wakho kutsi ahlanganyele esicumeni losente itolo"
+
+#. type=variables
+msgctxt "variables"
+msgid "do childcare or housework with your partner"
+msgstr "yentani umsebenti wekunakekela bantfwana noma wasendlini nemlingani wakho"
+
+#. type=variables
+msgctxt "variables"
+msgid "invite your partner to discuss how you can share family responsibilities"
+msgstr "cela umlingani wakho kutsi nikhulumisane ngekutsi ningabambisana kanjani imisebenti yasekhaya"
+
+#. type=variables
+msgctxt "variables"
+msgid "practice taking a pause"
+msgstr "tijwayete kutsatsa sikhatsi sekuphumula"
+
+#. type=variables
+msgctxt "variables"
+msgid "set aside time to talk to your partner about your feelings"
+msgstr "tinike sikhatsi sekukhuluma nemlingani wakho ngemivo yakho"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes"
+msgstr "yebo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "not yet"
+msgstr "hhayi kwanyalo"
 
