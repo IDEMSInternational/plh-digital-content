@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2023-07-01 10:24\n"
+"PO-Revision-Date: 2023-07-01 16:20\n"
 
 #. type=text
 msgctxt "text"
@@ -1709,13 +1709,604 @@ msgstr "✅Lokhu kusiza ingane yakho yazi ukuthi akekho umuntu ongawenzi amaphut
 
 #. type=text
 msgctxt "text"
+msgid "Home Activity! ⭐Share a story with your teen about a time you learned from a mistake. It can be from school or another life lesson. Do you have time to do it today? ⏰"
+msgstr "Umsebenzi Wasekhaya! ⭐Xoxa nengane yakho mayelana nokufunda ephutheni owalenza. Mhlambe kwakumayelana nokwasesikoleni noma empilweni nje jikelele. Ingabe unaso isikhathi sokukwenza namuhla? ⏰"
+
+#. type=text
+msgctxt "text"
+msgid "Great! Use the tips you have learnt today to help your teen gain mental strength."
+msgstr "Kuhle! Sebenzisa amasu owafundile namuhla ukusiza ingane yakho ukuba ibe nomdlandla engqondweni."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "Skill complete! You have learnt about supporting your teen to create a space for them to learn. You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Support My Teen's Education. ⭐"
+msgstr "Ikhono liphothuliwe! Ufunde mayelana nokweseka ingane yakho ngokuyinikeza ithuba lokuba ikwazi ukufunda. Manje usuphothule u- @(fields.c_n_mod_compl +1) wamakhono angu-@fields.c_n_mod ukuze ufinyelele injongo yakho, Sekela Imfundo Yengane Yami. ⭐"
+
+#. type=text
+msgctxt "text"
+msgid "This skill is about helping your teen learn how to work with others."
+msgstr "Leli khono limayelana nokusiza ingane yakho ukuthi ifunde indlella yokusebenzisana nabanye."
+
+#. type=text
+msgctxt "text"
+msgid "In order to succeed at home, school, and work, your teen will need to know how to work with others."
+msgstr "Ukuze ingane yakho iphumelele ekhaya, esikoleni, nasemsebenzini, kudingeka ukuthi ikwazi ukusebenzisana nabanye."
+
+#. type=text
+msgctxt "text"
+msgid "Here is a comic on helping your teen learn to work with others:"
+msgstr "Nali ihlaya lokusiza ingane yakho ukuthi ifunde ukusebenzisana nabanye:"
+
+#. type=text
+msgctxt "text"
+msgid "Father: My daughter, {F1_DAUGHTER_16}, has been struggling with English, do you have any recommendations?"
+msgstr "Ubaba: Indodakazi yami, {F1_DAUGHTER_16}, kade inenkinga yokufunda isiNgisi, ingabe kukhona yini okungenziwa?"
+
+#. type=text
+msgctxt "text"
+msgid "Teacher: Yes, how about you set up a book club with your daughter and her friends where they can read and discuss the book together?"
+msgstr "Uthisha: Yebo, kunganjani uma ungasungula i-club yokufunda izincwadi lapho ingane yakho ifunda ndawonye nabangane bayo qede baxoxe ngaleyo ncwadi abayifundayo?"
+
+#. type=text
+msgctxt "text"
+msgid "Father: That sounds great!"
+msgstr "Ubaba: Kuzwakala kuhle!"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_16}: Did anyone understand chapter 3? I need some help making sense of it."
+msgstr "{F1_DAUGHTER_16}: Ingabe ukhona osizwisile isahluko 3? Ngidinga usizo lokusiqonda kangcono."
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_16}: Thank you so much for suggesting a book club, Dad. Our reading assignments are more fun and easier to understand when I work on them together with my friends. "
+msgstr "{F1_DAUGHTER_16}: Ngiyabonga kakhulu ngokwenza isiphakamiso se-club yokufunda izincwadi, Baba. Umsebenzi wethu wokufunda usumnandi kakhulu futhi sekulula ukuqonda ngesikhathi ngenza lo msebenzi nabangane bami. "
+
+#. type=text
+msgctxt "text"
+msgid "Father: I am glad it is working for you. Even as an adult, I still learn a lot from others! Just last week, your mother taught me how to make this delicious chicken stew I am making for dinner."
+msgstr "Ubaba: Ngiyajabula ukuthi iyakusebenzela le club. Ngisho nalapho sengimdala, ngisafunda okuningi kwabanye! Ngesonto eledlule nje, umama wakho wangifundisa indlela yokwenza lesi sitshulu senkukhu esimnandi engisiphekela isidlo sakusihlwa."
+
+#. type=text
+msgctxt "text"
+msgid "Here’s a video message on supporting your teen to be social and learn with others."
+msgstr "Nawu umlayezo wevidiyo omayelana nokweseka ingane yakho ukuthi ikwazi ukusebenzisana nabanye abantu nokuthi ifunde ezinye izinto kwabanye abantu."
+
+#. type=text
+msgctxt "text"
+msgid "Here’s an audio message on supporting your teen to be social and learn with others."
+msgstr "Nawu umlayezo olalewayo omayelana nokweseka ingane yakho ukuthi ikwazi ukusebenzisana nabanye abantu nokuthi ifunde ezinye iznto kwabanye abantu."
+
+#. type=text
+msgctxt "text"
+msgid "You can help them build this skill with these tips: "
+msgstr "Ungasozaingane yakho ukuthi yakhe leli khono ngalawa masu: "
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ *BE SOCIAL*"
+msgstr "1️⃣ *SEBENZISANA NABANYE ABANTU*"
+
+#. type=text
+msgctxt "text"
+msgid "😃 Allow your teen to go and study with friends in a safe way. You can call these friends, ‘study buddies.’"
+msgstr "😃 Yekela ingane yakho ukuthi ihambe iyofunda nabangane bayo ngendlela ephephile. Ungabiza laba bangane ngokuthi, ‘ama-study buddies.’"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ *TEAM WORK*"
+msgstr "2️⃣ *ITHIMBA LOKUSEBENZISANA*"
+
+#. type=text
+msgctxt "text"
+msgid "👂 Encourage your teen to listen to and respect others and their ideas."
+msgstr "👂 Khuthaza ingane yakho ukuthi ilalele futhi ihloniphe abanye kanye nemibono yabo."
+
+#. type=text
+msgctxt "text"
+msgid "Home Activity! ⭐ Chat with your teen and identify a possible study buddy for the next week. Do you have time to do it today? ⏰"
+msgstr "Umsebenzi Wasekhaya! ⭐ Xoxa nengane yakho futhi uhlonze umngane wakho wokufunda wesonto elizayo. Ingabe unaso isikhathi sokukwenza namuhla? ⏰"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This skill is about creating routines with @fields.child_nickname. 🔄"
+msgstr "Leli khono limayelana nokwenza izinhlelo zansuku zonke ne- @fields.child_nickname. 🔄"
+
+#. type=text
+msgctxt "text"
+msgid "This skill is about creating routines with your teen. 🔄"
+msgstr "Leli khono limayelana nokwenza izinhlelo zansuku zonke nengane yakho. 🔄"
+
+#. type=text
+msgctxt "text"
+msgid "Mama: {F1_DAUGHTER_16}, you have been spending too much time watching TV and you are watching before your homework is finished. It is important that you get your homework done so you can do well in school. Let’s make a rule about watching TV."
+msgstr "Umama: {F1_DAUGHTER_16}, ubuchitha isikhathi esiningi ubuka i-TV futhi uyibuka ngaphambi kokuba uqede i-homework yakho. Kubalulekile ukuthi uqede ukwenza i-homework yakho ukuze wenze kahle esikoleni. Masenze umthetho mayelana nokubuka i-TV."
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_16}: Okay, Mama."
+msgstr "{F1_DAUGHTER_16}: Kulungile, Mama."
+
+#. type=text
+msgctxt "text"
+msgid "Mama: What do you think would be a fair rule?"
+msgstr "Umama: Ucabanga ukuthi yimuphi umthetho ongalunga?"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_16}: Hmmm…well, maybe I can watch TV as much as I want, but only after I do my homework."
+msgstr "{F1_DAUGHTER_16}: Hmmm... hm, mhlawumbe ngingabuka i-TV ngendlela engithanda ngayo, kodwa emva kokuqeda ukwenza i-homework yami."
+
+#. type=text
+msgctxt "text"
+msgid "Mama: I like that idea, but let’s limit it to 1 hour per day. How does that sound?"
+msgstr "Umama: Ngiyawuthanda lowo mbono, kodwa asilinganisele isikhathi kube yihora elilo-1 ngosuku. Kuzwakala kanjani lokho?"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_16}: Fine."
+msgstr "{F1_DAUGHTER_16}: Kahle."
+
+#. type=text
+msgctxt "text"
+msgid "Mama: Thank you for doing your homework before watching TV, your grades have improved, too! I am proud of you! We can increase your time to an hour and a half…as long as you still follow the rules!"
+msgstr "Umama: Ngiyabonga ngokwenza i-homework yakho kuqala ngaphambi kokubukela i-TV, amamaki akho akhuphukile, futhi! Ngiyaziqhenya ngawe! Singakwazi ukwandisa isikhathi sakho sibe ihora nesigamu... inqobo nje uma usalandela imithetho!"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_16}: (smiling) Thanks, Mama!"
+msgstr "{F1_DAUGHTER_16}: (imamatheka) Ngiyabonga, Mama!"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ *BE A TEAM*"
+msgstr "1️⃣ *YIBA YITHIMBA*"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ *KEEP IT REAL*"
+msgstr "2️⃣ *YIBA QOTHO*"
+
+#. type=text
+msgctxt "text"
+msgid "⭐ Make rules realistic: What can your teen actually do?"
+msgstr "⭐ Yenza imithetho elandelekayo: Yini ngempela ingane yakho engayenza?"
+
+#. type=text
+msgctxt "text"
+msgid "📖 Be clear and specific about what you want them to do."
+msgstr "📖 Kubeke kucacise lokho ofuna ikwenze."
+
+#. type=text
+msgctxt "text"
+msgid "✅ Make sure the rule is fair. Explain the reason for the rule."
+msgstr "✅ Qiniseka ukuthi umthetho ulungile. Chaza isizathu somthetho."
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ *BE CONSISTENT*"
+msgstr "3️⃣ *UNGASHINTSHASHINTSHI*"
+
+#. type=text
+msgctxt "text"
+msgid "🔄 Once you set a rule, stick to it."
+msgstr "🔄 Uma usuwubekile umthetho, namathela kuwo."
+
+#. type=text
+msgctxt "text"
+msgid "⬆️ They are more likely to follow the rule."
+msgstr "⬆️ Amathuba amaningi okuthi iwulandele lowo mthetho."
+
+#. type=text
+msgctxt "text"
+msgid "▶️ If the rule includes you, it is important that you stick to it too."
+msgstr "▶️ Uma nawe umthetho ukufaka phakathi, kubalulekile ukuthi nawe unamathele kuwo."
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ *PRAISE, PRAISE, PRAISE*"
+msgstr "4️⃣ *NCOMA, NCOMA, NCOMA*"
+
+#. type=text
+msgctxt "text"
+msgid "⭐ Praise your teen for setting a family rule with you. "
+msgstr "⭐ Ncoma ingane yakho ngokuthi nenze umthetho womndeni ngokusebenzisana. "
+
+#. type=text
+msgctxt "text"
+msgid "😃 Praise your teen when they follow the rule, just like you do when they behave well!"
+msgstr "😃 Ncoma ingane yakho lapho ilandela umthetho, njengoba wenza lapho iziphathe kahle!"
+
+#. type=text
+msgctxt "text"
+msgid "Home Activity! Try to create at least one family rule with your teen. 📝 Can you do it today?"
+msgstr "Umsebenzi Wasekhaya! Zama ukwenza okungenani umthetho owodwa womndeni nengane yakho. 📝 Ungakwazi yini ukukwenza namuhla?"
+
+#. type=text
+msgctxt "text"
+msgid "That's great to hear! Remember, when you involve your teen when you make rules, they are more likely to follow them. It's a recipe for success! 🏆"
+msgstr "Kuhle ukuzwa lokho! Khumbula, uma usebenzisana nengane yakho lapho nenza imithetho, maningi amathuba okuthi iyilandele. Lokhu kuchaza ukusebenza ngempumelelo! 🏆"
+
+#. type=text
+msgctxt "text"
+msgid "That's OK! Setting rules takes time and practice. ⏰ Think about the rules you would like to set and, when you feel more confident, talk about these rules with your teen. 👂 Remember, you can always review this skill in the Main Menu!"
+msgstr "Kulungile! Ukubeka imithetho kuthatha isikhathi nokuzijwayeza. ⏰ Cabanga ngemithetho ongathanda ukuyibeka bese kuthi, uma usubona ukuthi uqinisekile ngawo, khuluma ngale mithetho nengane yakho. 👂 Khumbula, ungalibuyekeza leli khono Kumenyu Enkulu!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "Amazing! 🎉 You have learnt how to make rules with your teen! You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Create Structure for My Teen."
+msgstr "Kuyancomeka! 🎉 Usufundile ukwenza imithetho nengane yakho! Usuphithule u- @(fields.c_n_mod_compl +1) wamakhono angu-@fields.c_n_mod ukuze ufinyelele injongo yakho, Sungula Isakhiwo Sengane Yami."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Family rules can help our teens stay safe from danger, both inside our homes and in the community. @fields.child_nickname is more likely to follow rules they help to make. ⭐"
+msgstr "Imithetho yomndeni ingasiza izingane zethu ukuthi zihlale ziphephile engozini, lapho zisemakhaya noma emphakathini. Kunamathuba amaningi okuthi i-@fields.child_nickname ilandele leyo mithetho nayo esizile ukuyenza. ⭐"
+
+#. type=text
+msgctxt "text"
+msgid "Family rules can help our teens stay safe from danger, both inside our homes and in the community. your teen is more likely to follow rules they help to make. ⭐"
+msgstr "Imithetho yomndeni ingasiza izingane zethu ukuthi zihlale ziphephile engozini, lapho zisemakhaya noma emphakathini. Kunamathuba amaningi okuthi ingane yakho ilandele leyo mithetho nayo esizile ukuyenza. ⭐"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Here is a video about setting family rules with @fields.child_nickname. 📖"
+msgstr "Nansi ividiyo emayelana nokubeka imithetho yomndeni ngokusebenzisana ne-@fields.child_nickname. 📖"
+
+#. type=text
+msgctxt "text"
+msgid "Here is a video about setting family rules with your teen. 📖"
+msgstr "Nansi ividiyo emayelana nokubeka imithetho yomndeni ngokusebenzisana nengane yakho. 📖"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Here's an audio message about setting family rules with @fields.child_nickname. 👂"
+msgstr "Nawu umyalezo ongawulalela omayelana nokubeka imithetho yomndeni ngokusebenzisana ne-@fields.child_nickname. 📖"
+
+#. type=text
+msgctxt "text"
+msgid "Here's an audio message about setting family rules with your teen. 👂"
+msgstr "Nawu umyalezo ongawulalela omayelana nokubeka imithetho yomndeni ngokusebenzisana nengane yakho. 📖"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This skill is about how to keep @fields.child_nickname safe online. There is so much to share. We will cover online safety over two lessons. 📱"
+msgstr "Leli khono limayelana nendlela yokugcina i-@fields.child_nickname iphephile ku-inthanethi. Kuningi okungaxoxwa ngakho. Sizoxoxa ngezokuphepha ku-inthanethi ezifundweni ezimbili. 📱"
+
+#. type=text
+msgctxt "text"
+msgid "This skill is about how to keep your teen safe online. There is so much to share. We will cover online safety over two lessons. 📱"
+msgstr "Leli khono limayelana nendlela yokugcina ingane yakho iphephile ku-inthanethi. Kuningi okungaxoxwa ngakho. Sizoxoxa ngezokuphepha ku-inthanethi ezifundweni ezimbili.📱"
+
+#. type=text
+msgctxt "text"
+msgid "Teens are spending a lot of time online. Being connected helps them stay positive and learn more! But there are also some risks and dangers. 🚩"
+msgstr "Izingane zichitha isikhathi esiningi ziku-inthanethi. Ukuxhumana kuzisiza ukuthi zihlale zinethemba nokuthi zikwazi ukufunda okuningi! Kodwa futhi bukhona ubungozi nezingozi. 🚩"
+
+#. type=text
+msgctxt "text"
+msgid "Parent: \"{F1_DAUGHTER_13}, have you done your homework?\""
+msgstr "Umzali: \"{F1_DAUGHTER_13}, usuyenziwe i-homework yakho?\""
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_13}: \"Just a minute, I'm finishing this TikTok video\""
+msgstr "{F1_DAUGHTER_13}: \"Ngizoyenza emva komzuzwana nje, ngisaqedela le vidiyo ye-TikTok\""
+
+#. type=text
+msgctxt "text"
 msgid "Parent: \"You are a really great dancer! Tell me about why you like it.\""
 msgstr "Umzali: “Uwumdansi omuhle kakhulu! Ngitshele ukuthi kungani ukuthanda.\""
 
 #. type=text
 msgctxt "text"
+msgid "{F1_DAUGHTER_13}: \"All my friends are on it. I have more than 600 likes and 120 followers.\""
+msgstr "{F1_DAUGHTER_13}: \"Bonke abangani bami bakuyo. Nginokuthandwa okungaphezulu kuka-600 nabalandeli abangu-120.\""
+
+#. type=text
+msgctxt "text"
+msgid "Parent: \"I’m proud of how well you dance, {F1_DAUGHTER_13}. But we need to make sure you are safe on this. I know your friends look at TikTok, but with an open account there are also paedophiles who look at videos of teenagers. Paedophiles are older people who want to attack young children and teens.\""
+msgstr "Umzali: \"Ngiyaziqhenya ngendlela odansa kahle ngayo, {F1_DAUGHTER_13}. Kodwa kumele siqinisekise ukuthi uphephile kulokhu. Ngiyazi abangani bakho babuka i-TikTok, kodwa nge-akhawunti evulelekile bakhona abantu abaya ocansini nezingane ezisencane ababuka amavidiyo ezingane. Abantu abaya ocansini nezingane ezisencane abafuna ukuhlasela izingane ezincane kanye nentsha.\""
+
+#. type=text
+msgctxt "text"
 msgid "Parent: \"Let’s look together online at how we can keep this fun for you but also safe. Look – you can make your account private and control who follows you. So you can accept people you know but not strangers. Can we make a rule together that you can use TikTok but with a private account? I trust you to know who to accept!\""
 msgstr "Umzali: “Ake sihlole ku-inthanethi sobabili ukuthi singenza kanjani ukuthi ukujabulele lokhu kodwa uphephe ngesikhathi esifanayo. Bheka - ungakwazi ukwenza ukuba kube abantu abathile kuphela abakwazi ukubona uhlelo lakho futhi ungakwazi nokukhetha ukuthi ubani ozokulandela kulelo hlelo. Ungakwazi ukwamukela abantu obaziyo kodwa ungabamukela abantu oongabazi. Singakwazi ukwenza umthetho ndawonye wokuhti ungawusebenzisa uTikTok kodwa ngohlelo lakho olucashile? Ngiyakwethemba ukuthi uyazi ukuthi obani ozobamukela!”"
+
+#. type=text
+msgctxt "text"
+msgid "Parent: \"I’m proud of you {F1_DAUGHTER_13}...\""
+msgstr "Umzali: \"Ngiyaziqhenya ngawe {F1_DAUGHTER_13}...\""
+
+#. type=text
+msgctxt "text"
+msgid "Keeping your teen safe online is important to help them learn more about the digital world. 📱 "
+msgstr "Ukugcina ingane yakho iphephile ku-inthanethi kubalulekile ukuyisiza ukuthi ifunde kabanzi mayelana nomhlaba wedijithali. 📱 "
+
+#. type=text
+msgctxt "text"
+msgid "Here’s a video about keeping your teen safe online."
+msgstr "Nansi ividiyo emayelana nokugcina ingane yakho iphephile ku-inthanethi."
+
+#. type=text
+msgctxt "text"
+msgid "Here's an audio message about keeping your teen safe online. 👂"
+msgstr "Nawu umlayezo ongawulalela omayelana nokugcina ingane yakho iphephile ku-inthanethi. 👂"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ *LEARN the dangers of being online:* "
+msgstr "1️⃣ *FUNDA ubungozi bokuba ku-inthanethi:* "
+
+#. type=text
+msgctxt "text"
+msgid "🚩 CONTENT: Your teen might come across harmful content, such as violence, hateful speech, pornography, wrong information, or hating women, people with disabilities, or other races, religions, sexualities, or from other countries."
+msgstr "🚩 OKUQUKETHWE: Ingane yakho ingase kungenzeka ihlangane nezinto ezilimazayo ku-inthanethi, njengodlame, inkulumo enenzondo, izithombe zocansi, ulwazi olungalungile, noma inzondo ebhekiswe kwabesifazane, abantu abaphila nokukhubazeka, noma ezinye izinhlanga, izinkolo, ezocansi, noma okunye okuvela kwamanye amazwe."
+
+#. type=text
+msgctxt "text"
+msgid "🚩 CONTACT: Adults might pretend to be teens and ask for sexual pictures or to meet with your teen through an online platform."
+msgstr "🚩 UKUXHUMANA: Abantu abadala bangase bazenze izingane bacele izithombe zocansi noma bagcine sebehlangene nengane yakho ngenkundla ye-inthanethi."
+
+#. type=text
+msgctxt "text"
+msgid "🚩 CONDUCT: Sometimes, teens or strangers can say or do hurtful things online."
+msgstr "🚩 INDLELA YOKUZIPHATHA: Kwesinye isikhathi, izingane noma abantu ezingabazi bangasho noma benze izinto ezilimazayo ku-inthanethi."
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ *PROTECT - Keep your teen safe online*"
+msgstr "2️⃣ *VIKELA - Gcina ingane yakho iphephile ku-inthanethi*"
+
+#. type=text
+msgctxt "text"
+msgid "✅ Talk to your teen about which apps and websites are safe and which are not. Discuss why!"
+msgstr "✅ Khuluma nengane yakho mayelana nama-app namawebhusayithi aphephile nokuthi yikuphi okungaphephile. Xoxani ngokuthi kungani kukanjalo!"
+
+#. type=text
+msgctxt "text"
+msgid "✅ Help your teen learn how to make strong passwords to protect their devices."
+msgstr "✅ Siza ingane yakho ukuthi ifunde ukwenza amaphasiwedi aqinile ukuze ivikele amadivayisi ayo."
+
+#. type=text
+msgctxt "text"
+msgid "That’s great! Helping your teen stay safe online is important so they can learn and connect with others. Well done for getting involved. They will be safer for it! 🔑"
+msgstr "Kuhle lokho! Ukusiza ingane yakho ukuthi ihlale iphephile ku-inthanethi kubalulekile ukuze ifunde futhi ixhumane nabanye abantu. Wenze kahle ngokuzibandakanya. Izophepha ngenxa yokuzibandakanya kwakho! 🔑"
+
+#. type=text
+msgctxt "text"
+msgid "That’s OK. Put some time aside this week to do this activity with your teen. ⏰ It’s important to talk to our teens about how to stay safe online so they can use the digital world to learn more and connect with others. You can do this! ⭐"
+msgstr "Kulungile. Zinike isikhathi kuleli sonto ukuze wenze lo msebenzi nengane yakho. ⏰ Kubalulekile ukukhuluma nezingane zethu mayelana nendlela yokuhlala iphephile ku-inthanethi ukuze isebenzise umhlaba wedijithali ngenhloso yokufunda kabanzi nokuthi ikwazi ukuxhumana nabanye abantu. Ungakwenza lokhu! ⭐"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "Amazing! 🎉 You have learnt how to keep your teen safe online. You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills in the Create Structure for My Teen Goal!"
+msgstr "Kuyancomeka! 🎉 Usufundile ukwenza imithetho nengane yakho! Usuphithule u- @(fields.c_n_mod_compl +1) wamakhono angu-@fields.c_n_mod ukuze ufinyelele injongo yakho, Sungula Isakhiwo Senjongo Yengane Yami!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Keeping @fields.child_nickname safe online is an important step to help them be part of the digital world. 📱When it comes to online safety, there are four tips to keep in mind: "
+msgstr "Ukugcina i-@fields.child_nickname iphephile ku-inthanethi kuyisinyathelo esibalulekile sokuyisiza ukuba ibe yingxenye yomhlaba wedijithali. 📱Uma kuziwa ekuphepheni ku-inthanethi, kunamasu amane okufanele uwakhumbule: "
+
+#. type=text
+msgctxt "text"
+msgid "LEARN, PROTECT, BUILD HABITS, and BUILD TRUST."
+msgstr "FUNDA, VIKELA, YAKHA IMIKHUBA, futhi WAKHE NOKUTHEMBANA."
+
+#. type=text
+msgctxt "text"
+msgid "Today, we are learn about LEARN and PROTECT. "
+msgstr "Namuhla, sifunda mayelana NOKUFUNDA kanye NOKUVIKELA. "
+
+#. type=text
+msgctxt "text"
+msgid "The next lesson will cover BUILD HABITS and BUILD TRUST."
+msgstr "Isifundo esilandelayo sizokhuluma mayelana NOKWAKHA IMIKHUBA kanye NOKWAKHA UKUTHEMBANA."
+
+#. type=text
+msgctxt "text"
+msgid "Keeping your teen safe online is an important step to help them be part of the digital world. 📱When it comes to online safety, there are four tips to keep in mind: "
+msgstr "Ukugcina ingane yakho iphephile ku-inthanethi kuyisinyathelo esibalulekile ukuyisiza ibe yingxenye yomhlaba wedijithali. 📱Uma kuziwa ekuphepheni ku-inthanethi, kunamasu amane okufanele uwakhumbule: "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Home Activity! Ask your teen what they do to stay safe online? You may find that they are already thinking about online safety. Praise your teen for any efforts they make. Can you talk with @fields.child_nickname today? 🔔"
+msgstr "Umsebenzi Wasekhaya! Buza ingane yakho ukuthi yenzani ukuze ihlale iphephile ku-inthanethi? Ungathola ukuthi isebevele icabanga ngokuphepha ku-inthanethi. Ncoma ingane yakho nganoma yimiphi imizamo eyenzayo. Ungakwazi ukukhuluma ne-@fields.child_nickname namuhla? 🔔"
+
+#. type=text
+msgctxt "text"
+msgid "Home Activity! Ask your teen what they do to stay safe online? You may find that they are already thinking about online safety. Praise your teen for any efforts they make. Can you talk with your teen today? 🔔"
+msgstr "Umsebenzi Wasekhaya! Buza ingane yakho ukuthi yenzani ukuze ihlale iphephile ku-inthanethi? Ungathola ukuthi isebevele icabanga ngokuphepha ku-inthanethi. Ncoma ingane yakho nganoma yimiphi imizamo eyenzayo. Ungakwazi ukukhuluma nengane yakho namuhla? 🔔"
+
+#. type=text
+msgctxt "text"
+msgid "This skill continues our learning about keeping our teens safe online. 📱"
+msgstr "Leli khono liqhubeka nokufunda kwethu mayelana nokugcina izingane zethu ziphephile ku-inthanethi. 📱"
+
+#. type=text
+msgctxt "text"
+msgid "The previous skill taught you ways to protect your teen online using with LEARN and PROTECT. "
+msgstr "Ikhono langaphambilini likufundise izindlela zokuvikela ingane yakho ku-inthanethi usebenzisa UKUFUNDA kanye NOKUVIKELA. "
+
+#. type=text
+msgctxt "text"
+msgid "In this skill, we will learn how to BUILD HABITS and BUILD TRUST."
+msgstr "Kuleli khono, sizofunda UKWAKHA IMIKHUBA kanye NOKWAKHA UKWETHEMBANA."
+
+#. type=text
+msgctxt "text"
+msgid "Often, our teens understand more about life online than we do, but that does not mean they know how to keep safe. Let’s test your online safety knowledge."
+msgstr "Ngokuvamile, izingane zethu ziyiqonda kangcono kunathi impilo yaku-inthanethi, kodwa lokho akusho ukuthi ziyazi ukuthi zingazigcina kanjani ziphephile ngokwazo. Ake sihlole ulwazi lwakho lokuphepha ku-inthanethi."
+
+#. type=text
+msgctxt "text"
+msgid "True or False: If I send a picture to a friend, it will only be visible to them."
+msgstr "Iqiniso noma Akulona iqiniso: Uma ngithumela isithombe kumngane, nguye kuphela ozosibona."
+
+#. type=text
+msgctxt "text"
+msgid "That’s incorrect. Even in an app where images are temporary, your friend can capture their screen and save your image. Pictures are always stored online and can be accessed by hackers."
+msgstr "Lokho akulungile. Ngisho naku-app lapho izithombe zihlala isikhashana, umngane wakho angathwebula isikhrini sakhe futhi alondoloze isithombe sakho. Izithombe zihlala zigcinwe ku-inthanethi futhi abaduni bayakwazi ukufinyelela kuzo."
+
+#. type=text
+msgctxt "text"
+msgid "That’s correct. Even in an app where images are temporary, your friend can capture their screen and save your image. Pictures are always stored online and can be accessed by hackers."
+msgstr "Ngisho naku-app lapho izithombe zihlala isikhashana, umngane wakho angathwebula isikhrini sakhe futhi alondoloze isithombe sakho. Izithombe zihlala zigcinwe ku-inthanethi futhi abaduni bayakwazi ukufinyelela kuzo."
+
+#. type=text
+msgctxt "text"
+msgid "True or False: My password is strong because you have to know my home address to guess it."
+msgstr "Iqiniso noma Akusilo iqiniso: Iphasiwedi yami iqinile ngoba kufanele wazi ikheli lami lasekhaya ukuze uyiqagele."
+
+#. type=text
+msgctxt "text"
+msgid "That’s incorrect. Most passwords are hacked because someone accesses a list of home addresses, birth dates, names or phone numbers. You should never use these details in your password as they are easily guessed."
+msgstr "Lokho akulungile. Iningi lamaphasiwedi liyadunwa ngoba kukhona umuntu othile okwazi ukuthola uhlu lwamakheli asekhaya, izinsuku zokuzalwa zabantu, amagama noma izinombolo zocingo. Akufanele usebenzise le mininingwane kuphasiwedi yakho ngoba kwenza ukuthi iqageleke kalula."
+
+#. type=text
+msgctxt "text"
+msgid "That’s correct. Most passwords are hacked because someone accesses a list of home addresses, birth dates, names or phone numbers. You should never use these details in your password as they are easily guessed."
+msgstr "Lokho kulungile. Iningi lamaphasiwedi liyadunwa ngoba kukhona umuntu othile okwazi ukuthola uhlu lwamakheli asekhaya, izinsuku zokuzalwa zabantu, amagama noma izinombolo zocingo. Akufanele usebenzise le mininingwane kuphasiwedi yakho ngoba kwenza ukuthi iqageleke kalula."
+
+#. type=text
+msgctxt "text"
+msgid "True or False: Links sent to me by my family and friends are safe to click on."
+msgstr "Iqiniso noma Akulona iqiniso: Amalinki engithunyelelwa wona ngumndeni wami nabangane aphephile ukuthi ngingachofoza."
+
+#. type=text
+msgctxt "text"
+msgid "That’s incorrect. Your family member’s email or phone account could have been hacked and the link could be dangerous. Hackers will try to trick you. Always double-check a link before clicking on it to make sure you’re visiting a trusted website. If you don’t recognize the web address, don’t click on it."
+msgstr "Lokho akulungile. I-imeyili yelungu lakho lomndeni noma i-akhawunti yefoni kungenzeka ukuthi iduniwe lokhu kungenza ukuthi nelinki ibe yingozi. Abaduni bazozama ukukukhohlisa. Ngaso sonke isikhathi hlolisisa ilinki ngaphambi kokuchofoza kuyo ukuze uqiniseke ukuthi ungena kuwebhusayithi ethembekile. Uma ungalazi ikheli lewebhu, ungalichofozi."
+
+#. type=text
+msgctxt "text"
+msgid "That’s right. Your family member’s email or phone account could be hacked. Always double-check a link before clicking on it to make sure you’re visiting a trusted website. If you don’t recognize the web address, don’t click on it."
+msgstr "Lokho kulungile. I-imeyili yelungu lakho lomndeni noma i-akhawunti yefoni kungenzeka ukuthi iduniwe. Ngaso sonke isikhathi hlolisisa ilinki ngaphambi kokuchofoza kuyo ukuze uqiniseke ukuthi ungena kuwebhusayithi ethembekile. Uma ungalazi ikheli lewebhu, ungalichofozi."
+
+#. type=text
+msgctxt "text"
+msgid "Keeping your teen safe online is important to help them learn more about the digital world. 📱"
+msgstr "Ukugcina ingane yakho iphephile ku-inthanethi kubalulekile ngoba okho kuyisiza ukuthi ifunde kabanzi mayelana nomhlaba wedijithali. 📱"
+
+#. type=text
+msgctxt "text"
+msgid "Here’s a 2nd video about keeping your teen safe online."
+msgstr "Nansi ividiyo yesi-2 emayelana nokugcina ingane yakho iphephile ku-inthanethi."
+
+#. type=text
+msgctxt "text"
+msgid "Here's a second audio message about keeping your teen safe online. 👂"
+msgstr "Nawu umlayezo wesibili ongawulalela omayelana nokugcina ingane yakho iphephile ku-inthanethi. 👂"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ *BUILD HABITS*"
+msgstr "1️⃣ *UKWAKHA IMIKHUBA*"
+
+#. type=text
+msgctxt "text"
+msgid "Set up safe online habits at home. "
+msgstr "Yenza imikhuba ephephile ku-inthanethi ekhaya. "
+
+#. type=text
+msgctxt "text"
+msgid "✅ Plan phone-free times in your house, like during meals, homework, or in bed."
+msgstr "✅ Hlela izikhathi zokuthi kungabibikho umuntu osebenzisa ifoni endlini yakho, njengesikhathi sokudla, sokwenza i-homework, noma sokuyolala."
+
+#. type=text
+msgctxt "text"
+msgid "✅ Only let your teen chat online with people they already know. They should never share personal information in a chat room or with strangers."
+msgstr "✅ Vumela kuphela ingane yakho ukuthi ixoxe ku-inthanethi nabantu esivele ibazi. Akufanele nanini inikezele ngemininingwane yayo engosini yezingxoxo noma nabantu ebangabazi."
+
+#. type=text
+msgctxt "text"
+msgid "✅ Before completing forms that ask for personal information, check that the web address begins with https://. Websites that begin with http:// may not be secure."
+msgstr "✅ Ngaphambi kokugcwalisa amafomu afuna imininingwane yakho, hlola ukuthi ikheli lewebhu liqala ngokuthi https://. Amawebhusayithi aqala ngo-http:// kungenzeka angavikeleki."
+
+#. type=text
+msgctxt "text"
+msgid "✅ Help your teen create strong passwords for their accounts. They should be long, not include obvious personal information like your name or birthday, and include upper and lower case letters, numbers and symbols.\""
+msgstr "✅ Siza ingane yakho ukuthi isungule amaphasiwedi aqinile wama-akhawunti ayo. Kufanele abe made, angabi nemininingwane yayo njengegama lakho noma usuku lwayo lokuzalwa, futhi abe nosonhlamvukazi kanye nezinhlamvu ezincane, nezinombolo kanye nezimpawu.\""
+
+#. type=text
+msgctxt "text"
+msgid "✅ Tell your teen not to click on pop-ups that ask them to download or pay for anything."
+msgstr "✅ Tshela ingane yakho ukuthi ingachofozi kuma-pop-ups ayicela ukuthi i-idownload(e) noma ikhokhele okuthile."
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ *BUILD TRUST with your teen.*"
+msgstr "2️⃣ *YAKHA UKWETHEMBANA nengane yakho.*"
+
+#. type=text
+msgctxt "text"
+msgid "✅ Together, look at websites, social media, games, and apps your teen uses. "
+msgstr "✅ Bhekisanani nobabili amawebhusayithi, izinkundla zokuxhumana, imidlalo, nama-app asetshenziswa yingane yakho. "
+
+#. type=text
+msgctxt "text"
+msgid "✅ Ask questions - this helps you learn more about your teen’s interests!"
+msgstr "✅ Buza imibuzo - lokhu kukusiza ukuthi ufunde kabanzi mayelana nalokho okuthandwa yingane yakho!"
+
+#. type=text
+msgctxt "text"
+msgid "✅If you come across anything worrying together, talk about it with your teen."
+msgstr "✅Uma uhlangabezana nanoma yini enikhathazayo nengane yakho, xoxa ngayo nengane yakho."
+
+#. type=text
+msgctxt "text"
+msgid "✅Tell your teen that they should tell an adult if they feel scared, unsafe or upset about something online."
+msgstr "✅Tshela ingane yakho ukuthi kufanele itshele umuntu omdala uma izizwa yethukile, ingaphephile noma iphatheke kabi ngokuthile okuku-inthanethi."
+
+#. type=text
+msgctxt "text"
+msgid "Home Activity! Take these steps to keep your teen safe online:"
+msgstr "Umsebenzi Wasekhaya! Thatha lezi zinyathelo ukuze ugcine ingane yakho iphephile ku-inthanethi:"
+
+#. type=text
+msgctxt "text"
+msgid " 📝 Write down or draw the apps and websites your teen uses"
+msgstr " 📝 Bhala phansi noma udwebe ama-app namawebhusayithi asetshenziswa ingane yakho"
+
+#. type=text
+msgctxt "text"
+msgid "😃 Praise your teen for how good they are at using the web!"
+msgstr "😃 Ncoma ingane yakho mayelana nendlela efanele esebenzisa ngayo iwebhu!"
+
+#. type=text
+msgctxt "text"
+msgid "🔴 Talk about which sites or apps might be unsafe. Why?"
+msgstr "🔴 Khuluma mayelana nokuthi imaphi amasayithi noma ama-app okungenzeka angaphephi. Nokuthi kungani engaphephile?"
+
+#. type=text
+msgctxt "text"
+msgid "📱 Together, talk about how your teen and their friends can use the internet more safely."
+msgstr "📱 Xoxani nindawonye nobabili mayelana nokuthi ingane yakho kanye nabangane bayo bangayisebenzisa kanjani i-inthanethi ngokuphepha."
+
+#. type=text
+msgctxt "text"
+msgid "Can you and your teen complete this task today? 🔔"
+msgstr "Ungakwazi yini wena kanye nengane yakho ukuphothula lo msebenzi namuhla? 🔔"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Keeping @fields.child_nickname safe online is an important step to help them be part of the digital world. 📱 Today, we are learning how to BUILD HABITS and BUILD TRUST."
+msgstr "Ukugcina i-@fields.child_nickname iphephile ku-inthanethi kuyisinyathelo esibalulekile sokuyisiza ukuthi ibe yingxenye yomhlaba wedijithali. 📱 Namuhla, sifunda indlela emayelana NOKWAKHA IMIKHUBA kanye NOKWAKHA UKWETHEMBANA."
+
+#. type=text
+msgctxt "text"
+msgid "Keeping your teen safe online is an important step to help them be part of the digital world. 📱 Today, we are learning how to BUILD HABITS and BUILD TRUST."
+msgstr "Ukugcina ingane yakho iphephile ku-inthanethi kuyisinyathelo esibalulekile sokuyisiza ukuthi ibe yingxenye yomhlaba wedijithali. 📱 Namuhla, sifunda indlela emayelana NOKWAKHA IMIKHUBA kanye NOKWAKHA UKWETHEMBANA."
 
 #. type=text
 msgctxt "text"
