@@ -45,37 +45,27 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Welcome to ParentText, your partner in parenting. Please select your language: "
+msgid "Please type your participant ID from mothers2mothers."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Please select your language: "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Sicela ukhethe ulimi lwakho:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Sicela kutsi ukhetse lulwimi lwakho:"
 msgstr ""
 
 #. type=text
 msgctxt "text"
 msgid "Please select your language:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time. How many years old is the child you are focused on?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Please reply with a number between 0 and 17."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "This looks too old. ParentText is only for children aged 0-17."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Sorry, I don't understand what you mean. Please reply with a number between 0 and 17."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "How many years old is the child you are focused on?"
 msgstr ""
 
 #. type=text
@@ -107,11 +97,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Click here for more information:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "https://covid19parenting.com/assets/consents/eng.pdf"
 msgstr ""
 
 #. type=text
@@ -198,30 +183,13 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "@fields.child_nickname is @(datetime_diff(results.date,now(),\"M\")) month old. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Is that correct?"
+msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 10-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "your baby is @(datetime_diff(results.date,now(),\"M\")) month old. "
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgid "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 10-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
 msgstr ""
 
 #. type=text
@@ -233,19 +201,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 0-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 0-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgid "your teen is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
 msgstr ""
 
 #. type=text
@@ -274,19 +230,19 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Star (text, images, audio, video)"
+msgid "Text, Images, and Videos"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Boosted (text, images, audio)"
+msgid "Text, Images, and Audio"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Core (text and images)"
+msgid "Text and Images Only"
 msgstr ""
 
 #. type=quick_replies
@@ -358,6 +314,18 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Zulu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Swazi"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "YES"
 msgstr ""
 
@@ -412,19 +380,19 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "star (text, images, audio, video)"
+msgid "text, images, and videos"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "boosted (text, images, audio)"
+msgid "text, images, and audio"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "core (text and images)"
+msgid "text and images only"
 msgstr ""
 
 #. type=arguments
@@ -491,6 +459,18 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "english"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "zulu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "swazi"
 msgstr ""
 
 #. type=arguments
