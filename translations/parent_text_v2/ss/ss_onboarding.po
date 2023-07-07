@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swati\n"
 "\n"
 "Language: ss_ZA\n"
-"PO-Revision-Date: 2023-07-06 15:37\n"
+"PO-Revision-Date: 2023-07-07 18:15\n"
 
 #. type=text
 msgctxt "text"
@@ -56,38 +56,28 @@ msgstr "Ngubani libito lemntfwanakho?"
 
 #. type=text
 msgctxt "text"
-msgid "Welcome to ParentText, your partner in parenting. Please select your language: "
-msgstr "Siyakwemukela kuParentText, lobambisene nawe ekubeni ngumtali. Sicela kutsi ukhetse lulwimi lwakho: "
+msgid "Please type your participant ID from mothers2mothers."
+msgstr "Sicela uthayiphe inombolo yakho yekuhlanganyela lephuma ku-mothers2mothers."
+
+#. type=text
+msgctxt "text"
+msgid "Please select your language: "
+msgstr "Sicela ukhetse lulwimi lwakho: "
+
+#. type=text
+msgctxt "text"
+msgid "Sicela ukhethe ulimi lwakho:"
+msgstr "Sicela ukhetse lulwimi lwakho:"
+
+#. type=text
+msgctxt "text"
+msgid "Sicela kutsi ukhetse lulwimi lwakho:"
+msgstr "Sicela kutsi ukhetse lulwimi lwakho:"
 
 #. type=text
 msgctxt "text"
 msgid "Please select your language:"
 msgstr "Sicela ukhetse lulwimi lwakho:"
-
-#. type=text
-msgctxt "text"
-msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time. How many years old is the child you are focused on?"
-msgstr "I-ParentText itokusita ngabo bonkhe bantwabakho emphilweni yakho, kepha kuloluhlelo, sicondzana nemntfwana munye ngesikhatsi sinye. Uneminyaka lemingaki lomntfwana locondzene naye?"
-
-#. type=text
-msgctxt "text"
-msgid "Please reply with a number between 0 and 17."
-msgstr "Sicela uphendvule ngenonmbolo lesemkhatsini wa 0 na 17."
-
-#. type=text
-msgctxt "text"
-msgid "This looks too old. ParentText is only for children aged 0-17."
-msgstr "Ubukeka amdzala kakhulu. I-ParentText yebantfwana labaneminyaka lengu 0-17."
-
-#. type=text
-msgctxt "text"
-msgid "Sorry, I don't understand what you mean. Please reply with a number between 0 and 17."
-msgstr "Ngiyacolisa, angivisisi kahle kutsi utsini. Sicela kutsi uphendvule ngenombolo lesemkhatsini wa 0 na 17."
-
-#. type=text
-msgctxt "text"
-msgid "How many years old is the child you are focused on?"
-msgstr "Uneminyaka lemingaki lomntfwana locondzene naye?"
 
 #. type=text
 msgctxt "text"
@@ -119,11 +109,6 @@ msgstr "❓Uma unemibuto, buta Dr. Jamie Lachman ku jamie.lachman@spi.ox.ac.uk; 
 msgctxt "text"
 msgid "Click here for more information:"
 msgstr "Facata lapha utotfola lwati lolunye:"
-
-#. type=text
-msgctxt "text"
-msgid "https://covid19parenting.com/assets/consents/eng.pdf"
-msgstr "https://covid19parenting.com/assets/consents/eng.pdf"
 
 #. type=text
 msgctxt "text"
@@ -209,31 +194,14 @@ msgstr "Asiphindze sitame. Gcwalisa lusuku lwekutalwa kwemntfwanakho ngalendlela
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "@fields.child_nickname is @(datetime_diff(results.date,now(),\"M\")) month old. "
-msgstr "@fields.child_nickname unetinyanga @(datetime_diff(results.date,now(),\"M\")) budzala. "
-
-#. type=text
-msgctxt "text"
-msgid "Is that correct?"
-msgstr "Kuliciniso yini?"
+msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 10-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ngekwelusuku losinikete lona, @fields.child_nickname kuyawube uneminyaka lengu @(round_down(datetime_diff(results.date,now(),\"M\")/12)) budzala. I-ParentText yebantfwana labaneminyaka lengu 10-17. Sicela ufake lusuku lwekutalwa lwemntfwanakho lolungilo ngalendlela: DD/MM/YYYY. Sibonelo, uma ngabe umntfwankho atalwa ngeNkhwekhweti 19, 2012, gcwalisa 19/05/2010."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "your baby is @(datetime_diff(results.date,now(),\"M\")) month old. "
-msgstr "Luswane lwakho lunetinyanga leti @(datetime_diff(results.date,now(),\"M\")) budzala. "
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
-msgstr "@fields.child_nickname uneminyaka le @(round_down(datetime_diff(results.date,now(),\"M\")/12)) budzala. Ngabe kuliciniso yini?"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
-msgstr "Umntfwanakho uneminyaka le @(round_down(datetime_diff(results.date,now(),\"M\")/12)) budzala. Ngabe kuliciniso yini?"
+msgid "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 10-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ngekwelusuku losinikete lona, umntfwanakho kuyawube uneminyaka lengu @(round_down(datetime_diff(results.date,now(),\"M\")/12)) budzala. I-ParentText yebantfwana labaneminyaka lengu 10-17. Sicela ufake lusuku lwekutalwa lwemntfwanakho lolungilo ngalendlela: DD/MM/YYYY. Sibonelo, uma ngabe umntfwankho atalwa ngeNkhwekhweti 19, 2012, gcwalisa 19/05/2010."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -244,20 +212,8 @@ msgstr "@fields.child_nickname uneminyaka le  @(round_down(datetime_diff(results
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
-msgstr "Umntfwanakho uneminyaka le @(round_down(datetime_diff(results.date,now(),\"M\")/12)) budzala.  Ngabe kuliciniso yini?"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 0-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Ngekwelusuku lolugcwalisile, @fields.child_nickname angahle abe neminyaka le @(round_down(datetime_diff(results.date,now(),\"M\")/12)) budzala. I-ParentText yebantfwana labaneminyaka lengu 0-17 kuphela. Sicela ugcwalise lusuku lolungilo lwekutalwa kwemntfwanakho ngalendlela: DD/MM/YYYY. Sibonelo, uma ngabe umntfwanakho atalwa mhlaka 19 ngeNKhwenkhweti, 2010, gcwalisa 19/05/2010."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 0-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Ngekwelusuku lolugcwalisile, umntfwanakho angahle abe neminyaka le @(round_down(datetime_diff(results.date,now(),\"M\")/12)) budzala. I-ParentText yebantfwana labaneminyaka lengu 0-17 kuphela. Sicela ugcwalise lusuku lolungilo lwekutalwa kwemntfwanakho ngalendlela: DD/MM/YYYY. Sibonelo, uma ngabe umntfwanakho atalwa mhlaka 19 ngeNkhwenkhweti, 2010, gcwalisa 19/05/2010."
+msgid "your teen is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
+msgstr "umntfwankho losatfombile una @(round_down(datetime_diff(results.date,now(),\"M\")/12)) yeminyaka budzala.  Kuliciniso yini?"
 
 #. type=text
 msgctxt "text"
@@ -285,20 +241,20 @@ msgstr "Lokunye nje"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Star (text, images, audio, video)"
-msgstr "Inkhanyeti (umbhalo, imifanekiso, kwekulalelwa, vidiyo)"
+msgid "Text, Images, and Videos"
+msgstr "Emagama, Imifanekiso, nemaVidiyo"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Boosted (text, images, audio)"
-msgstr "Lokukhulisiwe (umbhalo, imifanekiso, vidiyo)"
+msgid "Text, Images, and Audio"
+msgstr "Emagama, iMifanekiso, naLokulalelwako"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Core (text and images)"
-msgstr "Ingcikitsi (umbhalo nemifanekiso)"
+msgid "Text and Images Only"
+msgstr "Emagama nemiFanekiso kuphela"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -369,6 +325,18 @@ msgstr "Singisi"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Zulu"
+msgstr "SiZulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Swazi"
+msgstr "SiSwati"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "YES"
 msgstr "YEBO"
 
@@ -423,20 +391,20 @@ msgstr "lokunye nje"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "star (text, images, audio, video)"
-msgstr "inkhanyeti (umbhalo, imifanekiso, lokulalelwako, vidiyo)"
+msgid "text, images, and videos"
+msgstr "emagama, imifanekiso, nemavidiyo"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "boosted (text, images, audio)"
-msgstr "lokukhulisiwe (umbhalo, imifanekiso, lokulalelwako)"
+msgid "text, images, and audio"
+msgstr "emagama, imifanekiso, nalokulalelwako"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "core (text and images)"
-msgstr "ingcikitsi (umbhalo, imifanekiso)"
+msgid "text and images only"
+msgstr "emagama nemifanekiso kuphela"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -503,6 +471,18 @@ msgstr "umfana"
 msgctxt "arguments"
 msgid "english"
 msgstr "singisi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "zulu"
+msgstr "sizulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "swazi"
+msgstr "siswati"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
