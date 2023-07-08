@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swati\n"
 "\n"
 "Language: ss_ZA\n"
-"PO-Revision-Date: 2023-07-07 18:15\n"
+"PO-Revision-Date: 2023-07-08 00:11\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -73,14 +73,305 @@ msgid "You are so close to completing the course! You only have one goal left,"
 msgstr "Sekusele kancane nje kutsi ucedze loluhlelo lwekufundza! Sewusalelwe ngumgomo munye,"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It’s time to pick a new parenting goal! You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?@results.message_options"
+msgstr "Sesikhatsi sekukhetsa umgomo lomusha wekuba ngumtali! Sewucedze imigomo lengu @fields.n_goals_completed kulengu @fields.n_goals_prog. Ngumuphi umgomo lofuna ulandzele kuwusebenta?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "You only have one goal to start"
+msgstr "Kunemgomo munye kuphela lofanele uwucale"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?@results.message_options"
+msgstr "Sewucedze imigomo lengu @fields.n_goals_completed of @fields.n_goals_prog. Ngumuphi umgomo lofuna ulandzele kuwusebenta?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 You have completed the course and earned yourself the Positive Parenting Trophy 🏆. Well done!"
+msgstr "🎉Ukwentile! Siyakuhalalisela!🎉 Sewulucendzile loluhlelo lwekufundza futsi sewutitfolele Indzebe Yekuba Ngumtali Lokahle 🏆. Wente kahle!"
+
+#. type=text
+msgctxt "text"
+msgid "You have almost completed ParentText! Only this goal remains:"
+msgstr "Sekusele kancane kwekutsi ucedze iParentText! Sekusele lomgomo lona nje kuphela:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have seen all the goals and you have started @fields.n_goals_started goals. Which one would you like to complete?@results.message_options"
+msgstr "Sewuyibone yonkhe imigomo futsi sewucale imigomo lengu @fields.n_goals_started. Ngumuphi lofuna kuwucedza?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "There are no goals to start"
+msgstr "Sekute imigomo longayicala"
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following goal to start"
+msgstr "Sewusalelwe ngulomgomo lolandzelako kuphela kwekutsi uwucale"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to begin this goal?"
+msgstr "Ungatsandza yini kucala lomgomo?"
+
+#. type=text
 msgctxt "text"
 msgid "That's okay."
 msgstr "Kukahle loko."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Which new goal would you like to start?@results.message_options"
+msgstr "Ngumuphi umgomo lomusha longatsandza kuwucala?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "There are no goals started"
+msgstr "Kusete imigomo lecaliwe"
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following goal started"
+msgstr "Sewusalelwe ngulomgomo lolandzelako localiwe"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Which unfinished goal would you like to complete?@results.message_options"
+msgstr "Ngumuphi umgomo longakapheli longatsandza kuwucedza?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "There are no goals to complete"
+msgstr "Sekute imigomo lefanele icedvwe"
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following goal to complete"
+msgstr "Sewusalelwe ngulomgomo lolandzelako kuwucedza"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Great! Which unfinished goal would you like to complete?@results.message_options"
+msgstr "Kuhle kakhulu! Ngumuphi umgomo longakapheli longatsandza kuwucedza?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "You're almost finished with this goal! You only have 1 lesson remaining, "
+msgstr "Sekusele kancane kwekutsi ucedze lomgomo lona! Sewusalelwe sifundvo sinye "
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do?"
+msgstr "Ufuna kwentani?"
+
+#. type=text
+msgctxt "text"
+msgid "That’s okay. You can only earn your Parenting Trophy when all badges are earned. When you are ready, you can return to complete this goal through the Progress Tracker in the Main Menu by typing ‘menu’."
+msgstr "Kulungile loko. Indzebe Yekuba Ngumtali ungayitfola kuphela uma sekutfolakele tonkhe timbeji. Uma sewulungele, ungabuyela ucedzele lomgomo lona ngekusebentisa i-Progress Tracker lekuMenyu Lenkhulu ngekuthayipha 'menu'."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. Which skill would you like to complete?@results.message_options"
+msgstr "Sekusele kancane kwekutfi ucedze lomgomo lona! Unemakhono langu @fields.c_n_mod_started longakawacedzi. Nguliphi likhono lofuna kulicedzela?@results.message_options"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.c_mod_started) +1). Leave this goal unfinished and select a new goal"
+msgstr "@(word_count(fields.c_mod_started) +1). Yekela lomgomo lona ungakapheli bese ukhetsa umgomo lomusha"
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following skill to complete:"
+msgstr "Sewusalelwe kulelikhono lelilandzelako kutsi ucedze:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Which skill would you like to complete?@results.message_options"
+msgstr "Nguliphi likhono longatsandza kulicedzela?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't started to work on a goal yet."
+msgstr "Usengakacali kusebenta umgomo."
+
+#. type=text
+msgctxt "text"
+msgid "You have only started the goal"
+msgstr "Usacedza kucala lomgomo"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like support on it?"
+msgstr "Ungatsandza kwekutsi usekelwe kuwenta?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can access more information at any time in the Main Menu"
+msgstr "Kulungile loko. Ungatfola lolunye lwati noma nini kuMenyu Lenjhulu"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "What are you struggling with?@results.message_options"
+msgstr "Yini lokukunika bumatima?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any skill yet."
+msgstr "Awukacedzi nalinye likhono."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Which goal do you want to review?@results.message_options"
+msgstr "Ngumuphi umgomo lofuna kuwubuketa?@results.message_options"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.goals_accessed) +1). Return to Main Menu"
+msgstr "@(word_count(fields.goals_accessed) +1). Buyela kuMenyu Lenkhulu"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any skill in this goal yet."
+msgstr "Awukacedzi nalinye likhono kulomgomo lona."
+
+#. type=text
+msgctxt "text"
+msgid "You have only completed the following skill:"
+msgstr "Sewucedze lelikhono lelilandzelako kuphela:"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to review it?"
+msgstr "Ungatsandza yini kulibuketa?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can come back here at any time to review it."
+msgstr "Kulungile loko. Ungaphindze ubuye lapha noma nini utolibuketa."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have completed @fields.n_s_modules_compl skills within this goal. Which skill do you want to review?@results.message_options"
+msgstr "Sewucedze emakhono langu @fields.n_s_modules_compl kulomgomo lona. Nguliphi likhono lofuna kulibuketa?@results.message_options"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.s_modules_compl) +1). Return to Main Menu"
+msgstr "@(word_count(fields.s_modules_compl) +1). Buyela kuMenyu Lenkhulu"
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do next?"
+msgstr "Yini lokulandzelako longatsandza kukwenta?"
+
+#. type=text
+msgctxt "text"
+msgid "Great, see you tomorrow!"
+msgstr "Kuhle kakhulu, sitokubona kusasa!"
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your teen?"
+msgstr "Ngumsebenti lonjani longatsandza kuwutama nentfwankho losatfombile?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to begin now or tomorrow?"
+msgstr "Ufuna kucala nyalo noma kusasa?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Well done!"
+msgstr "🎉SIYAKUHALALISELA!🎉 Sewutitfolele imbeji futsi wacedza @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Wente kahle kakhulu!"
+
+#. type=text
+msgctxt "text"
+msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu."
+msgstr "Khumbula, uma udzinga kusekelwa kutejwayeta lamakhono lowafundzile, ungatfola lolunye lusito ku-Troubleshooting, letfolakala kuMenyu Lenkhulu."
+
+#. type=text
+msgctxt "text"
+msgid "You have made great progress. Are you ready to select your next parenting goal?"
+msgstr "Sewuchubekile kakhulu impela. Ngabe sewulungele yini kukhetsa umgomo wakho wekuba ngumtali lolandzelako?"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText has begun. Are you ready to complete your registration and select your parenting goals?"
+msgstr "I-ParentText seyicalile. Sewulungele yini kucedzela kubhalisa kwakho nekukhetsa imigomo yakho yekuba ngumtali?"
+
+#. type=text
+msgctxt "text"
+msgid "You’re off track! Do you want to complete a previous skill or start a new skill?"
+msgstr "Sewuphumile endleleni! Ufuna kucedzela likhono lelingembili noma kucala likhono lelisha?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to catch up and proceed to the next skill?"
+msgstr "Ufuna kucedzela noma kuchubeka uye kulelikhono lelilandzelako?"
+
+#. type=text
+msgctxt "text"
+msgid "You're almost finished with this goal! You only have 1 unfinished skill. What would you like to do?"
+msgstr "Sekusele kancane kwekutsi ucedze lomgomo! Sewusalelwe likhono linye lelingakapheli. Ufuna kwentanjani?"
+
+#. type=text
+msgctxt "text"
+msgid "That’s okay. You can only earn your Parenting Badge when all skills are completed. You can return to complete this goal through the Progress Tracker in the Main Menu by typing ‘menu’."
+msgstr "Kulungile loko. Imbeji Yekuba Ngumtali ungayitfola kuphela uma sekupheleliswe onkhe emakhono. Ungabuyela uyocedzela lomgomo ngekusebentisa i-Parent Tracker kuMenyu Lenkhulu ngekuthayipha 'menu'."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. What would you like to do?"
+msgstr "Sekusele kancane kwekutsi ucedze lomgomo! Sewumakhono langu @fields.c_n_mod_started longakawacedzi. Ufuna kwentanjani?"
+
+#. type=text
 msgctxt "text"
 msgid "What do you want to do next?"
 msgstr "Ufuna kwenta ini kulokulandzelako?"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for participating. If you want to return to the programme, type \"START\". "
+msgstr "Siyabonga kuhlanganyela kwakho. Uma ufina kubuyela kuloluhlelo, thayipha \"START\". "
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon! "
+msgstr "Siyetsemba sitokubona futsi masinyane! "
+
+#. type=text
+msgctxt "text"
+msgid "Sorry I don't understand what you mean."
+msgstr "Ngiyacolisa, angivisisi kutsi usho kutsini."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: to have a healthy relationship with my partner. "
+msgstr "Siyabonga kwekutsi ulungise simo sekuhlabana kwakho. Sewuvule sikhiya semgomo lomusha wekufundza: wekuba nebuhlobo lobukahle nemlingani wakho. "
+
+#. type=text
+msgctxt "text"
+msgid "You have reached the end of this skill! 🎉 "
+msgstr "Sewufike ekugcineni kwaelikhonol! 🎉 "
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
