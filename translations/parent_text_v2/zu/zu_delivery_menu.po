@@ -1,0 +1,1361 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: 652eb1a39a0f8681c408f40296bb88b4\n"
+"X-Crowdin-Project-ID: 3\n"
+"X-Crowdin-Language: zu\n"
+"X-Crowdin-File: /main/translations/parent_text_v2/en/delivery_menu.pot\n"
+"X-Crowdin-File-ID: 171\n"
+"Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
+"Language-Team: Zulu\n"
+"\n"
+"Language: zu_ZA\n"
+"PO-Revision-Date: 2023-07-10 16:47\n"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "In this goal, you will gain @fields.c_n_mod new skills. You will receive a new lesson each day. Today you will begin the first skill, @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
+msgstr "Kulo mgomo, uzothola @fields.c_n_mod amakhono amasha. Uzothola isifundo esisha usuku ngalunye.Namuhla uzoqala ikhono lokuqala,@(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod skills in this goal. Today you will begin working on the skill @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
+msgstr "Usuqede u- @fields.c_n_mod_compl wamakhono angu-@fields.c_n_mod kulo mgomo. Namuhla uzoqala ukusebenza ngekhono@(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
+
+#. type=text
+msgctxt "text"
+msgid "Let’s get started. Press NEXT to begin."
+msgstr "Ake siqale. Cindezela okuthi LANDELAYO ukuze uqalise."
+
+#. type=text
+msgctxt "text"
+msgid "Congratulations! You have earned yourself a badge. You are now ready to begin the course. ⭐"
+msgstr "Siyakuhalalisela! Uzitholele ibheji. Manje usukulungele ukuqala isifundo. ⭐"
+
+#. type=text
+msgctxt "text"
+msgid "Now that you've relaxed, it's time to pick your goal."
+msgstr "Manje njengoba ukhululekile, sekuyisikhathi sokukhetha umgomo wakho."
+
+#. type=text
+msgctxt "text"
+msgid "NA"
+msgstr "NA"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@(text_slice(results.message_options,5))."
+msgstr "@(text_slice(results.message_options,5))."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This course has @fields.n_goals_prog goals, which one do you want to work on first?@results.message_options"
+msgstr "Lesi sifundo sinemigomo engu-@fields.n_imigomo_prog, yimuphi ofuna ukusebenza ngawo kuqala?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "Ngiyaxolisa, angiqondi ukuthi uthini."
+
+#. type=text
+msgctxt "text"
+msgid "You have seen all the goals "
+msgstr "Usuyibonile yonke imigomo "
+
+#. type=text
+msgctxt "text"
+msgid "You are so close to completing the course! You only have one goal left,"
+msgstr "Ususondele kakhulu ekuqedeni isifundo! Usele ngomgomo owodwa kuphela,"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It’s time to pick a new parenting goal! You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?@results.message_options"
+msgstr "Isikhathi sokukhetha umgomo omusha wokuba umzali! Uqede u- @fields.n_goals_completed engu-@fields.n_goals_prog goals. Imuphi umgomo ongathanda ukusebenza kuwo ngokulandelayo?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "You only have one goal to start"
+msgstr "Unomgomo owodwa kuphela okufanele uwuqale"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?@results.message_options"
+msgstr "Uqedele @fields.n_goals_completed engu- @fields.n_imigomo_prog wemigomo. Imuphi umgomo ongathanda ukusebenza kuwo ngokulandelayo?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 You have completed the course and earned yourself the Positive Parenting Trophy 🏆. Well done!"
+msgstr "🎉Ukwenzile! Halala!🎉 Usiqedile isifundo futhi uzitholele Indondo Yokuba umzali Enhle 🏆. Wenze kahle!"
+
+#. type=text
+msgctxt "text"
+msgid "You have almost completed ParentText! Only this goal remains:"
+msgstr "Usuzoqeda i-ParentText! Lo mgomo iwona kuphela osele:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have seen all the goals and you have started @fields.n_goals_started goals. Which one would you like to complete?@results.message_options"
+msgstr "Uyibonile yonke imigomo futhi usuqalile u-@fields.n_goals_started wemigomo. Iyiphi ongathanda ukuyiqedela?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "There are no goals to start"
+msgstr "Ayikho imigomo okumele uyiqale"
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following goal to start"
+msgstr "Unomgomo olandelayo kuphela wokuqalisa"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to begin this goal?"
+msgstr "Ungathanda ukuqala lo mgomo?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay."
+msgstr "Kulungile."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Which new goal would you like to start?@results.message_options"
+msgstr "Imuphi umgomo omusha ongathanda ukuwuqala?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "There are no goals started"
+msgstr "Ayikho imigomo eqaliwe"
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following goal started"
+msgstr "Unomgomo olandelayo kuphela oqaliwe"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Which unfinished goal would you like to complete?@results.message_options"
+msgstr "Imuphi umgomo ongaqediwe ongathanda ukuwugcwalisa?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "There are no goals to complete"
+msgstr "Ayikho imigomo okufanele uyiqedele"
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following goal to complete"
+msgstr "Unomgomo olandelayo kuphela okumele uwenze"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Great! Which unfinished goal would you like to complete?@results.message_options"
+msgstr "Kuhle! Imuphi umgomo ongaqediwe ongathanda ukuwuqedela?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "You're almost finished with this goal! You only have 1 lesson remaining, "
+msgstr "Usuzoqeda ngalo mgomo! Unesifundo esi-1 kuphela esisele, "
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do?"
+msgstr "Ungathanda ukwenzani?"
+
+#. type=text
+msgctxt "text"
+msgid "That’s okay. You can only earn your Parenting Trophy when all badges are earned. When you are ready, you can return to complete this goal through the Progress Tracker in the Main Menu by typing ‘menu’."
+msgstr "Kulungile. Ungazuza kuphela indondo yakho yomzali uma wonke amabheji ezuziwe. Uma usulungile, ungabuya ukuze uqedele lo mgomo nge-Progress Tracker kwi-Menyu enkulu ngokuthayipha ‘imenyu’."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. Which skill would you like to complete?@results.message_options"
+msgstr "Usuzoqeda ngalo mgomo! Uno- @fields.c_n_mod_started wamakhono angaqediwe. Yiliphi ikhono ongathanda ukuliqedela?@results.message_options"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.c_mod_started) +1). Leave this goal unfinished and select a new goal"
+msgstr "(inani_lamagama(fields.c_mod_started) +1). Shiya lo mgomo ungaqediwe bese ukhetha umgomo omusha"
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following skill to complete:"
+msgstr "Unekhono elilandelayo kuphela okufanele uliqedele:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Which skill would you like to complete?@results.message_options"
+msgstr "Yiliphi ikhono ongathanda ukuliqedela?@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't started to work on a goal yet."
+msgstr "Awukakaqali ukusebenzela umgomo okwamanje."
+
+#. type=text
+msgctxt "text"
+msgid "You have only started the goal"
+msgstr "Usanda kuwuqala lo mgomo"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like support on it?"
+msgstr "Ungathanda ukwesekwa kukho?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can access more information at any time in the Main Menu"
+msgstr "Kulungile. Ungafinyelela ulwazi olwengeziwe nganoma yisiphi isikhathi kwi-Menyu enkulu"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "What are you struggling with?@results.message_options"
+msgstr "Yini olwisana nayo?@imiphumela.izinketho_zomyalezo"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any skill yet."
+msgstr "Awukaqedi noma yiliphi ikhono."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Which goal do you want to review?@results.message_options"
+msgstr "Imuphi umgomo ofuna ukuwubuyekeza?@results.message_options"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.goals_accessed) +1). Return to Main Menu"
+msgstr "@(word_count(fields.goals_accessed) +1). Buyela kuMeyu Omkhulu"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any skill in this goal yet."
+msgstr "Awukaqedi noma yiliphi ikhono kulo mgomo okwamanje."
+
+#. type=text
+msgctxt "text"
+msgid "You have only completed the following skill:"
+msgstr "Uqedele ikhono elilandelayo kuphela:"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to review it?"
+msgstr "Ungathanda ukulibuyekeza?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can come back here at any time to review it."
+msgstr "Kulungile. Ungabuya lapha noma nini ukuzolibuyekeza."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have completed @fields.n_s_modules_compl skills within this goal. Which skill do you want to review?@results.message_options"
+msgstr "Usuqede amakhono angu-@fields.n_s_amamojula_compl ngaphakathi alo mgomo. Iliphi ikhono ofuna ukulibuyekeza?@results.message_options"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.s_modules_compl) +1). Return to Main Menu"
+msgstr "@(word_count(fields.s_modules_compl) +1). Buyela kuMenyu Omkhulu"
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do next?"
+msgstr "Yini ongathanda ukuyenza ngokulandelayo?"
+
+#. type=text
+msgctxt "text"
+msgid "Great, see you tomorrow!"
+msgstr "Kuhle, sobonana kusasa!"
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your teen?"
+msgstr "Iluphi uhlobo lomsebenzi ofuna ukuwuzama nengane yakho?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to begin now or tomorrow?"
+msgstr "Ingabe ufuna ukuqala manje noma kusasa?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Well done!"
+msgstr "🎉HALALA!🎉 Uzuze ibheji futhi waqeda umgomo@(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Wenze kahle!"
+
+#. type=text
+msgctxt "text"
+msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu."
+msgstr "Khumbula, uma udinga ukwesekwa uphrakthiza amakhono owafundile, ungathola usizo olwengeziwe Ekuxazululeni Inkinga, olutholakala kwi-Menyu enkulu."
+
+#. type=text
+msgctxt "text"
+msgid "You have made great progress. Are you ready to select your next parenting goal?"
+msgstr "Wenze intuthuko enkulu. Ingabe usukulungele ukukhetha umgomo wakho olandelayo wokuba umzali?\n"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText has begun. Are you ready to complete your registration and select your parenting goals?"
+msgstr "I-ParentText isiqalile. Ingabe usukulungele ukuqedela ukubhalisa kwakho futhi ukhethe imigomo yakho yokuba umzali?"
+
+#. type=text
+msgctxt "text"
+msgid "You’re off track! Do you want to complete a previous skill or start a new skill?"
+msgstr "Awukho endleleni! Ingabe ufuna ukuqedela ikhono langaphambilini noma ukuqala ikhono elisha?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to catch up and proceed to the next skill?"
+msgstr "Ingabe ufuna ukubamba futhi uqhubekele ekhonweni elilandelayo?"
+
+#. type=text
+msgctxt "text"
+msgid "You're almost finished with this goal! You only have 1 unfinished skill. What would you like to do?"
+msgstr "Usuzoqeda ngalo mgomo! Unekhono elilodwa kuphela elingaqediwe. Ungathanda ukwenzani?"
+
+#. type=text
+msgctxt "text"
+msgid "That’s okay. You can only earn your Parenting Badge when all skills are completed. You can return to complete this goal through the Progress Tracker in the Main Menu by typing ‘menu’."
+msgstr "Kulungile. Ungazuza kuphela indondo yakho yomzali uma wonke amabheji ezuziwe. Uma usulungile, ungabuya ukuze uqedele lo mgomo nge-Progress Tracker kwi-Menyu enkulu ngokuthayipha ‘imenyu’."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. What would you like to do?"
+msgstr "Usuzoqeda ngalo mgomo! Unekhono elilodwa kuphela elingaqediwe. Ungathanda ukwenzani?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It’s time to get started on your goal, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Are you ready?"
+msgstr "Isikhathi sokuthi uqalise umgomo wakho, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Usukulungele?"
+
+#. type=text
+msgctxt "text"
+msgid "What would you like change?"
+msgstr "Yini ongathanda ukuyishintsha?"
+
+#. type=text
+msgctxt "text"
+msgid "Here is the link!"
+msgstr "Nansi ilinki!"
+
+#. type=text
+msgctxt "text"
+msgid "[insert link]"
+msgstr "[faka ilinki]"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.n_goals_completed of @fields.n_goals_prog Goals Complete"
+msgstr "u-@fields.n_goals_completed kwangu- @fields.n_goals_prog Wemigomo Eqediwe"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You are currently working on the goal @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])."
+msgstr "Okwamanje usebenzela umgomo@(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])."
+
+#. type=text
+msgctxt "text"
+msgid "message='You have not completed any goal yet.' image=''"
+msgstr "umyalezo='Awukakaqedi umgomo okwamanje.' isithombe=''"
+
+#. type=text
+msgctxt "text"
+msgid "You have completed the following goal:"
+msgstr "Uqedele ikhono elilandelayo kuphela:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@(text_slice(results.message_options,5))"
+msgstr "@(ucezu_lombhalo(imiphumela.izinketho_zomyalezo,5))"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed the following goals:@results.message_options"
+msgstr "Uqedele le migomo elandelayo:@imiphumela.izinketho_zomyalezo"
+
+#. type=text
+msgctxt "text"
+msgid "message='There are no goals to complete.' image=''"
+msgstr "umyalezo='Ayikho imigomo okumele uyiqedele.' isithombe=''"
+
+#. type=text
+msgctxt "text"
+msgid "You have the following oustanding goal to complete:"
+msgstr "Unomgomo olandelayo osalele okufanele uwuqedele:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You are off track to complete this course! You have the following oustanding goals:@results.message_options"
+msgstr "Uphumile endleleni yokuqeda lesi sifundo! Unezinjongo ezisalele ezilandelayo:@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "message='You are on track to complete this course! There are no new goals to start!' image=''"
+msgstr "umyalezo='Usendleleni yokuqeda lesi sifundo! Ayikho imigomo emisha ongayiqala!' isithombe=''"
+
+#. type=text
+msgctxt "text"
+msgid "You have the following goal to start:"
+msgstr "Unomgomo olandelayo wokuqala:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have the following goals to start:@results.message_options"
+msgstr "Unemigomo elandelayo ongayiqala:@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text, Images, and Videos."
+msgstr "Isilungiselelo sakho semidiya samanje sithi Umbhalo, Izithombe, namavidiyo."
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text, Images, and Audio."
+msgstr "Isilungiselelo sakho semidiya samanje sithi Umbhalo, Izithombe, Nomsindo."
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text and Images Only."
+msgstr "Isilungiselelo sakho semidiya samanje Esombhalo kanye Nezithombe Kuphela."
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is"
+msgstr "Isilungiselelo sakho semidiya samanje sithi"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't provide this info."
+msgstr "Awuzange unikeze lolu lwazi."
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change it?"
+msgstr "Ingabe ungathanda ukuwashintsha?"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us if you are a woman or a man. "
+msgstr "Awuzange usitshele ukuthi ungumuntu wesilisa noma wesifazane. "
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Woman."
+msgstr "Usitshele ukuthi ungumuntu Wesifazane."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Man."
+msgstr "Usitshele ukuthi ungumuntu Wesilisa."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a"
+msgstr "Usitshele ukuthi uyi-"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update your gender?"
+msgstr "Ungathanda ukubuyekeza ubulili bakho?"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us what's your relationship status."
+msgstr "Awuzange usitshele ukuthi siyini isimo sobudlelwano bakho."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Single (not in a relationship)."
+msgstr "Usitshele ukuthi awushadile (awunabudlelwane)."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Married."
+msgstr "Usitshele ukuthi ushadile."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Partnered but not married."
+msgstr "Usitshele ukuthi Ukhona Ozwana naye kodwa anishadile."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Divorced or separated."
+msgstr "Usitshele ukuthi Uhlukanisile noma awusahlali noganene naye."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Widowed."
+msgstr "Usitshele ukuthi washonelwa ngowawuganene naye."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are"
+msgstr "Usitshele ukuthi uyi-"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change your relationship status?"
+msgstr "Ungathanda ukushintsha isimo sobudlelwano bakho?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that your child is @fields.child_age year old and was born on @fields.child_dob."
+msgstr "Usitshele ukuthi ingane yakho ineminyaka engu-@fields.child_age ubudala futhi yazalwa ngo-@fields.child_dob."
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update the date of birth of your child?"
+msgstr "Ungathanda ukubuyekeza usuku lokuzalwa kwengane yakho?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your child's nickname is @fields.child_nickname."
+msgstr "Isiteketiso sengane yakho sithi @fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "You didn't provide a nickname for your child."
+msgstr "Awunikezanga isiteketiso sengane yakho."
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update it?"
+msgstr "Ungathanda ukuyibuyekeza?"
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in English."
+msgstr "Okwamanje uthola imilayezo ngesiNgisi."
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in Zulu."
+msgstr "Njengamanje uthola imilayezo ngesiZulu."
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in ssw."
+msgstr "Okwamanje uthola imilayezo nge-ssw."
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in"
+msgstr "Okwamanje uthola imilayezo nge-"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change your language?"
+msgstr "Ungathanda ukushintsha ulimi lwakho?"
+
+#. type=text
+msgctxt "text"
+msgid "What do you want to do next?"
+msgstr "Ufuna ukwenzani ngokulandelayo?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can access more information at any time in the Main Menu."
+msgstr "Kulungile. Ungafinyelela ulwazi olwengeziwe nganoma yisiphi isikhathi kwi-Menyu enkulu."
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful! You can access the Main Menu at any time by typing MENU. "
+msgstr "Sithemba ukuthi lokhu kube usizo! Ungafinyelela Imenyu Eyinhloko nganoma yisiphi isikhathi ngokuthayipha MENYU. "
+
+#. type=text
+msgctxt "text"
+msgid "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?"
+msgstr "Ukuhlala ku-ParentText kusiza wena nengane yakho. Uqinisekile ukuthi ufuna ukuphuma ohlelweni?"
+
+#. type=text
+msgctxt "text"
+msgid "If you do not want to receive any more messages, please type \"EXIT\"."
+msgstr "Uma ungasathandi ukuthola le miyalezo, sicela uthayiphe “PHUMA”."
+
+#. type=text
+msgctxt "text"
+msgid "If you made a mistake, please type \"BACK\" and choose another option."
+msgstr "Uma wenze iphutha, sicela uthayiphe “emuva” bese ukhetha okunye."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for participating. If you want to return to the programme, type \"START\". "
+msgstr "Siyabonga kakhulu ngokubamba iqhaza kulolu hlelo! Uma ufuna ukubuyela kulolu hlelo, thayipha “QALA ”. "
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon! "
+msgstr "Sithemba ukukubona futhi maduze! "
+
+#. type=text
+msgctxt "text"
+msgid "Sorry I don't understand what you mean."
+msgstr "Ngiyaxolisa angiqondi ukuthi uthini."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: to have a healthy relationship with my partner. "
+msgstr "Siyabonga ngokubuyekeza isimo sakho sobudlelwano. Uvule inhloso yokufunda entsha: ukuba nobudlelwano obunempilo nophathina. "
+
+#. type=text
+msgctxt "text"
+msgid "You have reached the end of this skill! 🎉 "
+msgstr "Ufinyelele ekupheleni kwaleli khono! 🎉 "
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "LANDELAYO"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr "Yebo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr "Cha"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Finish this skill and complete my goal"
+msgstr "Qeda leli khono bese uqedela umgomo wami"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Leave this goal unfinished and select a new goal"
+msgstr "Shiya lo mgomo ungaqediwe bese ukhetha umgomo omusha"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I’m done for today"
+msgstr "Ngiqedile okwanamuhla"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Give me an idea for 1-on-1 time with my teen"
+msgstr "Nginike umbono mayelana nesikhathi nginengane yami sisobabili"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View another activity idea"
+msgstr "Buka omunye umbono mayelana nomsebenzi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to Main Menu"
+msgstr "Iya kwi-Menyu enkulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Continue my progress tomorrow"
+msgstr "Qhubeka intuthuko yami kusasa"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Quick"
+msgstr "Okuthile Okusheshayo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Active"
+msgstr "Kukhona Okusebenzayo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Calm"
+msgstr "Okuthile Okuzolile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something for the whole family"
+msgstr "Yenza okuthile nomndeni wakho wonke"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Now"
+msgstr "Manje"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Tomorrow"
+msgstr "Kusasa"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Remind me later"
+msgstr "Ngikhumbuze ngokuhamba kwesikhathi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete"
+msgstr "Qedela"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start new"
+msgstr "Qala okusha"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Remind me tomorrow"
+msgstr "Ngikhumbuze kusasa"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Finish this skill and earn my badge"
+msgstr "Qedela leli khono futhi uzuze ibheji lami"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Leave this goal and pick a new goal"
+msgstr "Shiya le njongo bese ukhetha injongo entsha"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete unfinished skills to earn my badge"
+msgstr "Qedela amakhono angakaqedwa ukuze uzuze ibheji lami"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes!"
+msgstr "Yebo!"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Track My Progress"
+msgstr "Landelela Intuthuko Yami"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Share with a Friend"
+msgstr "Xoxa nomngani"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Emergencies"
+msgstr "Izimo eziphuthumayo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Settings"
+msgstr "Izilungiselelo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Activities"
+msgstr "Okwenziwayo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "How to Use ParentText"
+msgstr "Ungayisebenzisa Kanjani I-ParentText"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get Help with the Goals I am Working on"
+msgstr "Thola Usizo Ngezinjongo Engisebenza Ngazo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review Completed Skills"
+msgstr "Buyekeza Amakhono Aqediwe"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit Menu"
+msgstr "Phuma kumenyu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change your profile"
+msgstr "Shintsha iphrofayela yakho"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Stop receiving the messages"
+msgstr "Yeka ukuthola imiyalezo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Main Menu"
+msgstr "Buyela kwi-Menyu enkulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Language"
+msgstr "Ulimi Lwakho"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Media Settings"
+msgstr "Izilungiselelo zakho zemidiya"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Gender"
+msgstr "Ubulili Bakho"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Relationship Status"
+msgstr "Isimo Sobudlelwano Bakho"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Child's Date of Birth"
+msgstr "Usuku Lokuzalwa Kwengane Yakho"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Child's Nickname"
+msgstr "Isiteketiso Sengane Yakho"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit"
+msgstr "Phuma"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Goals Achieved"
+msgstr "Buka Imigomo Efinyelelwe"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Incomplete Goals"
+msgstr "Buka Imigomo Engaphelele"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Goals to Start"
+msgstr "Buka Imigomo Yokuqala"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete this outstanding goal and leave my current goal incomplete"
+msgstr "Qedela le njongo esele futhi ushiye le njongo yami yamanje ingaphelele"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete another outstanding goal and leave my current goal incomplete"
+msgstr "Qedela enye injongo esele futhi ushiye le njongo yami yamanje ingaphelele"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start the new goal and leave my current goal incomplete"
+msgstr "Qala le njongo entsha futhi ushiye le njongo yami yamanje ingaphelele"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start a new goal and leave my current goal incomplete"
+msgstr "Qala le njongo entsha futhi ushiye le njongo yami yamanje ingaphelele"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change other profile info"
+msgstr "Shintsha olunye ulwazi lwephrofayela"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get more help with this goal"
+msgstr "Thola usizo olwengeziwe ngale njongo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get help with a different challenge"
+msgstr "Thola usizo mayelana nenkinga ehlukile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to the Main Menu"
+msgstr "Buyela kwi-Menyu enkulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "BACK"
+msgstr "EMUVA"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review a skill from a different goal"
+msgstr "Buyekeza ikhono elivela kwinjongo ehlukile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Menu"
+msgstr "Buyela kwi-Menyu enkulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review another skill from this goal"
+msgstr "Buyekeza elinye ikhono elivela kule njongo"
+
+#. type=variables
+msgctxt "variables"
+msgid "You only have one unfinished skill."
+msgstr "Unekhono elilodwa kuphela elingaqediwe."
+
+#. type=variables
+msgctxt "variables"
+msgid "Finish this skill and earn my badge"
+msgstr "Qedela leli khono futhi uzuze ibheji lami"
+
+#. type=variables
+msgctxt "variables"
+msgid "You have @fields.c_n_mod_started unfinished skills."
+msgstr "Unamakhono angu- @fields.c_n_mod_started angaqediwe\n"
+
+#. type=variables
+msgctxt "variables"
+msgid "Complete unfinished skills to earn my badge"
+msgstr "Qedela amakhono angakaqedwa ukuze uzuze ibheji lami"
+
+#. type=variables
+msgctxt "variables"
+msgid "@(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])"
+msgstr "@(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no"
+msgstr "Cha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes"
+msgstr "yebo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "leave this goal unfinished and select a new goal"
+msgstr "shiya le njongo ingaqediwe bese ukhetha injongo entsha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "finish this skill and complete my goal"
+msgstr "qeda leli khono bese uqedela injongo yami"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i’m done for today"
+msgstr "ngiqedile okwanamuhla"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "give me an idea for 1-on-1 time with my teen"
+msgstr "nginike umbono mayelana nesikhathi nginengane yami sisobabili"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view another activity idea"
+msgstr "buka omunye umbono mayelana nomsebenzi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go to main menu"
+msgstr "iya kwi-Menyu enkulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "continue my progress tomorrow"
+msgstr "qhubeka intuthuko yami kusasa"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something quick"
+msgstr "okuthile okusheshayo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something active"
+msgstr "kukhona okusebenzayo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something calm"
+msgstr "okuthile okuzolile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something for the whole family"
+msgstr "okuthile komndeni wonke"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "now"
+msgstr "manje"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "tomorrow"
+msgstr "kusasa"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "remind me later"
+msgstr "ngikhumbuze ngokuhamba kwesikhathi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete"
+msgstr "qedela"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start new"
+msgstr "qala okusha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "remind me tomorrow"
+msgstr "ngikhumbuze kusasa"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "finish this skill and earn my badge"
+msgstr "qedela leli khono futhi uzuze ibheji lami"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "leave this goal and pick a new goal"
+msgstr "shiya lo mgomo bese ukhetha umgomo omusha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete unfinished skills to earn my badge"
+msgstr "qedela amakhono angakaqedwa ukuze uzuze ibheji lami"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes!"
+msgstr "yebo!"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "track my progress"
+msgstr "landelela intuthuko yami"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "share with a friend"
+msgstr "xoxa nomngani"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "emergencies"
+msgstr "Izimo eziphuthumayo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "settings"
+msgstr "izilungiselelo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "activities"
+msgstr " imisebenzi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "how to use parenttext"
+msgstr "ungayisebenzisa kanjani i-parenttext"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get help with the goals i am working on"
+msgstr "thola usizo ngezinjongo engisebenza ngazo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review completed skills"
+msgstr "buyekeza amakhono aqediwe"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit menu"
+msgstr "phuma kumenyu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change your profile"
+msgstr "shintsha iphrofayela yakho"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop receiving the messages"
+msgstr "yeka ukuthola imiyalezo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to main menu"
+msgstr "buyela kumenyu enkulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your language"
+msgstr "ulimi lwakho"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your media settings"
+msgstr "izilungiselelo zakho zemidiya"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your gender"
+msgstr "ubulili bakho"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your relationship status"
+msgstr "isimo sakho sobudlelwano"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your child's date of birth"
+msgstr "usuku lokuzalwa kwengane yakho"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your child's nickname"
+msgstr "igama lokuteketisa lengane yakho"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr "phuma"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view goals achieved"
+msgstr "buka imigomo efinyelelwe"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view incomplete goals"
+msgstr "buka Imigomo engaphelele"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view goals to start"
+msgstr "buka imigomo ukuze uqale"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete this outstanding goal and leave my current goal incomplete"
+msgstr "qedela lo mgomo osele futhi ushiye umgomo wami wamanje ungaphelele"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete another outstanding goal and leave my current goal incomplete"
+msgstr "qedela omunye umgomo osele futhi ushiye umgomo wami wamanje ungaphelele"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start the new goal and leave my current goal incomplete"
+msgstr "qala umgomo omusha futhi ushiye umgomo wami wamanje ungaphelele"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start a new goal and leave my current goal incomplete"
+msgstr "qala umgomo omusha futhi ushiye umgomo wami wamanje ungaphelele"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep ok"
+msgstr "yebo y yebo kulungile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "cha n cha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change other profile info"
+msgstr "shintsha olunye ulwazi lwephrofayela"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get more help with this goal"
+msgstr "thola usizo olwengeziwe ngalo mgomo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get help with a different challenge"
+msgstr "thola usizo ngenkinga ehlukile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to the main menu"
+msgstr "buyela kumenyu enkulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "back"
+msgstr "emuva"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to menu"
+msgstr "buyela kumenyu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review a skill from a different goal"
+msgstr "buyekeza ikhono elivela kumgomo ohlukile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review another skill from this goal"
+msgstr "buyekeza elinye ikhono elivela kulo mgomo"
+
