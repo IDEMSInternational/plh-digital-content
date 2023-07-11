@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swati\n"
 "\n"
 "Language: ss_ZA\n"
-"PO-Revision-Date: 2023-07-11 09:40\n"
+"PO-Revision-Date: 2023-07-11 09:52\n"
 
 #. type=text
 msgctxt "text"
@@ -97,7 +97,7 @@ msgstr "✅Imininingwane lephatselene nawe iphephile futsi iyimfihlo. Libito lak
 #. type=text
 msgctxt "text"
 msgid "❌You can stop when you want. Just type “STOP”"
-msgstr "❌Ungayekela uma sewufuna. Thayipha nje “STOP”"
+msgstr "❌Ungayekela uma sewufuna. Thayipha nje “CEDZA”"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -137,8 +137,8 @@ msgstr "Kuhle kakhulu! Asicale ke."
 
 #. type=text
 msgctxt "text"
-msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type \"STOP.\" If you made a mistake, please press BACK and choose another option."
-msgstr "Ngabe ucinisekisile kutsi awufuni kutfola lemilayeto? Uma ngabe ungasafuni kutfola imilayeto, sicela kutsi uthayiphe \"STOP\". Uma ngabe wente siphosiso, sicela kutsi ufacate EMUVA bese ukhetsa lokunye."
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type \"STOP\". If you made a mistake, please press BACK and choose another option."
+msgstr "Ngabe ucinisekisile kutsi awufuni kutfola lemilayeto? Uma ngabe ungasafuni kutfola imilayeto, sicela kutsi uthayiphe \"CEDZA\". Uma ngabe wente siphosiso, sicela kutsi ufacate EMUVA bese ukhetsa lokunye."
 
 #. type=text
 msgctxt "text"
@@ -507,6 +507,12 @@ msgstr "yebo y ngetulu"
 msgctxt "arguments"
 msgid "no n under"
 msgstr "cha c ngaphasi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop"
+msgstr "cedza"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
