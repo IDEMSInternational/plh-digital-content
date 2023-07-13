@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2023-07-11 17:02\n"
+"PO-Revision-Date: 2023-07-11 23:05\n"
 
 #. type=text
 msgctxt "text"
@@ -207,13 +207,13 @@ msgstr "Ngokwedethi oyinikezile, ingane yakho izoba neminyaka engu-@(round_down(
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
-msgstr "@fields.child_nickname ngu @(round_down(isikhathi sosuku_diff(imiphumela.idethi,manje(),\"M\")/12)) eneminyaka engu-. Ingabe kuyikho lokho?"
+msgstr "i-@fields.child_nickname ineminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)) yobudala. Ingabe kuyikho lokho?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "your teen is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
-msgstr "ingane yakho ineminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)) ubudala. Ingabe yikona okuyikho lokho?"
+msgstr "ingane yakho ineminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)) ubudala. Ingabe kuyikho lokho?"
 
 #. type=text
 msgctxt "text"
