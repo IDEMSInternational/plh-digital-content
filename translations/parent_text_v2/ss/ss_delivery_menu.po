@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swati\n"
 "\n"
 "Language: ss_ZA\n"
-"PO-Revision-Date: 2023-07-11 23:05\n"
+"PO-Revision-Date: 2023-07-20 18:26\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -28,12 +28,12 @@ msgstr "Sewucedze emakhono lama @fields.c_n_mod_compl kulama @fields.c_n_mod ema
 #. type=text
 msgctxt "text"
 msgid "Let’s get started. Press NEXT to begin."
-msgstr "Asivele sicale. Facata CHUBEKA kuze uchubekele embili."
+msgstr "Asivele sicale. Facata LOKULANDZELAKO kuze uchubekele embili."
 
 #. type=text
 msgctxt "text"
 msgid "Congratulations! You have earned yourself a badge. You are now ready to begin the course. ⭐"
-msgstr "Siyakuhalalisela! Sewutitfolele imbeji. Nyalo ke sewulungele kucala luhlelo lwekufundza.⭐"
+msgstr "Siyakuhalalisela! Sewutitfolele imbeji. Nyalo ke sewulungele kucala tifundvo.⭐"
 
 #. type=text
 msgctxt "text"
@@ -70,7 +70,7 @@ msgstr "Sewuyibonile yonkhe imigomo "
 #. type=text
 msgctxt "text"
 msgid "You are so close to completing the course! You only have one goal left,"
-msgstr "Sekusele kancane nje kutsi ucedze loluhlelo lwekufundza! Sewusalelwe ngumgomo munye,"
+msgstr "Sekusele kancane nje kutsi ucedze loluhlelo lwekufundza! Sewusalelwe ngumgomo munye kuphela,"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -113,7 +113,7 @@ msgstr "Sekute imigomo longayicala"
 #. type=text
 msgctxt "text"
 msgid "You only have the following goal to start"
-msgstr "Sewusalelwe ngulomgomo lolandzelako kuphela kwekutsi uwucale"
+msgstr "Sewusalelwe kutsi ucalre lomgomo lolandzelako kuphela"
 
 #. type=text
 msgctxt "text"
@@ -123,7 +123,7 @@ msgstr "Ungatsandza yini kucala lomgomo?"
 #. type=text
 msgctxt "text"
 msgid "That's okay."
-msgstr "Kukahle loko."
+msgstr "Kulungile."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -139,7 +139,7 @@ msgstr "Kusete imigomo lecaliwe"
 #. type=text
 msgctxt "text"
 msgid "You only have the following goal started"
-msgstr "Sewusalelwe ngulomgomo lolandzelako localiwe"
+msgstr "Ngulomgomo lolandzelako kuphela localiwe"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -166,7 +166,7 @@ msgstr "Kuhle kakhulu! Ngumuphi umgomo longakapheli longatsandza kuwucedza?@resu
 #. type=text
 msgctxt "text"
 msgid "You're almost finished with this goal! You only have 1 lesson remaining, "
-msgstr "Sekusele kancane kwekutsi ucedze lomgomo lona! Sewusalelwe sifundvo sinye "
+msgstr "Sekusele kancane kutsi uwucedze lomgomo lona! Sewusalelwe sifundvo sinye nje kuphela, "
 
 #. type=text
 msgctxt "text"
@@ -176,7 +176,7 @@ msgstr "Ufuna kwentani?"
 #. type=text
 msgctxt "text"
 msgid "That’s okay. You can only earn your Parenting Trophy when all badges are earned. When you are ready, you can return to complete this goal through the Progress Tracker in the Main Menu by typing ‘menu’."
-msgstr "Kulungile loko. Indzebe Yekuba Ngumtali ungayitfola kuphela uma sekutfolakele tonkhe timbeji. Uma sewulungele, ungabuyela ucedzele lomgomo lona ngekusebentisa i-Progress Tracker lekuMenyu Lenkhulu ngekuthayipha 'menu'."
+msgstr "Kulungile loko. Indzebe Yekuba Ngumtali ungayitfola kuphela uma sewutfole tonkhe timbeji. Nangabe sewulungele, ungabuyela ucedzele lomgomo lona ngekusebentisa i-Progress Tracker lekuMenyu Lenkhulu ngekubhala 'menyu'."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -209,17 +209,17 @@ msgstr "Usengakacali kusebenta umgomo."
 #. type=text
 msgctxt "text"
 msgid "You have only started the goal"
-msgstr "Usacedza kucala lomgomo"
+msgstr "Usandza kuwucala lomgomo"
 
 #. type=text
 msgctxt "text"
 msgid "Would you like support on it?"
-msgstr "Ungatsandza kwekutsi usekelwe kuwenta?"
+msgstr "Ungatsandza kwesekelwa kuwo?"
 
 #. type=text
 msgctxt "text"
 msgid "That's okay. You can access more information at any time in the Main Menu"
-msgstr "Kulungile loko. Ungatfola lolunye lwati noma nini kuMenyu Lenkhulu"
+msgstr "Kulungile loko. Ungatfola lwati lolwengetiwe noma ngabe ngunini kuMenyu Lenkhulu"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -230,7 +230,7 @@ msgstr "Yini lokukunika bumatima?@results.message_options"
 #. type=text
 msgctxt "text"
 msgid "You haven't completed any skill yet."
-msgstr "Awukacedzi nalinye likhono."
+msgstr "Kusete likhono lolicedzile."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -284,12 +284,12 @@ msgstr "Yini lokulandzelako longatsandza kukwenta?"
 #. type=text
 msgctxt "text"
 msgid "Great, see you tomorrow!"
-msgstr "Kuhle kakhulu, sitokubona kusasa!"
+msgstr "Kuhle kakhulu, sitawubonana kusasa!"
 
 #. type=text
 msgctxt "text"
 msgid "What kind of activity do you want to try with your teen?"
-msgstr "Ngumsebenti lonjani longatsandza kuwutama nentfwankho losatfombile?"
+msgstr "Ngumsebenti lonjani longatsandza kuwetama nemntfwana wakho?"
 
 #. type=text
 msgctxt "text"
@@ -310,7 +310,7 @@ msgstr "Khumbula, uma udzinga kusekelwa kutejwayeta lamakhono lowafundzile, unga
 #. type=text
 msgctxt "text"
 msgid "You have made great progress. Are you ready to select your next parenting goal?"
-msgstr "Sewuchubeke kakhulu impela. Ngabe sewulungele yini kukhetsa umgomo wakho wekuba ngumtali lolandzelako?"
+msgstr "Sewuchubeke kahle kakhulu. Ngabe sewulungele yini kukhetsa umgomo wakho lolandzelako wekuba ngumtali?"
 
 #. type=text
 msgctxt "text"
@@ -320,12 +320,12 @@ msgstr "I-ParentText seyicalile. Sewulungele yini kucedzela kubhalisa kwakho nek
 #. type=text
 msgctxt "text"
 msgid "You’re off track! Do you want to complete a previous skill or start a new skill?"
-msgstr "Sewuphumile endleleni! Ufuna kucedzela likhono lelingembili noma kucala likhono lelisha?"
+msgstr "Sewuphumile endleleni! Ufuna kucedzela likhono lelisemuva noma kucala likhono lelisha?"
 
 #. type=text
 msgctxt "text"
 msgid "Do you want to catch up and proceed to the next skill?"
-msgstr "Ufuna kucedzela noma kuchubeka uye kulelikhono lelilandzelako?"
+msgstr "Ufuna kuchubeka noma wendlulele kulelikhono lelilandzelako?"
 
 #. type=text
 msgctxt "text"
@@ -335,13 +335,13 @@ msgstr "Sekusele kancane kwekutsi ucedze lomgomo! Sewusalelwe likhono linye leli
 #. type=text
 msgctxt "text"
 msgid "That’s okay. You can only earn your Parenting Badge when all skills are completed. You can return to complete this goal through the Progress Tracker in the Main Menu by typing ‘menu’."
-msgstr "Kulungile loko. Imbeji Yekuba Ngumtali ungayitfola kuphela uma sekupheleliswe onkhe emakhono. Ungabuyela uyocedzela lomgomo ngekusebentisa i-Parent Tracker kuMenyu Lenkhulu ngekuthayipha 'menu'."
+msgstr "Kulungile loko. Imbeji Yekuba Ngumtali ungayitfola kuphela nase uwacedzile onkhe emakhono. Ungabuyela uyocedzela lomgomo ngekusebentisa i-Parent Tracker kuMenyu Lenkhulu ngekubhala 'menyu'."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. What would you like to do?"
-msgstr "Sekusele kancane kwekutsi ucedze lomgomo! Sewunemakhono langu @fields.c_n_mod_started longakawacedzi. Ufuna kwentanjani?"
+msgstr "Sekusele kancane kutsi ucedze lomgomo! Sewunemakhono langu @fields.c_n_mod_started longakawacedzi. Ufuna kwentanjani?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -412,23 +412,23 @@ msgstr "Usalelwe ngulomgomo lolandzelako kutsi ucedze:"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "You are off track to complete this course! You have the following outstanding goals:@results.message_options"
-msgstr "Sewuphumile endleleni yekutsi ucedze loluhlelo lwekufundza! Unalemigomo lelandzelako lesasele:@results.message_options"
+msgstr "Sewuphumile endleleni yekutsi ucedze letifundvo! Usalelwe ngulemigomo lelandzelako:@results.message_options"
 
 #. type=text
 msgctxt "text"
 msgid "message='You are on track to complete this course! There are no new goals to start!' image=''"
-msgstr "message='Usesendleleni yekucedza loluhlelo lwekufundza! Sekute imigomo lemisha longayicala!' image=''"
+msgstr "message='Usesendleleni yekucedza letifundvo! Sekute imigomo lemisha longayicala!' image=''"
 
 #. type=text
 msgctxt "text"
 msgid "You have the following goal to start:"
-msgstr "Unalomgomo lolandzelako kuwucala:"
+msgstr "Kusemele ucale lomgomo lolandzelako:"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "You have the following goals to start:@results.message_options"
-msgstr "Unalemigomo lelandzelako kuyicala:@results.message_options"
+msgstr "Kusamele ucale lemigomo lelandzelako:@results.message_options"
 
 #. type=text
 msgctxt "text"
@@ -463,22 +463,22 @@ msgstr "Ungatsandza yini kushintja?"
 #. type=text
 msgctxt "text"
 msgid "You didn't tell us if you are a woman or a man. "
-msgstr "Awukasitjeli kwekutsi ungumfati noma indvodza. "
+msgstr "Awukasitjeli kutsi umsikati noma umdvuna. "
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are a Woman."
-msgstr "Usitjele kwekutsi uNgumfati."
+msgstr "Usitjele kutsi uWesifazane."
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are a Man."
-msgstr "Usutjele kwekutsi uYindvodza."
+msgstr "Usitjele kutsi uWesilisa."
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are a"
-msgstr "Usitjele kwekutsi uyi"
+msgstr "Usitjele kutsi uyi"
 
 #. type=text
 msgctxt "text"
@@ -488,37 +488,37 @@ msgstr "Ungatsandza yini kulungisa bulili bakho?"
 #. type=text
 msgctxt "text"
 msgid "You didn't tell us what's your relationship status."
-msgstr "Awukasitjeli kwekutsi buhlobo bakho bukanjani."
+msgstr "Awukasitjeli kutsi buhlobo bakho bukanjani."
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are Single (not in a relationship)."
-msgstr "Usitjele kwekutsi uWedvwa (awuvani nemuntfu)."
+msgstr "Usitjele kutsi uWedvwa (kute lotsandzana naye)."
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are Married."
-msgstr "Usitjele kwekutsi Ushadile."
+msgstr "Usitjele kutsi Ushadile."
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are Partnered but not married."
-msgstr "Usitjele kwekutsi uneMlingani kepha awukashadi."
+msgstr "Usitjele kutsi unaye uMlingani kepha awukashadi."
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are Divorced or separated."
-msgstr "Usitjele kwekutsi uDivosiwe noma nihlala ngekwehlukana."
+msgstr "Usitjele kutsi uDivosiwe noma nehlukene."
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are Widowed."
-msgstr "Usitjele kwekutsi unguMfelokati/Mfelwa."
+msgstr "Usitjele kutsi unguMfelokati/Mfelwa."
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are"
-msgstr "Usitjele kwekutsi u"
+msgstr "Usitjele kutsi u"
 
 #. type=text
 msgctxt "text"
@@ -529,12 +529,12 @@ msgstr "Ungatsandza yini kushintja simo sekuhlobana kwakho?"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "You told us that your child is @fields.child_age year old and was born on @fields.child_dob."
-msgstr "Usitjele kwekutsi umntfwanakho una @fields.child_age weminyaka nekutsi watalwa mhlaka @fields.child_dob."
+msgstr "Usitjele kutsi umntfwana wakho una @fields.child_age weminyaka nekutsi watalwa mhlaka @fields.child_dob."
 
 #. type=text
 msgctxt "text"
 msgid "Would you like to update the date of birth of your child?"
-msgstr "Ungatsandza yini kulungisa lusuku lwekutalwa lwemntfwanakho?"
+msgstr "Ungatsandza yini kulungisa lusuku lwekutalwa lwemntfwana wakho?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -585,12 +585,12 @@ msgstr "Ufuna kwenta ini kulokulandzelako?"
 #. type=text
 msgctxt "text"
 msgid "That's okay. You can access more information at any time in the Main Menu."
-msgstr "Kulungile loko. Ungalutfola lwati lolunye noma nini kuMenyu Lenkhulu."
+msgstr "Kulungile loko. Ungalutfola lwati lolwengetekile noma nini kuMenyu Lenkhulu."
 
 #. type=text
 msgctxt "text"
 msgid "We hope this was helpful! You can access the Main Menu at any time by typing MENU. "
-msgstr "Siyetsemba kwekutsi loku kube lusito! Ungaya kuMenyu Lenkhulu noma nini ngekuthayipha MENU. "
+msgstr "Siyetsemba kutsi loku kube lusito! Ungaya kuMenyu Lenkhulu noma ngunini ngekubhala MENYU. "
 
 #. type=text
 msgctxt "text"
@@ -600,17 +600,17 @@ msgstr "Kuchubeka neParentText kusita wena nemntfwanakho. Unaso yini siciniseko 
 #. type=text
 msgctxt "text"
 msgid "If you do not want to receive any more messages, please type \"EXIT\"."
-msgstr "Uma ungafuni kutfola leminye imiyaleto thayipha \"CEDZA\"."
+msgstr "Nawungafuni kutfola leminye imiyaleto bhala \"PHUMA\"."
 
 #. type=text
 msgctxt "text"
 msgid "If you made a mistake, please type \"BACK\" and choose another option."
-msgstr "Uma ngabe wente siphosiso, sicela uthayiphe \"BACK\" bese ukhetsa lenye inketfo."
+msgstr "Nangabe wente siphosiso, sicela ubhale \"EMUVA\" bese ukhetsa lokunye."
 
 #. type=text
 msgctxt "text"
 msgid "Thank you for participating. If you want to return to the programme, type \"START\". "
-msgstr "Siyabonga kuhlanganyela kwakho. Uma ufuna kubuyela kuloluhlelo, thayipha \"CALA\". "
+msgstr "Siyabonga kuhlanganyela kwakho. Nawufuna kubuyela kuloluhlelo, bhala \"CALA\". "
 
 #. type=text
 msgctxt "text"
@@ -625,7 +625,7 @@ msgstr "Ngiyacolisa, angivisisi kutsi usho kutsini."
 #. type=text
 msgctxt "text"
 msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: to have a healthy relationship with my partner. "
-msgstr "Siyabonga kwekutsi ulungise simo sekuhlobana kwakho. Sewuvule sikhiya semgomo lomusha wekufundza: wekuba nebuhlobo lobukahle nemlingani wakho. "
+msgstr "Siyabonga kutsi ulungise simo sekuhlobana kwakho. Sewuvule sikhiya semgomo lomusha wekufundza: wekuba nebuhlobo lobukahle nemlingani wami. "
 
 #. type=text
 msgctxt "text"
@@ -654,7 +654,7 @@ msgstr "Cha"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Finish this skill and complete my goal"
-msgstr "Kucedza lelikhono bese ngicedza umgomo wami"
+msgstr "Kucedza lelikhono ngitocedza umgomo wami"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -672,7 +672,7 @@ msgstr "Sengicedzile kwanamuhla"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Give me an idea for 1-on-1 time with my teen"
-msgstr "Nginikete umcondvo ngesikhatsi sami nemntfwanami losatfombile sisobabili"
+msgstr "Nginikete umcondvo ngekucitsa sikhatsi lesanele nemntfwanami "
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -708,7 +708,7 @@ msgstr "Lokushukumisako"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Something Calm"
-msgstr "Lokuzolile"
+msgstr "Lokuzotsile"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -744,19 +744,19 @@ msgstr "Cedza"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Start new"
-msgstr "Cala nyalo"
+msgstr "Cala lokusha"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Remind me tomorrow"
-msgstr "Ubobuye ungikhumbute kusasa"
+msgstr "Ubongikhumbuta kusasa"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Finish this skill and earn my badge"
-msgstr "Kucedza lelikhono bese ngitfola imbeji"
+msgstr "Kucedza lelikhono bese ngitfola imbeji yami"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -768,7 +768,7 @@ msgstr "Kuyekela lomgomo lona bese ngikhetsa umgomo lomusha"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Complete unfinished skills to earn my badge"
-msgstr "Kucedzela emakono langakapheli kuze ngitfole imbeji yami"
+msgstr "Kucedzela emakhono langakapheli kuze ngitfole imbeji yami"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -780,7 +780,7 @@ msgstr "Yebo!"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Track My Progress"
-msgstr "Kutfola Inchubekela Embili Yami"
+msgstr "Kuhlola Kutsi Ngichuba Njani"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -810,7 +810,7 @@ msgstr "Imisebenti"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "How to Use ParentText"
-msgstr "Kwekutsi iParentText isetjentiswa njani"
+msgstr "Kusebentisa iParentText"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -822,7 +822,7 @@ msgstr "Kutfola Lusito ngalemigomo Lengiyentako"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Review Completed Skills"
-msgstr "Kubuketa Emakhono Lasaphelile"
+msgstr "Kubuketa Emakhono Lengiwacedzile"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -876,7 +876,7 @@ msgstr "Simo Sebuhlobo Bakho"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Your Child's Date of Birth"
-msgstr "Lusuku Lwekutalwa Lwemntwanakho"
+msgstr "Lusuku Lwekutalwa Lwemntfwana wakho"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -912,25 +912,25 @@ msgstr "Kubuka Imigomo Lengakacalwa"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Complete this outstanding goal and leave my current goal incomplete"
-msgstr "Kucedzela lomgomo lona losele futsi ngiyekele umgomo wami wanyalo ungakapheli"
+msgstr "Kucedzela lomgomo losele bese ngishiya lomgomo wami lengiwentako nyalo ngingakawucedzi"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Complete another outstanding goal and leave my current goal incomplete"
-msgstr "Kucedzela lomunye umgomo losasele futsi ngishiye umgomo wami wanyalo ungakapheli"
+msgstr "Kucedzela lomunye umgomo losasele bese ngishiya lomgomo wami lengiwentako nyalo ngingakawucedzi"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Start the new goal and leave my current goal incomplete"
-msgstr "Kucala lomgomo lomusha ngiyekele umgomo wami wanyalo ungakapheli"
+msgstr "Kucala lomgomo lomusha ngiyekele lomgomo wami lengiwentako nyalo ngingakawucedzi"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Start a new goal and leave my current goal incomplete"
-msgstr "Kucala umgomo lomusha ngiyekele umgomo wami wanyalo ungakapheli"
+msgstr "Kucala umgomo lomusha ngiyekele umgomo wami lengiwentako nyalo ngingakawucedzi"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -948,7 +948,7 @@ msgstr "Kutfola lolunye lusito ngalomgomo"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Get help with a different challenge"
-msgstr "Kutfola lusito lolunemsebenti lohlukile"
+msgstr "Kutfola lusito lolunemsebenti lowehlukile"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -966,7 +966,7 @@ msgstr "EMUVA"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Review a skill from a different goal"
-msgstr "Kubuketa lelinye likhono kulomunye umgomo"
+msgstr "Kubuketa likhono leli kulomunye umgomo"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1039,13 +1039,13 @@ msgstr "sengicedzile kwanamuhla"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "give me an idea for 1-on-1 time with my teen"
-msgstr "nginikete umcondvo wesikhatsi sami nemntfwanami lotfombile sisobabili"
+msgstr "nginikete umcondvo ngekucitsa sikhatsi lesanele nemntfwanami"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "view another activity idea"
-msgstr "kubuka umcondvo walomunye umsebenti"
+msgstr "buka lomunye umbono wemsebenti"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1075,7 +1075,7 @@ msgstr "lokushukumisako"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "something calm"
-msgstr "intfo lezolile"
+msgstr "intfo lezotsile"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
