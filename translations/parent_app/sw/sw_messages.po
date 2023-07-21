@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-07-21 12:31\n"
+"PO-Revision-Date: 2023-07-21 18:27\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2453,7 +2453,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "When you get an opportunity"
-msgstr "Ukipata fursa"
+msgstr "Unapopata fursa"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2462,7 +2462,7 @@ msgid ""
 "\n"
 "You do not have to have all the answers, just use the opportunity when it comes up!"
 msgstr ""
-"Hakuna mzazi anayehisi 'utayari' kuwa na mazungumzo haya na kijana wao. Wakati kijana wako anakuuliza swali au mnapoana madadiliko ya mwili au mahusiano (kwa mfano kwenye TV au katika jamii yako), Unaweza kutumia hii kama njia ya kuanzisha mazungumzo. Unaweza kuuliza \"Unafikiri nini kuhusu kile tulichokiona?\" au \"Je, hiyo ilikufanya uhisije?\". \n"
+"Hakuna mzazi anayehisi 'utayari' kuwa na mazungumzo haya na kijana wao. Wakati kijana wako anakuuliza swali au mnapoona madadiliko ya mwili au mahusiano (kwa mfano kwenye TV au katika jamii yako), Unaweza kutumia hii kama njia ya kuanzisha mazungumzo. Unaweza kuuliza \"Unafikiri nini kuhusu kile tulichokiona?\" au \"Je, hiyo ilikufanya uhisije?\". \n"
 "\n"
 "Huna haja ya kuwa na majibu yote, tumia tu fursa pindi inapojitokeza!"
 
@@ -3008,6 +3008,17 @@ msgstr "Anamshawishi @global.w_svp_teen_girl_2"
 msgctxt "data_list"
 msgid "Lies and acts disrespectfully"
 msgstr "Anasema uongo na kutokuwa na heshima"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Yes, all of these are warning signs! Your ‘no’ should alway be respected. \n"
+"\n"
+"Also remember, if people at home or outside use alcohol and other drugs this can be a warning sign, as those can make people angry, aggressive, and even violent."
+msgstr ""
+"Ndio, hizi zote ni alama za onyo! \"Hapana\" yako inabidi iheshimiwe.\n"
+"\n"
+"Kumbuka pia, kama watu nyumbani au mtaani wanatumia kilevi na madawa ya kulevya hii ni alama ya onyo, maana hizo zinamfanya mtu awe na hasira, mwenye fujo na vurugu."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3699,6 +3710,18 @@ msgid "Money problems"
 msgstr "Matatizo ya pesa"
 
 #. type=data_list
+#. The string @global.w_money_grandma should not be translated.
+msgctxt "data_list"
+msgid ""
+"It can be hard to make ends meet every month. Many families have this problem! \n"
+"\n"
+"Including @global.w_money_grandma – let's have a look:"
+msgstr ""
+"Kupata mahitaji ya kila siku linaweza kuwa jambo gumu. Familia nyingi zina tatizo hili!\n"
+"\n"
+"Akiwemo @global.w_money_grandma – hebu tuangalie:"
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @global.w_money_grandma:
 #.      @global.w_money_teen_girl
@@ -3748,6 +3771,11 @@ msgstr "\"Lengo langu ni kuhakikisha mjukuu wangu wa kiume ataweza kupata elimu 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "\"I know – let’s start with a plan! First, let me make a budget – a plan for how I can save my money. Then I will save just a little bit of money at a time – I will even join a savings and loans group.\""
+msgstr "\"Ninajua – hebu tuanze na mpango! Kwanza, ngoja nitengeneze bajeti – nipange ninavyoweza kuweka akiba ya pesa zangu. Halafu nitaweka akiba ya pesa kidogo tu kwa wakati mmoja – nitajiunga hata na kikundi cha kuweka na kukopa.\""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "\"I should also speak with my grandchildren to choose things that we can spend just a little bit less on each week. They will help me think of things we want but do not need.\""
 msgstr "\"Ninapaswa pia kuzungumza na wajukuu wangu wachague vitu vinavyotuwezesha kutumia pesa kidogo kila wiki. Watanisaidia kufikiria vitu tunavyovitaka lakini hatuvihitaji.\""
 
@@ -3769,6 +3797,12 @@ msgstr ""
 msgctxt "data_list"
 msgid "Coping with emergencies"
 msgstr "Kuendana na dharura"
+
+#. type=data_list
+#. The string @global.w_money_grandma should not be translated.
+msgctxt "data_list"
+msgid "Saving is important for one more reason: emergencies! @global.w_money_grandma also learnt this along the way:"
+msgstr "Kuweka akiba ni muhimu kwa sababu moja kubwa: dharura! @global.w_money_grandma naye alijifunza hivyo:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3901,6 +3935,12 @@ msgstr ""
 msgctxt "data_list"
 msgid "Online safety"
 msgstr "Usalama mitandaoni"
+
+#. type=data_list
+#. The string @global.weekly_workshop should not be translated.
+msgctxt "data_list"
+msgid "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the @global.weekly_workshop on safety planning, but let’s already have a first look now!"
+msgstr "Sheria ni muhimu ili kuwaweka salama vijana wako – sio tu akiwa hayupo mtandaoni, bali hata akiwa mtandaoni. Kuna mengi zaidi kuhusu jambo hili kwenye @global.weekly_workshop inayohusu kupanga namna ya usalama, lakini sasa ngoja tuangalie kitu cha kwanza!"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -4717,6 +4757,101 @@ msgstr ""
 "@global.w_crisis_teen_boy_1: \"Asante, @global.w_crisis_male_caregiver_1\"\n"
 "\n"
 "@global.w_crisis_male_caregiver_1: \"Tutalimaliza hili. Kumbuka, tutakusaidia kama familia.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sex talk"
+msgstr "Maongezi ya kingono"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Teenagers can get information about sex from school, their friends, home or social media. This information may not always be right or suitable for their age and situation. \n"
+"\n"
+"Parents and teenagers can feel uncomfortable when topics around ‘sex’ are mentioned. They may even get into arguments, especially when parents do not approve of their teen’s behaviour. \n"
+"\n"
+"Let’s look at an example:"
+msgstr ""
+"Vijana wanaweza pata taarifa kuhusu ngoni kutoka shuleni, marafiki zao, nyumbani au mitandao ya kijamii. Taarifa hii huenda isiwe sahihi kila wakati au inafaa kwa umri na hali zao.\n"
+"\n"
+"Wazazi na vijana wanaweza kujisikia vibaya pale mambo ya kingono yanapotamkwa. Wanaweza hata kuingia katika mabishano, hasa wakati wazazi hawaidhinishi tabia ya kijana wao.\n"
+"\n"
+"Tuangalie mfano:"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_srh_teen_girl_1
+#.      @global.w_srh_female_caregiver_1:
+#.      @global.w_srh_teen_girl_1:
+msgctxt "data_list"
+msgid ""
+"@global.w_srh_teen_girl_1 is on her way to leave the house looking very pretty.\n"
+"\n"
+"@global.w_srh_female_caregiver_1: “Where are you going looking like that?”\n"
+"\n"
+"@global.w_srh_teen_girl_1: “I am going out with some of my friends.”"
+msgstr ""
+"@global.w_srh_teen_girl_1 anajiandaa kuondoka nyumbani akiwa na muonekano mzuri sana.\n"
+"\n"
+"@global.w_srh_female_caregiver_1: \"Unaenda wapi katika muonekano huo?\"\n"
+"\n"
+"@global.w_srh_teen_girl_1: \"Ninatoka pamoja na baadhi ya marafiki zangu.\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_srh_teen_girl_1
+#.      @global.w_srh_female_caregiver_1:
+#.      @global.w_srh_teen_girl_1?
+#.      @global.w_srh_teen_girl_1:
+msgctxt "data_list"
+msgid ""
+"@global.w_srh_teen_girl_1 accidentally drops her bag, and a packet of condoms falls out.\n"
+"\n"
+"@global.w_srh_female_caregiver_1: “What is that @global.w_srh_teen_girl_1? Condoms? Why are you carrying those in your bag? Where did you get them?!”\n"
+"\n"
+"@global.w_srh_teen_girl_1: “I got it from one of the girls at school today. We were talking about safe sex and she said she uses birth control so that she does not get pregnant.”"
+msgstr ""
+"@global.w_srh_teen_girl_1 bahati mbaya anaangusha begi lake, na pakti ya kondomu inadondoka.\n"
+"\n"
+"@global.w_srh_female_caregiver_1: \"Hio ni nini @global.w_srh_teen_girl_1? Kondomu? Kwanini umezibeba kwenye begi lako? Umezipata wapi?!\"\n"
+"\n"
+"@global.w_srh_teen_girl_1: \"Nimezipata kutoka kwa msichana mmoja shuleni leo. Tulikuwa tunaongea kuhusu ndono salama na akaniambia anatumia njia ya uzazi wa mpango ili asije kupata mimba.\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_srh_female_caregiver_1
+#.      @global.w_srh_teen_girl_1
+#.      @global.w_srh_female_caregiver_1,
+msgctxt "data_list"
+msgid ""
+"@global.w_srh_female_caregiver_1 (angry): “What is this talk of sex in my house! You are too young…”\n"
+"\n"
+"@global.w_srh_teen_girl_1 (interrupting): “But @global.w_srh_female_caregiver_1, it’s not like that…!”"
+msgstr ""
+"@global.w_srh_female_caregiver_1 (angry): \"Ni nini hii maongezi kuhusu ngono nyumbani kwangu! Wewe bado ni mdogo...\"\n"
+"\n"
+"@global.w_srh_teen_girl_1 (interrupting): \"Ila @global.w_srh_female_caregiver_1, sio hivyo...!\""
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_srh_female_caregiver_1:
+#.      @global.w_srh_teen_girl_1!
+#.      @global.w_srh_teen_girl_1
+#.      @global.w_srh_female_caregiver_1,
+msgctxt "data_list"
+msgid ""
+"@global.w_srh_female_caregiver_1: “No, no, no, @global.w_srh_teen_girl_1! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Come here now! I am going to hit you. Stupid girl!”\n"
+"\n"
+"@global.w_srh_teen_girl_1 (screaming): “No @global.w_srh_female_caregiver_1, please don’t hit me, it is not what you think!”"
+msgstr ""
+"@global.w_srh_female_caregiver_1: \"Hapana, @global.w_srh_teen_girl_1! Sitaki kuwa na maongezi haya na wewe. Ndo mnafanya hivi shuleni? Kuzungumza kuhusu mambo ambayo hayafai umri wako badala ya kuzingatia shule? Hutatoka tena na hao marafiki zako. Unataka kuleta aibu katika nyumba hii. Njoo hapa sasa! Mimi naenda kukupiga. Msichana mjinga!”\n"
+"\n"
+"@global.w_srh_teen_girl_1 (screaming): \"Hapana @global.w_srh_female_caregiver_1, naomba usinipige, sivyo unavyofikiria!\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My new boyfriend"
+msgstr "Mpenzi wangu mpya wa kiume"
 
 #. type=data_list
 msgctxt "data_list"
