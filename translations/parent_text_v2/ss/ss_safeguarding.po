@@ -11,7 +11,17 @@ msgstr ""
 "Language-Team: Swati\n"
 "\n"
 "Language: ss_ZA\n"
-"PO-Revision-Date: 2023-07-16 17:03\n"
+"PO-Revision-Date: 2023-07-24 11:55\n"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to go back to the previous messages?"
+msgstr "Ungatsandza yini kubuyela emuva kulemilayeto leyendlulile?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. Type \"HELP\" at any time if you would like the details of emergency services or other hotlines."
+msgstr "Kulungile loko. Thayipha \"HELP\" noma nini uma ufuna imininingwane yetinombolo tebelusito loluphutfumako noma letinye tinombolo letihlala tivulekile."
 
 #. type=text
 msgctxt "text"
@@ -20,8 +30,103 @@ msgstr "Ngiyacolisa, angikuvisisi kutsi usho kutsini."
 
 #. type=text
 msgctxt "text"
+msgid "Here are the contact details of your local emergency services:"
+msgstr "Nayi imininingwane yekuchumana nebelusito loluphutfumako endzaweni yakini:"
+
+#. type=text
+msgctxt "text"
+msgid "{generic referrals}"
+msgstr "{generic referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "Type \"HELP\" at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+msgstr "Thayipha \"HELP\" noma nini uma ufuna imininingwane yebelusito loluphutfumako noma letinye tinombolo letihlala tivulekile. Khumbula kwekutsi konkhe lokukhulumako kutawuba yimfihlo ngalokuphelele!"
+
+#. type=text
+msgctxt "text"
+msgid "If you ever feel like talking privately to a trained professional, you can call:"
+msgstr "Uma kwenteka utivela ufuna kukhuluma ngasese nemuntfu loyingcweti, ungashayela:"
+
+#. type=text
+msgctxt "text"
+msgid "{mental_health referrals}"
+msgstr "{mental_health referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "Here are the contact details of your local medical services:"
+msgstr "Nayi imininingwane yekuchumana nebelusito loluphutfumako endzaweni yakini:"
+
+#. type=text
+msgctxt "text"
+msgid "{health referrals}"
+msgstr "{health referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "{violence referrals}"
+msgstr "{violence referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "{natural_disasters referrals}"
+msgstr "{natural_disasters referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "{drugs referrals}"
+msgstr "{drugs referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "Are you currently facing an emergency?"
+msgstr "Ngabe ubhekene nesimo lesiphutfumako yini nyalo?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you need some support with an emotional issue?"
+msgstr "Ngabe udzinga kusekelwa ngendzaba lephatselene nemivo?"
+
+#. type=text
+msgctxt "text"
+msgid "Are you currently experiencing a health issue?"
+msgstr "Ngabe ubhekene nendzaba yetemphilo yini nyalo?"
+
+#. type=text
+msgctxt "text"
+msgid "Are you experiencing an unsafe situation?"
+msgstr "Ngabe ubhekene nesimo lesingakaphephi yini?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you have an emergency?"
+msgstr "Ngabe unesimo lesiphutfumako yini?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you need some urgent help?"
+msgstr "Ngabe udzinga lusito loluphutfumako yini?"
+
+#. type=text
+msgctxt "text"
+msgid "It looks like you are facing an emergency. Can you please tell us what kind of assistance you need?"
+msgstr "Kubukeka shengatsi ubhekene nelimo lesiphutfumako. Ungasitjela yini kutsi udzinga luhlobo luni lwelusito?"
+
+#. type=text
+msgctxt "text"
+msgid "{family referrals}"
+msgstr "{family referrals}"
+
+#. type=text
+msgctxt "text"
 msgid "What would you like to do?"
 msgstr "Ufuna kwentani?"
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful! You can access this information at any time by typing HELP."
+msgstr "Siyetsemba kwekutsi loku kube lusito! Ungalutfola noma nini lolwati ngekutsi uthayiphe LUSITO."
 
 #. type=text
 msgctxt "text"
@@ -30,8 +135,54 @@ msgstr "Ngiyacolisa, angivisisi kutsi ushoni."
 
 #. type=text
 msgctxt "text"
+msgid "I don't understand your message."
+msgstr "Angiwucondzisisi umlayeto wakho."
+
+#. type=text
+msgctxt "text"
+msgid "Please type MENU to access resources and review completed modules, PLAY to receive a playful activity you can complete with your child, or HELP to access local support resources for a crisis. "
+msgstr "Uyacelwa kwekutsi uthayiphe MENYU kuze utfole tinsitakusebenta uphindze ubukete emamodula lasaphelile, DLALA kuze utfole umsebenti lonekudlala longawenta nemntfwanakho, noma LUSITO kuze utfole tinsitakusebenta letisendzaweni yakini tekukusita ngesigameko. "
+
+#. type=text
+msgctxt "text"
+msgid "You have not given consent to participate in this programme. Would you like to participate?"
+msgstr "Awukayiniketi imvume yeluhlanganyela kuloluhlelo. Ungatsandza yini kuhlanganyela?"
+
+#. type=text
+msgctxt "text"
+msgid "If you ever decide to participate in the programme, type \"START\". "
+msgstr "Uma uyawuke utsatse sincumo sekuhlanganyela kuloluhlelo, thayipha \"START\". "
+
+#. type=text
+msgctxt "text"
 msgid "We hope to see you again soon, and we wish you a happy and peaceful day! "
 msgstr "Siyetsemba kutsi sitobuye sikubone masinyane, futsi sikufisela lusuku lolunenjabulo nekuthula! "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Parenting is hard. ParentText may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
+msgstr "Kuba ngumtali kumatima. I-ParentText ingasita. Sewucedze imigomo yekuba ngumtali lengu @fields.n_goals_completed kulengu @fields.n_goals_prog. Ungatsandza yini kuchubeka nalosewukwentile?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. If you ever decide to come back, type \"START\". "
+msgstr "Kulungile loko. Uma uyawuke utsatse sincumo sekubuya lapha, thayipha \"START\". "
+
+#. type=text
+msgctxt "text"
+msgid "You are already part of ParentText! "
+msgstr "Sewuvele uyincenye yeParentText! "
+
+#. type=text
+msgctxt "text"
+msgid "Please type MENU to access resources and review completed modules, PLAY to receive a playful activity you can complete with your child, or HELP to access local support resources for a crisis."
+msgstr "Uyacelwa kwekutsi uthayiphe MENYU kuze utfole tinsitakusebenta nekubuketa emamodula lasaphelile, DLALA kuze utfole umsebenti lonekudlala longawenta nemntfwanakho, noma LUSITO kuze utfole tinsitakusebenta letisendzaweni yakini tekukusekela ngesigameko."
+
+#. type=text
+msgctxt "text"
+msgid "You have already completed ParentText!"
+msgstr "Sewuvele uyicedzile iParentText!"
 
 #. type=text
 msgctxt "text"
@@ -46,12 +197,17 @@ msgstr "Kuchubeka neParentText kusita wena nemntfwanakho. Unaso yini siciniseko 
 #. type=text
 msgctxt "text"
 msgid "If you do not want to receive any more messages, please type \"EXIT\"."
-msgstr "Uma ungafuni kutfola leminye imiyaleto thayipha \"CEDZA\"."
+msgstr "Uma ungafuni kutfola leminye imiyaleto bhala \"PHUMA\"."
+
+#. type=text
+msgctxt "text"
+msgid "If you made a mistake, please type \"BACK\"."
+msgstr "Uma ngabe wente siphosiso, uyacelwa kwekutsi uthayiphe \"BACK\"."
 
 #. type=text
 msgctxt "text"
 msgid "Thank you for participating. If you want to return to the programme, type \"START\". "
-msgstr "Siyabonga kuhlanganyela kwakho. Uma ufuna kubuyela kuloluhlelo, thayipha \"CALA\". "
+msgstr "Siyabonga kuhlanganyela kwakho. Uma ufuna kubuyela kuloluhlelo, bhala \"CALA\". "
 
 #. type=text
 msgctxt "text"
@@ -62,6 +218,21 @@ msgstr "Siyetsemba sitokubona futsi masinyane! "
 msgctxt "text"
 msgid "Sorry I don't understand what you mean."
 msgstr "Ngiyacolisa, angivisisi kutsi usho kutsini."
+
+#. type=text
+msgctxt "text"
+msgid "Excellent work. You have completed the Prevent Sexual Violence skill. Remember you can access this information at any time typing “PREVENT”. "
+msgstr "Ngumsebenti lomuhle kakhulu. Sewucedze likhono lekuVimbela Budlova Bebulili. Khumbula kwekutsi ungalutfola lolwati noma nini ngekuthayipha \"PARENT\". "
+
+#. type=text
+msgctxt "text"
+msgid "Excellent work. You have learned the basics of self defence. Remember you can access this information at any time typing “SAFE”. "
+msgstr "Ngumsebenti lomuhle kakhulu. Sewufundzile ngeticalo tekutivikela. Khumbula kwekutsi ungalutfola lolwati noma nini ngekuthayipha \"SAFE\". "
+
+#. type=text
+msgctxt "text"
+msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgstr "Imenyu itawutfolakala nasewucedze kubhalisa. Angeke kutsatse sikhatsi lesidze. Uyacelwa kwekutsi uchubeke nalosewukwentile!"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -78,6 +249,72 @@ msgstr "Cha"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Police"
+msgstr "Emaphoyisa"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Medical services"
+msgstr "Tinsita tekwelapha"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Fire department"
+msgstr "Luphiko letemlilo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Mental health services"
+msgstr "Tinsita temphilo yasengcondweni"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Violence prevention hotline"
+msgstr "Inombolo yetekuvimbela budlova lehlala ivulekile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Suicide prevention hotline"
+msgstr "Inombolo yetekuvimbela kutibulala lehlala ivulekile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Family counselling services"
+msgstr "Tinsita tekweluleka umndeni"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Substance abuse"
+msgstr "Kutjentiswa kabi kwetidzakamiva"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Natural disasters"
+msgstr "Tigameko tendalo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get other emergency contacts"
+msgstr "Tfola letinye tinombolo tebelusito loluphutfumako"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to the Main Menu"
+msgstr "Hamba uye kuMenyu Lenkhulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Exit"
 msgstr "Kuphuma"
 
@@ -90,8 +327,86 @@ msgstr "EMUVA"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "generic"
+msgstr "lokungumfakela"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental_health"
+msgstr "imphilo yasengcondvweni"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "health"
+msgstr "imphilo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "violence"
+msgstr "budlova"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "natural_disasters"
+msgstr "tigameko tendalo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "drugs"
+msgstr "tidzakamiva"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "help"
+msgstr "lusito"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "menu"
+msgstr "menyu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "play"
+msgstr "dlala"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "safe"
+msgstr "phepha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "prevent"
+msgstr "vimbela"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "grow"
+msgstr "khula"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "stop"
 msgstr "cedza"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start"
+msgstr "cala"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -102,8 +417,80 @@ msgstr "yebo y ya yeb"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "no n nope nah"
+msgstr "cha ch chake hhayi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "no n nope"
 msgstr "cha c chake"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "police"
+msgstr "phoyisa"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "medical services"
+msgstr "tinsita tekwelapha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "fire department"
+msgstr "luphiko lwetemlilo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental health services"
+msgstr "tinsita temphilo yasengcondvweni"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "violence prevention hotline"
+msgstr "inombolo yetekuvimbela budlova lehlala ivulekile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "suicide prevention hotline"
+msgstr "inombolo yetekuvimbela kutibulala"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "family counselling services"
+msgstr "tinsita tekweluleka umndeni"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "substance abuse"
+msgstr "kusetjentiswa kabi kwetidzakamiva"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "natural disasters"
+msgstr "tigameko tendalo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get other emergency contacts"
+msgstr "tfola letinye tinombolo tekutsintsa belusito loluphutfumako"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go to the main menu"
+msgstr "yani kumenyu lenkhulu"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
