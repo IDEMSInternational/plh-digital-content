@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swati\n"
 "\n"
 "Language: ss_ZA\n"
-"PO-Revision-Date: 2023-07-21 00:27\n"
+"PO-Revision-Date: 2023-07-26 07:41\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -378,11 +378,6 @@ msgstr "Kwanyalo usebenta umgomo lotsi @(parse_json(fields.goals_dictionary_0 &f
 
 #. type=text
 msgctxt "text"
-msgid "message='You have not completed any goal yet.' image=''"
-msgstr "message='Kusete namunye umgomo lowucedzile.' image=''"
-
-#. type=text
-msgctxt "text"
 msgid "You have completed the following goal:"
 msgstr "Sewucedze lomgomo lolandzelako:"
 
@@ -400,11 +395,6 @@ msgstr "Sewucedze lemigomo lelandzelako:@results.message_options"
 
 #. type=text
 msgctxt "text"
-msgid "message='There are no goals to complete.' image=''"
-msgstr "message='Sekute imigomo lekufanele icedvwe.' image=''"
-
-#. type=text
-msgctxt "text"
 msgid "You have the following outstanding goal to complete:"
 msgstr "Usalelwe ngulomgomo lolandzelako kutsi ucedze:"
 
@@ -413,11 +403,6 @@ msgstr "Usalelwe ngulomgomo lolandzelako kutsi ucedze:"
 msgctxt "text"
 msgid "You are off track to complete this course! You have the following outstanding goals:@results.message_options"
 msgstr "Sewuphumile endleleni yekutsi ucedze letifundvo! Usalelwe ngulemigomo lelandzelako:@results.message_options"
-
-#. type=text
-msgctxt "text"
-msgid "message='You are on track to complete this course! There are no new goals to start!' image=''"
-msgstr "message='Usesendleleni yekucedza letifundvo! Sekute imigomo lemisha longayicala!' image=''"
 
 #. type=text
 msgctxt "text"
