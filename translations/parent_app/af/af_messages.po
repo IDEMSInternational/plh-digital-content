@@ -11,112 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2023-07-13 17:46\n"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Reflect on the positive"
-msgstr "Dink na oor die positiewe"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Check-in chat"
-msgstr "Aanmeldgesprek"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Two truths, one lie"
-msgstr "Twee waarhede, een onwaarheid"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Superpowers"
-msgstr "Superkragte"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Just a friendly chat"
-msgstr "Net ’n vriendelike geselsie"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Three options"
-msgstr "Drie opsies"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Memory game - \"On Saturday...\""
-msgstr "Geheuespeletjie – “Op Saterdag...”"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Make up a story"
-msgstr "Dink ’n storie uit"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Co-chef"
-msgstr "Medekok"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Dance moves"
-msgstr "Dansbewegings"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Mirror"
-msgstr "Spieël"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "What's new?"
-msgstr "Wat is nuut?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Get active!"
-msgstr "Raak aktief!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Name that tune"
-msgstr "Liedjieraai"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Pass the snap"
-msgstr "Vingerklap"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Family workout"
-msgstr "Gesinoefensessie"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Make housework fun"
-msgstr "Maak huistake pret"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Household chores aren’t fun… or are they? You can make them into a game!"
-msgstr "Huistake is nie pret nie... of is dit? Jy kan 'n speletjie daarvan maak!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "What are you doing?"
-msgstr "Wat doen jy?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Here is a fun game you can do with your family!"
-msgstr "Hier is 'n prettige speletjie wat jy saam met jou gesin kan doen!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Crazy chicken"
-msgstr "Mal hoender"
+"PO-Revision-Date: 2023-07-29 00:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -225,6 +120,11 @@ msgstr "Hoe voel jy vandag?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How are you?"
+msgstr "Hoe gaan dit met jou?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Well done!"
 msgstr "Mooi so!"
 
@@ -280,27 +180,21 @@ msgid "Spending 1 minute learning about parenting makes a world of difference."
 msgstr "Om 1 minuut te spandeer om oor ouerskap te leer, maak 'n groot verskil."
 
 #. type=data_list
-#. The string @global.parent_point should not be translated.
-msgctxt "data_list"
-msgid "**Relax** @global.parent_point"
-msgstr "**Ontspan** @global.parent_point"
-
-#. type=data_list
 #. The string @global.parent_app. should not be translated.
 msgctxt "data_list"
 msgid "Do a short relaxation activity: Take a deep breath or open one of the relaxation activities in @global.parent_app. You can do this anytime or anywhere. Taking care of yourself helps you to take care of others."
 msgstr "Doen 'n kort ontspanningsaktiwiteit: Haal diep asem of maak een van die ontspanningsaktiwiteite in @global.parent_app oop. Jy kan dit enige tyd of enige plek doen. Deur na jouself om te sien, help jou om na ander om te sien."
 
 #. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Relax** @global.parent_point"
+msgstr "**Ontspan** @global.parent_point"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Treat yourself well"
 msgstr "Behandel jouself goed"
-
-#. type=data_list
-#. The string @global.parent_point should not be translated.
-msgctxt "data_list"
-msgid "**Treat yourself well** @global.parent_point"
-msgstr "**Behandel jouself goed** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -322,8 +216,8 @@ msgstr "Elke keer wanneer jy jouself goed behandel, klik op die @global.parent_p
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "**Praise yourself** @global.parent_point"
-msgstr "**Prys jouself** @global.parent_point"
+msgid "**Treat yourself well** @global.parent_point"
+msgstr "**Behandel jouself goed** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -337,15 +231,15 @@ msgid "Every time you praise yourself, tap the @global.parent_point and celebrat
 msgstr "Elke keer wanneer jy jouself prys, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Praise yourself** @global.parent_point"
+msgstr "**Prys jouself** @global.parent_point"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "One-on-one time"
 msgstr "Een-tot-een-tyd"
-
-#. type=data_list
-#. The string @global.parent_point should not be translated.
-msgctxt "data_list"
-msgid "**One-on-one time** @global.parent_point"
-msgstr "**Een-tot-een-tyd** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -359,15 +253,15 @@ msgid "Every time you do one-on-one time, tap the @global.parent_point and celeb
 msgstr "Elke keer wanneer jy een-tot-een tyd spandeer, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**One-on-one time** @global.parent_point"
+msgstr "**Een-tot-een-tyd** @global.parent_point"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Praise your teen"
 msgstr "Prys jou tiener"
-
-#. type=data_list
-#. The string @global.parent_point should not be translated.
-msgctxt "data_list"
-msgid "**Praise your teen** @global.parent_point"
-msgstr "**Prys jou tiener** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -389,8 +283,8 @@ msgstr "Elke keer wanneer jy jou tiener prys, klik op die @global.parent_point e
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "**Positive instructions** @global.parent_point"
-msgstr "**Positiewe instruksies** @global.parent_point"
+msgid "**Praise your teen** @global.parent_point"
+msgstr "**Prys jou tiener** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -404,15 +298,15 @@ msgid "Every time you give a positive instruction, tap the @global.parent_point 
 msgstr "Elke keer wanneer jy 'n positiewe instruksie gee, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Positive instructions** @global.parent_point"
+msgstr "**Positiewe instruksies** @global.parent_point"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Respond calmly"
 msgstr "Reageer kalm"
-
-#. type=data_list
-#. The string @global.parent_point should not be translated.
-msgctxt "data_list"
-msgid "**Respond calmly** @global.parent_point"
-msgstr "**Reageer kalm** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -426,15 +320,15 @@ msgid "Every time you take a pause before responding, tap the @global.parent_poi
 msgstr "Elke keer wanneer jy 'n blaaskans vat voor jy reageer, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Respond calmly** @global.parent_point"
+msgstr "**Reageer kalm** @global.parent_point"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Good money choice"
 msgstr "Goeie geldkeuse"
-
-#. type=data_list
-#. The string @global.parent_point should not be translated.
-msgctxt "data_list"
-msgid "**Good money choice** @global.parent_point"
-msgstr "**Goeie geldkeuse** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -460,15 +354,15 @@ msgid "Every time you make a good choice about needs, wants and savings, tap the
 msgstr "Elke keer wanneer jy 'n goeie keuse maak oor behoeftes, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Good money choice** @global.parent_point"
+msgstr "**Goeie geldkeuse** @global.parent_point"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Calm consequence"
 msgstr "Kalm gevolg"
-
-#. type=data_list
-#. The string @global.parent_point should not be translated.
-msgctxt "data_list"
-msgid "**Calm consequence** @global.parent_point"
-msgstr "**Kalm gevolg** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -488,6 +382,12 @@ msgid "Every time you give a calm consequence, tap the @global.parent_point and 
 msgstr "Elke keer wanneer jy op 'n kalm manier 'n gevolg gee, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
+#. The string @global.parent_point should not be translated.
+msgctxt "data_list"
+msgid "**Calm consequence** @global.parent_point"
+msgstr "**Kalm gevolg** @global.parent_point"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Keep your teen safe"
 msgstr "Hou jou tiener veilig"
@@ -495,14 +395,14 @@ msgstr "Hou jou tiener veilig"
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "**Keep your teen safe** @global.parent_point"
-msgstr "**Hou jou tiener veilig** @global.parent_point"
+msgid "Every time you do something to keep your teen safe, tap the @global.parent_point and celebrate your success!"
+msgstr "Elke keer wanneer jy iets doen om jou tiener veilig te hou, klik op die @global.parent_point en vier jou sukses!"
 
 #. type=data_list
 #. The string @global.parent_point should not be translated.
 msgctxt "data_list"
-msgid "Every time you do something to keep your teen safe, tap the @global.parent_point and celebrate your success!"
-msgstr "Elke keer wanneer jy iets doen om jou tiener veilig te hou, klik op die @global.parent_point en vier jou sukses!"
+msgid "**Keep your teen safe** @global.parent_point"
+msgstr "**Hou jou tiener veilig** @global.parent_point"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1076,6 +976,11 @@ msgstr "onder **Ontspan & aktiwiteite** in die @global.parent_centre"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Relaxation activities"
+msgstr "Ontspanningsaktiwiteite"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Help"
 msgstr "Hulp"
 
@@ -1120,6 +1025,21 @@ msgstr "Boodskapargief"
 msgctxt "data_list"
 msgid "**Message Archive** in the @global.parent_centre"
 msgstr "**Boodskapargief** in die @global.parent_centre"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Confused"
+msgstr "Verward"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Angry"
+msgstr "Kwaad"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Hopeful"
+msgstr "Hoopvol"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1403,6 +1323,11 @@ msgstr "WhatsApp"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Call"
+msgstr "Skakel"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "TEWWY's Mental Health Q&A booklet"
 msgstr "TEWWY se Vraag-en-Antwoord-brosjure oor Geestesgesondheid"
 
@@ -1415,6 +1340,341 @@ msgstr "Hierdie brosjure beantwoord sommige algemene vrae oor geestesgesondheid 
 msgctxt "data_list"
 msgid "Booklet"
 msgstr "Brosjure"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reflect on the positive"
+msgstr "Dink na oor die positiewe"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"At the end of the day, take a minute to: \n"
+"\n"
+"* Talk to your teen about one fun thing they did. \n"
+"* Praise yourself for one thing you did well today. \n"
+"* You are a star!"
+msgstr ""
+"Neem aan die end van die dag ’n minuut om:\n"
+"\n"
+"* Met jou tiener te praat oor iets lekkers wat hulle gedoen het.\n"
+"* Jouself te prys vir een ding wat jy vandag goed gedoen het.\n"
+"* Jy’s ’n ster!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Check-in chat"
+msgstr "Aanmeldgesprek"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Ask each other, “What made you happy today?”\n"
+"* Ask each other, “What difficulty did you face today?”\n"
+"* Ask each other, “How can I help you?”\n"
+"* Try to do this together every day; it could be when you are eating dinner together or before you go to bed."
+msgstr ""
+"* Vra vir mekaar: “Wat het jou vandag gelukkig gemaak?”\n"
+"* Vra vir mekaar: “Met watter probleme het jy vandag te doen gehad?”\n"
+"* Vra vir mekaar: “Hoe kan ek jou help?”\n"
+"* Probeer dit elke dag saam doen; julle kan dit doen wanneer julle saam aandete eet of voor julle gaan slaap."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* You can’t always travel, but you can always dream! Ask your teen these questions:\n"
+"* Where would you want to travel to? How long would you be away? What would you pack? What would you do on your trip? What would you see?\n"
+"* Look at a map together or draw one.\n"
+"* Choose a country that your teen has never heard of and learn more about the country."
+msgstr ""
+"* Jy kan nie altyd reis nie, maar jy kan altyd droom! Vra jou tiener hierdie vrae:\n"
+"* Waarheen sou jy wou reis? Hoe lank sou jy weg wees? Wat sou jy inpak? Wat sou jy op jou reis doen? Wat sou jy sien?\n"
+"* Kyk saam na ’n kaart of teken een.\n"
+"* Kies ’n land waarvan jou tiener nog nooit gehoor het nie en leer meer oor die land."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You and your teenager can plan a guestlist of the famous people you’d most like to invite to your party. You can each have five people – they can be from the past or from the present time. Who would you invite? And would your guests get on well together?"
+msgstr "Jy en jou tiener kan ’n gastelys beplan van die beroemde mense wat jy die graagste na julle partytjie wil nooi. Elkeen kan vyf mense hê – hulle kan uit die verlede of uit die huidige tyd wees. Wie sou jy nooi? En sal julle gaste goed met mekaar oor die weg kom?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Two truths, one lie"
+msgstr "Twee waarhede, een onwaarheid"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Think of three statements about yourself. Two must be true and one must be a lie.\n"
+"* It might help to think of wishes, dreams, experiences at school, likes or dislikes. For example: I hate bananas, my favourite subject is science, and I really wish I could sing. \n"
+"* Say them to your teenager and ask them to guess which one is a lie. \n"
+"* Did they guess correctly? Was it a surprise?\n"
+"* Now ask them to do the same. Did you learn something new about each other?"
+msgstr ""
+"* Dink aan drie stellings oor jouself. Twee moet waar wees en een moet ’n leuen wees.\n"
+"* Dit kan help om te dink aan wense, drome, ervarings op skool, dinge waarvan jy hou of nie hou nie. Byvoorbeeld: ek haat piesangs, my gunstelingvak is wetenskap en ek wens regtig ek kon sing.\n"
+"* Sê dit vir jou tiener en vra hulle om te raai watter een ’n leuen is.\n"
+"* Het hulle reg geraai? Was dit ’n verrassing?\n"
+"* Vra hulle nou om dieselfde te doen. Het julle iets nuuts omtrent mekaar geleer?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tell your teenager something about when you were a teenager yourself. What things didn’t exist then? Phones with internet? What did you do for fun? What did you worry about? Don’t worry if they don’t tell you something in return – what’s important is that they listen and remember. Sometimes our teenagers forget that their parents are people too!"
+msgstr "Vertel jou tiener iets van jouself toe jy ’n tiener was. Watter dinge het toe nog nie bestaan nie? Fone met internet? Wat het jy vir die pret gedoen? Waaroor was jy bekommerd? Moenie bekommerd wees as hulle jou niks terugvertel nie – wat belangrik is, is dat hulle luister en onthou. Soms vergeet ons tieners dat hul ouers ook mense is!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Superpowers"
+msgstr "Superkragte"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Think of a superpower. For example, going anywhere instantly, travelling in time, reading minds. \n"
+"* Ask your teen, “If you had the superpower to […], how would you use it?”\n"
+"* Encourage them to give their superhero a name and act it out. \n"
+"* Now let your teen choose a superpower for you.\n"
+"* Make sure you act out your superpower, too!"
+msgstr ""
+"* Dink aan ’n superkrag. Byvoorbeeld, om dadelik na enige plek te kan gaan, in tyd te reis, gedagtes te lees.\n"
+"* Vra jou tiener: “As jy die superkrag gehad het om [...] te gebruik, hoe sou jy dit gebruik?”\n"
+"* Moedig hulle aan om hul superheld ’n naam te gee en dit uit te voer.\n"
+"* Laat jou tiener nou toe om ’n superkrag vir jou te kies.\n"
+"* Maak seker dat jy ook jou superkrag uitvoer!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Just a friendly chat"
+msgstr "Net ’n vriendelike geselsie"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Have a conversation with your teen about something they like.\n"
+"\n"
+"It can be about anything they choose to talk about: sports, friends, music, celebrities…\n"
+"\n"
+"Try to listen to your teen and give them space to talk."
+msgstr ""
+"Gesels met jou tiener oor iets waarvan hulle hou.\n"
+"\n"
+"Dit kan oor enigiets wees waaroor hulle wil praat: sport, vriende, musiek, bekendes ...\n"
+"\n"
+"Probeer om na jou tiener te luister en gee hulle ruimte om te praat."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Three options"
+msgstr "Drie opsies"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Think of three different situations. For example, driving a car, sailing a boat or flying a plane.\n"
+"* Say them to your teen and ask, “Which would you prefer?”\n"
+"* Ask them why?\n"
+"* Now think of three more situations or ask your teen to do it for you."
+msgstr ""
+"* Dink aan drie verskillende situasies. Byvoorbeeld, om ’n motor te bestuur, ’n boot te laat seil of ’n vliegtuig te laat vlieg.\n"
+"* Noem dit vir jou tiener en vra: “Watter een sou jy verkies?”\n"
+"* Vra hulle hoekom?\n"
+"* Dink nou aan nog drie situasies of vra jou tiener om dit vir jou te doen."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make up a story"
+msgstr "Dink ’n storie uit"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Co-chef"
+msgstr "Medekok"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Ask your teen what kind of meal they would like to eat. \n"
+"* Prepare it together!    \n"
+"* Let them have a turn at being the head chef – they lead, and you follow their instructions. \n"
+"* You can even help them to make a budget for the ingredients! \n"
+"\n"
+"Don’t think it will work? Ask your teens what THEY would like for you and them to do together. Let them lead. Relax. Have fun."
+msgstr ""
+"* Vra jou tiener watter tipe ete hy/sy wil eet.\n"
+"* Berei dit saam voor!\n"
+"* Gee jou tiener ’n beurt om die hoofkok te wees – hy/sy neem die leiding en jy volg sy/haar instruksies.\n"
+"* Jy kan hulle selfs help om ’n begroting vir die bestanddele op te stel!\n"
+"\n"
+"Dink jy dat dit nie sal werk nie? Vra jou tieners wat hulle wil hê dat jy en hulle saam moet doen. Laat hulle die leiding neem. Ontspan. Geniet dit."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Dance moves"
+msgstr "Dansbewegings"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Create a set of dance moves to your teen's favourite songs. \n"
+"* One person does a dance move and everyone else copies it.  \n"
+"* Everyone takes turns being the leader. \n"
+"* Perform it for the household!"
+msgstr ""
+"* Skep ’n stel danspassies vir jou tiener se gunstelingliedjies.\n"
+"* Een persoon doen ’n danspassie en almal aap dit na.\n"
+"* Almal maak beurte om die leier te wees.\n"
+"* Voer dit vir die huismense op!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mirror"
+msgstr "Spieël"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What's new?"
+msgstr "Wat is nuut?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Get active!"
+msgstr "Raak aktief!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Come up with three types of exercise together. For example, walking, jogging, soccer or dancing.\n"
+"* Pick one together and try it out. \n"
+"* If you both like it, decide how often you are going to do it. Once or twice a week? Every morning?\n"
+"* Together think of ways to make it even more fun. Can you jog to a certain point? Take turns in being the coach? Motivate each other with a small free reward?"
+msgstr ""
+"* Dink saam aan drie soorte oefeninge. Byvoorbeeld, stap, draf, sokker speel of dans.\n"
+"* Kies een saam en probeer dit.\n"
+"* As julle albei daarvan hou, besluit hoe gereeld julle dit gaan doen. Een of twee keer per week? Elke oggend?\n"
+"* Dink saam aan maniere om dit nog prettiger te maak. Kan julle tot by ’n sekere punt draf? Beurte maak om die afrigter te wees? Mekaar motiveer met ’n klein gratis beloning?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Name that tune"
+msgstr "Liedjieraai"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* The first person gets to choose or sing a song.\n"
+"* Everyone else must guess the name of the tune (to make it harder they can guess the singer).\n"
+"* The first one to guess it right becomes the next leader."
+msgstr ""
+"* Die eerste persoon kan ’n liedjie kies of sing.\n"
+"* Almal moet die naam van die deuntjie raai (om dit moeiliker te maak, kan hulle raai wie die sanger is).\n"
+"* Die eerste een wat dit reg raai, word die volgende leier."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pass the snap"
+msgstr "Vingerklap"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This game is best with at least 3 people.\n"
+"* Start in a circle and pass one “snap” around the circle (or a “clap” if you cannot snap).\n"
+"* You “snap” once to throw the “snap”, and once to catch it. Look at the person you are throwing it to.  \n"
+"* The direction (up, down, straight, curved, rolling the ground) and force (hard, soft, medium) that you throw the snap should affect how the person catches it.  \n"
+"* You can bounce the “snap”, throw it in the air, and catch it a few times before passing it.  \n"
+"* When everyone gets good at this, you can start moving around the room, still passing the “snap”.  \n"
+"* Can you throw under the leg? Behind the back? Through your head? Intercept a pass? Have fun with the “snap”!"
+msgstr ""
+"Hierdie speletjie is die beste met ten minste 3 mense.\n"
+"* Begin in ’n kring en gee een “klap” met die vingers in die kring om (of klap hande as jy nie jou vingers kan klap nie).\n"
+"* Jy “klap” een keer om die “klap” te gooi, en een keer om dit te vang. Kyk na die persoon na wie jy dit gooi.\n"
+"* Die rigting (op, af, reguit, geboë, oor die grond) en krag (hard, sag, gemiddeld) waarmee jy die klap gooi, moet ’n invloed hê op hoe die persoon dit vang.\n"
+"* Jy kan die “klap” laat hop, dit in die lug gooi en dit ’n paar keer vang voordat jy dit aanstuur.\n"
+"* As almal daarmee vaardig raak, kan julle in die kamer begin rondbeweeg en steeds die “klap” aanstuur.\n"
+"* Kan jy onder die been deur gooi? Agter die rug om? Deur jou kop? ’n Aangee onderskep? Geniet dit om te “klap”!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Family workout"
+msgstr "Gesinoefensessie"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Choose a sport or exercise to do together. Decide on a schedule. Are you going to do it every day? For how long? \n"
+"\n"
+"Try it out for a week. At the end of the week, ask yourself and your family these questions:\n"
+"* How is it going? \n"
+"* How did you feel at the start of the week? \n"
+"* How do you feel at the end of the week? \n"
+"* What can we do differently next week?"
+msgstr ""
+"Kies ’n sport of oefening om saam te doen. Besluit op ’n skedule. Gaan julle dit elke dag doen? Vir hoe lank?\n"
+"\n"
+"Probeer dit vir ’n week. Vra jouself en jou gesin aan die einde van die week die volgende vrae:\n"
+"* Hoe gaan dit?\n"
+"* Hoe het jy aan die begin van die week gevoel?\n"
+"* Hoe voel jy aan die einde van die week?\n"
+"* Wat kan ons volgende week anders doen?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Make housework fun"
+msgstr "Maak huistake pret"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Household chores aren’t fun… or are they? You can make them into a game!"
+msgstr "Huistake is nie pret nie... of is dit? Jy kan 'n speletjie daarvan maak!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What are you doing?"
+msgstr "Wat doen jy?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here is a fun game you can do with your family!"
+msgstr "Hier is 'n prettige speletjie wat jy saam met jou gesin kan doen!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This game is best when more than 2 people play.\n"
+"* One person pretends to be doing something – for example, combing hair or making dinner. \n"
+"* Another person asks, “What are you doing?”\n"
+"* The first person needs to say something that has nothing to do with combing hair, for example, “Tying my shoes.”  \n"
+"* The second person then starts pretending to tie their shoes until a new person asks, “What are you doing?” \n"
+"\n"
+"The answer must always be something different than what you are actually doing!"
+msgstr ""
+"Hierdie speletjie is die beste as meer as 2 mense speel.\n"
+"* Een persoon maak asof hulle iets doen – byvoorbeeld hare kam of aandete maak.\n"
+"* ’n Ander persoon vra: “Wat doen jy?”\n"
+"* Die eerste persoon moet iets sê wat niks met hare kam te doen het nie, byvoorbeeld: “Maak my veters vas.”\n"
+"* Die tweede persoon begin dan maak asof hy sy veters vasmaak totdat ’n nuwe persoon vra: “Wat doen jy?”\n"
+"\n"
+"Die antwoord moet altyd iets anders wees as wat jy eintlik doen!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Crazy chicken"
+msgstr "Mal hoender"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"* Shake your left hands in the air 8 times while counting to 8.\n"
+"* Do it as fast and loud as you can.\n"
+"* Repeat with your other hand. Repeat with both feet.\n"
+"* Do it 7 times, then 6 times and continue until you get to 1.\n"
+"* Everyone calls out “Crazy chicken” and does their best crazy chicken dance!"
+msgstr ""
+"* Skud julle linkerhande 8 keer in die lug terwyl julle tot 8 tel.\n"
+"* Doen dit so vinnig en hard as wat julle kan.\n"
+"* Herhaal met die ander hand. Herhaal met albei voete.\n"
+"* Doen dit 7 keer, dan 6 keer en gaan voort totdat julle by 1 kom.\n"
+"* Almal roep dan “Mal hoender” uit en doen hul beste malhoender-dans!"
 
 #. type=data_list
 #. The string @global.w_praise_female_caregiver_name should not be translated.
@@ -2497,6 +2757,11 @@ msgstr "Hoe om selfsorg te doen"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "RELAX"
+msgstr "ONTSPAN"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Do a 30 second quick relaxation activity."
 msgstr "Doen ’n vinnige ontspanning-aktiwiteit vir 30 sekondes."
 
@@ -2507,8 +2772,18 @@ msgstr "Ontspanning-aktiwiteit"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "RECOGNISE"
+msgstr "ERKEN"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Recognise activity"
 msgstr "Erkenning-aktiwiteit"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REWARD"
+msgstr "BELONING"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2537,6 +2812,11 @@ msgstr "Wees entoesiasties – bedoel dit opreg wanneer jy dit sê!"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "REPEAT IT"
+msgstr "HERHAAL DIT"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Try to find something to thank them for every day. Even something really small."
 msgstr "Probeer elke dag iets kry waarvoor jy hulle bedank. Selfs iets baie klein."
 
@@ -2552,13 +2832,18 @@ msgstr "Hoe om positiewe opdragte te gee"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "GET REAL"
+msgstr "KOM BY"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Can your teen actually do what you are about to ask? It may be impossible for them to read quietly all day, but half an hour when you really need it is realistic."
 msgstr "Kan jou tiener werklik doen wat jy nou gaan vra? Dit mag dalk vir hulle onmoontlik wees om die hele dag stil te sit en lees, maar die halfuur wanneer jy dit regtig nodig het, is realisties."
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Get positive"
-msgstr "Wees positief"
+msgid "GET POSITIVE"
+msgstr "WEES POSITIEF"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2597,13 +2882,28 @@ msgstr "Identifiseer die probleem."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SOLVE IT"
+msgstr "LOS DIT OP"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Think of possible solutions and what would happen if we used them."
 msgstr "Dink aan moontlike oplossings en wat sal gebeur as ons dit gebruik."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "TRY IT"
+msgstr "PROBEER DIT"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Choose a solution and try it out."
 msgstr "Kies ’n oplossing en probeer dit."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TEST IT"
+msgstr "TOETS DIT"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2627,8 +2927,23 @@ msgstr "Hoe om reëls te skep"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "TEAM RULES"
+msgstr "SPANWERK REËLS"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
 msgstr "Huisreëls help om ons kinders veilig te hou, en te verstaan wat van hulle verwag word. Wanneer jy ’n tiener betrek wanneer reëls neergelê word, is hulle meer geneë om die reëls na te kom."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REAL RULES"
+msgstr "REALISTIES REËLS"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRAISE RULES!"
+msgstr "REËLS VIR PRYS!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2647,6 +2962,16 @@ msgstr "Dis belangrik hoe jy kalm gevolge voorstel. Onthou, wanneer jy jou tiene
 
 #. type=data_list
 msgctxt "data_list"
+msgid "EXPLAIN"
+msgstr "VERDUIDELIK"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "AGREE"
+msgstr "STEM OOREEN"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "Plan consequences with your teen for following and not following the rule.\n"
 "\n"
@@ -2662,13 +2987,28 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "ACT"
+msgstr "TREE OP"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How to keep your teen safe"
 msgstr "Hoe om jou tiener veilig te hou"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "MAPS"
+msgstr "KAARTE"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Safety Plan Activity"
 msgstr "Veiligheidsplan-aktiwiteit"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "RULES"
+msgstr "REËLS"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2692,13 +3032,23 @@ msgstr "Krisisse kan ons kwaad of hulpeloos laat voel. Maar dít is wanneer ons 
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Listen"
-msgstr "Luister"
+msgid "BREATHE"
+msgstr "ASEM IN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "LISTEN"
+msgstr "LUISTER"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Tell them you are there for them and love them."
 msgstr "Sê vir hulle jy is daar vir hulle, en is lief vir hulle."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "THINK"
+msgstr "DINK"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2717,13 +3067,28 @@ msgstr "Hoe om mekaar te ondersteun"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "MEET"
+msgstr "KOM BYMEKAAR"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Keep meeting regularly to give each other parenting support."
 msgstr "Kom gereeld bymekaar om aan mekaar ouerondersteuning te gee."
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Call"
-msgstr "Skakel"
+msgid "CALL"
+msgstr "SKAKEL"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "TEXT"
+msgstr "STUUR TEKSBOODSKAPPE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SHARE"
+msgstr "DEEL"
 
 #. type=data_list
 #. The string @global.parent_app should not be translated.
@@ -2733,8 +3098,23 @@ msgstr "Deel @global.parent_app en help ander gesinne om hul reis te begin."
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Say goodbye"
-msgstr "Sê totsiens"
+msgid "KNOW IT"
+msgstr "WEET DIT"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SEE IT"
+msgstr "SIEN DIT"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SAY IT"
+msgstr "SÊ DIT"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "PRAISE"
+msgstr "PRYS"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3023,25 +3403,6 @@ msgstr ""
 "Dit is ’n baie groot prestasie. Dit wys hoeveel jy vir jou gesin omgee. \n"
 "\n"
 "Kom ons vier jou prestasie, en beplan jou toekomstige @global.parent_app-steun."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"Greetings everyone.\n"
-"\n"
-"Today’s topic is celebration and next steps.\n"
-"\n"
-"It has been amazing, it has been wonderful having you on this journey. Today we are celebrating our journey together. \n"
-"\n"
-"Today we are celebrating all the learnings that we have learned throughout."
-msgstr ""
-"Goeiedag, almal.\n"
-"\n"
-"Die onderwerp vir vandag is viering en volgende stappe.\n"
-"\n"
-"Dit was ongelooflik. Dit was wonderlik om julle op hierdie reis te hê. Vandag vier ons ons reis saam.\n"
-"\n"
-"Vandag vier ons alles wat ons deur die hele ervaring geleer het."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3450,8 +3811,13 @@ msgstr "**Viering en Volgende Stappe** @global.workshop"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "How are you?"
-msgstr "Hoe gaan dit met jou?"
+msgid "Let's try it out and do a short relaxation activity together!"
+msgstr "Kom ons probeer dit en doen saam ’n kort ontspanning-aktiwiteit!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Well done! Try to do this every day."
+msgstr "Mooi so! Probeer dit elke dag doen."
 
 #. type=data_list
 msgctxt "data_list"
@@ -4452,6 +4818,11 @@ msgstr "Alle aktiwiteite"
 
 #. type=global
 msgctxt "global"
+msgid "Activities"
+msgstr "Aktiwiteite"
+
+#. type=global
+msgctxt "global"
 msgid "Random Activity"
 msgstr "Lukrake aktiwiteite"
 
@@ -5075,241 +5446,6 @@ msgstr "Jy sal slegs kan voortgaan en toegang tot die toep verkry deur jou toest
 
 #. type=template
 msgctxt "template"
-msgid ""
-"* Ask each other, “What made you happy today?”\n"
-"* Ask each other, “What difficulty did you face today?”\n"
-"* Ask each other, “How can I help you?”\n"
-"* Try to do this together every day; it could be when you are eating dinner together or before you go to bed."
-msgstr ""
-"* Vra vir mekaar: “Wat het jou vandag gelukkig gemaak?”\n"
-"* Vra vir mekaar: “Met watter probleme het jy vandag te doen gehad?”\n"
-"* Vra vir mekaar: “Hoe kan ek jou help?”\n"
-"* Probeer dit elke dag saam doen; julle kan dit doen wanneer julle saam aandete eet of voor julle gaan slaap."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* Ask your teen what kind of meal they would like to eat. \n"
-"* Prepare it together!    \n"
-"* Let them have a turn at being the head chef – they lead, and you follow their instructions. \n"
-"* You can even help them to make a budget for the ingredients! \n"
-"\n"
-"Don’t think it will work? Ask your teens what THEY would like for you and them to do together. Let them lead. Relax. Have fun."
-msgstr ""
-"* Vra jou tiener watter tipe ete hy/sy wil eet.\n"
-"* Berei dit saam voor!\n"
-"* Gee jou tiener ’n beurt om die hoofkok te wees – hy/sy neem die leiding en jy volg sy/haar instruksies.\n"
-"* Jy kan hulle selfs help om ’n begroting vir die bestanddele op te stel!\n"
-"\n"
-"Dink jy dat dit nie sal werk nie? Vra jou tieners wat hulle wil hê dat jy en hulle saam moet doen. Laat hulle die leiding neem. Ontspan. Geniet dit."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* Shake your left hands in the air 8 times while counting to 8.\n"
-"* Do it as fast and loud as you can.\n"
-"* Repeat with your other hand. Repeat with both feet.\n"
-"* Do it 7 times, then 6 times and continue until you get to 1.\n"
-"* Everyone calls out “Crazy chicken” and does their best crazy chicken dance!"
-msgstr ""
-"* Skud julle linkerhande 8 keer in die lug terwyl julle tot 8 tel.\n"
-"* Doen dit so vinnig en hard as wat julle kan.\n"
-"* Herhaal met die ander hand. Herhaal met albei voete.\n"
-"* Doen dit 7 keer, dan 6 keer en gaan voort totdat julle by 1 kom.\n"
-"* Almal roep dan “Mal hoender” uit en doen hul beste malhoender-dans!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* Create a set of dance moves to your teen's favourite songs. \n"
-"* One person does a dance move and everyone else copies it.  \n"
-"* Everyone takes turns being the leader. \n"
-"* Perform it for the household!"
-msgstr ""
-"* Skep ’n stel danspassies vir jou tiener se gunstelingliedjies.\n"
-"* Een persoon doen ’n danspassie en almal aap dit na.\n"
-"* Almal maak beurte om die leier te wees.\n"
-"* Voer dit vir die huismense op!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"This game is best when more than 2 people play.\n"
-"* One person pretends to be doing something – for example, combing hair or making dinner. \n"
-"* Another person asks, “What are you doing?”\n"
-"* The first person needs to say something that has nothing to do with combing hair, for example, “Tying my shoes.”  \n"
-"* The second person then starts pretending to tie their shoes until a new person asks, “What are you doing?” \n"
-"\n"
-"The answer must always be something different than what you are actually doing!"
-msgstr ""
-"Hierdie speletjie is die beste as meer as 2 mense speel.\n"
-"* Een persoon maak asof hulle iets doen – byvoorbeeld hare kam of aandete maak.\n"
-"* ’n Ander persoon vra: “Wat doen jy?”\n"
-"* Die eerste persoon moet iets sê wat niks met hare kam te doen het nie, byvoorbeeld: “Maak my veters vas.”\n"
-"* Die tweede persoon begin dan maak asof hy sy veters vasmaak totdat ’n nuwe persoon vra: “Wat doen jy?”\n"
-"\n"
-"Die antwoord moet altyd iets anders wees as wat jy eintlik doen!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* You can’t always travel, but you can always dream! Ask your teen these questions:\n"
-"* Where would you want to travel to? How long would you be away? What would you pack? What would you do on your trip? What would you see?\n"
-"* Look at a map together or draw one.\n"
-"* Choose a country that your teen has never heard of and learn more about the country."
-msgstr ""
-"* Jy kan nie altyd reis nie, maar jy kan altyd droom! Vra jou tiener hierdie vrae:\n"
-"* Waarheen sou jy wou reis? Hoe lank sou jy weg wees? Wat sou jy inpak? Wat sou jy op jou reis doen? Wat sou jy sien?\n"
-"* Kyk saam na ’n kaart of teken een.\n"
-"* Kies ’n land waarvan jou tiener nog nooit gehoor het nie en leer meer oor die land."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Choose a sport or exercise to do together. Decide on a schedule. Are you going to do it every day? For how long? \n"
-"\n"
-"Try it out for a week. At the end of the week, ask yourself and your family these questions:\n"
-"* How is it going? \n"
-"* How did you feel at the start of the week? \n"
-"* How do you feel at the end of the week? \n"
-"* What can we do differently next week?"
-msgstr ""
-"Kies ’n sport of oefening om saam te doen. Besluit op ’n skedule. Gaan julle dit elke dag doen? Vir hoe lank?\n"
-"\n"
-"Probeer dit vir ’n week. Vra jouself en jou gesin aan die einde van die week die volgende vrae:\n"
-"* Hoe gaan dit?\n"
-"* Hoe het jy aan die begin van die week gevoel?\n"
-"* Hoe voel jy aan die einde van die week?\n"
-"* Wat kan ons volgende week anders doen?"
-
-#. type=template
-msgctxt "template"
-msgid "You and your teenager can plan a guestlist of the famous people you’d most like to invite to your party. You can each have five people – they can be from the past or from the present time. Who would you invite? And would your guests get on well together?"
-msgstr "Jy en jou tiener kan ’n gastelys beplan van die beroemde mense wat jy die graagste na julle partytjie wil nooi. Elkeen kan vyf mense hê – hulle kan uit die verlede of uit die huidige tyd wees. Wie sou jy nooi? En sal julle gaste goed met mekaar oor die weg kom?"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Have a conversation with your teen about something they like.\n"
-"\n"
-"It can be about anything they choose to talk about: sports, friends, music, celebrities…\n"
-"\n"
-"Try to listen to your teen and give them space to talk."
-msgstr ""
-"Gesels met jou tiener oor iets waarvan hulle hou.\n"
-"\n"
-"Dit kan oor enigiets wees waaroor hulle wil praat: sport, vriende, musiek, bekendes ...\n"
-"\n"
-"Probeer om na jou tiener te luister en gee hulle ruimte om te praat."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* Come up with three types of exercise together. For example, walking, jogging, soccer or dancing.\n"
-"* Pick one together and try it out. \n"
-"* If you both like it, decide how often you are going to do it. Once or twice a week? Every morning?\n"
-"* Together think of ways to make it even more fun. Can you jog to a certain point? Take turns in being the coach? Motivate each other with a small free reward?"
-msgstr ""
-"* Dink saam aan drie soorte oefeninge. Byvoorbeeld, stap, draf, sokker speel of dans.\n"
-"* Kies een saam en probeer dit.\n"
-"* As julle albei daarvan hou, besluit hoe gereeld julle dit gaan doen. Een of twee keer per week? Elke oggend?\n"
-"* Dink saam aan maniere om dit nog prettiger te maak. Kan julle tot by ’n sekere punt draf? Beurte maak om die afrigter te wees? Mekaar motiveer met ’n klein gratis beloning?"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* The first person gets to choose or sing a song.\n"
-"* Everyone else must guess the name of the tune (to make it harder they can guess the singer).\n"
-"* The first one to guess it right becomes the next leader."
-msgstr ""
-"* Die eerste persoon kan ’n liedjie kies of sing.\n"
-"* Almal moet die naam van die deuntjie raai (om dit moeiliker te maak, kan hulle raai wie die sanger is).\n"
-"* Die eerste een wat dit reg raai, word die volgende leier."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"This game is best with at least 3 people.\n"
-"* Start in a circle and pass one “snap” around the circle (or a “clap” if you cannot snap).\n"
-"* You “snap” once to throw the “snap”, and once to catch it. Look at the person you are throwing it to.  \n"
-"* The direction (up, down, straight, curved, rolling the ground) and force (hard, soft, medium) that you throw the snap should affect how the person catches it.  \n"
-"* You can bounce the “snap”, throw it in the air, and catch it a few times before passing it.  \n"
-"* When everyone gets good at this, you can start moving around the room, still passing the “snap”.  \n"
-"* Can you throw under the leg? Behind the back? Through your head? Intercept a pass? Have fun with the “snap”!"
-msgstr ""
-"Hierdie speletjie is die beste met ten minste 3 mense.\n"
-"* Begin in ’n kring en gee een “klap” met die vingers in die kring om (of klap hande as jy nie jou vingers kan klap nie).\n"
-"* Jy “klap” een keer om die “klap” te gooi, en een keer om dit te vang. Kyk na die persoon na wie jy dit gooi.\n"
-"* Die rigting (op, af, reguit, geboë, oor die grond) en krag (hard, sag, gemiddeld) waarmee jy die klap gooi, moet ’n invloed hê op hoe die persoon dit vang.\n"
-"* Jy kan die “klap” laat hop, dit in die lug gooi en dit ’n paar keer vang voordat jy dit aanstuur.\n"
-"* As almal daarmee vaardig raak, kan julle in die kamer begin rondbeweeg en steeds die “klap” aanstuur.\n"
-"* Kan jy onder die been deur gooi? Agter die rug om? Deur jou kop? ’n Aangee onderskep? Geniet dit om te “klap”!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"At the end of the day, take a minute to: \n"
-"\n"
-"* Talk to your teen about one fun thing they did. \n"
-"* Praise yourself for one thing you did well today. \n"
-"* You are a star!"
-msgstr ""
-"Neem aan die end van die dag ’n minuut om:\n"
-"\n"
-"* Met jou tiener te praat oor iets lekkers wat hulle gedoen het.\n"
-"* Jouself te prys vir een ding wat jy vandag goed gedoen het.\n"
-"* Jy’s ’n ster!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* Think of a superpower. For example, going anywhere instantly, travelling in time, reading minds. \n"
-"* Ask your teen, “If you had the superpower to […], how would you use it?”\n"
-"* Encourage them to give their superhero a name and act it out. \n"
-"* Now let your teen choose a superpower for you.\n"
-"* Make sure you act out your superpower, too!"
-msgstr ""
-"* Dink aan ’n superkrag. Byvoorbeeld, om dadelik na enige plek te kan gaan, in tyd te reis, gedagtes te lees.\n"
-"* Vra jou tiener: “As jy die superkrag gehad het om [...] te gebruik, hoe sou jy dit gebruik?”\n"
-"* Moedig hulle aan om hul superheld ’n naam te gee en dit uit te voer.\n"
-"* Laat jou tiener nou toe om ’n superkrag vir jou te kies.\n"
-"* Maak seker dat jy ook jou superkrag uitvoer!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* Think of three different situations. For example, driving a car, sailing a boat or flying a plane.\n"
-"* Say them to your teen and ask, “Which would you prefer?”\n"
-"* Ask them why?\n"
-"* Now think of three more situations or ask your teen to do it for you."
-msgstr ""
-"* Dink aan drie verskillende situasies. Byvoorbeeld, om ’n motor te bestuur, ’n boot te laat seil of ’n vliegtuig te laat vlieg.\n"
-"* Noem dit vir jou tiener en vra: “Watter een sou jy verkies?”\n"
-"* Vra hulle hoekom?\n"
-"* Dink nou aan nog drie situasies of vra jou tiener om dit vir jou te doen."
-
-#. type=template
-msgctxt "template"
-msgid "Tell your teenager something about when you were a teenager yourself. What things didn’t exist then? Phones with internet? What did you do for fun? What did you worry about? Don’t worry if they don’t tell you something in return – what’s important is that they listen and remember. Sometimes our teenagers forget that their parents are people too!"
-msgstr "Vertel jou tiener iets van jouself toe jy ’n tiener was. Watter dinge het toe nog nie bestaan nie? Fone met internet? Wat het jy vir die pret gedoen? Waaroor was jy bekommerd? Moenie bekommerd wees as hulle jou niks terugvertel nie – wat belangrik is, is dat hulle luister en onthou. Soms vergeet ons tieners dat hul ouers ook mense is!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"* Think of three statements about yourself. Two must be true and one must be a lie.\n"
-"* It might help to think of wishes, dreams, experiences at school, likes or dislikes. For example: I hate bananas, my favourite subject is science, and I really wish I could sing. \n"
-"* Say them to your teenager and ask them to guess which one is a lie. \n"
-"* Did they guess correctly? Was it a surprise?\n"
-"* Now ask them to do the same. Did you learn something new about each other?"
-msgstr ""
-"* Dink aan drie stellings oor jouself. Twee moet waar wees en een moet ’n leuen wees.\n"
-"* Dit kan help om te dink aan wense, drome, ervarings op skool, dinge waarvan jy hou of nie hou nie. Byvoorbeeld: ek haat piesangs, my gunstelingvak is wetenskap en ek wens regtig ek kon sing.\n"
-"* Sê dit vir jou tiener en vra hulle om te raai watter een ’n leuen is.\n"
-"* Het hulle reg geraai? Was dit ’n verrassing?\n"
-"* Vra hulle nou om dieselfde te doen. Het julle iets nuuts omtrent mekaar geleer?"
-
-#. type=template
-msgctxt "template"
 msgid "Home"
 msgstr "Tuis"
 
@@ -5628,6 +5764,12 @@ msgid "Start Positively Together"
 msgstr "Begin positief saam"
 
 #. type=template
+#. The string @fields.group_name should not be translated.
+msgctxt "template"
+msgid "Welcome @fields.group_name"
+msgstr "Welkom, @fields.group_name"
+
+#. type=template
 msgctxt "template"
 msgid ""
 "It's great to see you again! \n"
@@ -5756,6 +5898,33 @@ msgstr "Tiener"
 
 #. type=template
 msgctxt "template"
+msgid "Let's Slow Down"
+msgstr "Kom ons gaan ’n bietjie stadiger"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"We are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing. \n"
+"\n"
+"This song is for parents everywhere. Listen, dance together and celebrate yourselves!"
+msgstr ""
+"Ons is so trots op julle. Julle het wilskrag, moed en liefde vir jul gesinne gewys. Ouers is ongelooflik. Julle is ongelooflik. \n"
+"\n"
+"Hierdie liedjie is vir ouers oral. Luister, dans saam en vier julself!"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"We are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing. \n"
+"\n"
+"This song is for parents everywhere. Listen, dance and celebrate yourself!"
+msgstr ""
+"Ons is so trots op jou. Jy het wilskrag, moed en liefde vir jou gesin gewys. Ouers is ongelooflik. Jy is ongelooflik. \n"
+"\n"
+"Hierdie liedjie is vir ouers oral. Luister, dans saam en vier jouself!"
+
+#. type=template
+msgctxt "template"
 msgid "Read along"
 msgstr "Lees aan"
 
@@ -5763,12 +5932,6 @@ msgstr "Lees aan"
 msgctxt "template"
 msgid "See you soon."
 msgstr "Sien jou binnekort."
-
-#. type=template
-#. The string @global.parent_centre should not be translated.
-msgctxt "template"
-msgid "You can always find these tools in the @global.parent_centre"
-msgstr "Jy kan altyd hierdie hulpmiddels in die @global.parent_centre kry"
 
 #. type=template
 msgctxt "template"
@@ -7028,6 +7191,11 @@ msgstr "Sit tyd opsy om 'n gesprek te hê sonder afleidings."
 
 #. type=template
 msgctxt "template"
+msgid "LISTEN"
+msgstr "LUISTER"
+
+#. type=template
+msgctxt "template"
 msgid "Ask your teen questions and let them share their views without interrupting."
 msgstr "Vra jou tiener vrae en laat hulle toe om hulle sienings te deel sonder om hulle in die rede te val."
 
@@ -7060,12 +7228,6 @@ msgstr "Luister na 'n versorger se getuigskrif"
 msgctxt "template"
 msgid "Read a caregiver's testimonial"
 msgstr "Lees 'n versorger se getuigskrif"
-
-#. type=template
-#. The string @local.workshop_data.title should not be translated.
-msgctxt "template"
-msgid "Why @local.workshop_data.title?"
-msgstr "Hoekom @local.workshop_data.title?"
 
 #. type=template
 msgctxt "template"
@@ -7302,22 +7464,6 @@ msgstr "Kyk"
 msgctxt "template"
 msgid "Let's watch a video!"
 msgstr "Kom ons kyk na ’n video!"
-
-#. type=template
-#. The string @fields.group_name should not be translated.
-msgctxt "template"
-msgid "Welcome @fields.group_name"
-msgstr "Welkom, @fields.group_name"
-
-#. type=template
-msgctxt "template"
-msgid "It's great to see you again! Let’s start with a song for families everywhere."
-msgstr "Dis wonderlik om jou weer te sien! Kom ons begin met ’n liedjie vir gesinne van oraloor."
-
-#. type=template
-msgctxt "template"
-msgid "Let's Slow Down"
-msgstr "Kom ons gaan ’n bietjie stadiger"
 
 #. type=template
 msgctxt "template"
@@ -7978,28 +8124,6 @@ msgstr "Ja! As ons ons tieners ons volle aandag gee, sal hulle waarskynlik diese
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Being a parent can be so hard. Sometimes it feels like our children never listen to us.\n"
-"\n"
-"But science shows that spending just a few minutes each day of focused one-on-one time with your teen helps build trust and love."
-msgstr ""
-"Om ’n ouer te wees, kan baie moeilik wees. Soms voel dit asof ons kinders nooit na ons luister nie.\n"
-"\n"
-"Maar die wetenskap toon dat vertroue en liefde opgebou kan word deur elke dag net ’n paar minute se gefokusde een-tot-een-tyd met jou tiener deur te bring."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"One-on-one time is when you focus on them, without TV or phones. Let them lead what you do or talk about.\n"
-"\n"
-"It is great if you can do twenty minutes a day, but even five minutes a day is really good."
-msgstr ""
-"Een-tot-een-tyd is wanneer jy op hulle fokus, sonder TV of fone. Laat hulle die leiding neem met wat julle doen of waaroor julle praat.\n"
-"\n"
-"Dit is wonderlik as julle dit twintig minute per dag kan doen, maar selfs vyf minute per dag is regtig goed."
-
-#. type=template
-msgctxt "template"
 msgid "Have you spent time with your teen already?"
 msgstr "Het jy al tyd saam met jou tiener deurgebring?"
 
@@ -8103,22 +8227,6 @@ msgstr ""
 "Dis ongelooflik dat jy as ouer dit wil probeer."
 
 #. type=template
-#. The string @global.parent_point should not be translated.
-msgctxt "template"
-msgid ""
-"You are a star! \n"
-"\n"
-"Every day, recognise something you have done well. Reward yourself with something that makes you happy. And take a deep breath to relax. \n"
-"\n"
-"Remember, you earn a @global.parent_point every time you care for yourself - you matter!"
-msgstr ""
-"Jy is ’n ster!\n"
-"\n"
-"Erken elke dag iets wat jy goed gedoen het. Beloon jouself met iets wat jou gelukkig maak. En haal diep asem om te ontspan.\n"
-"\n"
-"Onthou, jy verdien elke keer ’n @global.parent_point as jy vir jouself sorg – jy maak saak!"
-
-#. type=template
 msgctxt "template"
 msgid ""
 "* Ideas for one-on-one time\n"
@@ -8171,74 +8279,6 @@ msgstr ""
 "Dit kan ’n rukkie neem om aan een-tot-een-tyd gewoond te raak, maar hoe meer jy dit doen, hoe makliker raak dit!\n"
 "\n"
 "Dis ongelooflik dat julle as ouers dit wil probeer."
-
-#. type=template
-msgctxt "template"
-msgid "DAY - Try to do it every day"
-msgstr "DAG – Probeer om dit elke dag te doen"
-
-#. type=template
-msgctxt "template"
-msgid "Find 5 minutes (or more!) each day when your teen does not have something else they want to do."
-msgstr "Kry 5 minute (of meer!) per dag wanneer jou tiener nie iets anders het wat hulle wil doen nie."
-
-#. type=template
-msgctxt "template"
-msgid "PLAY - Let your teen choose"
-msgstr "SPEEL – Laat jou tiener kies"
-
-#. type=template
-msgctxt "template"
-msgid "Tell your teen that you would like to spend some time with them and that they can choose what to do or talk about. They might think this is weird at first, but will come to enjoy this time with you!"
-msgstr "Sê vir jou tiener dat jy graag tyd met hulle wil deurbring en dat hulle kan kies wat om te doen of waaroor om te gesels. Hulle mag dalk aan die begin dink dis vreemd, maar hulle sal hierdie spesiale tyd saam met jou begin geniet!"
-
-#. type=template
-msgctxt "template"
-msgid "STAY - Focus on your teen"
-msgstr "BLY – Fokus op jou tiener"
-
-#. type=template
-msgctxt "template"
-msgid "One-on-one time with your teen can be fun for you, too! It might even make you feel less stressed."
-msgstr "Een-tot-een-tyd kan vir jou ook lekker wees! Dit kan jou selfs minder gespanne laat voel."
-
-#. type=template
-msgctxt "template"
-msgid ""
-"We are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing. \n"
-"\n"
-"This song is for parents everywhere. Listen, dance together and celebrate yourselves!"
-msgstr ""
-"Ons is so trots op julle. Julle het wilskrag, moed en liefde vir jul gesinne gewys. Ouers is ongelooflik. Julle is ongelooflik. \n"
-"\n"
-"Hierdie liedjie is vir ouers oral. Luister, dans saam en vier julself!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"We are so proud of you. You have shown strength, courage, and love for your family. Parents are amazing. You are amazing. \n"
-"\n"
-"This song is for parents everywhere. Listen, dance and celebrate yourself!"
-msgstr ""
-"Ons is so trots op jou. Jy het wilskrag, moed en liefde vir jou gesin gewys. Ouers is ongelooflik. Jy is ongelooflik. \n"
-"\n"
-"Hierdie liedjie is vir ouers oral. Luister, dans saam en vier jouself!"
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid ""
-"CONGRATULATIONS! You have done it! You have built 11 important parenting skills. \n"
-"\n"
-"This is a huge achievement. It shows such care for your family. \n"
-"\n"
-"Let’s celebrate you, and plan your future @global.parent_app support."
-msgstr ""
-"VEELS GELUK! Jy het dit reggekry! Jy het 11 belangrike vaardighede vir ouerskap aangeleer. \n"
-"\n"
-"Dit is ’n baie groot prestasie. Dit wys hoeveel jy vir jou gesin omgee. \n"
-"\n"
-"Kom ons vier jou prestasie, en beplan jou toekomstige @global.parent_app-steun."
 
 #. type=template
 msgctxt "template"
@@ -8335,37 +8375,6 @@ msgstr "Luister en dink na"
 msgctxt "template"
 msgid "Read and reflect"
 msgstr "Lees en dink na"
-
-#. type=template
-msgctxt "template"
-msgid "MEET"
-msgstr "KOM BYMEKAAR"
-
-#. type=template
-msgctxt "template"
-msgid "Keep meeting regularly to give each other parenting support."
-msgstr "Kom gereeld bymekaar om aan mekaar ouerondersteuning te gee."
-
-#. type=template
-msgctxt "template"
-msgid "CALL"
-msgstr "SKAKEL"
-
-#. type=template
-msgctxt "template"
-msgid "TEXT"
-msgstr "STUUR TEKSBOODSKAPPE"
-
-#. type=template
-msgctxt "template"
-msgid "SHARE"
-msgstr "DEEL"
-
-#. type=template
-#. The string @global.parent_app should not be translated.
-msgctxt "template"
-msgid "Share @global.parent_app and help other families start their journey."
-msgstr "Deel @global.parent_app en help ander gesinne om hul reis te begin."
 
 #. type=template
 #. The string @global.w_consequence_teen_boy_1 should not be translated.
@@ -8778,56 +8787,6 @@ msgstr "Dit het goed gewerk om hierdie keer ’n gevolg te gebruik, want..."
 
 #. type=template
 msgctxt "template"
-msgid "How you introduce calm consequences is important. Remember, when you involve your teen, things usually go better!"
-msgstr "Dis belangrik hoe jy kalm gevolge voorstel. Onthou, wanneer jy jou tiener betrek, gaan dinge gewoonlik beter!"
-
-#. type=template
-msgctxt "template"
-msgid "EXPLAIN"
-msgstr "VERDUIDELIK"
-
-#. type=template
-msgctxt "template"
-msgid "AGREE"
-msgstr "STEM OOREEN"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Plan consequences with your teen for following and not following the rule.\n"
-"\n"
-"Ask for their ideas. Talk until you agree on something realistic.\n"
-"\n"
-"Make a consequence for NOT following the rule and a privilege when they DO follow the rule."
-msgstr ""
-"Beplan saam met jou tiener wat die gevolge sal wees as die reël nie nagekom word nie.\n"
-"\n"
-"Vra hulle vir idees. Gesels totdat julle oor iets realisties saamstem.\n"
-"\n"
-"Stel ’n gevolg vas vir wanneer die reël NIE nagekom word nie en ’n voorreg vir wanneer hulle WEL die reël nakom."
-
-#. type=template
-msgctxt "template"
-msgid "ACT"
-msgstr "TREE OP"
-
-#. type=template
-msgctxt "template"
-msgid "When your teen follows the rule, give praise and privileges!"
-msgstr "Wanneer jou tiener die reël nakom, prys hulle en gee voorregte!"
-
-#. type=template
-msgctxt "template"
-msgid "They will feel respected and valued. Remember: The more we praise them, the more they will show that good behaviour!"
-msgstr "Hulle sal voel hulle word gerespekteer en gewaardeer. Hoe meer ons hulle prys, hoe meer sal hulle daardie goeie gedrag toon!"
-
-#. type=template
-msgctxt "template"
-msgid "When your teen does not follow the rule, follow through with the consequence."
-msgstr "Wanneer jou tiener nie die reël nakom nie, druk deur met die gevolg."
-
-#. type=template
-msgctxt "template"
 msgid ""
 "What would be a calm consequence for your teenagers arguing with each other during dinner? \n"
 "\n"
@@ -8879,11 +8838,6 @@ msgstr ""
 "Kies saam met jou tiener een van hierdie situasies ( of dink self een uit!). Kyk na die tekenprent, en bespreek wat julle saam sou doen indien dit met ’n vriend of in julle gesin sou gebeur.\n"
 "\n"
 " En onthou: ASEM IN – LUISTER – DINK"
-
-#. type=template
-msgctxt "template"
-msgid "All families experience crises. When we prepare together and know where to get help BEFORE something bad happens, we can overcome any crisis."
-msgstr "Alle gesinne ervaar krisisse. Wanneer ons saam voorberei en weet waar om hulp te kry, VOORDAT iets sleg gebeur, kan ons enige krisis oorkom."
 
 #. type=template
 #. The string @global.w_crisis_teen_boy_2 should not be translated.
@@ -9090,41 +9044,6 @@ msgstr "Watter vaardighede het @global.w_crisis_male_caregiver_1 gebruik?"
 
 #. type=template
 msgctxt "template"
-msgid "Crisis can make us feel angry or helpless. But this is when our teens really need us to breathe, listen and think."
-msgstr "Krisisse kan ons kwaad of hulpeloos laat voel. Maar dít is wanneer ons tieners regtig nodig het dat ons asemhaal, luister en dink."
-
-#. type=template
-msgctxt "template"
-msgid "BREATHE"
-msgstr "ASEM IN"
-
-#. type=template
-msgctxt "template"
-msgid "LISTEN"
-msgstr "LUISTER"
-
-#. type=template
-msgctxt "template"
-msgid "Tell them you are there for them and love them."
-msgstr "Sê vir hulle jy is daar vir hulle, en is lief vir hulle."
-
-#. type=template
-msgctxt "template"
-msgid "THINK"
-msgstr "DINK"
-
-#. type=template
-msgctxt "template"
-msgid "Talk with your teen. What might help the situation? You might need to make immediate plans now, and then long-term plans later."
-msgstr "Gesels met jou tiener. Wat kan dalk die situasie help? Jy sal dalk nou dadelik planne moet beraam, en dan langtermynplanne later."
-
-#. type=template
-msgctxt "template"
-msgid "You can be proud of yourself for exploring ways to get help!"
-msgstr "Wees trots op jouself omdat jy maniere soek om hulp te kry!"
-
-#. type=template
-msgctxt "template"
 msgid ""
 "This week's home practice is to give your teen positive instructions.\n"
 "\n"
@@ -9248,21 +9167,6 @@ msgstr "Wanneer ons hulle prys, voel ons tieners aangemoedig om weer na ons te l
 msgctxt "template"
 msgid "Awesome! When we think ahead of specific instructions to give our teen, our instructions become much easier to follow!"
 msgstr "Fantasties! Wanneer ons vooruit dink aan spesifieke opdragte om vir ons tiener te gee, word ons instruksies baie makliker om te volg!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Focus on the positive! \n"
-"\n"
-"Telling our teens what we DO want them to do works better than telling them to STOP doing something.\n"
-"\n"
-"You will see the difference."
-msgstr ""
-"Fokus op die positiewe! \n"
-"\n"
-"Om vir ons tieners te sê wat ons WIL hê hulle moet doen, werk beter as om vir hulle te sê om OP TE HOU met iets wat hulle doen.\n"
-"\n"
-"Jy sal die verskil sien."
 
 #. type=template
 #. The following strings should not be translated: 
@@ -9595,36 +9499,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "GET REAL"
-msgstr "KOM BY"
-
-#. type=template
-msgctxt "template"
-msgid "Can your teen actually do what you are about to ask? It may be impossible for them to read quietly all day, but half an hour when you really need it is realistic."
-msgstr "Kan jou tiener werklik doen wat jy nou gaan vra? Dit mag dalk vir hulle onmoontlik wees om die hele dag stil te sit en lees, maar die halfuur wanneer jy dit regtig nodig het, is realisties."
-
-#. type=template
-msgctxt "template"
-msgid "GET POSITIVE"
-msgstr "WEES POSITIEF"
-
-#. type=template
-msgctxt "template"
-msgid "Smile, look them in the eye, and use positive words. Praise them as soon as they start to do what you ask!"
-msgstr "Glimlag, kyk in hulle oë en gebruik positiewe woorde. Prys hulle sodra hulle begin doen wat jy vra!"
-
-#. type=template
-msgctxt "template"
-msgid "GET  CLEAR"
-msgstr "WEES DUIDELIK"
-
-#. type=template
-msgctxt "template"
-msgid "Often we know what we want in our head, but we don’t say it clearly enough. Say exactly what you want your teen to do. Try ‘please come home by 7pm’ instead of ‘come home in time’."
-msgstr "Ons weet dikwels in ons koppe wat ons wil hê, maar ons sê dit nie duidelik genoeg nie. Sê presies wat jy wil hê jou tiener moet doen. Probeer ‘kom asseblief teen 7nm. huis toe’ in plaas van ‘kom betyds huis toe’."
-
-#. type=template
-msgctxt "template"
 msgid "Let's practice giving REAL, POSITIVE and CLEAR instructions. Practice will help you be successful with your teen!"
 msgstr "Kom ons oefen REGTE, POSITIEWE en DUIDELIKE opdragte. Oefening sal jou help om suksesvol te wees met jou tiener!"
 
@@ -9722,17 +9596,6 @@ msgstr ""
 msgctxt "template"
 msgid "Steps to make a budget"
 msgstr "Stappe om ’n begroting op te stel"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Many families are stressed about money, especially if teens keep asking for things! \n"
-"\n"
-"When we make a budget together, we can agree how to spend AND save to prevent stress and work towards our family’s goals."
-msgstr ""
-"Baie gesinne verkeer onder spanning weens geld, veral as tieners aanhoudend vir goed vra!\n"
-"\n"
-"Wanneer ons saam ’n begroting opstel, kan ons ooreenkom oor hoe om te bestee EN te bespaar, om spanning te voorkom en ons gesin se doelwitte na te streef."
 
 #. type=template
 msgctxt "template"
@@ -9846,6 +9709,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Step 1: THINK"
+msgstr "Stap 1: DINK"
+
+#. type=template
+msgctxt "template"
 msgid "Think about what we spend money on each month."
 msgstr "Dink oor waaraan ons elke maand ons geld bestee."
 
@@ -9885,6 +9753,11 @@ msgstr ""
 "\n"
 "BEGEERTE: Iets waarsonder jy kan lewe\n"
 "BEHOEFTE: Iets waarsonder jy nie kan lewe nie"
+
+#. type=template
+msgctxt "template"
+msgid "Step 2: CHOOSE"
+msgstr "Stap 2: KIES"
 
 #. type=template
 msgctxt "template"
@@ -9938,6 +9811,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Step 3: BUILD"
+msgstr "Stap 3: BOU"
+
+#. type=template
+msgctxt "template"
 msgid "Make a budget as a family!"
 msgstr "Stel as gesin ’n begroting op!"
 
@@ -9963,6 +9841,11 @@ msgstr ""
 "* Besluit hoeveel julle op iets wil spandeer en plaas die klippies/voorwerpe op daardie prent. \n"
 "\n"
 "Is julle dalk nie seker oor jul besluite nie? Sukkel julle om tussen “behoeftes” en “begeertes” te besluit? Dis doodreg!"
+
+#. type=template
+msgctxt "template"
+msgid "Step 4: PLAN"
+msgstr "Stap 4: BEPLAN"
 
 #. type=template
 msgctxt "template"
@@ -10112,51 +9995,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Step 1: THINK"
-msgstr "Stap 1: DINK"
-
-#. type=template
-msgctxt "template"
-msgid "What do we spend on now?"
-msgstr "Waarop bestee ons nou ons geld?"
-
-#. type=template
-msgctxt "template"
-msgid "THINK Activity"
-msgstr "DINK-aktiwiteit"
-
-#. type=template
-msgctxt "template"
-msgid "Step 2: CHOOSE"
-msgstr "Stap 2: KIES"
-
-#. type=template
-msgctxt "template"
-msgid "CHOOSE Activity"
-msgstr "KIES-aktiwiteit"
-
-#. type=template
-msgctxt "template"
-msgid "Step 3: BUILD"
-msgstr "Stap 3: BOU"
-
-#. type=template
-msgctxt "template"
-msgid "BUILD Activity"
-msgstr "BOU-aktiwiteit"
-
-#. type=template
-msgctxt "template"
-msgid "Step 4: PLAN"
-msgstr "Stap 4: BEPLAN"
-
-#. type=template
-msgctxt "template"
-msgid "PLAN Activity"
-msgstr "BEPLAN-aktiwiteit"
-
-#. type=template
-msgctxt "template"
 msgid "What are your  family savings goals?"
 msgstr "Wat is jou gesin se spaardoelwitte?"
 
@@ -10285,17 +10123,6 @@ msgstr "Watter spaarplan jy ook al kies, dit sal jou gesin regtig help om vorent
 msgctxt "template"
 msgid "This week's home practice is to praise your teen once a day. It will only take 10 seconds!"
 msgstr "Hierdie week se tuisoefening is om jou tiener een keer per dag te prys. Dit sal net 10 sekondes neem!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Praise is a powerful parenting skill.\n"
-"\n"
-"If we praise our teens when they do something well, we will see them do more and more positive things!"
-msgstr ""
-"Om iemand te prys, is ’n baie goeie vaardigheid vir ouerskap. \n"
-"\n"
-"As ons tieners geprys word wanneer hulle iets goed doen, sal ons sien dat hulle meer en meer positiewe dinge sal doen!"
 
 #. type=template
 msgctxt "template"
@@ -10624,36 +10451,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "SEE IT"
-msgstr "SIEN DIT"
-
-#. type=template
-msgctxt "template"
-msgid "SAY IT"
-msgstr "SÊ DIT"
-
-#. type=template
-msgctxt "template"
-msgid "Be enthusiastic – really mean it when you say it!"
-msgstr "Wees entoesiasties – bedoel dit opreg wanneer jy dit sê!"
-
-#. type=template
-msgctxt "template"
-msgid "REPEAT IT"
-msgstr "HERHAAL DIT"
-
-#. type=template
-msgctxt "template"
-msgid "Try to find something to thank them for every day. Even something really small."
-msgstr "Probeer elke dag iets kry waarvoor jy hulle bedank. Selfs iets baie klein."
-
-#. type=template
-msgctxt "template"
-msgid "You can also praise other adults in your household, too. Notice how they respond!"
-msgstr "Jy kan ook ander volwassenes in jou huis prys. Let op hoe hulle reageer!"
-
-#. type=template
-msgctxt "template"
 msgid "Let's practice giving praise."
 msgstr "Kom ons oefen om iemand te prys."
 
@@ -10711,17 +10508,6 @@ msgstr ""
 "Lê hierdie week een reël saam met jou tiener neer. \n"
 "\n"
 "Onthou om jou tiener daarná te prys!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Rules help teens understand what is expected from them. \n"
-"\n"
-"Teens are more likely to follow rules if you create the rules WITH your teen and praise them for it!"
-msgstr ""
-"Reëls help tieners om te verstaan wat van hulle verwag word. \n"
-"\n"
-"Tieners sal meer geneë wees om reëls na te kom as jy reëls SAAM met jou tiener neerlê en hulle daarvoor prys!"
 
 #. type=template
 msgctxt "template"
@@ -10930,36 +10716,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Household rules help keep our teenagers safe, and understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
-msgstr "Huisreëls help om ons kinders veilig te hou, en te verstaan wat van hulle verwag word. Wanneer jy ’n tiener betrek wanneer reëls neergelê word, is hulle meer geneë om die reëls na te kom."
-
-#. type=template
-msgctxt "template"
-msgid "TEAM RULES"
-msgstr "SPANWERK REËLS"
-
-#. type=template
-msgctxt "template"
-msgid "Plan rules WITH your teenager. Start with one new rule first - you can add another one later. Discuss the reasons for the rule and listen to their views."
-msgstr "Beplan reëls SAAM met jou tiener. Begin eers met een nuwe reël – jy kan later nog een byvoeg. Bespreek die redes vir die reël en luister na hulle uitgangspunte."
-
-#. type=template
-msgctxt "template"
-msgid "REAL RULES"
-msgstr "REALISTIES REËLS"
-
-#. type=template
-msgctxt "template"
-msgid "PRAISE RULES!"
-msgstr "REËLS VIR PRYS!"
-
-#. type=template
-msgctxt "template"
-msgid "Praise your teen for planning a rule with you, and praise them for keeping it!"
-msgstr "Prys jou tiener vir reëls wat hulle saam met jou maak en prys hulle omdat hulle daarby hou!"
-
-#. type=template
-msgctxt "template"
 msgid "Let's practice making rules."
 msgstr "Kom ons oefen om reëls te maak."
 
@@ -10998,14 +10754,8 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid ""
-"Teens can spend a lot of time outside the house or online, where it is harder for us to keep them safe. \n"
-"\n"
-"Talking together about safe and unsafe places, and how to prevent problems, really helps!"
-msgstr ""
-"Tieners kan baie tyd buite die huis of aanlyn bestee waar dit vir ons moeiliker is om hulle veilig te hou. \n"
-"\n"
-"Dit help regtig om saam te gesels oor veilige en onveilige plekke en hoe om probleme te voorkom!"
+msgid "Safety Plan Activity"
+msgstr "Veiligheidsplan-aktiwiteit"
 
 #. type=template
 msgctxt "template"
@@ -11505,47 +11255,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "MAPS"
-msgstr "KAARTE"
-
-#. type=template
-msgctxt "template"
-msgid "Make MAPS with your teen of safe and unsafe areas in your community and online. Talk about how to keep their information, photos and videos private online. Talk about how once something goes online, it stays there forever. They might know an example from their friends."
-msgstr "Maak saam met jou tiener KAARTE van veilige en onveilige areas in julle gemeenskap en aanlyn. Praat oor hoe om hulle inligting, foto’s en video’s aanlyn privaat te hou. Praat oor hoe iets wat aanlyn geplaas word, vir altyd daar bly. Hulle kan dalk van voorbeelde in hul vriendekring weet."
-
-#. type=template
-msgctxt "template"
-msgid "Safety Plan Activity"
-msgstr "Veiligheidsplan-aktiwiteit"
-
-#. type=template
-msgctxt "template"
-msgid "RULES"
-msgstr "REËLS"
-
-#. type=template
-msgctxt "template"
-msgid "Online Safety Story"
-msgstr "Storie oor veiligheid aanlyn"
-
-#. type=template
-msgctxt "template"
-msgid "Digital parenting is just like parenting in the real world. You have taken a BIG STEP to keeping your teen safe in the community AND online. Good for you!"
-msgstr "Digitale ouerskap is net soos ouerskap in die regte wêreld. Jy het ’n GROOT STAP gedoen om jou tiener in die gemeenskap EN aanlyn veilig te hou. Mooi so!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"You've completed this week's workshop.\n"
-"\n"
-"We’ll do some of the self-care activities again when you get together with your group for the first time - you all deserve some extra self-care!"
-msgstr ""
-"Jy het hierdie week se slypskool voltooi.\n"
-"\n"
-"Ons sal weer party van die selfsorg-aktiwiteite doen wanneer jy vir die eerste keer met jou groep bymekaar kom – julle verdien almal ’n bietjie ekstra selfsorg!"
-
-#. type=template
-msgctxt "template"
 msgid ""
 "Whenever you can, relax, recognise and reward yourself. \n"
 "\n"
@@ -11556,21 +11265,25 @@ msgstr ""
 "Sien elke dag om na jouself. Jy maak saak!"
 
 #. type=template
+msgctxt "template"
+msgid "Relax activity"
+msgstr "Ontspanning-aktiwiteit"
+
+#. type=template
+msgctxt "template"
+msgid "Recognise activity"
+msgstr "Erkenning-aktiwiteit"
+
+#. type=template
+msgctxt "template"
+msgid "Reward activity"
+msgstr "Beloning-aktiwiteit"
+
+#. type=template
 #. The string @global.parent_points should not be translated.
 msgctxt "template"
 msgid "Every time you relax, recognise something you've done well or reward yourself, tap the @global.parent_points to celebrate your success!"
 msgstr "Elke keer as jy ontspan, iets erken wat jy goed gedoen het of jouself beloon, tik op die@global.parent_points om jou sukses te vier!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"We often don’t look after ourselves enough. But this is so important, especially as a parent! \n"
-"\n"
-"Reducing our stress and treating ourselves well helps us AND our teenagers."
-msgstr ""
-"Ons sorg dikwels nie genoeg vir onsself nie. Maar dit is so belangrik, veral as ’n ouer! \n"
-"\n"
-"Om ons spanning te verminder en goed na onsself om te sien, help ons EN ons tieners."
 
 #. type=template
 msgctxt "template"
@@ -11689,6 +11402,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Well done! Try to do this every day."
+msgstr "Mooi so! Probeer dit elke dag doen."
+
+#. type=template
+msgctxt "template"
 msgid "Things to praise yourself for:"
 msgstr "Dinge waarvoor jy jouself kan prys:"
 
@@ -11708,27 +11426,6 @@ msgstr ""
 "* Kosmaak om sterk te bly \n"
 "* Tyd wat jy saam met jou kinders deurbring \n"
 "* Hulp aan jou kinders met hulle skoolwerk"
-
-#. type=template
-msgctxt "template"
-msgid "Let's try it out and do a short relaxation activity together!"
-msgstr "Kom ons probeer dit en doen saam ’n kort ontspanning-aktiwiteit!"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"As parents, we often don’t have time to look after ourselves - but this is so important to do! Reducing our stress helps us AND our teens. \n"
-"\n"
-"Let’s take a first step and do a short relaxation activity together."
-msgstr ""
-"As ouers het ons dikwels nie tyd om na onsself om te sien nie – maar dit is so belangrik! Om ons spanning te verminder help ons EN ons tieners.\n"
-"\n"
-"Kom ons doen ’n eerste stap en doen saam ’n kort ontspanning-aktiwiteit."
-
-#. type=template
-msgctxt "template"
-msgid "Well done! Try to do this every day."
-msgstr "Mooi so! Probeer dit elke dag doen."
 
 #. type=template
 msgctxt "template"
@@ -11843,41 +11540,6 @@ msgstr "Dit kom voor dat jy reeds die pasmaakproses voltooi het. Jy kan nou hier
 
 #. type=template
 msgctxt "template"
-msgid "RELAX"
-msgstr "ONTSPAN"
-
-#. type=template
-msgctxt "template"
-msgid "Do a 30 second quick relaxation activity."
-msgstr "Doen ’n vinnige ontspanning-aktiwiteit vir 30 sekondes."
-
-#. type=template
-msgctxt "template"
-msgid "Relax activity"
-msgstr "Ontspanning-aktiwiteit"
-
-#. type=template
-msgctxt "template"
-msgid "RECOGNISE"
-msgstr "ERKEN"
-
-#. type=template
-msgctxt "template"
-msgid "Recognise activity"
-msgstr "Erkenning-aktiwiteit"
-
-#. type=template
-msgctxt "template"
-msgid "REWARD"
-msgstr "BELONING"
-
-#. type=template
-msgctxt "template"
-msgid "Reward activity"
-msgstr "Beloning-aktiwiteit"
-
-#. type=template
-msgctxt "template"
 msgid ""
 "Teach your teenagers the four steps of problem-solving:\n"
 "KNOW IT - SOLVE IT - TRY IT - TEST IT \n"
@@ -11919,17 +11581,6 @@ msgstr ""
 "* My tiener kuier met slegte vriende\n"
 "* My tiener is lui\n"
 "* My tiener doen nie hulle huiswerk nie* My tiener gebruik moontlik dwelmmiddels"
-
-#. type=template
-msgctxt "template"
-msgid ""
-"Every family faces challenges, but when we work together we can deal with problems in an effective and peaceful way. \n"
-"\n"
-"What a great skill for your teen to learn too!"
-msgstr ""
-"Elke gesin kom voor uitdagings te staan, maar wanneer ons saamwerk, kan ons probleme op ’n doeltreffende en vreedsame manier hanteer. \n"
-"\n"
-"Wat ’n wonderlike vaardigheid wat jou tiener ook kan aanleer!"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -12173,51 +11824,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Take a few deep breaths to calm down, and"
-msgstr "Haal ’n paar keer diep asem om te kalmeer, en"
-
-#. type=template
-msgctxt "template"
-msgid "KNOW IT"
-msgstr "WEET DIT"
-
-#. type=template
-msgctxt "template"
-msgid "Identify the problem."
-msgstr "Identifiseer die probleem."
-
-#. type=template
-msgctxt "template"
-msgid "SOLVE IT"
-msgstr "LOS DIT OP"
-
-#. type=template
-msgctxt "template"
-msgid "Think of possible solutions and what would happen if we used them."
-msgstr "Dink aan moontlike oplossings en wat sal gebeur as ons dit gebruik."
-
-#. type=template
-msgctxt "template"
-msgid "TRY IT"
-msgstr "PROBEER DIT"
-
-#. type=template
-msgctxt "template"
-msgid "Choose a solution and try it out."
-msgstr "Kies ’n oplossing en probeer dit."
-
-#. type=template
-msgctxt "template"
-msgid "TEST IT"
-msgstr "TOETS DIT"
-
-#. type=template
-msgctxt "template"
-msgid "Did it work? Great! If it did not work, then try another solution."
-msgstr "Het dit gewerk? Wonderlik! As dit nie gewerk het nie, probeer ’n ander oplossing."
-
-#. type=template
-msgctxt "template"
 msgid "Let's practice problem-solving!"
 msgstr "Kom ons oefen probleemoplossing!"
 
@@ -12240,27 +11846,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid ""
-"You've completed this week's workshop.\n"
-"\n"
-"Next week, we will talk about money - you will need:\n"
-"* a sheet of paper/cardboard\n"
-"* a pen\n"
-"* 20 small rocks/beans/kernels\n"
-"\n"
-"It will be fun!"
-msgstr ""
-"Julle het hierdie week se slypskool voltooi.\n"
-"\n"
-"Volgende week sal ons oor geld praat – julle sal die volgende nodig hê:\n"
-"* ’n vel papier/karton\n"
-"* ’n pen\n"
-"* 20 klein klippies/boontjies/pitte\n"
-"\n"
-"Dit sal pret wees!"
-
-#. type=template
-msgctxt "template"
 msgid "There are two home practices for this week."
 msgstr "Daar is twee tuisoefeninge vir hierdie week."
 
@@ -12280,11 +11865,6 @@ msgstr ""
 msgctxt "template"
 msgid "Every time you take a pause before responding, or whenever you do something to keep your teen safe, tap your @global.parent_points and celebrate your success!"
 msgstr "Elke keer wanneer jy ’n blaaskans neem voor jy reageer, of wanneer jy iets doen om jou tiener veilig te hou, tik op jou @global.parent_points en vier jou sukses!"
-
-#. type=template
-msgctxt "template"
-msgid "We know how stressful it is to bring up teenagers in these times. Learning to manage your stress helps you - and your family."
-msgstr "Ons weet hoe spanningsvol dit deesdae is om tieners groot te maak. Dit help jou – en jou gesin – om te leer hoe om jou stres te hanteer."
 
 #. type=template
 msgctxt "template"
@@ -12544,46 +12124,6 @@ msgstr ""
 "* Wys hy verstaan sy tiener se gevoelens \n"
 "* Dink aan oplossings saam met @global.w_stress_teen_boy_1\n"
 "* Iets positief doen saam met@global.w_stress_teen_boy_1"
-
-#. type=template
-msgctxt "template"
-msgid "BREATHE. Slowly. Pause."
-msgstr "ASEM IN. Stadig. Neem ’n blaaskans."
-
-#. type=template
-msgctxt "template"
-msgid "Before you say anything, slowly breathe in and out five times. It will calm you, and give you a chance to think."
-msgstr "Voor jy iets sê, asem vyf keer stadig in en uit. Dit sal jou kalmeer, en jou ’n kans gee om te dink."
-
-#. type=template
-msgctxt "template"
-msgid "SHARE how you feel"
-msgstr "DEEL hoe jy voel"
-
-#. type=template
-msgctxt "template"
-msgid "This is hard. Many of us were told not to cry, or show our feelings to our children. But take a deep breath and calmly tell them how you feel. They will understand better, and also learn from you how to deal with stress."
-msgstr "Dis moeilik. Baie van ons is geleer om nie te huil nie, om nie ons gevoelens vir ons kinders te wys nie. Maar haal diep asem en vertel hulle op ’n kalm manier hoe jy voel. Hulle sal beter verstaan, en ook van jou leer hoe om stres te hanteer."
-
-#. type=template
-msgctxt "template"
-msgid "SHOW them you care"
-msgstr "WYS hulle dat jy omgee"
-
-#. type=template
-msgctxt "template"
-msgid "SEEK the positive"
-msgstr "VIND die positiewe"
-
-#. type=template
-msgctxt "template"
-msgid "Can you and your teen think about ideas that might help? Can you do something positive together to take your mind off the stress?"
-msgstr "Kan jy en jou tiener dink aan idees wat dalk kan help? Kan julle iets positief saam doen om die stres uit julle gedagtes te kry?"
-
-#. type=template
-msgctxt "template"
-msgid "If all else fails, breathe. You can do this."
-msgstr "As niks werk nie, haal asem. Jy kan dit doen."
 
 #. type=tour
 msgctxt "tour"
