@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swati\n"
 "\n"
 "Language: ss_ZA\n"
-"PO-Revision-Date: 2023-08-03 08:47\n"
+"PO-Revision-Date: 2023-08-03 09:14\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -314,6 +314,21 @@ msgstr "Sewuchubeke kahle kakhulu. Ngabe sewulungele yini kukhetsa umgomo wakho 
 
 #. type=text
 msgctxt "text"
+msgid "Press a number on your keypad:"
+msgstr "Facata inombolo kukhiphedi:"
+
+#. type=text
+msgctxt "text"
+msgid "1. Yes"
+msgstr "1. Yebo"
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me Later"
+msgstr "2. Ubobuye ungikhumbute"
+
+#. type=text
+msgctxt "text"
 msgid "ParentText has begun. Are you ready to complete your registration and select your parenting goals?"
 msgstr "I-ParentText seyicalile. Sewulungele yini kucedzela kubhalisa kwakho nekukhetsa imigomo yakho yekuba ngumtali?"
 
@@ -321,6 +336,16 @@ msgstr "I-ParentText seyicalile. Sewulungele yini kucedzela kubhalisa kwakho nek
 msgctxt "text"
 msgid "You’re off track! Do you want to complete a previous skill or start a new skill?"
 msgstr "Sewuphumile endleleni! Ufuna kucedzela likhono lelisemuva noma kucala likhono lelisha?"
+
+#. type=text
+msgctxt "text"
+msgid "1. Complete"
+msgstr "1. Cedza"
+
+#. type=text
+msgctxt "text"
+msgid "2. Start new"
+msgstr "2. Cala lokusha"
 
 #. type=text
 msgctxt "text"
@@ -334,6 +359,16 @@ msgstr "Sekusele kancane kwekutsi ucedze lomgomo! Sewusalelwe likhono linye leli
 
 #. type=text
 msgctxt "text"
+msgid "1. Finish this skill and earn my badge"
+msgstr "1. Kucedza lelikhono bese ngitfola imbeji yami"
+
+#. type=text
+msgctxt "text"
+msgid "2. Leave this goal unfinished and select a new goal"
+msgstr "2. Kuyekela lomgomo lona ungakapheli bese ngikhetsa umgomo lomusha"
+
+#. type=text
+msgctxt "text"
 msgid "That’s okay. You can only earn your Parenting Badge when all skills are completed. You can return to complete this goal through the Progress Tracker in the Main Menu by typing ‘menu’."
 msgstr "Kulungile loko. Imbeji Yekuba Ngumtali ungayitfola kuphela nase uwacedzile onkhe emakhono. Ungabuyela uyocedzela lomgomo ngekusebentisa i-Parent Tracker kuMenyu Lenkhulu ngekubhala 'menyu'."
 
@@ -344,10 +379,25 @@ msgid "You're almost finished with this goal! You have @fields.c_n_mod_started u
 msgstr "Sekusele kancane kutsi ucedze lomgomo! Sewunemakhono langu @fields.c_n_mod_started longakawacedzi. Ufuna kwentanjani?"
 
 #. type=text
+msgctxt "text"
+msgid "1. Complete unfinished skills to earn my badge"
+msgstr "1. Kucedzela emakhono langakapheli kuze ngitfole imbeji yami"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It’s time to get started on your goal, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Are you ready?"
 msgstr "Sesikhatsi sekucalisa umgomo wakho, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Sewulungele yini?"
+
+#. type=text
+msgctxt "text"
+msgid "1. Yes!"
+msgstr "1. Yebo!"
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me tomorrow"
+msgstr "2. Ubongikhumbuta kusasa"
 
 #. type=text
 msgctxt "text"
