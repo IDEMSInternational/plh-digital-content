@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-08-30 16:49\n"
+"PO-Revision-Date: 2023-08-30 18:10\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7500,6 +7500,11 @@ msgid "Online Safety Story"
 msgstr "Hadithi ya Usalama Mtandaoni"
 
 #. type=data_list
+msgctxt "data_list"
+msgid "SAFETY WORD"
+msgstr "NENO LA USALAMA"
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @global.safety_word.
 #.      @global.safety_word
@@ -8396,10 +8401,14 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid ""
+"Greetings.\n"
+"\n"
 "Today's topic is coping with grief. \n"
 "\n"
-"Taking care of ourselves is important, especially when we are facing challenging and difficult times such as coping with grief. We need to stay calm in order to think act positively whenever we find ourselves overwhelmed. We may use techniques such as taking a pause to calm ourselves down."
+"Taking care of ourselves is important, especially when we are facing challenging and difficult times such as coping with grief. We need to stay calm in order to think and act positively whenever we find ourselves overwhelmed. We may use techniques such as taking a pause to calm ourselves down."
 msgstr ""
+"Nawasalimia wote.\n"
+"\n"
 "Mada ya leo ni kukabiliana na majonzi.\n"
 "\n"
 "Kujitunza ni muhimu, hasa tunapokabiliana na changamoto na nyakati ngumu kama vile kukabiliana na huzuni. Tunatakiwa kuwa watulivu ili kufikiri kutenda vyema kila tunapojikuta tumeelemewa. Tunaweza kutumia mbinu kama vile kutulia ili kujituliza."
@@ -13179,6 +13188,18 @@ msgid "Start"
 msgstr "Anza"
 
 #. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "This @global.workshop includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards."
+msgstr "@global.workshop_capital hiki kinajumuisha maudhui ambayo yanaweza kuwa nyeti. Unaweza kuiangalia peke yako kwanza. Kufanya hivyo itakuandaa vyema ili kumshirikisha kijana wako hayo maudhui na pia watu wengine baadaye."
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "Go to @global.workshop"
+msgstr "Nenda kwenye @global.workshop"
+
+#. type=template
 msgctxt "template"
 msgid "Choose your language"
 msgstr "Chagua lugha yako"
@@ -17497,6 +17518,16 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Let me try it out by myself"
+msgstr "Ngoja niijaribu peke yangu"
+
+#. type=template
+msgctxt "template"
+msgid "My family can join in now!"
+msgstr "Familia yangu inaweza kujiunga sasa!"
+
+#. type=template
+msgctxt "template"
 msgid "To keep our teens safe, we need to understand the dangerous situations they could get into!"
 msgstr "Ili kuwaweka salama vijana wetu, tunahitaji kuelewa hali za hatari ambamo wanaweza kujiingiza!"
 
@@ -17520,16 +17551,6 @@ msgstr ""
 "* Ramani ya programu/tovuti tunazotumia mtandaoni\n"
 "\n"
 "Utafanya hivyohivyo na kijana wako kama zoezi la nyumbani la wiki hii – kama kijana wako yuko hapa sasa, mnaweza kufanya pamoja sasa!"
-
-#. type=template
-msgctxt "template"
-msgid "My family can join in now!"
-msgstr "Familia yangu inaweza kujiunga sasa!"
-
-#. type=template
-msgctxt "template"
-msgid "Let me try it out by myself"
-msgstr "Ngoja niijaribu peke yangu"
 
 #. type=template
 msgctxt "template"
@@ -18723,6 +18744,26 @@ msgstr "Kufanya kitu chanya pamoja na @global.w_stress_teen_boy_1"
 
 #. type=template
 msgctxt "template"
+msgid "Sad"
+msgstr "Huzuni"
+
+#. type=template
+msgctxt "template"
+msgid "Scared"
+msgstr "Kuogopa"
+
+#. type=template
+msgctxt "template"
+msgid "Confused"
+msgstr "Kuchanganyikiwa"
+
+#. type=template
+msgctxt "template"
+msgid "Angry"
+msgstr "Hasira"
+
+#. type=template
+msgctxt "template"
 msgid "Let's think about what happened in this story."
 msgstr "Hebu tufikirie kuhusu kilichotokea kwenye Hadithi hii."
 
@@ -18743,26 +18784,6 @@ msgstr "Na @global.w_stress_male_caregiver, je?"
 msgctxt "template"
 msgid "And @global.w_stress_girl?"
 msgstr "Na @global.w_stress_girl, je?"
-
-#. type=template
-msgctxt "template"
-msgid "Sad"
-msgstr "Huzuni"
-
-#. type=template
-msgctxt "template"
-msgid "Scared"
-msgstr "Kuogopa"
-
-#. type=template
-msgctxt "template"
-msgid "Confused"
-msgstr "Kuchanganyikiwa"
-
-#. type=template
-msgctxt "template"
-msgid "Angry"
-msgstr "Hasira"
 
 #. type=template
 msgctxt "template"
