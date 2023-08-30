@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2023-08-30 16:58\n"
+"PO-Revision-Date: 2023-08-30 18:10\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7500,6 +7500,11 @@ msgid "Online Safety Story"
 msgstr "Hadithi ya Usalama Mtandaoni"
 
 #. type=data_list
+msgctxt "data_list"
+msgid "SAFETY WORD"
+msgstr "NENO LA USALAMA"
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @global.safety_word.
 #.      @global.safety_word
@@ -8392,6 +8397,21 @@ msgstr ""
 "Huzuni hutuathiri sisi sote kwa njia tofauti.\n"
 "\n"
 "Chochote unachohisi, unahuzunika kwa njia yako mwenyewe, na hiyo ni sawa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greetings.\n"
+"\n"
+"Today's topic is coping with grief. \n"
+"\n"
+"Taking care of ourselves is important, especially when we are facing challenging and difficult times such as coping with grief. We need to stay calm in order to think and act positively whenever we find ourselves overwhelmed. We may use techniques such as taking a pause to calm ourselves down."
+msgstr ""
+"Nawasalimia wote.\n"
+"\n"
+"Mada ya leo ni kukabiliana na majonzi.\n"
+"\n"
+"Kujitunza ni muhimu, hasa tunapokabiliana na changamoto na nyakati ngumu kama vile kukabiliana na huzuni. Tunatakiwa kuwa watulivu ili kufikiri kutenda vyema kila tunapojikuta tumeelemewa. Tunaweza kutumia mbinu kama vile kutulia ili kujituliza."
 
 #. type=data_list
 #. The string @data.workshop.w_grief.lower_case_title? should not be translated.
@@ -13166,6 +13186,18 @@ msgstr "Unaweza pia kujaribu hii kwa wakati mwingine ukijikuta umelala kitandani
 msgctxt "template"
 msgid "Start"
 msgstr "Anza"
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "This @global.workshop includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards."
+msgstr "@global.workshop_capital hiki kinajumuisha maudhui ambayo yanaweza kuwa nyeti. Unaweza kuiangalia peke yako kwanza. Kufanya hivyo itakuandaa vyema ili kumshirikisha kijana wako hayo maudhui na pia watu wengine baadaye."
+
+#. type=template
+#. The string @global.workshop should not be translated.
+msgctxt "template"
+msgid "Go to @global.workshop"
+msgstr "Nenda kwenye @global.workshop"
 
 #. type=template
 msgctxt "template"
