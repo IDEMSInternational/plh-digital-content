@@ -11,12 +11,17 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-09-23 11:05\n"
+"PO-Revision-Date: 2023-09-23 17:05\n"
 
 #. type=text
 msgctxt "text"
 msgid "Would you like to go back to the previous messages?"
 msgstr "Adakah anda ingin kembali ke mesej sebelumnya?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. Type {HELP} at any time if you would like the details of emergency services or other hotlines."
+msgstr "Tidak mengapa. Taip {HELP} pada bila-bila masa jika anda mahu butiran perkhidmatan kecemasan atau talin penting yang lain."
 
 #. type=text
 msgctxt "text"
@@ -32,6 +37,11 @@ msgstr "Berikut ialah butiran hubungan perkhidmatan kecemasan tempatan anda:"
 msgctxt "text"
 msgid "{generic referrals}"
 msgstr "{generic referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+msgstr "Taip {HELP} pada bila-bila masa jika anda memerlukan butiran perkhidmatan kecemasan atau talian penting yang lain. Ingat bahawa semua yang anda nyatakan adalah sulit!"
 
 #. type=text
 msgctxt "text"
@@ -100,6 +110,11 @@ msgstr "Adakah anda memerlukan bantuan segera?"
 
 #. type=text
 msgctxt "text"
+msgid "It looks like you are facing an emergency. Can you please tell us what kind of assistance you need?"
+msgstr "Anda kelihatan seperti sedang berada dalam kecemasan. Bolehkah anda beritahu kami pertolongan apakah yang anda perlukan?"
+
+#. type=text
+msgctxt "text"
 msgid "{family referrals}"
 msgstr "{family referrals}"
 
@@ -107,6 +122,11 @@ msgstr "{family referrals}"
 msgctxt "text"
 msgid "What would you like to do?"
 msgstr "Apakah yang anda mahu lakukan?"
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful! You can access this information at any time by typing {HELP}."
+msgstr "Kami berharap ini membantu! Anda boleh akses semula maklumat ini pada bila-bila masa dengan menaip {HELP}."
 
 #. type=text
 msgctxt "text"
@@ -120,8 +140,23 @@ msgstr "Selamat kembali ke ParentText!"
 
 #. type=text
 msgctxt "text"
+msgid "I don't understand your message."
+msgstr "Saya tidak memahami mesej anda."
+
+#. type=text
+msgctxt "text"
+msgid "Please type {MENU} to access resources and review completed modules, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources for a crisis."
+msgstr "Sila taip {MENU} untuk mengakses sumber dan semak semula modul yang telah lengkap, {PLAY} untuk menerima aktiviti ceria yang anda boleh selesaikan bersama anak anda, atau {HELP} untuk mendapatkan bantuan sokongan setempat bagi menghadapi krisis."
+
+#. type=text
+msgctxt "text"
 msgid "You have not given consent to participate in this programme. Would you like to participate?"
 msgstr "Anda masih belum memberi persetujuan untuk menyertai program ini. Adakah anda ingin turut serta?"
+
+#. type=text
+msgctxt "text"
+msgid "If you ever decide to participate in the programme, type {START}. "
+msgstr "Jika anda membuat keputusan untuk menyertai program ini, taip {START}. "
 
 #. type=text
 msgctxt "text"
@@ -129,9 +164,70 @@ msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
 msgstr "Semoga berjumpa lagi! Selamat sejahtera!"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Parenting is hard. ParentText may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
+msgstr "Keibubapaan adalah sukar. ParentText mungkin membantu. Anda telah melengkapkan @fields.n_goals_completed daripada @fields.n_goals_prog matlamat keibubapaan. Adakah anda ingin teruskan Adakah anda mahu teruskan kemajuan anda?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. If you ever decide to come back, type {START}. "
+msgstr "Tidak mengapa. Jika anda membuat keputusan untuk kembali semula, taip {START}. "
+
+#. type=text
+msgctxt "text"
+msgid "You are already part of ParentText! "
+msgstr "Anda adalah sebahagian daripada ParentText! "
+
+#. type=text
+msgctxt "text"
+msgid "You have already completed ParentText!"
+msgstr "Anda telah lengkapkan ParentText!"
+
+#. type=text
+msgctxt "text"
+msgid "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?"
+msgstr "Kekal berada dalam ParentText boleh membantu anda dan anak anda. Adakah anda pasti ingin keluar daripada program ini?"
+
+#. type=text
+msgctxt "text"
+msgid "If you do not want to receive any more messages, please type \"EXIT\"."
+msgstr "Sekiranya anda tidak lagi mahu menerima mesej, sila taip \"KELUAR\"."
+
+#. type=text
+msgctxt "text"
+msgid "If you made a mistake, please type \"BACK\"."
+msgstr "Jika anda telah melakukan kesilapan, sila type \"KEMBALI\"."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for participating. If you want to return to the programme, type {START}. "
+msgstr "Terima kasih kerana mengambil bahagian. Jika anda mahu kembali ke program, taip {START}. "
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon!"
+msgstr "Kami harap dapat berjuma anda lagi tidak lama lagi!"
+
+#. type=text
 msgctxt "text"
 msgid "Sorry I don't understand what you mean."
 msgstr "Maaf, saya tidak faham maksud anda."
+
+#. type=text
+msgctxt "text"
+msgid "Excellent work. You have completed the Prevent Sexual Violence skill. Remember you can access this information at any time typing {PREVENT}."
+msgstr "Kerja yang cemerlang. Anda telah menguasai kemahiran Pencegahan Keganasan Seksual. Ingat bahawa anda boleh mencari maklumat ini pada bila-bila masa dengan menaip {PREVENT}."
+
+#. type=text
+msgctxt "text"
+msgid "Excellent work. You have learned the basics of self defence. Remember you can access this information at any time typing {SAFE}."
+msgstr "Kerja yang cemerlang. Anda telah mempelajari asas seni mempertahankan diri. Ingat bahawa anda boleh mengakses maklumat ini pada bila-bila masa dengan menaip {SAFE}."
+
+#. type=text
+msgctxt "text"
+msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgstr "Menu akan tersedia selepas anda melengkapkan pendaftaran. Ia tidak akan mengambil masa yang lama. Sila teruskan dengan kemajuan anda!"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
