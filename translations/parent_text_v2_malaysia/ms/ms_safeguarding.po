@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-09-23 05:05\n"
+"PO-Revision-Date: 2023-09-23 11:05\n"
 
 #. type=text
 msgctxt "text"
@@ -30,13 +30,43 @@ msgstr "Berikut ialah butiran hubungan perkhidmatan kecemasan tempatan anda:"
 
 #. type=text
 msgctxt "text"
+msgid "{generic referrals}"
+msgstr "{generic referrals}"
+
+#. type=text
+msgctxt "text"
 msgid "If you ever feel like talking privately to a trained professional, you can call:"
 msgstr "Sekiranya anda ingin bercakap secara peribadi dengan profesional terlatih, anda boleh menghubungi:"
 
 #. type=text
 msgctxt "text"
+msgid "{mental_health referrals}"
+msgstr "{mental_health referrals}"
+
+#. type=text
+msgctxt "text"
 msgid "Here are the contact details of your local medical services:"
 msgstr "Berikut ialah maklumat hubungan perkhidmatan perubatan tempatan anda:"
+
+#. type=text
+msgctxt "text"
+msgid "{health referrals}"
+msgstr "{health referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "{violence referrals}"
+msgstr "{violence referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "{natural_disasters referrals}"
+msgstr "{natural_disasters referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "{drugs referrals}"
+msgstr "{drugs referrals}"
 
 #. type=text
 msgctxt "text"
@@ -60,8 +90,18 @@ msgstr "Adakah anda mengalami situasi tidak selamat?"
 
 #. type=text
 msgctxt "text"
+msgid "Do you have an emergency?"
+msgstr "Adakah anda dalam kecemasan?"
+
+#. type=text
+msgctxt "text"
 msgid "Do you need some urgent help?"
 msgstr "Adakah anda memerlukan bantuan segera?"
+
+#. type=text
+msgctxt "text"
+msgid "{family referrals}"
+msgstr "{family referrals}"
 
 #. type=text
 msgctxt "text"
@@ -72,6 +112,11 @@ msgstr "Apakah yang anda mahu lakukan?"
 msgctxt "text"
 msgid "Sorry, I dont' understand what you mean."
 msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back to ParentText!"
+msgstr "Selamat kembali ke ParentText!"
 
 #. type=text
 msgctxt "text"
@@ -142,6 +187,54 @@ msgctxt "quick_replies"
 msgid "Family counselling services"
 msgstr "Perkhidmatan kaunseling keluarga"
 
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Substance abuse"
+msgstr "Penyalahgunaan bahan"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Natural disasters"
+msgstr "Bencana alam"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get other emergency contacts"
+msgstr "Dapatkan lain-lain nombor kecemasan"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to the Main Menu"
+msgstr "Pergi ke Menu Utama"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit"
+msgstr "Keluar"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "BACK"
+msgstr "KEMBALI"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "generic"
+msgstr "generik"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental_health"
+msgstr "kesihatan_mental"
+
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
@@ -157,8 +250,26 @@ msgstr "keganasan"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "natural_disasters"
+msgstr "bencana_alam"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "drugs"
+msgstr "dadah"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "help"
 msgstr "tolong"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "menu"
+msgstr "menu"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -175,8 +286,26 @@ msgstr "selamat"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "prevent"
+msgstr "cegah"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "grow"
+msgstr "berkembang"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "stop"
 msgstr "berhenti"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start"
+msgstr "mula"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -187,14 +316,74 @@ msgstr "ya yea yah ok ye y"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "no n nope nah"
+msgstr "tidak tak tdak t"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "tidak tak tdak t"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "police"
 msgstr "polis"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "medical services"
+msgstr "pekhidmatan perubatan"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "fire department"
+msgstr "bomba"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental health services"
+msgstr "perkhidmatan kesihatan mental"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "violence prevention hotline"
+msgstr "talian penting pencegahan keganasan"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "suicide prevention hotline"
+msgstr "talian penting pencegahan bunuh diri"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "family counselling services"
 msgstr "perkhidmatan kaunseling keluarga"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "substance abuse"
+msgstr "penyalahgunaan bahan"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "natural disasters"
+msgstr "bencana alam"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get other emergency contacts"
+msgstr "dapatkan lain-lain nombor kecemasan"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
