@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-09-23 23:05\n"
+"PO-Revision-Date: 2023-09-24 05:03\n"
 
 #. type=text
 msgctxt "text"
@@ -364,6 +364,18 @@ msgctxt "quick_replies"
 msgid "Not Yet"
 msgstr "Belum Lagi"
 
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Somewhat"
+msgstr "Agak"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Very Much"
+msgstr "Sangat-Sangat"
+
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
@@ -459,4 +471,16 @@ msgstr "tidak pernah"
 msgctxt "arguments"
 msgid "not yet"
 msgstr "belum lagi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "somewhat"
+msgstr "agak"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "very much"
+msgstr "sangat-sangat"
 
