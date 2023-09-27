@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2023-08-03 14:42\n"
+"PO-Revision-Date: 2023-09-27 14:24\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -805,6 +805,49 @@ msgstr "Ungathanda ukuyibuyekeza?"
 
 #. type=text
 msgctxt "text"
+msgid "You didn't tell us the gender of your child."
+msgstr "Awusitshelanga ubulili bomntwana wakho."
+
+#. type=text
+msgctxt "text"
+msgid "Your child's gender has been updated."
+msgstr "Ubulili bomntwana wakho wakho bubuyekeziwe."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is a Girl."
+msgstr "Usitshele ukuthi u @fields.child_nickname yintombazane."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that your child is a Girl."
+msgstr "Usitshele ukuthi umntwana wakho yintombazane."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is a Boy."
+msgstr "Usitshele ukuthi u @fields.child_nickname umfana."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that your child is a Boy."
+msgstr "Usitshele ukuthi umntwana wakho umfana."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your current M2M ID is @fields.research_id."
+msgstr "i-ID yakho yamanje ye-M2M ithi @fields.research_id."
+
+#. type=text
+msgctxt "text"
+msgid "Your ID has been updated."
+msgstr "i-ID yakho ibuyekeziwe."
+
+#. type=text
+msgctxt "text"
 msgid "You are currently receiving messages in English."
 msgstr "Okwamanje uthola imilayezo ngesiNgisi."
 
@@ -1110,6 +1153,18 @@ msgstr "Usuku Lokuzalwa Kwengane Yakho"
 msgctxt "quick_replies"
 msgid "Your Child's Nickname"
 msgstr "Isiteketiso Sengane Yakho"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Child's Gender"
+msgstr "Ubulili bomntwana wakho"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your M2M ID"
+msgstr "i-ID yakho yakwa M2M"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1453,6 +1508,18 @@ msgstr "usuku lokuzalwa kwengane yakho"
 msgctxt "arguments"
 msgid "your child's nickname"
 msgstr "igama lokuteketisa lengane yakho"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your child's gender"
+msgstr "ubulili bomntwana wakho"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "your m2m id"
+msgstr "i-id yakho yakwa M2M"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
