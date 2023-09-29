@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-09-28 20:25\n"
+"PO-Revision-Date: 2023-09-29 02:23\n"
 
 #. type=text
 msgctxt "text"
@@ -202,6 +202,26 @@ msgstr "Anda telah menyelesaikan 25% dari kemahiran ini! Tekan SETERUSNYA untuk 
 
 #. type=text
 msgctxt "text"
+msgid "{F1_DAUGHTER_6} and her mother, {F1_MOTHER}, are playing dress up during one-on-one time. Let’s see how they have fun together:"
+msgstr "{F1_DAUGHTER_6} dan ibunya, {F1_MOTHER}, sedang bermain berdandan sewaktu masa bersama seorang dengan seorang. Mari lihat bagaimana mereka berseronok bersama-sama:"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_MOTHER}: I have 5 minutes of one-on-one time to spend with you, {F1_DAUGHTER_6}. What would you like to do?"
+msgstr "{F1_MOTHER}: Ibu boleh meluangkan masa bersama seorang dengan seorang bersama kamu selam a5 minit, {F1_DAUGHTER_6}. Apa yang kamu ingin lakukan?"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_6}: I want to play dress up!"
+msgstr "{F1_DAUGHTER_6}: Saya ingin bermain berdandan!"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_MOTHER}: Wonderful idea, {F1_DAUGHTER_6}! I see you are taking out the yellow scarf with blue stripes on it."
+msgstr "{F1_MOTHER}: Idea yang menarik, {F1_DAUGHTER_6}! Ibu lihat kamu sedang mengeluarkan skaf berwarna kuning dengan jalur berwarna biru."
+
+#. type=text
+msgctxt "text"
 msgid "{F1_DAUGHTER_6}: Ibu, it’s for you."
 msgstr "{F1_DAUGHTER_6}: Ibu, ini untuk ibu."
 
@@ -252,9 +272,246 @@ msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skil
 msgstr "Anda telah melengkapkan @(fields.c_n_mod_compl +1) daripada @fields.c_n_mod kemahiran untuk mencapai matlamat anda, Menambah baik Hubungan saya dengan Anak Saya. ⭐"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Spending special time with @fields.child_nickname will make them feel valued and loved. 💙"
+msgstr "@fields.child_nickname akan rasa dihargai dan disayangi jika anda meluangkan masa yang tertentu bersama mereka. 💙"
+
+#. type=text
+msgctxt "text"
+msgid "Spending special time with your child will make them feel valued and loved. 💙"
+msgstr "Anak anda akan rasa dihargai dan disayangi jika anda meluangkan masa yang tertentu bersama anak anda. 💙"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Press Play ▶️ to learn 3️⃣ three tips to remember when spending one-on-one time with @fields.child_nickname"
+msgstr "Tekan Main ▶️ untuk mempelajari 3️⃣ tiga petua yang perlu diambil tahu sewaktu meluangkan masa bersama seorang dengan seorang bersama @fields.child_nickname"
+
+#. type=text
+msgctxt "text"
+msgid "Press Play ▶️ to learn 3️⃣ three tips to remember when spending one-on-one time with your child"
+msgstr "Tekan Main ▶️ untuk mempelajari 3️⃣ tiga petua yang perlu diambil tahu sewaktu meluangkan masa bersama seorang dengan seorang bersama anak anda"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "3️⃣ Here are three tips to remember when spending one-on-one time with @fields.child_nickname: DAY, PLAY, and STAY."
+msgstr "3️⃣ Berikut merupakan tiga petua untuk diambil tahu apabila meluangkan masa bersama seorang dengan seorang bersama @fields.child_nickname: HARI, MAIN, dan KEKAL."
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ Here are three tips to remember when spending one-on-one time with your child: DAY, PLAY, and STAY."
+msgstr "3️⃣ Berikut merupakan tiga petua untuk diambil tahu apabila meluangkan masa bersama seorang dengan seorang bersama anak anda: HARI, MAIN, dan KEKAL."
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ DAY - Try to do it every day"
+msgstr "1️⃣ HARI - Cuba lakukannya setiap hari"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "⏰ Spend 5 minutes (or more!) with @fields.child_nickname each day."
+msgstr "⏰ Setiap hari, luangkan selama 5 minit (atau lebih!) dengan @fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "⏰ Spend 5 minutes (or more!) with your child each day."
+msgstr "⏰ Setiap hari, luangkan selama 5 minit (atau lebih!) dengan anak anda."
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ PLAY - Let them choose the activity"
+msgstr "2️⃣ MAIN - Biarkan mereka memilih aktiviti yang mereka mahukan"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "⏰ Ask to spend time with @fields.child_nickname."
+msgstr "⏰ Meminta untuk meluangkan masa bersama @fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "⚽ Let them choose what to do or talk about."
+msgstr "⚽ Biarkan mereka memilih apa yang perlu dilakukan atau yang perlu dibincangkan."
+
+#. type=text
+msgctxt "text"
+msgid "🎈Try different activities together."
+msgstr "🎈Cuba melakukan aktiviti yang berlainan bersama-sama."
+
+#. type=text
+msgctxt "text"
+msgid "😃 Have fun!"
+msgstr "😃 Berseronoklah!"
+
+#. type=text
+msgctxt "text"
+msgid "⏰ Ask to spend time with your child."
+msgstr "⏰ Meminta untuk meluangkan masa bersama anak anda."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "3️⃣ STAY - Focus on @fields.child_nickname"
+msgstr "3️⃣ KEKAL - Beri tumpuan pada @fields.child_nickname"
+
+#. type=text
+msgctxt "text"
+msgid "📺 Switch off the TV, put aside phones, and remove distractions."
+msgstr "📺Matikan TV, ketepikan telefon bimbit, dan elakkan gangguan."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "👀 Look at @fields.child_nickname. Nod or say “I see” to show you are really paying attention. "
+msgstr "👀 Perhatikan @fields.child_nickname. Untuk menunjukkan anda betul-betul memberikan perhatian pada anak anda, angguk atau berkata \"Saya nampak\". "
+
+#. type=text
+msgctxt "text"
+msgid "💛 Accept your child and avoid judgement."
+msgstr "💛 Hormati perasaan anak anda dan elakkan menghakiminya."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "💡 Respond to your child when they communicate with you. @fields.child_nickname may use gestures, full sentences, movements, and sounds to communicate with you. It shows you are really paying attention to them."
+msgstr "💡 Untuk berkomunikasi dengan anda, @fields.child_nickname mungkin menggunakan gerak isyarat, ayat penuh, pergerakan dan juga bunyi. Bertindak balas terhadap anak anda apabila mereka berkomunikasi dengan anda. Ia menunjukkan anda benar-benar memberi perhatian kepada mereka."
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ STAY - Focus on your child"
+msgstr "3️⃣ KEKAL - Beri tumpuan pada anak anda"
+
+#. type=text
+msgctxt "text"
+msgid "👀 Look at your child. Nod or say “I see” to show you are really paying attention. "
+msgstr "👀 Perhatikan anak anda. Untuk menunjukkan anda betul-betul memberikan perhatian pada anak anda, angguk atau berkata \"Saya nampak\". "
+
+#. type=text
+msgctxt "text"
+msgid "💡 Respond to your child when they communicate with you. your child may use gestures, full sentences, movements, and sounds to communicate with you. It shows you are really paying attention to them."
+msgstr "💡 Untuk berkomunikasi dengan anda, anak anda mungkin menggunakan gerak isyarat, ayat penuh, pergerakan dan juga bunyi. Bertindak balas terhadap anak anda apabila mereka berkomunikasi dengan anda. Ia menunjukkan anda benar-benar memberi perhatian kepada mereka."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Home Activity! ⭐ Try to spend at least 5 minutes of quality one-on-one time with @fields.child_nickname every day. It will make such a difference! Do you have time to do it today? ⏰"
+msgstr "Aktiviti di Rumah! ⭐ Cuba meluangkan masa yang berkualiti bersama seorang dengan seorang bersama @fields.child_nickname setiap hari. Ia akan mewujudkan perubahan yang besar! Adakah anda mempunyai masa untuk lakukannya hari ini? ⏰"
+
+#. type=text
+msgctxt "text"
+msgid "Home Activity! ⭐ Try to spend at least 5 minutes of quality one-on-one time with your child every day. It will make such a difference! Do you have time to do it today? ⏰"
+msgstr "Aktiviti di Rumah! ⭐ Cuba meluangkan masa yang berkualiti bersama seorang dengan seorang bersama anak anda setiap hari. Ia akan mewujudkan perubahan yang besar! Adakah anda mempunyai masa untuk lakukannya hari ini? ⏰"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Great! Use the tips you have learnt today and have fun! Spending one-on-one time with @fields.child_nickname is a great way to form a positive relationship with them. 💙"
+msgstr "Bagus! Cara terbaik untuk membina hubungan yang sihat bersama @fields.child_nickname adalah dengan meluangkan masa bersama seorang dengan seorang bersama mereka. Gunakan petua yang anda telah pelajari hari ini dan berseronoklah! 💙"
+
+#. type=text
+msgctxt "text"
+msgid "Great! Use the tips you have learnt today and have fun! Spending one-on-one time with your child is a great way to form a positive relationship with them. 💙"
+msgstr "Bagus! Cara terbaik untuk membina hubungan yang sihat bersama anak anda adalah dengan meluangkan masa bersama seorang dengan seorang bersama mereka. Gunakan petua yang anda telah pelajari hari ini dan berseronoklah! 💙"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed this skill! You have learnt the importance of spending one-on-one time with @fields.child_nickname."
+msgstr "Anda telah menyelesaikan kemahiran ini! Anda telah mempelajari kepentingan meluangkan masa bersama seorang dengan seorang bersama @fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "You have completed this skill! You have learnt the importance of spending one-on-one time with your child."
+msgstr "Anda telah menyelesaikan kemahiran ini! Anda telah mempelajari kepentingan meluangkan masa bersama seorang dengan seorang bersama anak anda."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Did you know that being kind to yourself can help you to be kind to your family? 💚 Today, we will learn how to improve your relationship with @fields.child_nickname by learning to be kind to yourself. ☀️ "
+msgstr "Tahukah anda, bersikap baik terhadap diri sendiri boleh membantu anda bersikap baik terhadap keluarga anda juga? 💚 Dengan belajar untuk bersikap baik terhadap diri sendiri, kita akan mempelajari cara menambah baik hubungan anda dengan @fields.child_nickname pada hari ini ☀️ "
+
+#. type=text
+msgctxt "text"
+msgid "Imagine you had a friend who was feeling bad about making a big mistake. 😣 How would you talk to them?"
+msgstr "Bayangkan anda mempunyai seorang rakan yang berasa bersalah setelah melakukan kesilapan yang besar. 😣 Bagaimanakah anda akan bercakap dengan mereka?"
+
+#. type=text
+msgctxt "text"
+msgid "Did you know that being kind to yourself can help you to be kind to your family? 💚 Today, we will learn how to improve your relationship with your child by learning to be kind to yourself. ☀️ "
+msgstr "Tahukah anda, bersikap baik terhadap diri sendiri boleh membantu anda bersikap baik terhadap keluarga anda juga? 💚 Dengan belajar untuk bersikap baik terhadap diri sendiri, kita akan mempelajari cara menambah baik hubungan anda dengan anak anda pada hari ini ☀️ "
+
+#. type=text
+msgctxt "text"
+msgid "👂Now think about how you talk to yourself when you make a mistake. Is it different?"
+msgstr "👂Sekarang fikirkan tentang bagaimana anda bercakap dengan diri sendiri ketika anda melakukan kesilapan. Adakah ia berbeza?"
+
+#. type=text
+msgctxt "text"
+msgid "💛 Often, we don’t treat ourselves as well as we treat our friends and family."
+msgstr "💛 Sering kali, cara layanan kita terhadap rakan dan keluarga kita jauh berbeza dengan layanan kita terhadap diri sendiri."
+
+#. type=text
+msgctxt "text"
+msgid "🌷Being kind to ourselves helps us deal with hard things. When we are kind to ourselves, we can be kind to others."
+msgstr "🌷Bersikap baik terhadap diri sendiri membantu kita mengendalikan perkara yang sukar. Kita boleh bersikap baik kepada orang lain apabila kita bersikap baik terhadap diri sendiri."
+
+#. type=text
 msgctxt "text"
 msgid "Listen to your breath."
 msgstr "Dengarkan nafas anda."
+
+#. type=text
+msgctxt "text"
+msgid "❌ Incorrect."
+msgstr "❌ Salah."
+
+#. type=text
+msgctxt "text"
+msgid "✨ How you praise your child is important. Praise should be specific, immediate, and genuine. "
+msgstr "✨ Adalah penting untuk mengetahui cara pujian yang betul. Pujian perlulah spesifik, segera dan secara ikhlas. "
+
+#. type=text
+msgctxt "text"
+msgid "🌱 You can begin by praising your child for the smallest things, such as playing by themselves quietly for 2 minutes."
+msgstr "🌱 Mulakan memuji anak anda walaupun untuk perkara yang kecil seperti bermain seorang diri secara senyap selama 2 minit."
+
+#. type=text
+msgctxt "text"
+msgid "🎉 You are right! "
+msgstr "🎉 Jawapan anda betul! "
+
+#. type=text
+msgctxt "text"
+msgid "Let’s check in on {F1_MOTHER} and her son, {F1_SON_5}, to see how giving praise can work at home."
+msgstr "Jom kita lihat bagaimana {F1_MOTHER} memberi pujian kepada anakya, {F1_SON_5}, di rumah mereka."
+
+#. type=text
+msgctxt "text"
+msgid "{F1_MOTHER}: You found a striped sock and one with dots. Let’s find the socks that match those two."
+msgstr "{F1_MOTHER}: Kamu dah jumpa satu stokin jalur, satu stokin bintik. Mari kita cari pasangan stokin yang sepadan."
+
+#. type=text
+msgctxt "text"
+msgid "{F1_MOTHER}: Another sock! This one is white. It isn’t easy finding a matching pair. It can be frustrating."
+msgstr "{F1_MOTHER}: Kamu jumpa stokin putih pula ya. Memang susah nak cari yang sepadan. Ianya boleh mengecewakan."
+
+#. type=text
+msgctxt "text"
+msgid "{F1_MOTHER}: You are being very patient and looking very hard, {F1_SON_5}. Good for trying."
+msgstr "{F1_MOTHER}: Ibu nampak {F1_SON_5} mencari dengan sabar dan tekun. Bagus kerana terus mencuba."
+
+#. type=text
+msgctxt "text"
+msgid "{F1_MOTHER}: You found matching socks of the same pattern! Well done for looking, {F1_SON_5}!"
+msgstr "{F1_MOTHER}: Akhirnya kamu jumpa pasangan stokin yang sepadan. Bagus, {F1_SON_5}!"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ SAY IT"
+msgstr "2️⃣ SEBUTKAN"
 
 #. type=text
 msgctxt "text"
@@ -280,6 +537,43 @@ msgstr "🔄 Anak anda akan lebih cenderung untuk melakukannya lagi."
 msgctxt "text"
 msgid "Your Home Activity today is to praise your child. Can you try it today?"
 msgstr "Aktiviti di rumah hari ini adalah beri pujian kepada anak anda. Bolehkah anda cuba hari ini?"
+
+#. type=text
+msgctxt "text"
+msgid "💚 That's OK! Sometimes things take time. "
+msgstr "💚 Tidak mengapa! Sesuatu perkara mungkin akan mengambil masa. "
+
+#. type=text
+msgctxt "text"
+msgid "📝 You can review this skill in the Main Menu any time. ⭐ With time, praise will come easily to you."
+msgstr "📝 Anda boleh pergi ke Menu Utama untuk menyemak semula kemahiran ini pada bila-bila masa. ⭐ Anda pasti dapat memahiri kemahiran memuji tidak lama lagi."
+
+#. type=text
+msgctxt "text"
+msgid "Well done! ⭐ You have now learnt the four steps to Praise. "
+msgstr "Syabas! ⭐ Anda kini telah mempelajari langkah keempat dalam Memuji. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🔄Praising @fields.child_nickname when they behave in a good way will make them want to behave that way more often. "
+msgstr "🔄@fields.child_nickname akan berkelakuan baik dengan lebih kerap jika mereka menerima pujian daripada kita apabila mereka berkelakuan baik. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "⭐It also creates a positive and loving relationship between you and @fields.child_nickname."
+msgstr "⭐Ia juga dapat mencipta hubungan yang positif serta penuh kasih sayang antara anda dan @fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "🔄Praising your child when they behave in a good way will make them want to behave that way more often. "
+msgstr "🔄Anak anda akan berkelakuan baik dengan lebih kerap jika mereka menerima pujian daripada kita apabila mereka berkelakuan baik. "
+
+#. type=text
+msgctxt "text"
+msgid "⭐It also creates a positive and loving relationship between you and your child."
+msgstr "⭐Ia juga dapat mencipta hubungan yang positif serta penuh kasih sayang antara anda dan anak anda."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1664,6 +1958,17 @@ msgid "▶️ Press play to learn 4️⃣ four tips to help you teach your child
 msgstr "▶️ Tekan main untuk belajar 4️⃣ Berikut adalah empat petua berguna yang akan membantu mendidik anak anda tentang sentuhan selamat dan apa yang perlu dilakukan jika mereka berasa tidak selesa apabila seseorang menyentuh mereka. 💛"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "4️⃣ Here are four tips to help you teach @fields.child_nickname about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛"
+msgstr "4️⃣ Berikut adalah empat petua berguna yang akan membantu mendidik @fields.child_nickname tentang sentuhan selamat dan apa yang perlu dilakukan jika mereka berasa tidak selesa apabila seseorang menyentuh mereka. 💛"
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ Here are four tips to help you teach your child about safe and unsafe touch and what to do if they feel unsafe when someone touches them. 💛"
+msgstr "4️⃣ Berikut adalah empat petua berguna yang akan membantu mendidik anak anda tentang sentuhan selamat dan apa yang perlu dilakukan jika mereka berasa tidak selesa apabila seseorang menyentuh mereka. 💛"
+
+#. type=text
 msgctxt "text"
 msgid "2️⃣ “NO” IS OK!"
 msgstr "2️⃣“TIDAK” ADALAH OKEY!"
@@ -1671,8 +1976,19 @@ msgstr "2️⃣“TIDAK” ADALAH OKEY!"
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "❌ Tell @fields.child_nickname that they are always allowed to say no to someone touching them. This is true even for things like hugs!"
+msgstr "❌ Beritahu @fields.child_nickname bahawa mereka boleh mengatakan tidak jika disentuh oleh seseorang termasuklah apabila dipeluk!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "👑 This teaches @fields.child_nickname that they are always in control of who they allow to touch them so they can make safe choices throughout their lives, in any situation."
 msgstr "👑 Ini mengajar @fields.child_nickname bahawa mereka sentiasa mempunyai kuasa untuk menentukan siapa yang boleh menyentuh mereka supaya mereka boleh membuat pilihan selamat dalam apa jua keadaan sepanjang hidup mereka."
+
+#. type=text
+msgctxt "text"
+msgid "❌ Tell your child that they are always allowed to say no to someone touching them. This is true even for things like hugs!"
+msgstr "❌ Beritahu anak anda bahawa mereka boleh mengatakan tidak jika disentuh oleh seseorang termasuklah apabila dipeluk!"
 
 #. type=text
 msgctxt "text"
@@ -1691,6 +2007,180 @@ msgid "💡 Always teach @fields.child_nickname how to get away from any situati
 msgstr "💡 Sentiasa ajar @fields.child_nickname cara untuk melarikan diri dari apa-apa situasi yang membuatkan mereka tidak selesa. "
 
 #. type=text
+msgctxt "text"
+msgid "❗ They frequently form a trusting relationship with a child and initially engage in physical activities like wrestling, touching or giving a massage. This is to get the child comfortable with touch."
+msgstr "❗ Mereka sering mempunyai hubungan yang boleh dipercayai dengan kanak-kanak tersebut dan mereka akan melibatkan diri dalam aktiviti fizikal seperti bergusti, menyentuh atau mengurut pada awalnya. Ini bagi membiasakan anak-anak itu dengan sentuhan."
+
+#. type=text
+msgctxt "text"
+msgid "🌷 It will not be as easy for the child to get away from such situations, but teaching them how to leave when they feel uncomfortable will help."
+msgstr "🌷 Adalah sukar bagi kanak-kanak untuk melarikan diri dari situasi seperti ini, tetapi anda dapat membantu dengan mengajar mereka bagaimana cara untuk meninggalkan situasi tersebut."
+
+#. type=text
+msgctxt "text"
+msgid "💡 Always teach your child how to get away from any situation where they feel uncomfortable. "
+msgstr "💡 Sentiasa ajar anak anda cara untuk melarikan diri dari apa-apa situasi yang membuatkan mereka tidak selesa. "
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ TELL AN ADULT"
+msgstr "4️⃣ BERITAHU ORANG DEWASA"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🔴 Tell @fields.child_nickname that if they feel worried, uncomfortable, or unsafe about anyone touching them, they should tell you or an adult they trust."
+msgstr "🔴 Maklumkan kepada @fields.child_nickname, jika mereka berasa bimbang, tidak selesa, atau tidak selamat tentang sesiapa yang menyentuh mereka, mereka perlu memberitahu anda atau orang dewasa yang mereka percayai."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "👂 If @fields.child_nickname tells you about something that has happened, listen openly and tell them they were right to tell you. Then, take steps to keep them safe."
+msgstr "👂 Jika @fields.child_nickname beritahu anda sesuatu telah berlaku, dengar dengan hati terbuka dan beritahu mereka ambil tindakan yang betul dengan memberitahu kepada anda. Kemudian, ambil langkah untuk memastikan keselamatan mereka."
+
+#. type=text
+msgctxt "text"
+msgid "🔴 Tell your child that if they feel worried, uncomfortable, or unsafe about anyone touching them, they should tell you or an adult they trust."
+msgstr "🔴 Maklumkan kepada anak anda, jika mereka berasa bimbang, tidak selesa, atau tidak selamat tentang sesiapa yang menyentuh mereka, mereka perlu memberitahu anda atau orang dewasa yang mereka percayai."
+
+#. type=text
+msgctxt "text"
+msgid "Home activity! ⭐ "
+msgstr "Aktiviti di Rumah! ⭐ "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Skill complete! You have learnt to teach @fields.child_nickname about safe touch."
+msgstr "Kemahiran lengkap! Anda telah belajar cara untuk mengajar @fields.child_nickname tentang sentuhan selamat."
+
+#. type=text
+msgctxt "text"
+msgid "Skill complete! You have learnt to teach your child about safe touch."
+msgstr "Kemahiran lengkap! Anda telah belajar cara untuk mengajar anak anda tentang sentuhan selamat."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER} wants to help her young children learn about safe and unsafe touch. Lets see how she has the conversation with her young daughter, {F3_DAUGHTER_4}."
+msgstr "{F3_MOTHER} mahu membantu anak kecilnya belajar tentang sentuhan selamat dan sentuhan tidak selamat. Mari kita lihat cara dia berkomunikasi dengan anak daranya, {F3_DAUGHTER_4}."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: Did you enjoy the story, {F3_DAUGHTER_4}?"
+msgstr "{F3_MOTHER}: Awak suka tak cerita tadi, {F3_DAUGHTER_4}?"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_4}: Yes, Mummy! It was fun!"
+msgstr "{F3_DAUGHTER_4}: Ya, Ibu! Saya sangat seronok!"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}:  Now, there are some important things I want to talk to you about. It's about keeping your body safe and healthy."
+msgstr "{F3_MOTHER}:  Sekarang Ibu nak cakap tentang beberapa perkara penting. Ia tentang menjaga keselamatan dan kesihatan diri."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_4}: What do you mean, Mummy?"
+msgstr "{F3_DAUGHTER_4}: Apa maksudnya, Ibu?"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: First, we all have private parts on our bodies. These are the parts that are covered by our underwear."
+msgstr "{F3_MOTHER}: Pertama sekali, kita semua mempunyai anggota sulit pada tubuh kita. Anggota ini adalah anggota yang ditutup oleh pakaian dalam kita."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_4}: Like this? "
+msgstr "{F3_DAUGHTER_4}: Seperti ini? "
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: Exactly. It's important to remember that these parts are private, and no one should touch them except to keep you clean and healthy."
+msgstr "{F3_MOTHER}: Tepat sekali. Sesiapa pun tidak boleh menyentuh anggota sulit kamu kecuali untuk membersihkan dan untuk tujuan kesihatan, dan ini sangat penting untuk kamu ingat."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: Your body belongs to you, and you have the right to say 'no' if someone wants to touch you in a way that feels uncomfortable or wrong."
+msgstr "{F3_MOTHER}: Kamu berhak untuk mengatakan 'tidak' sekiranya ada orang yang ingin menyentuh kamu dengan cara yang kamu tidak sukai, tubuh kamu adalah milik kamu."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: And if anything ever happens that makes you feel scared or uneasy, remember you can always come and tell me. I’m here to protect you and keep you safe."
+msgstr "{F3_MOTHER}: Kami sentiasa ada untuk melindungi kamu dan pastikan kamu selamat. Jadi, sekiranya terjadi apa-apa yang buat kamu rasa takut atau tidak selesa, kamu harus ingat bahawa kamu boleh beritahu kepada Ayah dan Ibu."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_4}: I will tell you, Mummy."
+msgstr "{F3_DAUGHTER_4}: Saya akan beritahu, Ibu."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: I love you, {F3_DAUGHTER_4}. Now, let's give each other a big hug!"
+msgstr "{F3_MOTHER}: Saya sayangkan kamu, {F3_DAUGHTER_4}. Mari kita berpelukan!"
+
+#. type=text
+msgctxt "text"
+msgid "😔 It is normal to feel uncomfortable about talking to children about abuse. "
+msgstr "😔 Apabila bercakap dengan anak tentang penganiayaan, kita akan rasa tidak selesa dan itu adalah biasa. "
+
+#. type=text
+msgctxt "text"
+msgid "Here’s a story about a time {F2_DAUGHTER_8} felt unsafe about someone touching her."
+msgstr "Berikut adalah kisah {F2_DAUGHTER_8} yang merasa tidak selesa apabila disentuh seseorang."
+
+#. type=text
+msgctxt "text"
+msgid "{F2_DAUGHTER_8}: (Tearing up) Paati, Uncle gives very long hugs! I don’t like them."
+msgstr "{F2_DAUGHTER_8}: (Menangis) Ibu, pakcik peluk saya lama-lama! Saya tak suka."
+
+#. type=text
+msgctxt "text"
+msgid "{F2_GRANDMOTHER}: Oh dear, {F2_DAUGHTER_8}, that is not OK. Thank you for telling me about it, that is not okay."
+msgstr "{F2_GRANDMOTHER}: Oh sayang, {F2_DAUGHTER_8}, ini tak OKEY. Terima kasih kerana beritahu Ibu, tapi perbuatan pakcik itu tidak okey."
+
+#. type=text
+msgctxt "text"
+msgid "{F2_GRANDMOTHER}: If he ever tries to give you a hug again, you can tell him, “No, let’s rather shake hands,” and tell me straight away. Shall we practise?"
+msgstr "{F2_GRANDMOTHER}: Jika dia cuba untuk peluk awak lagi, awak beritahu dia, \"Tak boleh, boleh salam tangan sahaja,\" dan awak terus beritahu Ibu. Nak berlatih?"
+
+#. type=text
+msgctxt "text"
+msgid "{F2_DAUGHTER_8}: (Practising) No, let’s rather shake hands, please."
+msgstr "{F2_DAUGHTER_8}: (Berlatih) Tak boleh, boleh salam tangan sahaja."
+
+#. type=text
+msgctxt "text"
+msgid "{F2_GRANDMOTHER}: Well done, {F2_DAUGHTER_8}. I love you very much and I’m so glad you spoke to me about it. If Uncle makes you feel uncomfortable again, you must tell me immediately. You should always feel safe and comfortable with the people around you."
+msgstr "{F2_GRANDMOTHER}: Bagus, {F2_DAUGHTER_8}. Saya sangat sayangkan kamu dan saya gembira kamu bercakap dengan saya tentang perkara ini. Kamu mesti memberitahu saya jika pakcik kamu buat kamu rasa tidak selesa. Sepatutnya kamu berasa selamat dan selesa dengan orang di sekeliling kamu."
+
+#. type=text
+msgctxt "text"
+msgid "{F2_DAUGHTER_8}: Thank you, Paati. I’m glad I can tell you about these things."
+msgstr "{F2_DAUGHTER_8}: Terima kasih Ibu. Saya gembira saya dapat beritahu Ibu tentang perkara ini."
+
+#. type=text
+msgctxt "text"
+msgid "5️⃣GET HELP "
+msgstr "5️⃣DAPATKAN BANTUAN "
+
+#. type=text
+msgctxt "text"
+msgid "💛If you need help to be a better support for your child, just type {HELP}. You will find a list of resources and experts that can be useful."
+msgstr "💛Jika anda perlukan sokongan yang lebih baik untuk anak anda, taipkan {HELP}. Terdapat senarai sumber dan pakar yang mungkin berguna untuk anda."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "If @fields.child_nickname tells me they feel uncomfortable about someone touching them on their private parts, I should:"
+msgstr "Jika @fields.child_nickname memberitahu saya bahawa mereka rasa tidak selesa apabila bahagian sulit mereka disentuh oleh orang lain, saya perlu:"
+
+#. type=text
+msgctxt "text"
+msgid "If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:"
+msgstr "Jika anak memberitahu saya bahawa mereka rasa tidak selesa apabila bahagian sulit mereka disentuh oleh orang lain, saya perlu:"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "▶️ Press play to learn 5️⃣ five tips to help you teach @fields.child_nickname about safe touch and what to do if they feel unsafe when someone touches them. 💛"
@@ -1700,6 +2190,109 @@ msgstr "▶️ Tekan main untuk belajar 5️⃣ Berikut adalah lima petua bergun
 msgctxt "text"
 msgid "▶️ Press play to learn 5️⃣ five tips to help you teach your child about safe touch and what to do if they feel unsafe when someone touches them. 💛"
 msgstr "▶️ Tekan main untuk belajar 4️⃣ Berikut adalah lima petua berguna yang akan membantu mendidik anak anda tentang sentuhan selamat dan apa yang perlu dilakukan jika mereka berasa tidak selesa apabila seseorang menyentuh mereka. 💛"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "5️⃣ Here are five tips to help you teach @fields.child_nickname about safe touch and what to do if they feel unsafe when someone touches them. 💛"
+msgstr "4️⃣ Berikut adalah lima petua berguna yang akan membantu mendidik @fields.child_nickname tentang sentuhan selamat dan apa yang perlu dilakukan jika mereka berasa tidak selesa apabila seseorang menyentuh mereka. 💛"
+
+#. type=text
+msgctxt "text"
+msgid "5️⃣ Here are five tips to help you teach your child about safe touch and what to do if they feel unsafe when someone touches them. 💛"
+msgstr "4️⃣ Berikut adalah lima petua berguna yang akan membantu mendidik anak anda tentang sentuhan selamat dan apa yang perlu dilakukan jika mereka berasa tidak selesa apabila seseorang menyentuh mereka. 💛"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ BE HONEST"
+msgstr "1️⃣ BERSIKAP JUJUR"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "✅ If @fields.child_nickname knows how their body works and where people should and should not touch them, they can make safer choices throughout their lives."
+msgstr "✅ @fields.child_nickname boleh membuat pilihan selamat sepanjang hidup mereka jika mengetahui bagaimana tubuh badan mereka bekerja dan bahagian mana yang boleh disentuh dan tidak boleh disentuh."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🔑 Answer any questions @fields.child_nickname has honestly. These could be about any part of their own body or that of the other sex - even private parts!"
+msgstr "🔑 Bersikap jujurlah semasa menjawab soalan daripada @fields.child_nickname. Soalan mungkin berkenaan bahagian tubuh badan mereka sendiri atau yang berlainan jantina - malah bahagian sulit!"
+
+#. type=text
+msgctxt "text"
+msgid "You are not alone! Parents all over the world say they worry about keeping their children safe. 🔔"
+msgstr "Anda tidak keseorangan! Memastikan keselamatan anak-anak adalah dilema ibu bapa di seluruh dunia. 🔔"
+
+#. type=text
+msgctxt "text"
+msgid "Let’s test your knowledge about children’s safety."
+msgstr "Mari kita uji pengetahuan anda tentang keselamatan anak-anak."
+
+#. type=text
+msgctxt "text"
+msgid "Which of these is NOT a place where children could experience harm?"
+msgstr "Manakah antara tempat ini BUKAN tempat yang bahaya kepada anak-anak?"
+
+#. type=text
+msgctxt "text"
+msgid "😔 Your child could experience harm in any of these places, even at home or at a place of worship. "
+msgstr "😔 Anak anda mungkin berdepan bahaya di mana-mana tempat ini, tidak kira di rumah atau di tempat keagamaan. "
+
+#. type=text
+msgctxt "text"
+msgid "🌱 As caregivers, it is our job to teach them how to keep themselves safe wherever they are."
+msgstr "🌱 Menjadi tugas kita sebagai penjaga, untuk mengajar mereka tentang cara menjaga keselamatan mereka di mana jua mereka berada."
+
+#. type=text
+msgctxt "text"
+msgid "Let’s do a True/False Quiz! My child is always with me, so I don’t need to teach them about safety until they are older."
+msgstr "Mari jawab Kuiz Betul/Salah! Anak saya sentiasa bersama dengan saya, jadi saya tidak perlu ajar mereka tentang keselamatan sehingga mereka telah cukup dewasa."
+
+#. type=text
+msgctxt "text"
+msgid "💡 It’s important to teach little ones about safety early on, even if they’re always with you. "
+msgstr "💡 Anak kecil perlu dididik tentang keselamatan sejak dari awal, ini penting walau pun mereka sentiasa bersama dengan anda. "
+
+#. type=text
+msgctxt "text"
+msgid "🔑 As caregivers, it is our job to help them learn how to stay safe everywhere."
+msgstr "🔑 Menjadi tugas kita sebagai penjaga, untuk membantu mereka belajar cara menjaga keselamatan di mana-mana sahaja mereka berada."
+
+#. type=text
+msgctxt "text"
+msgid "⭐ You’re correct! "
+msgstr "⭐ Jawapan anda betul! "
+
+#. type=text
+msgctxt "text"
+msgid "Let’s check in on {F3_DAUGHTER_4} and her uncle, {F3_UNCLE} who are playing together outside:"
+msgstr "Mari kita pantau {F3_DAUGHTER_4} dan pakciknya, {F3_UNCLE} yang bermain bersama di luar:"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_4}: Look Uncle, how far I can kick my ball!"
+msgstr "{F3_DAUGHTER_4}: Pakcik, tengok tu, jauhnya saya tendang bola!"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_4}: Oh no! My ball!"
+msgstr "{F3_DAUGHTER_4}: Alamak! Bola saya!"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_UNCLE}: Remember what we talked about, {F3_DAUGHTER_4}. What should we do if the ball goes on the street? "
+msgstr "{F3_UNCLE}: Ingat tak pesan pakcik, {F3_DAUGHTER_4}. kalau bola bergolek ke jalan raya, apa yang perlu kita buat? "
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_4}: We should stay where we are and ask an adult for help."
+msgstr "{F3_DAUGHTER_4}: Kita jangan pergi ambil dan minta pertolongan orang dewasa."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_UNCLE}: That’s right! I am so proud of you for remembering. Roads are for cars and bikes, and it is safer for an adult to get your ball for you."
+msgstr "{F3_UNCLE}: Tepat sekali! Pakcik bangga sebab awak mengingatinya dengan baik. Jalan raya untuk kereta dan motorsikal, jadi lebih selamat jika bola itu diambil oleh orang dewasa."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1715,6 +2308,17 @@ msgstr "▶️ Tekan Main untuk belajar 4️⃣ Berikut adalah empat langkah unt
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "👑 Using toys or puppets, role-play scenarios where a stranger approaches. Ask @fields.child_nickname what the toy should do. Children find it less scary to pretend that someone else is in danger. "
+msgstr "👑 Gunakan alat permainan atau anak patung, simulasikan kedatangan orang asing dengan bermain peranan. Tanya @fields.child_nickname apa yang perlu dilakukan jika ditegur orang asing. Anak-anak kurang berasa takut untuk berpura-pura yang seseorang dalam bahaya. "
+
+#. type=text
+msgctxt "text"
+msgid "👑 Using toys or puppets, role-play scenarios where a stranger approaches. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. "
+msgstr "👑 Gunakan alat permainan atau anak patung, simulasikan kedatangan orang asing dengan bermain peranan. Tanya @ apa yang perlu dilakukan jika ditegur orang asing. Anak-anak kurang berasa takut untuk berpura-pura yang seseorang dalam bahaya. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "▶️ Press Play to learn the 4️⃣ four steps to keep @fields.child_nickname safe in your community."
 msgstr "▶️ Tekan Main untuk belajar 4️⃣ Berikut adalah empat langkah untuk memastikan @fields.child_nickname selamat dalam komuniti anda."
 
@@ -1722,6 +2326,22 @@ msgstr "▶️ Tekan Main untuk belajar 4️⃣ Berikut adalah empat langkah unt
 msgctxt "text"
 msgid "▶️ Press Play to learn the 4️⃣ four steps to keep your child safe in your community."
 msgstr "▶️ Tekan Main untuk belajar 4️⃣ Berikut adalah empat langkah untuk memastikan anak anda selamat dalam komuniti anda."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask @fields.child_nickname what the toy should do. Children find it less scary to pretend that someone else is in danger. "
+msgstr "👑 Simulasikan kedatangan orang asing dengan bermain peranan menggunakan alat permainan atau anak patung. Tanya @fields.child_nickname apa yang perlu dilakukan jika ditegur orang asing. Anak-anak kurang berasa takut untuk berpura-pura yang seseorang dalam bahaya. "
+
+#. type=text
+msgctxt "text"
+msgid "👑 Role-play scenarios where a stranger approaches using toys or puppets. Ask your child what the toy should do. Children find it less scary to pretend that someone else is in danger. "
+msgstr "👑 Simulasikan kedatangan orang asing dengan bermain peranan menggunakan alat permainan atau anak patung. Tanya anak anda apa yang perlu dilakukan jika ditegur orang asing. Anak-anak kurang berasa takut untuk berpura-pura yang seseorang dalam bahaya. "
+
+#. type=text
+msgctxt "text"
+msgid "{F1_FATHER} : Oh my {F1_SON_5}, that is not a very nice thing to say to anyone. I can understand why you would feel upset about this. "
+msgstr "{F1_FATHER} : Anakku {F1_SON_5}, kita tak boleh bercakap macam itu kepada orang lain. Ayah faham sebab mengapa kamu rasa marah. "
 
 #. type=text
 msgctxt "text"
