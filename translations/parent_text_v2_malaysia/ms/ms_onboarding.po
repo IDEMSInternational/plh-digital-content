@@ -11,7 +11,18 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-09-20 15:13\n"
+"PO-Revision-Date: 2023-10-01 01:33\n"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your research ID is @fields.reasearch_id"
+msgstr "ID kajian anda ialah @fields.reasearch_id"
+
+#. type=text
+msgctxt "text"
+msgid "Before we get started, we need to test your device. What image do you see here: 😀"
+msgstr "Kita perlu menguji peranti anda sebelum kita mulakan. Imej apa yang anda lihat di sini: 😀"
 
 #. type=text
 msgctxt "text"
@@ -20,8 +31,80 @@ msgstr "Maaf, saya tidak faham apa maksud anda."
 
 #. type=text
 msgctxt "text"
+msgid "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can opt to receive the same content with a smaller audio file or as text. How would you like to receive ParentText?"
+msgstr "ParentText paling mudah digunakan apabila anda menerima kandungan sebagai video, imej dan teks. Untuk menjimatkan data, anda boleh memilih untuk menerima kandungan yang sama dengan fail audio atau teks yang lebih kecil. Walau bagaimanapun, pukal data dan lebar jalur anda mungkin tidak dapat menyokong video. Bagaimana cara anda ingin menerima ParentText?"
+
+#. type=text
+msgctxt "text"
+msgid "Are you a WOMAN or MAN?"
+msgstr "Adakah anda WANITA atau LELAKI?"
+
+#. type=text
+msgctxt "text"
 msgid "What is your relationship status?"
 msgstr "Apakah status hubungan anda?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Is @fields.child_nickname a girl or a boy?"
+msgstr "Adakah @fields.child_nickname seorang perempuan atau lelaki?"
+
+#. type=text
+msgctxt "text"
+msgid "Is your child a girl or a boy?"
+msgstr "Adakah anak anda seorang perempuan atau lelaki?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your child's name?"
+msgstr "Apakah nama anak anda?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your family name (surname)?"
+msgstr "Apakah nama keluarga anda?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your first name?"
+msgstr "Apakah nama pertama anda?"
+
+#. type=text
+msgctxt "text"
+msgid "Please select your language: "
+msgstr "Sila pilih bahasa anda: "
+
+#. type=text
+msgctxt "text"
+msgid "Please select your language:"
+msgstr "Sila pilih bahasa anda:"
+
+#. type=text
+msgctxt "text"
+msgid "This programme works! Did you know that over 200 million parents around the world have used our resources developed by Parenting for Lifelong Health, WHO, and UNICEF?"
+msgstr "Tahukah anda bahawa lebih 200 juta ibu bapa di seluruh dunia telah menggunakan sumber kami yang dibina oleh Parenting for Lifelong Health, WHO, dan UNICEF? Ini menunjukkan program ini berkesan!"
+
+#. type=text
+msgctxt "text"
+msgid "✅Participating in ParentText is optional. "
+msgstr "✅Mengambil bahagian dalam ParentText merupakan satu pilihan. "
+
+#. type=text
+msgctxt "text"
+msgid "✅Your personal information is safe and private. Your name and information will not be public, but your responses will be kept and used by researchers to learn how to support families like yours.  They plan to publish the results. "
+msgstr "✅Pengkaji selidik merancang untuk menerbitkan keputusan penyelidikan. Oleh itu, tindak balas anda akan disimpan dan digunakan oleh pengkaji selidik untuk mempelajari cara menyokong keluarga seperti anda tetapi nama dan maklumat anda tidak akan disiarkan. Semua maklumat peribadi anda adalah selamat dan peribadi. "
+
+#. type=text
+msgctxt "text"
+msgid "❌You can stop when you want. Just type {STOP}"
+msgstr "❌Hanya taip {STOP} dan anda boleh berhenti pada bila-bila masa yang anda inginkan."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "❓If you have questions, ask Dr. Jamie Lachman at jamie.lachman@spi.ox.ac.uk; +44(7)840825892"
+msgstr "❓Bertanya kepada Dr. Jamie Lachman melalui jamie.lachman@spi.ox.ac.uk; +44(7)840825892 jika anda mempunyai sebarang pertanyaan"
 
 #. type=text
 msgctxt "text"
@@ -30,13 +113,38 @@ msgstr "Klik sini untuk maklumat lanjut:"
 
 #. type=text
 msgctxt "text"
+msgid "Press YES if you agree with this. Type \"EXIT\" if you do not want to participate. "
+msgstr "Tekan \"YA\" jika anda bersetuju. Taip \"KELUAR\" jika anda enggan turut serta. "
+
+#. type=text
+msgctxt "text"
 msgid "That is wonderful, thank you so much! "
 msgstr "Sangat bagus, terima kasih banyak! "
 
 #. type=text
 msgctxt "text"
+msgid "I am sorry I did not understand. Press YES if you agree with this. Type \"EXIT\" if you do not want to participate."
+msgstr "Maaf, saya tidak faham. Sila tekan \"YA\" jika anda bersetuju. Taip \"Keluar\" jika anda tidak mahu mengambil bahagian."
+
+#. type=text
+msgctxt "text"
 msgid "Can you please confirm that you are 18 years old or older?"
 msgstr "Bolehkah anda mengesahkan bahawa anda berumur 18 tahun ke atas?"
+
+#. type=text
+msgctxt "text"
+msgid "Great! Let's begin."
+msgstr "Bagus! Mari kita mulakan."
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type {STOP}. If you made a mistake, please press BACK and choose another option."
+msgstr "Adakah anda pasti yang anda tidak mahu menerima pesanan-pesanan ini? Sekiranya anda tidak lagi mahu menerima pesanan, sila taip {STOP}. Sekiranya anda melakukan kesilapan, sila taip KEMBALI dan buat pilihan lain."
+
+#. type=text
+msgctxt "text"
+msgid "If you ever return to participate in the programme, type {START}. "
+msgstr "Taip {START} jika anda kembali untuk menyertai program ini. "
 
 #. type=text
 msgctxt "text"
@@ -52,6 +160,102 @@ msgstr "Maaf, ParentText hanya untuk individu yang berumur 18 tahun ke atas. Ada
 msgctxt "text"
 msgid "If you want to experience ParentText, you can always share it with your parents or caregivers."
 msgstr "Jika anda ingin menyertai ParentText, anda boleh kongsi maklumat ini dengan ibu bapa atau penjaga anda."
+
+#. type=text
+msgctxt "text"
+msgid "Here is a video that shows how to use ParentText."
+msgstr "Ini adalah video yang menunjukkan cara menggunakan ParentText."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Bilakah tarikh lahir @fields.child_nickname? Masukkan tarih lahir mereka mengikut format seperti ini: HH/BB/TTTT.Sebagai contoh: masukkan 19/05/2010 jika anak anda lahir pada 19 Mei 2010."
+
+#. type=text
+msgctxt "text"
+msgid "When was your child born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Bilakah tarikh lahir anak anda? Masukkan tarih lahir mereka mengikut format seperti ini: HH/BB/TTTT. Sebagai contoh: masukkan 19/05/2010 jika anak anda lahir pada 19 Mei 2010."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, this date is invalid. Please write your child's date of birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
+msgstr "Maaf, tarikh ini tidak sah. Masukkan tarikh lahir anak anda seperti ini: HH/BB/TTTT. Sebagai contoh, masukkan 19/05.2015 jika anak anda lahir pada 19 Mei 2015."
+
+#. type=text
+msgctxt "text"
+msgid "The date you entered is in the future. Please write your child's date of birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
+msgstr "Maaf, tarikh yang anda masukkan masih belum tiba. Masukkan tarikh lahir anak anda seperti ini: HH/BB/TTTT. Sebagai contoh, masukkan 19/05.2015 jika anak anda lahir pada 19 Mei 2015."
+
+#. type=text
+msgctxt "text"
+msgid "Let's try again. Please write your child's date of birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
+msgstr "Sila cuba sekali lagi. Masukkan tarikh lahir anak anda seperti ini: HH/BB/TTTT. Sebagai contoh, masukkan 19/05.2015 jika anak anda lahir pada 19 Mei 2015."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 4-5. If your child is aged 4-5, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
+msgstr "ParentText hanya untuk kanak-kanak berumur 4-5 tahun. Berdasarkan tarikh yang anda berikan, @fields.child_nickname kini berumur @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun. Jika anak anda berusia 4-5, sila letakkan tarikh lahir anak dalam format ini: HH/BB//TTTT. Sebagai contoh, jika anak anda lahir pada 19 Mei 2015, tuliskan seperti ini 19/05/2015."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 4-5. If your child is aged 4-5, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
+msgstr "ParentText hanya untuk kanak-kanak berumur 4-5 tahun. Berdasarkan tarikh yang anda berikan, anak anda kini berumur @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun. Jika anak anda berusia 4-5, sila letakkan tarikh lahir anak dalam format ini: HH/BB//TTTT. Sebagai contoh, jika anak anda lahir pada 19 Mei 2015, tuliskan seperti ini 19/05/2015."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "Adakah @fields.child_nickname berusia @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun sekarang?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "adakah anak anda berusia @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun sekarang?"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
+msgstr "Dalam program ini, kami memberi tumpuan hanya kepada satu orang anak sahaja pada satu-satu masa, meskipun ParentText dapat membantu anda jika anda mempunyai lebih daripada 1 orang anak."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "A happy face"
+msgstr "Muka yang gembira"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "A square"
+msgstr "Segi empat sama"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something else"
+msgstr "Sesuatu yang lain"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text, Images, and Videos"
+msgstr "Teks, Imej, dan Video"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text, Images, and Audio"
+msgstr "Teks, Imej, dan Audio"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text and Images Only"
+msgstr "Teks dan Imej Sahaja"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -122,6 +326,18 @@ msgstr "Bahasa Inggeris"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Behasa Melayu"
+msgstr "Bahasa Melayu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "YES"
+msgstr "YA"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Yes, I am over 18"
 msgstr "Ya, saya berumur lebih 18 tahun"
 
@@ -130,6 +346,12 @@ msgstr "Ya, saya berumur lebih 18 tahun"
 msgctxt "quick_replies"
 msgid "No, I am under 18"
 msgstr "Tidak, saya berumur bawah 18 tahun"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "BACK"
+msgstr "KEMBALI"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -152,6 +374,42 @@ msgstr "TERUSKAN"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "a happy face"
+msgstr "muka yang gembira"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "a square"
+msgstr "segi empat sama"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something else"
+msgstr "sesuatu yang lain"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text, images, and videos"
+msgstr "teks, imej, dan video"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text, images, and audio"
+msgstr "teks, imej, dan audio"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text and images only"
+msgstr "teks dan imej sahaja"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "woman"
 msgstr "wanita"
 
@@ -170,6 +428,12 @@ msgstr "memilih untuk tidak menjawab"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "single (not in a relationship)"
+msgstr "bujang (tiada sebarang hubungan)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "married"
 msgstr "berkahwin"
 
@@ -178,6 +442,12 @@ msgstr "berkahwin"
 msgctxt "arguments"
 msgid "partnered but not married"
 msgstr "berpasangan tetapi tidak berkahwin"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "divorced or separated"
+msgstr "bercerai atau berpisah"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -202,6 +472,12 @@ msgstr "lelaki"
 msgctxt "arguments"
 msgid "english"
 msgstr "bahasa Inggeris"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "behasa melayu"
+msgstr "bahasa melayu"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -250,4 +526,10 @@ msgstr "tidak t"
 msgctxt "arguments"
 msgid "yes y yeah yep"
 msgstr "ya yea yah ok ye y"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "tidak tak t"
 
