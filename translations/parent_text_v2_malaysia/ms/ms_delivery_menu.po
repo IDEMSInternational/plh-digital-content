@@ -11,19 +11,19 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-10-03 07:42\n"
+"PO-Revision-Date: 2023-10-04 06:11\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "In this goal, you will gain @fields.c_n_mod new skills. You will receive a new lesson each day. Today you will begin the first skill, @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
-msgstr "Anda akan mendapat kemahiran @fields.c_n_mod baharu dalam matlamat ini. Setiap hari, anda akan menerima pelajaran baharu. Anda akan bermula dengan kemahiran baharu pada hari ini, @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
+msgstr "Anda akan mendapat @fields.c_n_mod kemahiran baharu dalam matlamat ini. Setiap hari, anda akan menerima pelajaran baharu. Dan anda akan bermula dengan kemahiran baharu pada hari ini, @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod skills in this goal. Today you will begin working on the skill @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
-msgstr "Anda telah menyelesaikan @fields.c_n_mod_compl daripada kemahiran @fields.c_n_mod dalam matlamat ini. Hari ini, anda akan mulakan kemahiran @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
+msgstr "Anda telah menyelesaikan @fields.c_n_mod_compl daripada @fields.c_n_mod kemahiran dalam matlamat ini. Hari ini, anda akan mulakan kemahiran @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
 
 #. type=text
 msgctxt "text"
@@ -38,12 +38,12 @@ msgstr "Tahniah! Anda telah memperoleh lencana untuk diri anda. Sekarang, anda s
 #. type=text
 msgctxt "text"
 msgid "Now that you've relaxed, it's time to pick your goal."
-msgstr "Sudah tiba masanya untuk memilih matlamat anda jika anda sudah berehat."
+msgstr "Sudah tiba masanya untuk memilih matlamat anda setelah anda berehat."
 
 #. type=text
 msgctxt "text"
 msgid "NA"
-msgstr "NA"
+msgstr "Tidak Berkenaan"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -55,7 +55,7 @@ msgstr "@(text_slice(results.message_options,5))."
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "This course has @fields.n_goals_prog goals, which one do you want to work on first?@results.message_options"
-msgstr "Kursus ini mempunyai matlamat @fields.n_goals_prog, matlamat mana yang anda mahu mulakan dahulu?@results.message_options"
+msgstr "Kursus ini mempunyai @fields.n_goals_prog matlamat, matlamat manakah yang anda mahu mulakan dahulu?@results.message_options"
 
 #. type=text
 msgctxt "text"
@@ -76,7 +76,7 @@ msgstr "Anda hanya tinggal satu matlamat sahaja, Anda semakin hampir melengkapka
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It’s time to pick a new parenting goal! You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?@results.message_options"
-msgstr "Sudah tiba masanya untuk memilih matlamat keibubapaan yang baharu! Anda telah melengkapkan @fields.n_goals_completed daripada matlamat @fields.n_goals_prog. Seterusnya, anda ingin memilih matlamat yang mana satu?@results.message_options"
+msgstr "Sudah tiba masanya untuk memilih matlamat keibubapaan yang baharu! Anda telah melengkapkan @fields.n_goals_completed daripada @fields.n_goals_prog matlamat. Matlamat yang manakah yang ingin anda pilih untuk diteruskan?@results.message_options"
 
 #. type=text
 msgctxt "text"
@@ -87,7 +87,7 @@ msgstr "Anda hanya mempunyai satu matlamat untuk dimulakan"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?@results.message_options"
-msgstr "Anda telah melengkapkan @fields.n_goals_completed daripada matlamat @fields.n_goals_prog. Seterusnya, anda ingin memilih matlamat yang mana satu?@results.message_options"
+msgstr "Anda telah melengkapkan @fields.n_goals_completed daripada @fields.n_goals_prog matlamat. Seterusnya, matlamat yang mana satukah yang ingin anda pilih?@results.message_options"
 
 #. type=text
 msgctxt "text"
@@ -97,13 +97,13 @@ msgstr "🎉Tahniah! Anda berjaya!🎉 Anda telah menyelesaikan kursus ini dan m
 #. type=text
 msgctxt "text"
 msgid "You have almost completed ParentText! Only this goal remains:"
-msgstr "Anda semakin hampir dengan penamat kursus ParentText! Hanya matlamat ini yang tinggal:"
+msgstr "Anda semakin hampir untuk menamatkan kursus ParentText! Hanya matlamat ini yang tinggal:"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "You have seen all the goals and you have started @fields.n_goals_started goals. Which one would you like to complete?@results.message_options"
-msgstr "Anda telah melihat semua matlamat dan anda telah pun bermula dengan matlamat @fields.n_goals_started. Matlamat manakah yang anda ingin selesaikan?@results.message_options"
+msgstr "Anda telah melihat semua matlamat dan anda telah pun bermula dengan matlamat @fields.n_goals_started. Matlamat manakah yang ingin anda selesaikan?@results.message_options"
 
 #. type=text
 msgctxt "text"
@@ -129,7 +129,7 @@ msgstr "Tidak mengapa."
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Which new goal would you like to start?@results.message_options"
-msgstr "Matlamat baharu yang manakah yang anda ingin mulakan?@results.message_options"
+msgstr "Matlamat baharu manakah yang ingin anda mulakan?@results.message_options"
 
 #. type=text
 msgctxt "text"
@@ -155,7 +155,7 @@ msgstr "Tidak ada matlamat untuk diselesaikan"
 #. type=text
 msgctxt "text"
 msgid "You only have the following goal to complete"
-msgstr "Anda hanya ada matlamat berikut untuk dieselesaikan"
+msgstr "Anda hanya ada matlamat berikut untuk diselesaikan"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -182,7 +182,7 @@ msgstr "Tidak mengapa. Apabila anda telah mendapat semua lencana, barulah anda b
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. Which skill would you like to complete?@results.message_options"
-msgstr "Anda hampir selesai dengan matlamat ini! Anda mempunyai kemahiran @fields.c_n_mod_started yang belum selesai. Kemahiran manakah yang anda ingin selesaikan?@results.message_options"
+msgstr "Anda hampir selesai dengan matlamat ini! Anda mempunyai @fields.c_n_mod_started kemahiran yang belum selesai. Kemahiran manakah yang ingin anda selesaikan?@results.message_options"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
@@ -193,18 +193,18 @@ msgstr "@(word_count(fields.c_mod_started) +1). Biarkan matlamat ini tidak seles
 #. type=text
 msgctxt "text"
 msgid "You only have the following skill to complete:"
-msgstr "Anda hanya ada kemahiran berikut untuk dieselesaikan:"
+msgstr "Anda hanya ada kemahiran berikut untuk diselesaikan:"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Which skill would you like to complete?@results.message_options"
-msgstr "Kemahiran yang manakah yang anda ingin selesaikan?@results.message_options"
+msgstr "Kemahiran manakah yang ingin anda selesaikan?@results.message_options"
 
 #. type=text
 msgctxt "text"
 msgid "You haven't started to work on a goal yet."
-msgstr "Anda masih belum bermula mana-mana matlamat lagi."
+msgstr "Anda masih belum memulakan mana-mana matlamat lagi."
 
 #. type=text
 msgctxt "text"
@@ -230,13 +230,13 @@ msgstr "Apakah kesulitan yang anda hadapi?@results.message_options"
 #. type=text
 msgctxt "text"
 msgid "You haven't completed any skill yet."
-msgstr "Anda masih belum menyelesaikan sebarang kemahiran lagi."
+msgstr "Anda masih belum menyelesaikan sebarang kemahiran."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Which goal do you want to review?@results.message_options"
-msgstr "Matlamat yang manakah anda ingin menyemak semula??@results.message_options"
+msgstr "Matlamat manakah yang anda ingin semak semula??@results.message_options"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
@@ -252,7 +252,7 @@ msgstr "Anda masih belum menyelesaikan sebarang kemahiran dalam matlamat ini lag
 #. type=text
 msgctxt "text"
 msgid "You have only completed the following skill:"
-msgstr "Hanya matlamat anda yang berikut sudah diselesaikan:"
+msgstr "Anda telah melengkapkan matlamat anda yang berikut sahaja:"
 
 #. type=text
 msgctxt "text"
@@ -268,7 +268,7 @@ msgstr "Tidak mengapa. Anda boleh kembali ke sini untuk menyemak semula pada bil
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "You have completed @fields.n_s_modules_compl skills within this goal. Which skill do you want to review?@results.message_options"
-msgstr "Anda telah melengkapkan kemahiran @fields.n_s_modules_compl skills dalam kemahiran ini. Kemahiran yang manakah anda ingin menyemak semula?@results.message_options"
+msgstr "Anda telah melengkapkan @fields.n_s_modules_compl kemahiran dalam matlamat ini. Kemahiran manakah yang ingin anda semak semula?@results.message_options"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
@@ -311,12 +311,12 @@ msgstr "🎉TAHNIAH!🎉 Anda telah mendapat lencana dan menyelesiakan matlamat 
 #. type=text
 msgctxt "text"
 msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu."
-msgstr "Ingat, anda boleh mendapatkan bantuan tambahan di Menu Utama dalam Menyelesaikan Masalah jika anda perlukan sokongan untuk mengamalkan kemahiran yang anda telah pelajari."
+msgstr "Ingat, anda boleh mendapatkan bantuan tambahan di Menu Utama di bahagian Menyelesaikan Masalah jika anda perlukan sokongan bagi mengamalkan kemahiran yang telah anda pelajari."
 
 #. type=text
 msgctxt "text"
 msgid "You have made great progress. Are you ready to select your next parenting goal?"
-msgstr "Anda telah melakukan kemajuan yang hebat. Adakah anda ingin memilih matlamat keibubapaan anda yang seterusnya?"
+msgstr "Anda telah maju dengan hebat. Adakah anda ingin memilih matlamat keibubapaan anda yang seterusnya?"
 
 #. type=text
 msgctxt "text"
@@ -341,7 +341,7 @@ msgstr "ParentText telah bermula. Adakah anda bersedia untuk melengkapkan pendaf
 #. type=text
 msgctxt "text"
 msgid "You’re off track! Do you want to complete a previous skill or start a new skill?"
-msgstr "Anda telah tersasar daripada matlamat ini! Adakah anda ingin melengkapkan kemahiran sebelum ini atau mulakan kemahiran baharu?"
+msgstr "Anda telah tersasar daripada matlamat ini! Adakah anda ingin melengkapkan kemahiran sebelum ini atau memulakan kemahiran baharu?"
 
 #. type=text
 msgctxt "text"
@@ -636,7 +636,7 @@ msgstr "Anda sedang menuju ke arah matlamat anda, @(parse_json(fields.goals_dict
 #. type=text
 msgctxt "text"
 msgid "You have not completed any goal yet."
-msgstr "Matlamat anda masih belum selesai."
+msgstr "Anda masih belum selesaikan sebarang matlamat."
 
 #. type=text
 msgctxt "text"
@@ -690,27 +690,27 @@ msgstr "Anda ada matlamat berikut untuk dimulakan::@results.message_options"
 #. type=text
 msgctxt "text"
 msgid "Your current media setting is Text, Images, and Videos."
-msgstr "Seting media semasa anda ialah Teks, Imej dan Video."
+msgstr "Tetapan media semasa anda ialah Teks, Imej dan Video."
 
 #. type=text
 msgctxt "text"
 msgid "Your current media setting is Text, Images, and Audio."
-msgstr "Seting media semasa anda ialah Teks, Imej dan Video."
+msgstr "Tetapan media semasa anda ialah Teks, Imej dan Video."
 
 #. type=text
 msgctxt "text"
 msgid "Your current media setting is Text and Images Only."
-msgstr "Seting media semasa anda ialah Teks dan Imej Sahaja."
+msgstr "Tetapan media semasa anda ialah Teks dan Imej Sahaja."
 
 #. type=text
 msgctxt "text"
 msgid "Your current media setting is"
-msgstr "Seting media semasa anda ialah"
+msgstr "Tetapan media semasa anda ialah"
 
 #. type=text
 msgctxt "text"
 msgid "You didn't provide this info."
-msgstr "Maklumat ini tidak diberikan oleh anda."
+msgstr "Maklumat ini tidak anda berikan."
 
 #. type=text
 msgctxt "text"
@@ -720,17 +720,17 @@ msgstr "Adakah anda mahu menukarnya?"
 #. type=text
 msgctxt "text"
 msgid "You didn't tell us if you are a woman or a man. "
-msgstr "Anda tidak memberitahu kami sama ada anda adalah seorang lelaki atau wanita. "
+msgstr "Anda tidak memberitahu kami sama ada anda ialah seorang lelaki atau wanita. "
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are a Woman."
-msgstr "Anda memberitahu kami bahawa anda adalah seorang Wanita."
+msgstr "Anda memberitahu kami bahawa anda ialah seorang Wanita."
 
 #. type=text
 msgctxt "text"
 msgid "You told us that you are a Man."
-msgstr "Anda memberitahu kami bahawa anda adalah seorang Lelaki."
+msgstr "Anda memberitahu kami bahawa anda ialah seorang Lelaki."
 
 #. type=text
 msgctxt "text"
@@ -760,7 +760,7 @@ msgstr "Anda memberitahu kami bahawa anda sudah Berkahwin."
 #. type=text
 msgctxt "text"
 msgid "You told us that you are Partnered but not married."
-msgstr "Anda memberitahu kami bahawa anda Berpasangan tetapi tidak berkahwin."
+msgstr "Anda memberitahu kami bahawa anda Mempunyai Pasangan tetapi tidak berkahwin."
 
 #. type=text
 msgctxt "text"
@@ -775,7 +775,7 @@ msgstr "Anda memberitahu kami bahawa anda ialah Janda/Duda."
 #. type=text
 msgctxt "text"
 msgid "You told us that you are"
-msgstr "Anda memberitahu kami bahawa anda adalah"
+msgstr "Anda memberitahu kami bahawa anda ialah"
 
 #. type=text
 msgctxt "text"
@@ -879,12 +879,12 @@ msgstr "jantina anak anda telah dikemas kini."
 #. type=text
 msgctxt "text"
 msgid "You are currently receiving messages in English."
-msgstr "Buat masa ini, anda terima mesej dalam bahasa Inggeris."
+msgstr "Buat masa ini, anda menerima mesej dalam bahasa Inggeris."
 
 #. type=text
 msgctxt "text"
 msgid "You are currently receiving messages in Behasa Melayu."
-msgstr "Buat masa ini, anda terima mesej dalam bahasa Melayu."
+msgstr "Buat masa ini, anda menerima mesej dalam bahasa Melayu."
 
 #. type=text
 msgctxt "text"
