@@ -11,13 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-10-04 15:22\n"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Your research ID is @fields.reasearch_id"
-msgstr "ID kajian anda ialah @fields.reasearch_id"
+"PO-Revision-Date: 2023-10-09 14:52\n"
 
 #. type=text
 msgctxt "text"
@@ -69,11 +63,6 @@ msgstr "Apakah nama keluarga anda?"
 msgctxt "text"
 msgid "What is your first name?"
 msgstr "Apakah nama pertama anda?"
-
-#. type=text
-msgctxt "text"
-msgid "Please select your language: "
-msgstr "Sila pilih bahasa anda: "
 
 #. type=text
 msgctxt "text"
@@ -167,6 +156,11 @@ msgid "Here is a video that shows how to use ParentText."
 msgstr "Ini adalah video yang menunjukkan cara menggunakan ParentText."
 
 #. type=text
+msgctxt "text"
+msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
+msgstr "Dalam program ini, kami memberi tumpuan hanya kepada satu orang anak sahaja pada satu-satu masa, meskipun ParentText dapat membantu anda jika anda mempunyai lebih daripada 1 orang anak."
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
@@ -217,9 +211,10 @@ msgid "your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) y
 msgstr "adakah anak anda berusia @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun sekarang?"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
-msgstr "Dalam program ini, kami memberi tumpuan hanya kepada satu orang anak sahaja pada satu-satu masa, meskipun ParentText dapat membantu anda jika anda mempunyai lebih daripada 1 orang anak."
+msgid "Your research ID is @fields.reasearch_id"
+msgstr "ID kajian anda ialah @fields.reasearch_id"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -326,7 +321,7 @@ msgstr "Bahasa Inggeris"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Behasa Melayu"
+msgid "Bahasa Melayu"
 msgstr "Bahasa Melayu"
 
 #. type=quick_replies
@@ -476,7 +471,7 @@ msgstr "bahasa Inggeris"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "behasa melayu"
+msgid "bahasa melayu"
 msgstr "bahasa Melayu"
 
 #. type=arguments
