@@ -3,12 +3,6 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Your research ID is @fields.reasearch_id"
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "Before we get started, we need to test your device. What image do you see here: 😀"
 msgstr ""
@@ -57,11 +51,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "What is your first name?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Please select your language: "
 msgstr ""
 
 #. type=text
@@ -156,6 +145,11 @@ msgid "Here is a video that shows how to use ParentText."
 msgstr ""
 
 #. type=text
+msgctxt "text"
+msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
+msgstr ""
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
@@ -206,8 +200,9 @@ msgid "your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) y
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
+msgid "Your research ID is @fields.reasearch_id"
 msgstr ""
 
 #. type=quick_replies
@@ -315,7 +310,7 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Behasa Melayu"
+msgid "Bahasa Melayu"
 msgstr ""
 
 #. type=quick_replies
@@ -465,7 +460,7 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "behasa melayu"
+msgid "bahasa melayu"
 msgstr ""
 
 #. type=arguments
