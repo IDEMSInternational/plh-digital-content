@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-10-18 12:29\n"
+"PO-Revision-Date: 2023-10-18 18:29\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -120,6 +120,11 @@ msgstr ""
 "📝 Jelaskan apa langkah anda seterusnya.\n"
 "\n"
 " ✅ Maklumkan kepada @global.supervisor_name di @global.supervisor_contact."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What can I do after a participant discloses abuse, neglect or exploitation?"
+msgstr "Apa yang saya boleh lakukan selepas peserta mendedahkan penderaan, pengabaian atau eksploitasi?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1464,8 +1469,43 @@ msgstr "⭐Ingat"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Group A"
+msgstr "Kumpulan A"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Group B"
 msgstr "Kumpulan B"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Guide for Parent Reflection and Celebration"
+msgstr "Panduan untuk Renungan dan Sambutan Ibu Bapa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Group C"
+msgstr "Kumpulan C"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Group D"
+msgstr "Kumpulan D"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Related information"
+msgstr "Maklumat berkaitan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Related Information"
+msgstr "Maklumat Berkaitan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Energisers"
+msgstr "Pemberi tenaga"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1491,6 +1531,14 @@ msgstr "Nama anda"
 msgctxt "template"
 msgid "play"
 msgstr "main"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.this_tag
+#.      @item.tag_1
+msgctxt "template"
+msgid "@local.this_tag == @item.tag_1"
+msgstr "@local.this_tag == @item.tag_1"
 
 #. type=template
 msgctxt "template"
