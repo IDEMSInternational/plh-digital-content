@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-10-18 18:29\n"
+"PO-Revision-Date: 2023-10-19 10:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -963,6 +963,11 @@ msgstr "Ada ibu bapa yang tidak dapat mengikut peraturan asas."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Send this message"
+msgstr "Hantar mesej ini"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours."
 msgstr "Salah seorang ibu bapa ada menghantar pesanan dan menghubungi saya secara peribadi untuk bertanyakan beberapa soalan tentang cara mendidik anak-anak atau salah laku anak-anak."
 
@@ -1464,6 +1469,30 @@ msgstr "Selamat datang"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "What to remember?"
+msgstr "Apa yang perlu diambil tahu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It is important to follow this manual as closely as possible. However, manuals are only a guide to support you after what you have learned in the training workshop. \n"
+"What you deliver – the content of the manual – is only 20% of the programme. The rest 80%? It’s all about HOW you facilitate the programme and behave towards the parents."
+msgstr ""
+"Adalah penting untuk mengikut manual ini sebaik mungkin. Walau bagaimanapun, manual ini hanya sebagai panduan untuk menyokong anda setelah apa yang anda pelajari dalam bengkel latihan. \n"
+"Kandungan manual – yang anda sampaikan – hanyalah 20% daripada program ini. 80% lagi? Ini semua tentang BAGAIMANA anda menguruskan program ini dan berkelakuan terhadap ibu bapa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Skills you need"
+msgstr "Kemahiran yang anda perlukan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The core skills of a facilitator are a mirror for parents to learn how to use a collaborative approach to problem solving and bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and practising solutions."
+msgstr "Kemahiran asas fasilitator merupakan cerminan kepada ibu bapa semasa mempelajari cara menggunakan pendekatan kerjasama dalam penyelesaian masalah dan membawa perubahan yang diingini dalam kalangan ibu bapa dan masyarakat. Ini termasuklah memahami tahap perkembangan anak, memuji dan menggalakkan ibu bapa, menggunakan kemahiran pendengaran yang aktif, sentiasa konsisten dan bertolak ansur, meneroka masalah dan mengamalkan jalan penyelesaian."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "⭐Remember"
 msgstr "⭐Ingat"
 
@@ -1504,13 +1533,28 @@ msgstr "Maklumat Berkaitan"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How to use the App"
+msgstr "Cara menggunakan Aplikasi"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Energisers"
 msgstr "Pemberi tenaga"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Give me a …"
+msgstr "Beri saya …"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Do the wiggly (dance)"
 msgstr "Lakukan gerakan goyang (menari)"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Numbered Dance Moves"
+msgstr "Pergerakan Tarian Bernombor"
 
 #. type=global
 msgctxt "global"
@@ -1519,18 +1563,154 @@ msgstr "Kongsi"
 
 #. type=global
 msgctxt "global"
+msgid "your supervisor"
+msgstr "penyelia anda"
+
+#. type=global
+msgctxt "global"
+msgid "FacilitatorApp"
+msgstr "FacilitatorApp"
+
+#. type=global
+msgctxt "global"
+msgid "facilitator"
+msgstr "fasilitator"
+
+#. type=global
+msgctxt "global"
+msgid "FaciNK"
+msgstr "FaciNK"
+
+#. type=global
+msgctxt "global"
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#. type=global
+msgctxt "global"
 msgid "Language"
 msgstr "Bahasa"
+
+#. type=global
+msgctxt "global"
+msgid "parent groups"
+msgstr "kumpulan ibu bapa"
+
+#. type=global
+msgctxt "global"
+msgid "Tap and type"
+msgstr "Ketik dan taip"
+
+#. type=global
+msgctxt "global"
+msgid "Tap and select"
+msgstr "Ketik dan pilih"
 
 #. type=global
 msgctxt "global"
 msgid "Your name"
 msgstr "Nama anda"
 
+#. type=global
+msgctxt "global"
+msgid "[INSERT NAME]"
+msgstr "[MASUKKAN NAMA]"
+
+#. type=global
+msgctxt "global"
+msgid "Your state"
+msgstr "Negeri anda"
+
+#. type=template
+msgctxt "template"
+msgid "Select co-parent from existing parents"
+msgstr "Pilih ibu bapa bersama daripada ibu bapa sedia ada"
+
+#. type=template
+msgctxt "template"
+msgid "Open feedback"
+msgstr "Buka maklum balas"
+
+#. type=template
+msgctxt "template"
+msgid "Close feedback"
+msgstr "Tutup maklum balas"
+
+#. type=template
+msgctxt "template"
+msgid "Templates"
+msgstr "Templat"
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr "Menetapkan semula aplikasi"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid "@global.parent_app has downloaded an update. Please restart the app to finish installation."
+msgstr "@global.parent_app telah memuat turun satu kemas kini. Untuk menyelesaikan pemasangan, sila mulakan semula aplikasi."
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "Mula semula"
+
+#. type=template
+msgctxt "template"
+msgid "article"
+msgstr "artikel"
+
+#. type=template
+msgctxt "template"
+msgid "add"
+msgstr "tambah"
+
+#. type=template
+msgctxt "template"
+msgid "blue"
+msgstr "biru"
+
 #. type=template
 msgctxt "template"
 msgid "play"
 msgstr "main"
+
+#. type=template
+msgctxt "template"
+msgid "orange"
+msgstr "oren"
+
+#. type=template
+msgctxt "template"
+msgid "globe"
+msgstr "glob"
+
+#. type=template
+msgctxt "template"
+msgid "dark-orange"
+msgstr "oren gelap"
+
+#. type=template
+msgctxt "template"
+msgid "reader"
+msgstr "pembaca"
+
+#. type=template
+msgctxt "template"
+msgid "yellow"
+msgstr "kuning"
+
+#. type=template
+msgctxt "template"
+msgid "What type of session are you submitting a report for?"
+msgstr "Apakah jenis sesi dalam laporan yang anda ingin hantar?"
+
+#. type=template
+msgctxt "template"
+msgid "Parent name"
+msgstr "Nama ibu bapa"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -1542,6 +1722,183 @@ msgstr "@local.this_tag == @item.tag_1"
 
 #. type=template
 msgctxt "template"
+msgid "In-Person"
+msgstr "Secara Bersemuka"
+
+#. type=template
+msgctxt "template"
+msgid "How many minutes did it take you to travel to the location where the session was delivered?"
+msgstr "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?"
+
+#. type=template
+msgctxt "template"
+msgid "How many minutes did it take you to deliver the session?"
+msgstr "Berapa minit yang anda ambil untuk menyampaikan sesi ini?"
+
+#. type=template
+msgctxt "template"
+msgid "Which of the parents in your group attended your in-person session?"
+msgstr "Antara ibu bapa dalam kumpulan anda, siapakah yang menghadiri sesi bersemuka anda?"
+
+#. type=template
+msgctxt "template"
+msgid "Submit"
+msgstr "Hantar"
+
+#. type=template
+msgctxt "template"
 msgid "media"
 msgstr "media"
+
+#. type=template
+msgctxt "template"
+msgid "Sample ODK form"
+msgstr "Borang ODK contoh"
+
+#. type=template
+msgctxt "template"
+msgid "Parent profile"
+msgstr "Profil ibu bapa"
+
+#. type=template
+msgctxt "template"
+msgid "Name"
+msgstr "Nama"
+
+#. type=template
+msgctxt "template"
+msgid "ParentText ID"
+msgstr "ID ParentText"
+
+#. type=template
+msgctxt "template"
+msgid "Co-parenting with"
+msgstr "Keibubapaan bersama dengan"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.parent_id
+#.      @local.parent_name
+#.      @local.parent_id_external
+msgctxt "template"
+msgid ""
+"parent_id: @local.parent_id; \n"
+"parent_name: @local.parent_name; \n"
+"parent_id_external: @local.parent_id_external"
+msgstr ""
+"id_ibubapa: @local.parent_id; \n"
+"nama_ibubapa: @local.parent_name; \n"
+"id_ibubapa_luaran: @local.parent_id_external"
+
+#. type=template
+msgctxt "template"
+msgid "Save"
+msgstr "Simpan"
+
+#. type=template
+msgctxt "template"
+msgid "pdf"
+msgstr "pdf"
+
+#. type=template
+msgctxt "template"
+msgid "profile"
+msgstr "profil"
+
+#. type=template
+msgctxt "template"
+msgid "about"
+msgstr "tentang"
+
+#. type=template
+msgctxt "template"
+msgid "groups"
+msgstr "kumpulan"
+
+#. type=template
+msgctxt "template"
+msgid ".split(\";\")"
+msgstr ".asingkan(\";\")"
+
+#. type=template
+#. The string @item.id should not be translated.
+msgctxt "template"
+msgid "Group @item.id"
+msgstr "Kumpulan @item.id"
+
+#. type=template
+msgctxt "template"
+msgid "Add a new parent"
+msgstr "Tambah ibu bapa baharu"
+
+#. type=template
+msgctxt "template"
+msgid "Add a new group"
+msgstr "Tambah kumpulan baharu"
+
+#. type=template
+msgctxt "template"
+msgid "id"
+msgstr "id"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Menyegerakkan..."
+
+#. type=template
+msgctxt "template"
+msgid "Copy code"
+msgstr "Salin kod"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "Disalin!"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Terakhir disegerakkan pada: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "Peranti ini belum pernah disegerakkan. Segerakkan untuk melihat kod anda."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Segerakkan sekarang"
+
+#. type=template
+msgctxt "template"
+msgid "package"
+msgstr "pakej"
+
+#. type=template
+msgctxt "template"
+msgid "Which of the following applies to you?"
+msgstr "Yang manakah antara berikut sesuai dengan anda?"
+
+#. type=template
+msgctxt "template"
+msgid "How many minutes did it take you to prepare for the session?"
+msgstr "Berapa minit yang anda ambil untuk bersiap bagi sesi ini?"
+
+#. type=template
+msgctxt "template"
+msgid "minutes"
+msgstr "minit"
+
+#. type=template
+msgctxt "template"
+msgid "Which session are you reporting on?"
+msgstr "Sesi mana yang anda laporkan?"
+
+#. type=template
+msgctxt "template"
+msgid "Which of the parents in your group participated?"
+msgstr "Ibu bapa manakah dalam kumpulan anda yang turut serta?"
 
