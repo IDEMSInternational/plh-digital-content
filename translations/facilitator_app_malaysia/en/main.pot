@@ -1344,11 +1344,11 @@ msgstr ""
 msgctxt "data_list"
 msgid ""
 "The purpose of this app is to support you in delivering the programme. You will use this app to: \n"
-"Add parents to FaciNK \n"
-"Access Facilitator Guide for delivering in-person sessions\n"
-"Conduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \n"
-"Report Attendance\n"
-"Handle safeguarding issues\n"
+"- Add parents to FaciNK \n"
+"- Access Facilitator Guide for delivering in-person sessions\n"
+"- Conduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \n"
+"- Report Attendance\n"
+"- Handle safeguarding issues\n"
 "Here, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n"
 "\n"
 "For other information, click on the links below."
@@ -1474,19 +1474,17 @@ msgctxt "data_list"
 msgid ""
 "If two parents are participating in the programme, together, you must link their accounts. \n"
 "\n"
-"To add a second parent, select the profile icon from the bottom navigation bar. \n"
+"Once you have added the first parent profile, to add a second parent, select “Add Parent”\n"
 "\n"
-"Choose “Edit Parents”\n"
-"\n"
-"Navigate to the primary parent and edit their profile. \n"
+"Enter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile. \n"
 "\n"
 "Select “Add Co-Parent”\n"
 "\n"
-"Enter the co-parent’s unique identifier by asking them to text “ID” to ParentText on their phone. Enter the 6-digit code shared. \n"
+"Select the co-parent from available parent user profiles. \n"
 "\n"
-"Add the co-parent’s additional details. \n"
+"Select “Save”\n"
 "\n"
-"Select “Save”"
+"*Both parent profiles will be updated to note the co-parent.*"
 msgstr ""
 
 #. type=data_list
@@ -1695,51 +1693,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "article"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "add"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "blue"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "play"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "orange"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "globe"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "dark-orange"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "reader"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "yellow"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "What type of session are you submitting a report for?"
 msgstr ""
 
@@ -1798,7 +1751,36 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Name"
+msgid "{}"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.original_parent_data_json
+#.      @local.parent_id
+#.      @calc(@local.original_parent_data_json.@local.parent_id = {})
+msgctxt "template"
+msgid "@calc(@local.original_parent_data_json.@local.parent_id = {})"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "First name"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.parent_id
+#.      @local.first_name
+#.      @local.text_box_first_name
+#.      @calc(parent_data_json.@local.parent_id.@local.first_name = @local.text_box_first_name)
+msgctxt "template"
+msgid "@calc(parent_data_json.@local.parent_id.@local.first_name = @local.text_box_first_name)"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Last name"
 msgstr ""
 
 #. type=template
@@ -1809,18 +1791,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Co-parenting with"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.parent_id
-#.      @local.parent_name
-#.      @local.parent_id_external
-msgctxt "template"
-msgid ""
-"parent_id: @local.parent_id; \n"
-"parent_name: @local.parent_name; \n"
-"parent_id_external: @local.parent_id_external"
 msgstr ""
 
 #. type=template
