@@ -11,7 +11,12 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-10-20 19:05\n"
+"PO-Revision-Date: 2023-10-23 20:46\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Home"
+msgstr "Rumah"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1795,29 +1800,6 @@ msgstr "Cara Menggunakan Aplikasi Ini"
 
 #. type=data_list
 msgctxt "data_list"
-msgid ""
-"The purpose of this app is to support you in delivering the programme. You will use this app to: \n"
-"Add parents to FaciNK \n"
-"Access Facilitator Guide for delivering in-person sessions\n"
-"Conduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \n"
-"Report Attendance\n"
-"Handle safeguarding issues\n"
-"Here, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n"
-"\n"
-"For other information, click on the links below."
-msgstr ""
-"Tujuan aplikasi ini adalah untuk menyokong anda dalam menyampaikan program ini. Anda akan menggunakan aplikasi ini untuk: \n"
-"Tambahkan ibu bapa ke FaciNK \n"
-"Mengakses Panduan Fasilitator untuk menyampaikan sesi secara bersemuka\n"
-"Memimpin Sesi Kumpulan Sokongan WhatsApp Mingguan (hanya untuk Kumpulan A dan C sahaja) \n"
-"Laporan Kehadiran\n"
-"Menguruskan masalah perlindungan\n"
-"Kami akan merangkumi cara memimpin Sesi Kumpulan Sokongan WhatsApp Mingguan (hanya untuk Kumpulan A dan C sahaja) di sini\n"
-"\n"
-"Klik pautan di bawah untuk maklumat lanjut."
-
-#. type=data_list
-msgctxt "data_list"
 msgid "How to Conduct Weekly WhatsApp Support Group Sessions"
 msgstr "Cara Memimpin Sesi Kumpulan Sokongan WhatsApp Mingguan"
 
@@ -1955,41 +1937,6 @@ msgstr ""
 msgctxt "data_list"
 msgid "How to Add a Co-Parent"
 msgstr "Cara Menambah Ibu Bapa Bersama"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"If two parents are participating in the programme, together, you must link their accounts. \n"
-"\n"
-"To add a second parent, select the profile icon from the bottom navigation bar. \n"
-"\n"
-"Choose “Edit Parents”\n"
-"\n"
-"Navigate to the primary parent and edit their profile. \n"
-"\n"
-"Select “Add Co-Parent”\n"
-"\n"
-"Enter the co-parent’s unique identifier by asking them to text “ID” to ParentText on their phone. Enter the 6-digit code shared. \n"
-"\n"
-"Add the co-parent’s additional details. \n"
-"\n"
-"Select “Save”"
-msgstr ""
-"Anda perlu hubungkan akaun ibu bapa jika kedua-dua ibu bapa menyertai program ini. \n"
-"\n"
-"Pilih ikon profil daripada bar navigasi sebelah bawah untuk menambah ibu bapa yang kedua. \n"
-"\n"
-"Pilih “Sunting Ibu Bapa”\n"
-"\n"
-"Pergi ke ibu bapa utama dan sunting profil mereka. \n"
-"\n"
-"Pilih “Tambah Ibu Bapa Bersama”\n"
-"\n"
-"Masukkan pengenal unik ibu bapa bersama dengan meminta mereka menghantar teks “ID” kepada ParentText menggunakan telefon mereka. Masukkan kod 6 digit yang dikongsi. \n"
-"\n"
-"Tambahkan butiran tambahan mengenai ibu bapa bersama. \n"
-"\n"
-"Pilih “Simpan”"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2134,16 +2081,6 @@ msgstr "penyelia anda"
 
 #. type=global
 msgctxt "global"
-msgid "FacilitatorApp"
-msgstr "FacilitatorApp"
-
-#. type=global
-msgctxt "global"
-msgid "facilitator"
-msgstr "fasilitator"
-
-#. type=global
-msgctxt "global"
 msgid "FaciNK"
 msgstr "FaciNK"
 
@@ -2225,51 +2162,6 @@ msgstr "Mula semula"
 
 #. type=template
 msgctxt "template"
-msgid "article"
-msgstr "artikel"
-
-#. type=template
-msgctxt "template"
-msgid "add"
-msgstr "tambah"
-
-#. type=template
-msgctxt "template"
-msgid "blue"
-msgstr "biru"
-
-#. type=template
-msgctxt "template"
-msgid "play"
-msgstr "main"
-
-#. type=template
-msgctxt "template"
-msgid "orange"
-msgstr "jingga"
-
-#. type=template
-msgctxt "template"
-msgid "globe"
-msgstr "glob"
-
-#. type=template
-msgctxt "template"
-msgid "dark-orange"
-msgstr "jingga tua"
-
-#. type=template
-msgctxt "template"
-msgid "reader"
-msgstr "pembaca"
-
-#. type=template
-msgctxt "template"
-msgid "yellow"
-msgstr "kuning"
-
-#. type=template
-msgctxt "template"
 msgid "What type of session are you submitting a report for?"
 msgstr "Apakah jenis sesi dalam laporan yang anda ingin hantar?"
 
@@ -2328,11 +2220,6 @@ msgstr "Profil ibu bapa"
 
 #. type=template
 msgctxt "template"
-msgid "Name"
-msgstr "Nama"
-
-#. type=template
-msgctxt "template"
 msgid "ParentText ID"
 msgstr "ID ParentText"
 
@@ -2340,21 +2227,6 @@ msgstr "ID ParentText"
 msgctxt "template"
 msgid "Co-parenting with"
 msgstr "Keibubapaan bersama dengan"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.parent_id
-#.      @local.parent_name
-#.      @local.parent_id_external
-msgctxt "template"
-msgid ""
-"parent_id: @local.parent_id; \n"
-"parent_name: @local.parent_name; \n"
-"parent_id_external: @local.parent_id_external"
-msgstr ""
-"id_ibubapa: @local.parent_id; \n"
-"nama_ibubapa: @local.parent_name; \n"
-"id_ibubapa_luaran: @local.parent_id_external"
 
 #. type=template
 msgctxt "template"
