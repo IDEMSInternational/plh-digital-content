@@ -11,12 +11,22 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-10-24 12:47\n"
+"PO-Revision-Date: 2023-10-24 19:27\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Attendance"
+msgstr "Kehadiran"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Home"
 msgstr "Rumah"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Profile"
+msgstr "Profil"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2069,6 +2079,67 @@ msgstr ""
 "Tetapkan gerakan tarian yang berbeza dengan nombor (cth., 1 = berpusing, 2 = lompat, 3 = berputar).\n"
 "Sebutkan nombor, dan peserta melakukan gerakan tarian yang sepadan."
 
+#. type=data_list
+msgctxt "data_list"
+msgid "Facilitator"
+msgstr "Fasilitator"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Coach"
+msgstr "Jurulatih"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Supervisor"
+msgstr "Penyelia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "About you"
+msgstr "Tentang anda"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your Facilitator ID"
+msgstr "ID Fasilitator anda"
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey."
+msgstr "Anda boleh menjumpai kod unik anda di sini. Anda mungkin diminta untuk berkongsi kod ini dengan orang yang akan menyokong @global.app_name journey anda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your Parent Group"
+msgstr "Kumpulan Ibu Bapa Anda"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "See and edit the list of parents attending your groups."
+msgstr "Lihat dan sunting senarai ibu bapa yang menghadiri kumpulan anda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your Parent Groups"
+msgstr "Kumpulan Ibu Bapa Anda"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "See and edit the lists of parents attending your groups."
+msgstr "Lihat dan sunting senarai ibu bapa yang menghadiri kumpulan anda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your Content Package"
+msgstr "Pakej Kandungan Anda"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose which content you want to see."
+msgstr "Pilih kandungan yang anda ingin lihat."
+
 #. type=global
 msgctxt "global"
 msgid "Share"
@@ -2217,6 +2288,16 @@ msgstr "Borang ODK contoh"
 msgctxt "template"
 msgid "Parent profile"
 msgstr "Profil ibu bapa"
+
+#. type=template
+msgctxt "template"
+msgid "First name"
+msgstr "Nama pertama"
+
+#. type=template
+msgctxt "template"
+msgid "Last name"
+msgstr "Nama terakhir"
 
 #. type=template
 msgctxt "template"
