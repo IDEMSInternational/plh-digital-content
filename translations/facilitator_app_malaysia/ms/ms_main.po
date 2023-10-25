@@ -11,12 +11,41 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-10-24 12:47\n"
+"PO-Revision-Date: 2023-10-25 07:52\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Attendance"
+msgstr "Kehadiran"
+
+#. type=data_list
+#. The string @global.share_medium should not be translated.
+msgctxt "data_list"
+msgid "Whether meeting with your parents over @global.share_medium through a chat session or in-person, you'll want to report attendance using this form."
+msgstr "Anda perlu melaporkan kedatangan menggunakan borang ini tidak kira sama ada anda berjumpa dengan ibu bapa anda melalui @global.share_medium secara sesi sembang atau bersemuka."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Home"
 msgstr "Rumah"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.app_name.
+#.      @global.share_groups,
+msgctxt "data_list"
+msgid "Welcome to the @global.app_name. Each week you should select your weekly topic, share the message to your @global.share_groups, and report attendance."
+msgstr "Selamat datang ke @global.app_name. Anda perlu memilih topik mingguan anda setiap minggu, kongsikan mesej tersebut ke dalam @global.share_groups, dan laporkan kedatangan."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Profile"
+msgstr "Profil"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups."
+msgstr "Anda dapat melihat ID fasilitator anda dan juga anda dapat menyunting senarai ibu bapa yang hadir ke kumpulan anda di profil anda."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1800,6 +1829,29 @@ msgstr "Cara Menggunakan Aplikasi Ini"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"The purpose of this app is to support you in delivering the programme. You will use this app to: \n"
+"- Add parents to FaciNK \n"
+"- Access Facilitator Guide for delivering in-person sessions\n"
+"- Conduct Weekly WhatsApp Support Group Sessions (applicable for Group A and C only) \n"
+"- Report Attendance\n"
+"- Handle safeguarding issues\n"
+"Here, we will cover how to conduct Weekly WhatsApp Support Group Sessions (for Group A and C only)\n"
+"\n"
+"For other information, click on the links below."
+msgstr ""
+"Tujuan aplikasi ini adalah untuk menyokong anda dalam menyampaikan program ini. Anda akan menggunakan aplikasi ini untuk: \n"
+"- Tambahkan ibu bapa ke FaciNK \n"
+"- Mengakses Panduan Fasilitator untuk menyampaikan sesi secara bersemuka\n"
+"- Memimpin Sesi Kumpulan Sokongan WhatsApp Mingguan (hanya untuk Kumpulan A dan C sahaja) \n"
+"- Melaporkan Kehadiran\n"
+"- Menguruskan masalah perlindungan\n"
+"Kami akan merangkumi cara memimpin Sesi Kumpulan Sokongan WhatsApp Mingguan (hanya untuk Kumpulan A dan C sahaja) di sini\n"
+"\n"
+"Klik pautan di bawah untuk maklumat lanjut."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How to Conduct Weekly WhatsApp Support Group Sessions"
 msgstr "Cara Memimpin Sesi Kumpulan Sokongan WhatsApp Mingguan"
 
@@ -1940,6 +1992,37 @@ msgstr "Cara Menambah Ibu Bapa Bersama"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"If two parents are participating in the programme, together, you must link their accounts. \n"
+"\n"
+"Once you have added the first parent profile, to add a second parent, select “Add Parent”\n"
+"\n"
+"Enter parent details in the form. To enter the parent’s unique identifier (UID), ask them to text “ID” on ParentText. Copy the 6-digit number into the parent profile. \n"
+"\n"
+"Select “Add Co-Parent”\n"
+"\n"
+"Select the co-parent from available parent user profiles. \n"
+"\n"
+"Select “Save”\n"
+"\n"
+"*Both parent profiles will be updated to note the co-parent.*"
+msgstr ""
+"Anda perlu pautkan akaun mereka jika dua ibu bapa menyertai program ini bersama-sama. \n"
+"\n"
+"Pilih \"Tambah Ibu Bapa\" untuk menambah ibu bapa kedua jika anda telah menambah profil ibu bapa pertama\n"
+"\n"
+"Masukkan butiran ibu bapa ke dalam borang. Minta ibu bapa untuk menghantar teks \"ID\" di ParentText untuk memasukkan pengenal unik ibu bapa (UID). Salin nombor 6 digit ke dalam profil ibu bapa. \n"
+"\n"
+"Pilih “Tambah Ibu Bapa Bersama”\n"
+"\n"
+"Pilih ibu bapa bersama daripada profil pengguna ibu bapa yang tersedia. \n"
+"\n"
+"Pilih “Simpan”\n"
+"\n"
+"*Kedua-dua profil ibu bapa akan dikemas kini menunjukkan terdapat ibu bapa bersama.*"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How to Report Attendance"
 msgstr "Cara Melaporkan Kehadiran"
 
@@ -2068,6 +2151,73 @@ msgid ""
 msgstr ""
 "Tetapkan gerakan tarian yang berbeza dengan nombor (cth., 1 = berpusing, 2 = lompat, 3 = berputar).\n"
 "Sebutkan nombor, dan peserta melakukan gerakan tarian yang sepadan."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Facilitator"
+msgstr "Fasilitator"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Coach"
+msgstr "Jurulatih"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Supervisor"
+msgstr "Penyelia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "About you"
+msgstr "Tentang anda"
+
+#. type=data_list
+#. The string @global.share_groups. should not be translated.
+msgctxt "data_list"
+msgid "We will use this to personalise the messages for sharing with your @global.share_groups."
+msgstr "Untuk berkongsi dengan @global.share_groups anda, kita akan menggunakan perkara ini untuk memperibadikan mesej."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your Facilitator ID"
+msgstr "ID Fasilitator anda"
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "Here you can find your unique code. You may be asked to share this code with people who will support your @global.app_name journey."
+msgstr "Anda boleh menjumpai kod unik anda di sini. Anda mungkin diminta untuk berkongsi kod ini dengan orang yang akan menyokong perjalanan @global.app_name anda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your Parent Group"
+msgstr "Kumpulan Ibu Bapa Anda"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "See and edit the list of parents attending your groups."
+msgstr "Lihat dan sunting senarai ibu bapa yang menghadiri kumpulan anda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your Parent Groups"
+msgstr "Kumpulan Ibu Bapa Anda"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "See and edit the lists of parents attending your groups."
+msgstr "Lihat dan sunting senarai ibu bapa yang menghadiri kumpulan anda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your Content Package"
+msgstr "Pakej Kandungan Anda"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose which content you want to see."
+msgstr "Pilih kandungan yang anda ingin lihat."
 
 #. type=global
 msgctxt "global"
@@ -2217,6 +2367,16 @@ msgstr "Borang ODK contoh"
 msgctxt "template"
 msgid "Parent profile"
 msgstr "Profil ibu bapa"
+
+#. type=template
+msgctxt "template"
+msgid "First name"
+msgstr "Nama pertama"
+
+#. type=template
+msgctxt "template"
+msgid "Last name"
+msgstr "Nama terakhir"
 
 #. type=template
 msgctxt "template"
