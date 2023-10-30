@@ -3,15 +3,20 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
-msgid "In this goal, you will gain @fields.c_n_mod new skills. You will receive a new lesson each day. Today you will begin the first skill, @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
+msgid "fail"
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
-msgid "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod skills in this goal. Today you will begin working on the skill @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
+msgid "In this goal, you will gain @fields.c_n_mod new skills. You will receive a new lesson each day. Today you will begin the first skill, @results.name."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod skills in this goal. Today you will begin working on the skill @results.name."
 msgstr ""
 
 #. type=text
@@ -21,12 +26,12 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Congratulations! You have earned yourself a badge. You are now ready to begin the course. ⭐"
+msgid "Now that you've relaxed, it's time to pick your goal."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Now that you've relaxed, it's time to pick your goal."
+msgid "Congratulations! You have earned yourself a badge. You are now ready to begin the course. ⭐"
 msgstr ""
 
 #. type=text
@@ -43,7 +48,13 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "This course has @fields.n_goals_prog goals, which one do you want to work on first?@results.message_options"
+msgid "This course has @fields.n_goals_prog goals, which one do you want to work on first?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@results.message_options"
 msgstr ""
 
 #. type=text
@@ -64,7 +75,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "It’s time to pick a new parenting goal! You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?@results.message_options"
+msgid "It’s time to pick a new parenting goal! You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?"
 msgstr ""
 
 #. type=text
@@ -75,7 +86,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?@results.message_options"
+msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?"
 msgstr ""
 
 #. type=text
@@ -91,7 +102,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have seen all the goals and you have started @fields.n_goals_started goals. Which one would you like to complete?@results.message_options"
+msgid "You have seen all the goals and you have started @fields.n_goals_started goals. Which one would you like to complete?"
 msgstr ""
 
 #. type=text
@@ -115,9 +126,8 @@ msgid "That's okay."
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Which new goal would you like to start?@results.message_options"
+msgid "Which new goal would you like to start?"
 msgstr ""
 
 #. type=text
@@ -131,9 +141,8 @@ msgid "You only have the following goal started"
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Which unfinished goal would you like to complete?@results.message_options"
+msgid "Which unfinished goal would you like to complete?"
 msgstr ""
 
 #. type=text
@@ -147,9 +156,8 @@ msgid "You only have the following goal to complete"
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Great! Which unfinished goal would you like to complete?@results.message_options"
+msgid "Great! Which unfinished goal would you like to complete?"
 msgstr ""
 
 #. type=text
@@ -170,7 +178,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
-msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. Which skill would you like to complete?@results.message_options"
+msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. Which skill would you like to complete?"
 msgstr ""
 
 #. type=text
@@ -185,9 +193,8 @@ msgid "You only have the following skill to complete:"
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Which skill would you like to complete?@results.message_options"
+msgid "Which skill would you like to complete?"
 msgstr ""
 
 #. type=text
@@ -211,9 +218,8 @@ msgid "That's okay. You can access more information at any time in the Main Menu
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "What are you struggling with?@results.message_options"
+msgid "What are you struggling with?"
 msgstr ""
 
 #. type=text
@@ -222,9 +228,8 @@ msgid "You haven't completed any skill yet."
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Which goal do you want to review?@results.message_options"
+msgid "Which goal do you want to review?"
 msgstr ""
 
 #. type=text
@@ -256,7 +261,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
-msgid "You have completed @fields.n_s_modules_compl skills within this goal. Which skill do you want to review?@results.message_options"
+msgid "You have completed @fields.n_s_modules_compl skills within this goal. Which skill do you want to review?"
 msgstr ""
 
 #. type=text
@@ -276,12 +281,6 @@ msgid "Great, see you tomorrow!"
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "What kind of activity do you want to try with @fields.child_nickname?"
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "What kind of activity do you want to try with your child?"
 msgstr ""
@@ -294,7 +293,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Well done!"
+msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @results.name. Well done!"
 msgstr ""
 
 #. type=text
@@ -381,7 +380,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "It’s time to get started on your goal, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Are you ready?"
+msgid "It’s time to get started on your goal, @results.name. Are you ready?"
 msgstr ""
 
 #. type=text
@@ -402,7 +401,13 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Today we are taking a break from your goal, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]), and checking in on your progress. Press 1 on your keypad to proceed."
+msgid "Today we are taking a break from your goal, @results.name, and checking in on your progress. Press 1 on your keypad to proceed."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This course has @fields.n_goals_prog goals, we're beginning with the first goal @results.name. Once you complete this goal, you can choose the goals you want to work on next. Let's get started."
 msgstr ""
 
 #. type=text
@@ -931,8 +936,9 @@ msgid "Sorry I don't understand what you mean."
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: to have a healthy relationship with my spouse. "
+msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: @results.name. "
 msgstr ""
 
 #. type=text
@@ -973,13 +979,13 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "I’m done for today"
+msgid "Give me an idea for 1-on-1 time with my child"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Give me an idea for 1-on-1 time with my child"
+msgid "I’m done for today"
 msgstr ""
 
 #. type=quick_replies
@@ -998,6 +1004,12 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Continue my progress tomorrow"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit"
 msgstr ""
 
 #. type=quick_replies
@@ -1177,12 +1189,6 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "View Goals Achieved"
 msgstr ""
 
@@ -1292,7 +1298,7 @@ msgstr ""
 
 #. type=variables
 msgctxt "variables"
-msgid "@(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])"
+msgid "@results.name"
 msgstr ""
 
 #. type=arguments
@@ -1347,6 +1353,12 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "continue my progress tomorrow"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
 msgstr ""
 
 #. type=arguments
@@ -1521,12 +1533,6 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "your child's gender"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "exit"
 msgstr ""
 
 #. type=arguments
