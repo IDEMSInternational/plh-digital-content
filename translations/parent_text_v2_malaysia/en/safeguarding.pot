@@ -109,6 +109,11 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "{development resources 1}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "What would you like to do?"
 msgstr ""
 
@@ -205,17 +210,18 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Excellent work. You have completed the Prevent Sexual Violence skill. Remember you can access this information at any time typing {PREVENT}."
+msgid "Thank you for taking a pause with me today. "
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your research ID is @fields.research_id"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Excellent work. You have learned the basics of self defence. Remember you can access this information at any time typing {SAFE}."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgid "Something went wrong when creating your research ID, please get in touch with your facilitator."
 msgstr ""
 
 #. type=quick_replies
@@ -282,6 +288,12 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Natural disasters"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Child Development"
 msgstr ""
 
 #. type=quick_replies
@@ -395,6 +407,24 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "book"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "pause"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "yes y yeah yep"
 msgstr ""
 
@@ -462,6 +492,12 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "natural disasters"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "child development"
 msgstr ""
 
 #. type=arguments
