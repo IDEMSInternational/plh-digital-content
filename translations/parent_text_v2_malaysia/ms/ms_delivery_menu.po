@@ -11,19 +11,24 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-10-09 14:52\n"
+"PO-Revision-Date: 2023-10-30 17:35\n"
+
+#. type=text
+msgctxt "text"
+msgid "fail"
+msgstr "fail"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
-msgid "In this goal, you will gain @fields.c_n_mod new skills. You will receive a new lesson each day. Today you will begin the first skill, @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
-msgstr "Anda akan mendapat @fields.c_n_mod kemahiran baharu dalam matlamat ini. Setiap hari, anda akan menerima pelajaran baharu. Dan anda akan bermula dengan kemahiran baharu pada hari ini, @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
+msgid "In this goal, you will gain @fields.c_n_mod new skills. You will receive a new lesson each day. Today you will begin the first skill, @results.name."
+msgstr "Anda akan mendapat @fields.c_n_mod kemahiran baharu dalam matlamat ini. Setiap hari, anda akan menerima pelajaran baharu. Dan anda akan bermula dengan kemahiran baharu pada hari ini, @results.name."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
-msgid "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod skills in this goal. Today you will begin working on the skill @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
-msgstr "Anda telah menyelesaikan @fields.c_n_mod_compl daripada @fields.c_n_mod kemahiran dalam matlamat ini. Hari ini, anda akan mulakan kemahiran @(parse_json(fields.modules_dictionary_0 &fields.modules_dictionary_1 &fields.modules_dictionary_2 &fields.modules_dictionary_3 &fields.modules_dictionary_4 &fields.modules_dictionary_5 &fields.modules_dictionary_6 &fields.modules_dictionary_7 &fields.modules_dictionary_8 &fields.modules_dictionary_9 &fields.modules_dictionary_10 )[contact.language][if(text_length(fields.c_mod_to_start)>0,word_slice(fields.c_mod_to_start ,0,1),word_slice(fields.c_mod_started ,0,1))])."
+msgid "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod skills in this goal. Today you will begin working on the skill @results.name."
+msgstr "Anda telah menyelesaikan @fields.c_n_mod_compl daripada @fields.c_n_mod kemahiran dalam matlamat ini. Hari ini, anda akan mulakan kemahiran @results.name."
 
 #. type=text
 msgctxt "text"
@@ -32,13 +37,13 @@ msgstr "Mari kita mulakan. Untuk bermula, tekan TERUSKAN."
 
 #. type=text
 msgctxt "text"
-msgid "Congratulations! You have earned yourself a badge. You are now ready to begin the course. ⭐"
-msgstr "Tahniah! Anda telah memperoleh lencana untuk diri anda. Sekarang, anda sudah bersedia untuk mulakan kursus. ⭐"
+msgid "Now that you've relaxed, it's time to pick your goal."
+msgstr "Sudah tiba masanya untuk memilih matlamat anda setelah anda berehat."
 
 #. type=text
 msgctxt "text"
-msgid "Now that you've relaxed, it's time to pick your goal."
-msgstr "Sudah tiba masanya untuk memilih matlamat anda setelah anda berehat."
+msgid "Congratulations! You have earned yourself a badge. You are now ready to begin the course. ⭐"
+msgstr "Tahniah! Anda telah memperoleh lencana untuk diri anda. Sekarang, anda sudah bersedia untuk mulakan kursus. ⭐"
 
 #. type=text
 msgctxt "text"
@@ -54,8 +59,14 @@ msgstr "@(text_slice(results.message_options,5))."
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "This course has @fields.n_goals_prog goals, which one do you want to work on first?@results.message_options"
-msgstr "Kursus ini mempunyai @fields.n_goals_prog matlamat, matlamat manakah yang anda mahu mulakan dahulu?@results.message_options"
+msgid "This course has @fields.n_goals_prog goals, which one do you want to work on first?"
+msgstr "Kursus ini mempunyai @fields.n_goals_prog matlamat, matlamat manakah yang anda mahu mulakan dahulu?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@results.message_options"
+msgstr "@results.message_options"
 
 #. type=text
 msgctxt "text"
@@ -75,8 +86,8 @@ msgstr "Anda hanya tinggal satu matlamat sahaja, Anda semakin hampir melengkapka
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "It’s time to pick a new parenting goal! You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?@results.message_options"
-msgstr "Sudah tiba masanya untuk memilih matlamat keibubapaan yang baharu! Anda telah melengkapkan @fields.n_goals_completed daripada @fields.n_goals_prog matlamat. Matlamat yang manakah yang ingin anda pilih untuk diteruskan?@results.message_options"
+msgid "It’s time to pick a new parenting goal! You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?"
+msgstr "Sudah tiba masanya untuk memilih matlamat keibubapaan yang baharu! Anda telah melengkapkan @fields.n_goals_completed daripada @fields.n_goals_prog matlamat. Matlamat yang manakah yang ingin anda pilih untuk diteruskan?"
 
 #. type=text
 msgctxt "text"
@@ -86,8 +97,8 @@ msgstr "Anda hanya mempunyai satu matlamat untuk dimulakan"
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?@results.message_options"
-msgstr "Anda telah melengkapkan @fields.n_goals_completed daripada @fields.n_goals_prog matlamat. Seterusnya, matlamat yang mana satukah yang ingin anda pilih?@results.message_options"
+msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog goals. Which goal would you like to work on next?"
+msgstr "Anda telah melengkapkan @fields.n_goals_completed daripada @fields.n_goals_prog matlamat. Seterusnya, matlamat yang mana satukah yang ingin anda pilih?"
 
 #. type=text
 msgctxt "text"
@@ -102,8 +113,8 @@ msgstr "Anda semakin hampir untuk menamatkan kursus ParentText! Hanya matlamat i
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have seen all the goals and you have started @fields.n_goals_started goals. Which one would you like to complete?@results.message_options"
-msgstr "Anda telah melihat semua matlamat dan anda telah pun bermula dengan matlamat @fields.n_goals_started. Matlamat manakah yang ingin anda selesaikan?@results.message_options"
+msgid "You have seen all the goals and you have started @fields.n_goals_started goals. Which one would you like to complete?"
+msgstr "Anda telah melihat semua matlamat dan anda telah pun bermula dengan matlamat @fields.n_goals_started. Matlamat manakah yang ingin anda selesaikan?"
 
 #. type=text
 msgctxt "text"
@@ -126,10 +137,9 @@ msgid "That's okay."
 msgstr "Tidak mengapa."
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Which new goal would you like to start?@results.message_options"
-msgstr "Matlamat baharu manakah yang ingin anda mulakan?@results.message_options"
+msgid "Which new goal would you like to start?"
+msgstr "Matlamat baharu manakah yang ingin anda mulakan?"
 
 #. type=text
 msgctxt "text"
@@ -142,10 +152,9 @@ msgid "You only have the following goal started"
 msgstr "Anda hanya ada matlamat berikut yang telah dimulakan"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Which unfinished goal would you like to complete?@results.message_options"
-msgstr "Matlamat tidak lengkap yang manakah yang anda ingin selesaikan?@results.message_options"
+msgid "Which unfinished goal would you like to complete?"
+msgstr "Matlamat tidak lengkap yang manakah yang anda ingin selesaikan?"
 
 #. type=text
 msgctxt "text"
@@ -158,10 +167,9 @@ msgid "You only have the following goal to complete"
 msgstr "Anda hanya ada matlamat berikut untuk diselesaikan"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Great! Which unfinished goal would you like to complete?@results.message_options"
-msgstr "Bagus! Matlamat tidak lengkap yang manakah yang anda ingin selesaikan?@results.message_options"
+msgid "Great! Which unfinished goal would you like to complete?"
+msgstr "Bagus! Matlamat tidak lengkap yang manakah yang anda ingin selesaikan?"
 
 #. type=text
 msgctxt "text"
@@ -181,8 +189,8 @@ msgstr "Tidak mengapa. Apabila anda telah mendapat semua lencana, barulah anda b
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
-msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. Which skill would you like to complete?@results.message_options"
-msgstr "Anda hampir selesai dengan matlamat ini! Anda mempunyai @fields.c_n_mod_started kemahiran yang belum selesai. Kemahiran manakah yang ingin anda selesaikan?@results.message_options"
+msgid "You're almost finished with this goal! You have @fields.c_n_mod_started unfinished skills. Which skill would you like to complete?"
+msgstr "Anda hampir selesai dengan matlamat ini! Anda mempunyai @fields.c_n_mod_started kemahiran yang belum selesai. Kemahiran manakah yang ingin anda selesaikan?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
@@ -196,10 +204,9 @@ msgid "You only have the following skill to complete:"
 msgstr "Anda hanya ada kemahiran berikut untuk diselesaikan:"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Which skill would you like to complete?@results.message_options"
-msgstr "Kemahiran manakah yang ingin anda selesaikan?@results.message_options"
+msgid "Which skill would you like to complete?"
+msgstr "Kemahiran manakah yang ingin anda selesaikan?"
 
 #. type=text
 msgctxt "text"
@@ -222,10 +229,9 @@ msgid "That's okay. You can access more information at any time in the Main Menu
 msgstr "Tidak mengapa. Anda boleh akses maklumat lebih lanjut pada bila-bila masa di Menu Utama"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "What are you struggling with?@results.message_options"
-msgstr "Apakah kesulitan yang anda hadapi?@results.message_options"
+msgid "What are you struggling with?"
+msgstr "What are you struggling with?"
 
 #. type=text
 msgctxt "text"
@@ -233,10 +239,9 @@ msgid "You haven't completed any skill yet."
 msgstr "Anda masih belum menyelesaikan sebarang kemahiran."
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Which goal do you want to review?@results.message_options"
-msgstr "Matlamat manakah yang anda ingin semak semula??@results.message_options"
+msgid "Which goal do you want to review?"
+msgstr "Matlamat manakah yang anda ingin semak semula?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
@@ -267,8 +272,8 @@ msgstr "Tidak mengapa. Anda boleh kembali ke sini untuk menyemak semula pada bil
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
-msgid "You have completed @fields.n_s_modules_compl skills within this goal. Which skill do you want to review?@results.message_options"
-msgstr "Anda telah melengkapkan @fields.n_s_modules_compl kemahiran dalam matlamat ini. Kemahiran manakah yang ingin anda semak semula?@results.message_options"
+msgid "You have completed @fields.n_s_modules_compl skills within this goal. Which skill do you want to review?"
+msgstr "Anda telah melengkapkan @fields.n_s_modules_compl kemahiran dalam matlamat ini. Kemahiran manakah yang ingin anda semak semula?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
@@ -287,12 +292,6 @@ msgid "Great, see you tomorrow!"
 msgstr "Baik, jumpa anda esok!"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "What kind of activity do you want to try with @fields.child_nickname?"
-msgstr "Apakah aktiviti yang anda ingin cuba bersama @fields.child_nickname?"
-
-#. type=text
 msgctxt "text"
 msgid "What kind of activity do you want to try with your child?"
 msgstr "Apakah aktiviti yang anda ingin cuba bersama anak anda?"
@@ -305,8 +304,8 @@ msgstr "Adakah anda ingin mulakan sekarang atau pada hari esok?"
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Well done!"
-msgstr "🎉TAHNIAH!🎉 Anda telah mendapat lencana dan menyelesiakan matlamat @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Syabas!"
+msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @results.name. Well done!"
+msgstr "🎉TAHNIAH!🎉 Anda telah mendapat lencana dan menyelesiakan matlamat @results.name. Syabas!"
 
 #. type=text
 msgctxt "text"
@@ -392,8 +391,8 @@ msgstr "1. Selesaikan kemahiran untuk mendapatkan lencana saya"
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "It’s time to get started on your goal, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Are you ready?"
-msgstr "Sudah tiba masanya untuk mulakan matlamat anda, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]). Adakah anda sudah bersedia?"
+msgid "It’s time to get started on your goal, @results.name. Are you ready?"
+msgstr "Sudah tiba masanya untuk mulakan matlamat anda, @results.name. Adakah anda sudah bersedia?"
 
 #. type=text
 msgctxt "text"
@@ -413,8 +412,8 @@ msgstr "Mesej ini sepertinya tidak berfungsi. Apabila anda sudah bersedia untuk 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Today we are taking a break from your goal, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]), and checking in on your progress. Press 1 on your keypad to proceed."
-msgstr "Kita akan berehat daripada matlamat anda pada hari ini, @(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal]), dan menyemak kemajuan anda. Tekan 1 pada pad kekunci anda untuk teruskan."
+msgid "Today we are taking a break from your goal, @results.name, and checking in on your progress. Press 1 on your keypad to proceed."
+msgstr "Hari ini kita berehat seketika daripada cubaan mencapai matlamat, @results.name, tetapi kita akan menyemak kemajuan anda. Untuk meneruskan, tekan 1 pada kekunci anda."
 
 #. type=text
 msgctxt "text"
@@ -942,9 +941,10 @@ msgid "Sorry I don't understand what you mean."
 msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: to have a healthy relationship with my spouse. "
-msgstr "Terima kasih kerana mengemas kini status hubungan anda. Anda telah membuka matlamat pelajaran baharu: mempunyai hubungan sihat bersama pasangan saya. "
+msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: @results.name. "
+msgstr "Terima kasih kerana mengemas kini status hubungan anda. Anda telah membuka matlamat pelajaran baharu: @results.name. "
 
 #. type=text
 msgctxt "text"
@@ -984,14 +984,14 @@ msgstr "Biarkan sahaja matlamat ini dan pilih matlamat baharu"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "I’m done for today"
-msgstr "Cukuplah untuk hari ini"
+msgid "Give me an idea for 1-on-1 time with my child"
+msgstr "Berikan saya idea untuk sesi masa bersama seorang dengan seorang bersama anak saya"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Give me an idea for 1-on-1 time with my child"
-msgstr "Berikan saya idea untuk sesi masa bersama seorang dengan seorang bersama anak saya"
+msgid "I’m done for today"
+msgstr "Cukuplah untuk hari ini"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1010,6 +1010,12 @@ msgstr "Pergi ke Menu Utama"
 msgctxt "quick_replies"
 msgid "Continue my progress tomorrow"
 msgstr "Sambung kemajuan saya esok"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit"
+msgstr "Keluar"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1188,12 +1194,6 @@ msgstr "Jantina Your Child"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit"
-msgstr "Keluar"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "View Goals Achieved"
 msgstr "Paparkan Matlamat Yang Dicapai"
 
@@ -1303,8 +1303,8 @@ msgstr "Selesaikan kemahiran untuk mendapatkan lencana saya"
 
 #. type=variables
 msgctxt "variables"
-msgid "@(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])"
-msgstr "@(parse_json(fields.goals_dictionary_0 &fields.goals_dictionary_1 &fields.goals_dictionary_2 &fields.goals_dictionary_3 &fields.goals_dictionary_4 &fields.goals_dictionary_5 &fields.goals_dictionary_6 &fields.goals_dictionary_7 )[contact.language][fields.curr_goal])"
+msgid "@results.name"
+msgstr "@results.name"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1359,6 +1359,12 @@ msgstr "pergi ke menu utama"
 msgctxt "arguments"
 msgid "continue my progress tomorrow"
 msgstr "sambung kemajuan saya esok"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr "keluar"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1533,12 +1539,6 @@ msgstr "nama panggilan anak anda"
 msgctxt "arguments"
 msgid "your child's gender"
 msgstr "jantina anak anda"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "exit"
-msgstr "keluar"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
