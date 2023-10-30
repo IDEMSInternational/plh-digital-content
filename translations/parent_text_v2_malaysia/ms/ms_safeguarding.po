@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-09-29 13:29\n"
+"PO-Revision-Date: 2023-10-30 17:35\n"
 
 #. type=text
 msgctxt "text"
@@ -120,6 +120,11 @@ msgstr "{family referrals}"
 
 #. type=text
 msgctxt "text"
+msgid "{development resources 1}"
+msgstr "{development resources 1}"
+
+#. type=text
+msgctxt "text"
 msgid "What would you like to do?"
 msgstr "Apakah yang anda mahu lakukan?"
 
@@ -215,19 +220,10 @@ msgid "Sorry I don't understand what you mean."
 msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Excellent work. You have completed the Prevent Sexual Violence skill. Remember you can access this information at any time typing {PREVENT}."
-msgstr "Kerja yang cemerlang. Anda telah menguasai kemahiran Pencegahan Keganasan Seksual. Ingat bahawa anda boleh mengakses maklumat ini pada bila-bila masa dengan menaip {PREVENT}."
-
-#. type=text
-msgctxt "text"
-msgid "Excellent work. You have learned the basics of self defence. Remember you can access this information at any time typing {SAFE}."
-msgstr "Kerja yang cemerlang. Anda telah mempelajari asas seni mempertahankan diri. Ingat bahawa anda boleh mengakses maklumat ini pada bila-bila masa dengan menaip {SAFE}."
-
-#. type=text
-msgctxt "text"
-msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
-msgstr "Selepas anda melengkapkan pendaftaran, menu akan sedia ada untuk anda. Ia tidak akan mengambil masa yang lama. Sila teruskan kemajuan anda!"
+msgid "Your research ID is @fields.research_id"
+msgstr "ID kajian anda ialah @fields.research_id"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
