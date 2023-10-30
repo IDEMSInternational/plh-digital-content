@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-10-25 14:07\n"
+"PO-Revision-Date: 2023-10-30 17:35\n"
 
 #. type=text
 msgctxt "text"
@@ -315,6 +315,11 @@ msgstr "😃 Walaupun hanya sebentar, anak anda akan menghargai setiap perhatian
 
 #. type=text
 msgctxt "text"
+msgid "{development resources 2}"
+msgstr "{development resources 2}"
+
+#. type=text
+msgctxt "text"
 msgid "😣 You may be hurt because your child does not want to spend time with you."
 msgstr "😣 Anak anda mungkin akan melukakan perasaan anda jika mereka tidak mahu meluangkan masa dengan anda."
 
@@ -444,6 +449,11 @@ msgstr "⚽ Berikan mereka satu aktiviti dan lihat perkembangan mereka setiap be
 msgctxt "text"
 msgid "🍚 You can also make household work into learning moments - like cooking or sorting clothes. You can do this!"
 msgstr "🍚 Anda juga boleh mengubah kerja di rumah sebagai saat-saat pembelajaran - seperti memasak atau mengasingkan pakaian. Anda pasti boleh!"
+
+#. type=text
+msgctxt "text"
+msgid "{learning resources}"
+msgstr "{learning resources}"
 
 #. type=text
 msgctxt "text"
@@ -595,8 +605,8 @@ msgstr "🌷 Ia perkara biasa untuk berasa marah terhadap anak kita jika mereka 
 
 #. type=text
 msgctxt "text"
-msgid "⏸ First, take a pause. You can type PAUSE at any time to review the Take a Pause lesson. "
-msgstr "⏸ Pertama sekali, berhenti seketika. Anda boleh menaip BERHENTI pada bila-bila masa untuk menyemak semula pelajaran Berhenti Seketika. "
+msgid "⏸ First, take a pause. You can type {PAUSE} at any time to review the Take a Pause lesson. "
+msgstr "⏸ Pertama sekali, berhenti seketika. Anda boleh menaip {PAUSE} pada bila-bila masa untuk menyemak semula pelajaran Berhenti Seketika. "
 
 #. type=text
 msgctxt "text"
@@ -1304,12 +1314,6 @@ msgstr "Sila taip angka yang menerangkan tingkah laku paling mencabar yang perlu
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Skip Question"
-msgstr "Langkau Soalan"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Not Confident"
 msgstr "Tidak Yakin"
 
@@ -1648,12 +1652,6 @@ msgstr "Dapatkan bantuan lanjut"
 msgctxt "quick_replies"
 msgid "Continue my Progress Tomorrow"
 msgstr "Sambung Kemajuan saya Esok"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "skip question"
-msgstr "langkau soalan"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -2062,4 +2060,10 @@ msgstr "dapatkan bantuan lanjut"
 msgctxt "arguments"
 msgid "continue my progress tomorrow"
 msgstr "sambung kemajuan saya esok"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no"
+msgstr "tidak"
 
