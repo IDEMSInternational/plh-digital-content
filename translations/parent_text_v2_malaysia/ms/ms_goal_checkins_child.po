@@ -11,17 +11,22 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-10-30 17:35\n"
-
-#. type=text
-msgctxt "text"
-msgid "Here is a question to help you get started on your goal:"
-msgstr "Untuk membantu anda memulakan matlamat anda, jawab soalan berikut:"
+"PO-Revision-Date: 2023-10-31 11:16\n"
 
 #. type=text
 msgctxt "text"
 msgid "That's okay."
 msgstr "Tidak mengapa."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I dont' understand what you mean."
+msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
+
+#. type=text
+msgctxt "text"
+msgid "Here is a question to help you get started on your goal:"
+msgstr "Untuk membantu anda memulakan matlamat anda, jawab soalan berikut:"
 
 #. type=text
 msgctxt "text"
@@ -32,11 +37,6 @@ msgstr "Tidak mengapa. Dalam matlamat ini, anda akan mempelajari lebih lanjut te
 msgctxt "text"
 msgid "That is great to hear! 🎉 Spending time with your child is a great way to build a good relationship with them!"
 msgstr "Baguslah jika begitu! 🎉 Meluangkan masa dengan anak anda merupakan cara yang terbaik untuk membina hubungan baik bersama mereka!"
-
-#. type=text
-msgctxt "text"
-msgid "Sorry, I dont' understand what you mean."
-msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
 
 #. type=text
 msgctxt "text"
@@ -785,6 +785,11 @@ msgstr "💛 Lebih banyak yang kita ketahui, lebih baik keselamatan keluarga kit
 
 #. type=text
 msgctxt "text"
+msgid "{community safety}"
+msgstr "{community safety}"
+
+#. type=text
+msgctxt "text"
 msgid "💙 It is slightly uncomfortable to talk to our children about male and female body parts."
 msgstr "💙 Mungkin agak tidak selesa untuk bercakap tentang bahagian tubuh badan lelaki dan perempuan kepada anak kita."
 
@@ -935,6 +940,11 @@ msgstr "Kami bersimpati apabila mendengar belanjawan keluarga anda tidak berjaya
 
 #. type=text
 msgctxt "text"
+msgid "Congratulations! 🎉You’ve made progress in this goal since you’ve started ParentText. Your effort is working!"
+msgstr "Tahniah! 🎉Sejak anda menggunakan ParentText, anda menunjukkan kemajuan yang positif. Usaha anda nampaknya berhasil!"
+
+#. type=text
+msgctxt "text"
 msgid "Well done for completing the modules on improving your relationship with your child. Let’s see how things have changed since you started:"
 msgstr "Tahniah kerana telah melengkapkan modul untuk memperbaiki hubungan anda dengan anak anda. Mari lihat apa yang telah berubah sejak anda bermula:"
 
@@ -962,11 +972,6 @@ msgstr "Anda telah berjaya untuk meluangkan masa seorang-dengan-seorang bersama 
 msgctxt "text"
 msgid "Time with your child is so important. Though you are still doing great, you have reported that spending one-on-one time together has become more challenging since you first began ParentText."
 msgstr "Walaupun anda masih berjaya untuk meluangkan masa bersama anak anda, anda telah melaporkan bahawa meluangkan masa seorang-dengan-seorang sudah menjadi semakin mencabar sejak anda mula menggunakan ParentText."
-
-#. type=text
-msgctxt "text"
-msgid "Congratulations! 🎉You’ve made progress in this goal since you’ve started ParentText. Your effort is working!"
-msgstr "Tahniah! 🎉Sejak anda menggunakan ParentText, anda menunjukkan kemajuan yang positif. Usaha anda nampaknya berhasil!"
 
 #. type=text
 msgctxt "text"
@@ -1314,6 +1319,36 @@ msgstr "Sila taip angka yang menerangkan tingkah laku paling mencabar yang perlu
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Never"
+msgstr "Tidak Pernah"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Rarely"
+msgstr "Jarang-jarang"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Sometimes"
+msgstr "Kadang-kadang"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Often"
+msgstr "Selalu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Almost Always"
+msgstr "Hampir Setiap Masa"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Not Confident"
 msgstr "Tidak Yakin"
 
@@ -1338,20 +1373,8 @@ msgstr "Sangat Yakin"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Never"
-msgstr "Tidak Pernah"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Hardly Ever"
 msgstr "Langsung Tidak Pernah"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Sometimes"
-msgstr "Kadang-kadang"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1364,24 +1387,6 @@ msgstr "Sangat Kerap"
 msgctxt "quick_replies"
 msgid "Every Day"
 msgstr "Setiap Hari"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Rarely"
-msgstr "Jarang-jarang"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Often"
-msgstr "Selalu"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Almost Always"
-msgstr "Hampir Setiap Masa"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1656,6 +1661,36 @@ msgstr "Sambung Kemajuan saya Esok"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "never"
+msgstr "tidak pernah"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "rarely"
+msgstr "jarang-jarang"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "sometimes"
+msgstr "kadang-kadang"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "often"
+msgstr "selalu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "almost always"
+msgstr "hampir setiap masa"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "0"
 msgstr "0"
 
@@ -1728,20 +1763,8 @@ msgstr "sangat yakin"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "never"
-msgstr "tidak pernah"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "hardly ever"
 msgstr "langsung tidak pernah"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "sometimes"
-msgstr "kadang-kadang"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1754,24 +1777,6 @@ msgstr "sangat kerap"
 msgctxt "arguments"
 msgid "every day"
 msgstr "setiap hari"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "rarely"
-msgstr "jarang-jarang"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "often"
-msgstr "selalu"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "almost always"
-msgstr "hampir setiap masa"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
