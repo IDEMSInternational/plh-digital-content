@@ -129,7 +129,12 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You are already part of ParentText! "
+msgid "Welcome back to ParentText!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "I don't understand your message."
 msgstr ""
 
 #. type=text
@@ -139,12 +144,38 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You have already completed ParentText!"
+msgid "You have not given consent to participate in this programme. Would you like to participate?"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Welcome back to ParentText!"
+msgid "If you ever decide to participate in the programme, type {START}. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Parenting is hard. ParentText may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. If you ever decide to come back, type {START}. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are already part of ParentText! "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have already completed ParentText!"
 msgstr ""
 
 #. type=text
@@ -179,11 +210,6 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
-msgstr ""
-
-#. type=text
-msgctxt "text"
 msgid "Thank you for taking a pause with me today. "
 msgstr ""
 
@@ -196,37 +222,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Something went wrong when creating your research ID, please get in touch with your facilitator."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "I don't understand your message."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You have not given consent to participate in this programme. Would you like to participate?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "If you ever decide to participate in the programme, type {START}. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Parenting is hard. ParentText may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "That's okay. If you ever decide to come back, type {START}. "
 msgstr ""
 
 #. type=quick_replies
@@ -382,6 +377,18 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "safe"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "prevent"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "grow"
 msgstr ""
 
@@ -395,6 +402,12 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "start"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "book"
 msgstr ""
 
 #. type=arguments
@@ -508,11 +521,11 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "back"
+msgid "no nope n"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "no nope n"
+msgid "back"
 msgstr ""
