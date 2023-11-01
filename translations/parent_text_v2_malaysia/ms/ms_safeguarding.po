@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-11-01 14:20\n"
+"PO-Revision-Date: 2023-11-01 14:55\n"
 
 #. type=text
 msgctxt "text"
@@ -140,13 +140,8 @@ msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
 
 #. type=text
 msgctxt "text"
-msgid "Welcome back to ParentText!"
-msgstr "Selamat kembali ke ParentText!"
-
-#. type=text
-msgctxt "text"
-msgid "I don't understand your message."
-msgstr "Saya tidak memahami mesej anda."
+msgid "You are already part of ParentText! "
+msgstr "Anda adalah sebahagian daripada ParentText! "
 
 #. type=text
 msgctxt "text"
@@ -155,39 +150,13 @@ msgstr "Sila taip {MENU} untuk mengakses sumber dan semak semula modul yang tela
 
 #. type=text
 msgctxt "text"
-msgid "You have not given consent to participate in this programme. Would you like to participate?"
-msgstr "Anda masih belum memberi persetujuan untuk menyertai program ini. Adakah anda ingin turut serta?"
-
-#. type=text
-msgctxt "text"
-msgid "If you ever decide to participate in the programme, type {START}. "
-msgstr "Taip {START} jika anda membuat keputusan untuk menyertai program ini. "
-
-#. type=text
-msgctxt "text"
-msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
-msgstr "Semoga berjumpa lagi! Selamat sejahtera!"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Parenting is hard. ParentText may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
-msgstr "Keibubapaan adalah sukar. ParentText mungkin boleh membantu. Anda telah melengkapkan @fields.n_goals_completed daripada matlamat keibubapaan @fields.n_goals_prog. Adakah anda ingin meneruskan kemajuan anda?"
-
-#. type=text
-msgctxt "text"
-msgid "That's okay. If you ever decide to come back, type {START}. "
-msgstr "Tidak mengapa. Taip {START} jika anda membuat keputusan untuk kembali. "
-
-#. type=text
-msgctxt "text"
-msgid "You are already part of ParentText! "
-msgstr "Anda adalah sebahagian daripada ParentText! "
-
-#. type=text
-msgctxt "text"
 msgid "You have already completed ParentText!"
 msgstr "Anda telah melengkapkan ParentText!"
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back to ParentText!"
+msgstr "Selamat kembali ke ParentText!"
 
 #. type=text
 msgctxt "text"
@@ -221,6 +190,11 @@ msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
 
 #. type=text
 msgctxt "text"
+msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgstr "Selepas anda melengkapkan pendaftaran, menu akan sedia ada untuk anda. Ia tidak akan mengambil masa yang lama. Sila teruskan kemajuan anda!"
+
+#. type=text
+msgctxt "text"
 msgid "Thank you for taking a pause with me today. "
 msgstr "Terima kasih kerana berhenti seketika bersama saya pada hari ini. "
 
@@ -234,6 +208,37 @@ msgstr "ID kajian anda ialah @fields.research_id"
 msgctxt "text"
 msgid "Something went wrong when creating your research ID, please get in touch with your facilitator."
 msgstr "Sila berhubung dengan fasilitator anda kerana sesuatu telah berlaku ketika mencipta ID kajian anda."
+
+#. type=text
+msgctxt "text"
+msgid "I don't understand your message."
+msgstr "Saya tidak memahami mesej anda."
+
+#. type=text
+msgctxt "text"
+msgid "You have not given consent to participate in this programme. Would you like to participate?"
+msgstr "Anda masih belum memberi persetujuan untuk menyertai program ini. Adakah anda ingin turut serta?"
+
+#. type=text
+msgctxt "text"
+msgid "If you ever decide to participate in the programme, type {START}. "
+msgstr "Taip {START} jika anda membuat keputusan untuk menyertai program ini. "
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
+msgstr "Semoga berjumpa lagi! Selamat sejahtera!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Parenting is hard. ParentText may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
+msgstr "Keibubapaan adalah sukar. ParentText mungkin boleh membantu. Anda telah melengkapkan @fields.n_goals_completed daripada matlamat keibubapaan @fields.n_goals_prog. Adakah anda ingin meneruskan kemajuan anda?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. If you ever decide to come back, type {START}. "
+msgstr "Tidak mengapa. Taip {START} jika anda membuat keputusan untuk kembali. "
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -388,18 +393,6 @@ msgstr "main"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "safe"
-msgstr "selamat"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "prevent"
-msgstr "cegah"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "grow"
 msgstr "berkembang"
 
@@ -414,12 +407,6 @@ msgstr "berhenti"
 msgctxt "arguments"
 msgid "start"
 msgstr "mula"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "book"
-msgstr "buku"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -532,12 +519,12 @@ msgstr "keluar"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "no nope n"
-msgstr "tidak tak bukan t"
+msgid "back"
+msgstr "kembali"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "back"
-msgstr "kembali"
+msgid "no nope n"
+msgstr "tidak tak bukan t"
 
