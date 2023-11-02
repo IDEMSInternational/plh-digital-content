@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-11-01 14:20\n"
+"PO-Revision-Date: 2023-11-02 02:55\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4362,6 +4362,33 @@ msgstr "Apakah jenis sesi dalam laporan yang anda ingin hantar?"
 
 #. type=template
 msgctxt "template"
+msgid "Previous reports"
+msgstr "Laporan sebelum ini"
+
+#. type=template
+msgctxt "template"
+msgid "Delete parent"
+msgstr "Padam ibu bapa"
+
+#. type=template
+#. The string @local.parent_name should not be translated.
+msgctxt "template"
+msgid "Are you sure you want to delete @local.parent_name? This cannot be undone."
+msgstr "Adakah anda pasti anda ingin memadam @local.parent_name? Ini tidak boleh diundur."
+
+#. type=template
+msgctxt "template"
+msgid "Delete report"
+msgstr "Padam laporan"
+
+#. type=template
+#. The string @local.report_name should not be translated.
+msgctxt "template"
+msgid "Are you sure you want to delete the **@local.report_name** report? This cannot be undone."
+msgstr "Adakah anda pasti anda ingin memadam laporan **@local.report_name**? Ini tidak boleh diundur."
+
+#. type=template
+msgctxt "template"
 msgid "No"
 msgstr "Tidak"
 
@@ -4397,6 +4424,11 @@ msgstr "Antara ibu bapa dalam kumpulan anda, siapakah yang menghadiri sesi berse
 msgctxt "template"
 msgid "In-Person"
 msgstr "Secara Bersemuka"
+
+#. type=template
+msgctxt "template"
+msgid "You have reported on all in-person sessions already."
+msgstr "Anda telah melaporkan semua sesi bersemuka sebelum ini."
 
 #. type=template
 msgctxt "template"
@@ -4528,6 +4560,15 @@ msgstr "Berapa minit anda luangkan untuk menjadi fasilitator kumpulan @global.sh
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Which of the parents in your group participated?\n"
+"*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*"
+msgstr ""
+"Ibu bapa manakah dalam kumpulan anda yang mengambil bahagian?\n"
+"*Penyertaan ditakrifkan sebagai mana-mana ibu bapa yang menyiarkan komen, soalan, balasan atau reaksi (seperti ibu jari suka) dalam sembang ketika anda berkongsi mesej pertama daripada perbincangan mingguan.*"
+
+#. type=template
+msgctxt "template"
 msgid "Parent"
 msgstr "Ibu bapa"
 
@@ -4540,4 +4581,9 @@ msgstr "Simpan"
 msgctxt "template"
 msgid "Which session are you reporting on?"
 msgstr "Sesi manakah yang anda laporkan?"
+
+#. type=template
+msgctxt "template"
+msgid "Warning"
+msgstr "Amaran"
 
