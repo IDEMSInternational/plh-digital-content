@@ -3,6 +3,11 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 #. type=text
+msgctxt "text"
+msgid "fail"
+msgstr ""
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "In this goal, you will gain @fields.c_n_mod new skills. You will receive a new lesson each day. Today you will begin the first skill, @results.name."
@@ -16,12 +21,17 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "fail"
+msgid "Let’s get started. Press NEXT to begin."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Let’s get started. Press NEXT to begin."
+msgid "Now that you've relaxed, it's time to pick your goal."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Congratulations! You have earned yourself a badge. You are now ready to begin the course. ⭐"
 msgstr ""
 
 #. type=text
@@ -283,7 +293,12 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "This course has @fields.n_goals_prog goals, we're beginning with the first goal @results.name. Once you complete this goal, you can choose the goals you want to work on next. Let's get started."
+msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @results.name. Well done!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu."
 msgstr ""
 
 #. type=text
@@ -392,7 +407,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "*DAY @fields.curr_demo_day*"
+msgid "This course has @fields.n_goals_prog goals, we're beginning with the first goal @results.name. Once you complete this goal, you can choose the goals you want to work on next. Let's get started."
 msgstr ""
 
 #. type=text
@@ -629,8 +644,9 @@ msgid "@(text_slice(results.message_options,5))"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have completed the following goals:"
+msgid "You have completed the following goals:@results.message_options"
 msgstr ""
 
 #. type=text
@@ -644,8 +660,9 @@ msgid "You have the following outstanding goal to complete:"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You are off track to complete this course! You have the following outstanding goals:"
+msgid "You are off track to complete this course! You have the following outstanding goals:@results.message_options"
 msgstr ""
 
 #. type=text
@@ -659,8 +676,9 @@ msgid "You have the following goal to start:"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have the following goals to start:"
+msgid "You have the following goals to start:@results.message_options"
 msgstr ""
 
 #. type=text
@@ -926,22 +944,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "You have reached the end of this skill! 🎉 "
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @results.name. Well done!"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Congratulations! You have earned yourself a badge. You are now ready to begin the course. ⭐"
 msgstr ""
 
 #. type=quick_replies
