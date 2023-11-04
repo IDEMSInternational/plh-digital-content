@@ -32,7 +32,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "@(text_slice(results.message_options,3))."
+msgid "@(text_slice(results.message_options,5))."
 msgstr ""
 
 #. type=text
@@ -397,11 +397,6 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You completed the ParentText demo. Type RESET and then START to re-start from the beginning."
-msgstr ""
-
-#. type=text
-msgctxt "text"
 msgid "What would you like change?"
 msgstr ""
 
@@ -695,7 +690,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "@(text_slice(results.message_options,3))"
+msgid "@(text_slice(results.message_options,5))"
 msgstr ""
 
 #. type=text
