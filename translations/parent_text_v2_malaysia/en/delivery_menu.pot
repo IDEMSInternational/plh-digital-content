@@ -412,13 +412,78 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgid "⬜️⬜️⬜️⬜️⬜️"
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.n_goals_completed of @fields.n_goals_prog Goals Complete"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
 msgstr ""
 
 #. type=text
@@ -761,13 +826,13 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You told us that @fields.child_nickname is @fields.child_age year old and was born on @fields.child_dob."
+msgid "You told us that @fields.child_nickname is @fields.child_age year old and was born on @(date(fields.child_dob))."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You told us that your child is @fields.child_age year old and was born on @fields.child_dob."
+msgid "You told us that your child is @fields.child_age year old and was born on @(date(fields.child_dob))."
 msgstr ""
 
 #. type=text
