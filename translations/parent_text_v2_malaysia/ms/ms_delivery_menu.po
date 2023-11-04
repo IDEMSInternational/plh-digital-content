@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-11-04 16:37\n"
+"PO-Revision-Date: 2023-11-04 20:46\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -43,8 +43,8 @@ msgstr "Tidak Berkenaan"
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "@(text_slice(results.message_options,5))."
-msgstr "@(text_slice(results.message_options,5))."
+msgid "@(text_slice(results.message_options,3))."
+msgstr "@(text_slice(results.message_options,3))."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -695,8 +695,8 @@ msgstr "Matlamat anda yang berikut sudah diselesaikan:"
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "@(text_slice(results.message_options,5))"
-msgstr "@(text_slice(results.message_options,5))"
+msgid "@(text_slice(results.message_options,3))"
+msgstr "@(text_slice(results.message_options,3))"
 
 #. type=text
 msgctxt "text"
