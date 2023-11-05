@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-05 09:47\n"
+"PO-Revision-Date: 2023-11-05 15:45\n"
 
 #. type=text
 msgctxt "text"
@@ -1102,6 +1102,51 @@ msgstr "谢谢你提供你的最新进展。你可以随时在主菜单中找到
 
 #. type=text
 msgctxt "text"
+msgid "Previously you said that your child refusing to obey instructions was the most challenging behaviour for you."
+msgstr "之前你曾经提到过，你的孩子拒绝服从指示是你面临的最具挑战性的行为。"
+
+#. type=text
+msgctxt "text"
+msgid "Previously you said that getting angry often was the most challenging behaviour for your child."
+msgstr "以前你说过，对你的孩子来说，经常生气是最具挑战性的行为。"
+
+#. type=text
+msgctxt "text"
+msgid "Previously you said that your child rudeness, disrespectful behaviour was the most challenging behaviour for you."
+msgstr "之前你说过，你的孩子的粗鲁和不尊重他人的行为是你面临的最具挑战性的行为。"
+
+#. type=text
+msgctxt "text"
+msgid "Previously you said that irritable, frequent mood changes were the most challenging behaviours for your child."
+msgstr "之前你说过，你孩子易怒、情绪变化频繁是你面临的最具挑战性的行为。"
+
+#. type=text
+msgctxt "text"
+msgid "Previously you said that not following the rules was the most challenging behaviour for your child."
+msgstr "之前你说过，你的孩子不遵守规则是你面临的最具挑战性的行为。"
+
+#. type=text
+msgctxt "text"
+msgid "Previously you said that stubbornness was the most challenging behaviour for your child."
+msgstr "之前你说过，你孩子的固执是你面临的最具挑战性的行为。"
+
+#. type=text
+msgctxt "text"
+msgid "Previously you said that breaking things was the most challenging behaviour for your child."
+msgstr "以前你说过，对你的孩子来说，破坏东西是最具挑战性的行为。"
+
+#. type=text
+msgctxt "text"
+msgid "Previously you said that getting into fights was the most challenging behaviour for your child."
+msgstr "之前你说过，打架对你的孩子来说是最具挑战性的行为。"
+
+#. type=text
+msgctxt "text"
+msgid "Previously you said that teasing or bothering others was the most challenging behaviour for your child."
+msgstr "之前你说过，对你的孩子来说，取笑或骚扰别人是最具挑战性的行为。"
+
+#. type=text
+msgctxt "text"
 msgid "All children behave badly sometimes. Here are a list of typical behaviours that can be challenging for parents:"
 msgstr "所有的孩子都有不乖的时候。以下是一些典型的对父母来说可能是一个挑战的行为："
 
@@ -1149,6 +1194,557 @@ msgstr "8. 打架"
 msgctxt "text"
 msgid "9. Teasing or bothering others"
 msgstr "9. 戏弄或打扰他人"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Please type the number that describes the most challenging behaviour for you to manage with @fields.child_nickname. You can also type \"0\" if you do not want to answer."
+msgstr "请输入描述你在与 @fields.child_nickname 相处时最具挑战性的行为所对应的数字。如果不想回答，请输入“0”。"
+
+#. type=text
+msgctxt "text"
+msgid "Please type the number that describes the most challenging behaviour for you to manage with your child. You can also type \"0\" if you do not want to answer."
+msgstr "请输入描述你在与孩子相处时最具挑战性的行为所对应的数字。如果不想回答，请输入“0”。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Skip Question"
+msgstr "跳过问题"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Not Confident"
+msgstr "不自信"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Somewhat Confident"
+msgstr "比较自信"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Confident"
+msgstr "自信"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Very Confident"
+msgstr "非常自信"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Never"
+msgstr "从不"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Hardly Ever"
+msgstr "几乎不"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Sometimes"
+msgstr "有时"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Most of the Time"
+msgstr "大多数时间"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Every Day"
+msgstr "每天"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Rarely"
+msgstr "很少"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Often"
+msgstr "经常"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Almost Always"
+msgstr "几乎总是"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I did not have enough time."
+msgstr "我没有足够的时间。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child did not want to spend time with me."
+msgstr "我的孩子不想和我待在一起。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "All my child wanted to do was watch T.V. or play with a gadget."
+msgstr "我的孩子只想看电视或者玩电子产品。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child wanted to do activities that I could not do."
+msgstr "我的孩子想做一些我不能做的活动。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child chose a competitive activity. I won and then they got angry."
+msgstr "我的孩子选择了一项竞技活动。我赢了，他们就生气了。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "All my children wanted one-on-one time at the same time."
+msgstr "我所有的孩子都同时想要一对一时光。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Prefer not to say."
+msgstr "不想回答。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I don’t have time to interact with my child."
+msgstr "我没有时间与我的孩子互动。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child is not interested in spending time with me."
+msgstr "我的孩子对和我待在一起不感兴趣。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child keeps getting hurt or feeling sad from exploring or making new friends."
+msgstr "我的孩子在探索或结交新朋友时经常受伤或感到伤心。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child likes competitive activities but gets angry when they lose or need to share the win."
+msgstr "我的孩子喜欢竞争活动，但当他们失败或需要分享胜利时，他们会感到愤怒。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child expresses negative emotions all the time."
+msgstr "我的孩子一直表达消极的情绪。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I didn’t have any books to read with my child."
+msgstr "我没有任何书可以和孩子一起阅读。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child does not want to learn."
+msgstr "我的孩子不想学习。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I did not have the time to involve myself in my child's learning or education."
+msgstr "我没有时间参与孩子的学习或者教育。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I am feeling overwhelmed."
+msgstr "我感觉要崩溃了。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child could not agree on one specific rule or routine."
+msgstr "我的孩子不同意某个特定的规则或作息安排。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child felt it was unfair that they have to follow the rule while I don’t have to follow it."
+msgstr "我的孩子觉得，他们必须遵守规则，而我却不必遵守，这很不公平。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I felt uncomfortable because I think an adult should create the rule, not my child."
+msgstr "我感到不适应，因为我认为规则应该由成年人制定，而非我的孩子制定。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I can’t redirect my child to a positive behaviour when they are misbehaving."
+msgstr "当我的孩子行为失当时，我不能将他们的注意力转向正面行为。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I get too angry at my child and find it difficult to be positive with them when they are no longer misbehaving."
+msgstr "我太生孩子的气了，就算他们的问题行为已经停止了，我也不能立马对他们有好脸色。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child misbehaves all the time."
+msgstr "我的孩子总是表现不好。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I got very angry with my child and shouted at them."
+msgstr "我特别生气，并且对孩子大吼大叫了。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I forgot to give my child a chance to do what I asked before giving the consequence."
+msgstr "我忘了在给出“后果”之前，给孩子一个自己改正的机会。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child got very angry with me after I gave the consequence."
+msgstr "在我执行“后果”后，孩子很生我的气。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Ignoring my child’s whining or tantrums is not working. They are still happening a lot."
+msgstr "有意不去理睬孩子的哭闹或发脾气也没用，他们还是会这样。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child is always on a gadget, especially when I am working or doing house chores."
+msgstr "我的孩子总是在玩电子设备，尤其是我在工作或者做家务的时候。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child is refusing to eat vegetables and fruits, especially when they are out of the house."
+msgstr "我的孩子总是不肯吃蔬菜水果，尤其是在外面的时候。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child and I could not agree on which areas were unsafe."
+msgstr "我的孩子和我在哪些地方不安全的问题上存在分歧。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My child told me that school or the house of someone I trust is an unsafe place. 🚩 I was shocked and did not know what to do!"
+msgstr "我的孩子告诉我那所学校或我信任的人的房子不安全。我惊呆了，不知道该怎么办！🚩"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "It was hard to find safety resources because I don’t know my community so well."
+msgstr "找到安全资源很难，因为我并不很了解我的社区。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I am shy to talk to my young child about bodies and safe touch."
+msgstr "我羞于和我的儿童谈论身体和安全接触。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I did not want to tell my family how much I earn."
+msgstr "我不想告诉家人我的收入。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "When budgeting, we could not agree on what should fall under parenting needs and what should fall under parenting wants."
+msgstr "在做预算时，我们不能就什么应该属于孩子需要的，什么应该属于孩子想要的达成一致。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I did not understand what to do."
+msgstr "我不知道该怎么办。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My family did not want to budget with me."
+msgstr "我的家人不想和我一起做预算。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I did not have the time to talk about parenting budgeting with my family."
+msgstr "我没有时间和家人讨论育儿预算问题。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get more help"
+msgstr "获取更多帮助"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Continue my Progress Tomorrow"
+msgstr "明天继续当前进度"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "skip question"
+msgstr "跳过问题"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "0"
+msgstr "0"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "1"
+msgstr "1"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "2"
+msgstr "2"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "3"
+msgstr "3"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "4"
+msgstr "4"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "5"
+msgstr "5"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "6"
+msgstr "6"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "7"
+msgstr "7"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "not confident"
+msgstr "不自信"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "somewhat confident"
+msgstr "比较自信"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "confident"
+msgstr "自信"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "very confident"
+msgstr "非常自信"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "never"
+msgstr "从不"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "hardly ever"
+msgstr "几乎不"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "sometimes"
+msgstr "有时"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "most of the time"
+msgstr "大多数时间"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "every day"
+msgstr "每天"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "rarely"
+msgstr "很少"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "often"
+msgstr "经常"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "almost always"
+msgstr "几乎总是"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "8"
+msgstr "8"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "9"
+msgstr "9"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "10"
+msgstr "10"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i did not have enough time."
+msgstr "我没有足够的时间。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "my child did not want to spend time with me."
+msgstr "我的孩子不想和我待在一起。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "all my child wanted to do was watch t.v. or play with a gadget."
+msgstr "我的孩子只想看电视或者玩电子产品。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "my child wanted to do activities that i could not do."
+msgstr "我的孩子想做一些我不能做的活动。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "my child chose a competitive activity. i won and then they got angry."
+msgstr "我的孩子选择了一项竞技活动。我赢了，他们就生气了。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "all my children wanted one-on-one time at the same time."
+msgstr "我所有的孩子都同时想要一对一时光。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "prefer not to say."
+msgstr "不想回答。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i don’t have time to interact with my child."
+msgstr "我没有时间与我的孩子互动。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "my child is not interested in spending time with me."
+msgstr "我的孩子对和我待在一起不感兴趣。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "my child keeps getting hurt or feeling sad from exploring or making new friends."
+msgstr "我的孩子在探索或结交新朋友时经常受伤或感到伤心。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "my child likes competitive activities but gets angry when they lose or need to share the win."
+msgstr "我的孩子喜欢竞争活动，但当他们失败或需要分享胜利时，他们会感到愤怒。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "my child expresses negative emotions all the time."
+msgstr "我的孩子一直表达消极的情绪。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i didn’t have any books to read with my child."
+msgstr "我没有任何书可以和孩子一起阅读。"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "my child does not want to learn."
+msgstr "我的孩子不想学习。"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
