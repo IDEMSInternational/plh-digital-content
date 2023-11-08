@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-08 04:55\n"
+"PO-Revision-Date: 2023-11-08 10:54\n"
 
 #. type=text
 msgctxt "text"
@@ -81,12 +81,12 @@ msgstr "下面这些漫画展示了家庭成员如何平等相待、共同决策
 #. type=text
 msgctxt "text"
 msgid "{F1_FATHER}: “My dear, you look worried. What’s wrong?”"
-msgstr "{F1_FATHER}：“老婆，你看起来有烦心事。怎么了？”"
+msgstr " {F1_FATHER} ：“老婆，你看起来有烦心事。怎么了？”"
 
 #. type=text
 msgctxt "text"
 msgid "{F1_MOTHER}: “The stove has not been working very well recently. I think it might be broken.”"
-msgstr "{F1_MOTHER}: “炉子最近不太好用，可能是坏了。”"
+msgstr " {F1_MOTHER} : “炉子最近不太好用，可能是坏了。”"
 
 #. type=text
 msgctxt "text"
@@ -871,7 +871,7 @@ msgstr "✅✅⬜️"
 #. type=text
 msgctxt "text"
 msgid "You’ve completed 66% of this skill! Press NEXT to continue."
-msgstr "你已经完成了此技能的66％！点击“下一步”继续学习。"
+msgstr "你已经完成了66％！点击“下一步”继续学习。"
 
 #. type=text
 msgctxt "text"
@@ -881,18 +881,20 @@ msgstr "家庭练习！你今天是否能找出时间来和孩子一起画画或
 #. type=text
 msgctxt "text"
 msgid "Excellent! Drawing and writing with your child is a great way to help them learn! 📝"
-msgstr "太棒了！和孩子一起画画、写字是帮助他们学习的好方法哦！📝"
+msgstr "太棒了！和孩子一起画画、写字是帮助他们学习的好方法！📝"
 
 #. type=text
 msgctxt "text"
 msgid "That’s okay. It’s not always possible to do this with your child. Try to find a bit of time to write with your child every day - it will help them learn! 📝"
-msgstr "没关系，有时候你可能确实没法陪孩子写作业，但是最好还是能够每天抽出一些时间陪孩子一起写作业，这对于他们的学习来说会很有帮助！📝"
+msgstr "没关系。家长并非一直有时间能陪孩子读书。不过，你可以试着每天找一点时间，这将有助于提升孩子的学习！📝"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "Well done! 🎉 You have learnt the second part of the skill to help your child learn reading skills! You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Prepare my Child for Success in School. ✨"
-msgstr "太棒了！🎉你已经掌握了提高孩子学习阅读能力的第二部分！至此，你已经完成了 @fields.c_n_mod 项中的 @(fields.c_n_mod_compl +1) 项，继续朝着“为孩子在学校获得成功”的目标迈进吧。✨"
+msgstr ""
+"太棒了！🎉你已经掌握了提高孩子学习阅读能力的第二部分！至此，你也完成了  @fields.c_n_mod  项中的 \n"
+" @(fields.c_n_mod_compl +1)  项，继续朝着“提升儿童学习能力”的目标迈进吧。✨"
 
 #. type=text
 msgctxt "text"
@@ -1151,6 +1153,206 @@ msgstr "一旦孩子已经掌握了数字和分类，他们就可以开始学习
 msgctxt "text"
 msgid "Remember to go slowly and have fun with things that your child can nearly do! 😃"
 msgstr "记得要慢慢来，带着孩子玩一些他们差不多能做到的事情！😃"
+
+#. type=text
+msgctxt "text"
+msgid "▶️ Press play to learn 4️⃣ four ways you can encourage your child to practise his number skills."
+msgstr "▶️ 按下播放来学习四种4️⃣ 可以促进孩子练习数字技能的方法吧。"
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ Here are four ways for you to encourage your child to practise his number skills:"
+msgstr "4️⃣ 你可以通过以下四种方式来鼓励孩子练习数字技能："
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ SORTING AND ORGANISING"
+msgstr "1️⃣ 分类和排序"
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Ask your child to help sort things into groups, such as putting all the leaves together when cooking. "
+msgstr "🌱 请你的孩子帮忙将东西分类，比如，在做饭的时候让他们把所有的绿叶蔬菜放在一起。 "
+
+#. type=text
+msgctxt "text"
+msgid "😃 Ask your child to find 5 of something, and then to order them from smallest to biggest. You can use something like sticks."
+msgstr "😃 让孩子找 5 个棍子之类的小东西，然后把它们按从小到大的顺序排列。"
+
+#. type=text
+msgctxt "text"
+msgid "⬆️ Then order them a different way, like from lightest to darkest! "
+msgstr "⬆️然后再用另一种方式进行排序，比如颜色从浅到深！ "
+
+#. type=text
+msgctxt "text"
+msgid "🍅 Say “I have two potatoes. When I add two more, how many do I have?” Help your child get the answer! Keep practising and, after a while, make it more difficult!"
+msgstr "🍅 也可以跟他们说：“我有两个土豆。如果我再拿两个，那么我有多少个土豆？” 可以给孩子帮帮忙！多练习几次，可以逐渐去加大难度！"
+
+#. type=text
+msgctxt "text"
+msgid "⚽ Try the activity with different things like balls or shoes."
+msgstr "⚽ 尝试用不同的东西来玩，比如你也可以用球或者鞋子。"
+
+#. type=text
+msgctxt "text"
+msgid "⬇️ Repeat the activity, but take things away: “I have five potatoes. When I take two away, how many do I have?”"
+msgstr "⬇️ 重复这个游戏，但是试着拿走一些东西：“我有五个土豆，如果我拿走两个，那我还剩几个？”"
+
+#. type=text
+msgctxt "text"
+msgid "🔄 Practise anywhere and everywhere! You can also do the game in your imaginations."
+msgstr "🔄 你可以随时随地进行练习！甚至可以无实物表演。"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ WAYS TO MAKE A NUMBER"
+msgstr "3️⃣ 生活中的加减法"
+
+#. type=text
+msgctxt "text"
+msgid "⏰ Once your child is old enough and has learned some number skills, they can start learning harder skills."
+msgstr "⏰ 如果你的孩子足够大，并已经学会了一些数字技能，他们就可以开始学习更难的技能啦。"
+
+#. type=text
+msgctxt "text"
+msgid "5️⃣ If you think they are ready, ask them to find 5 stones. Show them that you can make 5 stones with one group of 1 stone and another of 4 stones"
+msgstr "5️⃣ 如果你觉得他们可以的话，试着让他们找五块石头。然后向他们展示，一堆一块和一堆四块的石头合在一起，就有五块石头。"
+
+#. type=text
+msgctxt "text"
+msgid "then show them with one group of 2 and one group of 3."
+msgstr "然后再把石头分成一堆2块的和一堆3块的。"
+
+#. type=text
+msgctxt "text"
+msgid "🔟 When they are ready for more difficult challenges, do the same activity with more stones, up to 10."
+msgstr "🔟 当他们掌握得很不错的时候，开始加入更多的石头来玩这个小游戏，一直加到10 块。"
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ ENCOURAGE AND HAVE FUN"
+msgstr "4️⃣鼓励并享受其中"
+
+#. type=text
+msgctxt "text"
+msgid "💚 Remember, go slowly and help your child build confidence by doing things that they are ready for and know how to do. "
+msgstr "💚一定要记得慢慢来。带领孩子做一些他们能力范围内，能明白该怎么去做的事情，可以增强他们的自信心。 "
+
+#. type=text
+msgctxt "text"
+msgid "😃 Always encourage their effort and praise them. Wrong answers are okay, too!"
+msgstr "😃 始终鼓励他们的努力并表扬他们。就算给出了错误的答案也没关系！"
+
+#. type=text
+msgctxt "text"
+msgid "🎉 Try to make learning fun and enjoyable to your child. It will make them more likely to keep trying."
+msgstr "🎉 试着让孩子在一种轻松有趣的状态下学习。这样他们会更愿意继续努力下去。"
+
+#. type=text
+msgctxt "text"
+msgid "Great! 💙 These activities will help your child learn!"
+msgstr "太棒了！💙 这些活动将帮助你的孩子学到东西！"
+
+#. type=text
+msgctxt "text"
+msgid "📖This skill is about helping your child learn skills to prepare them for reading when they are older. ⭐"
+msgstr "📖这项技能是帮助你的孩子提高阅读能力，为他们日后自己阅读做好准备的。⭐"
+
+#. type=text
+msgctxt "text"
+msgid "Reading with your child is the best way to help your child learn to read. 🔑"
+msgstr "与孩子一起阅读是帮助孩子提高阅读能力的最好方法。🔑"
+
+#. type=text
+msgctxt "text"
+msgid "It is one of the best ways to help them learn to read themselves and develop well. 🎉"
+msgstr "这是帮助他们学会自主阅读并且全方位发展的最佳方式之一。🎉"
+
+#. type=text
+msgctxt "text"
+msgid "When they’re little, they learn new words, and it helps with attention and language! 💡"
+msgstr "当他们还小的时候，新单词的学习有助于提高专注度，发展语言能力！💡"
+
+#. type=text
+msgctxt "text"
+msgid "Let’s watch {F1_FATHER} read with his daughter, {F1_DAUGHTER_2}. Notice how he asks the child lots of questions and describes things."
+msgstr "让我们看看{F1_FATHER} 是怎么和他的女儿{F1_DAUGHTER_2} 一起阅读的吧。注意看他是怎么样向孩子大量提问并描述的。"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_2}: A balloon!"
+msgstr "{F1_DAUGHTER_2}：一个气球！"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_2}: Red!"
+msgstr "{F1_DAUGHTER_2}：红色哒！"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_FATHER}: Yes, it’s a red balloon! Why do you think the tiger is holding the red balloon? "
+msgstr "{F1_FATHER}：对啦，这是一个红气球！你觉得老虎为什么要拿着这个红气球呀？ "
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_2}: Because it is his birthday!"
+msgstr "{F1_DAUGHTER_2}：因为今天他过生日！"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_FATHER}: Do you think it’s his birthday? Yes! The tiger is holding the red balloon because it’s his birthday!"
+msgstr "{F1_FATHER}：你觉得今天是他的生日吗？有道理！老虎拿着红气球，因为今天是它的生日！"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_FATHER}: Do you remember when we attended your cousin’s birthday? What colour balloons did he have?"
+msgstr "{F1_FATHER}：你记得上次我们去你表弟的生日聚会吗？他当时准备了什么颜色的气球呀？"
+
+#. type=text
+msgctxt "text"
+msgid "{F1_DAUGHTER_2}: Blue, pink, and yellow!"
+msgstr "{F1_DAUGHTER_2}：蓝色、粉色和黄色！"
+
+#. type=text
+msgctxt "text"
+msgid "▶️Press play to learn the 5️⃣ five ways to prepare your child for learning how to read when they are older. "
+msgstr "▶️点击播放键学习5️⃣五种有助于提前培养孩子阅读能力的小方法。 "
+
+#. type=text
+msgctxt "text"
+msgid "5️⃣ Here are five ways to prepare your child for learning how to read when they are older. The activities all focus on reading books together 💙"
+msgstr "5️⃣ 这里有五种围绕阅读展开的小方法，可以为孩子日后阅读能力的提升打下基础。💙"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ SHARE BOOKS "
+msgstr "1️⃣ 分享书籍 "
+
+#. type=text
+msgctxt "text"
+msgid "💡 Books with no words help with imagination, ideas, and learning new words. Together, name and describe what is in the pictures.Try to communicate in a way that your child can understand. "
+msgstr "💡 里面没字的书有助于孩子想象力的发挥，可以提高他们的创意，也有助于他们学习一些新的词汇。你可以和孩子一起给图片里的东西命名，并且用自己的话去描述这些东西。过程中记得要用孩子能理解的方式来交流。 "
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣MAKE ROUTINES "
+msgstr "2️⃣养成习惯 "
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ ASK QUESTIONS "
+msgstr "3️⃣ 学会提问 "
+
+#. type=text
+msgctxt "text"
+msgid "👀 From the book cover, ask your child what they think the story might be about. "
+msgstr "👀 从书的封面开始，就问问孩子，他们认为这个故事可能会讲些什么。 "
+
+#. type=text
+msgctxt "text"
+msgid "✨ When your child doesn’t know the name of the object you pointed at, point at it and say what it is. This will help your child learn new words."
+msgstr "✨ 如果你的孩子不知道你指的东西叫什么时，你可以指着那个东西跟他们说这是什么。这有助于孩子学习新的词汇。"
 
 #. type=text
 msgctxt "text"
