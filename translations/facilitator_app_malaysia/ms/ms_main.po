@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-11-07 02:13\n"
+"PO-Revision-Date: 2023-11-07 16:40\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -905,6 +905,18 @@ msgstr ""
 msgctxt "data_list"
 msgid "A parent is personally messaging me or calling me with lots of questions on their parenting habits or child’s misbehaviours."
 msgstr "Salah seorang ibu bapa ada menghantar pesanan dan menghubungi saya secara peribadi untuk bertanyakan beberapa soalan tentang cara mendidik anak-anak atau salah laku anak-anak."
+
+#. type=data_list
+#. The string @global.supervisor_name. should not be translated.
+msgctxt "data_list"
+msgid ""
+"First, notify @global.supervisor_name.\n"
+"\n"
+"Then send the message below."
+msgstr ""
+"Pertama sekali, maklumkan kepada @global.supervisor_name.\n"
+"\n"
+"Kemudian, hantar mesej berikut."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1868,6 +1880,26 @@ msgctxt "data_list"
 msgid "Closing"
 msgstr "Penutup"
 
+#. type=data_list
+msgctxt "data_list"
+msgid "Weekly Sessions"
+msgstr "Sesi Mingguan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Facilitator Guide"
+msgstr "Panduan Fasilitator"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Safeguarding"
+msgstr "Perlindungan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Frequently Asked Questions"
+msgstr "Soalan Lazim"
+
 #. type=global
 msgctxt "global"
 msgid "Share"
@@ -1920,6 +1952,16 @@ msgstr "Pilih ibu bapa bersama daripada ibu bapa sedia ada"
 
 #. type=template
 msgctxt "template"
+msgid "Developer mode"
+msgstr "Mod pembangun"
+
+#. type=template
+msgctxt "template"
+msgid "Exit developer mode"
+msgstr "Keluar mod pembangun"
+
+#. type=template
+msgctxt "template"
 msgid "Open feedback"
 msgstr "Buka maklum balas"
 
@@ -1937,6 +1979,12 @@ msgstr "Templat"
 msgctxt "template"
 msgid "Reset app"
 msgstr "Menetapkan semula aplikasi"
+
+#. type=template
+#. The string @global.app_name should not be translated.
+msgctxt "template"
+msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
+msgstr "@global.app_name telah memuat turun satu kemas kini. Untuk menyelesaikan pemasangan, sila mulakan semula aplikasi."
 
 #. type=template
 msgctxt "template"
@@ -1989,6 +2037,27 @@ msgstr "Ya"
 msgctxt "template"
 msgid "Submit"
 msgstr "Hantar"
+
+#. type=template
+msgctxt "template"
+msgid "Enter developer mode"
+msgstr "Memasuki mod pembangun"
+
+#. type=template
+#. The string @local.submit should not be translated.
+msgctxt "template"
+msgid "To launch the app in developer mode, enter your developer code in the box below and press @local.submit."
+msgstr "Masukkan kod pembangun dalam kotak di bawah dan tekan @local.submit untuk melancarkan aplikasi dalam mod pembangun."
+
+#. type=template
+msgctxt "template"
+msgid "You have successfully entered developer mode."
+msgstr "Anda telah berjaya memasuki mod pembangun."
+
+#. type=template
+msgctxt "template"
+msgid "You have entered an incorrect code."
+msgstr "Kod yang anda masukkan tidak betul."
 
 #. type=template
 msgctxt "template"
