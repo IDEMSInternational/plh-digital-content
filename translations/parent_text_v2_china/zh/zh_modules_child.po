@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-11 13:25\n"
+"PO-Revision-Date: 2023-11-11 19:24\n"
 
 #. type=text
 msgctxt "text"
@@ -3370,6 +3370,16 @@ msgstr "判断题：我可以选择给我的孩子任何后果。"
 
 #. type=text
 msgctxt "text"
+msgid "It’s time to clean up from dinner and {F1_DAUGHTER_2} would rather play. Watch how her Dad, {F1_FATHER}, responds:"
+msgstr "晚饭吃完了，该收拾餐桌了，但 {F1_DAUGHTER_2} 想去玩。看看她爸爸是怎么做的， {F1_FATHER} ，回应道："
+
+#. type=text
+msgctxt "text"
+msgid "{F1_FATHER}: You are playing so nice and quiet, {F1_DAUGHTER_2}. In 5 minutes, it will be time to clean up your toys."
+msgstr "{F1_FATHER} : 你玩得好开心呀，还没咋弄出大动静， {F1_DAUGHTER_2} 。再过5分钟，你就该收拾你的玩具了。"
+
+#. type=text
+msgctxt "text"
 msgid "{F1_FATHER}: It’s time to put away your toys."
 msgstr "{F1_FATHER} ：你该把你的玩具收起来了。"
 
@@ -3400,13 +3410,183 @@ msgstr "{F1_FATHER} ：真乖，谢谢你洗了手，  {F1_DAUGHTER_2} 。"
 
 #. type=text
 msgctxt "text"
+msgid "▶️ Press play to learn the 4️⃣ four steps to using consequences with your child."
+msgstr "▶️ 按下游戏键学习 4️⃣ 用“后果法”教育孩子的四个步骤。"
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ Here are four simple steps for using consequences when your child behaves badly:"
+msgstr "4️⃣ 当你的孩子行为不当时，以下是使用“后果法”的四个简单步骤："
+
+#. type=text
+msgctxt "text"
+msgid "❗ Shouting at our children only makes things worse. It also teaches them that it is okay to treat others like this when they are upset."
+msgstr "❗ 对孩子大声喊叫只会让事情变得更糟。这还会教给他们，当他们生气时，也可以这样对待他人。"
+
+#. type=text
+msgctxt "text"
+msgid "🌷 Take some deep breaths or walk away if you need to."
+msgstr "🌷 必要时，深呼吸或离开一会儿。"
+
+#. type=text
+msgctxt "text"
+msgid "💚 Then, respond in a calm, clear way."
+msgstr "💚 然后，冷静、清楚地回应。"
+
+#. type=text
+msgctxt "text"
 msgid "2️⃣ BE FAIR"
 msgstr "2️⃣ 保持公平"
 
 #. type=text
 msgctxt "text"
+msgid "💡 Before giving a consequence, give your child the option to behave and time to do as you asked."
+msgstr "💡 在给出后果之前，给孩子选择的机会，让他们有时间按照你的要求去做。"
+
+#. type=text
+msgctxt "text"
+msgid "🔄 Give a consequence connected to the behaviour. For example, if they do not clean up their toys, they cannot play with them the next day."
+msgstr "🔄 给出与行为相关的后果。例如，如果他们不收拾玩具，第二天就不能玩玩具。"
+
+#. type=text
+msgctxt "text"
+msgid "🔑 Make sure you can follow through with the consequence. For example, tell them they can’t play with their toys **today**, rather than for the whole week."
+msgstr "🔑 保证你能落实后果。例如，告诉他们“今天”不能玩玩具，而不是整个星期。"
+
+#. type=text
+msgctxt "text"
+msgid "👀 Notice if your child is experiencing a natural consequence for their action already. If so, you might not need to give them one. For example, if your child breaks a toy, they don't have a toy to play with. This is already a natural consequence, and you might not need to give them an additional consequence."
+msgstr "👀 注意你的孩子是否已经经历了其行为的自然后果。如果是这样，你就不需要给他们施加后果了。例如，如果你的孩子弄坏了玩具，他们就没有玩具玩了。这已经是一个自然后果了，你不需要再给他们额外后果。"
+
+#. type=text
+msgctxt "text"
+msgid "🏆 Praise your child every time they do actions you want to see more of. This makes them more likely to repeat this behaviour!"
+msgstr "🏆 每当孩子做了你想看到的事时，请表扬他们。这让他们更有可能重复这种行为！"
+
+#. type=text
+msgctxt "text"
+msgid "🎉 Using consequences can be hard at first, but will get easier with practice!"
+msgstr "🎉 一开始使用“后果法”可能很难，但随着练习会变得容易！"
+
+#. type=text
+msgctxt "text"
+msgid "✨ Consequences help our children learn that their actions affect others - and to think before they act."
+msgstr "✨ “后果法”帮助孩子认识到他们的行为会影响他人，要在行动之前三思。"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "Amazing work! 🎉 You have learnt how to use fair consequences! You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Manage my Child’s Behaviour."
+msgstr "真棒！ 🎉 你已经学会了如何使用公平的“后果法”！你现在已经完成了你的目标管理孩子的行为，模块 @fields.c_n_mod skills  中的 @(fields.c_n_mod_compl +1)  。"
+
+#. type=text
+msgctxt "text"
+msgid "💡 It is easier for your child to follow the rule if the consequence is connected to the rule. "
+msgstr "💡 如果后果与规则相关联，孩子会更容易遵守规则。 "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "📺 For example, if @fields.child_nickname doesn’t want to stop watching T.V., @fields.child_nickname won’t get to watch T.V. tomorrow."
+msgstr "📺 例如，如果 @fields.child_nickname 看电视停不下来， 那 @fields.child_nickname 明天就不能看电视了。"
+
+#. type=text
+msgctxt "text"
+msgid "📺 For example, if your child doesn’t want to stop watching T.V., your child won’t get to watch T.V. tomorrow."
+msgstr "📺 例如，如果你的孩子看电视停不下来，那么你的孩子明天就不能看电视了。"
+
+#. type=text
+msgctxt "text"
+msgid "⭐ That’s correct!"
+msgstr "⭐ 正确！"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "📺 For example, if @fields.child_nickname doesn’t want to stop watchingT.V., @fields.child_nickname won’t get to watch T.V. tomorrow."
+msgstr "📺 例如，如果 @fields.child_nickname 看电视停不下来， 那 @fields.child_nickname 明天就不能看电视了。"
+
+#. type=text
+msgctxt "text"
+msgid "📺 For example, if your child doesn’t want to stop watchingT.V., your child won’t get to watch T.V. tomorrow."
+msgstr "📺 例如，如果你的孩子看电视停不下来，那么你的孩子明天就不能看电视了。"
+
+#. type=text
+msgctxt "text"
+msgid "➡️ It is important to follow through with consequences for the rules you have set every time they do not follow them."
+msgstr "➡️ 每次他们不遵守你制定的规则时，你都要坚决执行相应的后果，这一点非常重要。"
+
+#. type=text
+msgctxt "text"
+msgid "⭐ This helps your child to know what to expect, and makes it more likely that they will follow the rule."
+msgstr "⭐ 这有助于让你的孩子知道会发生什么，他们才更有可能遵守规则。"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🎈 Talk about consequences for breaking household rules when you set them so that @fields.child_nickname knows them and stick to them."
+msgstr "🎈你制定家规时，要讲明违反家规的后果，以便 @fields.child_nickname 了解并遵守家规。"
+
+#. type=text
+msgctxt "text"
+msgid "🎈 Talk about consequences for breaking household rules when you set them so that your child knows them and stick to them."
+msgstr "🎈你制定家规时，要讲明违反家规的后果，以便你的孩子了解并遵守家规。"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Can you praise @fields.child_nickname for their positive behaviour today?"
+msgstr "你能表扬一下 @fields.child_nickname 今天的积极行为吗？"
+
+#. type=text
+msgctxt "text"
+msgid "Can you praise your child for their positive behaviour today?"
+msgstr "你能表扬一下你的孩子今天的积极行为吗？"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ KNOW IT"
+msgstr "1️⃣ 了解它"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ SOLVE IT"
+msgstr "2️⃣ 解决它"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_SON_7}: Okay, Mummy."
+msgstr "{F3_SON_7} ：好的，妈妈。"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ TRY IT"
+msgstr "3️⃣ 尝试它"
+
+#. type=text
+msgctxt "text"
 msgid "Great!"
 msgstr "很好！"
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ Then, help your child work on the problem with these four steps:"
+msgstr "4️⃣ 然后，通过以下四个步骤帮助你的孩子解决问题："
+
+#. type=text
+msgctxt "text"
+msgid "💡 Put the problem into words."
+msgstr "💡 描述问题。"
+
+#. type=text
+msgctxt "text"
+msgid "✅ Ask yourself, “Did it work?” "
+msgstr "✅ 问问自己，\"这有效吗？ "
+
+#. type=text
+msgctxt "text"
+msgid "😃 If yes, great!"
+msgstr "😃 如果有，那太棒了！"
 
 #. type=text
 msgctxt "text"
