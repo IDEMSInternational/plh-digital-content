@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-27 09:21\n"
+"PO-Revision-Date: 2023-12-04 10:17\n"
 
 #. type=text
 msgctxt "text"
@@ -1209,12 +1209,6 @@ msgstr "请选择你管理孩子行为时，面临的最大问题。如果不想
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Skip Question"
-msgstr "跳过问题"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Not Confident"
 msgstr "不自信"
 
@@ -1518,11 +1512,11 @@ msgctxt "quick_replies"
 msgid "Continue my Progress Tomorrow"
 msgstr "明天再继续填写进展"
 
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "skip question"
-msgstr "跳过问题"
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I felt uncomfortable doing tasks I don’t normally do"
+msgstr "做一些平时不做的事情让我感到不舒服。"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1895,4 +1889,10 @@ msgstr "获取更多帮助"
 msgctxt "arguments"
 msgid "continue my progress tomorrow"
 msgstr "明天再继续填写进展"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i felt uncomfortable doing tasks i don’t normally do"
+msgstr "做一些平时不做的事情让我感到不舒服"
 
