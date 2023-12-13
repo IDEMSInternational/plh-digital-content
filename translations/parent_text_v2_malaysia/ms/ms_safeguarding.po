@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-12-11 20:28\n"
+"PO-Revision-Date: 2023-12-13 17:49\n"
 
 #. type=text
 msgctxt "text"
@@ -235,6 +235,16 @@ msgctxt "text"
 msgid "Your research ID is @fields.research_id"
 msgstr "ID kajian anda ialah @fields.research_id"
 
+#. type=text
+msgctxt "text"
+msgid "Welcome to ParentText! How did you enrol in the programme?"
+msgstr "Selamat datang ke ParentText! Bagaimana anda boleh mendaftar dalam program ini?"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText is currently only available to parents of preschoolers enrolled in KEMAS or local, community preschools. We hope to make ParentText available to every Malaysian parent before 2025."
+msgstr "ParentText hanya tersedia untuk ibu bapa yang berdaftar di KEMAS atau prasekolah komuniti tempatan buat masa ini. Kami berharap agar ParentText dapat disediakan buat seluruh warga Malaysia menjelang 2025."
+
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
@@ -330,6 +340,30 @@ msgstr "Keluar"
 msgctxt "quick_replies"
 msgid "BACK"
 msgstr "KEMBALI"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Through a KEMAS preschool"
+msgstr "Melalui prasekolah KEMAS"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Through an NGO"
+msgstr "Melalui Pertubuhan Bukan Kerajaan (NGO)"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Social Media"
+msgstr "Media Sosial"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "A Friend"
+msgstr "Rakan"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -552,6 +586,18 @@ msgstr "tidak tak bukan t"
 msgctxt "arguments"
 msgid "back"
 msgstr "kembali"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "kemas preschool"
+msgstr "prasekolah kemas"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "an ngo"
+msgstr "pertubuhan bukan kerajaan (ngo)"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
