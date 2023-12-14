@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-12-06 13:42\n"
+"PO-Revision-Date: 2023-12-14 13:10\n"
 
 #. type=text
 msgctxt "text"
@@ -26,7 +26,7 @@ msgstr "抱歉，我不明白你的意思。"
 #. type=text
 msgctxt "text"
 msgid "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can opt to receive the same content with a smaller audio file or as text. How would you like to receive ParentText?"
-msgstr "“家长信息”最方便的使用方式是同时接收视频、图像和文本。但是，你的流量和带宽可能不一定足以接收视频。为了节省流量，你也可以选择只接收音频和文本，或只接收文本。无论你选择哪种方式，学习的内容都是一样的。你希望以何种形式接收“家长信息”？"
+msgstr "“科育时光”最好的使用方式是同时接收视频、图像和文本。但是，你的流量和带宽可能不一定足以接收视频。为了节省流量，你也可以选择只接收文本。无论你选择哪种方式，学习的内容都是一样的。你希望以何种形式接收“科育时光”的信息呢？"
 
 #. type=text
 msgctxt "text"
@@ -77,7 +77,7 @@ msgstr "这门课程广受家长好评，其有效性也经受住了科学检验
 #. type=text
 msgctxt "text"
 msgid "✅Participating in ParentText is optional. "
-msgstr "✅你可以自由选择是否参与“家长短信”。 "
+msgstr "✅你可以自由选择是否参与“科育时光”。 "
 
 #. type=text
 msgctxt "text"
@@ -143,17 +143,17 @@ msgstr "希望很快能再次见到你，祝你度过快乐祥和的一天！"
 #. type=text
 msgctxt "text"
 msgid "Sorry, ParentText is only for people over the age of 18. Do you confirm that you are under the age of 18?"
-msgstr "抱歉，“家长信息” 仅适用于 18 岁以上的家长。你确定你未满 18 岁吗？"
+msgstr "抱歉，“科育时光” 仅适用于 18 岁以上的家长。你确定你未满 18 岁吗？"
 
 #. type=text
 msgctxt "text"
 msgid "If you want to experience ParentText, you can always share it with your parents or caregivers."
-msgstr "如果你想体验“家长信息”，你可以随时与你的家长分享。"
+msgstr "如果你想体验“科育时光”，你可以随时发给你的家长。"
 
 #. type=text
 msgctxt "text"
 msgid "Here is a video that shows how to use ParentText."
-msgstr "这个视频将为你演示如何使用“家长信息”。"
+msgstr "这个视频将为你演示如何使用“科育时光”。"
 
 #. type=text
 msgctxt "text"
@@ -190,13 +190,13 @@ msgstr "请重新输入。请按以下方式输入孩子的出生日期：年/�
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-9. If your child is aged 2-9, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
-msgstr "根据你输入的时间， @fields.child_nickname 今年 @(round_down(datetime_diff(results.date,now(),\"M\")/12)) 岁了。“家长信信”仅适用于2-9岁儿童。如果你孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果你的孩子出生于 2015年5月19日，请输入2015/5/19。"
+msgstr "根据你输入的时间， @fields.child_nickname 今年 @(round_down(datetime_diff(results.date,now(),\"M\")/12)) 岁了。“科育时光”仅适用于2-9岁儿童。如果你孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果你的孩子出生于 2015年5月19日，请输入2015/5/19。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-9. If your child is aged 2-9, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
-msgstr "根据你输入的时间，你的孩子今年 @(round_down(datetime_diff(results.date,now(),\"M\")/12)) 岁了。“家长信信”仅适用于2-9岁儿童。如果你孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果你的孩子出生于 2015年5月19日，请输入2015/5/19。"
+msgstr "根据你输入的时间，你的孩子今年 @(round_down(datetime_diff(results.date,now(),\"M\")/12)) 岁了。“科育时光”仅适用于2-9岁儿童。如果你孩子的年龄在 2-9 岁之间，请按以下方式写下孩子的出生日期：年/月/日。例如，如果你的孩子出生于 2015年5月19日，请输入2015/5/19。"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -213,12 +213,12 @@ msgstr "你的孩子今年 @(round_down(datetime_diff(results.date,now(),\"M\")/
 #. type=text
 msgctxt "text"
 msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
-msgstr "“家长信息”将帮助你养育你的每个孩子，但在这次学习中，我们一次先只关注一个孩子。"
+msgstr "“科育时光”将帮助你为每个孩子提供良好的家庭教育，但在这次学习中，我们一次先只关注一个孩子。"
 
 #. type=text
 msgctxt "text"
 msgid "Welcome to ParentText, your partner in parenting. Thank you for being here! Let's get started:"
-msgstr "欢迎使用“家长信息”，你的育儿好帮手。感谢你的参与！让我们开始吧："
+msgstr "欢迎使用“科育时光”，你的育儿好帮手。感谢你的参与！让我们开始吧："
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
