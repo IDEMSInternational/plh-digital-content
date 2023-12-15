@@ -11,7 +11,13 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-12-14 14:04\n"
+"PO-Revision-Date: 2023-12-15 05:28\n"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "I've got another lesson ready for you! Are you ready to continue with your goal, @results.name?"
+msgstr "Saya ada menyediakan pelajaran lain untuk anda! Adakah anda bersedia untuk meneruskan matlamat anda, @results.name?"
 
 #. type=text
 msgctxt "text"
@@ -22,6 +28,11 @@ msgstr "Tekan satu nombor pada pad kekunci anda:"
 msgctxt "text"
 msgid "1. Yes"
 msgstr "1. Ya"
+
+#. type=text
+msgctxt "text"
+msgid "2. No, remind me tomorrow"
+msgstr "2. Tidak, ingatkan saya esok"
 
 #. type=text
 msgctxt "text"
