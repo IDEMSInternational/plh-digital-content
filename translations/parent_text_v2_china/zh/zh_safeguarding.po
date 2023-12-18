@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-12-14 13:10\n"
+"PO-Revision-Date: 2023-12-18 11:20\n"
 
 #. type=text
 msgctxt "text"
@@ -70,16 +70,6 @@ msgstr " {violence referrals} "
 
 #. type=text
 msgctxt "text"
-msgid "{natural_disasters referrals}"
-msgstr " {natural_disasters referrals} "
-
-#. type=text
-msgctxt "text"
-msgid "{drugs referrals}"
-msgstr " {drugs referrals} "
-
-#. type=text
-msgctxt "text"
 msgid "Are you currently facing an emergency?"
 msgstr "你是否面临紧急情况？"
 
@@ -100,23 +90,8 @@ msgstr "你是否遇到了不安全的情况？"
 
 #. type=text
 msgctxt "text"
-msgid "Do you have an emergency?"
-msgstr "您是否遇到紧急情况？"
-
-#. type=text
-msgctxt "text"
-msgid "Do you need some urgent help?"
-msgstr "你是否需要紧急帮助？"
-
-#. type=text
-msgctxt "text"
 msgid "It looks like you are facing an emergency. Can you please tell us what kind of assistance you need?"
 msgstr "你似乎遇到了紧急情况。能告诉我你需要什么样的帮助吗?"
-
-#. type=text
-msgctxt "text"
-msgid "{family referrals}"
-msgstr " {family referrals} "
 
 #. type=text
 msgctxt "text"
@@ -230,11 +205,6 @@ msgid "Thank you for taking a pause with me today. "
 msgstr "谢谢你与我们一起试着放慢节奏。"
 
 #. type=text
-msgctxt "text"
-msgid "Something went wrong when creating your research ID, please get in touch with your facilitator."
-msgstr "无法创建你的ID，请与工作人员联系。"
-
-#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Your research ID is @fields.research_id"
@@ -255,24 +225,6 @@ msgstr "否"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Police"
-msgstr "警力"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Medical services"
-msgstr "医疗服务"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Fire department"
-msgstr "消防部门"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Mental health services"
 msgstr "精神卫生（心理健康）服务"
 
@@ -287,24 +239,6 @@ msgstr "预防暴力"
 msgctxt "quick_replies"
 msgid "Suicide prevention hotline"
 msgstr "预防自杀"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Family counselling services"
-msgstr "家庭咨询服务"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Substance abuse"
-msgstr "物质滥用（酗酒、毒品等）"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Natural disasters"
-msgstr "自然灾害"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -359,18 +293,6 @@ msgstr "健康"
 msgctxt "arguments"
 msgid "violence"
 msgstr "暴力"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "natural_disasters"
-msgstr "自然灾害"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "drugs"
-msgstr "药物"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -447,24 +369,6 @@ msgstr "否"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "police"
-msgstr "警察"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "medical services"
-msgstr "医疗服务"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "fire department"
-msgstr "消防部门"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "mental health services"
 msgstr "精神卫生（心理健康）服务"
 
@@ -479,24 +383,6 @@ msgstr "预防暴力"
 msgctxt "arguments"
 msgid "suicide prevention hotline"
 msgstr "预防自杀"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "family counselling services"
-msgstr "家庭咨询服务"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "substance abuse"
-msgstr "物质滥用（酗酒、毒品等）"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "natural disasters"
-msgstr "自然灾害"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
