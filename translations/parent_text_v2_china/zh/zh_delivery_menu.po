@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-12-14 13:10\n"
+"PO-Revision-Date: 2023-12-19 06:37\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -303,6 +303,26 @@ msgid "ParentText has @fields.n_goals_prog goals. We will begin with the first g
 msgstr "“科育时光”有 @fields.n_goals_prog 个目标模块。我们将从第一个目标模块 @results.name 开始。完成这个目标之后，你便可以自由选择想先学习哪个目标。我们开始吧！"
 
 #. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 You have completed the programme. Well done!"
+msgstr "🎉 你已经完成了“科育时光”的所有课程。🎉 你做到了！太棒了，恭喜你！🎉 "
+
+#. type=text
+msgctxt "text"
+msgid "Remember, you can always return to ParentText and get extra support or review these goals. Just type {MENU}."
+msgstr "别忘了，你可以随时在“科育时光”里，通过输入 {MENU} ，来回顾这些目标模块，或者获取更多支持。"
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 You have completed the programme and earned yourself the Positive Parenting Trophy 🏆. Well done!"
+msgstr "🎉 你已经完成了“科育时光”的所有课程，并赢得了“积极育儿奖杯”🏆。你做到了！太棒了，恭喜你！🎉 "
+
+#. type=text
+msgctxt "text"
+msgid "Completing ParentText is an important achievement. Well done! New goals might be available soon. As they become available, you'll receive a notification through this channel."
+msgstr "完成“科育时光”所有课程的学习，是个非常了不起的成就，你太棒了！以后如果上线了新的目标模块，我们会在聊天框里通知你。"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @results.name. Well done!"
@@ -335,8 +355,8 @@ msgstr "2. 稍后提醒我"
 
 #. type=text
 msgctxt "text"
-msgid "ParentText has begun. Are you ready to complete your registration and select your parenting goals?"
-msgstr "“科育时光”课程已经开始啦。你准备好进行注册，并选择你的育儿目标了吗？"
+msgid "ParentText has begun. Are you ready to complete your registration?"
+msgstr "“科育时光”开始啦。你准备好开始注册基本信息了吗？"
 
 #. type=text
 msgctxt "text"
@@ -767,11 +787,6 @@ msgstr "你当前选择的是接收文本、图片和视频。"
 
 #. type=text
 msgctxt "text"
-msgid "Your current media setting is Text, Images, and Audio."
-msgstr "你当前选择的是接收文本、图片和音频。"
-
-#. type=text
-msgctxt "text"
 msgid "Your current media setting is Text and Images Only."
 msgstr "你当前选择的是只接收文本和图片。"
 
@@ -789,31 +804,6 @@ msgstr "你没有提供此信息。"
 msgctxt "text"
 msgid "Would you like to change it?"
 msgstr "你想更改吗？"
-
-#. type=text
-msgctxt "text"
-msgid "You didn't tell us if you are a woman or a man. "
-msgstr "你没有告诉我们你的性别。 "
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are a Woman."
-msgstr "你告诉我们你是女性。"
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are a Man."
-msgstr "你告诉我们你是男性。"
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are a"
-msgstr "你告诉我们你是"
-
-#. type=text
-msgctxt "text"
-msgid "Would you like to update your gender?"
-msgstr "你要更新你的性别吗？"
 
 #. type=text
 msgctxt "text"
@@ -844,6 +834,31 @@ msgstr "你告诉我们，你是"
 msgctxt "text"
 msgid "Would you like to change your relationship status?"
 msgstr "你想要更改你的伴侣状态吗？"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us if you are a woman or a man. "
+msgstr "你没有告诉我们你的性别。 "
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Woman."
+msgstr "你告诉我们你是女性。"
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Man."
+msgstr "你告诉我们你是男性。"
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a"
+msgstr "你告诉我们你是"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update your gender?"
+msgstr "你要更新你的性别吗？"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
