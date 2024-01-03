@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-12-15 13:26\n"
+"PO-Revision-Date: 2024-01-03 01:05\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -424,6 +424,17 @@ msgstr "1. Ya!"
 msgctxt "text"
 msgid "2. Remind me tomorrow"
 msgstr "2. Ingatkan saya esok"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "I've got another lesson ready for you! Are you ready to continue with your goal, @results.name?"
+msgstr "Saya ada menyediakan pelajaran lain untuk anda! Adakah anda bersedia untuk meneruskan matlamat anda, @results.name?"
+
+#. type=text
+msgctxt "text"
+msgid "2. No, remind me tomorrow"
+msgstr "2. Tidak, ingatkan saya esok"
 
 #. type=text
 msgctxt "text"
@@ -1204,8 +1215,8 @@ msgstr "Aktiviti-aktiviti"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "How to Use ParentText"
-msgstr "Cara menggunakan ParentText"
+msgid "How to Use NKText"
+msgstr "Cara menggunakan NKText"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1553,8 +1564,8 @@ msgstr "aktiviti-aktiviti"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "how to use parenttext"
-msgstr "cara menggunakan parenttext"
+msgid "how to use nktext"
+msgstr "cara menggunakan nktext"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
