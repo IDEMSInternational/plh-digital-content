@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-01-12 10:00\n"
+"PO-Revision-Date: 2024-01-17 16:21\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -39,6 +39,11 @@ msgstr "让我们开始吧。点击“下一步”开始。"
 msgctxt "text"
 msgid "Congratulations! You have earned yourself a badge. You are now ready to begin the course. ⭐"
 msgstr "恭喜！你已经赢得了一枚奖章。你现在可以开始课程啦。 ⭐"
+
+#. type=text
+msgctxt "text"
+msgid "Click to see your new badge"
+msgstr "点击查看新奖章！"
 
 #. type=text
 msgctxt "text"
@@ -330,11 +335,6 @@ msgstr "🎉恭喜！🎉 你已经赢得了一个奖章，完成了 @results.na
 
 #. type=text
 msgctxt "text"
-msgid "Click to see your new badge"
-msgstr "点击查看新奖章！"
-
-#. type=text
-msgctxt "text"
 msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu."
 msgstr "别忘了，如果你在练习时遇到了困难，需要帮助，可以在主菜单中点击“常见问题”以获得额外帮助。"
 
@@ -342,21 +342,6 @@ msgstr "别忘了，如果你在练习时遇到了困难，需要帮助，可以
 msgctxt "text"
 msgid "You have made great progress. Are you ready to select your next parenting goal?"
 msgstr "你已经取得了很大的进步。你准备好开始下一个目标模块了吗？"
-
-#. type=text
-msgctxt "text"
-msgid "Press a number on your keypad:"
-msgstr "请输入数字："
-
-#. type=text
-msgctxt "text"
-msgid "1. Yes"
-msgstr "1. 是"
-
-#. type=text
-msgctxt "text"
-msgid "2. Remind me Later"
-msgstr "2. 稍后提醒我"
 
 #. type=text
 msgctxt "text"
@@ -370,16 +355,6 @@ msgstr "你还没完成呢！你想继续学习之前的技能，还是开始学
 
 #. type=text
 msgctxt "text"
-msgid "1. Complete"
-msgstr "1. 学习未完成的技能"
-
-#. type=text
-msgctxt "text"
-msgid "2. Start new"
-msgstr "2. 开始学习新技能"
-
-#. type=text
-msgctxt "text"
 msgid "Do you want to catch up and proceed to the next skill?"
 msgstr "你想要跳过此技能，继续学习下一项技能吗？"
 
@@ -387,16 +362,6 @@ msgstr "你想要跳过此技能，继续学习下一项技能吗？"
 msgctxt "text"
 msgid "You're almost finished with this goal! You only have 1 unfinished skill. What would you like to do?"
 msgstr "你马上就要完成这个目标模块了！目前只剩一个技能未完成。接下来你想干什么？"
-
-#. type=text
-msgctxt "text"
-msgid "1. Finish this skill and earn my badge"
-msgstr "1. 完成此技能，获得对应徽章"
-
-#. type=text
-msgctxt "text"
-msgid "2. Leave this goal unfinished and select a new goal"
-msgstr "2. 暂停当前目标模块，选择新的目标模块"
 
 #. type=text
 msgctxt "text"
@@ -410,25 +375,10 @@ msgid "You're almost finished with this goal! You have @fields.c_n_mod_started u
 msgstr "你快完成这个目标模块了！目前只剩 @fields.c_n_mod_started 个课程待完成。接下来你想做什么？"
 
 #. type=text
-msgctxt "text"
-msgid "1. Complete unfinished skills to earn my badge"
-msgstr "1. 继续学习未完成的技能，获得奖章"
-
-#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It’s time to get started on your goal, @results.name. Are you ready?"
 msgstr "现在开始向你的目标“ @results.name ”迈进。你准备好了吗？"
-
-#. type=text
-msgctxt "text"
-msgid "1. Yes!"
-msgstr "1. 是的！"
-
-#. type=text
-msgctxt "text"
-msgid "2. Remind me tomorrow"
-msgstr "2. 明天提醒我"
 
 #. type=text
 msgctxt "text"
@@ -1140,26 +1090,50 @@ msgstr "明天"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Remind me later"
+msgid "Remind me Later"
 msgstr "稍后提醒我"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "1"
-msgstr "1"
+msgid "Complete"
+msgstr "学习未完成的技能"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "2"
-msgstr "2"
+msgid "Start new"
+msgstr "开始学习新技能"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Remind me tomorrow"
 msgstr "明天提醒我"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Finish this skill and earn my badge"
+msgstr "学完此技能，获得徽章"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete unfinished skills to earn my badge"
+msgstr "继续学习未完成的技能，获得奖章"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes!"
+msgstr "是!"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "1"
+msgstr "1"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1367,26 +1341,6 @@ msgstr "回顾这个目标模块下的另一个技巧"
 
 #. type=variables
 msgctxt "variables"
-msgid "You only have one unfinished skill."
-msgstr "你只剩一个技能没学了。"
-
-#. type=variables
-msgctxt "variables"
-msgid "Finish this skill and earn my badge"
-msgstr "学完此技能，获得徽章"
-
-#. type=variables
-msgctxt "variables"
-msgid "You have @fields.c_n_mod_started unfinished skills."
-msgstr "你有 @fields.c_n_mod_started 个课程待完成。"
-
-#. type=variables
-msgctxt "variables"
-msgid "Complete unfinished skills to earn my badge"
-msgstr "继续学习未完成的技能，获得奖章"
-
-#. type=variables
-msgctxt "variables"
 msgid "@results.name"
 msgstr " @results.name "
 
@@ -1495,20 +1449,38 @@ msgstr "稍后提醒我"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "1"
-msgstr "1"
+msgid "complete"
+msgstr "学习未完成的技能"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "2"
-msgstr "2"
+msgid "start new"
+msgstr "开始学习新技能"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "remind me tomorrow"
 msgstr "明天提醒我"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "finish this skill and earn my badge"
+msgstr "学完此技能，获得徽章"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete unfinished skills to earn my badge"
+msgstr "继续学习未完成的技能，获得奖章"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes!"
+msgstr "有!"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
