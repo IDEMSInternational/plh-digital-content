@@ -31,11 +31,6 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Click to see your new badge"
-msgstr ""
-
-#. type=text
-msgctxt "text"
 msgid "NA"
 msgstr ""
 
@@ -324,12 +319,32 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "Click to see your new badge"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu."
 msgstr ""
 
 #. type=text
 msgctxt "text"
 msgid "You have made great progress. Are you ready to select your next parenting goal?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Press a number on your keypad:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "1. Yes"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me Later"
 msgstr ""
 
 #. type=text
@@ -344,12 +359,32 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "1. Complete"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. Start new"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "Do you want to catch up and proceed to the next skill?"
 msgstr ""
 
 #. type=text
 msgctxt "text"
 msgid "You're almost finished with this goal! You only have 1 unfinished skill. What would you like to do?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "1. Finish this skill and earn my badge"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. Leave this goal unfinished and select a new goal"
 msgstr ""
 
 #. type=text
@@ -364,9 +399,24 @@ msgid "You're almost finished with this goal! You have @fields.c_n_mod_started u
 msgstr ""
 
 #. type=text
+msgctxt "text"
+msgid "1. Complete unfinished skills to earn my badge"
+msgstr ""
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It’s time to get started on your goal, @results.name. Are you ready?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "1. Yes!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me tomorrow"
 msgstr ""
 
 #. type=text
@@ -1079,49 +1129,25 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Remind me Later"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Complete"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Start new"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Remind me tomorrow"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Finish this skill and earn my badge"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Complete unfinished skills to earn my badge"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Yes!"
+msgid "Remind me later"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "1"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "2"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Remind me tomorrow"
 msgstr ""
 
 #. type=quick_replies
@@ -1330,6 +1356,26 @@ msgstr ""
 
 #. type=variables
 msgctxt "variables"
+msgid "You only have one unfinished skill."
+msgstr ""
+
+#. type=variables
+msgctxt "variables"
+msgid "Finish this skill and earn my badge"
+msgstr ""
+
+#. type=variables
+msgctxt "variables"
+msgid "You have @fields.c_n_mod_started unfinished skills."
+msgstr ""
+
+#. type=variables
+msgctxt "variables"
+msgid "Complete unfinished skills to earn my badge"
+msgstr ""
+
+#. type=variables
+msgctxt "variables"
 msgid "@results.name"
 msgstr ""
 
@@ -1438,37 +1484,19 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "complete"
+msgid "1"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "start new"
+msgid "2"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "remind me tomorrow"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "finish this skill and earn my badge"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "complete unfinished skills to earn my badge"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "yes!"
 msgstr ""
 
 #. type=arguments
