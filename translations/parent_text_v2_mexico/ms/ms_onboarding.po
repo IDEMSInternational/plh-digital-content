@@ -1,0 +1,286 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: 652eb1a39a0f8681c408f40296bb88b4\n"
+"X-Crowdin-Project-ID: 3\n"
+"X-Crowdin-Language: ms\n"
+"X-Crowdin-File: /main/translations/parent_text_v2_mexico/en/onboarding.pot\n"
+"X-Crowdin-File-ID: 340\n"
+"Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
+"Language-Team: Malay\n"
+"\n"
+"Language: ms_MY\n"
+"PO-Revision-Date: 2024-01-22 16:00\n"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can opt to receive the same content with a smaller audio file or as text. How would you like to receive ParentText?"
+msgstr "ParentText paling mudah digunakan apabila anda menetapkan untuk menerima kandungan dalam bentuk video, imej dan teks. Walau bagaimanapun, kuota data dan jalur lebar anda mungkin tidak dapat menyokong video. Bagi menjimatkan data, anda boleh memilih untuk menerima kandungan yang sama melalui fail audio atau teks yang lebih kecil. Apakah cara pilihan anda untuk menerima ParentText?"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
+
+#. type=text
+msgctxt "text"
+msgid "Are you a WOMAN or MAN?"
+msgstr "Adakah anda WANITA atau LELAKI?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your relationship status?"
+msgstr "Apakah status hubungan anda?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Is @fields.child_nickname a girl or a boy?"
+msgstr "Adakah @fields.child_nickname seorang perempuan atau lelaki?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your child's name?"
+msgstr "Siapakah nama anak anda?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your family name (surname)?"
+msgstr "Apakah nama keluarga anda or nama bapa anda?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your first name?"
+msgstr "Apakah nama anda (tanpa nama keluarga atau nama bapa anda)?"
+
+#. type=text
+msgctxt "text"
+msgid "Please select your language:"
+msgstr "Sila pilih bahasa anda:"
+
+#. type=text
+msgctxt "text"
+msgid "Here is a video that shows how to use ParentText."
+msgstr "Ini adalah video yang menunjukkan cara menggunakan ParentText."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Bilakah tarikh lahir @fields.child_nickname? Masukkan tarikh lahir mereka mengikut format seperti ini: HH/BB/TTTT. Sebagai contoh: masukkan 19/05/2010 jika anak anda lahir pada 19 Mei 2010."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "Adakah @fields.child_nickname berusia @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun sekarang?"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
+msgstr "Dalam program ini, kami memberi tumpuan hanya kepada satu orang anak sahaja pada satu-satu masa, meskipun ParentText dapat membantu anda jika anda mempunyai lebih daripada 1 orang anak."
+
+#. type=text
+msgctxt "text"
+msgid "Welcome to ParentText, your partner in parenting. Thank you for being here! Let's get started:"
+msgstr "Selamat datang ke ParentText, rakan anda untuk keibubapaan. Terima kasih kerana berada di sini! Mari kita mulakan:"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text, Images, and Videos"
+msgstr "Teks, Imej, dan Video"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text, Images, and Audio"
+msgstr "Teks, Imej, dan Audio"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text and Images Only"
+msgstr "Teks dan Imej Sahaja"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Woman"
+msgstr "Wanita"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Man"
+msgstr "Lelaki"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Prefer not to say"
+msgstr "Memilih untuk tidak menjawab"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Single (not in a relationship)"
+msgstr "Bujang (tiada sebarang hubungan)"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Married"
+msgstr "Berkahwin"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Partnered but not married"
+msgstr "Berpasangan tetapi tidak berkahwin"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Divorced or separated"
+msgstr "Bercerai atau berpisah"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Widowed"
+msgstr "Janda/Duda"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Girl"
+msgstr "Perempuan"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Boy"
+msgstr "Lelaki"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "English"
+msgstr "Bahasa Inggeris"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "TERUSKAN"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr "Ya"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr "Tidak"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text, images, and videos"
+msgstr "teks, imej, dan video"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text, images, and audio"
+msgstr "teks, imej, dan audio"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text and images only"
+msgstr "teks dan imej sahaja"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "woman"
+msgstr "wanita"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "man"
+msgstr "lelaki"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "prefer not to say"
+msgstr "memilih untuk tidak menjawab"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "single (not in a relationship)"
+msgstr "bujang (tiada sebarang hubungan)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "married"
+msgstr "berkahwin"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "partnered but not married"
+msgstr "berpasangan tetapi tidak berkahwin"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "divorced or separated"
+msgstr "bercerai atau berpisah"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "widowed"
+msgstr "janda/duda"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "girl"
+msgstr "perempuan"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "boy"
+msgstr "lelaki"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "english"
+msgstr "bahasa Inggeris"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep"
+msgstr "ya yea yah ye y"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "tidak tak t"
+
