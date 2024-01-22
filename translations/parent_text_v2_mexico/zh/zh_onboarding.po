@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: 652eb1a39a0f8681c408f40296bb88b4\n"
+"X-Crowdin-Project-ID: 3\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/translations/parent_text_v2_mexico/en/onboarding.pot\n"
+"X-Crowdin-File-ID: 340\n"
+"Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
+"Language-Team: Chinese Simplified\n"
+"\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-01-22 16:00\n"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText is easiest to use when you receive content as videos, images and text. However, your data bundle and bandwidth may not support videos. To save on data, you can opt to receive the same content with a smaller audio file or as text. How would you like to receive ParentText?"
+msgstr "“科育时光”最好的使用方式是同时接收视频、图像和文本。但是，你的流量和带宽可能不一定足以接收视频。为了节省流量，你也可以选择只接收文本。无论你选择哪种方式，学习的内容都是一样的。你希望以何种形式接收“科育时光”的信息呢？"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "抱歉，我不明白你的意思。"
+
+#. type=text
+msgctxt "text"
+msgid "Are you a WOMAN or MAN?"
+msgstr "你是女性还是男性？"
+
+#. type=text
+msgctxt "text"
+msgid "What is your relationship status?"
+msgstr "你的伴侣状况是什么？"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Is @fields.child_nickname a girl or a boy?"
+msgstr " @fields.child_nickname 是女孩还是男孩？"
+
+#. type=text
+msgctxt "text"
+msgid "What is your child's name?"
+msgstr "你孩子叫什么名字？"
+
+#. type=text
+msgctxt "text"
+msgid "What is your family name (surname)?"
+msgstr "你姓什么？"
+
+#. type=text
+msgctxt "text"
+msgid "What is your first name?"
+msgstr "你名什么？"
+
+#. type=text
+msgctxt "text"
+msgid "Please select your language:"
+msgstr "请选择你的语言："
+
+#. type=text
+msgctxt "text"
+msgid "Here is a video that shows how to use ParentText."
+msgstr "这个视频将为你演示如何使用“科育时光”。"
+
+#. type=text
+msgctxt "text"
+msgid "Variables have been reset"
+msgstr "已重置"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr " @fields.child_nickname 是什么时候出生的？请按以下格式输入孩子的出生日期：年/月/日。例如，如果你的孩子是2010年5月19日出生的，请输入2010/5/19。"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgstr " @fields.child_nickname 今年 @(tround_down(datetime_diff(results.date,now(),\"M\")/12)) 岁了，是吗？"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
+msgstr "“科育时光”将帮助你为每个孩子提供良好的家庭教育，但在这次学习中，我们一次先只关注一个孩子。"
+
+#. type=text
+msgctxt "text"
+msgid "Welcome to ParentText, your partner in parenting. Thank you for being here! Let's get started:"
+msgstr "欢迎使用“科育时光”，你的育儿好帮手。感谢你的参与！让我们开始吧："
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text, Images, and Videos"
+msgstr "漫画、视频和简略文本"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text, Images, and Audio"
+msgstr "文本、图片和音频"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text and Images Only"
+msgstr "漫画和详细文本"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Woman"
+msgstr "女性"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Man"
+msgstr "男性"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Prefer not to say"
+msgstr "不想回答"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Single (not in a relationship)"
+msgstr "单身（无伴侣）"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Married"
+msgstr "已婚"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Partnered but not married"
+msgstr "有伴侣但未婚"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Divorced or separated"
+msgstr "离婚或分居"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Widowed"
+msgstr "丧偶"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Girl"
+msgstr "女孩"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Boy"
+msgstr "男孩"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "English"
+msgstr "英语"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "下一步"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr "有"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr "否"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text, images, and videos"
+msgstr "漫画、视频和简略文本"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text, images, and audio"
+msgstr "文本、图片和音频"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text and images only"
+msgstr "漫画和详细文本"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "woman"
+msgstr "女性"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "man"
+msgstr "男性"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "prefer not to say"
+msgstr "不想回答"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "single (not in a relationship)"
+msgstr "单身（无伴侣）"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "married"
+msgstr "已婚"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "partnered but not married"
+msgstr "有伴侣但未婚"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "widowed"
+msgstr "丧偶"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "girl"
+msgstr "女孩"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "boy"
+msgstr "男孩"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "english"
+msgstr "英语"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep"
+msgstr "是"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "否"
+
