@@ -3,6 +3,12 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@results.name"
+msgstr ""
+
+#. type=text
 msgctxt "text"
 msgid "Before we begin the ParentText programme, we must learn to slow down. 💚"
 msgstr ""
@@ -739,17 +745,6 @@ msgid "Well done, you have completed the fifth step to having a healthy relation
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Today’s skill is about spending one-on-one time with @fields.child_nickname 😃"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Today’s skill is about spending one-on-one time with your child 😃"
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "It will also build trust and respect, and support children in learning new things. ✨"
 msgstr ""
@@ -841,6 +836,17 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "💡 Respond to your child when they communicate with you. Your child may use gestures, full sentences, movements, and sounds to communicate with you. It shows you are really paying attention to them."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Today’s skill is about spending one-on-one time with @fields.child_nickname 😃"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Today’s skill is about spending one-on-one time with your child 😃"
 msgstr ""
 
 #. type=text
@@ -954,22 +960,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "You have completed this skill! You have learnt the importance of spending one-on-one time with your child."
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Did you know that being kind to yourself can help you to be kind to your family? 💚 Today, we will learn how to improve your relationship with @fields.child_nickname by learning to be kind to yourself. ☀️ "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Imagine you had a friend who was feeling bad about making a big mistake. 😣 How would you talk to them?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Did you know that being kind to yourself can help you to be kind to your family? 💚 Today, we will learn how to improve your relationship with your child by learning to be kind to yourself. ☀️ "
 msgstr ""
 
 #. type=text
@@ -1176,12 +1166,17 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "✨Well done for helping @fields.child_nickname live a good life. It shows you really care! 💙"
+msgid "Did you know that being kind to yourself can help you to be kind to your family? 💚 Today, we will learn how to improve your relationship with @fields.child_nickname by learning to be kind to yourself. ☀️ "
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "✨Well done for helping your child live a good life. It shows you really care! 💙"
+msgid "Imagine you had a friend who was feeling bad about making a big mistake. 😣 How would you talk to them?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Did you know that being kind to yourself can help you to be kind to your family? 💚 Today, we will learn how to improve your relationship with your child by learning to be kind to yourself. ☀️ "
 msgstr ""
 
 #. type=text
@@ -1262,6 +1257,17 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Well done! ⭐ You have now learnt the four steps to Praise. "
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "✨Well done for helping @fields.child_nickname live a good life. It shows you really care! 💙"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✨Well done for helping your child live a good life. It shows you really care! 💙"
 msgstr ""
 
 #. type=text
@@ -1421,17 +1427,6 @@ msgid "3️⃣ Look for three things that you can praise your child for every da
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "😃😣😔This skill is about talking with @fields.child_nickname about their feelings."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "😃😣😔This skill is about talking with your child about their feelings."
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "🌷 You can help by listening to them, thinking about how it must feel for them, and accepting their emotions. "
 msgstr ""
@@ -1564,6 +1559,17 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "That’s okay. Try to make time this week."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "😃😣😔This skill is about talking with @fields.child_nickname about their feelings."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "😃😣😔This skill is about talking with your child about their feelings."
 msgstr ""
 
 #. type=text
@@ -1786,11 +1792,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Press Play ▶️ to learn 4️⃣ four tips to instil the values in your child that you want them to have. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "💡 It’s easiest to start with one parenting value before moving on to others."
 msgstr ""
 
 #. type=text
@@ -3051,7 +3052,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
-msgid "Well done! 🎉 You have learnt the first part about helping your child learn reading skills! You have completed@(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Prepare my Child for Success in School.✨"
+msgid "Well done! 🎉 You have learnt about helping your child learn reading skills! You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Prepare my Child for Success in School.✨"
 msgstr ""
 
 #. type=text
@@ -3242,17 +3243,6 @@ msgid "You will also know what kinds of things your child can do at home to lear
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "🧸 This skill is about supporting @fields.child_nickname to find joy in learning in a playful and fun way. 😃"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🧸 This skill is about supporting your child to find joy in learning in a playful and fun way. 😃"
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "True or False: Children learn more when they are told what to do instead of letting them explore and play."
 msgstr ""
@@ -3296,6 +3286,17 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Understand Child Development. ⭐"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🧸 This skill is about supporting @fields.child_nickname to find joy in learning in a playful and fun way. 😃"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🧸 This skill is about supporting your child to find joy in learning in a playful and fun way. 😃"
 msgstr ""
 
 #. type=text
@@ -3578,11 +3579,6 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid ";"
-msgstr ""
-
-#. type=text
-msgctxt "text"
 msgid "Do you have time to do it today? ⏰"
 msgstr ""
 
@@ -3611,17 +3607,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Skill complete! You have learnt about supporting your child to create a space for them to learn."
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "This skill is about helping you support @fields.child_nickname’s healthy development as they grow and change. ✨"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "This skill is about helping you support your child’s healthy development as they grow and change. ✨"
 msgstr ""
 
 #. type=text
@@ -3714,6 +3699,17 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "⭐ Praise them for wanting to try! Your child will feel supported. Effort is more important than being good at something."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This skill is about helping you support @fields.child_nickname’s healthy development as they grow and change. ✨"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "This skill is about helping you support your child’s healthy development as they grow and change. ✨"
 msgstr ""
 
 #. type=text
@@ -3861,17 +3857,6 @@ msgid "Skill complete! You have learnt how to support the healthy development of
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Today’s parenting skill is about how you can support @fields.child_nickname’s healthy development as they grow and change. ✨"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Today’s parenting skill is about how you can support your child’s healthy development as they grow and change. ✨"
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "Let’s do another one! True or False: It is OK to let your child continue trying to do something a few times even if they are not doing it correctly."
 msgstr ""
@@ -3976,6 +3961,17 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "💡Your child may repeat the question or ask follow up questions to learn more. Take a pause and be calm as you support their interest to learn and continue to answer."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Today’s parenting skill is about how you can support @fields.child_nickname’s healthy development as they grow and change. ✨"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Today’s parenting skill is about how you can support your child’s healthy development as they grow and change. ✨"
 msgstr ""
 
 #. type=text
@@ -4186,22 +4182,6 @@ msgid "Skill complete! You have learnt to support the healthy development of you
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Before you can care for @fields.child_nickname, you must first care for yourself. 🌷"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "This skill is about learning how to manage your stress. 💚"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Before you can care for your child, you must first care for yourself. 🌷"
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "▶️Press play to learn 3️⃣ three tips for managing your stress"
 msgstr ""
@@ -4305,6 +4285,22 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "Well done, you are learning how to manage stress! 🎉You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Give My Child Structure. 💛"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Before you can care for @fields.child_nickname, you must first care for yourself. 🌷"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "This skill is about learning how to manage your stress. 💚"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Before you can care for your child, you must first care for yourself. 🌷"
 msgstr ""
 
 #. type=text
@@ -4467,17 +4463,6 @@ msgid "Amazing! 🎉 You have learnt how to Help your child Follow Instructions!
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "This skill is about creating routines with @fields.child_nickname. Routines are things we do every day. 🔄"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "This skill is about creating routines with your child. Routines are things we do every day. 🔄"
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "True or false: Children aged 2 to 9 need at least 9-13 hours of sleep each day. 🌙"
 msgstr ""
@@ -4540,6 +4525,17 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "✅ Spending time together"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This skill is about creating routines with @fields.child_nickname. Routines are things we do every day. 🔄"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "This skill is about creating routines with your child. Routines are things we do every day. 🔄"
 msgstr ""
 
 #. type=text
@@ -4728,17 +4724,6 @@ msgid "Amazing! 🎉 You have learnt how to Create Routines with your child! You
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "This skill is about creating family rules and guidelines with @fields.child_nickname.⏰⭐"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "This skill is about creating family rules and guidelines with your child.⏰⭐"
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "True or false: Family rules should be set by the parents because our children are too young to decide for themselves."
 msgstr ""
@@ -4782,6 +4767,17 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "Amazing! 🎉 You have learnt how to make rules with your child! You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Give My Child Structure. 🏆"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This skill is about creating family rules and guidelines with @fields.child_nickname.⏰⭐"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "This skill is about creating family rules and guidelines with your child.⏰⭐"
 msgstr ""
 
 #. type=text
@@ -5103,12 +5099,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
-msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Give My Child Structure."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "⭐"
+msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Give My Child Structure ⭐."
 msgstr ""
 
 #. type=text
@@ -6050,17 +6041,6 @@ msgid "If your child continues to misbehave, tell them how you feel in a calm wa
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "This skill is about learning how to solve problems with @fields.child_nickname. 🔄"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "This skill is about learning how to solve problems with your child. 🔄"
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "❗ Learning how to solve problems with your child can help you avoid having to use consequences. "
 msgstr ""
@@ -6102,12 +6082,23 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Great!"
+msgid "Great! Teaching children how to solve problems is very important. This will also help them overcome difficulties in the future!"
 msgstr ""
 
 #. type=text
 msgctxt "text"
 msgid "That’s okay. Try to review these steps together sometime this week."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This skill is about learning how to solve problems with @fields.child_nickname. 🔄"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "This skill is about learning how to solve problems with your child. 🔄"
 msgstr ""
 
 #. type=text
@@ -6218,17 +6209,6 @@ msgid "Well done! 🎉 You have learnt how to solve problems with your child! Yo
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Today’s skill is about teaching @fields.child_nickname about ✅ safe and ❌ unsafe touch."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Today’s skill is about teaching your child about ✅ safe and ❌ unsafe touch."
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "💡 It is normal to feel uncomfortable about talking to children about abuse. "
 msgstr ""
@@ -6307,6 +6287,17 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills towards your goal, Keep My Child Safe & Healthy. ⭐"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Today’s skill is about teaching @fields.child_nickname about ✅ safe and ❌ unsafe touch."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Today’s skill is about teaching your child about ✅ safe and ❌ unsafe touch."
 msgstr ""
 
 #. type=text
@@ -6617,7 +6608,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "3️⃣ RESPOND: What might help what is going on?"
+msgid "5️⃣ RESPOND: What might help what is going on?"
 msgstr ""
 
 #. type=text
@@ -7152,6 +7143,11 @@ msgid "Amazing job! 🎉 You have completed the Respond to Crises skill! You hav
 msgstr ""
 
 #. type=text
+msgctxt "text"
+msgid "3️⃣ RESPOND: What might help what is going on?"
+msgstr ""
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "⏸ You can teach @fields.child_nickname consequences if needed. In the moment, your child needs you to be there for them with love."
@@ -7224,22 +7220,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Find a calm time to look at the everyday safety map you created with your child during the previous tip. Talk about possible risks and what they could do to avoid them. Discuss possible actions that you can take with your child if they happen. 💡"
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "This skill is about how to keep @fields.child_nickname safe online. 📱"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "There is so much to share. We will cover online safety over two lessons. 2️⃣"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "This skill is about how to keep your child safe online. 📱"
 msgstr ""
 
 #. type=text
@@ -7346,6 +7326,22 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
 msgctxt "text"
 msgid "Amazing! 🎉 You have learnt how to keep your child safe online. You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skills in the Keep My Child Safe & Healthy!"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This skill is about how to keep @fields.child_nickname safe online. 📱"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "There is so much to share. We will cover online safety over two lessons. 2️⃣"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "This skill is about how to keep your child safe online. 📱"
 msgstr ""
 
 #. type=text
