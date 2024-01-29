@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-26 07:26\n"
+"PO-Revision-Date: 2024-01-29 11:06\n"
 
 #. type=text
 msgctxt "text"
@@ -53,11 +53,6 @@ msgstr "¿Cómo se llama tu niña o niño?"
 msgctxt "text"
 msgid "What is your first name?"
 msgstr "¿Cuál es tu nombre?"
-
-#. type=text
-msgctxt "text"
-msgid "Please select your language:"
-msgstr "Selecciona tu idioma:"
 
 #. type=text
 msgctxt "text"
@@ -204,12 +199,6 @@ msgstr "Inglés"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "NEXT"
-msgstr "SIGUIENTE"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Yes"
 msgstr "Sí"
 
@@ -218,6 +207,12 @@ msgstr "Sí"
 msgctxt "quick_replies"
 msgid "No"
 msgstr "No"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "SIGUIENTE"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
