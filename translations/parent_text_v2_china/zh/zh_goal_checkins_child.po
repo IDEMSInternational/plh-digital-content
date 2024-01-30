@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-01-24 08:38\n"
+"PO-Revision-Date: 2024-01-30 05:27\n"
 
 #. type=text
 msgctxt "text"
@@ -1176,65 +1176,15 @@ msgid "Previously you said that teasing or bothering others was the most challen
 msgstr "之前你说过，你面临的最大问题是孩子总是取笑或者打扰别人。"
 
 #. type=text
-msgctxt "text"
-msgid "All children behave badly sometimes. Here are a list of typical behaviours that can be challenging for parents:"
-msgstr "在儿童发展进程中，可能出现一些行为问题。以下是一些常见的儿童行为问题："
-
-#. type=text
-msgctxt "text"
-msgid "1. Refuse to obey instructions"
-msgstr "1. 拒绝服从指令"
-
-#. type=text
-msgctxt "text"
-msgid "2. Gets angry a lot"
-msgstr "2. 经常生气"
-
-#. type=text
-msgctxt "text"
-msgid "3. Rudeness, disrespectful behaviour"
-msgstr "3. 没礼貌，不尊重他人"
-
-#. type=text
-msgctxt "text"
-msgid "4. Irritable, frequent mood changes"
-msgstr "4. 易怒，情绪波动过大"
-
-#. type=text
-msgctxt "text"
-msgid "5. Does not follow rules"
-msgstr "5. 不遵守规则"
-
-#. type=text
-msgctxt "text"
-msgid "6. Stubbornness"
-msgstr "6. 固执"
-
-#. type=text
-msgctxt "text"
-msgid "7. Breaking things"
-msgstr "7. 破坏东西"
-
-#. type=text
-msgctxt "text"
-msgid "8. Getting into fights"
-msgstr "8. 打架"
-
-#. type=text
-msgctxt "text"
-msgid "9. Teasing or bothering others"
-msgstr "9. 取笑或打扰他人"
-
-#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Please type the number that describes the most challenging behaviour for you to manage with @fields.child_nickname. You can also type \"0\" if you do not want to answer."
-msgstr "请选择你管理 @fields.child_nickname 行为时，面临的最大问题。如果不想回答，请输入击“0”。"
+msgid "All children behave badly sometimes. Here are a list of typical behaviours that can be challenging for parents. Which one describes the most challenging for you to manage with @fields.child_nickname?"
+msgstr "在儿童发展进程中，都会出现一些行为问题。在下列常见的儿童行为问题中，请选择你管理@fields.child_nickname行为时，面临最大的一个问题："
 
 #. type=text
 msgctxt "text"
-msgid "Please type the number that describes the most challenging behaviour for you to manage with your child. You can also type \"0\" if you do not want to answer."
-msgstr "请选择你管理孩子行为时，面临的最大问题。如果不想回答，请输入“0”。"
+msgid "All children behave badly sometimes. Here are a list of typical behaviours that can be challenging for parents. Which one describes the most challenging for you to manage with your child?"
+msgstr "在儿童发展进程中，都会出现一些行为问题。在下列常见的儿童行为问题中，请选择你管理孩子行为时，面临最大的一个问题："
 
 #. type=text
 msgctxt "text"
@@ -1771,6 +1721,66 @@ msgstr "明天再继续填写进展"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Refuse to obey instructions"
+msgstr "拒绝服从指令"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Gets angry a lot"
+msgstr "经常生气"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Rudeness, disrespectful behaviour"
+msgstr "粗鲁、不尊重的行为"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Irritable, frequent mood changes"
+msgstr "易怒，情绪波动过大"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Does not follow rules"
+msgstr "不遵守规则"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Stubbornness"
+msgstr "固执"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Breaking things"
+msgstr "破坏东西"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Getting into fights"
+msgstr "打架"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Teasing or bothering others"
+msgstr "戏弄或打扰他人"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I do not want to answer"
+msgstr "我不想回答"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "I didn’t know how to support my family members"
 msgstr "我不知道怎么为其他家人提供帮助和支持。"
 
@@ -2175,6 +2185,66 @@ msgstr "其他困难"
 msgctxt "arguments"
 msgid "continue my progress tomorrow"
 msgstr "明天再继续填写进展"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "refuse to obey instructions"
+msgstr "拒绝服从指令"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "gets angry a lot"
+msgstr "经常生气"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "rudeness, disrespectful behaviour"
+msgstr "没礼貌，不尊重他人"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "irritable, frequent mood changes"
+msgstr "易怒，情绪波动过大"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "does not follow rules"
+msgstr "不遵守规则"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stubbornness"
+msgstr "固执"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "breaking things"
+msgstr "破坏东西"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "getting into fights"
+msgstr "打架"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "teasing or bothering others"
+msgstr "取笑或打扰他人"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i do not want to answer"
+msgstr "我不想回答"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
