@@ -11,5 +11,318 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-26 21:48\n"
+"PO-Revision-Date: 2024-02-01 21:27\n"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "In this course, you will complete @fields.c_n_mod lessons. You will receive a new lesson each day. Your first lesson is @results.name."
+msgstr "En este curso, completarás @fields.c_n_mod sesiones. Recibirás una sesión nueva por día. Tu primera sesión es @results.name."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod lessons in this course. Today's lesson is @results.name."
+msgstr "Completaste @fields.c_n_mod_compl de las @fields.c_n_mod sesiones de este curso. La sesión de hoy es @results.name."
+
+#. type=text
+msgctxt "text"
+msgid "fail"
+msgstr "error"
+
+#. type=text
+msgctxt "text"
+msgid "Let’s get started. Press NEXT to begin."
+msgstr "Comencemos. Presiona SIGUIENTE para empezar."
+
+#. type=text
+msgctxt "text"
+msgid "Well done. You're ready to start the first course. "
+msgstr "Buen trabajo. Estás listo para empezar el primer curso. "
+
+#. type=text
+msgctxt "text"
+msgid "NA"
+msgstr "NA"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@(text_slice(results.message_options,3))."
+msgstr "@(text_slice(results.message_options,3))."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This programme has @fields.n_goals_prog courses, which one do you want to work on first?"
+msgstr "Este programa tiene @fields.n_goals_prog cursos, ¿cuál quieres hacer primero?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@results.message_options"
+msgstr "@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "Disculpa, no entiendo a qué te refieres."
+
+#. type=text
+msgctxt "text"
+msgid "You have seen all the courses "
+msgstr "Has visto todos los cursos "
+
+#. type=text
+msgctxt "text"
+msgid "You are so close to completing the programme! You only have one course left."
+msgstr "¡Estás muy cerca de terminar el programa! Solo te queda un curso."
+
+#. type=text
+msgctxt "text"
+msgid "It’s time to pick a new parenting course! Which course would you like to complete next?"
+msgstr "¡Es hora de escoger un curso sobre crianza nuevo! ¿Qué curso te gustaría hacer ahora?"
+
+#. type=text
+msgctxt "text"
+msgid "You only have one course to start"
+msgstr "Solo te queda un curso por terminar"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?"
+msgstr "Completaste @fields.n_goals_completed de @fields.n_goals_prog cursos. ¿Qué curso te gustaría hacer a continuación?"
+
+#. type=text
+msgctxt "text"
+msgid "You have almost completed ParentText! Only this course remains:"
+msgstr "¡Ya casi terminas Crianza con Conciencia+! Solo queda este curso:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have seen all the courses and you have started @fields.n_goals_started courses. Which one would you like to complete?"
+msgstr "Ya viste todos los cursos y empezaste @fields.n_goals_started de ellos. ¿Cuál te gustaría completar?"
+
+#. type=text
+msgctxt "text"
+msgid "There are no new courses available."
+msgstr "No hay cursos nuevos disponibles."
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following course to start"
+msgstr "Solo queda el siguiente curso por empezar"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to begin this course?"
+msgstr "¿Quieres empezar este curso?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay."
+msgstr "No pasa nada."
+
+#. type=text
+msgctxt "text"
+msgid "Which new course would you like to start? "
+msgstr "¿Qué curso nuevo te gustaría empezar? "
+
+#. type=text
+msgctxt "text"
+msgid "You do not have have a current course. "
+msgstr "No tienes un curso activo ahorita. "
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following course started"
+msgstr "Solo has empezado el siguiente curso"
+
+#. type=text
+msgctxt "text"
+msgid "Which unfinished course would you like to complete?"
+msgstr "¿Cuál de los cursos incompletos te gustaría terminar?"
+
+#. type=text
+msgctxt "text"
+msgid "There are no incomplete courses. "
+msgstr "No hay cursos incompletos. "
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following course to complete"
+msgstr "Solo te hace falta completar el siguiente curso"
+
+#. type=text
+msgctxt "text"
+msgid "Great! Which unfinished course would you like to complete?"
+msgstr "¡Muy bien! ¿Cuál de los cursos incompletos te gustaría terminar?"
+
+#. type=text
+msgctxt "text"
+msgid "You're almost finished with this course! You only have 1 lesson remaining, "
+msgstr "¡Ya casi terminas este curso! Solamente te queda 1 sesión, "
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do?"
+msgstr "¿Qué te gustaría hacer?"
+
+#. type=text
+msgctxt "text"
+msgid "That’s okay. When you are ready, you can return to complete this course through the Progress Tracker in the Main Menu by typing {MENU}."
+msgstr "No pasa nada. Cuando tengas tiempo, puedes volver para completar este curso entrando a la opción de Seguir Mi Progreso que se encuentra en el Menú Principal. Solo tienes que mandar la palabra {MENU}."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You're almost finished with this course! You have @fields.c_n_mod_started lessons that haven't been finished. Which lesson would you like to complete?"
+msgstr "¡Ya casi terminas el curso! Te quedan @fields.c_n_mod_started sesiones por completar. ¿Qué sesión te gustaría terminar?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.c_mod_started) +1). Leave this course unfinished and select a new course"
+msgstr "@(word_count(fields.c_mod_started) +1). Deja este curso sin terminar y selecciona un curso nuevo"
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following lesson to complete:"
+msgstr "Solo te falta completar la siguiente sesión:"
+
+#. type=text
+msgctxt "text"
+msgid "Which lesson would you like to complete?"
+msgstr "¿Qué sesión te gustaría completar?"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't started to work on a course yet."
+msgstr "Aún no has empezado un curso."
+
+#. type=text
+msgctxt "text"
+msgid "You have only started the course"
+msgstr "Solo has empezado el curso"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like support on it?"
+msgstr "¿Quieres que te ayudemos?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can access more information at any time in the Main Menu. Just type {MENU}."
+msgstr "No pasa nada. Puedes tener acceso a más información, en cualquier momento, a través del Menú Principal. Solo tienes que mandar la palabra {MENU}."
+
+#. type=text
+msgctxt "text"
+msgid "What are you struggling with?"
+msgstr "¿Cuál es la dificultad que se está presentando?"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed a lesson yet."
+msgstr "Aún no has completado una sesión."
+
+#. type=text
+msgctxt "text"
+msgid "Which course do you want to review?"
+msgstr "¿Qué curso quieres revisar?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.goals_accessed) +1). Return to Main Menu"
+msgstr "@(word_count(fields.goals_accessed) +1). Regresar al Menú Principal"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any of the lessons in this course. "
+msgstr "No has completado ninguna de las sesiones de este curso. "
+
+#. type=text
+msgctxt "text"
+msgid "You have only completed the following lesson:"
+msgstr "Solo completaste la siguiente sesión:"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to review it?"
+msgstr "¿Te gustaría revisarlo?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can come back here at any time to review it."
+msgstr "No pasa nada. Puedes regresar para revisarlo en cualquier otro momento."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.n_s_modules_compl lessons within this course. Which lesson do you want to review?"
+msgstr "Completaste @fields.n_s_modules_compl sesiones de este curso. ¿Qué sesión quieres repasar?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.s_modules_compl) +1). Return to Main Menu"
+msgstr "@(word_count(fields.s_modules_compl) +1). Regresar al Menú Principal"
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do next?"
+msgstr "¿Qué te gustaría hacer a continuación?"
+
+#. type=text
+msgctxt "text"
+msgid "Great, see you tomorrow!"
+msgstr "Muy bien, ¡nos vemos mañana!"
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your teen?"
+msgstr "¿Qué tipo de actividad te gustaría probar con tu adolescente?"
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your baby?"
+msgstr "¿Qué tipo de actividad te gustaría probar con tu bebé?"
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your child?"
+msgstr "¿Qué tipo de actividad te gustaría probar con tu niña o niño?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to begin now or tomorrow?"
+msgstr "¿Te gustaría empezar ahorita o hasta mañana?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It takes only 5 days to complete the core course, @results.name. Once you've earned your certificate, you will have access to other helpful parenting courses. You can choose to take the courses that interest you or meet your family's needs. "
+msgstr "Completar el curso básico solo te llevará 5 días, @results.name. Una vez que hayas obtenido tu certificado, tendrás acceso a otros cursos útiles sobre crianza. Podrás escoger hacer los cursos que te interesen o los que mejor aporten a las necesidades de tu familia. "
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 You have completed the programme. Well done!"
+msgstr "🎉¡Lo lograste! ¡Felicidades!🎉 Has completado el programa. ¡Bien hecho!"
+
+#. type=text
+msgctxt "text"
+msgid "Remember, you can always return to ParentText and get extra support or review these courses. Just type {MENU}."
+msgstr "Recuerda que siempre puedes volver a Crianza con Conciencia+ para obtener ayuda adicional o repasar estos cursos. Solo tienes que mandar la palabra {MENU}."
+
+#. type=text
+msgctxt "text"
+msgid "Completing ParentText is an important achievement. Well done! New courses might be available soon. As they become available, you'll receive a notification through this channel. "
+msgstr "Completar Crianza con Conciencia+ es un logro importante. ¡Bien hecho! Es posible que pronto tengamos cursos nuevos disponibles. Cuando estén disponibles, recibirás una notificación a través de este canal. "
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it!🎉 You have completed the course and earned yourself a certificate. Congratulations! "
+msgstr "🎉¡Lo lograste!🎉 Has completado el curso y te has ganado un certificado. ¡Felicidades! "
 
