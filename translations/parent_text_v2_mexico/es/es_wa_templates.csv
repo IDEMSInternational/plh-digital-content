@@ -1,11 +1,44 @@
 "ID","name","uuid","text"
-"daily_interaction","","",""
-"first_module_intro","","",""
-"start_started_mod_or_change_goal","","",""
-"unfinished_onboarding","","",""
-"select_goal","","",""
-"no_response","","",""
-"post_goal_checkin","","",""
-"complete_start_module","","",""
-"new_goals_available","","",""
-"new_goal_available","","",""
+"daily_interaction","","","¡Tengo otra lección preparada para ti! ¿Es un buen momento para continuar con el curso, {{1}}?
+
+Presiona un número en el teclado:
+1. Sí
+2. No, recuérdamelo mañana. "
+"first_module_intro","","","Es hora de empezar el curso, {{1}}. ¿Estás listo?
+
+Presiona un número en el teclado:
+1. ¡Sí!
+2. Recuérdamelo mañana"
+"start_started_mod_or_change_goal","","","¡Ya casi terminas este curso! {{1}} ¿Qué te gustaría hacer?
+
+Presiona un número en el teclado:
+1. {{2}}
+2. Dejar este objetivo sin terminar y seleccionar un nuevo objetivo"
+"unfinished_onboarding","","","ParentText ha comenzado. ¿Estás listo para completar tu registro y empezar?
+
+Presiona un número en el teclado:
+1. Sí
+2. Recuérdamelo más tarde"
+"select_goal","","","Has hecho un gran progreso. ¿Estás listo para seleccionar tu siguiente curso de crianza?
+
+Presiona un número en el teclado:
+1. Sí
+2. No quiero hacer otro curso
+3. Recuérdamelo más tarde"
+"no_response","","","Parece que estos mensajes no funcionan. Presiona 1 cuando estés listo para continuar. "
+"post_goal_checkin","","","Hoy nos tomaremos un descanso de tu curso, {{1}}, y revisaremos tu progreso. Presiona 1 en el teclado para continuar."
+"complete_start_module","","","¡Estás desviándote! ¿Quieres completar un curso anterior o empezar uno nuevo?
+
+Presiona un número en el teclado:
+1. Completar
+2. Empezar uno nuevo"
+"new_goals_available","","","¡Hay nuevos cursos de crianza disponibles para ti! 
+
+Presiona un número en el teclado:
+1. ¡Cuéntame de ellos!
+2. No, ¡gracias! Ya soy un experto en crianza y no necesito otro curso. "
+"new_goal_available","","","¡Hay un nuevo curso de crianza disponible para ti! 
+
+Presiona un número en el teclado:
+1. ¡Cuéntame!
+2. No, ¡gracias! Ya soy un experto en crianza y no necesito otro curso. "
