@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-06 13:55\n"
+"PO-Revision-Date: 2024-02-06 14:49\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -536,6 +536,11 @@ msgstr "Tu situación sentimental se ha actualizado. Has desbloqueado un curso n
 msgctxt "text"
 msgid "To invite someone to join, share this link!"
 msgstr "Para invitar a alguien a unirse, ¡comparte este link!"
+
+#. type=text
+msgctxt "text"
+msgid "**************"
+msgstr "**************"
 
 #. type=text
 msgctxt "text"
@@ -1140,8 +1145,8 @@ msgstr "Continuar con mi progreso mañana"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit"
-msgstr "Salir"
+msgid "Exit menu"
+msgstr "Salir del Menú"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1362,12 +1367,6 @@ msgstr "Cambiar el género de mi niño o niña"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit menu"
-msgstr "Salir del Menú"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Review and track my progress"
 msgstr "Revisar y seguir mi progreso"
 
@@ -1470,8 +1469,8 @@ msgstr "continuar con mi progreso mañana"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "exit"
-msgstr "salir"
+msgid "exit menu"
+msgstr "salir del menú"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1574,6 +1573,12 @@ msgstr "empezar el curso nuevo y dejar mi curso actual incompleto"
 msgctxt "arguments"
 msgid "start a new course and leave my current course incomplete"
 msgstr "empezar un curso nuevo y dejar mi curso actual incompleto"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr "salir"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1688,12 +1693,6 @@ msgstr "actualizar el nombre de mi niño o niña"
 msgctxt "arguments"
 msgid "change my child's gender"
 msgstr "cambiar el género de mi niño o niña"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "exit menu"
-msgstr "salir del menú"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
