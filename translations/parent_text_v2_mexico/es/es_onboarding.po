@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-03 20:14\n"
+"PO-Revision-Date: 2024-02-06 00:57\n"
 
 #. type=text
 msgctxt "text"
@@ -46,6 +46,11 @@ msgstr "¿Su hijo es niño o niña?"
 
 #. type=text
 msgctxt "text"
+msgid "What is your state?"
+msgstr "¿Cuál es tu estado?"
+
+#. type=text
+msgctxt "text"
 msgid "What is your child's name?"
 msgstr "¿Cómo se llama tu niña o niño?"
 
@@ -58,6 +63,81 @@ msgstr "¿Cuál es tu apellido?"
 msgctxt "text"
 msgid "What is your first name?"
 msgstr "¿Cuál es tu nombre?"
+
+#. type=text
+msgctxt "text"
+msgid "Por favor seleccione su idioma:"
+msgstr "Por favor selecciona tu idioma:"
+
+#. type=text
+msgctxt "text"
+msgid "This programme works! Did you know that over 200 million parents around the world have used our resources developed by Parenting for Lifelong Health, WHO, and UNICEF?"
+msgstr "¡Este programa funciona! ¿Sabías que más de 200 millones de padres de todo el mundo han utilizado nuestros recursos desarrollados por Crianza con Conciencia+, la OMS y UNICEF?"
+
+#. type=text
+msgctxt "text"
+msgid "✅Participating in ParentText is optional. "
+msgstr "✅Participar en ParentText es opcional. "
+
+#. type=text
+msgctxt "text"
+msgid "✅Your personal information is safe and private. Your name and information will not be public, but your responses will be kept and used by researchers to learn how to support families like yours.  It may also be joined with other families’ experiences of the programs from other countries so that we can understand how they work across the world."
+msgstr "✅Tus datos personales están seguros y son privados. Tu nombre y tus datos no se harán públicos, pero tus respuestas se conservarán y serán utilizadas por los investigadores para saber cómo apoyar a familias como la tuya.  También podrán unirse a las experiencias de otras familias de otros países sobre los programas, para que podamos comprender cómo funcionan en todo el mundo."
+
+#. type=text
+msgctxt "text"
+msgid "❌You can stop when you want. Just type {STOP}"
+msgstr "❌Puedes parar cuando quieras. Solo tienes que escribir {STOP}"
+
+#. type=text
+msgctxt "text"
+msgid "Press YES if you agree with this. Type \"EXIT\" if you do not want to participate. "
+msgstr "Pulsa \"SÍ\" si estás de acuerdo. Escribe \"FINALIZAR\" si no quieres participar. "
+
+#. type=text
+msgctxt "text"
+msgid "That is wonderful, thank you so much! "
+msgstr "Es increíble, ¡muchas gracias! "
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry I did not understand. Press YES if you agree with this. Type \"EXIT\" if you do not want to participate."
+msgstr "Siento no haberlo entendido. Presiona \"SÍ\" si estás de acuerdo. Escribe \"FINALIZAR\" si no quieres participar."
+
+#. type=text
+msgctxt "text"
+msgid "Can you please confirm that you are 18 years old or older?"
+msgstr "¿Puedes confirmar que tienes 18 años o más?"
+
+#. type=text
+msgctxt "text"
+msgid "Great! Let's begin."
+msgstr "¡Increíble! Comencemos."
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type {STOP}. If you made a mistake, please press BACK and choose another option."
+msgstr "¿Estás seguro de que no quieres recibir estos mensajes? Si no quieres recibir más mensajes, escribe {STOP}. Si te has equivocado, presiona ATRÁS y elige otra opción."
+
+#. type=text
+msgctxt "text"
+msgid "If you ever return to participate in the programme, type {START}. "
+msgstr "Si alguna vez vuelves a participar en el programa, escribe {START}. "
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
+msgstr "Esperamos volver a verte pronto, ¡y te deseamos un feliz y tranquilo día!"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, ParentText is only for people over the age of 18. Do you confirm that you are under the age of 18?"
+msgstr "Lo sentimos, ParentText es solo para mayores de 18 años. ¿Confirmas que eres menor de 18 años?"
+
+#. type=text
+msgctxt "text"
+msgid "If you want to experience ParentText, you can always share it with your parents or caregivers."
+msgstr "Si quieres experimentar ParentText, siempre puedes compartirlo con tus padres, madres o cuidadores."
 
 #. type=text
 msgctxt "text"
@@ -258,6 +338,30 @@ msgstr "Inglés"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "YES"
+msgstr "SÍ"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, I am over 18"
+msgstr "Sí, tengo más de 18 años"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, I am under 18"
+msgstr "No, soy menor de 18 años"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "BACK"
+msgstr "ATRÁS"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Yes"
 msgstr "Sí"
 
@@ -386,6 +490,48 @@ msgstr "español"
 msgctxt "arguments"
 msgid "english"
 msgstr "inglés"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y"
+msgstr "sí y"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr "finalizar"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y over"
+msgstr "sí y encima"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n under"
+msgstr "no n bajo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop"
+msgstr "para"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "back"
+msgstr "atrás"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n"
+msgstr "no n"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
