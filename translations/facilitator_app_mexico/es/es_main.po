@@ -11,7 +11,13 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-06 23:27\n"
+"PO-Revision-Date: 2024-02-08 17:57\n"
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Crianza con Conciencia+ in Mexico. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
+msgstr "@global.app_name es una aplicación diseñada por IDEMS Internacional y Parenting for Lifelong Health para apoyar la ampliación de Crianza con Concienca+ en México. Su contenido está disponible bajo una licencia Creative Commons Internacional 4.0 de código abierto. Se desarrolló en colaboración con socios clave:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -79,6 +85,11 @@ msgstr "Socios"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Facilitator Manual"
+msgstr "Manual del Facilitador"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "About you"
 msgstr "Sobre Ti"
 
@@ -136,8 +147,23 @@ msgstr "Te damos la bienvenida"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Getting to know each other"
+msgstr "Conociéndonos"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Overview of Crianza con Conciencia+ programme"
 msgstr "Repaso General del Programa Crianza con Conciencia+"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Getting Started with Crianza con Conciencia+ chatbot"
+msgstr "Empezando con el programa Crianza con Conciencia+ chat automatizado"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Introduction to Phone Use"
+msgstr "Introducción al uso del teléfono"
 
 #. type=data_list
 msgctxt "data_list"
@@ -156,8 +182,28 @@ msgstr "Más adelante"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Setting up Ground Rules"
+msgstr "Establecer Reglas Generales"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Facilitator’s Role"
+msgstr "Rol del Facilitador"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Questions"
+msgstr "Preguntas"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Connecting Formando Conciencia+ and Parent ID"
 msgstr "Conectar Formando Conciencia+ y el Número de Identificación del Padre, Madre o Persona Cuidadora"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Closing Activity"
+msgstr "Actividad de Cierre"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1369,6 +1415,11 @@ msgstr "La Sesión de Introducción sienta las bases del programa Crianza con Co
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Manual"
+msgstr "Manual"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How to Conduct WhatsApp Group Chat Sessions"
 msgstr "Cómo Dirigir Sesiones Grupales de Chat en WhatsApp"
 
@@ -2294,6 +2345,16 @@ msgstr "Tu estado"
 msgctxt "global"
 msgid "your supervisor"
 msgstr "tu supervisor"
+
+#. type=global
+msgctxt "global"
+msgid "your Bienestar supervisor"
+msgstr "tu supervisor dentro de la Secretaría de Bienestar"
+
+#. type=global
+msgctxt "global"
+msgid "your DIF supervisor"
+msgstr "tu supervisor dentro de DIF"
 
 #. type=template
 msgctxt "template"
