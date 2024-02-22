@@ -11,7 +11,13 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-20 17:11\n"
+"PO-Revision-Date: 2024-02-22 07:56\n"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Module name: @results.name"
+msgstr "课程名称：@results.name"
 
 #. type=text
 msgctxt "text"
