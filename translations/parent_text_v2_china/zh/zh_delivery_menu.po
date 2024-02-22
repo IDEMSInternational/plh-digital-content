@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-19 14:30\n"
+"PO-Revision-Date: 2024-02-22 01:43\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -415,6 +415,17 @@ msgstr ""
 "你正在学习 @results.name 这一目标模块。\n"
 "\n"
 "今天，我们先暂停一下，稍作休息。让我们先来查看一下你的进展。点击“1”以继续。"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "*DAY @fields.curr_demo_day*"
+msgstr "*DAY @fields.curr_demo_day*"
+
+#. type=text
+msgctxt "text"
+msgid "You completed the ParentText demo. Type RESET and then START to re-start from the beginning."
+msgstr "你已经看完了“科育时光”的介绍。如想重新开始，请输入“返回”，然后输入“开始”。"
 
 #. type=text
 msgctxt "text"
@@ -1156,60 +1167,6 @@ msgstr "1"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Track My Progress"
-msgstr "查看进度"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Share with a Friend"
-msgstr "和朋友分享"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Emergencies"
-msgstr "紧急情况"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Settings"
-msgstr "设置"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Activities"
-msgstr "活动"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "How to Use ParentText"
-msgstr "查看如何使用“科育时光”"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Get Help with the Goals I am Working on"
-msgstr "练习遇到困难，获取更多帮助"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Review Completed Skills"
-msgstr "回顾已学技能"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Exit Menu"
-msgstr "退出菜单"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Change your profile"
 msgstr "更改个人设置"
 
@@ -1224,12 +1181,6 @@ msgstr "停止接收消息"
 msgctxt "quick_replies"
 msgid "Return to Main Menu"
 msgstr "返回主菜单"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Your Language"
-msgstr "语言"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1266,6 +1217,48 @@ msgstr "你孩子的昵称"
 msgctxt "quick_replies"
 msgid "Your Child's Gender"
 msgstr "你孩子的性别"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Track My Progress"
+msgstr "查看进度"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Emergencies"
+msgstr "紧急情况"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Settings"
+msgstr "设置"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Activities"
+msgstr "活动"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "How to Use ParentText"
+msgstr "查看如何使用“科育时光”"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review Completed Skills"
+msgstr "回顾已学技能"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit Menu"
+msgstr "退出菜单"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1503,60 +1496,6 @@ msgstr "有!"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "track my progress"
-msgstr "查看进度"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "share with a friend"
-msgstr "和朋友分享"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "emergencies"
-msgstr "紧急情况"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "settings"
-msgstr "设置"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "activities"
-msgstr "活动"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "how to use parenttext"
-msgstr "查看如何使用“科育时光”"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "get help with the goals i am working on"
-msgstr "练习遇到困难，获取更多帮助"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "review completed skills"
-msgstr "回顾已学技能"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "exit menu"
-msgstr "退出菜单"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "change your profile"
 msgstr "更改个人设置"
 
@@ -1571,12 +1510,6 @@ msgstr "停止接收消息"
 msgctxt "arguments"
 msgid "return to main menu"
 msgstr "返回主菜单"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "your language"
-msgstr "语言"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1613,6 +1546,48 @@ msgstr "你孩子的昵称"
 msgctxt "arguments"
 msgid "your child's gender"
 msgstr "你孩子的性别"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "track my progress"
+msgstr "查看进度"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "emergencies"
+msgstr "紧急情况"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "settings"
+msgstr "设置"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "activities"
+msgstr "活动"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "how to use parenttext"
+msgstr "查看如何使用“科育时光”"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review completed skills"
+msgstr "回顾已学技能"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit menu"
+msgstr "退出菜单"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
