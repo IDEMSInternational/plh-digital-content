@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-08 07:08\n"
+"PO-Revision-Date: 2024-02-22 07:56\n"
 
 #. type=text
 msgctxt "text"
@@ -56,6 +56,11 @@ msgstr "我们怎么称呼你的孩子？（如：轩轩、欣欣）"
 
 #. type=text
 msgctxt "text"
+msgid "Please type \"N\" if you prefer not to answer."
+msgstr "如不想回答，请输入“过”。"
+
+#. type=text
+msgctxt "text"
 msgid "What is your family name (surname)?"
 msgstr ""
 "首先，请告诉我你的姓名，仅用于制作结课证书。\n"
@@ -66,11 +71,6 @@ msgstr ""
 msgctxt "text"
 msgid "What is your first name?"
 msgstr "你名什么？"
-
-#. type=text
-msgctxt "text"
-msgid "Please select your language:"
-msgstr "请选择你的语言："
 
 #. type=text
 msgctxt "text"
@@ -157,6 +157,11 @@ msgstr "如果你想体验“科育时光”，你可以随时发给你的家长
 msgctxt "text"
 msgid "Here is a video that shows how to use ParentText."
 msgstr "以下视频将为你介绍“科育时光”的使用方法。"
+
+#. type=text
+msgctxt "text"
+msgid "⏯ Click to watch the video"
+msgstr "⏯ 点击观看视频（先看视频，再点下一步😎）"
 
 #. type=text
 msgctxt "text"
@@ -297,26 +302,14 @@ msgstr "单身（无伴侣）"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Married"
-msgstr "已婚"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Partnered but not married"
 msgstr "未婚但有伴侣"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "English"
-msgstr "英语"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Chinese"
-msgstr "中文"
+msgid "Married"
+msgstr "已婚"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -411,26 +404,14 @@ msgstr "单身（无伴侣）"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "married"
-msgstr "已婚"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "partnered but not married"
 msgstr "未婚但有伴侣"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "english"
-msgstr "英语"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "chinese"
-msgstr "中文"
+msgid "married"
+msgstr "已婚"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
