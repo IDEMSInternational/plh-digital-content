@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-28 10:34\n"
+"PO-Revision-Date: 2024-02-28 11:10\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -1017,6 +1017,11 @@ msgctxt "text"
 msgid "You have reached the end of this skill! 🎉 "
 msgstr "你已经学完这个技能了！🎉 "
 
+#. type=text
+msgctxt "text"
+msgid "Click to view all goals and modules"
+msgstr "点击查看课程概览"
+
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
@@ -1250,6 +1255,12 @@ msgstr "活动"
 msgctxt "quick_replies"
 msgid "How to Use ParentText"
 msgstr "查看如何使用“科育时光”"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View all goals and modules"
+msgstr "课程概览"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1585,6 +1596,12 @@ msgstr "活动"
 msgctxt "arguments"
 msgid "how to use parenttext"
 msgstr "查看如何使用“科育时光”"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view all goals and modules"
+msgstr "课程概览"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
