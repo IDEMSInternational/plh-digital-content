@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-22 11:54\n"
+"PO-Revision-Date: 2024-02-28 10:34\n"
 
 #. type=text
 msgctxt "text"
@@ -198,7 +198,7 @@ msgstr "请重新输入。请按以下方式输入孩子的出生日期：年/�
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
-msgstr " @fields.child_nickname 今年 @(tround_down(datetime_diff(results.date,now(),\"M\")/12)) 岁了，是吗？"
+msgstr "@fields.child_nickname 今年 @(round_down(datetime_diff(results.date,now(),\"M\")/12)) 岁了，是吗？"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
