@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Chinese Simplified\n"
 "\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-27 10:10\n"
+"PO-Revision-Date: 2024-02-28 06:03\n"
 
 #. type=text
 msgctxt "text"
@@ -107,7 +107,7 @@ msgstr "你想做点什么呢？"
 msgctxt "text"
 msgid "We hope this was helpful! You can access this information at any time by typing {HELP}."
 msgstr ""
-"希望这些信息能有用！\n"
+"希望你找到了想要的信息！\n"
 "你可以随时输入 {HELP} ，来获取这些资源。"
 
 #. type=text
@@ -361,6 +361,12 @@ msgstr "放慢节奏"
 msgctxt "arguments"
 msgid "id"
 msgstr "ID"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "rejoin"
+msgstr "重新加入“科育时光”"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
