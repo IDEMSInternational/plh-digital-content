@@ -1,0 +1,436 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: 652eb1a39a0f8681c408f40296bb88b4\n"
+"X-Crowdin-Project-ID: 3\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/translations/parent_text_crisis_global/en/delivery_menu.pot\n"
+"X-Crowdin-File-ID: 388\n"
+"Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
+"Language-Team: Chinese Simplified\n"
+"\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-03-06 17:29\n"
+
+#. type=text
+msgctxt "text"
+msgid "fail"
+msgstr "失败"
+
+#. type=text
+msgctxt "text"
+msgid "Let’s get started. Press NEXT to begin."
+msgstr "让我们开始吧！请点击“下一步”。"
+
+#. type=text
+msgctxt "text"
+msgid "NA"
+msgstr "无"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@(text_slice(results.message_options,3))."
+msgstr " @(text_slice(results.message_options,3)) ."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@results.message_options"
+msgstr "@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "抱歉，我不明白你的意思。"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to review it?"
+msgstr "你想回顾一下吗？"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can come back here at any time to review it."
+msgstr "没关系。你可以随时回来回顾这项技能。"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.s_modules_compl) +1). Return to Main Menu"
+msgstr "@(word_count(fields.s_modules_compl) +1). 回到主菜单"
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do next?"
+msgstr "接下来你想做什么？"
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do?"
+msgstr "你想做点什么呢？"
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your child?"
+msgstr "你想和孩子一起尝试什么样的活动？"
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to begin now or tomorrow?"
+msgstr "你想现在开始，还是明天再开始？"
+
+#. type=text
+msgctxt "text"
+msgid "Great, see you tomorrow!"
+msgstr "好的，明天见！"
+
+#. type=text
+msgctxt "text"
+msgid "Press a number on your keypad:"
+msgstr "请输入数字："
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me tomorrow"
+msgstr "2. 明天提醒我"
+
+#. type=text
+msgctxt "text"
+msgid "1. Yes"
+msgstr "1. 是"
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}."
+msgstr ""
+"希望你找到了想要的信息！\n"
+"你可以随时输入 {MENU} ，来访问主菜单。"
+
+#. type=text
+msgctxt "text"
+msgid "What would you like change?"
+msgstr "你想更改什么？"
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text, Images, and Videos."
+msgstr "你当前选择的是接收漫画、视频和简略文本。"
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text, Images, and Audio."
+msgstr "你当前选择的是接收文本、图片和音频。"
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text and Images Only."
+msgstr "你当前选择的是接收漫画和详细文本。"
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is"
+msgstr "你当前选择的是"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't provide this info."
+msgstr "你没有提供此信息。"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change it?"
+msgstr "你想更改吗？"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us if you are a woman or a man. "
+msgstr "你没有告诉我们你的性别。 "
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Woman."
+msgstr "你告诉我们你是女性。"
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Man."
+msgstr "你告诉我们你是男性。"
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a"
+msgstr "你告诉我们你是"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update your gender?"
+msgstr "你要更新你的性别吗？"
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in English."
+msgstr "你目前正在接收英文消息。"
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in"
+msgstr "你目前正在接收"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change your language?"
+msgstr "你想要更改语言吗？"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "*DAY @fields.curr_demo_day*"
+msgstr "*DAY @fields.curr_demo_day*"
+
+#. type=text
+msgctxt "text"
+msgid "You completed the ParentText demo. Type RESET and then START to re-start from the beginning."
+msgstr "你已经看完了“科育时光”的介绍。如想重新开始，请先输入“重来”，然后再输入“开始”。"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "下一步"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr "有"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr "否"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NA"
+msgstr "无"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View another activity idea"
+msgstr "查看下一个建议"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to Main Menu"
+msgstr "转到主菜单"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit menu"
+msgstr "退出菜单"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Quick"
+msgstr "简短的活动"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Active"
+msgstr "动起来的活动"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Calm"
+msgstr "安静的活动"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Now"
+msgstr "现在"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Tomorrow"
+msgstr "明天"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "1"
+msgstr "1"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "2"
+msgstr "2"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "3"
+msgstr "3"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Menu"
+msgstr "返回菜单"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get more help"
+msgstr "其他困难"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Stop receiving the messages"
+msgstr "停止接收消息"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Main Menu"
+msgstr "返回主菜单"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change other profile info"
+msgstr "更改其他设置"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no"
+msgstr "否"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes"
+msgstr "有"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view another activity idea"
+msgstr "查看下一个建议"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go to main menu"
+msgstr "转到主菜单"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit menu"
+msgstr "退出菜单"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something quick"
+msgstr "简短的活动"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something active"
+msgstr "活跃的活动"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something calm"
+msgstr "安静的活动"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "now"
+msgstr "现在"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "tomorrow"
+msgstr "明天"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "1"
+msgstr "1"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "2"
+msgstr "2"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "3"
+msgstr "3"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to menu"
+msgstr "返回菜单"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get more help"
+msgstr "其他困难"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop receiving the messages"
+msgstr "停止接收消息"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to main menu"
+msgstr "返回主菜单"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep ok"
+msgstr "是"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "否"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change other profile info"
+msgstr "更改其他设置"
+
