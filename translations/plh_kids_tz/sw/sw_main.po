@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2024-03-06 07:47\n"
+"PO-Revision-Date: 2024-03-06 13:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -959,6 +959,18 @@ msgstr "swali"
 msgctxt "template"
 msgid "option"
 msgstr "chaguo"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      !@local.option_1_image
+#.      !@local.option_2_image
+#.      !@local.option_3_image
+#.      !@local.option_4_image
+#.      !@local.option_5_image
+#.      !@local.option_6_image
+msgctxt "template"
+msgid "!!@local.option_1_image || !!@local.option_2_image || !!@local.option_3_image || !!@local.option_4_image || !!@local.option_5_image || !!@local.option_6_image"
+msgstr "!!@local.option_1_image || !!@local.option_2_image || !!@local.option_3_image || !!@local.option_4_image || !!@local.option_5_image || !!@local.option_6_image"
 
 #. type=template
 msgctxt "template"
