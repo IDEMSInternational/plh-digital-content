@@ -11,7 +11,12 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2024-02-27 17:54\n"
+"PO-Revision-Date: 2024-03-06 07:47\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a moment to check in with yourself."
+msgstr "Chukua muda kujiangalia wewe mwenyewe."
 
 #. type=data_list
 msgctxt "data_list"
@@ -64,6 +69,12 @@ msgid "Wonderful, I am so happy! Keep up the good work."
 msgstr "Vizuri, nimefurahi sana! Endeleza kazi hiyo nzuri."
 
 #. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "Sorry that things are difficult. All families struggle. @global.app_name is here to help!"
+msgstr "Pole kwa mambo kuwa magumu. Familia zote zinapambana. @global.app_name iko hapa kukusaidia!"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Whatever went ‘wrong’ today, let it go and try again tomorrow. It is okay!"
 msgstr "Jambo lolote lililoenda 'vibaya' leo, hebu lisahau na ujaribu tena kesho. Itakuwa sawa!"
@@ -77,6 +88,12 @@ msgstr "Kujitunza ni muhimu. Na jinsi unavyohisi ni muhimu pia!"
 msgctxt "data_list"
 msgid "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone."
 msgstr "Wakati mwingine mambo huenda vizuri sana. Wakati mwingine hayaendi vizuri sana. Na wakati mwingine hatujui kabisa cha kufanya... na hii ni sawa kabisa! Kumbuka kwamba hauko peke yako."
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "Sorry that things are hard right now. You deserve good things and @global.app_name is here to support you every step of the way."
+msgstr "Samahani kwamba mambo ni magumu kwa sasa. Unastahili mambo mazuri, na @global.app_name iko hapa kukusaidia kila hatua unayopiga."
 
 #. type=data_list
 msgctxt "data_list"
@@ -107,6 +124,12 @@ msgstr "Hongera kwa kutambua hisia chanya. Nimefurahi kusikia kwamba unajisikia 
 msgctxt "data_list"
 msgid "Well done for recognising that you are not feeling great. Be kind to yourself, you deserve it."
 msgstr "Umefanya vizuri kwa kutambua kuwa hujisikii vizuri. Unastahili kuwa mwema kwako mwenyewe."
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "Well done for recognising a difficult feeling. It is okay not to be okay sometimes. Remember @global.app_name is here to support you."
+msgstr "Umefanya vizuri kutambua hisia ngumu. Ni sawa kutokuwa sawa wakati mwingine. Kumbuka @global.app_name iko hapa kukusaidia."
 
 #. type=data_list
 msgctxt "data_list"
@@ -185,8 +208,19 @@ msgstr "Kila siku ina nyakati zake nzuri na ngumu. Jisifu kwa kila kitu ambacho 
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Sorry to hear you are feeling difficult feelings today. Well done for recognising those emotions and trying to be calm and kind to yourself. You are setting a great example for your family."
+msgstr "Tunasikitika kusikia kuwa leo unajisikia vibaya. Hongera kwa kutambua hisia hizo, na kujaribu kuwa mtulivu na kuwa mwema kwako mwenyewe. Unaweka mfano mzuri kwa familia yako."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Fantastic! And well done for investing in yourself and your family – you have accomplished a lot."
 msgstr "Hongera! umefanya vizuri kuwekeza kwako na familia yako – umefanikisha mengi."
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "Sorry that you are not having the best day. Well done for trying to figure everything out. @global.app_name is here to help."
+msgstr "Pole kwa kutokuwa na siku nzuri zaidi. Umefanya vizuri kwa kujaribu kubaini kila kitu. @global.app_name iko hapa kukusaidia."
 
 #. type=data_list
 msgctxt "data_list"
@@ -265,8 +299,39 @@ msgstr "Unajisikiaje leo?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"This week, we are focusing on the topic of **CONNECTION**.\n"
+"\n"
+"Connecting with your child and spending quality time together makes a big difference to their development."
+msgstr ""
+"Wiki hii, tutajikita juu ya mada ya **MUUNGANIKO (UKARIBU)**.\n"
+"\n"
+"Kuungana na mtoto wako na kuwa na muda pamoja naye, kunaleta utofauti mkubwa kwenye maendeleo/ukuaji wao."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**CONNECTING** with our children is not always easy!"
+msgstr "**Kuweka ukaribu** na watoto wetu sio rahisi kila wakati!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Listen to the audio to learn more."
+msgstr "Sikiliza sauti na ujifunze zaidi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Have you experienced this?"
+msgstr "Je hii imeshawahi kukutokea?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Yes"
 msgstr "Ndiyo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many people feel this way. We have some easy activities that could help."
+msgstr "Watu wengi hujisikia hivi, kuna vitu rahisi vya kufanya ambavyo vinaweza kusaidia."
 
 #. type=data_list
 msgctxt "data_list"
@@ -275,8 +340,251 @@ msgstr "Hapana"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "It’s great that you make time to connect with your child. We have some extra ideas you might like."
+msgstr "Ni vizuri kwamba unatenga mud awa kuwa karibu na mtoto wako. Tuna Mawazo ya ziada ambayo unaweza kuyapenda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"How to **CONNECT**?\n"
+"\n"
+"Join your child in their world!"
+msgstr ""
+"Ni kwa jinsi gani unakuwa karibu?\n"
+"\n"
+"Jiunge na mtoto wako katika dunia yake!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Joining your child in their world means giving them your full attention, and letting them lead. You don’t need a lot of time - even 10 minutes a day can make a big difference. Here’s how:\n"
+"Make time to spend with your child one-on-one. Try to minimise distractions and interruptions.\n"
+"\n"
+"Join your child in their world by getting down on your child’s level. Sit close to them to make it a shared experience.\n"
+"\n"
+"Let your child decide what to play and how to play. Don’t try to change what they are doing or instruct them. Instead, follow their lead. \n"
+"\n"
+"During the activity, observe and listen. Pay attention to what your child is doing or saying. Be curious about what they might be thinking and feeling.   \n"
+"\n"
+"Respond to what your child is doing with enthusiasm and praise. You could say: I see you are enjoying playing with these blocks. Wow! You are building such a tall and strong wall!\n"
+"\n"
+"Joining your child in their world and giving them your full attention helps them feel close and connected to you. This helps you build a strong relationship with your child. A strong relationship with you will help them to have healthy relationships with others in the future."
+msgstr ""
+"Kuungana na mtoto wako kwenye dunia yake ni kumuangalia kwa umakini mkubwa na kuwaacha waongoze. Huhitaji muda mwingi - hata dakika kumi tu kwa siku inaleta utofauti. Fahamu ni jinsi gani unaweza kuungana na mtoto wako: Tenga muda wa kuwa pamoja na mtoto wako kwa ukaribu. Jaribu kupunguza usumbufu na  mwingiliano.\n"
+"\n"
+"Jiunge na mtoto wako kwenye dunia yao kwa kujishusha  kwenye viwango vyao. Kaa karibu nao ili kufanya mazingira  ya kushirikishana uzoefu yawe shirikishi.\n"
+"\n"
+"Acha mtoto wako aamue nini cha kucheza na jinsi ya kucheza, usijaribu kubadilisha wanachokifanya au kuwaelekeza badala yake fuata muongozo wao.\n"
+"\n"
+"Wakati mchezo unaendelea, angalia kwa umakini na usikilize. Kuwa makini kwa anachokifanya mtoto au anachokisema. Uwe na hamu ya  kujua wanachokifikiria na kuhisi.\n"
+"\n"
+"Kwa shauku itikia kile mtoto wako anafanya  na msifie. Unaweza kusema. Naona unafurahia kuchezea matofali haya. Wow! Unajenga ukuta mrefu na imara.\n"
+"\n"
+"Kwa kuungana na mtoto wako kwenye dunia yao na kuwa makini nao sana, kunasaidia wajisikie wapo pamoja na wewe. Hii inakusaidia kujenga uhusiano imara na mtoto wako. Kuwa na uhusiano imara na wewe kutawasaidia wawe na uhusiano mzuri na watu wengine hapo baadae."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let’s see what happens when we don’t let our child to take the lead:"
+msgstr "Acha tuone nini kinatokea tusipoacha watoto wetu watuongoze:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let’s play with the blocks together, Lonwabo."
+msgstr "Ngoja tuchezee haya matofali pamoja, Lonwabo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who can build a taller tower?"
+msgstr "Nani anaweza kujenga jengo refu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "No, you are doing it wrong. Use the big blocks for the bottom and the small blocks for the top."
+msgstr "Hapana, unakosea. Tumia tofali kubwa chini na matofari madogo juu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Where are you going? Why don’t you want to play together?"
+msgstr "Unaenda wapi? Kwanini hutaki tucheze pamoja?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Who is leading the activity?"
+msgstr "Nani anaongoza mchezo?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yes, the father is choosing what to play and how to play, instead of letting his son take the lead."
+msgstr "Ndio, ni mama anachagua nini cha kucheza na jinsi ya kucheza. Badala ya kumuacha mtoto aongoze."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at the story, we can see that the father is actually the one who is choosing what to play and how to play."
+msgstr "Kwa kuangalia hadithi, tunaona kwamba mama ndiye hasa anachagua nini cha kucheza na jinsi ya kucheza."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How does Lonwabo feel when his father says he is doing it wrong?"
+msgstr "Mtoto anajisikiaje pale mama yake anaposema amekosea?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He feels unhappy and deflated. He might not want to play together again."
+msgstr "Anajisikia kutokuwa na furaha na kuvunjwa moyo. Inawezekana hataki kucheza tena pamoja."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at the story, we can see from Lonwabo’s face that he feels unhappy, and then walks away."
+msgstr "Kwa kuangalia hadithi, tunaona kwamba mama ndiye hasa anachagua nini cha kucheza na jinsi ya kucheza."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What could the father have done differently?"
+msgstr "Mama angeweza kufanya nini cha tofauti?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Good question! He could have let his child lead and used praise instead of criticism."
+msgstr "Swali zuri! Angeweza kuacha mtoto aongoze na angemsifia badala ya kumkosoa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Listen to learn more."
+msgstr "Sikiliza kwa ajili ya kujifunza zaidi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Looking for a quick and powerful connection activity? \n"
+"\n"
+"A great way to connect with your child is to look at a book together."
+msgstr ""
+"Unafuta njia ya haraka na yenye nguvu ya kuleta ukaribu?\n"
+"\n"
+"Njia nzuri ya kuwa na mtoto wako ni kutazama kitabu kwa pamoja."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here’s how to connect during book activities:"
+msgstr "Hii ni jinsi ya kuleta ukaribu wakati wa kusoma kitabu:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "As you go through the book, notice and respond to what your child is interested in."
+msgstr "Unaposoma kitabu, tambua na itikia kile mtoto wako anavutiwa nacho."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Listen for an example."
+msgstr "Sikiliza kwa mfano."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let your child set the pace. They might want to spend a long time talking about one page or move on quickly to the next page. Follow their lead."
+msgstr "Acha mtoto awe na kasi, wanaweza kutumia muda mrefu kwenye ukurasa mmoja au Kwenda ukurasa unaofuata kwa haraka. Fuata muongozo wao."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Always try to respond to what your child is saying in a positive and enthusiastic way."
+msgstr "Daima jaribu kumuitikia mtoto wako katika mtazamo chanya na kwa shauku kwa kile anachokisema."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Positive responses? What’s that?"
+msgstr "Mwitikio Chanya ni nini?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here’s how to **CONNECT** with your child using a quick and easy daily activity:"
+msgstr "Hivi ndivyo unaweza ** KUUNGANA** na mtoto wako kwa kutumia shughuli za kila siku za haraka na rahisi:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**MINIMISE DISTRACTIONS**"
+msgstr "**PUNGUZA USUMBUFU**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Giving your child your full attention helps your child to feel connected to you."
+msgstr "Kuwa makini zaidi na mtoto wako kunamfanya ajisikie kuwa pamoja na wewe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**FOLLOW YOUR CHILD’S LEAD**"
+msgstr "**FUATA MWONGOZO WA MTOTO WAKO**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Don’t try to change or control what your child is doing."
+msgstr "Usijaribu kubadili au kutawala anachofanya mtoto wako."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This helps your child feel important and in control."
+msgstr "Hii itamsaidia mtoto wako kujisikia muhimu na mwenye mamlaka."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "**OBSERVE AND LISTEN**"
+msgstr "**TAZAMA NA SIKILIZA**"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pay attention to what your child is doing. Be curious about what they might be thinking and feeling. Talk about that."
+msgstr "Kuwa makini na kile mtoto wako anafanya. Kuwa na hamu ya kujua ambacho wanaweza kufikiri na kujisikia. Zungumza kuhusu hilo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More info"
+msgstr "Taarifa zaidi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This shows your child you are interested and helps your child feel connected to you"
+msgstr "Hii inaonyesha mtoto wako anavutiwa na inamsaidia kujiskia kuwa yuko pamoja na wewe"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Want to try this at home?\n"
+"\n"
+" We have lots of books you can share with your child to **CONNECT**."
+msgstr ""
+"Unataka kujaribu hii ukiwa nyumbani?\n"
+"\n"
+"Tuna vitabu vingi unaweza kushirikishana na mtoto wako ili ** KUJIWEKA KARIBU NAE**."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"As you go through the book, remember to:\n"
+"\n"
+"1. Give your child your full attention\n"
+"2. Let your child lead the activity\n"
+"3. Talk about what interests them\n"
+"4. Respond with praise and encouragement"
+msgstr ""
+"Kadiri mnavyosoma kitabu, kumbuka:\n"
+"\n"
+"1. Kuwa makini sana na mtoto wako\n"
+"2. Acha mtoto wako aongoze \n"
+"3. Zungumza kuhusu yale yanayowavutia\n"
+"4. Itikia kwa kumsifia na kumtia moyo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Watch this video to see how."
+msgstr "Tazama video hii ili kujua namna ya kufanya."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Learn"
 msgstr "Jifunze"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Relaxation Activities"
+msgstr "Shughuli za kupumzika"
 
 #. type=data_list
 msgctxt "data_list"
@@ -428,6 +736,27 @@ msgstr "Wimbo wako"
 msgctxt "data_list"
 msgid "Ground & gratitude"
 msgstr "Ardhi & shukrani"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Close your eyes.\n"
+"\n"
+"Take a moment to feel the ground under your feet.\n"
+"Think of something you feel grateful for.\n"
+"Focus on your breath.\n"
+"Breathe in and out.\n"
+"\n"
+"In and out."
+msgstr ""
+"Fumba macho yako.\n"
+"\n"
+"Tumia muda kuhisi ardhi iliyopo chini ya miguu yako.\n"
+"Fikiria kuhusu jambo unalolishukuru.\n"
+"Makinikia upumuaji wako.\n"
+"Vuta pumzi na kuzishusha.\n"
+"\n"
+"Vuta na kushusha pumzi."
 
 #. type=data_list
 msgctxt "data_list"
@@ -591,6 +920,12 @@ msgid "Submit"
 msgstr "Tuma"
 
 #. type=template
+#. The string @local.submit should not be translated.
+msgctxt "template"
+msgid "To launch the app in developer mode, enter your developer code in the box below and press @local.submit."
+msgstr "Ili kuzindua programu katika hali ya kubuni, weka msimbo wako wa kubuni kwenye kisanduku kilicho hapa chini na ubonyeze @local.submit."
+
+#. type=template
 msgctxt "template"
 msgid "You have successfully entered developer mode."
 msgstr "Umefanikiwa kuingia kwenye njia ya msanidi wa programu."
@@ -614,6 +949,16 @@ msgstr "Iliyopita"
 msgctxt "template"
 msgid "Next"
 msgstr "Inayofuata"
+
+#. type=template
+msgctxt "template"
+msgid "question"
+msgstr "swali"
+
+#. type=template
+msgctxt "template"
+msgid "option"
+msgstr "chaguo"
 
 #. type=template
 msgctxt "template"
