@@ -9,11 +9,26 @@ first_module_intro,,,"It’s time to get started on your course, {{1}}. Are you 
 Press a number on your keypad:
 1. Yes!
 2. Remind me tomorrow"
-start_started_mod_or_change_goal,,,"You're almost finished with this course! {{1}} What would you like to do?
+start_started_mod_or_change_goal_one,,,"You're almost finished with this course! You only have 1 unfinished lesson. What would you like to do?
 
 Press a number on your keypad:
-1. {{2}}
-2. Leave this goal unfinished and select a new goal"
+1. Finish this lesson and earn my course certificate
+2. Leave this course unfinished and select a new course"
+start_started_mod_or_change_goal_multiple,,,"You're almost finished with this course! You have @fields.c_n_mod_started unfinished lessons. What would you like to do?
+
+Press a number on your keypad:
+1. Complete unfinished lessons to earn my course certificate
+2. Leave this course unfinished and select a new course"
+start_started_mod_or_later_one,,,"You're almost finished with this course! You only have 1 unfinished lesson. What would you like to do?
+
+Press a number on your keypad:
+1. Finish this lesson and earn my course certificate
+2. Remind me tomorrow"
+start_started_mod_or_later_multiple,,,"You're almost finished with this course! You have @fields.c_n_mod_started unfinished lessons. What would you like to do?
+
+Press a number on your keypad:
+1. Complete unfinished lessons to earn my course certificate
+2. Remind me tomorrow"
 unfinished_onboarding,,,"ParentText has begun. Are you ready to complete your registration and get started?
 
 Press a number on your keypad:
@@ -26,8 +41,7 @@ Press a number on your keypad:
 2. I don't want to take another course
 3. Remind me Later"
 no_response,,,"These messages don’t seem to be working. When you are ready to keep going, press 1. "
-post_goal_checkin,,,"Today we are taking a break from your course, {{1}}, and checking in on your progress. Press 1 on your keypad to proceed."
-complete_start_module,,,"You’re off track! Do you want to complete a previous course or start a new course?
+complete_start_module,,,"You’re off track! Do you want to complete a previous lesson or start a new lesson?
 
 Press a number on your keypad:
 1. Complete
