@@ -11,5 +11,83 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-06 17:56\n"
+"PO-Revision-Date: 2024-03-15 06:24\n"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "In this program, you will receive @fields.c_n_mod tips. You will receive a new tip each day. Your first tip is @results.name."
+msgstr "Dans ce programme, vous recevrez @fields.c_n_mod des conseils. Vous recevrez un nouveau conseil chaque jour. Votre premier conseil est @results.name."
+
+#. type=text
+msgctxt "text"
+msgid "fail"
+msgstr "échec"
+
+#. type=text
+msgctxt "text"
+msgid "Let’s get started. Press NEXT to begin."
+msgstr "Commençons. Appuyez sur NEXT pour commencer."
+
+#. type=text
+msgctxt "text"
+msgid "NA"
+msgstr "NA"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us if you are a woman or a man. "
+msgstr "Vous ne nous avez pas dit si vous êtes une femme ou un homme. "
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Woman."
+msgstr "Vous nous avez dit que vous êtes une femme."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Man."
+msgstr "Vous nous avez dit que vous êtes un Homme."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a"
+msgstr "Vous nous avez dit que vous êtes un/une"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update your gender?"
+msgstr "Vous voulez modifier les informations relatives à votre sexe ?"
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in English."
+msgstr "Vous recevez présentement des messages en anglais."
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in"
+msgstr "Vous recevez présentement des messages en"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change your language?"
+msgstr "Voulez-vous changer de langue ?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "*DAY @fields.curr_demo_day*"
+msgstr "*JOUR @fields.curr_demo_day*"
+
+#. type=text
+msgctxt "text"
+msgid "You completed the ParentText demo. Type RESET and then START to re-start from the beginning."
+msgstr "Vous avez terminé la petite démonstration de ParentText. Tapez RESET puis START pour recommencer depuis le début."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "There are @(fields.c_n_mod - fields.c_n_mod_compl) more tips. You'll receive a new one tomorrow. "
+msgstr "Il y a @(fields.c_n_mod - fields.c_n_mod_compl) plus de conseils. Vous en recevrez un nouveau demain. "
 
