@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-25 09:08\n"
+"PO-Revision-Date: 2024-03-27 04:30\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -263,6 +263,12 @@ msgstr "No pasa nada. Puedes regresar para revisarlo en cualquier otro momento."
 msgctxt "text"
 msgid "You have completed @fields.n_s_modules_compl lessons within this course. Which lesson do you want to review?"
 msgstr "Completaste @fields.n_s_modules_compl sesiones de este curso. ¿Qué sesión quieres repasar?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Return to Main Menu"
+msgstr "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Regresar al Menú Principal"
 
 #. type=text
 msgctxt "text"
@@ -1207,6 +1213,11 @@ msgstr "*DÍA @fields.curr_demo_day*"
 msgctxt "text"
 msgid "You completed the ParentText demo. Type RESET and then START to re-start from the beginning."
 msgstr "Has completado la demostración de Crianza con Conciencia+. Escribe REINICIAR y luego EMPEZAR para volver a empezar desde el principio."
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 Thank you for participating!"
+msgstr "🎉 ¡Lo lograste! ¡Felicidades!🎉 ¡Gracias por tu participación!"
 
 #. type=text
 msgctxt "text"
