@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-25 16:44\n"
+"PO-Revision-Date: 2024-04-04 16:58\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -123,7 +123,7 @@ msgstr "Consulta y edita la lista de participantes que asisten a tus grupos."
 #. type=data_list
 msgctxt "data_list"
 msgid "Your Parent Groups"
-msgstr "Tus Grupos de Padres, Madres y Cuidadores"
+msgstr "Tus Grupos de Madres, Padres y  Personas Cuidadoras"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2339,8 +2339,8 @@ msgstr "Compartir"
 
 #. type=global
 msgctxt "global"
-msgid "Mexico"
-msgstr "México"
+msgid "WhatsApp"
+msgstr "WhatsApp"
 
 #. type=global
 msgctxt "global"
@@ -2596,7 +2596,7 @@ msgstr "Agregar a una madre, padre o persona cuidadora nueva."
 #. type=template
 msgctxt "template"
 msgid "Parent profile"
-msgstr "Perfil del una madre, padre o persona cuidadora "
+msgstr "Perfil de la madre, padre o persona cuidadora "
 
 #. type=template
 msgctxt "template"
@@ -2612,6 +2612,16 @@ msgstr "Apellidos"
 msgctxt "template"
 msgid "ParentText ID"
 msgstr "Identificación para el Programa Crianza con Conciencia+ (CC+)"
+
+#. type=template
+msgctxt "template"
+msgid "Make sure that the ParentText ID consists of 6 numerical characters."
+msgstr "Asegúrate de que la Identificación para el Programa Crianza con Conciencia+ (CC+) consta de 6 caracteres numéricos."
+
+#. type=template
+msgctxt "template"
+msgid "This ParentText ID has already been assigned to another parent."
+msgstr "Esta Identificación para el Programa Crianza con Conciencia+ (CC+) ya ha sido asignada a otro padre."
 
 #. type=template
 msgctxt "template"
@@ -2633,11 +2643,6 @@ msgstr "Grupo @item.id"
 msgctxt "template"
 msgid "Add a new group"
 msgstr "Agregar un grupo nuevo"
-
-#. type=template
-msgctxt "template"
-msgid "id"
-msgstr "identificación"
 
 #. type=template
 msgctxt "template"
