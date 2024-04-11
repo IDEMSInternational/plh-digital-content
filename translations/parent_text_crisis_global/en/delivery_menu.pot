@@ -134,12 +134,62 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "Press a number on your keypad:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "1. Continue my registration"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me tomorrow"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "It looks like you started a parenting tip, but didn't finish receiving all of the information. Would you like to receive it now or start a new tip?"
 msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid " "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "1. Complete my previous tip"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. Receive a new tip"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "3. Remind me tomorrow"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "It looks like you started a parenting tip, but didn't finish receiving all of the information. What would you like to do?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "1. Receive the remaining information"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me about this tomorrow"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "3. I've finished receiving all of the information that I want from this chatbot."
 msgstr ""
 
 #. type=text
@@ -155,7 +205,17 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "1. Yes"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "A new tip is ready for you. Would you like to continue now?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. No, remind me tomorrow. "
 msgstr ""
 
 #. type=text
@@ -372,49 +432,19 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Continue my registration"
+msgid "1"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Remind me tomorrow"
+msgid "2"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Complete my previous tip"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Receive a new tip"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Receive the remaining information"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Remind me about this tomorrow"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I've finished receiving all of the information that I want from this chatbot."
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "No, remind me tomorrow."
+msgid "3"
 msgstr ""
 
 #. type=quick_replies
@@ -493,6 +523,12 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Change my gender"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change other profile info"
 msgstr ""
 
 #. type=arguments
@@ -576,49 +612,25 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "continue my registration"
+msgid "1"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "remind me tomorrow"
+msgid "2"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "complete my previous tip"
+msgid ""
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "receive a new tip"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "receive the remaining information"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "remind me about this tomorrow"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i've finished receiving all of the information that i want from this chatbot."
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "no, remind me tomorrow."
+msgid "3"
 msgstr ""
 
 #. type=arguments
@@ -709,4 +721,10 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "no n nope"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change other profile info"
 msgstr ""
