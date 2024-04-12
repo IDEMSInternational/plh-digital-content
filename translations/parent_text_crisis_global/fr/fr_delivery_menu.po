@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-02 12:39\n"
+"PO-Revision-Date: 2024-04-11 16:34\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -145,58 +145,13 @@ msgstr "C'est un moment difficile pour votre famille. Je suis ici aujourd'hui po
 
 #. type=text
 msgctxt "text"
-msgid "Press a number on your keypad:"
-msgstr "Appuyez sur un numéro de votre clavier :"
-
-#. type=text
-msgctxt "text"
-msgid "1. Continue my registration"
-msgstr "1. Continuer mon inscription"
-
-#. type=text
-msgctxt "text"
-msgid "2. Remind me tomorrow"
-msgstr "2. Rappelez-moi cela demain"
-
-#. type=text
-msgctxt "text"
 msgid "It looks like you started a parenting tip, but didn't finish receiving all of the information. Would you like to receive it now or start a new tip?"
 msgstr "On dirait que vous avez commencé avec un conseil pour parents, mais que vous n'avez pas fini de recevoir toutes les informations. Voulez-vous les recevoir maintenant ou commencer un nouveau conseil ?"
 
 #. type=text
 msgctxt "text"
-msgid "1. Complete my previous tip"
-msgstr "1. Terminer avec le conseil précédent"
-
-#. type=text
-msgctxt "text"
-msgid "2. Receive a new tip"
-msgstr "2. Recevoir un nouveau conseil"
-
-#. type=text
-msgctxt "text"
-msgid "3. Remind me tomorrow"
-msgstr "3. Rappelez-moi cela demain"
-
-#. type=text
-msgctxt "text"
 msgid "It looks like you started a parenting tip, but didn't finish receiving all of the information. What would you like to do?"
 msgstr "On dirait que vous avez commencé avec un conseil pour parents, mais que vous n'avez pas fini de recevoir toutes les informations. Que voulez-vous faire ?"
-
-#. type=text
-msgctxt "text"
-msgid "1. Receive the remaining information"
-msgstr "1. Recevoir les informations restantes"
-
-#. type=text
-msgctxt "text"
-msgid "2. Remind me about this tomorrow"
-msgstr "2. Rappelez-moi cela demain"
-
-#. type=text
-msgctxt "text"
-msgid "3. I've finished receiving all of the information that I want from this chatbot."
-msgstr "3. J'ai fini de recevoir toutes les informations que je souhaitais de la part de ce robot."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -211,18 +166,8 @@ msgstr "Vous et votre famille traversez une période difficile. ParentText vous 
 
 #. type=text
 msgctxt "text"
-msgid "1. Yes"
-msgstr "Oui"
-
-#. type=text
-msgctxt "text"
 msgid "A new tip is ready for you. Would you like to continue now?"
 msgstr "Un nouveau conseil est disponible. Voulez-vous continuer maintenant ?"
-
-#. type=text
-msgctxt "text"
-msgid "2. No, remind me tomorrow. "
-msgstr "2. Non, rappelez-moi cela demain. "
 
 #. type=text
 msgctxt "text"
@@ -438,24 +383,6 @@ msgstr "Demain"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "1"
-msgstr "1"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "2"
-msgstr "2"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "3"
-msgstr "3"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Return to Menu"
 msgstr "Retour au Menu"
 
@@ -530,12 +457,6 @@ msgstr "Changer la façon dont je reçois le fichier"
 msgctxt "quick_replies"
 msgid "Change my gender"
 msgstr "Modifier les informations relatives à mon sexe"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Change other profile info"
-msgstr "Modifier d'autres informations de profil"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -614,24 +535,6 @@ msgstr "maintenant"
 msgctxt "arguments"
 msgid "tomorrow"
 msgstr "demain"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "1"
-msgstr "1"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "2"
-msgstr "2"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "3"
-msgstr "3"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -722,10 +625,4 @@ msgstr "oui o oui oui ok"
 msgctxt "arguments"
 msgid "no n nope"
 msgstr "non n non"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "change other profile info"
-msgstr "modifier d'autres informations de profil"
 
