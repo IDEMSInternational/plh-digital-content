@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2024-04-15 04:17\n"
+"PO-Revision-Date: 2024-04-15 10:04\n"
 
 #. type=text
 msgctxt "text"
@@ -99,6 +99,11 @@ msgid "I will try again in 2 days. "
 msgstr "Saya akan cuba lagi dalam masa 2 hari. "
 
 #. type=text
+msgctxt "text"
+msgid "These messages do not seem to be working. Type {GO} when you want to continue with ParentText."
+msgstr "Nampaknya mesej-mesej ini tidak berkesan. Sila taip {GO} apabila anda bersedia untuk meneruskan dengan ParentText."
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "*DAY @fields.curr_demo_day*"
@@ -149,6 +154,56 @@ msgstr "✅✅✅"
 msgctxt "text"
 msgid "⭐⭐⭐"
 msgstr "⭐⭐⭐"
+
+#. type=text
+msgctxt "text"
+msgid "Is the adult a parent of a child between 2-6 years old?"
+msgstr "Adakah peserta seorang ibu atau bapa atau penjaga kepada kanak-kanak berumur 2-6 tahun?"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText is for parents of children aged 2-6 years old. Please try again."
+msgstr "ParentText adalah untuk ibu bapa kepada kanak-kanak 2-6 tahun. Sila cuba sekali lagi."
+
+#. type=text
+msgctxt "text"
+msgid "This parent is ineligible for participation. If this was a mistake, type {START} to start over."
+msgstr "Individu ini tidak layak untuk menyertai program ini. Jika ada kesilapan, sila taip {START} untuk mula semula."
+
+#. type=text
+msgctxt "text"
+msgid "How many days in the last week (0-7) did you spend at least 5 minutes of one-on-one time with your child?"
+msgstr "Dalam minggu lepas, berapa hari (0-7 hari) anda luangkan masa seorang dengan seorang bersama anak anda?"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you. Response recorded."
+msgstr "Terima kasih. Jawapan telah disimpan."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you."
+msgstr "Terima kasih."
+
+#. type=text
+msgctxt "text"
+msgid "Response recorded."
+msgstr "Jawapan telah disimpan."
+
+#. type=text
+msgctxt "text"
+msgid "👀"
+msgstr "👀"
+
+#. type=text
+msgctxt "text"
+msgid "This user has not completed the course. They should complete the course before answering this question. Type {GO} to receive the next lesson."
+msgstr "Peserta ini tidak menghabiskan program ini. Peserta ini perlu melengkapkan program ini sebelum menjawab soalan ini. Taip {GO} untuk menerima pelajaran seterusnya."
+
+#. type=text
+msgctxt "text"
+msgid "You have already recorded a response. Do you want to change it?"
+msgstr "Anda telah menjawab soalan ini dan jawapan anda telah disimpan. Adakah anda ingin menukar jawapan anda?"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -221,6 +276,24 @@ msgstr "mula"
 msgctxt "arguments"
 msgid "close"
 msgstr "penutup"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go"
+msgstr "jom"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "👍🏾"
+msgstr "👍🏾"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "👎🏾"
+msgstr "👎🏾"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
