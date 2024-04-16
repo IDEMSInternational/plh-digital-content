@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-11 16:34\n"
+"PO-Revision-Date: 2024-04-16 19:08\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -383,6 +383,18 @@ msgstr "Demain"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Continue my registration"
+msgstr "Continuer mon inscription"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Remind me tomorrow"
+msgstr "Rappelez-le moi demain"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Return to Menu"
 msgstr "Retour au Menu"
 
@@ -535,6 +547,12 @@ msgstr "maintenant"
 msgctxt "arguments"
 msgid "tomorrow"
 msgstr "demain"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, remind me tomorrow."
+msgstr "Non, rappelez-moi cela demain."
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
