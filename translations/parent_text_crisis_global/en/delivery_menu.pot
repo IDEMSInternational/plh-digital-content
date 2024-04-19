@@ -5,7 +5,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "In this program, you will receive @fields.c_n_mod tips. You will receive a new tip each day. Your first tip is @results.name."
+msgid "In this program, you will receive @fields.c_n_mod tips. You will receive a new tip each day. Your first tip is \"@results.name\"."
 msgstr ""
 
 #. type=text
@@ -255,6 +255,11 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "You are currently receiving messages in French."
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "You are currently receiving messages in"
 msgstr ""
 
@@ -271,7 +276,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You completed the ParentText demo. Type RESET and then START to re-start from the beginning."
+msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
 msgstr ""
 
 #. type=text
