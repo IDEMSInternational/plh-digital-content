@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-05-07 13:43\n"
+"PO-Revision-Date: 2024-05-07 15:35\n"
 
 #. type=text
 msgctxt "text"
@@ -368,6 +368,16 @@ msgctxt "text"
 msgid "Follows simple rules when playing a board game or card game"
 msgstr "Ilandela imithetho elula uma idlala umdlalo webhodi noma umdlalo wemakhadi"
 
+#. type=text
+msgctxt "text"
+msgid "Prints his or her name"
+msgstr "Uphrinta igama lakhe"
+
+#. type=text
+msgctxt "text"
+msgid "Draws pictures you recognise"
+msgstr "Udweba izithombe ozaziyo"
+
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
@@ -457,6 +467,24 @@ msgstr "Izikhathi Ezimbalwa Unyaka ngamunye"
 msgctxt "quick_replies"
 msgid "Never"
 msgstr "Akukaze"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Not Yet"
+msgstr "Hhayi okwamanje"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Somewhat"
+msgstr "Uyazama"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Very Much"
+msgstr "Kakhulu"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -553,4 +581,16 @@ msgstr "never"
 msgctxt "arguments"
 msgid "not yet"
 msgstr "hhayi okwamanje"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "somewhat"
+msgstr "uyazama"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "very much"
+msgstr "kakhulu"
 
