@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-05-09 16:03\n"
+"PO-Revision-Date: 2024-05-10 21:58\n"
 
 #. type=text
 msgctxt "text"
@@ -29,6 +29,11 @@ msgid "Are you a WOMAN or MAN?"
 msgstr "UNGOWESIFAZANE noma UYINDODA?"
 
 #. type=text
+msgctxt "text"
+msgid "What is your marital status?"
+msgstr "Ingabe ushadile?"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Is @fields.child_nickname a girl or a boy?"
@@ -41,8 +46,23 @@ msgstr "Ingabe ingane yakho intombazane noma umfana?"
 
 #. type=text
 msgctxt "text"
+msgid "Which province do you live in?"
+msgstr "Uhlala kusiphi isifundazwe?"
+
+#. type=text
+msgctxt "text"
+msgid "Please provide us with your child's first name."
+msgstr "Sicela usinikeze igama lokuqala lengane yakho."
+
+#. type=text
+msgctxt "text"
 msgid "Please type \"N\" if you prefer not to answer."
 msgstr "Sicela ubhale u “C” uma ukhetha ukungaphenduli."
+
+#. type=text
+msgctxt "text"
+msgid "What is your last name?"
+msgstr "Sicela usinikeze igama lokuqala lengane yakho?"
 
 #. type=text
 msgctxt "text"
@@ -53,6 +73,11 @@ msgstr "Ubani igama lakho?"
 msgctxt "text"
 msgid "Please select your language:"
 msgstr "Sicela ukhethe ulimi lwakho:"
+
+#. type=text
+msgctxt "text"
+msgid "Please selelct your language: "
+msgstr "Sicela ukhethe ulimi lwakho: "
 
 #. type=text
 msgctxt "text"
@@ -70,10 +95,20 @@ msgid "✅Your personal information is safe and private. Your name and informati
 msgstr "✅Imniningwane yakho yangasese iphephile  futhi iyimfihlo. Igama lakho neminye imniningwane yakho ngeke ibe sesidlangalaleni, kodwa izimpendulo zakho zizogcinwa futhi zisetshenziswe abacwaningi ukuze bafunde ukweseka imindeni efana neyakho. Bahlela ukushicilela imiphumela. "
 
 #. type=text
+msgctxt "text"
+msgid "❌You can stop when you want. Just type {STOP}"
+msgstr "❌Ungayeka uma ufuna. Vele uthayiphe ukuthi {STOP}"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "❓If you have questions, ask Dr. Jamie Lachman at jamie.lachman@spi.ox.ac.uk; +44(7)840825892"
 msgstr "❓Uma unemibuzo, buza uDkt. Jamie Lachman ku-jamie.lachman@spi.ox.ac.uk; +44(7)840825892"
+
+#. type=text
+msgctxt "text"
+msgid "Click here for more information: {consent_link}"
+msgstr "Chofoza lapha ukuze uthole ulwazi olwengeziwe: {consent_link}"
 
 #. type=text
 msgctxt "text"
@@ -94,6 +129,16 @@ msgstr "Sicela uqinisekise ukuthi uneminyaka eyi-18 ubudala noma ngaphezulu?"
 msgctxt "text"
 msgid "Great! Let's begin."
 msgstr "Kuhle! Asiqale."
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option."
+msgstr "Uyaqiniseka ukuthi awufuni ukuthola le milayezo? Uma ungasafuni ukuthola eminye imilayezo, sicela ubhale ukuthi CHA. Uma wenze iphutha, sicela ucindezele EMUVA bese ukhetha okunye."
+
+#. type=text
+msgctxt "text"
+msgid "If you ever return to participate in the programme, type \"HELLO\". "
+msgstr "Uma kwenzeka ubuya uzohlanganyela ohlelweni, bhala ukuthi \"SAWUBONA\". "
 
 #. type=text
 msgctxt "text"
@@ -150,8 +195,37 @@ msgstr "@fields.child_nickname ngu @(round_down(isikhathi sosuku_diff(imiphumela
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "Your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "Umntwana wakho uneminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)). Ingabe lokho kuliqiniso?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
 msgstr "i-@fields.child_nickname ineminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)) yobudala. Ingabe kuyikho lokho?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your teen is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
+msgstr "Umntwana wakho uneminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)). Ingabe lokho kuliqiniso?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ngoko suku olinikezile, @fields.child_nickname izoba @(round_down(datetime_diff(results.date,now(),\"M\")/12)) iminyaka yobudala. I-ParentText eyezingane ezineminyaka esukela ku-2-17 kuphela. Sicela ufake usuku okuyiloi lokuzalwa kwengane yakho ngefomethi elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ngoko suku olinikezile, @fields.child_nickname izoba @(round_down(datetime_diff(results.date,now(),\"M\")/12)) iminyaka yobudala. I-ParentText eyezingane ezineminyaka esukela ku-2-17 kuphela. Sicela ufake usuku okuyiloi lokuzalwa kwengane yakho ngefomethi elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "Welcome to ParentText, your partner in parenting. Thank you for being here! Let's get started:"
+msgstr "Siyakwamukela ku-ParentText, uzakwenu ekukhuliseni izingane. Siyabonga ngokuba lapha! Ake siqale:"
 
 #. type=text
 msgctxt "text"
@@ -165,6 +239,11 @@ msgstr "Ngabe ufisa ukubuyela emiyalezweni yaphambilini?"
 
 #. type=text
 msgctxt "text"
+msgid "That's okay. Type {HELP} at any time if you would like the details of emergency services or other hotlines."
+msgstr "Kulungile. Bhala ukuthi {HELP} noma nini uma ungathanda imininingwane yamasevisi ezimo eziphuthumayo noma amanye ama-hotline."
+
+#. type=text
+msgctxt "text"
 msgid "Here are the contact details of your local emergency services:"
 msgstr "Nansi imininingwane yokuxhumana nezindawo zangakini zosizo oluphuthumayo:"
 
@@ -172,6 +251,11 @@ msgstr "Nansi imininingwane yokuxhumana nezindawo zangakini zosizo oluphuthumayo
 msgctxt "text"
 msgid "{generic referrals}"
 msgstr "{generic referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+msgstr "Bhala ukuthi {HELP} noma nini uma ungathanda imininingwane yamasevisi ezimo eziphuthumayo noma amanye ama-hotline. Khumbula konke okushoyo kuzoba yimfihlo ngokuphelele!"
 
 #. type=text
 msgctxt "text"
@@ -260,6 +344,11 @@ msgstr "Ungathanda ukwenzani?"
 
 #. type=text
 msgctxt "text"
+msgid "We hope this was helpful! You can access this information at any time by typing {HELP}."
+msgstr "Sithemba ukuthi lokhu kube usizo! Ungafinyelela lolu lwazi noma nini ngokubhala ukuthi {HELP}."
+
+#. type=text
+msgctxt "text"
 msgid "Welcome back to ParentText!"
 msgstr "Siyakwamukela futhi kwi-ParentText!"
 
@@ -267,6 +356,11 @@ msgstr "Siyakwamukela futhi kwi-ParentText!"
 msgctxt "text"
 msgid "I don't understand your message."
 msgstr "Angiwuqondi umyalezo wakho."
+
+#. type=text
+msgctxt "text"
+msgid "Please type {MENU} to access resources and review completed modules, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources for a crisis."
+msgstr "Sicela ubhale ukuthi {MENU} ukuze ufinyelele izinsiza futhi ubuyekeze amamojuli aqediwe, {PLAY} ukuze uthole umsebenzi wokudlala ongawuqedela nengane yakho, noma {HELP} ukuze ufinyelele izinsiza zokukusekela zasendaweni zenhlekelele."
 
 #. type=text
 msgctxt "text"
