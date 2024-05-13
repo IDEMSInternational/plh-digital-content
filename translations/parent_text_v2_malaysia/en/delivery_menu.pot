@@ -293,7 +293,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "🎉You did it! Congratulations!🎉 You have completed the programme. Well done!"
+msgid "🎉You did it! Congratulations!🎉 You have completed the programme and earned yourself the Positive Parenting Trophy 🏆. Well done!"
 msgstr ""
 
 #. type=text
@@ -303,12 +303,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "🎉You did it! Congratulations!🎉 You have completed the programme and earned yourself the Positive Parenting Trophy 🏆. Well done!"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Completing ParentText is an important achievement. Well done! New goals might be available soon. As they become available, you'll receive a notification through this channel."
+msgid "Completing ParentText is an important achievement. Well done! New goals might be available soon. As they become available, you'll receive a notification through this channel. "
 msgstr ""
 
 #. type=text
@@ -319,12 +314,13 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu."
+msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu. Just type {MENU}."
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have made great progress. Are you ready to select your next parenting goal?"
+msgid "I've got another lesson ready for you! Are you ready to continue with your goal, @results.name?"
 msgstr ""
 
 #. type=text
@@ -335,6 +331,16 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "1. Yes"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. No, remind me tomorrow"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have made great progress. Are you ready to select your next parenting goal?"
 msgstr ""
 
 #. type=text
@@ -354,12 +360,12 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "1. Complete"
+msgid "1. Complete a previous skill"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "2. Start new"
+msgid "2. Start a new skill"
 msgstr ""
 
 #. type=text
@@ -415,17 +421,6 @@ msgid "2. Remind me tomorrow"
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "I've got another lesson ready for you! Are you ready to continue with your goal, @results.name?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "2. No, remind me tomorrow"
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "These messages don’t seem to be working. When you are ready to keep going, press 1. "
 msgstr ""
@@ -437,40 +432,172 @@ msgid "Today we are taking a break from your goal, @results.name, and checking i
 msgstr ""
 
 #. type=text
+msgctxt "text"
+msgid "You have not completed any goal yet."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have completed the following goal:"
+msgstr ""
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "*DAY @fields.curr_demo_day*"
+msgid "@(text_slice(results.message_options,3))"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You completed the ParentText demo. Type RESET and then START to re-start from the beginning."
+msgid "You have completed the following goals:"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "What would you like change?"
+msgid "There are no other goals to complete."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Here is the link!"
+msgid "You have the following outstanding goal to complete:"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "**************"
+msgid "You are off track to complete this course! You have the following outstanding goals:"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "⬜️⬜️⬜️⬜️⬜️"
+msgid "You are on track to complete this course! There are no new goals to start!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have the following goal to start:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have the following goals to start:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: @results.name. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "To invite someone to join, share this link!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{insert link}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have reached the end of this skill! 🎉 "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What do you want to do next?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can access more information at any time in the Main Menu."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 You have completed the programme. Well done!"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod skills."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️"
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.n_goals_completed of @fields.n_goals_prog Goals Complete"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️"
 msgstr ""
 
 #. type=text
@@ -724,6 +851,131 @@ msgid "✅✅✅✅✅✅✅✅✅✅"
 msgstr ""
 
 #. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅✅✅✅"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅⬜️⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅✅⬜️⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅✅✅⬜️⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅✅✅✅⬜️"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅✅✅✅✅✅✅✅✅✅"
+msgstr ""
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "You are currently working on the goal @results.name."
@@ -731,53 +983,12 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You have not completed any goal yet."
+msgid "You have not selected which goal to work on next."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You have completed the following goal:"
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "@(text_slice(results.message_options,3))"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You have completed the following goals:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "There are no other goals to complete."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You have the following outstanding goal to complete:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You are off track to complete this course! You have the following outstanding goals:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You are on track to complete this course! There are no new goals to start!"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You have the following goal to start:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You have the following goals to start:"
+msgid "What would you like change?"
 msgstr ""
 
 #. type=text
@@ -917,6 +1128,17 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "@fields.child_nickname's gender has been updated."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Your child's gender has been updated."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "You didn't tell us the gender of @fields.child_nickname."
 msgstr ""
 
@@ -959,17 +1181,6 @@ msgid "You told us that your child is a"
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "@fields.child_nickname's gender has been updated."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "your child's gender has been updated."
-msgstr ""
-
-#. type=text
 msgctxt "text"
 msgid "You are currently receiving messages in English."
 msgstr ""
@@ -987,62 +1198,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Would you like to change your language?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "What do you want to do next?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "That's okay. You can access more information at any time in the Main Menu."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "If you do not want to receive any more messages, please type \"EXIT\"."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "If you made a mistake, please type \"BACK\" and choose another option."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Thank you for participating. If you want to return to the programme, type {START}. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "We hope to see you again soon!"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Sorry I don't understand what you mean."
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: @results.name. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You have reached the end of this skill! 🎉 "
 msgstr ""
 
 #. type=quick_replies
@@ -1108,7 +1263,7 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit"
+msgid "Exit menu"
 msgstr ""
 
 #. type=quick_replies
@@ -1150,12 +1305,6 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Remind me later"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "1"
 msgstr ""
 
@@ -1169,6 +1318,102 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Remind me tomorrow"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Incomplete Goals"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Goals to Start"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Main Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Goals Achieved"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete this outstanding goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete another outstanding goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start the new goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start a new goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review a skill from a different goal"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review another skill from this goal"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get more help with this goal"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get help with a different challenge"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to the Main Menu"
 msgstr ""
 
 #. type=quick_replies
@@ -1222,12 +1467,6 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit Menu"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Change your profile"
 msgstr ""
 
@@ -1235,12 +1474,6 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Stop receiving the messages"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Return to Main Menu"
 msgstr ""
 
 #. type=quick_replies
@@ -1285,94 +1518,9 @@ msgctxt "quick_replies"
 msgid "Your Child's Gender"
 msgstr ""
 
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "View Goals Achieved"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "View Incomplete Goals"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "View Goals to Start"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Complete this outstanding goal and leave my current goal incomplete"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Complete another outstanding goal and leave my current goal incomplete"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Start the new goal and leave my current goal incomplete"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Start a new goal and leave my current goal incomplete"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Change other profile info"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Get more help with this goal"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Get help with a different challenge"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Return to the Main Menu"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "BACK"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Review a skill from a different goal"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Return to Menu"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Review another skill from this goal"
+#. type=variables
+msgctxt "variables"
+msgid "@results.name"
 msgstr ""
 
 #. type=variables
@@ -1393,11 +1541,6 @@ msgstr ""
 #. type=variables
 msgctxt "variables"
 msgid "Complete unfinished skills to earn my badge"
-msgstr ""
-
-#. type=variables
-msgctxt "variables"
-msgid "@results.name"
 msgstr ""
 
 #. type=arguments
@@ -1457,7 +1600,7 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "exit"
+msgid "exit menu"
 msgstr ""
 
 #. type=arguments
@@ -1499,12 +1642,6 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "remind me later"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "1"
 msgstr ""
 
@@ -1518,6 +1655,96 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "remind me tomorrow"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view incomplete goals"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view goals to start"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to main menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view goals achieved"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete this outstanding goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete another outstanding goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start the new goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start a new goal and leave my current goal incomplete"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review a skill from a different goal"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review another skill from this goal"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get more help with this goal"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get help with a different challenge"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to the main menu"
 msgstr ""
 
 #. type=arguments
@@ -1571,12 +1798,6 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "exit menu"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "change your profile"
 msgstr ""
 
@@ -1584,12 +1805,6 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "stop receiving the messages"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "return to main menu"
 msgstr ""
 
 #. type=arguments
@@ -1637,48 +1852,6 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "view goals achieved"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "view incomplete goals"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "view goals to start"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "complete this outstanding goal and leave my current goal incomplete"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "complete another outstanding goal and leave my current goal incomplete"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "start the new goal and leave my current goal incomplete"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "start a new goal and leave my current goal incomplete"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "yes y yeah yep ok"
 msgstr ""
 
@@ -1686,52 +1859,4 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "no n nope"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "change other profile info"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "get more help with this goal"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "get help with a different challenge"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "return to the main menu"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "back"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "return to menu"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "review a skill from a different goal"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "review another skill from this goal"
 msgstr ""
