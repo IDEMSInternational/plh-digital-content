@@ -124,11 +124,6 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Sorry, I dont' understand what you mean."
-msgstr ""
-
-#. type=text
-msgctxt "text"
 msgid "Welcome back to ParentText!"
 msgstr ""
 
@@ -195,17 +190,23 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Thank you for participating. If you want to return to the programme, type {START}. "
+msgid "Thank you for participating. If you want to return to the programme, type HELLO. "
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "We hope to see you again soon!"
+msgid "We hope to see you again soon! "
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your user ID is @fields.research_id"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Sorry I don't understand what you mean."
+msgid "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!"
 msgstr ""
 
 #. type=text
@@ -216,22 +217,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Thank you for taking a pause with me today. "
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Your research ID is @fields.research_id"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Welcome to ParentText! How did you enrol in the programme?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "ParentText is currently only available to parents of preschoolers enrolled in KEMAS or local, community preschools. We hope to make ParentText available to every Malaysian parent before 2025."
 msgstr ""
 
 #. type=quick_replies
@@ -321,43 +306,13 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit"
+msgid "Exit menu"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "BACK"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Through a KEMAS preschool"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Through an NGO"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Social Media"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "A Friend"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Other"
 msgstr ""
 
 #. type=arguments
@@ -417,18 +372,6 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "safe"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "prevent"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "grow"
 msgstr ""
 
@@ -442,12 +385,6 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "start"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "book"
 msgstr ""
 
 #. type=arguments
@@ -561,7 +498,7 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "exit"
+msgid "exit menu"
 msgstr ""
 
 #. type=arguments
@@ -573,35 +510,35 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "exit"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "back"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "kemas preschool"
+msgid "kemas"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "an ngo"
+msgid "masw csos"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "social media"
+msgid "family keluarga"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "friend"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "other"
+msgid "ready sedia"
 msgstr ""
