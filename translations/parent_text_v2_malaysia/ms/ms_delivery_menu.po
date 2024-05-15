@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2024-01-03 01:05\n"
+"PO-Revision-Date: 2024-05-13 16:14\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -304,23 +304,13 @@ msgstr "ParentText mempunyai matlamat @fields.n_goals_prog. Kita akan bermula de
 
 #. type=text
 msgctxt "text"
-msgid "🎉You did it! Congratulations!🎉 You have completed the programme. Well done!"
-msgstr "🎉Tahniah! Anda berjaya!🎉 Anda telah menyelesaikan program ini. Syabas!"
-
-#. type=text
-msgctxt "text"
-msgid "Remember, you can always return to ParentText and get extra support or review these goals. Just type {MENU}."
-msgstr "Ingat, anda boleh sentiasa kembali ke ParentText untuk mendapatkan sokongan tambahan atau untuk menyemak semula matlamat ini. Hanya taip {MENU}."
-
-#. type=text
-msgctxt "text"
 msgid "🎉You did it! Congratulations!🎉 You have completed the programme and earned yourself the Positive Parenting Trophy 🏆. Well done!"
 msgstr "🎉Tahniah! Anda berjaya!🎉 Anda telah menyelesaikan program ini dan memperoleh Trofi Keibubapaan Positif 🏆. Syabas!"
 
 #. type=text
 msgctxt "text"
-msgid "Completing ParentText is an important achievement. Well done! New goals might be available soon. As they become available, you'll receive a notification through this channel."
-msgstr "Syabas! Menyelesaikan ParentText adalah pencapaian yang penting. Matlamat baharu akan tersedia tidak lama lagi. Anda akan menerima pemberitahuan melalui saluran ini sebaik sahaja ia tersedia."
+msgid "Remember, you can always return to ParentText and get extra support or review these goals. Just type {MENU}."
+msgstr "Ingat, anda boleh sentiasa kembali ke ParentText untuk mendapatkan sokongan tambahan atau untuk menyemak semula matlamat ini. Hanya taip {MENU}."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -329,14 +319,10 @@ msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @
 msgstr "🎉TAHNIAH!🎉 Anda telah mendapat lencana dan menyelesaikan matlamat @results.name. Syabas!"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu."
-msgstr "Ingat, anda boleh mendapatkan bantuan tambahan di Menu Utama di bahagian Menyelesaikan Masalah jika anda perlukan sokongan bagi mengamalkan kemahiran yang telah anda pelajari."
-
-#. type=text
-msgctxt "text"
-msgid "You have made great progress. Are you ready to select your next parenting goal?"
-msgstr "Anda telah maju dengan hebat. Adakah anda ingin memilih matlamat keibubapaan anda yang seterusnya?"
+msgid "I've got another lesson ready for you! Are you ready to continue with your goal, @results.name?"
+msgstr "Saya ada menyediakan pelajaran lain untuk anda! Adakah anda bersedia untuk meneruskan matlamat anda, @results.name?"
 
 #. type=text
 msgctxt "text"
@@ -347,6 +333,16 @@ msgstr "Tekan satu nombor pada pad kekunci anda:"
 msgctxt "text"
 msgid "1. Yes"
 msgstr "1. Ya"
+
+#. type=text
+msgctxt "text"
+msgid "2. No, remind me tomorrow"
+msgstr "2. Tidak, ingatkan saya esok"
+
+#. type=text
+msgctxt "text"
+msgid "You have made great progress. Are you ready to select your next parenting goal?"
+msgstr "Anda telah maju dengan hebat. Adakah anda ingin memilih matlamat keibubapaan anda yang seterusnya?"
 
 #. type=text
 msgctxt "text"
@@ -362,16 +358,6 @@ msgstr "ParentText telah dimulakan. Adakah anda bersedia untuk melengkapkan pend
 msgctxt "text"
 msgid "You’re off track! Do you want to complete a previous skill or start a new skill?"
 msgstr "Anda telah tersasar daripada matlamat ini! Adakah anda ingin melengkapkan kemahiran sebelum ini atau memulakan kemahiran baharu?"
-
-#. type=text
-msgctxt "text"
-msgid "1. Complete"
-msgstr "1. Selesaikan"
-
-#. type=text
-msgctxt "text"
-msgid "2. Start new"
-msgstr "2. Mulakan Baharu"
 
 #. type=text
 msgctxt "text"
@@ -426,17 +412,6 @@ msgid "2. Remind me tomorrow"
 msgstr "2. Ingatkan saya esok"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "I've got another lesson ready for you! Are you ready to continue with your goal, @results.name?"
-msgstr "Saya ada menyediakan pelajaran lain untuk anda! Adakah anda bersedia untuk meneruskan matlamat anda, @results.name?"
-
-#. type=text
-msgctxt "text"
-msgid "2. No, remind me tomorrow"
-msgstr "2. Tidak, ingatkan saya esok"
-
-#. type=text
 msgctxt "text"
 msgid "These messages don’t seem to be working. When you are ready to keep going, press 1. "
 msgstr "Mesej ini sepertinya tidak berfungsi. Apabila anda sudah bersedia untuk teruskan, tekan 1. "
@@ -448,41 +423,137 @@ msgid "Today we are taking a break from your goal, @results.name, and checking i
 msgstr "Hari ini kita berehat seketika daripada cubaan mencapai matlamat, @results.name, tetapi kita akan menyemak kemajuan anda. Untuk meneruskan, tekan 1 pada kekunci anda."
 
 #. type=text
+msgctxt "text"
+msgid "You have not completed any goal yet."
+msgstr "Anda masih belum selesaikan sebarang matlamat."
+
+#. type=text
+msgctxt "text"
+msgid "You have completed the following goal:"
+msgstr "Matlamat anda yang berikut sudah diselesaikan:"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "*DAY @fields.curr_demo_day*"
-msgstr "*DAY @fields.curr_demo_day*"
+msgid "@(text_slice(results.message_options,3))"
+msgstr "@(text_slice(results.message_options,3))"
 
 #. type=text
 msgctxt "text"
-msgid "You completed the ParentText demo. Type RESET and then START to re-start from the beginning."
-msgstr "Anda telah melengkapkan demonstrasi ParentText. Untuk mula semula dari awal, taip SET SEMULA dan kemudian MULA."
+msgid "You have completed the following goals:"
+msgstr "Matlamat anda yang berikut sudah diselesaikan:"
 
 #. type=text
 msgctxt "text"
-msgid "What would you like change?"
-msgstr "Apakah yang anda mahu tukar?"
+msgid "There are no other goals to complete."
+msgstr "Tidak ada matlamat lain untuk diselesaikan."
 
 #. type=text
 msgctxt "text"
-msgid "Here is the link!"
-msgstr "Berikut ialah pautannya!"
+msgid "You have the following outstanding goal to complete:"
+msgstr "Anda ada matlamat tertangguh berikut untuk diselesaikan:"
 
 #. type=text
 msgctxt "text"
-msgid "**************"
-msgstr "**************"
+msgid "You are off track to complete this course! You have the following outstanding goals:"
+msgstr "Anda sudah ketinggalan untuk selesaikan pelajaran ini! Anda ada matlamat tertangguh berikut:"
 
 #. type=text
 msgctxt "text"
-msgid "⬜️⬜️⬜️⬜️⬜️"
-msgstr "⬜️⬜️⬜️⬜️⬜️"
+msgid "You are on track to complete this course! There are no new goals to start!"
+msgstr "Anda menepati masa untuk selesaikan pelajaran ini! Tidak ada matlamat baharu untuk dimulakan!"
+
+#. type=text
+msgctxt "text"
+msgid "You have the following goal to start:"
+msgstr "Anda ada matlamat berikut untuk dimulakan:"
+
+#. type=text
+msgctxt "text"
+msgid "You have the following goals to start:"
+msgstr "Anda ada matlamat berikut untuk dimulakan:"
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}."
+msgstr "Kami berharap ini dapat membantu anda! Dengan menaip {MENU}, anda boleh mengakses Menu Utama pada bila-bila masa."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: @results.name. "
+msgstr "Terima kasih kerana mengemas kini status hubungan anda. Anda telah membuka matlamat pelajaran baharu: @results.name. "
+
+#. type=text
+msgctxt "text"
+msgid "You have reached the end of this skill! 🎉 "
+msgstr "Anda telah sampai ke penghujung kemahiran ini! 🎉 "
+
+#. type=text
+msgctxt "text"
+msgid "What do you want to do next?"
+msgstr "Apa yang ingin anda lakukan seterusnya?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can access more information at any time in the Main Menu."
+msgstr "Tidak mengapa. Anda boleh mengakses maklumat lebih lanjut pada bila-bila masa di Menu Utama."
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 You have completed the programme. Well done!"
+msgstr "🎉Tahniah! Anda berjaya!🎉 Anda telah menyelesaikan program ini. Syabas!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.n_goals_completed of @fields.n_goals_prog Goals Complete"
 msgstr "@fields.n_goals_completed daripada @fields.n_goals_prog Matlamat Selesai"
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️"
+msgstr "✅⬜️"
+
+#. type=text
+msgctxt "text"
+msgid "✅✅"
+msgstr "✅✅"
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️"
+msgstr "✅⬜️⬜️"
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️"
+msgstr "✅✅⬜️"
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅"
+msgstr "✅✅✅"
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️⬜️⬜️"
+msgstr "✅⬜️⬜️⬜️"
+
+#. type=text
+msgctxt "text"
+msgid "✅✅⬜️⬜️"
+msgstr "✅✅⬜️⬜️"
+
+#. type=text
+msgctxt "text"
+msgid "✅✅✅⬜️"
+msgstr "✅✅✅⬜️"
+
+#. type=text
+msgctxt "text"
+msgid "⬜️⬜️⬜️⬜️⬜️"
+msgstr "⬜️⬜️⬜️⬜️⬜️"
 
 #. type=text
 msgctxt "text"
@@ -742,54 +813,8 @@ msgstr "Anda sedang menuju ke arah matlamat anda @results.name."
 
 #. type=text
 msgctxt "text"
-msgid "You have not completed any goal yet."
-msgstr "Anda masih belum selesaikan sebarang matlamat."
-
-#. type=text
-msgctxt "text"
-msgid "You have completed the following goal:"
-msgstr "Matlamat anda yang berikut sudah diselesaikan:"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "@(text_slice(results.message_options,3))"
-msgstr "@(text_slice(results.message_options,3))"
-
-#. type=text
-msgctxt "text"
-msgid "You have completed the following goals:"
-msgstr "Matlamat anda yang berikut sudah diselesaikan:"
-
-#. type=text
-msgctxt "text"
-msgid "There are no other goals to complete."
-msgstr "Tidak ada matlamat lain untuk diselesaikan."
-
-#. type=text
-msgctxt "text"
-msgid "You have the following outstanding goal to complete:"
-msgstr "Anda ada matlamat tertangguh berikut untuk diselesaikan:"
-
-#. type=text
-msgctxt "text"
-msgid "You are off track to complete this course! You have the following outstanding goals:"
-msgstr "Anda sudah ketinggalan untuk selesaikan pelajaran ini! Anda ada matlamat tertangguh berikut:"
-
-#. type=text
-msgctxt "text"
-msgid "You are on track to complete this course! There are no new goals to start!"
-msgstr "Anda menepati masa untuk selesaikan pelajaran ini! Tidak ada matlamat baharu untuk dimulakan!"
-
-#. type=text
-msgctxt "text"
-msgid "You have the following goal to start:"
-msgstr "Anda ada matlamat berikut untuk dimulakan:"
-
-#. type=text
-msgctxt "text"
-msgid "You have the following goals to start:"
-msgstr "Anda ada matlamat berikut untuk dimulakan:"
+msgid "What would you like change?"
+msgstr "Apakah yang anda mahu tukar?"
 
 #. type=text
 msgctxt "text"
@@ -928,6 +953,12 @@ msgstr "Adakah anda mahu mengemas kini butiran ini?"
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "@fields.child_nickname's gender has been updated."
+msgstr "jantina @fields.child_nickname's telah dikemas kini."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "You didn't tell us the gender of @fields.child_nickname."
 msgstr "Anda tidak memberitahu kami jantina @fields.child_nickname."
 
@@ -970,17 +1001,6 @@ msgid "You told us that your child is a"
 msgstr "Anda memberitahu kami bahawa anak anda ialah"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "@fields.child_nickname's gender has been updated."
-msgstr "jantina @fields.child_nickname's telah dikemas kini."
-
-#. type=text
-msgctxt "text"
-msgid "your child's gender has been updated."
-msgstr "jantina anak anda telah dikemas kini."
-
-#. type=text
 msgctxt "text"
 msgid "You are currently receiving messages in English."
 msgstr "Buat masa ini, anda menerima mesej dalam bahasa Inggeris."
@@ -999,62 +1019,6 @@ msgstr "Buat masa ini, anda terima mesej dalam"
 msgctxt "text"
 msgid "Would you like to change your language?"
 msgstr "Adakah anda ingin menukar bahasa anda?"
-
-#. type=text
-msgctxt "text"
-msgid "What do you want to do next?"
-msgstr "Apa yang ingin anda lakukan seterusnya?"
-
-#. type=text
-msgctxt "text"
-msgid "That's okay. You can access more information at any time in the Main Menu."
-msgstr "Tidak mengapa. Anda boleh mengakses maklumat lebih lanjut pada bila-bila masa di Menu Utama."
-
-#. type=text
-msgctxt "text"
-msgid "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}."
-msgstr "Kami berharap ini dapat membantu anda! Dengan menaip {MENU}, anda boleh mengakses Menu Utama pada bila-bila masa."
-
-#. type=text
-msgctxt "text"
-msgid "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?"
-msgstr "Kekal bersama ParentText boleh membantu anda dan anak anda. Adakah anda pasti ingin keluar daripada program ini?"
-
-#. type=text
-msgctxt "text"
-msgid "If you do not want to receive any more messages, please type \"EXIT\"."
-msgstr "Sila taip \"KELUAR\" sekiranya anda tidak lagi mahu menerima sebarang mesej."
-
-#. type=text
-msgctxt "text"
-msgid "If you made a mistake, please type \"BACK\" and choose another option."
-msgstr "Sila taip \"KEMBALI\" dan pilih pilihan yang lain jika anda telah membuat kesilapan."
-
-#. type=text
-msgctxt "text"
-msgid "Thank you for participating. If you want to return to the programme, type {START}. "
-msgstr "Terima kasih kerana mengambil bahagian. Taip {START} jika anda mahu kembali ke program. "
-
-#. type=text
-msgctxt "text"
-msgid "We hope to see you again soon!"
-msgstr "Kami harap dapat berjumpa anda lagi tidak lama lagi!"
-
-#. type=text
-msgctxt "text"
-msgid "Sorry I don't understand what you mean."
-msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Thank you for updating your relationship status. You've unlocked a new learning goal: @results.name. "
-msgstr "Terima kasih kerana mengemas kini status hubungan anda. Anda telah membuka matlamat pelajaran baharu: @results.name. "
-
-#. type=text
-msgctxt "text"
-msgid "You have reached the end of this skill! 🎉 "
-msgstr "Anda telah sampai ke penghujung kemahiran ini! 🎉 "
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1119,12 +1083,6 @@ msgstr "Sambung kemajuan saya esok"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit"
-msgstr "Keluar"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Something Quick"
 msgstr "Sesuatu yang Pantas"
 
@@ -1161,12 +1119,6 @@ msgstr "Esok"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Remind me later"
-msgstr "Ingatkan saya kemudian"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "1"
 msgstr "1"
 
@@ -1181,6 +1133,102 @@ msgstr "2"
 msgctxt "quick_replies"
 msgid "Remind me tomorrow"
 msgstr "Ingatkan saya esok"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Incomplete Goals"
+msgstr "Paparkan Matlamat Tidak Diselesaikan"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Goals to Start"
+msgstr "Papar Matlamat untuk Bermula"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Main Menu"
+msgstr "Kembali ke Menu Utama"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit Menu"
+msgstr "Keluar Menu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View Goals Achieved"
+msgstr "Paparkan Matlamat Yang Dicapai"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete this outstanding goal and leave my current goal incomplete"
+msgstr "Selesaikan matlamat tertangguh ini dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete another outstanding goal and leave my current goal incomplete"
+msgstr "Selesaikan matlamat tertangguh yang lain dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start the new goal and leave my current goal incomplete"
+msgstr "Mulakan matlamat baharu dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start a new goal and leave my current goal incomplete"
+msgstr "Mulakan matlamat baharu dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review a skill from a different goal"
+msgstr "Semak semula kemahiran dari matlamat lain"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Menu"
+msgstr "Kembali ke Menu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit"
+msgstr "Keluar"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review another skill from this goal"
+msgstr "Semak semula kemahiran lain daripada matlamat ini"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get more help with this goal"
+msgstr "Dapatkan bantuan lanjut untuk matlamat ini"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get help with a different challenge"
+msgstr "Dapatkan bantuan dengan cabaran lain"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to the Main Menu"
+msgstr "Kembali ke Menu Utama"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1233,12 +1281,6 @@ msgstr "Semak semula Kemahiran Yang Telah Diselesaikan"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit Menu"
-msgstr "Keluar Menu"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Change your profile"
 msgstr "Ubah profil anda"
 
@@ -1247,12 +1289,6 @@ msgstr "Ubah profil anda"
 msgctxt "quick_replies"
 msgid "Stop receiving the messages"
 msgstr "Berhenti menerima mesej"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Return to Main Menu"
-msgstr "Kembali ke Menu Utama"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1296,95 +1332,10 @@ msgctxt "quick_replies"
 msgid "Your Child's Gender"
 msgstr "Jantina Your Child"
 
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "View Goals Achieved"
-msgstr "Paparkan Matlamat Yang Dicapai"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "View Incomplete Goals"
-msgstr "Paparkan Matlamat Tidak Diselesaikan"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "View Goals to Start"
-msgstr "Papar Matlamat untuk Bermula"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Complete this outstanding goal and leave my current goal incomplete"
-msgstr "Selesaikan matlamat tertangguh ini dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Complete another outstanding goal and leave my current goal incomplete"
-msgstr "Selesaikan matlamat tertangguh yang lain dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Start the new goal and leave my current goal incomplete"
-msgstr "Mulakan matlamat baharu dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Start a new goal and leave my current goal incomplete"
-msgstr "Mulakan matlamat baharu dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Change other profile info"
-msgstr "Ubah maklumat profil lain"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Get more help with this goal"
-msgstr "Dapatkan bantuan lanjut untuk matlamat ini"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Get help with a different challenge"
-msgstr "Dapatkan bantuan dengan cabaran lain"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Return to the Main Menu"
-msgstr "Kembali ke Menu Utama"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "BACK"
-msgstr "KEMBALI"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Review a skill from a different goal"
-msgstr "Semak semula kemahiran dari matlamat lain"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Return to Menu"
-msgstr "Kembali ke Menu"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Review another skill from this goal"
-msgstr "Semak semula kemahiran lain daripada matlamat ini"
+#. type=variables
+msgctxt "variables"
+msgid "@results.name"
+msgstr "@results.name"
 
 #. type=variables
 msgctxt "variables"
@@ -1405,11 +1356,6 @@ msgstr "Anda mempunyai @fields.c_n_mod_started kemahiran yang belum selesai."
 msgctxt "variables"
 msgid "Complete unfinished skills to earn my badge"
 msgstr "Selesaikan kemahiran untuk mendapatkan lencana saya"
-
-#. type=variables
-msgctxt "variables"
-msgid "@results.name"
-msgstr "@results.name"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1468,8 +1414,8 @@ msgstr "sambung kemajuan saya esok"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "exit"
-msgstr "keluar"
+msgid "exit menu"
+msgstr "keluar menu"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1510,12 +1456,6 @@ msgstr "esok"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "remind me later"
-msgstr "ingatkan saya kemudian"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "1"
 msgstr "1"
 
@@ -1530,6 +1470,96 @@ msgstr "2"
 msgctxt "arguments"
 msgid "remind me tomorrow"
 msgstr "ingatkan saya esok"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view incomplete goals"
+msgstr "paparkan matlamat tidak diselesaikan"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view goals to start"
+msgstr "papar matlamat untuk bermula"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to main menu"
+msgstr "kembali ke menu utama"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view goals achieved"
+msgstr "paparkan matlamat yang dicapai"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete this outstanding goal and leave my current goal incomplete"
+msgstr "selesaikan matlamat tertangguh ini dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete another outstanding goal and leave my current goal incomplete"
+msgstr "selesaikan matlamat tertangguh yang lain dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start the new goal and leave my current goal incomplete"
+msgstr "mulakan matlamat baharu dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start a new goal and leave my current goal incomplete"
+msgstr "mulakan matlamat baharu dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to menu"
+msgstr "kembali ke menu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review a skill from a different goal"
+msgstr "semak semula kemahiran daripada matlamat lain"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr "keluar"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review another skill from this goal"
+msgstr "semak semula kemahiran lain daripada matlamat ini"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get more help with this goal"
+msgstr "dapatkan bantuan lanjut untuk matlamat ini"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get help with a different challenge"
+msgstr "dapatkan bantuan dengan cabaran lain"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to the main menu"
+msgstr "kembali ke menu utama"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1582,12 +1612,6 @@ msgstr "semak semula kemahiran yang telah diselesaikan"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "exit menu"
-msgstr "keluar menu"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "change your profile"
 msgstr "ubah profil anda"
 
@@ -1596,12 +1620,6 @@ msgstr "ubah profil anda"
 msgctxt "arguments"
 msgid "stop receiving the messages"
 msgstr "berhenti menerima mesej"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "return to main menu"
-msgstr "kembali ke menu utama"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1648,48 +1666,6 @@ msgstr "jantina anak anda"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "view goals achieved"
-msgstr "paparkan matlamat yang dicapai"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "view incomplete goals"
-msgstr "paparkan matlamat tidak diselesaikan"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "view goals to start"
-msgstr "papar matlamat untuk bermula"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "complete this outstanding goal and leave my current goal incomplete"
-msgstr "selesaikan matlamat tertangguh ini dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "complete another outstanding goal and leave my current goal incomplete"
-msgstr "selesaikan matlamat tertangguh yang lain dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "start the new goal and leave my current goal incomplete"
-msgstr "mulakan matlamat baharu dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "start a new goal and leave my current goal incomplete"
-msgstr "mulakan matlamat baharu dan biarkan sahaja matlamat semasa saya yang tidak lengkap"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "yes y yeah yep ok"
 msgstr "ya yea yah ye y"
 
@@ -1698,52 +1674,4 @@ msgstr "ya yea yah ye y"
 msgctxt "arguments"
 msgid "no n nope"
 msgstr "tidak tak t"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "change other profile info"
-msgstr "ubah maklumat profil lain"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "get more help with this goal"
-msgstr "dapatkan bantuan lanjut untuk matlamat ini"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "get help with a different challenge"
-msgstr "dapatkan bantuan dengan cabaran lain"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "return to the main menu"
-msgstr "kembali ke menu utama"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "back"
-msgstr "kembali"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "return to menu"
-msgstr "kembali ke menu"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "review a skill from a different goal"
-msgstr "semak semula kemahiran daripada matlamat lain"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "review another skill from this goal"
-msgstr "semak semula kemahiran lain daripada matlamat ini"
 

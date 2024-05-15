@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2023-12-14 14:04\n"
+"PO-Revision-Date: 2024-05-13 16:14\n"
 
 #. type=text
 msgctxt "text"
@@ -135,11 +135,6 @@ msgstr "Kami berharap ini dapat membantu anda! Anda boleh mengakses semula maklu
 
 #. type=text
 msgctxt "text"
-msgid "Sorry, I dont' understand what you mean."
-msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
-
-#. type=text
-msgctxt "text"
 msgid "Welcome back to ParentText!"
 msgstr "Selamat kembali ke ParentText!"
 
@@ -206,18 +201,8 @@ msgstr "Sila taip \"KEMBALI\" jika anda telah melakukan kesilapan."
 
 #. type=text
 msgctxt "text"
-msgid "Thank you for participating. If you want to return to the programme, type {START}. "
-msgstr "Terima kasih kerana mengambil bahagian. Taip {START} jika anda mahu kembali ke program. "
-
-#. type=text
-msgctxt "text"
-msgid "We hope to see you again soon!"
-msgstr "Kami harap dapat berjumpa anda lagi tidak lama lagi!"
-
-#. type=text
-msgctxt "text"
-msgid "Sorry I don't understand what you mean."
-msgstr "Maaf, saya tidak faham apa yang anda maksudkan."
+msgid "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgstr "Selepas anda melengkapkan pendaftaran, ciri ini akan sedia ada untuk anda. Ia tidak akan mengambil masa yang lama. Sila teruskan dengan pendaftaran!"
 
 #. type=text
 msgctxt "text"
@@ -228,22 +213,6 @@ msgstr "Selepas anda melengkapkan pendaftaran, menu akan sedia ada untuk anda. I
 msgctxt "text"
 msgid "Thank you for taking a pause with me today. "
 msgstr "Terima kasih kerana berhenti seketika bersama saya pada hari ini. "
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Your research ID is @fields.research_id"
-msgstr "ID kajian anda ialah @fields.research_id"
-
-#. type=text
-msgctxt "text"
-msgid "Welcome to ParentText! How did you enrol in the programme?"
-msgstr "Selamat datang ke ParentText! Bagaimana anda boleh mendaftar dalam program ini?"
-
-#. type=text
-msgctxt "text"
-msgid "ParentText is currently only available to parents of preschoolers enrolled in KEMAS or local, community preschools. We hope to make ParentText available to every Malaysian parent before 2025."
-msgstr "ParentText hanya tersedia untuk ibu bapa yang berdaftar di KEMAS atau prasekolah komuniti tempatan buat masa ini. Kami berharap agar ParentText dapat disediakan buat seluruh warga Malaysia menjelang 2025."
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -332,44 +301,8 @@ msgstr "Pergi ke Menu Utama"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit"
-msgstr "Keluar"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "BACK"
 msgstr "KEMBALI"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Through a KEMAS preschool"
-msgstr "Melalui prasekolah KEMAS"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Through an NGO"
-msgstr "Melalui Pertubuhan Bukan Kerajaan (NGO)"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Social Media"
-msgstr "Media Sosial"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "A Friend"
-msgstr "Rakan"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Other"
-msgstr "Lain-lain"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -428,18 +361,6 @@ msgstr "main"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "safe"
-msgstr "selamat"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "prevent"
-msgstr "cegah"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "grow"
 msgstr "berkembang"
 
@@ -454,12 +375,6 @@ msgstr "berhenti"
 msgctxt "arguments"
 msgid "start"
 msgstr "mula"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "book"
-msgstr "buku"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -572,8 +487,8 @@ msgstr "pergi ke menu utama"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "exit"
-msgstr "keluar"
+msgid "exit menu"
+msgstr "keluar menu"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -584,36 +499,12 @@ msgstr "tidak tak bukan t"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "exit"
+msgstr "keluar"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "back"
 msgstr "kembali"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "kemas preschool"
-msgstr "prasekolah kemas"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "an ngo"
-msgstr "pertubuhan bukan kerajaan (ngo)"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "social media"
-msgstr "media sosial"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "friend"
-msgstr "kawan"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "other"
-msgstr "lain-lain"
 
