@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-05-15 22:10\n"
+"PO-Revision-Date: 2024-05-16 18:25\n"
 
 #. type=text
 msgctxt "text"
@@ -45,8 +45,38 @@ msgstr "Okusethile kushitshile"
 
 #. type=text
 msgctxt "text"
+msgid "Welcome to WASHText! WASH means Water, Sanitation, and Hygiene. Good WASH practises, like using safe water and food, ensuring clean toilets and homes, and handwashing, keep us healthy. "
+msgstr "Wamukelekile kuWASHText! U-WASH umele Amanzi, Ukuchithwa Kwadoti, Nenhlanzeko. Izenzo ezinhle zeWASH, njengamanzi aphephile nokudla, ukuqiniseka izindlu zangasese nemizi zihlanzekile, nokugeza izandla, kusigcina sinokuphila. "
+
+#. type=text
+msgctxt "text"
+msgid "* Hand washing prevents the spread of diseases."
+msgstr "* Ukugeza izandla kuvimba ukwanda kwezifo."
+
+#. type=text
+msgctxt "text"
+msgid "* Drinking safe clean water prevents illnesses, like diarrhoea. "
+msgstr "* Ukuphuza amanzi aphephile ahlazekile kuvimba izifo, njengesifo sohudo. "
+
+#. type=text
+msgctxt "text"
+msgid "* Access to clean toilets helps to keep germs away."
+msgstr "* Ukuthola izindlu zangasese ezihlazekile kugcina amagciwane engekho."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for being here! Let's get started:"
+msgstr "Siyabonga ngokuthi ulapha! Masiqale:"
+
+#. type=text
+msgctxt "text"
 msgid "Would you like to go back to the previous messages?"
 msgstr "Ngabe ufisa ukubuyela emiyalezweni yaphambilini?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. Type {HELP} at any time if you would like the details of emergency services or other hotlines."
+msgstr "Kulungile. Bhala ukuthi {HELP} noma nini uma ungathanda imininingwane yamasevisi ezimo eziphuthumayo noma amanye ama-hotline."
 
 #. type=text
 msgctxt "text"
@@ -57,6 +87,11 @@ msgstr "Nansi imininingwane yokuxhumana nezindawo zangakini zosizo oluphuthumayo
 msgctxt "text"
 msgid "{generic referrals}"
 msgstr "{generic referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+msgstr "Bhala ukuthi {HELP} noma nini uma ungathanda imininingwane yamasevisi ezimo eziphuthumayo noma amanye ama-hotline. Khumbula konke okushoyo kuzoba yimfihlo ngokuphelele!"
 
 #. type=text
 msgctxt "text"
@@ -140,8 +175,18 @@ msgstr "Ungathanda ukwenzani?"
 
 #. type=text
 msgctxt "text"
+msgid "We hope this was helpful! You can access this information at any time by typing {HELP}."
+msgstr "Sithemba ukuthi lokhu kube usizo! Ungafinyelela lolu lwazi noma nini ngokubhala ukuthi {HELP}."
+
+#. type=text
+msgctxt "text"
 msgid "Sorry, I dont' understand what you mean."
 msgstr "Uxolo, angiqondi ukuthi usho ukuthini."
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back to WASHText!"
+msgstr "Siyakwamukela futhi kuWASHText!"
 
 #. type=text
 msgctxt "text"
@@ -150,13 +195,49 @@ msgstr "Angiwuqondi umyalezo wakho."
 
 #. type=text
 msgctxt "text"
+msgid "Please type {MENU} to access resources and review completed tips or {HELP} to access local support resources."
+msgstr "Sicela ubhale ukuthi {MENU} ukuthola amathuluzi futhi ubuyekeze amathiphu osewaqedile noma {HELP} ukuthola amathuluzi wendawo."
+
+#. type=text
+msgctxt "text"
 msgid "You have not given consent to participate in this programme. Would you like to participate?"
 msgstr "Awuhlinzekanga ngemvume yokubamba iqhaza kulolu hlelo. Ungathanda ukubamba iqhaza?"
 
 #. type=text
 msgctxt "text"
+msgid "If you ever decide to participate in the programme, type HELLO. "
+msgstr "Uma kwenzeka ufuna ukubamba iqhaza ohlelweni, bhala uthi SAWUBONA. "
+
+#. type=text
+msgctxt "text"
 msgid "We hope to see you again soon, and we wish you a happy and peaceful day! "
 msgstr "Sithembe ukuthi sizokubona maduzane, futhi sikufisela usuku olunenjabulo nokuthula! "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You've received @fields.c_n_mod_compl out of @fields.c_n_mod tips on Water, Sanitation, and Hygiene. Would you like to continue?"
+msgstr "Uthole @fields.c_n_mod_compl phakathi kwa @fields.c_n_mod wamathiphu mayelana Namanzi, Ukuchithwa Kwadoti, Nenhlanzeko. Ungathanda ukuqhubeka?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. If you ever decide to come back, type HELLO. "
+msgstr "Kulungile. Uma kwenzeka unquma ukubuya, bhala ukuthi SAWUBONA. "
+
+#. type=text
+msgctxt "text"
+msgid "You are already part of WASHText! "
+msgstr "Usuvele uyingxenye yeWASHText! "
+
+#. type=text
+msgctxt "text"
+msgid "You have already completed WASHText!"
+msgstr "Usuvele uyiqedile iWASHText!"
+
+#. type=text
+msgctxt "text"
+msgid "Staying in WASHText helps you and your family. Are you sure you want to exit the programme?"
+msgstr "Ukuhlala kuWASHText kusoza wena nomndeni wakho. Uqinisekile ukuthi ufuna ukuphuma ohlelweni?"
 
 #. type=text
 msgctxt "text"
@@ -170,8 +251,18 @@ msgstr "Uma wenze iphutha, sicela ubhale igama elithi \"EMUVA\"."
 
 #. type=text
 msgctxt "text"
+msgid "Thank you for participating. If you want to return to the programme, type HELLO. "
+msgstr "Siyabonga ngokuhlanganyela. Uma ufuna ukubuyela ohlelweni, bhala ukuthi SAWUBONA. "
+
+#. type=text
+msgctxt "text"
 msgid "We hope to see you again soon! "
 msgstr "Sithemba ukukubona futhi maduze! "
+
+#. type=text
+msgctxt "text"
+msgid "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgstr "Lokhu kuzotholakala uma usuqedile ukubhalisa. Ngeke kuthathe isikhathi eside. Sicela uqhubeke nentuthuko yakho!"
 
 #. type=text
 msgctxt "text"
@@ -180,8 +271,50 @@ msgstr "Imenyu izotholakala uma usuqedile ukubhalisa. Ngeke kuthathe isikhathi e
 
 #. type=text
 msgctxt "text"
+msgid "It takes only 5 days to complete WASHText and earn your WASH certificate. "
+msgstr "Kuthatha izinsuku ezi-5 kuphela ukuqeda iWASHText futhi uzuze isitifiketi sakho seWASH. "
+
+#. type=text
+msgctxt "text"
+msgid "fail"
+msgstr "ukhethe kabi"
+
+#. type=text
+msgctxt "text"
 msgid "NA"
 msgstr "NA"
+
+#. type=text
+msgctxt "text"
+msgid "You only have the following lesson to complete:"
+msgstr "Unesifundo esilandelayo kuphela okufanele usiqedele:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@(text_slice(results.message_options,3))."
+msgstr "@(text_slice(results.message_options,3))."
+
+#. type=text
+msgctxt "text"
+msgid "Which lesson would you like to complete?"
+msgstr "Isiphi isifundo ongathanda ukusiqeda?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@results.message_options"
+msgstr "@results.message_options"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any of the lessons in this course. "
+msgstr "Awukaqedi noma yiziphi izifundo kulesi sifundo. "
+
+#. type=text
+msgctxt "text"
+msgid "You have only completed the following lesson:"
+msgstr "Uqedele isifundo esilandelayo kuphela:"
 
 #. type=text
 msgctxt "text"
@@ -192,6 +325,12 @@ msgstr "Ungathanda ukulibuyekeza?"
 msgctxt "text"
 msgid "That's okay. You can come back here at any time to review it."
 msgstr "Kulungile. Ungabuya lapha noma nini ukuzolibuyekeza."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.n_s_modules_compl out of @fields.n_s_modules tips. Which of the following lessons would you like to review?"
+msgstr "Uqede @fields.n_s_modules_compl phakathi kwa @fields.n_s_modules wamathiphu. Iziphi izifundo ongathanda ukuzibuyekeza?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
@@ -211,6 +350,21 @@ msgstr "Kuhle, sobonana kusasa!"
 
 #. type=text
 msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 Thank you for participating in WASHText!"
+msgstr "🎉 Ukwenzile! Halala! 🎉 Siyabonga ngokuhlanganyela iWASHText!"
+
+#. type=text
+msgctxt "text"
+msgid "Remember, you can always return to WASHText and review these lessons. Just type {MENU}."
+msgstr "Khumbula, ungahlezi ubuya kuWASHText ukuzobuyekeza lezi izifundo. Bhala ukuthi {MENU} kuphela."
+
+#. type=text
+msgctxt "text"
+msgid "WASHText has begun. You are just 5 days away from earning your course certificate. Are you ready to complete your registration and get started?"
+msgstr "IWASHText isiqalile. Usalelwe yizinsuku ezi-5 kuphela ukuthi uzuze isitifiketi sakho sesifundo. Ingabe usukulungele ukuqedela ukubhalisa kwakho futhi uqale?"
+
+#. type=text
+msgctxt "text"
 msgid "Press a number on your keypad:"
 msgstr "Cindezela inombolo kukhiphedi yakho:"
 
@@ -226,8 +380,64 @@ msgstr "2. Ngikhumbuze kusasa"
 
 #. type=text
 msgctxt "text"
+msgid "You’re off track! Do you want to complete your previous unifinished lesson or start a new lesson?"
+msgstr "Awukho endleleni! Ingabe ufuna ukuqedela isifundo sangaphambilini noma ukuqala isifundo esisha?"
+
+#. type=text
+msgctxt "text"
+msgid "1. Complete a previous lesson"
+msgstr "1. Qedela isifundo esedlule"
+
+#. type=text
+msgctxt "text"
+msgid "2. Start a new lesson"
+msgstr "2. Qala isifundo esisha"
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to catch up and proceed to the next lesson?"
+msgstr "Ingabe uyafuna ukuqhubeka futhi uqhubekele esifundweni esilandelayo?"
+
+#. type=text
+msgctxt "text"
+msgid "You're almost finished with this course! You only have 1 unfinished lesson. What would you like to do?"
+msgstr "Usuzoqeda ngalesi sifundo! Unesifundo esisodwa esingaqediwe. Ungathanda ukwenzani?"
+
+#. type=text
+msgctxt "text"
+msgid "1. Finish this lesson and earn my course certificate"
+msgstr "1. Qeda lesi sifundo futhi uzuze isitifiketi sesifundo"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You're almost finished with this course! You have @fields.c_n_mod_started unfinished lessons. What would you like to do?"
+msgstr "Usuzoqeda ngalesi sifundo! Una-@fields.c_n_mod_started wezifundo ezingaqediwe. Ungathanda ukwenzani?"
+
+#. type=text
+msgctxt "text"
+msgid "1. Complete unfinished lessons to earn my course certificate"
+msgstr "1. Qedela izifundo ezingakaqedwa ukuze ngithole isitifiketi sami sesifundo"
+
+#. type=text
+msgctxt "text"
+msgid "It’s time to get started on your course. Are you ready?"
+msgstr "Isikhathi sokuthi uqalise isifundo sakho. Usukulungele?"
+
+#. type=text
+msgctxt "text"
 msgid "1. Yes!"
 msgstr "1. Yebo!"
+
+#. type=text
+msgctxt "text"
+msgid "I've got another lesson ready for you! Are you ready to continue with the course?"
+msgstr "Ngikulungiselele esinye isifundo! Ingabe usukulungele ukuqhubeka nesifundo?"
+
+#. type=text
+msgctxt "text"
+msgid "2. No, remind me tomorrow"
+msgstr "2. Cha, ngikhumbuze kusasa"
 
 #. type=text
 msgctxt "text"
@@ -236,8 +446,18 @@ msgstr "Sengathi le miyalezo ayisebenzi. Uma usukulungele ukuqhubeka, cindezela 
 
 #. type=text
 msgctxt "text"
+msgid "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}."
+msgstr "Sithemba ukuthi lokhu kube usizo! Ungakwazi ukufinyelela iMeniyu Enkulu nomanini ngokubhala ukuthi {MENU}."
+
+#. type=text
+msgctxt "text"
 msgid "What would you like to do next?"
 msgstr "Yini ongathanda ukuyenza ngokulandelayo?"
+
+#. type=text
+msgctxt "text"
+msgid "You have reached the end of this lesson! 🎉 "
+msgstr "Ufinyelele ekupheleni kwalesi sifundo! 🎉 "
 
 #. type=text
 msgctxt "text"
@@ -320,6 +540,17 @@ msgid "Would you like to change your language?"
 msgstr "Ungathanda ukushintsha ulimi lwakho?"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "*DAY @fields.curr_demo_day*"
+msgstr "*USUKU @fields.curr_demo_day*"
+
+#. type=text
+msgctxt "text"
+msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
+msgstr "Uyiqedele idemo yeParentText. Bhala ukuthi SETHA KABUSHA bese uthi {FACSTART} ukuze uqale kabusha kusukela ekuqaleni."
+
+#. type=text
 msgctxt "text"
 msgid "What is your family name (surname)?"
 msgstr "Ungowakwabani isibongo?"
@@ -328,6 +559,11 @@ msgstr "Ungowakwabani isibongo?"
 msgctxt "text"
 msgid "What is your first name?"
 msgstr "Ubani igama lakho?"
+
+#. type=text
+msgctxt "text"
+msgid "See you tomorrow!"
+msgstr "Sizokubona kusasa!"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -370,6 +606,12 @@ msgstr "Ngikhetha ukungasho"
 msgctxt "quick_replies"
 msgid "English"
 msgstr "IsiNgisi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "isiZulu"
+msgstr "isiZulu"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -458,6 +700,12 @@ msgstr "Yana Kumenyu Omkhulu"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Exit menu"
+msgstr "Phuma kumenyu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "BACK"
 msgstr "EMUVA"
 
@@ -506,6 +754,42 @@ msgstr "Buyela kwi-Menyu enkulu"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Review another lesson from this course"
+msgstr "Buyekeza esinye isifundo kulesi sifundo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review tips"
+msgstr "Buyekeza amathiphu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my settings"
+msgstr "Shintshe engikusethile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get help with an emergency"
+msgstr "Thola usizo ngesimo esiphuthumayo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Watch a video about WASHText"
+msgstr "Buka ividiyo ekhuluma ngeWASHText"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my profile"
+msgstr "Shintsha iphrofayela yami"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Stop receiving the messages"
 msgstr "Yeka ukuthola imiyalezo"
 
@@ -514,6 +798,18 @@ msgstr "Yeka ukuthola imiyalezo"
 msgctxt "quick_replies"
 msgid "Return to Main Menu"
 msgstr "Buyela kwi-Menyu enkulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my language"
+msgstr "Shintsha ulimi lwami"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change the way I receive content"
+msgstr "Shintsha indlela engithola ngayo okuqukethwe"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -556,6 +852,12 @@ msgstr "ngikhetha ukungasho"
 msgctxt "arguments"
 msgid "english"
 msgstr "isiNgisi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "isizulu"
+msgstr "isizulu"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -734,6 +1036,12 @@ msgstr "emuva"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "wash"
+msgstr "geza"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "now"
 msgstr "manje"
 
@@ -770,6 +1078,48 @@ msgstr "buyela kumenyu"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "na"
+msgstr "na"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review another lesson from this course"
+msgstr "buyekeza esinye isifundo kulesi sifundo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review tips"
+msgstr "buyekeza amathiphu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my settings"
+msgstr "shintshe engikusethile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get help with an emergency"
+msgstr "thola usizo ngesimo esiphuthumayo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "watch a video about washtext"
+msgstr "buka ividiyo ekhuluma nge-washtext"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my profile"
+msgstr "shintsha iphrofayela yami"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "stop receiving the messages"
 msgstr "yeka ukuthola imiyalezo"
 
@@ -778,6 +1128,18 @@ msgstr "yeka ukuthola imiyalezo"
 msgctxt "arguments"
 msgid "return to main menu"
 msgstr "buyela kumenyu enkulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my language"
+msgstr "shintsha ulimi lwami"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change the way i receive content"
+msgstr "shintsha indlela engithola ngayo okuqukethwe"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
