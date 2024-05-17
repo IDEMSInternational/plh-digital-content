@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2024-05-16 18:25\n"
+"PO-Revision-Date: 2024-05-17 00:19\n"
 
 #. type=text
 msgctxt "text"
@@ -563,6 +563,159 @@ msgstr "Wil jy graag ondersteuning daarmee hê?"
 
 #. type=text
 msgctxt "text"
+msgid "That's okay. You can access more information at any time in the Main Menu. Just type {MENU}."
+msgstr "Dis oukei. Jy kan te eniger tyd meer inligting in die Hoofkieslys kry. Tik net {MENU}."
+
+#. type=text
+msgctxt "text"
+msgid "What are you struggling with?"
+msgstr "Waarmee sukkel jy?"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed a lesson yet."
+msgstr "Jy het nog nie 'n les voltooi nie."
+
+#. type=text
+msgctxt "text"
+msgid "Which course do you want to review?"
+msgstr "Watter kursus wil jy hersien?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.goals_accessed) +1). Return to Main Menu"
+msgstr "@(word_count(fields.goals_accessed) +1). Gaan terug na Hoofkieslys"
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any of the lessons in this course. "
+msgstr "Jy het nog nie enige van die lesse in hierdie kursus voltooi nie. "
+
+#. type=text
+msgctxt "text"
+msgid "You have only completed the following lesson:"
+msgstr "Jy het nog net die volgende les voltooi:"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to review it?"
+msgstr "Wil jy dit graag hersien?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can come back here at any time to review it."
+msgstr "Dis oukei. Jy kan te eniger tyd hierheen terugkom om dit te hersien."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.n_s_modules_compl lessons within this course. Which lesson do you want to review?"
+msgstr "Jy het @fields.n_s_modules_compl lesse in hierdie kursus voltooi. Watter les wil jy hersien?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Return to Main Menu"
+msgstr "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Gaan terug na Hoofkieslys"
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do next?"
+msgstr "Wat wil jy graag volgende doen?"
+
+#. type=text
+msgctxt "text"
+msgid "Great, see you tomorrow!"
+msgstr "Goed, sien jou môre!"
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your teen?"
+msgstr "Watter tipe aktiwiteit wil jy met jou tiener probeer?"
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your baby?"
+msgstr "Watter tipe aktiwiteit wil jy met jou baba probeer?"
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your child?"
+msgstr "Watter tipe aktiwiteit wil jy met jou kind probeer?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to begin now or tomorrow?"
+msgstr "Wil jy nou begin, of môre?"
+
+#. type=text
+msgctxt "text"
+msgid "It takes only 5 days to complete this course and earn your parenting certificate."
+msgstr "Dit neem slegs 5 dae om hierdie kursus te voltooi en jou ouerskapsertifikaat te verdien."
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it!🎉 You have completed this course and earned yourself another certificate. Congratulations! "
+msgstr "🎉Jy het dit gedoen!🎉 Jy het hierdie kursus voltooi en nog 'n sertifikaat verwerf. Veels geluk! "
+
+#. type=text
+msgctxt "text"
+msgid "Remember, you can always return to ParentText and get extra support or review this information. Just type {MENU}."
+msgstr "Onthou, jy kan altyd terugkom na ParentText en ekstra ondersteuning kry of hierdie inligting hersien. Tik net {MENU}."
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it!🎉 You have completed the course and earned yourself a certificate. Congratulations! "
+msgstr "🎉Jy het dit gedoen!🎉 Jy het hierdie kursus voltooi en 'n sertifikaat verwerf. Veels geluk! "
+
+#. type=text
+msgctxt "text"
+msgid "JabuChat has begun. You are just 5 days away from earning your parenting certificate. Are you ready to complete your registration and get started?"
+msgstr "JabuChat het begin. Jy is net 5 dae weg daarvan om jou ouerskapsertifikaat te verwerf. Is jy gereed om jou registrasie te voltooi en te begin?"
+
+#. type=text
+msgctxt "text"
+msgid "Press a number on your keypad:"
+msgstr "Druk 'n nommer op jou sleutelbord:"
+
+#. type=text
+msgctxt "text"
+msgid "1. Yes"
+msgstr "1. Ja"
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me tomorrow"
+msgstr "2. Herinner my môre"
+
+#. type=text
+msgctxt "text"
+msgid "You’re off track! Do you want to complete your lesson or start a new one? "
+msgstr "Jy's van die spoor af! Wil jy jou les voltooi of 'n nuwe een begin? "
+
+#. type=text
+msgctxt "text"
+msgid "1. Complete a previous lesson"
+msgstr "1. Voltooi 'n vorige les"
+
+#. type=text
+msgctxt "text"
+msgid "2. Start a new lesson"
+msgstr "2. Begin 'n nuwe les"
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to catch up and proceed to the next lesson?"
+msgstr "Wil jy inhaal en na die volgende les aangaan?"
+
+#. type=text
+msgctxt "text"
+msgid "You're almost finished with this course! You only have 1 unfinished lesson. What would you like to do?"
+msgstr "Jy's amper klaar met hierdie kursus! Jy het net 1 onvoltooide les. Wat wil jy graag doen?"
+
+#. type=text
+msgctxt "text"
 msgid "1. Finish this lesson and earn my course certificate"
 msgstr "1. Voltooi hierdie les en verdien my kursussertifikaat"
 
@@ -604,14 +757,140 @@ msgid "1. Yes!"
 msgstr "1. Ja!"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It’s time to get started on your course, @results.name. Are you ready?"
+msgstr "Dis tyd om met jou kursus te begin, @results.name. Is jy gereed?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "I've got another lesson ready for you! Are you ready to continue with the course, @results.name?"
+msgstr "Ek het nog 'n les gereed vir jou! Is jy gereed om met die kursus voort te gaan, @results.name?"
+
+#. type=text
+msgctxt "text"
+msgid "2. No, remind me tomorrow"
+msgstr "2. Nee, herinner my môre"
+
+#. type=text
+msgctxt "text"
+msgid "I've got another lesson ready for you! Are you ready?"
+msgstr "Ek het nog 'n les gereed vir jou! Is jy gereed?"
+
+#. type=text
+msgctxt "text"
+msgid "These messages don’t seem to be working. When you are ready to keep going, press 1. "
+msgstr "Hierdie boodskappe lyk nie of dit werk nie. Wanneer jy gereed is om voort te gaan, druk 1. "
+
+#. type=text
+msgctxt "text"
+msgid "You have not completed a course yet."
+msgstr "Jy het nog nie 'n kursus voltooi nie."
+
+#. type=text
+msgctxt "text"
+msgid "You have completed the following course:"
+msgstr "Jy het die volgende kursus voltooi:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@(text_slice(results.message_options,3))"
+msgstr "@(text_slice(results.message_options,3))"
+
+#. type=text
+msgctxt "text"
+msgid "You have completed the following courses:"
+msgstr "Jy het die volgende kursusse voltooi:"
+
+#. type=text
+msgctxt "text"
+msgid "There are no other courses to complete."
+msgstr "Daar is geen ander kursusse om te voltooi nie."
+
+#. type=text
+msgctxt "text"
+msgid "You have the following courses still available: "
+msgstr "Jy het die volgende kursusse nog beskikbaar: "
+
+#. type=text
+msgctxt "text"
+msgid "You have not begun the following courses: "
+msgstr "Jy het nie die volgende kursusse begin nie: "
+
+#. type=text
+msgctxt "text"
+msgid "You are on track to complete the entire ParentText programme! There are no new courses to start!"
+msgstr "Jy is op koers om die hele ParentText-program te voltooi! Daar is geen nuwe kursusse om te begin nie!"
+
+#. type=text
+msgctxt "text"
+msgid "You have the following course available:"
+msgstr "Jy het die volgende kursus beskikbaar:"
+
+#. type=text
+msgctxt "text"
+msgid "You have the following courses available:"
+msgstr "Jy het die volgende kursusse beskikbaar:"
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}."
+msgstr "Ons hoop dit het jou gehelp! Jy kan te eniger tyd toegang tot die Hoofkieslys kry deur {MENU} te tik."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your relationship status has been updated. You've unlocked a new course: @results.name. "
+msgstr "Jou verhoudingstatus is opgedateer. Jy het 'n nuwe kursus ontsluit: @results.name. "
+
+#. type=text
+msgctxt "text"
+msgid "To invite someone to join, share this link!"
+msgstr "Om iemand te nooi om aan te sluit, deel hierdie skakel!"
+
+#. type=text
 msgctxt "text"
 msgid "{insert link}"
 msgstr "{insert link}"
 
 #. type=text
 msgctxt "text"
+msgid "You have reached the end of this lesson! 🎉 "
+msgstr "Jy het die einde van hierdie les bereik! 🎉 "
+
+#. type=text
+msgctxt "text"
+msgid "What do you want to do next?"
+msgstr "Wat wil jy volgende doen?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can access more information at any time in the Main Menu."
+msgstr "Dis oukei. Jy kan te eniger tyd meer inligting in die Hoofkieslys kry."
+
+#. type=text
+msgctxt "text"
+msgid "🎉You did it! Congratulations!🎉 You have completed all the available courses. Well done!"
+msgstr "🎉Jy het dit gedoen! Veels geluk!🎉Jy het al die beskikbare kursusse voltooi. Welgedaan!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.c_n_mod_compl out of @fields.c_n_mod lessons."
+msgstr "Jy het @fields.c_n_mod_compl out of @fields.c_n_mod lesse voltooi."
+
+#. type=text
+msgctxt "text"
 msgid "⬜️⬜️"
 msgstr "⬜️⬜️"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.n_goals_completed of @fields.n_goals_prog Courses Complete"
+msgstr "@fields.n_goals_completed of @fields.n_goals_prog Kursusse Voltooi"
 
 #. type=text
 msgctxt "text"
@@ -1049,9 +1328,258 @@ msgid "✅✅✅✅✅✅✅✅✅✅✅✅"
 msgstr "✅✅✅✅✅✅✅✅✅✅✅✅"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You are currently working on the course @results.name."
+msgstr "Jy werk tans aan die kursus @results.name."
+
+#. type=text
+msgctxt "text"
+msgid "You have not selected which course to work on next."
+msgstr "Jy het nie gekies aan watter kursus om volgende te werk nie."
+
+#. type=text
+msgctxt "text"
+msgid "What would you like change?"
+msgstr "Wat sou jy wou verander?"
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text, Images, and Videos."
+msgstr "Jou huidige media-instelling is Teks, Prente en Video's."
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text, Images, and Audio."
+msgstr "Jou huidige media-instelling is Teks, Prente en Oudio."
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text and Images Only."
+msgstr "Jou huidige media-instelling is Slegs Teks en Prente."
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is"
+msgstr "Jou huidige media-instelling is"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't provide this info."
+msgstr "Jy het nie hierdie inligting verskaf nie."
+
+#. type=text
 msgctxt "text"
 msgid "Would you like to change it?"
 msgstr "Wil jy dit verander?"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us if you are a woman or a man. "
+msgstr "Jy het nie vir ons gesê of jy 'n vrou of 'n man is nie. "
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Woman."
+msgstr "Jy het vir ons gesê jy is 'n Vrou."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Man."
+msgstr "Jy het vir ons gesê jy is 'n Man."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a"
+msgstr "Jy het vir ons gesê jy is 'n"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update your gender?"
+msgstr "Wil jy jou geslag opdateer?"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us what's your relationship status."
+msgstr "Jy het nie vir ons gesê wat jou verhoudingstatus is nie."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Single (not in a relationship)."
+msgstr "Jy het vir ons gesê jy is Enkellopend (nie in 'n verhouding nie)."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Married."
+msgstr "Jy het vir ons gesê jy is Getroud."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Partnered but not married."
+msgstr "Jy het vir ons gesê jy het 'n Lewensmaat, maar is nie getroud nie."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Divorced or separated."
+msgstr "Jy het vir ons gesê jy is Geskei of leef apart."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are Widowed."
+msgstr "Jy het vir ons gesê jy is 'n Wewenaar/Weduwee."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are"
+msgstr "Jy het vir ons gesê jy is"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change your relationship status?"
+msgstr "Wil jy jou verhoudingstatus verander?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is @fields.child_age year old and was born on @(date(fields.child_dob))."
+msgstr "Jy het vir ons gesê dat @fields.child_nickname @fields.child_age jaar oud is en op @(date(fields.child_dob)) gebore is."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that your child is @fields.child_age year old and was born on @(date(fields.child_dob))."
+msgstr "Jy het vir ons gesê dat jou kind @fields.child_age jaar oud is en op @(date(fields.child_dob)) gebore is."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Would you like to update the date of birth of @fields.child_nickname?"
+msgstr "Wil jy @fields.child_nickname se geboortedatum opdateer?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update the date of birth of your child?"
+msgstr "Wil jy jou kind se geboortedatum opdateer?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your child's nickname is @fields.child_nickname."
+msgstr "Jou kind se noemnaam is @fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "You didn't provide a nickname for your child."
+msgstr "Jy het nie 'n noemnaam vir jou kind verskaf nie."
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update it?"
+msgstr "Wil jy dit opdateer?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname's gender has been updated."
+msgstr "@fields.child_nickname's se geslag is opgedateer."
+
+#. type=text
+msgctxt "text"
+msgid "Your child's gender has been updated."
+msgstr "Jou kind se geslag is opgedateer."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You didn't tell us the gender of @fields.child_nickname."
+msgstr "Jy het ons nie gesê wat @fields.child_nickname se geslag is nie."
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us the gender of your child."
+msgstr "Jy het nie vir ons gesê wat jou kind se geslag is nie."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is a Girl."
+msgstr "Jy het vir ons gesê dat @fields.child_nickname 'n Meisie is."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that your child is a Girl."
+msgstr "Jy het vir ons gesê dat jou kind 'n Meisie is."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is a Boy."
+msgstr "Jy het vir ons gesê dat @fields.child_nickname 'n Seun is."
+
+#. type=text
+msgctxt "text"
+msgid "You told us that your child is a Boy."
+msgstr "Jy het vir ons gesê dat jou kind 'n Seun is."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is a"
+msgstr "Jy het vir ons gesê @fields.child_nickname is 'n"
+
+#. type=text
+msgctxt "text"
+msgid "You told us that your child is a"
+msgstr "Jy het vir ons gesê jou kind is 'n"
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in English."
+msgstr "Die taal waarin jy tans boodskappe ontvang, is Engels."
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in IsiZulu."
+msgstr "Jy ontvang tans boodskappe in IsiZulu."
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in"
+msgstr "Jy ontvang tans boodskappe in"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change your language?"
+msgstr "Wil jy jou taal verander?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "*DAY @fields.curr_demo_day*"
+msgstr "*DAG @fields.curr_demo_day*"
+
+#. type=text
+msgctxt "text"
+msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
+msgstr "Jy het die ParentText-demo voltooi. Tik HERSTEL en dan {FACSTART} om weer van die begin af te begin."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text, Images, and Videos"
+msgstr "Teks, Prente en Video's"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text, Images, and Audio"
+msgstr "Teks, Prente en Oudio"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text and Images Only"
+msgstr "Slegs Teks en Prente"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1074,8 +1602,32 @@ msgstr "Verkies om nie te sê nie"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Single"
+msgstr "Enkellopend"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Unmarried but in a relationship"
+msgstr "Ongetroud, maar in 'n verhouding"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Married"
 msgstr "Getroud"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Separated from partner"
+msgstr "Geskei van lewensmaat"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Divorced"
+msgstr "Geskei"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1092,6 +1644,12 @@ msgstr "Ander"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "I don't want to answer"
+msgstr "Ek wil nie antwoord nie"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Girl"
 msgstr "Meisie"
 
@@ -1104,8 +1662,80 @@ msgstr "Seun"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Eastern Cape"
+msgstr "Oos-Kaap"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Free State"
+msgstr "Vrystaat"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Gauteng"
+msgstr "Gauteng"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "KwaZulu-Natal"
+msgstr "KwaZulu-Natal"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Limpopo"
+msgstr "Limpopo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Mpumalanga"
+msgstr "Mpumalanga"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "North West"
+msgstr "Noordwes"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Northern Cape"
+msgstr "Noord-Kaap"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Western Cape"
+msgstr "Wes-Kaap"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I do not live in South Africa"
+msgstr "Ek woon nie in Suid-Afrika nie"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "English"
 msgstr "Engels"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Isizulu"
+msgstr "Isizulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "YES"
+msgstr "JA"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1122,6 +1752,12 @@ msgstr "Nee, ek is jonger as 18"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "BACK"
+msgstr "TERUG"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Yes"
 msgstr "Ja"
 
@@ -1130,6 +1766,12 @@ msgstr "Ja"
 msgctxt "quick_replies"
 msgid "No"
 msgstr "Nee"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "VOLGENDE"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1182,6 +1824,114 @@ msgstr "Middelmisbruik"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Natural disasters"
+msgstr "Natuurrampe"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Child Development"
+msgstr "Kinderontwikkeling"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get other emergency contacts"
+msgstr "Kry ander noodkontakte"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to the Main Menu"
+msgstr "Gaan na die Hoofkieslys"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit menu"
+msgstr "Gaan uit kieslys"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Give me an idea for 1-on-1 time with my child"
+msgstr "Gee my 'n idee vir 1-tot-1-tyd met my kind"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I’m done for today"
+msgstr "Ek's klaar vir vandag"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Give me an idea for 1-on-1 time with my teen"
+msgstr "Gee my 'n idee vir 1-tot-1-tyd met my tiener"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Give me an idea for 1-on-1 time with my baby"
+msgstr "Gee my 'n idee vir 1-tot-1-tyd met my baba"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View another activity idea"
+msgstr "Sien 'n ander aktiwiteitsidee"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to Main Menu"
+msgstr "Gaan na Hoofkieslys"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Continue my progress tomorrow"
+msgstr "Gaan môre voort met my vordering"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Quick"
+msgstr "Iets Vinnigs"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Active"
+msgstr "Iets Aktiefs"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Calm"
+msgstr "Iets Kalms"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something for the whole family"
+msgstr "Iets vir die hele gesin"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Now"
+msgstr "Nou"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Tomorrow"
+msgstr "Môre"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "1"
 msgstr "1"
 
@@ -1194,8 +1944,217 @@ msgstr "2"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Remind me tomorrow"
+msgstr "Herinner my môre"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View incomplete courses"
+msgstr "Sien onvoltooide kursusse"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View courses to start"
+msgstr "Sien kursusse om te begin"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Main Menu"
+msgstr "Terug na Hoofkieslys"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View finished courses"
+msgstr "Sien voltooide kursusse"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete this outstanding course and leave my current course incomplete"
+msgstr "Voltooi hierdie uitstaande kursus en laat my huidige kursus onvoltooid"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Complete another outstanding course and leave my current course incomplete"
+msgstr "Voltooi 'n ander uitstaande kursus en laat my huidige kursus onvoltooid"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start the new course and leave my current course incomplete"
+msgstr "Voltooi die nuwe kursus en laat my huidige kursus onvoltooid"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Start a new course and leave my current course incomplete"
+msgstr "Voltooi 'n nuwe kursus en laat my huidige kursus onvoltooid"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review a lesson from a different course"
+msgstr "Hersien 'n les van 'n ander kursus"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Menu"
+msgstr "Terug na Kieslys"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review another lesson from this course"
+msgstr "Hersien 'n ander les uit hierdie kursus"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get more help with this course"
+msgstr "Kry meer hulp met hierdie kursus"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get help with a different challenge"
+msgstr "Kry hulp met 'n ander uitdaging"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to the Main Menu"
+msgstr "Terug na die hoofkieslys"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review and track my progress"
+msgstr "Hersien en bepaal my vordering"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my settings"
+msgstr "Verander my instellings"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Invite a friend to enroll in JabuChat"
+msgstr "Nooi 'n vriend om in te skryf vir JabuChat"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get help with an emergency"
+msgstr "Kry hulp in 'n noodgeval"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Watch a video about JabuChat"
+msgstr "Kyk 'n video oor JabuChat"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Track my progress"
+msgstr "Bepaal my vordering"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Retake completed lessons"
+msgstr "Doen voltooide lesse weer"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get extra help with my child"
+msgstr "Kry ekstra hulp met my kind"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my profile"
+msgstr "Verander my profiel"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Stop receiving the messages"
 msgstr "Hou op om boodskappe te ontvang"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my language"
+msgstr "Verander my taal"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change the way I receive content"
+msgstr "Verander die manier waarop ek inhoud ontvang"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my gender"
+msgstr "Verander my geslag"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my relationship status"
+msgstr "Verander my verhoudingstatus"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my child's age"
+msgstr "Verander my kind se ouderdom"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Update my child's name"
+msgstr "Dateer my kind se naam op"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my child's gender"
+msgstr "Verander my kind se geslag"
+
+#. type=variables
+msgctxt "variables"
+msgid "@results.name"
+msgstr "@results.name"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text, images, and videos"
+msgstr "teks, prente en video's"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text, images, and audio"
+msgstr "teks, prente en oudio"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text and images only"
+msgstr "slegs teks en prente"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1224,8 +2183,26 @@ msgstr "enkellopend"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "unmarried but in a relationship"
+msgstr "ongetroud, maar in 'n verhouding"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "married"
 msgstr "getroud"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "separated from partner"
+msgstr "geskei van lewensmaat"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "divorced"
+msgstr "geskei"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1242,6 +2219,12 @@ msgstr "ander"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "i don't want to answer"
+msgstr "ek wil nie antwoord nie"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "girl"
 msgstr "meisie"
 
@@ -1254,6 +2237,66 @@ msgstr "seun"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "eastern cape"
+msgstr "oos-kaap"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "free state"
+msgstr "vrystaat"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "gauteng"
+msgstr "gauteng"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "kwazulu-natal"
+msgstr "kwazulu-natal"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "limpopo"
+msgstr "limpopo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mpumalanga"
+msgstr "mpumalanga"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "north west"
+msgstr "noordwes"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "northern cape"
+msgstr "noord-kaap"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "western cape"
+msgstr "wes-kaap"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i do not live in south africa"
+msgstr "ek woon nie in suid-afrika nie"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "n"
 msgstr "n"
 
@@ -1262,6 +2305,12 @@ msgstr "n"
 msgctxt "arguments"
 msgid "english"
 msgstr "engels"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "isizulu"
+msgstr "isizulu"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1302,6 +2351,30 @@ msgstr "terug"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "yes y yeah yep"
+msgstr "ja j jip ok"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "nee n"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "generic"
+msgstr "generies"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental_health"
+msgstr "geestesgesondheid"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "health"
 msgstr "gesondheid"
 
@@ -1314,8 +2387,26 @@ msgstr "geweld"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "natural_disasters"
+msgstr "natuurrampe"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "drugs"
+msgstr "dwelms"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "help"
 msgstr "hulp help"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "menu"
+msgstr "kieslys"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1326,14 +2417,74 @@ msgstr "speel"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "grow"
+msgstr "groei"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "stop"
 msgstr "stop"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "start"
+msgstr "begin"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review"
+msgstr "hersien"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "pause"
+msgstr "wag"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope nah"
+msgstr "nee n"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "police"
 msgstr "polisie"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "medical services"
+msgstr "mediese dienste"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "fire department"
+msgstr "brandweer"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental health services"
+msgstr "geestesgesondheidsdienste"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "violence prevention hotline"
+msgstr "geweldvoorkomingsblitslyn"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "suicide prevention hotline"
+msgstr "selfdoodvoorkomingsblitslyn"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1350,8 +2501,116 @@ msgstr "middelmisbruik"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "natural disasters"
+msgstr "natuurrampe"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "child development"
+msgstr "kinderontwikkeling"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get other emergency contacts"
+msgstr "kry ander noodkontakte"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go to the main menu"
+msgstr "gaan na die Hoofkieslys"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "exit menu"
 msgstr "gaan uit kieslys"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "jabuchat"
+msgstr "jabuchat"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i’m done for today"
+msgstr "ek's klaar vir vandag"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "give me an idea for 1-on-1 time with my child"
+msgstr "gee my 'n idee vir 1-tot-1-tyd met my kind"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "give me an idea for 1-on-1 time with my teen"
+msgstr "gee my 'n idee vir 1-tot-1-tyd met my tiener"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "give me an idea for 1-on-1 time with my baby"
+msgstr "gee my 'n idee vir 1-tot-1-tyd met my baba"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view another activity idea"
+msgstr "sien 'n ander aktiwiteitsidee"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go to main menu"
+msgstr "gaan na Hoofkieslys"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "continue my progress tomorrow"
+msgstr "gaan môre voort met my vordering"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something quick"
+msgstr "iets vinnigs"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something active"
+msgstr "iets aktiefs"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something calm"
+msgstr "iets kalms"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something for the whole family"
+msgstr "iets vir die hele gesin"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "now"
+msgstr "nou"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "tomorrow"
+msgstr "môre"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1364,4 +2623,202 @@ msgstr "1"
 msgctxt "arguments"
 msgid "2"
 msgstr "2"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "remind me tomorrow"
+msgstr "herinner my môre"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view incomplete courses"
+msgstr "sien onvoltooide kursusse"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view courses to start"
+msgstr "sien kursusse om te begin"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to main menu"
+msgstr "terug na hoofkieslys"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view finished courses"
+msgstr "sien voltooide kursusse"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete this outstanding course and leave my current course incomplete"
+msgstr "voltooi hierdie uitstaande kursus en laat my huidige kursus onvoltooid"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "complete another outstanding course and leave my current course incomplete"
+msgstr "voltooi 'n ander uitstaande kursus en laat my huidige kursus onvoltooid"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start the new course and leave my current course incomplete"
+msgstr "voltooi die nuwe kursus en laat my huidige kursus onvoltooid"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start a new course and leave my current course incomplete"
+msgstr "begin 'n nuwe kursus en laat my huidige kursus onvoltooid"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to menu"
+msgstr "terug na kieslys"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review a lesson from a different course"
+msgstr "hersien 'n les van 'n ander kursus"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review another lesson from this course"
+msgstr "hersien 'n ander les uit hierdie kursus"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get more help with this course"
+msgstr "kry meer hulp met hierdie kursus"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get help with a different challenge"
+msgstr "kry hulp met 'n ander uitdaging"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to the main menu"
+msgstr "terug na hoofkieslys"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review and track my progress"
+msgstr "hersien en bepaal my vordering"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my settings"
+msgstr "verander my instellings"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "invite a friend to enroll in jabuchat"
+msgstr "nooi 'n vriend om in te skryf vir jabuchat"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get help with an emergency"
+msgstr "kry hulp in 'n noodgeval"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "watch a video about jabuchat"
+msgstr "kyk 'n video oor jabuchat"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "track my progress"
+msgstr "bepaal my vordering"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "retake completed lessons"
+msgstr "doen voltooide lesse weer"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get extra help with my child"
+msgstr "kry ekstra hulp met my kind"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my profile"
+msgstr "verander my profiel"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop receiving the messages"
+msgstr "staak ontvangs van die boodskappe"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my language"
+msgstr "verander my taal"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change the way i receive content"
+msgstr "verander die manier waarop ek inhoud ontvang"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my gender"
+msgstr "verander my geslag"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my relationship status"
+msgstr "verander my verhoudingstatus"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my child's age"
+msgstr "verander my kind se ouderdom"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "update my child's name"
+msgstr "dateer my kind se naam op"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my child's gender"
+msgstr "verander my kind se geslag"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep ok"
+msgstr "ja j jip ok"
 
