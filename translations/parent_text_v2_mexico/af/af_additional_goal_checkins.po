@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: 652eb1a39a0f8681c408f40296bb88b4\n"
+"X-Crowdin-Project-ID: 3\n"
+"X-Crowdin-Language: af\n"
+"X-Crowdin-File: /main/translations/parent_text_v2_mexico/en/additional_goal_checkins.pot\n"
+"X-Crowdin-File-ID: 452\n"
+"Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
+"Language-Team: Afrikaans\n"
+"\n"
+"Language: af_ZA\n"
+"PO-Revision-Date: 2024-05-17 12:32\n"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay."
+msgstr "Dis oukei."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "Jammer, ek verstaan nie wat jy bedoel nie."
+
+#. type=text
+msgctxt "text"
+msgid "What do you want to do next?"
+msgstr "Wat wil jy volgende doen?"
+
+#. type=text
+msgctxt "text"
+msgid "1. Refuse to obey instructions"
+msgstr "1. Weier om opdragte te gehoorsaam"
+
+#. type=text
+msgctxt "text"
+msgid "2. Gets angry a lot"
+msgstr "2. Word baiekeer kwaad"
+
+#. type=text
+msgctxt "text"
+msgid "3. Rudeness, disrespectful behaviour"
+msgstr "3. Onbeskoftheid, oneerbiedige gedrag"
+
+#. type=text
+msgctxt "text"
+msgid "4. Irritable, frequent mood changes"
+msgstr "4. Prikkelbaar, gereelde gemoedskommelings"
+
+#. type=text
+msgctxt "text"
+msgid "5. Does not follow rules"
+msgstr "5. Hou nie by die reëls nie"
+
+#. type=text
+msgctxt "text"
+msgid "6. Stubbornness"
+msgstr "6. Hardkoppigheid"
+
+#. type=text
+msgctxt "text"
+msgid "7. Breaking things"
+msgstr "7. Breek voorwerpe"
+
+#. type=text
+msgctxt "text"
+msgid "8. Getting into fights"
+msgstr "8. Raak betrokke in bakleiery"
+
+#. type=text
+msgctxt "text"
+msgid "9. Teasing or bothering others"
+msgstr "9. Terg of pla ander"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Wanneer is @fields.child_nickname gebore? Tik sy/haar geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, this date is invalid. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Jammer, hierdie datum is ongeldig. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "The date you entered is in the future. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Die datum wat jy ingevul het, is in die toekoms. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "Let's try again. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Kom ons probeer weer. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud. Is dit korrek?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
+msgstr "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud. Is dit korrek?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Volgens die datum wat jy verskaf het, sal @fields.child_nickname @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud wees. ParentText is slegs vir kinders van 2-17 jaar oud. Vul asseblief 'n geldige geboortedatum in die volgende formaat in: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Never"
+msgstr "Nooit"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My teen felt it was unfair that they have to follow the rule while I don’t have to follow it."
+msgstr "My tiener het gevoel dis onregverdig dat hulle die reël moet volg terwyl ek dit nie hoef te volg nie."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Bad"
+msgstr "Sleg"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I did not want to tell my family how much I earn."
+msgstr "Ek wou nie vir my gesin sê hoeveel ek verdien nie."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "When budgeting, we could not agree on what should fall under needs and what should fall under wants."
+msgstr "Toe ons begroot het, kon ons nie saamstem oor wat onder behoeftes en wat onder begeertes moet val nie."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I did not understand what to do."
+msgstr "Ek het nie verstaan wat om te doen nie."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr "Ja"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr "Nee"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "never"
+msgstr "nooit "
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "1"
+msgstr "1"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "2"
+msgstr "2"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "3"
+msgstr "3"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "4"
+msgstr "4"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "5"
+msgstr "5"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "6"
+msgstr "6"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "7"
+msgstr "7"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "8"
+msgstr "8"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "9"
+msgstr "9"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "continue my progress tomorrow"
+msgstr "gaan môre voort met my vordering"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "bad"
+msgstr "sleg"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep"
+msgstr "ja j jip ok"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "nee n"
+

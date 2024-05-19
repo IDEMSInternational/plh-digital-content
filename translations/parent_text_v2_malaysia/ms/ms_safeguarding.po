@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2024-05-13 16:14\n"
+"PO-Revision-Date: 2024-05-19 00:44\n"
 
 #. type=text
 msgctxt "text"
@@ -201,6 +201,22 @@ msgstr "Sila taip \"KEMBALI\" jika anda telah melakukan kesilapan."
 
 #. type=text
 msgctxt "text"
+msgid "Thank you for participating. If you want to return to the programme, type HELLO. "
+msgstr "Terima kasih kerana mengambil bahagian. Taip HELLO jika anda mahu kembali ke program. "
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon! "
+msgstr "Kami harap dapat berjumpa anda semula tidak lama lagi! "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your user ID is @fields.research_id"
+msgstr "ID pengguna anda ialah @fields.research_id"
+
+#. type=text
+msgctxt "text"
 msgid "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!"
 msgstr "Selepas anda melengkapkan pendaftaran, ciri ini akan sedia ada untuk anda. Ia tidak akan mengambil masa yang lama. Sila teruskan dengan pendaftaran!"
 
@@ -297,6 +313,12 @@ msgstr "Dapatkan lain-lain nombor kecemasan"
 msgctxt "quick_replies"
 msgid "Go to the Main Menu"
 msgstr "Pergi ke Menu Utama"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit menu"
+msgstr "Keluar menu"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -507,4 +529,28 @@ msgstr "keluar"
 msgctxt "arguments"
 msgid "back"
 msgstr "kembali"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "kemas"
+msgstr "kemas"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "masw csos"
+msgstr "masw csos"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "family keluarga"
+msgstr "keluarga"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "ready sedia"
+msgstr "sedia"
 
