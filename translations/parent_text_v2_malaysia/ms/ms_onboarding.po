@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2024-05-19 00:44\n"
+"PO-Revision-Date: 2024-05-24 14:30\n"
 
 #. type=text
 msgctxt "text"
@@ -91,39 +91,6 @@ msgstr "Sila pilih bahasa anda:"
 
 #. type=text
 msgctxt "text"
-msgid "How old are you?"
-msgstr "Berapakah umur anda?"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "You entered @results.number. This programme is for parents and caregivers that are over 18 years old."
-msgstr "Anda telah memasukkan @results.number. Program ini adalah untuk ibu bapa dan penjaga yang berumur 18 tahun ke atas."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Do you confirm that you are @results.number years old?"
-msgstr "Adakah anda mengesahkan bahawa anda berumur @results.number tahun?"
-
-#. type=text
-msgctxt "text"
-msgid "Sorry, ParentText is only for people over the age of 18. If you want to experience ParentText, you can always share it with your parents or caregivers."
-msgstr "Maaf, ParentText hanya untuk mereka yang berumur 18 tahun ke atas. Anda boleh berkongsi dengan ibu bapa atau penjaga anda pada bila-bila masa jika anda ingin menggunakan ParentText."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "You entered @results.number. This looks too old. Let's try again."
-msgstr "Anda telah memasukkan @results.number. Nampaknya usia terlalu tua. Mari cuba lagi."
-
-#. type=text
-msgctxt "text"
-msgid "Sorry, I don't understand what you mean. Please reply with your age."
-msgstr "Maaf, saya tidak faham apa yang anda maksudkan. Sila jawab dengan umur anda."
-
-#. type=text
-msgctxt "text"
 msgid "This programme works! Did you know that over 200 million parents around the world have used our resources developed by Parenting for Lifelong Health, WHO, and UNICEF?"
 msgstr "Tahukah anda bahawa lebih 200 juta ibu bapa di seluruh dunia telah menggunakan sumber kami yang dibina oleh Parenting for Lifelong Health, WHO, dan UNICEF? Ini menunjukkan program ini berkesan!"
 
@@ -141,17 +108,6 @@ msgstr "✅Pengkaji selidik merancang untuk menerbitkan keputusan penyelidikan. 
 msgctxt "text"
 msgid "❌You can stop when you want. Just type {STOP}"
 msgstr "❌Hanya taip {STOP} dan anda boleh berhenti pada bila-bila masa yang anda inginkan."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "❓If you have questions, ask Dr. Jamie Lachman at jamie.lachman@spi.ox.ac.uk; +44(7)840825892"
-msgstr "❓Dr. Jamie Lachman sedia menjawab soalan anda melalui jamie.lachman@spi.ox.ac.uk; +44(7)840825892 untuk sebarang pertanyaan"
-
-#. type=text
-msgctxt "text"
-msgid "Click here for more information: {consent_link}"
-msgstr "Klik di sini untuk maklumat lanjut: {consent_link}"
 
 #. type=text
 msgctxt "text"
@@ -294,6 +250,34 @@ msgstr "Apakah matlamat keibubapaan yang didapati paling berguna untuk anda?"
 msgctxt "text"
 msgid "Would you recommend the programme to a friend or relative? "
 msgstr "Adakah anda akan mengesyorkan program ini kepada rakan atau saudara? "
+
+#. type=text
+msgctxt "text"
+msgid "How old are you?"
+msgstr "Berapakah umur anda?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You entered @results.number. This programme is for parents and caregivers that are over 18 years old."
+msgstr "Anda telah memasukkan @results.number. Program ini adalah untuk ibu bapa dan penjaga yang berumur 18 tahun ke atas."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Do you confirm that you are @results.number years old?"
+msgstr "Adakah anda mengesahkan bahawa anda berumur @results.number tahun?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You entered @results.number. This looks too old. Let's try again."
+msgstr "Anda telah memasukkan @results.number. Nampaknya usia terlalu tua. Mari cuba lagi."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean. Please reply with your age."
+msgstr "Maaf, saya tidak faham apa yang anda maksudkan. Sila jawab dengan umur anda."
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -448,14 +432,14 @@ msgstr "Ijazah perdoktoran"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "yes"
-msgstr "ya"
+msgid "Yes"
+msgstr "Ya"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "no"
-msgstr "tidak"
+msgid "No"
+msgstr "Tidak"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -570,18 +554,6 @@ msgstr "Bahasa Inggeris"
 msgctxt "quick_replies"
 msgid "Bahasa Melayu"
 msgstr "Bahasa Melayu"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Yes"
-msgstr "Ya"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "No"
-msgstr "Tidak"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
