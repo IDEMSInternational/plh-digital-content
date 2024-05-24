@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: 652eb1a39a0f8681c408f40296bb88b4\n"
+"X-Crowdin-Project-ID: 3\n"
+"X-Crowdin-Language: zu\n"
+"X-Crowdin-File: /main/translations/parenttext_5day_south_africa/en/rct_survyes.pot\n"
+"X-Crowdin-File-ID: 458\n"
+"Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
+"Language-Team: Zulu\n"
+"\n"
+"Language: zu_ZA\n"
+"PO-Revision-Date: 2024-05-24 12:57\n"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Wazalwa nini @fields.child_nickname? Faka usuku lwakhe lokuzalwa ngalendlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "When was your child born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Wazalwa nini @? Faka usuku lwabo lokuzalwa ngefomethi elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, this date is invalid. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Uxolo, lolu suku akulona. Sicela unikeze usuku lokuzalwa lwengane yakho ngalendlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "The date you entered is in the future. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Usuku olifakile isesikhathini esizayo. Sicela unikeze usuku yokuzalwa yengane yakho ngale ndlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "Let's try again. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ake sizame futhi. Sicela unikeze usuku lokuzalwa lwengane yakho ngale ndlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "Ngiyaxolisa, angiqondi ukuthi uthini."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "@fields.child_nickname ngu @(round_down(isikhathi sosuku_diff(imiphumela.Usukulungele,manje(),\"M\")/12)) ubudala -. Ingabe kuyikho lokho?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "Ingane yakho ineminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)). Ingabe lokho kuliqiniso?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
+msgstr "i-@fields.child_nickname ineminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)) yobudala. Ingabe kuyikho lokho?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your teen is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
+msgstr "Osemusha wakho uneminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)). Ingabe lokho kuliqiniso?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ngoko suku olinikezile, @fields.child_nickname izoba @(round_down(datetime_diff(results.date,now(),\"M\")/12)) iminyaka yobudala. I-ParentText eyezingane ezineminyaka esukela ku-2-17 kuphela. Sicela ufake usuku okuyiloi lokuzalwa kwengane yakho ngefomethi elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ngoko suku olinikezile, @fields.child_nickname izoba @(round_down(datetime_diff(results.date,now(),\"M\")/12)) iminyaka yobudala. I-ParentText eyezingane ezineminyaka esukela ku-2-17 kuphela. Sicela ufake usuku okuyiloi lokuzalwa kwengane yakho ngefomethi elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "Please select your language:"
+msgstr "Sicela ukhethe ulimi lwakho:"
+
+#. type=text
+msgctxt "text"
+msgid "❌You can stop when you want. Just type {STOP}"
+msgstr "❌Ungayeka uma ufuna. Vele uthayiphe ukuthi {STOP}"
+
+#. type=text
+msgctxt "text"
+msgid "What is your first name?"
+msgstr "Ubani igama lakho?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your last name?"
+msgstr "Sicela usinikeze isibongo sakho?"
+
+#. type=text
+msgctxt "text"
+msgid "Please provide us with your child's first name."
+msgstr "Sicela usinikeze igama lokuqala lengane yakho."
+
+#. type=text
+msgctxt "text"
+msgid "Please type \"N\" if you prefer not to answer."
+msgstr "Sicela ubhale u “C” uma ukhetha ukungaphenduli."
+
+#. type=text
+msgctxt "text"
+msgid "How old are you?"
+msgstr "Uneminyaka emingaki?"
+
+#. type=text
+msgctxt "text"
+msgid "Which province do you live in?"
+msgstr "Uhlala kusiphi isifundazwe?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your marital status?"
+msgstr "Ingabe ushadile?"
+
+#. type=text
+msgctxt "text"
+msgid "Variables have been reset"
+msgstr "Okusethile kushitshile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr "Yebo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr "Cha"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "English"
+msgstr "IsiNgisi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "OKULANDELAYO"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, I am under 18"
+msgstr "Cha, ngingaphansi kweminyaka eyi-18"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "YES"
+msgstr "YEBO"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Eastern Cape"
+msgstr "Eastern Cape"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Free State"
+msgstr "eFleyistata"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Gauteng"
+msgstr "eGauteng"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "KwaZulu-Natal"
+msgstr "KwaZulu-Natal"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Limpopo"
+msgstr "eLimpopo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Mpumalanga"
+msgstr "eMpumalanga"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "North West"
+msgstr "eNorth West"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Northern Cape"
+msgstr "eNorthern Cape"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Western Cape"
+msgstr "eWestern Cape"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Single"
+msgstr "Awuthandani namuntu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Unmarried but in a relationship"
+msgstr "Awuashadile kodwa usebudlelwaneni nothile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Married"
+msgstr "Ushadile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Separated from partner"
+msgstr "Anihlali ndawonye"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Divorced"
+msgstr "Udivosile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Widowed"
+msgstr "Umfelokazi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Other"
+msgstr "Okunye"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Afrikaans"
+msgstr "isiBhunu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Xhosa"
+msgstr "IsiXhosa"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Zulu"
+msgstr "IsiZulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Never"
+msgstr "Akukaze"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "0"
+msgstr "0"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "1"
+msgstr "1"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "2"
+msgstr "2"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "3"
+msgstr "3"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "4"
+msgstr "4"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "5"
+msgstr "5"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "6"
+msgstr "6"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "7"
+msgstr "7"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Very helpful"
+msgstr "Kuwusizo kakhulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Extremely helpful"
+msgstr "Kuwusizo olukhulu kakhulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep"
+msgstr "yebo y yebo yeb"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "cha n cha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "english"
+msgstr "isiNgisi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "isizulu"
+msgstr "isizulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes"
+msgstr "yebo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no"
+msgstr "Cha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr "phuma"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "n"
+msgstr "c"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "eastern cape"
+msgstr "e-eastern Cape"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "free state"
+msgstr "eFleyistata"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "gauteng"
+msgstr "egauteng"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "kwazulu-natal"
+msgstr "kwazulu-natal"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "limpopo"
+msgstr "elimpopo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mpumalanga"
+msgstr "empumalanga"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "north west"
+msgstr "enorth west"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "northern cape"
+msgstr "enorthen cape"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "western cape"
+msgstr "ewestern cape"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "single"
+msgstr "ongashadile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "unmarried but in a relationship"
+msgstr "awuashadile kodwa usebudlelwaneni nothile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "married"
+msgstr "oshadile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "separated from partner"
+msgstr "anihlali ndawonye"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "divorced"
+msgstr "udivosile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "widowed"
+msgstr "umfelokazi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "other"
+msgstr "Okunye"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "afrikaans"
+msgstr "isiBhunu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "zulu"
+msgstr "isiZulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "never"
+msgstr "neze"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "0"
+msgstr "0"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "1"
+msgstr "1"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "2"
+msgstr "2"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "3"
+msgstr "3"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "4"
+msgstr "4"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "5"
+msgstr "5"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "6"
+msgstr "6"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "7"
+msgstr "7"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "very helpful"
+msgstr "Kuwusizo kakhulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "extremely helpful"
+msgstr "Kuwusizo olukhulu kakhulu"
+
