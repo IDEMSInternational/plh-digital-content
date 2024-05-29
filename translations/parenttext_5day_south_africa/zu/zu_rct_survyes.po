@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-05-29 08:06\n"
+"PO-Revision-Date: 2024-05-29 19:55\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -197,11 +197,6 @@ msgstr "❌Ungayeka uma ufuna. Vele uthayiphe ukuthi {STOP}"
 
 #. type=text
 msgctxt "text"
-msgid "Press YES if you have read and understand the above statement, agree with the messages. and give consent to participate in the study. Type \"EXIT\" if you do not want to participate. "
-msgstr "Chofoza uYEBO uma ufundile waqondisisa isitatimende esingaphezulu, uvumelana nemilayezo, futhi uyavuma ukuhlanganyela kulesi isitadi. Bhala ukuthi \"PHUMA\" uma ungafuni ukuhlanganyela. "
-
-#. type=text
-msgctxt "text"
 msgid "Great! Let's start your first survey."
 msgstr "Kwakuhle! Masiqale inhlolovo yakho yokuqala."
 
@@ -224,56 +219,6 @@ msgstr "Kulungile. Ngiyabonga!"
 msgctxt "text"
 msgid "Great! Your ParentText journey starts now!"
 msgstr "Kwakuhle! Uhambo lwakho lweJabuChat luqala manje!"
-
-#. type=text
-msgctxt "text"
-msgid "Please read these messages carefully:"
-msgstr "Sicela ufunde lemilayezo ngokucophelela:"
-
-#. type=text
-msgctxt "text"
-msgid "- I have read the document linked above and know what I need to do."
-msgstr "- Ngiyifundile idokhumenti eqhunywe ngaphezulu futhi ngiyakwazi okufanele ngikwenze."
-
-#. type=text
-msgctxt "text"
-msgid "- I had time to think about the information and ask questions. I got satisfying answers."
-msgstr "- Ngibe nesikhathi sokucabanga ngolwazi futhi ngibuze imibuzo. Ngithole izimpendulo ezinganelisayo."
-
-#. type=text
-msgctxt "text"
-msgid "- I know I can say yes or no to being in the study. If I say yes, I can stop anytime before the 31st of December 2024, without saying why, and nothing bad will happen."
-msgstr "- Ngiyazi ukuthi ngingavuma noma nginganqaba ukuba kulesi isitadi. Uma ngivuma, ngingayeka nanini kungakabi ngumhlaka-31 kuZibandlela 2024, ngaphandle kokuchaza, futhi akukho okubi okuzokwenzeka."
-
-#. type=text
-msgctxt "text"
-msgid "- I know who can see my information, how it will be kept safe, and what happens to it after the study."
-msgstr "- Ngiyazi ukuthi obani abangabona ulwazi ngami, ukuthi luzogcinwa kanjani luphephile, nokuthi kwenzekani ngalo emvca kwesitadi."
-
-#. type=text
-msgctxt "text"
-msgid "- I know I won’t be named in any papers or reports from this study."
-msgstr "- Ngiyazi angeke kuvele igama lami emaphepheni noma imibiko evela kulesi isitadi."
-
-#. type=text
-msgctxt "text"
-msgid "- I know who to tell if I have a problem with the study."
-msgstr "- Ngiyazi ukuthi ngizotshela bani uma nginenkinga nesitadi."
-
-#. type=text
-msgctxt "text"
-msgid "- You can contact me again if more information is needed from me."
-msgstr "- Ungangithinta futhi uma ulwazi olwengeziwe ludingeka kimi."
-
-#. type=text
-msgctxt "text"
-msgid "- You can keep my contact information safe so you can tell me about the results of the study."
-msgstr "- Ungagcina imininingwane yami yokuxhumana iphephile ukuze ungitshele ngemiphumela yesitadi."
-
-#. type=text
-msgctxt "text"
-msgid "Click here for more information: https://bit.ly/parenttext-consent-en"
-msgstr "Chofoza lana ukuthola ulwazi olwengeziwe: https://bit.ly/parenttext-consent-en"
 
 #. type=text
 msgctxt "text"
@@ -1059,6 +1004,47 @@ msgstr "📅 Sizolandela ngembuzo ecishe ifane emva kwezinyanga ezimbili, futhi 
 
 #. type=text
 msgctxt "text"
+msgid "How helpful was the chatbot in helping you support your child's development and wellbeing?"
+msgstr "Likusiza kangakanani irobhothi ekhulumayo ngokukusiza ukweseka ukukhula kwengane yakho nokuphila kwakhe?"
+
+#. type=text
+msgctxt "text"
+msgid "We would love to know more about what you think! Would it be okay for a member of our research team to get in touch to ask you further questions about your experience with the chatbot?"
+msgstr "Singathanda ukwazi ngokwengeziwe ukuthi ucabanga ini! Kulungile yini ukuthi ilunga leqembu lethu lixhumane nawe ukubuza eminye imibuzo mayelana nohambo lwakho lokusebenzisa irobhothi ekhulumayo?"
+
+#. type=text
+msgctxt "text"
+msgid "🎉 You will receive R75 airtime for participating in this survey. "
+msgstr "🎉 Uzothola i-airtime ka-R75 ngokuhlanganyela kule nhlolovo. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🌱 We would like to ask you a few questions regarding your relationship with @fields.child_nickname."
+msgstr "🌱 Singathanda ukubuza imibuzo embalwa mayelana nobudlelwano bakho no@fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "🎉🎉 You are done! 🎉🎉"
+msgstr "🎉🎉 Usuqedile! 🎉🎉"
+
+#. type=text
+msgctxt "text"
+msgid "💙 Thank you very much for completing this final survey. "
+msgstr "💙 Siyabonga kakhulu ngokuqeda unhlolovo lokugcina. "
+
+#. type=text
+msgctxt "text"
+msgid "🥳 You will now receive R75 airtime as a token of appreciation. "
+msgstr "🥳 Manje uzothola i-airtime ka-R75 njengophawu lokubonga. "
+
+#. type=text
+msgctxt "text"
+msgid "💚 We appreciate the time you took to answer these questions!"
+msgstr "💚 Siyabonga isikhathi osithathile ukuphendula lemibuzo!"
+
+#. type=text
+msgctxt "text"
 msgid "Variables have been reset"
 msgstr "Okusethile kushitshile"
 
@@ -1431,8 +1417,26 @@ msgstr "Ngaqeda enyuvesi"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Postgraduate degree"
+msgstr "I-postgraduate degree"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Mother or Father"
 msgstr "Umama noma Ubaba"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Adoptive Parent"
+msgstr "Umzali Wengane Yokutholwa"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Stepmother or Stepfather"
+msgstr "Umama ngokomshado noma Ubaba ngokomshado"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1467,8 +1471,50 @@ msgstr "Mncane kakhulu ekuya esikoleni"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Creche/Play group/Day-mother/Gogo Pre-primary school (Grade RR to RRR)"
+msgstr "E-creche/Iqembu lokudlala/Kumama noma ugogo onakekela izingane/Isikole samabanga aphansi (Amabanga RR ku-RRR)"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Foundation phase (Grade R to 3)"
+msgstr "Isigaba sesisekelo (Amabanga R ku-3)"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Intermediate phase (Grade 4 to 6)"
+msgstr "Isigaba esiphakathi (Amabanga 4 ku-6)"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Not in school"
 msgstr "Akekho esikoleni"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Foundation phase (Grade 1 to 3)"
+msgstr "Isigaba sesisekelo (Amabanga 1 ku-3)"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Senior phase (Grade 7 to 9)"
+msgstr "Isigaba esiphakeme (Amabanga 7 ku-9)"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Further Education and Training phase (Grade 10 to 12)"
+msgstr "Isigaba Semfundo Ephakeme Nokuqeqeshwa (Amabanga 10 ku-12)"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Vocational/Higher/Tertiary education"
+msgstr "Imfundo Yokusebenza Ngezandla/Ephakeme/Yasenyuvesi"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1499,6 +1545,12 @@ msgstr "Cishe nsuku zonke"
 msgctxt "quick_replies"
 msgid "Never"
 msgstr "Akukaze"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Almost Never (once or twice)"
+msgstr "Cishe Akwenzeki (kanye noma kabili)"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1575,8 +1627,26 @@ msgstr "7"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Did not use the chatbot"
+msgstr "Angiyisebenzisanga irobhothi ekhulumayo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Not helpful at all"
+msgstr "Akungisizanga nhlobo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Slightly helpful"
 msgstr "Ungisize kancane"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Moderately helpful"
+msgstr "Kungisiza ngokulingene"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1589,6 +1659,12 @@ msgstr "Kuwusizo kakhulu"
 msgctxt "quick_replies"
 msgid "Extremely helpful"
 msgstr "Kuwusizo olukhulu kakhulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "8 or more"
+msgstr "kawu-8 kuyela phezulu"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1965,8 +2041,26 @@ msgstr "ngaqeda enyuvesi"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "postgraduate degree"
+msgstr "i-postgraduate degree"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "mother or father"
 msgstr "umama noma ubaba"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "adoptive parent"
+msgstr "umzali wengane yokutholwa"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stepmother or stepfather"
+msgstr "umama ngokomshado noma ubaba ngokomshado"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -2001,8 +2095,50 @@ msgstr "mncane kakhulu ekuya esikoleni"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "creche/play group/day-mother/gogo pre-primary school (grade rr to rrr)"
+msgstr "e-creche/iqembu lokudlala/kumama noma ugogo onakekela izingane/isikole samabanga aphansi (Amabanga rr ku-rrr)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "foundation phase (grade r to 3)"
+msgstr "isigaba sesisekelo (amabanga r ku-3)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "intermediate phase (grade 4 to 6)"
+msgstr "isigaba esiphakathi (amabanga 4 ku-6)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "not in school"
 msgstr "akekho esikoleni"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "foundation phase (grade 1 to 3)"
+msgstr "isigaba sesisekelo (amabanga 1 ku-3)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "senior phase (grade 7 to 9)"
+msgstr "isigaba esiphakeme (amabanga 7 ku-9)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "further education and training phase (grade 10 to 12)"
+msgstr "isigaba semfundo ephakeme nokuqeqeshwa (amabanga 10 ku-12)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "vocational/higher/tertiary education"
+msgstr "imfundo yokusebenza ngezandla/ephakeme/yasenyuvesi"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -2033,6 +2169,24 @@ msgstr "cishe nsuku zonke"
 msgctxt "arguments"
 msgid "never"
 msgstr "neze"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "almost never (once or twice)"
+msgstr "cishe akwenzeki (kanye noma kabili)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "sometimes (3-5 times)"
+msgstr "ngezinye izikhathi (ka-3 kuyela ku-5)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "often (more than 5 times)"
+msgstr "kakhulu (ngaphezu kwezikhathi ezi-5)"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -2097,6 +2251,30 @@ msgstr "7"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "did not use the chatbot"
+msgstr "angiyisebenzisanga irobhothi ekhulumayo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "not helpful at all"
+msgstr "akungisizanga nhlobo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "slightly helpful"
+msgstr "kungisize kancane"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "moderately helpful"
+msgstr "kungisiza ngokulingene"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "very helpful"
 msgstr "Kuwusizo kakhulu"
 
@@ -2105,4 +2283,10 @@ msgstr "Kuwusizo kakhulu"
 msgctxt "arguments"
 msgid "extremely helpful"
 msgstr "Kuwusizo olukhulu kakhulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "8 or more"
+msgstr "kawu-8 kuyela phezulu"
 
