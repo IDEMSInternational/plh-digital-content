@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2024-05-24 14:37\n"
+"PO-Revision-Date: 2024-05-29 19:51\n"
 
 #. type=text
 msgctxt "text"
@@ -165,15 +165,14 @@ msgid "Variables have been reset"
 msgstr "Pemboleh ubah telah ditetapkan semula"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Bilakah tarikh lahir @fields.child_nickname? Masukkan tarikh lahir mereka mengikut format seperti ini: HH/BB/TTTT. Sebagai contoh: masukkan 19/05/2010 jika anak anda lahir pada 19 Mei 2010."
+msgid "Welcome to ParentText, your partner in parenting. Thank you for being here! Let's get started:"
+msgstr "Selamat datang ke ParentText, rakan anda untuk keibubapaan. Terima kasih kerana berada di sini! Mari kita mulakan:"
 
 #. type=text
 msgctxt "text"
-msgid "When was your child born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Bilakah tarikh lahir anak anda? Masukkan tarikh lahir mereka mengikut format seperti ini: HH/BB/TTTT. Sebagai contoh: masukkan 19/05/2010 jika anak anda lahir pada 19 Mei 2010."
+msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
+msgstr "Dalam program ini, kami memberi tumpuan hanya kepada satu orang anak sahaja pada satu-satu masa, meskipun ParentText dapat membantu anda jika anda mempunyai lebih daripada 1 orang anak."
 
 #. type=text
 msgctxt "text"
@@ -205,36 +204,14 @@ msgstr "Adakah benar bahawa anak anda berusia @(round_down(datetime_diff(results
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-9. If your child is aged 2-9, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
-msgstr "ParentText hanya untuk kanak-kanak berumur 2-9 tahun. Berdasarkan tarikh yang anda berikan, @fields.child_nickname kini berumur @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun. Jika anak anda berusia 2-9, sila letakkan tarikh lahir anak dalam format ini: HH/BB/TTTT. Sebagai contoh, jika anak anda lahir pada 19 Mei 2015, tuliskan seperti ini 19/05/2015."
+msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 3-6. If your child is aged 3-6, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
+msgstr "ParentText hanya untuk kanak-kanak berumur 3-6 tahun. Berdasarkan tarikh yang anda berikan, @fields.child_nickname kini berumur @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun. Jika anak anda berusia 3-6, sila letakkan tarikh lahir anak dalam format ini: HH/BB/TTTT. Sebagai contoh, jika anak anda lahir pada 19 Mei 2015, tuliskan seperti ini 19/05/2015."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-9. If your child is aged 2-9, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
-msgstr "ParentText hanya untuk kanak-kanak berumur 2-9 tahun. Berdasarkan tarikh yang anda berikan, anak anda kini berumur @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun. Jika anak anda berusia 2-9, sila letakkan tarikh lahir anak dalam format ini: HH/BB/TTTT. Sebagai contoh, jika anak anda lahir pada 19 Mei 2015, tuliskan seperti ini 19/05/2015."
-
-#. type=text
-msgctxt "text"
-msgid "Welcome to ParentText, your partner in parenting. Thank you for being here! Let's get started:"
-msgstr "Selamat datang ke ParentText, rakan anda untuk keibubapaan. Terima kasih kerana berada di sini! Mari kita mulakan:"
-
-#. type=text
-msgctxt "text"
-msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
-msgstr "Dalam program ini, kami memberi tumpuan hanya kepada satu orang anak sahaja pada satu-satu masa, meskipun ParentText dapat membantu anda jika anda mempunyai lebih daripada 1 orang anak."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-6. If your child is aged 2-6, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
-msgstr "ParentText hanya untuk kanak-kanak berumur 2-6 tahun. Berdasarkan tarikh yang anda berikan, @fields.child_nickname kini berumur @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun. Jika anak anda berusia 2-6, sila letakkan tarikh lahir anak dalam format ini: HH/BB/TTTT. Sebagai contoh, jika anak anda lahir pada 19 Mei 2015, tuliskan seperti ini 19/05/2015."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-6. If your child is aged 2-6, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
-msgstr "ParentText hanya untuk kanak-kanak berumur 2-6 tahun. Berdasarkan tarikh yang anda berikan, anak anda kini berumur @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun. Jika anak anda berusia 2-6, sila letakkan tarikh lahir anak dalam format ini: HH/BB/TTTT. Sebagai contoh, jika anak anda lahir pada 19 Mei 2015, tuliskan seperti ini 19/05/2015."
+msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 3-6. If your child is aged 3-6, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
+msgstr "ParentText hanya untuk kanak-kanak berumur 3-6 tahun. Berdasarkan tarikh yang anda berikan, anak anda kini berumur @(round_down(datetime_diff(results.date,now(),\"M\")/12)) tahun. Jika anak anda berusia 3-6, sila letakkan tarikh lahir anak dalam format ini: HH/BB/TTTT. Sebagai contoh, jika anak anda lahir pada 19 Mei 2015, tuliskan seperti ini 19/05/2015."
 
 #. type=text
 msgctxt "text"
@@ -583,12 +560,6 @@ msgstr "Tidak, saya berumur bawah 18 tahun"
 msgctxt "quick_replies"
 msgid "BACK"
 msgstr "KEMBALI"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "NEXT"
-msgstr "TERUSKAN"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1001,14 +972,14 @@ msgstr "kembali"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "yes y yeah yep"
-msgstr "ya yea yah ok ye y"
+msgid "no n nope"
+msgstr "tidak tak t"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "no n nope"
-msgstr "tidak tak t"
+msgid "yes y yeah yep"
+msgstr "ya yea yah ok ye y"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
