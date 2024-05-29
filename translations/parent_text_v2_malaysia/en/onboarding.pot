@@ -154,14 +154,29 @@ msgid "Variables have been reset"
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgid "Welcome to ParentText, your partner in parenting. Thank you for being here! Let's get started:"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "When was your child born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child in your home between the ages of 2-9."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2015, enter 19/05/2015."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "When was your child born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2015, enter 19/05/2015."
 msgstr ""
 
 #. type=text
@@ -176,7 +191,104 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "Thank you. You've been removed from the programme."
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "Let's try again. Please write your child's date of birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. Is that correct?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your child is @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. Is that correct?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, @fields.child_nickname would be under one year old. ParentText is only for children aged 2-6. Do you have a child between ages 2-6?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "According to the date you gave, your child would be under one year old. ParentText is only for children aged 2-6. Do you have a child between ages 2-6?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. ParentText is only for children aged 2-6. Do you have a child between ages 2-6?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. ParentText is only for children aged 2-6. Do you have a child between ages 2-6?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. ParentText is only for children aged 2-6."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Do you have a child between ages 2-6?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. ParentText is only for children aged 2-6."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, @fields.child_nickname would be under one year old. ParentText is only for children aged 2-9. Do you have a child between ages 2-9?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "According to the date you gave, your child would be under one year old. ParentText is only for children aged 2-9. Do you have a child between ages 2-9?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. ParentText is only for children aged 2-9. Do you have a child between ages 2-9?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. ParentText is only for children aged 2-9. Do you have a child between ages 2-9?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. ParentText is only for children aged 2-9."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Do you have a child between ages 2-9?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. ParentText is only for children aged 2-9."
 msgstr ""
 
 #. type=text
@@ -194,35 +306,13 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-9. If your child is aged 2-9, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
+msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 3-6. If your child is aged 3-6, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-9. If your child is aged 2-9, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Welcome to ParentText, your partner in parenting. Thank you for being here! Let's get started:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-6. If your child is aged 2-6, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-6. If your child is aged 2-6, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
+msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 3-6. If your child is aged 3-6, please write the date for your child's birth in this way: DD/MM/YYYY. For example, if your child was born on May 19, 2015, write 19/05/2015."
 msgstr ""
 
 #. type=text
@@ -571,12 +661,6 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "BACK"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "NEXT"
 msgstr ""
 
 #. type=quick_replies
@@ -990,13 +1074,13 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "yes y yeah yep"
+msgid "no n nope"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "no n nope"
+msgid "yes y yeah yep"
 msgstr ""
 
 #. type=arguments
