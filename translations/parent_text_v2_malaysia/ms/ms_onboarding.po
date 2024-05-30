@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2024-05-30 08:47\n"
+"PO-Revision-Date: 2024-05-30 15:21\n"
 
 #. type=text
 msgctxt "text"
@@ -86,6 +86,11 @@ msgstr "Apakah nama anda (tanpa nama keluarga atau nama bapa anda)?"
 
 #. type=text
 msgctxt "text"
+msgid "Sila pilih bahasa anda:"
+msgstr "Sila pilih bahasa anda:"
+
+#. type=text
+msgctxt "text"
 msgid "Please select your language:"
 msgstr "Sila pilih bahasa anda:"
 
@@ -153,11 +158,6 @@ msgstr "Maaf, ParentText hanya untuk individu yang berumur 18 tahun ke atas. Ada
 msgctxt "text"
 msgid "If you want to experience ParentText, you can always share it with your parents or caregivers."
 msgstr "Jika anda ingin menyertai ParentText, anda boleh kongsi maklumat ini dengan ibu bapa atau penjaga anda."
-
-#. type=text
-msgctxt "text"
-msgid "Here is a video that shows how to use ParentText."
-msgstr "Ini adalah video yang menunjukkan cara menggunakan ParentText."
 
 #. type=text
 msgctxt "text"
@@ -673,6 +673,12 @@ msgstr "Tidak, saya berumur bawah 18 tahun"
 msgctxt "quick_replies"
 msgid "BACK"
 msgstr "KEMBALI"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "TERUSKAN"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
