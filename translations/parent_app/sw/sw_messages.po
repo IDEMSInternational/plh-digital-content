@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2024-05-29 19:48\n"
+"PO-Revision-Date: 2024-05-30 08:44\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -153,6 +153,12 @@ msgstr "Kujitunza ni muhimu. Na jinsi unavyohisi ni muhimu pia!"
 msgctxt "data_list"
 msgid "Sometimes things go great. Sometimes they do not. And sometimes we do not quite know what to think... and that is totally okay! Remember that you are not alone."
 msgstr "Wakati mwingine mambo huenda vizuri sana. Wakati mwingine hayaendi vizuri sana. Na wakati mwingine hatujui kabisa cha kufanya... na hii ni sawa kabisa! Kumbuka kwamba hauko peke yako."
+
+#. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid "Sorry that things are hard right now. You deserve good things and @global.parent_app is here to support you every step of the way."
+msgstr "Samahani kwamba mambo ni magumu kwa sasa. Unastahili mambo mazuri, na @global.parent_app iko hapa kukusaidia kila hatua unayopiga."
 
 #. type=data_list
 msgctxt "data_list"
@@ -810,9 +816,22 @@ msgid "I did not want to tell my family how much I earn."
 msgstr "Sikutaka kuwaambia familia yangu kiasi gani huwa napata."
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @global.currency@global.monthly_income_estimate
+#.      @global.currency@global.monthly_income_precise.”
+msgctxt "data_list"
+msgid "You do not have to reveal the exact amount you earn; you could give an estimate. You could say, “In this household, we have @global.currency@global.monthly_income_estimate every month” rather than, “I make @global.currency@global.monthly_income_precise.”"
+msgstr "Sio lazima kuwaambia kiwango halisi cha kipato chako; unaweza kuwaambia makadirio. Unaweza kusema, \"Katika kaya hii, tunapata @global.currency@global.monthly_income_estimate kila mwezi\" badala ya, \"Ninapata @global.currency@global.monthly_income_precise.\""
+
+#. type=data_list
 msgctxt "data_list"
 msgid "When budgeting, we could not agree on what should fall under needs and what should fall under wants."
 msgstr "Wakati wa kutengeneza bajeti, hatukuweza kukubaliana kitu gani kiwe mahitaji na kitu gani kiwe matamanio."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "People’s wants and needs are different sometimes. Talking about them together can help you and your teen to understand each other, respect your differences and see where you can compromise."
+msgstr "Wakati mwingine, matamanio na mahitaji ya watu hutofautiana. Kuyazungumzia pamoja hukusaidia wewe na kijana wako kuelewana, kuheshimu tofauti zenu na kutafuta mnapoweza kuafikiana."
 
 #. type=data_list
 msgctxt "data_list"
@@ -854,6 +873,11 @@ msgstr "Je, mlipata changamoto yoyote mlipojaribu kutengeneza sheria pamoja?"
 msgctxt "data_list"
 msgid "My teen and I could not agree on a rule."
 msgstr "Mimi na kijana wangu hatukuweza kukubaliana kuhusu sheria fulani."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Think about whether the rule is reasonable. Can your teen follow it? When making rules as a family, it helps to think about your teen, how old they are and what is important to them."
+msgstr "Fikiria kama sheria ina mantiki. Kijana wako anaweza kuifuata? Mnapotunga sheria kama familia, ni vizuri ukafikiria kuhusu kijana wako, umri wao na nini ambacho ni muhimu kwao."
 
 #. type=data_list
 msgctxt "data_list"
@@ -933,9 +957,26 @@ msgid "My teen got very angry with me after I gave the consequence."
 msgstr "Kijana wangu alinikasirikia sana nilipomuamuru afanye athari."
 
 #. type=data_list
+#. The string “@global.safety_word” should not be translated.
+msgctxt "data_list"
+msgid ""
+"When your teen gets angry, you might need to walk away until you are both calm.\n"
+"\n"
+"Check to make sure your consequence is fair and reasonable. Listen to your teen’s explanation and react calmly as you agreed if they used the “@global.safety_word” or broke a rule in order to stay safe."
+msgstr ""
+"Kijana wako anapokasirika, unaweza kuhitaji kuondoka karibu nae hadi nyote mtakapokuwa mmetulia.\n"
+"\n"
+"Tazama ili kuhakikisha kuwa adhabu ni ya kawaida na ya busara. Sikiliza maelezo ya kijana wako na hakikisha unatoa \"@global.safety_word” au kama alivunja sheria ili kuwa salama."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "I introduced the consequence without first discussing it with my teen."
 msgstr "Niliweka athari bila kuijadili kwanza na kijana wangu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you make a consequence for if this happens again? When we establish a consequence together with our teens, the consequence will be more realistic and our teens will be more willing and able to follow the rule."
+msgstr "Je, unaweza kuweka athari kwa ajili ya jambo hili likitokea tena? Tunapoweka athari pamoja na vijana wetu, athari hizi zitakuwa na uwezekano mkubwa wa kutekelezeka na vijana wetu watakuwa tayari zaidi na watakuwa na uwezo zaidi wa kufuata sheria hiyo."
 
 #. type=data_list
 msgctxt "data_list"
@@ -967,6 +1008,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "We only created a negative consequence, not a positive consequence."
 msgstr "Tuliweka njia ya malipo hasi tu, na si malipo chanya."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It can be difficult to think of positive consequences sometimes. Positive consequences will encourage your teen to take more responsibility and you will see the difference!"
+msgstr "Wakati mwingine ni vigumu kufikiria athari chanya. Athari zitamchochea kijana wako kuwajibika zaidi na utaona mabadiliko!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1021,6 +1067,11 @@ msgstr "Hatukuweza kukubaliana kuhusu suluhisho la kulijaribu hivyo tuliishia ku
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Sometimes it can be difficult to agree with everyone in the family, especially if everyone is not yet calm. You could agree to try one solution first and then another. Also, if you get stuck, try to get together later to agree on the solution together."
+msgstr "Wakati mwingine inaweza kuwa vigumu kukubaliana na kila mtu katika familia, hasa kama kila mtu bado hajatulia. Mnaweza kukubaliana kujaribu suluhisho moja kwanza na kisha mjaribu suluhisho lingine. Pia, kama mtakwama, jaribuni kukutana baadaye ili mkubaliane pamoja kuhusu suluhisho hilo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "I got angry when the problem came up and I forgot to use the problem-solving steps."
 msgstr "Nilikasirika tatizo lilipotokea, nikasahau kutumia hatua za kutatua matatizo."
 
@@ -1033,6 +1084,11 @@ msgstr "Tatizo linapojitokeza, huwa tunakasirika au kufadhaika wakati mwingine. 
 msgctxt "data_list"
 msgid "My teen got angry and did not want to talk about the problem."
 msgstr "Kijana wangu alikasirika na hakutaka kuzungumzia tatizo hilo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your teen might be too overwhelmed to deal with the problem right away. Recognise and name their emotions and create a time later in the day or week to discuss and solve the problem together. By giving your teen time, the problem can be solved well."
+msgstr "Kijana wako anaweza kushindwa kabisa kushughulikia tatizo mara moja. Zitambue na kuzipa majina hisia zake, halafu tafuta muda baadaye siku hiyo au wiki hiyo mjadili na kutatua tatizo hilo pamoja. Unapotenga muda kwa ajili ya kijana wako, tatizo linaweza kutatuliwa vizuri."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1056,8 +1112,18 @@ msgstr "Kijana wangu alitambua nyumba ya mtu ninayemwamini kuwa si salama. Nilis
 
 #. type=data_list
 msgctxt "data_list"
+msgid "It is shocking to learn that people who are close to us and who we trust may be a danger to our teens. Remember to take a pause when you are upset and try to listen calmly to your teen. Find someone you can talk to about this, perhaps a friend or support service, so you can get the support you need."
+msgstr "Ni jambo la kushtua kujua kwamba watu walio karibu nasi na tunaowaamini wanaweza kuwa hatari kwa vijana wetu. Kumbuka kuchukua pumziko unapokuwa umekasirika na jaribu kumsikiliza kijana wako kwa utulivu. Tafuta mtu unayeweza kuzungumza naye kuhusu jambo hili, labda rafiki au huduma ya msaada, ili uweze kupata msaada unaohitaji."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "My teen insisted that the bar (or another place I do not feel is safe) is safe for them to visit. I do not know how to convince my teen."
 msgstr "Kijana wangu alisisitiza kwamba baa (au mahali pengine ninapohisi si salama) ni salama kwake kupatembelea. Sijui jinsi ya kumshawishi kijana wangu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This can be very frustrating. To find a solution, your teen needs to feel heard – so listen calmly to your teen's reasons and only then share your own thoughts. Then, think together about a rule that allows them to have fun but stay safe."
+msgstr "Jambo hili linaweza kukatisha tamaa sana. Ili kupata suluhisho, kijana wako anahitaji kuhisi kuwa anasikilizwa – kwa hiyo, sikiliza kwa utulivu sababu za kijana wako, halafu ndipo umshirikishe maoni yako. Kisha, shirikianeni kuweka sheria inayomruhusu kufurahi huku akiwa salama."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1098,6 +1164,11 @@ msgstr "Je, ulikuwa na changamoto yoyote ulipojaribu kujiandaa kwa ajili ya jang
 msgctxt "data_list"
 msgid "My teen told me that something serious happened to them and I did not know how to handle it."
 msgstr "Kijana wangu aliniambia kuwa kuna jambo kubwa limempata na sikujua jinsi ya kulishughulikia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Praise your teen for telling you; that is not easy to do! Remember, you can use all the skills you picked from your toolbox: Take a pause, use the four steps of problem solving and reach out to get the support you and your teen need!"
+msgstr "Msifie kijana wako kwa kukuambia; kufanya hivyo si jambo rahisi! Kumbuka, unaweza kutumia ujuzi wote uliojifunza kwenye kivungezana: Pumzika kidogo, tumia hatua nne za kutatua matatizo, halafu tafuta msaada unaouhitaji wewe na kijana wako!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1267,6 +1338,11 @@ msgstr "Kijana wangu hakujisikia vizuri nilipomshirikisha hisia zangu."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Starting a new thing is always difficult at first. Give yourselves some time to get used to it and keep showing a good example by observing and sharing your feelings. Over time, your teen will learn to do the same and they will feel even more loved and cared for!"
+msgstr "Kuanza kitu kipya mara zote ni vigumu. Jipe muda wa kuzoea na endelea kuonyesha mfano mzuri kwa kutambua hisia zako na kuwashirikisha wengine. Baada ya muda, kijana wako atajifunza kufanya hivyohivyo na atahisi kupendwa na kutunzwa mno!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "When I shared my feelings, my teen asked many questions, which made me uncomfortable."
 msgstr "Nilipomshirikisha kijana wangu hisia zangu, aliuliza maswali mengi ambayo yalinifanya nisijikie raha."
 
@@ -1297,6 +1373,11 @@ msgstr "Lengo lilikuwa kuwa na muda wa pamoja na kijana wako."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Sometimes it will be easy and fun to spend time with your teens and sometimes it will be more challenging. Spending time together will definitely improve your relationship!"
+msgstr "Wakati mwingine ni rahisi na inafurahisha kutumia muda pamoja na vijana wako na wakati mwingi inakuwa ina changamoto zaidi. Kutumia muda pamoja itaboresha mahusiano yenu!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Sorry to hear that it was difficult for you to spend time with your teen. We all have challenges sometimes. Just be patient with yourself and your teen – things will get better. Well done for trying!"
 msgstr "Pole kusikia kwamba ilikuwa vigumu kwako kutumia muda pamoja na kijana wako. Wakati mwingine, sisi sote tunakabiliwa na changamoto. Jivumilie tu na mvumilie kijana wako – mambo yatakuwa mazuri. Hongera kwa kujaribu!"
 
@@ -1307,8 +1388,18 @@ msgstr "Lengo lako lilikuwa kumsifia kijana wako."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "It can sometimes be hard to remember to praise our teens. Next time you spend one-on-one time with your teen, try and think of one thing you can praise them for. You can even say, “Thank you for spending time with me!”"
+msgstr "Muda mwingine inaweza kuwa vigumu kukumbuka kuwasifia vijana wetu. Wakati mwingine ukiwa unatumia muda wa pamoja na kijana wako, jaribu na fikiria kitu kimoja unachoweza kumsifia. Unaweza hata ukasema, “ Asante kwa kutumia muda pamoja na mimi!”"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Great to hear it went well! Keep up the praise – you will see your teen do more and more of the behaviour you like to see!"
 msgstr "Ni vizuri sana kusikia ilienda vizuri! Endelea kusifia – utamuona kijana wako anafanya zaidi na zaidi tabia unazopenda kuziona akizifanya!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "It sometimes takes a bit of time to adjust to praising, but it makes a big difference – you will see."
+msgstr "Wakati mwingine inachukua muda kidogo kuanza kusifia, lakini huleta mabadiliko makubwa - utaona."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1393,6 +1484,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "Your goal was to make ONE rule with your teen."
 msgstr "Lengo lako ilikuwa kutengeneza sheria moja na kijana wako."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Great to hear it went well! Consistent rules help make our teens feel secure and keep them safe!"
+msgstr "Inafurahisha sana kusikia kuwa mambo yalienda vizuri! Sheria thabiti husaidia kuwafanya vijana wetu kujisikia salama na kuwaweka salama!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4840,6 +4936,20 @@ msgstr ""
 "Hali hiyo ILIKARIBIA KABISA kumtokea @global.w_stress_teen_boy_2 na @global.w_stress_teen_girl! Hebu tuangalie:"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_stress_teen_boy_2:
+#.      @global.w_stress_teen_girl:
+msgctxt "data_list"
+msgid ""
+"@global.w_stress_teen_boy_2: \"Don’t tell the adults, but I am going to bar with my friends tonight.\" \n"
+"\n"
+"@global.w_stress_teen_girl: \"Have fun! I have told them I am staying with my girlfriend, but I am actually going to a cool party.\""
+msgstr ""
+"@global.w_stress_teen_boy_2: \"Usiwaambie wakubwa, leo usiku nitaenda baa na marafiki zangu.\"\n"
+"\n"
+"@global.w_stress_teen_girl: \"Nenda ukale raha! Mimi nimewaambia nitakuwa na shoga yangu, lakini ninaenda kwenye bonge la sherehe.\""
+
+#. type=data_list
 #. The string @global.w_stress_teen_boy_2: should not be translated.
 msgctxt "data_list"
 msgid "@global.w_stress_teen_boy_2: \"I think they are dealing drugs. We could all get arrested. But I can’t tell my parents – they will be so angry!\""
@@ -5073,6 +5183,12 @@ msgstr ""
 "Unajua ni kwa nini?\"\n"
 "\n"
 "@global.w_rules_teen_boy: \"Kwa sababu unataka nipate muda wa kutosha kufanya kazi yangu ya shule?\""
+
+#. type=data_list
+#. The string @global.w_rules_female_caregiver_1: should not be translated.
+msgctxt "data_list"
+msgid "@global.w_rules_female_caregiver_1: “That is right. It is also not safe in this area to be outside after sunset. What do you think would be a good time for you to be home?”"
+msgstr "@global.w_rules_female_caregiver_1: \"Hiyo ni kweli. Vilevile sio salama kwenye eneo hili kuwa huko nje baada ya jua kuzama. Unafikiri ni muda gani mzuri kwako kurudi nyumbani?”"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -5783,6 +5899,12 @@ msgid "@global.w_safe_female_caregiver: \"You are a good friend for being worrie
 msgstr "@global.w_safe_female_caregiver: \"Wewe ni rafiki mzuri kwa kumjali mwenzako. Kutuma picha zinazovutia kimapenzi ni hatari sana pia.\""
 
 #. type=data_list
+#. The string @global.w_safe_female_caregiver: should not be translated.
+msgctxt "data_list"
+msgid "@global.w_safe_female_caregiver: \"Sometimes people are not who they say they are online – he could say he is your age but be a 50-year-old man. Or when they break up, he could send those photos to everyone and your friend would feel awful.\""
+msgstr "@global.w_safe_female_caregiver: \"Wakati mwingine watu wanadanganya mtandaoni – anaweza kusema ni wa rika lako kumbe ni mwanaume wa miaka 50. Au wakivunja mahusiano, anaweza kutuma picha hizo kwa kila mtu na rafiki yako akajisikia vibaya sana.\""
+
+#. type=data_list
 #. The string @global.w_crisis_teen_girl_1's should not be translated.
 msgctxt "data_list"
 msgid "@global.w_crisis_teen_girl_1's crisis"
@@ -5887,6 +6009,14 @@ msgstr "Kupigana"
 msgctxt "data_list"
 msgid "Another problem that many parents are worried about is violence and crime. Let’s look at an example together."
 msgstr "Tatizo jingine ambalo wazazi wengi wana wasiwasi nalo ni vurugu na uhalifu. Hebu tuangalie pamoja mfano mmoja."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.w_crisis_male_caregiver_1:
+#.      "@global.w_crisis_teen_boy_1,
+msgctxt "data_list"
+msgid "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, you've looked worried since yesterday. What is wrong?\""
+msgstr "@global.w_crisis_male_caregiver_1: \"@global.w_crisis_teen_boy_1, unaonekana una wasiwasi tangu jana. Kuna tatizo gani?\""
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -7005,6 +7135,11 @@ msgstr "Jinsi ya kusifia"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Look for anything your teen does that is helpful or good and praise them for it. They may not show it, but you will see them doing that good thing again. It will also reassure them that you notice and care."
+msgstr "Tafuta kitu chochote anachofanya kijana wako kwa ajili ya kusaidia au kilicho kizuri na umsifie kwa kitu hicho. Anaweza asioneshe furaha yake, lakini utamwona akifanya tena kitu hicho kizuri. Pia itamthibitishia kuwa unatambua anachokifanya na unajali."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Be enthusiastic – really mean it when you say it!"
 msgstr "Onyesha shauku – unaposema jambo, liseme kwa moyo wa dhati!"
 
@@ -7042,6 +7177,11 @@ msgstr "Je, kijana wako anaweza kweli kufanya kile unachotaka kumwambia? Inaweza
 msgctxt "data_list"
 msgid "GET POSITIVE"
 msgstr "KUWA NA MTAZAMO CHANYA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Smile, look them in the eye and use positive words. Praise them as soon as they start to do what you ask!"
+msgstr "Tabasamu, mwangalie machoni na tumia maneno chanya. Msifie mara tu anapoanza kufanya kile unachotaka!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -7239,6 +7379,11 @@ msgstr "SHERIA ZA KIKUNDI"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Household rules help to keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
+msgstr "Sheria za kaya husaidia kuwaweka vijana wetu salama na kuelewa kinachotarajiwa kutoka kwao. Unapomhusisha kijana katika kutengeneza sheria, anakuwa na uwezekano mkubwa wa kuzifuata."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "REAL RULES"
 msgstr "SHERIA ZINAZOTEKELEZEKA"
 
@@ -7412,6 +7557,11 @@ msgstr "VUTA PUMZI"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Stay calm. Ask yourself, \"What does my teen need right now?\""
+msgstr "Tulia. Jiulize, \"Kijana wangu anahitaji nini sasa hivi?\""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "LISTEN"
 msgstr "SIKILIZA"
 
@@ -7424,6 +7574,11 @@ msgstr "Mwambie upo kwa ajili yake na mpende."
 msgctxt "data_list"
 msgid "THINK"
 msgstr "FIKIRI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Talk with your teen. What might help the situation? You might need to make immediate plans now and then long-term plans later."
+msgstr "Zungumza na kijana wako. Kitu gani kinaweza kusaidia kwenye hali hiyo? Unaweza kutakiwa kupanga mipango ya haraka sasa, halafu mipango ya muda mrefu baadaye."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7850,6 +8005,25 @@ msgstr ""
 "Utaona mabadiliko."
 
 #. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greetings, greetings everyone.\n"
+"\n"
+"Today our topic is positive instructions. \n"
+"\n"
+"It is important to give positive instructions to our children, because when we give them positive instructions they know and understand what we are expecting them to do and they do it the way we want them to do it.\n"
+"\n"
+"So, at the end it keeps everyone happy."
+msgstr ""
+"Habari zenu?\n"
+"\n"
+"Leo mada yetu inahusu maelekezo chanya.\n"
+"\n"
+"Ni muhimu kutoa maelekezo chanya kwa watoto wetu, kwa sababu tunapowapa maelekezo chanya, wanajua na kuelewa kile tunachotarajia wakifanye na wanakifanya kwa namna tunavyotaka wakifanye.\n"
+"\n"
+"Kwa hiyo, mwishowe kila mtu hufurahi."
+
+#. type=data_list
 #. The string @data.workshop.w_instruct.lower_case_title? should not be translated.
 msgctxt "data_list"
 msgid "Why @data.workshop.w_instruct.lower_case_title?"
@@ -7937,6 +8111,25 @@ msgstr ""
 "Tunapotengeneza bajeti pamoja, tunaweza kukubaliana jinsi ya kufanya matumizi pamoja NA kuweka akiba ili kuzuia msongo wa mawazo na kutekeleza malengo ya familia zetu."
 
 #. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greetings, everyone. \n"
+"\n"
+"Today's topic is family budgeting. \n"
+"\n"
+"It is important to create a budget, but it is even more important to create a budget involving the entire family. \n"
+"\n"
+"Doing it together helps increase the level of understanding of how you spend money as a family and how much you save for the family and you can even come up with plans of how you can save as a family."
+msgstr ""
+"Habari zenu?\n"
+"\n"
+"Mada ya leo inahusu kutengeneza bajeti ya familia.\n"
+"\n"
+"Kutengeneza bajeti ni muhimu, lakini kutengeneza bajeti kwa kuhusisha familia nzima ni muhimu zaidi.\n"
+"\n"
+"Kufanya hivyo pamoja husaidia kuongeza uelewa kuhusu jinsi mnavyotumia pesa kama familia na kiasi mnachoweka akiba kwa ajili ya familia na mnaweza hata kubuni mipango ya kuweka akiba kama familia."
+
+#. type=data_list
 #. The string @data.workshop.w_money.lower_case_title? should not be translated.
 msgctxt "data_list"
 msgid "Why @data.workshop.w_money.lower_case_title?"
@@ -7998,6 +8191,25 @@ msgstr ""
 "Kuweka adhabu sahihi inasaidia kijana kuwa na tabia njema na kufanya maisha ya familia kuwa na utulivu."
 
 #. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greetings, everyone. \n"
+"\n"
+"Today's topic is calm consequences.\n"
+"\n"
+"It is important that when we introduce consequences to our teenagers we involve them, but also important that we are calm when we introduce consequences.\n"
+"\n"
+"That will assist us to agree on introducing calm consequences to our teenagers and our teenagers will easily remember them when they are involved and that will make them responsible."
+msgstr ""
+"Habari, kila mmoja.\n"
+"\n"
+"Maada ya leo ni adhabu tulivu.\n"
+"\n"
+"Ni muhimu kwamba tunapotambulisha adhabu kwa vijana wetu tuwahusishe, lakini pia ni muhimu kwamba sisi ni watulivu tunapotambulisha adhabu.\n"
+"\n"
+"Hiyo itatusaidia kukubaliana kwenye kutambulisha adhabu tulivu kwa vijana wetu na vijana wetu watazikumbuka kirahisi wakiwa wameshirikishwa na kwamba itawafanya kuwa wawajibikaji."
+
+#. type=data_list
 #. The string @data.workshop.w_consequence.lower_case_title? should not be translated.
 msgctxt "data_list"
 msgid "Why @data.workshop.w_consequence.lower_case_title?"
@@ -8045,6 +8257,29 @@ msgid "All families experience crises. When we prepare together and know where t
 msgstr "Kila familia hukabiliwa na hali ya hatari. Tunapojiandaa pamoja na kujua mahali pa kupata msaada KABLA ya kutokea kwa jambo baya, tunaweza kuishinda hali yoyote ya hatari."
 
 #. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greetings, everyone.\n"
+"\n"
+"Today's topic is dealing with crises.\n"
+"\n"
+"Crises may occur anywhere. Crises may occur anytime. Therefore, it is important as a family to have plans in place should any family member find themselves in a crisis situation. \n"
+"\n"
+"It is important to have plans so that every family member may feel protected. \n"
+"\n"
+"When we are dealing with crises, remember to take a pause, breathe and keep yourself calm. That will help you to deal with crises better."
+msgstr ""
+"Habari zenu?\n"
+"\n"
+"Mada ya leo inahusu kushughulikia hali ya hatari.\n"
+"\n"
+"Hali ya hatari inaweza kutokea mahali popote. Hali ya hatari inaweza kutokea wakati wowote. Kwa hiyo, kama familia, ni muhimu kuwa na mipango ya kukabiliana na hatari kwa ajili ya mwanafamilia yeyote atakayejikuta kwenye hali ya hatari.\n"
+"\n"
+"Ni muhimu kuwa na mipango ili kila mwanafamilia ahisi kulindwa.\n"
+"\n"
+"Unaposhughulikia hali ya hatari, kumbuka kupumzika, kupumua na kutulia. Kufanya hivyo kutakusaidia kushughulikia hali ya hatari vizuri zaidi."
+
+#. type=data_list
 #. The string @data.workshop.w_crisis.lower_case_title? should not be translated.
 msgctxt "data_list"
 msgid "Why @data.workshop.w_crisis.lower_case_title?"
@@ -8054,6 +8289,22 @@ msgstr "Kwanini @data.workshop.w_crisis.lower_case_title?"
 msgctxt "data_list"
 msgid "Why celebrate?"
 msgstr "Kwa nini kusherehekea?"
+
+#. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid ""
+"CONGRATULATIONS! You have done it! You have built 11 important parenting skills. \n"
+"\n"
+"This is a huge achievement. It shows such care for your family. \n"
+"\n"
+"Let’s celebrate you and plan your future @global.parent_app support."
+msgstr ""
+"HONGERA! Umefaulu! Umejifunza stadi 11 muhimu za malezi.\n"
+"\n"
+"Haya ni mafanikio makubwa. Inaonyesha unavyoijali sana familia yako.\n"
+"\n"
+"Ngoja tukusherehekee na tupange tutakavyokusaidia baadaye kwenye @global.parent_app."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8285,6 +8536,36 @@ msgid "Spending time with your teen builds a positive relationship."
 msgstr "Kutumia muda pamoja na kijana wako hujenga mahusiano chanya."
 
 #. type=data_list
+msgctxt "data_list"
+msgid ""
+"When I first heard I had to spend One-on-One Time with my teen, it was hard for me. I did not know when to do it or what to say. I did not want to spoil my teen so that he thinks we have to do everything together. \n"
+"\n"
+"But I really wanted to build my relationship with my teen and I wanted him to open up about what was troubling him. So we tried the One-on-One Time. \n"
+"\n"
+"First, it felt weird, but it turned out to be fun! Now we watch his TV programme together and we chat about it. And we can even talk about how my son is changing into adolescence and even about girlfriends and those things!"
+msgstr ""
+"Niliposikia kwa mara ya kwanza ninatakiwa kuwa na muda wa pamoja na kijana wangu, ilikuwa vigumu kwangu. Sikujua wakati gani wa kufanya au nini cha kusema. Sikutaka kumharibu kijana wangu kwa kumfanya afikiri tunatakiwa kufanya kila kitu pamoja.\n"
+"\n"
+"Lakini nilitaka sana kujenga uhusiano wangu na kijana wangu na nilitaka awe muwazi kuhusu nini kinachomsumbua. Hivyo tulijaribu muda wa pamoja.\n"
+"\n"
+"Mwanzo, ilionekana ajabu, lakini ilibadilika na kuwa ya kufurahisha! Sasa hivi tunaangalia pamoja vipindi vyake vya TV na tunaviongelea. Na tunaweza hata tukaongea kuhusu jinsi mtoto wangu wa kiume anavyobadilika na hata kuhusu marafiki wa kike na vitu hivyo!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When my mother asked to spend time with me, I thought “Maybe something is wrong, maybe she is sick.” But she said “No, I just want to spend time.” I was sceptical, but I accepted. \n"
+"\n"
+"She asked me what I like doing. It was strange and I was not comfortable, because she never ever spent time with me on my own. \n"
+"\n"
+"The more she kept on trying and we spent this time together, it felt really nice. She got to share her own childhood with me, things I never heard before. That helped me to also share what is going on in my life. We even talk about boyfriends and about problems I have. I know I can talk to my mother now."
+msgstr ""
+"Mama yangu alipoomba kutumia muda na mimi, niliwaza \" Labda kitu flani hakiko sawa, labda anaumwa.\" Lakini alisema \"Hapana, nahitaji tu kutumia muda.\" Nilikuwa na mashaka, lakini nilikubali.\n"
+"\n"
+"Aliniuliza nini ninapenda kufanya. Kilikuwa kitu kigeni na sikuwa huru, kwa sababu hajawahi kutumia muda pamoja na mimi kwa ajili yangu.\n"
+"\n"
+"Kadri alivyoendelea kujaribu na tulitumia muda pamoja, ilikuwa safi sana. Aliweza kunishirikisha utoto wake, vitu ambavyo sikuwahi kusikia kabla. Hiyo ilinisaidia pia kusema kinachoendelea katika maisha yangu. Tuliongea hata kuhusu marafiki zangu wa kiume na kuhusu matatizo. Najua ninaweza kuongea na mama yangu sasa hivi."
+
+#. type=data_list
 #. The string @global.workshop should not be translated.
 msgctxt "data_list"
 msgid "**One-on-One Time** @global.workshop"
@@ -8422,6 +8703,33 @@ msgid "Life is stressful. Staying calm helps us handle any situation better."
 msgstr "Maisha ni ya mafadhaiko. Kuwa na utulivu husaidia kukabiliana na hali yoyote vyema."
 
 #. type=data_list
+#. The string @global.parent_app, should not be translated.
+msgctxt "data_list"
+msgid ""
+"Life is tough sometimes. Before I joined @global.parent_app, I used to be grumpy at all times. I would take out my anger on everyone at home, not only my teens but even my husband as well. They would run away when I came home because they knew I would start yelling at them. \n"
+"\n"
+"Learning to take a pause and breathe was difficult at first. But every time I tried it, it helped me to calm down. Now my teens are no longer running away when I come home and they actually listen better than when I used to shout at them!"
+msgstr ""
+"Maisha ni magumu wakati mwingine. Kabla sijajiunga na @global.parent_app, nilikuwa mwenye hasira wakati wote. Nilitoa hasira zangu kwa watu wote katika familia, si kwa vijana wangu tu bali hata kwa Mume wangu pia. Walikuwa wakikimbia pindi niliporudi nyumbani, kwa sababu walijua nitaanza kuwafokea.\n"
+"\n"
+"Kujifunza kupumzika na kuvuta pumzi awali ilikuwa ngumu. Lakini wakati mwingi nilijaribu, ilinisaidia kutulia. Sasa Vijana wangu hawakimbii tena pindi ninaporudi nyumbani na wanasikiliza vizuri zaidi kuliko nilipokuwa nikiwafokea awali!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Whenever I would do something wrong, my father would get so angry at me and beat me. He would not even listen to me and I would get so angry as well at him and everyone else. \n"
+"\n"
+"Now, when he gets angry, he first takes a few deep breaths before he responds. It makes everyone calm down instead of causing a big fight.\n"
+"\n"
+"It really helped me at home and at school, because even me I am no longer slashing everyone and I am no longer this moody person. When I feel really angry or stressed, I also take deep breaths like my father does. I am a different person."
+msgstr ""
+"Pindi nilipofanya kitu kibaya, Baba yangu alinikasirikia sana na kunipiga. Alikuwa hanisikilizi na hii ilinifanya kumkasirikia yeye pamoja na watu wengine.\n"
+"\n"
+"Sasa, pindi anapokuwa na hasira, anachukua dakika chache kuvuta pumzi ndefu kabla hajajibu chochote. Inafanya kila mtu kutulia badala ya kusababisha ugomvi mkubwa.\n"
+"\n"
+"Hii inanisaidia sana nyumbani na hata shuleni, hata Mimi sasa siwakasirikii wengine na si mtu wa hisia kali. Pindi ninapojihisi hasira au mwenye msongo wa mawazo, Navuta pumzi ndefu kama Baba yangu anavyofanya. Nimekuwa mtu tofauti."
+
+#. type=data_list
 #. The string @global.workshop should not be translated.
 msgctxt "data_list"
 msgid "**Managing Stress** @global.workshop"
@@ -8547,6 +8855,22 @@ msgstr "sheria"
 msgctxt "data_list"
 msgid "Teens follow rules more when you create them together."
 msgstr "Vijana hufuata sheria zaidi pale unapotengeneza nao pamoja."
+
+#. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid ""
+"My teenagers always just disappeared. I did not know where they were and I would get so worried and angry with them. I used to say, “This is my house, and these are my rules, if you do not want to follow them you can leave and stay in your own place.” \n"
+"\n"
+"When we learnt in @global.parent_app about rules, I learnt that there are rules for teens and for adults and for everyone. If we follow the rules as parents, our teens will follow our example.\n"
+"\n"
+"I explained my worry and we all agreed: We all follow the rule and say where we are going when we leave the house. Coming up with rules together helped us a lot, as my teens do not see me anymore as that annoying parent that just makes up unnecessary rules."
+msgstr ""
+"Vijana wangu mara nyingi hutoweka. Sijui wanakuwa wapi, huwa napata wasiwasi na hasira nao. Nilikuwa nikisema, \"Hii ni nyumba yangu, na hizi ni sheria zangu, ikiwa hutaki kuzifuata unaweza kuondoka na kukaa mahali pako.\"\n"
+"\n"
+"Tulipojifunza katika @global.parent_app kuhusu sheria, nilijifunza kwamba kuna sheria za vijana na za watu wazima na kwa kila mtu. Tukifuata sheria tukiwa wazazi, vijana wetu watafuata mfano wetu.\n"
+"\n"
+"Nilielezea wasiwasi wangu na sote tukakubaliana: Sote tunafuata sheria na kusema tunapotoka nyumbani. Kutunga sheria pamoja kulitusaidia sana, kwa kuwa vijana wangu hawanioni tena kuwa mzazi huyo mwenye kuudhi anayetunga tu sheria zisizo za lazima."
 
 #. type=data_list
 msgctxt "data_list"
@@ -8698,6 +9022,18 @@ msgstr ""
 "Kijana wangu alikuwa mwenye hasira muda wote. Alikuwa hasikilizi na tulikuwa tunajikuta katika marumbano makubwa kila siku. Kupitia @global.parent_app, nilianza kutumia muda zaidi na kijana wangu na kuimarisha uhusiano wetu. Siku moja alinishirikisha kwamba alikuwa sehemu ya genge lakini alikuwa anataka kujitoa.\n"
 "\n"
 "Tuliweka pamoja mipango ya muda mfupi na ya muda mrefu jisni tunaweza kufanya hivyo. Maisha yetu yanaonekana tofauti sasa hivi!"
+
+#. type=data_list
+#. The string @global.parent_app, should not be translated.
+msgctxt "data_list"
+msgid ""
+"Two years ago, I was raped by my uncle who stayed in our yard. I did not tell my mother, because I was afraid she would hit me, shout at me, or even throw me out of the house. I did not have anywhere else to go. \n"
+"\n"
+"When my mother started with @global.parent_app, we started spending more time together. I was still afraid, but in the end I shared it with my mother. My mom did not shout, but she listened and told me it is not my fault. We went to the police and the clinic together. I am so grateful I do not have to carry this secret anymore."
+msgstr ""
+"Miaka miwili iliyopita, nilibakwa na mjomba wangu aliyekuwa anaishi nyumbani kwetu. Sikumwambia mama yangu, kwa sababu niliogopa angenipiga, kunifokea, au hata kunifukuza ndani ya nyumba. Sikuwa na mahali popote pengine pa kwenda.\n"
+"\n"
+"Wakati mama yangu alipoanza @global.parent_app, alianza kutumia muda zaidi pamoja na mimi. Nilikuwa bado naogopa, lakini mwisho nilimshirikisha mama yangu. Mama yangu hakufoka, lakini alinisikiliza na kuniambia siyo kosa langu. Tulienda polisi na kliniki pamoja. Ninashukuru sana sihitaji kutunza zaidi siri hii."
 
 #. type=data_list
 #. The string @global.workshop should not be translated.
@@ -11850,6 +12186,11 @@ msgstr "Rafiki au familia"
 
 #. type=template
 msgctxt "template"
+msgid "Raising teens can be hard and we all struggle sometimes."
+msgstr "Kulea vijana kunaweza kuwa kugumu na wakati mwingine sisi sote tunahangaika."
+
+#. type=template
+msgctxt "template"
 msgid "What is the main challenge you are experiencing right now?"
 msgstr "Je, ni changamoto gani kuu unayoipata sasa hivi?"
 
@@ -11947,6 +12288,18 @@ msgstr "Tatizo linapojitokeza, jaribuni kulizungumzia pamoja. Tatizo ni nini has
 msgctxt "template"
 msgid "You can get more support on how to solve problems together here:"
 msgstr "Unaweza kupata msaada zaidi kuhusu jinsi ya kutatua matatizo pamoja hapa:"
+
+#. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid ""
+"It is not easy to look after our families. We all have challenges sometimes, but we hope this app will help you navigate them well. @global.parent_app is based on ten years of experience running parenting programmes in South Africa and thousands of parents have found that the tips that are shared help with many parenting challenges. We hope this app will help you and your family too.\n"
+"\n"
+"Here are some of the key proven tips for you:"
+msgstr ""
+"Si rahisi kutunza familia zetu. Wakati mwingine, sisi sote tuna changamoto, lakini tunatumaini programu hii itakusaidia kuzikabili vizuri. @global.parent_app inatokana na uzoefu wa miaka kumi wa kuendesha programu za malezi huko Afrika Kusini na maelfu ya wazazi wamegundua kuwa vidokezo vinavyotolewa husaidia kukabiliana na changamoto nyingi za malezi. Tunatumaini programu hii itakusaidia wewe na familia yako pia.\n"
+"\n"
+"Hapa kuna vidokezo muhimu kwako:"
 
 #. type=template
 msgctxt "template"
@@ -13777,6 +14130,11 @@ msgstr "Ndiyo, inaweza kuwa vigumu sana kupata muda wakati wa mchana, kwa sababu
 
 #. type=template
 msgctxt "template"
+msgid "Perfect! Even spending 5 minutes makes a big difference and if you do it at the same time every day (like at breakfast or before bed) it will be easier to keep it up!"
+msgstr "Safi sana! Hata kutumia dakika 5 kunaleta mabadiliko na ukifanya hivyo kwa muda uleule kila siku (kama vile wakati wa kifungua kinywa au kabla ya kwenda kulala) itakuwa rahisi zaidi kuendelea kufanya hivyo!"
+
+#. type=template
+msgctxt "template"
 msgid "Wonderful! By sharing responsibilities, you will have more time to do something fun with your teen – it’s so important!"
 msgstr "Vizuri sana! Kwa kushirikiana kutekeleza majukumu, utakuwa na muda zaidi wa kufanya jambo la kufurahisha na kijana wako – ni muhimu sana!"
 
@@ -13792,8 +14150,18 @@ msgstr "Vizuri sana! Kuchagua muda ambao kijana wako anapenda kuzungumza kutamsa
 
 #. type=template
 msgctxt "template"
+msgid "Nice! Watching your teen’s favourite TV show or sports match together will show them that you care. Just be patient; they will open up to you over time!"
+msgstr "Safi! Kuangalia pamoja kipindi cha runinga au mechi inayopendwa na kijana wako kutamuonesha kuwa unamjali. Vumilia tu; baada ya muda ataanza kuwa wazi kwako!"
+
+#. type=template
+msgctxt "template"
 msgid "Perfect! Sometimes it can be easier to start with spending time with the whole family. That way your teen can get more comfortable with spending one-on-one time with you over time."
 msgstr "Vizuri sana! Wakati mwingine inaweza kuwa rahisi zaidi kuanza kwa kutumia muda pamoja na familia nzima. Kwa njia hiyo, hatimaye kijana wako atajiamini zaidi kutumia muda pamoja na wewe mkiwa wawili tu."
+
+#. type=template
+msgctxt "template"
+msgid "Sorry that you had that challenge. Children often want to spend time watching TV or playing with a gadget. Well done for being patient with your teen!"
+msgstr "Tunasikitika kusikia kuwa ulipata changamoto hiyo. Mara nyingi watoto wanapenda kutumia muda wao wakitazama runinga au kuchezea vifaa vya kielektroniki. Hongera kwa kumvumilia kijana wako!"
 
 #. type=template
 msgctxt "template"
@@ -13802,8 +14170,18 @@ msgstr "Hiyo ni nzuri sana! Kama unahitaji hamasa, haya hapa mawazo kutoka famil
 
 #. type=template
 msgctxt "template"
+msgid "Wonderful!  There are lots of fun and educational apps on phones that you can explore together. Ask questions, show interest and remember to say something nice."
+msgstr "Safi sana! Kuna programu nyingi sana kwenye simu zinazoelimisha na kufurahisha mnazoweza kuzitafuta pamoja. Uliza maswali, onyesha shauku na kumbuka kusema kitu fulani vizuri."
+
+#. type=template
+msgctxt "template"
 msgid "Nice! Teens love it when you show interest in their gadget and when they get to explain something they know to you. This is a great starting point!"
 msgstr "Vizuri! Vijana wanafurahi sana unapoonesha kuvutiwa na vifaa vyao vya kielektroniki au unapowaomba wakueleze kitu fulani wanachokijua. Huu ni mwanzo mzuri sana!"
+
+#. type=template
+msgctxt "template"
+msgid "You are not alone here. Many parents sometimes have this challenge, too. One-on-one time should always be safe and it does not have to cost a thing!"
+msgstr "Hauko peke yako hapa. Wakati mwingine, wazazi wengi wanakabiliwa pia na changamoto hii. Kila mara, muda wa kuzungumza wawili unapaswa kuwa salama na haulazimiki kugharimu chochote!"
 
 #. type=template
 msgctxt "template"
@@ -13862,6 +14240,11 @@ msgstr "Vizuri sana! Kwa kumjulisha mapema kijana wako, mwisho wa muda wa pamoja
 msgctxt "template"
 msgid "Great! That way your teen has the responsibility to monitor the time and will be aware when time is almost up. Remind them that you will spend time together again tomorrow."
 msgstr "Vizuri sana! Kwa njia hiyo, kijana wako ana jukumu la kuangalia muda na atatambua muda unapokaribia kuisha. Mkumbushe kuwa mtatumia tena muda wa pamoja kesho."
+
+#. type=template
+msgctxt "template"
+msgid "Wonderful! If you spend time together right before dinner, you can happily say, “One-on-one time is over. Let’s get ready for dinner with the rest of the family!”"
+msgstr "Vizuri sana! Kama mtatumia muda wa pamoja muda mfupi kabla ya chakula cha usiku, unaweza kusema kwa furaha, \"Muda wetu wa pamoja umeisha. Tujiandae kwa chakula cha usiku pamoja na familia nzima!\""
 
 #. type=template
 msgctxt "template"
@@ -14702,6 +15085,11 @@ msgstr "Kufuta mipango yao ya kusherehekea siku ya kuzaliwa kwa muda wa mwezi mm
 
 #. type=template
 msgctxt "template"
+msgid "This is too far in the future and too harsh as well!"
+msgstr "Hii ni mbali sana na ni ukatili mno!"
+
+#. type=template
+msgctxt "template"
 msgid "No TV this evening"
 msgstr "Hakuna kuangalia runinga jioni ya leo"
 
@@ -15483,6 +15871,17 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid ""
+"That’s right! Positive, clear instructions help teens focus on what they should be doing. \n"
+"\n"
+"Teens will also feel more respected this way and are more likely to listen."
+msgstr ""
+"Hapo sawa! Maelekezo chanya na bayana huwasaidia vijana kuzingatia kile wanachopaswa kufanya.\n"
+"\n"
+"Kwa njia hiyo, vijana pia watahisi kuheshimiwa zaidi na wana uwezekano mkubwa wa kusikiliza."
+
+#. type=template
+msgctxt "template"
 msgid "Let's practice giving REAL, POSITIVE and CLEAR instructions. Practice will help you be successful with your teen!"
 msgstr "Hebu tufanye mazoezi ya kutoa maelekezo YANAYOTEKELEZEKA, CHANYA, na BAYANA. Kufanya mazoezi kutakusaidia kufanikiwa kwa kijana wako!"
 
@@ -15854,6 +16253,29 @@ msgid "Make a budget as a family!"
 msgstr "Tengeneza bajeti kama familia!"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.currency
+#.      @local.monthly_income
+#.      @local.number_of_beans
+#.      @global.currency
+#.      @local.bean_value
+msgctxt "template"
+msgid ""
+"* Write down what your income is for the month.\n"
+"* Take some stones or beans or anything with lots of bits - this is your income for the month. \n"
+"(For example: If your income is @global.currency@local.monthly_income and you have @local.number_of_beans beans, each bean is @global.currency@local.bean_value.)\n"
+"* Decide what you will spend on what, and put the stones/objects on that image. \n"
+"\n"
+"Not sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine!"
+msgstr ""
+"* Andikeni kipato chenu kwa mwezi.\n"
+"* Chukueni hindi au maharage kadhaa au kitu chochote cha chembechembe – hicho ndicho kipato chenu kwa mwezi.\n"
+"(Kwa mfano: Kama kipato chenu ni @global.currency@local.monthly_income, na mna maharage @local.number_of_beans, kila harage ni @global.currency@local.bean_value.)\n"
+"* Amueni mtatumia kiasi gani kwenye kitu gani na muweke hindi /vitu kwenye picha hiyo.\n"
+"\n"
+"Hamna hakika kuhusu maamuzi yenu? Mnasumbuka kuamua \"mahitaji\" ni yapi na \"matamanio\" ni yapi? Hakuna shida kabisa!"
+
+#. type=template
 msgctxt "template"
 msgid "Step 4: PLAN"
 msgstr "Hatua ya Nne: PANGA"
@@ -15885,6 +16307,11 @@ msgstr "HONGERA!!! Mmetengeneza bajeti ya familia yenu – na kuitumia kutakulet
 msgctxt "template"
 msgid "CONGRATULATIONS!!! You’ve made your family budget – and using it will make a huge difference for you. I think every person in your family deserves a praise, don’t you?"
 msgstr "HONGERA!!! Mmetengeneza bajeti ya familia yako – na kuitumia kutakuletea mabadiliko makubwa. Ninadhani kila mtu katika familia yako anastahili kusifiwa, au sivyo?"
+
+#. type=template
+msgctxt "template"
+msgid "CONGRATULATIONS!!! You have made your budget! Remember to do this exercise again with your other family members - if you agree on a plan together it will make a huge difference!"
+msgstr "HONGERA!!! Umetengeneza bajeti yako! Kumbuka kufanya zoezi hili tena na wanafamilia wengine – kama mtakubaliana kuhusu mpango fulani pamoja, mpango huo utaleta mabadiliko makubwa!"
 
 #. type=template
 msgctxt "template"
