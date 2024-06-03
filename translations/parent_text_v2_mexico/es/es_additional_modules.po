@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-05-29 19:54\n"
+"PO-Revision-Date: 2024-06-02 14:46\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -65,6 +65,11 @@ msgstr "Verdadero o Falso: Cualquier niña o niño, independientemente de su cre
 msgctxt "text"
 msgid "✨You’re right! "
 msgstr "✨ ¡Estás en lo correcto! "
+
+#. type=text
+msgctxt "text"
+msgid "🎉 All girls and boys, no matter how they are growing up, can learn and develop skills. "
+msgstr "🎉 Las niñas y los niños, independientemente de su crecimiento, son capaces de aprender y desarrollar habilidades. "
 
 #. type=text
 msgctxt "text"
@@ -273,6 +278,11 @@ msgid "Describe and explain what you are doing using different words. "
 msgstr "Describe y explica lo que estás haciendo utilizando diferentes palabras. "
 
 #. type=text
+msgctxt "text"
+msgid "For example, if you are shopping at the market, you can say, “Today we are going to buy tomatoes” or “I am making enchiladas today and we need chicken and chilli for it”. "
+msgstr "Por ejemplo, si estás en el mercado o en el súper, puedes decir: \"Hoy vamos a comprar tomates\" o \"Hoy voy a hacer enchiladas y necesitamos pollo y chile para hacerlas\". "
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "👂 Ask @fields.child_nickname questions and listen to their answers!"
@@ -358,6 +368,11 @@ msgstr "👂Escucha atentamente a @fields.child_nickname y siempre respóndele. 
 msgctxt "text"
 msgid "🔄 Confirm what they said and add more to help them connect their understanding to the language. For example, if @fields.child_nickname says, “There’s a cat,” you could respond, “Yes, there’s a cat making a big hole in the ground”."
 msgstr "🔄 Confirma lo que te dice y agrégale algo más para ayudarle a conectar su comprensión de la situación con el lenguaje. Por ejemplo, si @fields.child_nickname dice: \"Hay un gato\", podrías responder: \"Sí, hay un gato haciendo un agujero grande en el suelo\"."
+
+#. type=text
+msgctxt "text"
+msgid "Avoid overcorrecting. Instead of saying, “No, you don’t say soap, you should say soap”, try “Oh right! The little girl is using the **soap** to wash her hands”."
+msgstr "Evita corregir en exceso. En vez de decir: \"No, no se dice japón, se debe decir jabón con B\", prueba con \"¡Ah, claro! La niña está usando el **jabón** para lavarse las manos\"."
 
 #. type=text
 msgctxt "text"
@@ -518,13 +533,46 @@ msgstr "Leer con tu {child} es la mejor manera de ayudarle a aprender a leer. �
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "True or False: Reading with @fields.child_nickname means you ONLY read the words aloud and use facial expression to match the emotions in the story."
+msgstr "Verdadero o Falso: Leer con @fields.child_nickname significa que SOLO lees las palabras en voz alta y usas expresiones faciales que corresponden a las emociones de la historia."
+
+#. type=text
+msgctxt "text"
+msgid "True or False: Reading with your {child} means you ONLY read the words aloud and use facial expression to match the emotions in the story."
+msgstr "Verdadero o Falso: Leer con tu {child} significa que SOLO lees las palabras en voz alta y usas expresiones faciales que corresponden a las emociones de la historia."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "👂 It is enjoyable to read the words aloud and use facial expressions to match the emotions in the story. But that’s not the ONLY thing reading with your girl or boy means. It also involves asking @fields.child_nickname questions, and exploring their responses and the story with them."
+msgstr "👂 Leer las palabras en voz alta y usar expresiones faciales que corresponden a las emociones de la historia es divertido. Pero no significa que es lo ÚNICO que puedes hacer al leer con tu niña o niño. También implica hacerle preguntas a @fields.child_nickname y explorar sus respuestas, además de indagar más sobre la historia entre ustedes."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "🔑 @fields.child_nickname will practise saying new words and develop an interest in reading."
 msgstr "🔑 @fields.child_nickname practicará la pronunciación de palabras nuevas y desarrollará el interés por la lectura."
 
 #. type=text
 msgctxt "text"
+msgid "👂 It is enjoyable to read the words aloud and use facial expressions to match the emotions in the story. But that’s not the ONLY thing reading with your girl or boy means. It also involves asking your {child} questions, and exploring their responses and the story with them."
+msgstr "👂 Leer las palabras en voz alta y usar expresiones faciales que corresponden a las emociones de la historia es divertido. Pero no significa que es lo ÚNICO que puedes hacer al leer con tu niña o niño. También implica hacerle preguntas a tu {child} y explorar sus respuestas, además de indagar más sobre la historia entre ustedes."
+
+#. type=text
+msgctxt "text"
 msgid "🔑 your {child} will practise saying new words and develop an interest in reading."
 msgstr "🔑 tu {child} practicará la pronunciación de palabras nuevas y desarrollará el interés por la lectura."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "👂It is enjoyable to read the words aloud and use facial expressions to match the emotions in the story. But that’s not the ONLY thing reading with your girl or boy means. It also involves asking @fields.child_nickname questions,and exploring their responses and the story with them."
+msgstr "👂 Leer las palabras en voz alta y usar expresiones faciales que corresponden a las emociones de la historia es divertido. Pero no significa que es lo ÚNICO que puedes hacer al leer con tu niña o niño. También implica hacerle preguntas a @fields.child_nickname y explorar sus respuestas, además de indagar más sobre la historia entre ustedes."
+
+#. type=text
+msgctxt "text"
+msgid "👂It is enjoyable to read the words aloud and use facial expressions to match the emotions in the story. But that’s not the ONLY thing reading with your girl or boy means. It also involves asking your {child} questions,and exploring their responses and the story with them."
+msgstr "👂 Leer las palabras en voz alta y usar expresiones faciales que corresponden a las emociones de la historia es divertido. Pero no significa que es lo ÚNICO que puedes hacer al leer con tu niña o niño. También implica hacerle preguntas a tu {child} y explorar sus respuestas, además de indagar más sobre la historia entre ustedes."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1459,6 +1507,11 @@ msgstr "🎨 A continuación, enséñale a dibujar figuras que parezcan letras: 
 
 #. type=text
 msgctxt "text"
+msgid "👋 Help them practise tracing letters in the air and on a surface with their fingers."
+msgstr "👋 Ayúdale a practicar el trazado de letras en el aire y sobre una superficie usando sus dedos."
+
+#. type=text
+msgctxt "text"
 msgid "😃 Later, help them write simple letters using crayons. Start with the first letter of their name! "
 msgstr "😃 Después, ayúdale a escribir letras sencillas con crayones. ¡Empieza practicando con la primera letra de su nombre! "
 
@@ -2336,6 +2389,11 @@ msgstr "👂 Pregúntale a @fields.child_nickname qué ha estado haciendo en la 
 msgctxt "text"
 msgid "😃 Did they do or see something they liked? Were they interested in anything particular?"
 msgstr "😃 ¿Hizo o vió algo que le llamó la atención? ¿Se interesó por algo en particular?"
+
+#. type=text
+msgctxt "text"
+msgid "👀 Notice what they like and what interests them. Ask them open-ended questions and talk about these interests. You can say,” 🍞 What was the most delicious part of your lunch?” or “✨What did you enjoy about today?”"
+msgstr "👀 Fíjate en sus gustos e intereses. Hazle preguntas abiertas y habla sobre sus intereses. Puedes decir: \"🍞 ¿Qué fue lo que más te gustó de tu recreo?\" o \"✨ ¿Qué es lo que más te ha gustado de hoy?\""
 
 #. type=text
 msgctxt "text"
@@ -3316,6 +3374,171 @@ msgstr "Completaste @(fields.c_n_mod_compl +1) de las @fields.c_n_mod habilidade
 msgctxt "text"
 msgid "Lesson complete! You have learnt how to help your {child} learn from their mistakes."
 msgstr "¡Sesión completada! Has aprendido cómo ayudar a tu {child} a aprender de sus errores."
+
+#. type=text
+msgctxt "text"
+msgid "Today, we will learn how to manage stress. Because this is such an important life skill, we will continue it tomorrow, too."
+msgstr "Hoy aprenderemos a regular el estrés. Como se trata de una habilidad tan importante para la vida, continuaremos con el tema el día de mañana."
+
+#. type=text
+msgctxt "text"
+msgid "Stress is when you feel worried or tense because things might be difficult."
+msgstr "El estrés es cuando sientes preocupación o tensión porque las cosas pueden llegar a ser difíciles."
+
+#. type=text
+msgctxt "text"
+msgid "It is normal to feel stressed as a parent. But sometimes, stress can become overwhelming. "
+msgstr "Es normal sentir estrés como madre, padre o persona cuidadora. Pero a veces, el estrés puede llegar a ser demasiado para nuestro cuerpo. "
+
+#. type=text
+msgctxt "text"
+msgid "This can feel like your brain is too full to do anything, and you’re going to burst into tears, yell, or be too exhausted to function."
+msgstr "Puede sentirse como que tienes el cerebro demasiado lleno como para hacer cosas y que vas a llorar, a gritar o a estar en un estado tan extremo de cansancio que no podrás funcionar."
+
+#. type=text
+msgctxt "text"
+msgid "Learning to handle stress and asking for help when needed can help you."
+msgstr "Aprender a manejar el estrés y pedir ayuda cuando sea necesario te puede ayudar mucho."
+
+#. type=text
+msgctxt "text"
+msgid "📝Let's do a quiz to see what you already know about stress"
+msgstr "📝 Hagamos un ejercicio para ver qué tanto sabes sobre el estrés"
+
+#. type=text
+msgctxt "text"
+msgid "True or False: Too much stress can have a negative impact on our relationships with others, including our children."
+msgstr "Verdadero o Falso: El exceso estrés puede tener un impacto negativo en nuestras relaciones con los demás, incluidas nuestras niñas y niños."
+
+#. type=text
+msgctxt "text"
+msgid "Too much stress can make you more aggressive, irritable and less patient with your children. "
+msgstr "El exceso de estrés puede aumentar las agresiones y la irritabilidad, además de disminuir la paciencia con tus niñas y niños. "
+
+#. type=text
+msgctxt "text"
+msgid "It can also make it harder to get even the simple things done in your daily life."
+msgstr "También, puede hacer que parezca más difícil hacer hasta las cosas más sencillas de tu vida cotidiana."
+
+#. type=text
+msgctxt "text"
+msgid "But knowing this helps us find better ways to manage stress."
+msgstr "Pero tener conocimiento sobre estas cosas nos ayuda a encontrar mejores formas de regular el estrés."
+
+#. type=text
+msgctxt "text"
+msgid "Let’s do another one: When we ignore our stress, it will eventually go away."
+msgstr "Hagamos otra: Si ignoramos nuestro estrés, desaparecerá con el tiempo."
+
+#. type=text
+msgctxt "text"
+msgid "🎓When you feel stressed, this is a sign from your body that you need to take care of yourself. "
+msgstr "🎓 Cuando sientas estrés, tómalo como una señal de tu cuerpo de que necesitas cuidarte. "
+
+#. type=text
+msgctxt "text"
+msgid "It’s important to pay attention to your thoughts and how your body is feeling so you can respond better"
+msgstr "Es importante que le pongas atención a tus pensamientos y a cómo se siente tu cuerpo para que puedas responder mejor"
+
+#. type=text
+msgctxt "text"
+msgid "\r🎓When you feel stress, this is a sign from your body that you need to take care of yourself or that you need more support."
+msgstr "\r🎓 Cuando sientas estrés, tómalo como una señal de tu cuerpo de que necesitas cuidarte o de que necesitas más apoyo."
+
+#. type=text
+msgctxt "text"
+msgid "Last one! True or False: When you have a lot to do and feel stressed, it's better to keep pushing through and not take breaks."
+msgstr "¡La última! Verdadero o Falso: Cuando tienes mucho que hacer y sientes estrés, es mejor seguir adelante y no tomarte descansos."
+
+#. type=text
+msgctxt "text"
+msgid "If you don't manage stress and keep pushing through without taking breaks, you can feel extremely exhausted. "
+msgstr "Si no regulas el estrés y sigues presionando sin tomarte descansos, puedes llegar a sentir cansancio extremo. "
+
+#. type=text
+msgctxt "text"
+msgid "So, taking breaks and managing stress is not just about feeling better in the moment. It is also about preventing burnout in the long run."
+msgstr "Esto quiere decir que tomar descansos y regular el estrés no es solo para sentirse mejor en el momento, también se trata de evitar el agotamiento a largo plazo."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER} is the only caregiver for her two grandchildren. Household duties, and having little money often make her feel overwhelmed and unsupported. It is also difficult for her to be present with her children. It does not help that {F3_DAUGHTER_7} and {F3_SON_4} fight a lot."
+msgstr "{F3_MOTHER} es la única cuidadora de sus dos nietos. Tantas cosas que hacer en la casa y el hecho de tener poco dinero hacen que se sienta abrumada y sin apoyo muy seguido. También le resulta difícil estar presente con sus niñas y niños. No ayuda que {F3_DAUGHTER_7} y {F3_SON_4} se pelean mucho."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_SON_4}: Give it to me!"
+msgstr "{F3_SON_4}: ¡Dámelo!"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_7}: It is mine!"
+msgstr "{F3_DAUGHTER_7}: ¡Es mío!"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER} (frustrated and thinking): Argh! I am feeling so tired and irritated! There is just too much to do today. Bills, chores, and now this!"
+msgstr "{F3_MOTHER} (frustrada, pensando): ¡Ay ya! ¡Estoy muy cansada e irritada! Hay demasiadas cosas que hacer hoy. Pagos, la limpieza de la casa, ¡y ahora esto!"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER} (taking a deep breath thinking): Let me pause. I am trying my best. Shouting at them will just make it worse."
+msgstr "{F3_MOTHER} (respira profundamente y piensa): Déjame hacer una pausa. Estoy haciendo lo mejor que puedo. Gritarles solamente empeorará las cosas."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER} : {F3_DAUGHTER_7} and {F3_SON_4}, please take turns and share the phone."
+msgstr "{F3_MOTHER} : {F3_DAUGHTER_7} y {F3_SON_4}, por favor, compartan el teléfono y cada quién espere su turno."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_SON_4}: But I had it first!"
+msgstr "{F3_SON_4}: ¡Pero yo lo tenía primero!"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_7}: Not true, he stole them from me!"
+msgstr "{F3_DAUGHTER_7}: ¡No es cierto, él me lo quitó!"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: I can see you both are upset. Let’s take 5 deep breaths, and then we can see what we can do."
+msgstr "{F3_MOTHER}: Veo que están molestos. Vamos a hacer 5 respiraciones profundas y luego veremos qué podemos hacer."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: Okay, now that we are all a bit calmer, we need some rules about using my phone. What do you think we should do?"
+msgstr "{F3_MOTHER}: Bien, ahora que estamos todos un poco más tranquilos, necesitamos establecer algunas reglas sobre el uso de mi teléfono. ¿Qué creen que deberíamos de hacer?"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_7}: Well…maybe {F3_SON_4} can use the phone when I am doing my homework for school?"
+msgstr "{F3_DAUGHTER_7}: Bueno…¿puede ser que {F3_SON_4} use el teléfono cuando yo esté haciendo la tarea?"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: Okay, and then what will you do, {F3_SON_4}, when your sister is done with her homework?"
+msgstr "{F3_MOTHER}: Suena bien, ¿y tú, {F3_SON_4}, qué harás cuando tu hermana termine su tarea?"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_SON_4}: I will give it to her and then play with my other toys."
+msgstr "{F3_SON_4}: Se lo daré y me iré a jugar con mis otros juguetes."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: Good suggestion! So the household rule is that {F3_SON_4} can use the phone while {F3_DAUGHTER_7} does her homework, and then {F3_DAUGHTER_7} gets a chance to use it. Remember, if you forget the household rule, I will take my phone back and you will not get to use it until the next day. Okay?"
+msgstr "{F3_MOTHER}: Buena sugerencia. Entonces la regla queda en que {F3_SON_4} puede usar el teléfono mientras {F3_DAUGHTER_7} hace su tarea, y terminando, {F3_DAUGHTER_7} tendrá la oportunidad de usarlo. Recuerden, si se olvidan de la regla, me llevaré el teléfono y no podrán usarlo hasta el día siguiente. ¿De acuerdo?"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_SON_4} and {F3_DAUGHTER_7}: Okay…"
+msgstr "{F3_SON_4} y {F3_DAUGHTER_7}: De acuerdo…"
+
+#. type=text
+msgctxt "text"
+msgid "{F2_MOTHER} (thinking): Phew! That was not easy, but at least I did not shout like usual. I have had a long day and am feeling very stressed. Maybe I will call Maria later and have a chat."
+msgstr "{F2_MOTHER} (pensando): ¡Uf! No fue fácil pero al menos no les grité como siempre lo hago. Tuve un día muy largo y me siento muy estresada. Tal vez le hable a María más tarde para platicar un poco con ella."
 
 #. type=text
 msgctxt "text"
