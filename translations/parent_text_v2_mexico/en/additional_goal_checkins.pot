@@ -1052,21 +1052,6 @@ msgid "."
 msgstr ""
 
 #. type=text
-msgctxt "text"
-msgid "How is keeping up with your teen's social life going? "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Excellent! Keep up the good effort. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "I am sorry this is hard. "
-msgstr ""
-
-#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It can be hard to know who @fields.child_nickname is with all of the time. 💙"
@@ -1091,12 +1076,23 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You were already excelling at keeping @fields.child_nickname safe before ParentText. It’s great that you’re able to keep up the excellent effort!"
+msgid "You were already excelling at keeping @fields.child_nickname safe before Crianza con Conciencia +. It’s great that you’re able to keep up the excellent effort!"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You were already excelling at keeping your {teen} safe before ParentText. It’s great that you’re able to keep up the excellent effort!"
+msgid "You were already excelling at keeping your {teen} safe before Crianza con Conciencia +. It’s great that you’re able to keep up the excellent effort!"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Knowing who @fields.child_nickname is with is important. Though you are still doing great, you have reported that this has become more challenging since you first began Crianza con Conciencia +."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Knowing who your {teen} is with is important. Though you are still doing great, you have reported that this has become more challenging since you first began Crianza con Conciencia +."
 msgstr ""
 
 #. type=text
@@ -2492,12 +2488,12 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "💛 You were already excelling at helping your girl or boy obey household rules before ParentText. It’s great that you’re able to keep up the excellent effort!"
+msgid "💛 You were already excelling at helping your girl or boy obey household rules before Crianza con Conciencia+. It’s great that you’re able to keep up the excellent effort!"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Congratulations! 🎉 You’ve made progress course since you’ve started ParentText. Your effort is working!"
+msgid "Congratulations! 🎉 You’ve made progress course since you’ve started Crianza con Conciencia+. Your effort is working!"
 msgstr ""
 
 #. type=text
@@ -2892,178 +2888,65 @@ msgid "Previously you said that teasing or bothering others was the most challen
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Learning how to manage our stress is the first step to providing the best support for our children. Let’s check in on you first:"
+msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Do you feel overwhelmed by the responsibility of being a parent? 😔"
+msgid "When was your {child} born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "That is great to hear! 🎉"
+msgid "Sorry, this date is invalid. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "That is okay. We will learn more about taking time for ourselves today. "
+msgid "The date you entered is in the future. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Before we get started on your course to have a healthy relationship with your partner, please answer this question:"
+msgid "Let's try again. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Do you and your partner share caregiving and household tasks equally? ⏰"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Thank you for your answer. To have a healthy relationship, it is important that both share responsibilities at home. This course will help you learn more about the importance of sharing caregiving and household tasks."
+msgid "Your {child} is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "That’s great to hear! Sharing tasks and family care equally helps everyone feel valued."
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "What did you find difficult about sharing tasks equally?"
+msgid "Your {teen} is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "🌱 Ask them! Telling your partner you want to help but don’t know how shows them you care and want to be involved."
+msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "⏰ Try creating a routine. Planning when to do household tasks or ways to share caregiving can be a helpful reminder."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🔑 Once you start sharing tasks more often - it will get easier to remember."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🔑 It can be hard to ask for support. Sometimes, we expect our partners to know we need support even if we don’t ask them. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🌱 Once you start telling them, they’ll be more likely to get involved in household responsibilities again in the future."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🌱 Finding time to support and asking for help can be hard."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "⏰ Can you think of a time when you’re less busy? For example, it may be easier to do and share the chores later at night when some of the girls and boys are asleep."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "⭐ Be kind to yourself - trying something new is often hard at first."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🌱 Give yourself time to adjust. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "💡 Remember that sharing caregiving and household chores responsibilities benefits the whole family!"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Sorry to hear that your partner did not react positively. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🌱 Be proud of yourself for trying and be gentle with yourself."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Now that you’ve completed ParentText, let’s check in:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You were already managing the stress of parenting well before ParentText. It’s great that you’re able to keep up the excellent effort!"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "It’s great that you’re still doing well. Parenting can be difficult. Please remember to take a pause and ask for help when you need it. 💛"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "That is okay. Parenting can be difficult. Please remember to take a pause and ask for help when you need it. 💛"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Type {HELP} for information about places that can support you."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Congratulations on making some progress. Still, it seems like parenting is overwhelming. That is okay. Parenting can be difficult. Please remember to take a pause and ask for help when you need it. 💛"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Thank you for providing a progress update."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You have completed the course on having a healthy relationship with your partner. It’s time to check in on your progress. We want to know:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Start by thinking in small steps. It is normal to have challenges when trying to change the way responsibilities are shared in the household. Talk about it and see how little by little everyone is taking charge of some task."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Change takes time. It is normal to have challenges when trying to change the way responsibilities are shared in the household. Talk about it and see how little by little everyone is taking charge of some task."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Good job on making some progress. Still, it seems like sharing responsibilities is still a challenge. When the couple divides household chores and childcare, it reduces stress on the family and leaves them time to enjoy other activities."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You were already excelling at sharing parenting responsibilities before ParentText. It’s great that you’re able to keep up the excellent effort!"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Thank you for providing your progress update. You can revisit this course again from the Main Menu by typing {MENU} 📝. If you are enrolled in a course, you will resume progress tomorrow."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "How is sharing tasks going? "
+msgid "According to the date you provided, your {child} would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
 msgstr ""
 
 #. type=quick_replies
@@ -3483,37 +3366,13 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "I didn’t know how to support my partner"
+msgid "Yes"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "I forgot to share the tasks equally or get involved"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I forgot to ask for support"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I didn’t have the time to ask or give support"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I felt uncomfortable doing tasks I don’t normally do"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I asked my partner for help, but they refused."
+msgid "No"
 msgstr ""
 
 #. type=arguments
@@ -3993,35 +3852,11 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "i didn’t know how to support my partner"
+msgid "yes y yeah yep"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "i forgot to share the tasks equally or get involved"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i forgot to ask for support"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i didn’t have the time to ask or give support"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i felt uncomfortable doing tasks i don’t normally do"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i asked my partner for help, but they refused."
+msgid "no n nope"
 msgstr ""
