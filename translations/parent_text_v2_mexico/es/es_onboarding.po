@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-13 09:51\n"
+"PO-Revision-Date: 2024-06-13 16:06\n"
 
 #. type=text
 msgctxt "text"
@@ -81,8 +81,23 @@ msgstr "¡Este programa funciona! ¿Sabías que más de 200 millones de madres, 
 
 #. type=text
 msgctxt "text"
+msgid "✅Participating in ParentText is optional and free. "
+msgstr "✅ Participar en Crianza con Conciencia + es opcional y gratuito. "
+
+#. type=text
+msgctxt "text"
+msgid "✅Your personal information is safe and private. Your name and information will not be public, but your responses will be kept and used by researchers to learn how to support families like yours.  They plan to publish the results. "
+msgstr "✅ Tus datos personales están seguros y son privados. Tu nombre y tus datos no se harán públicos, pero tus respuestas se conservarán y serán utilizadas por las y los investigadores para saber cómo apoyar a otras familias como la tuya. Se planean publicar los resultados. "
+
+#. type=text
+msgctxt "text"
 msgid "❌You can stop when you want. Just type {STOP}"
 msgstr "❌Puedes parar cuando quieras. Solo tienes que escribir {STOP}"
+
+#. type=text
+msgctxt "text"
+msgid "Click here for more information: {consent_link}"
+msgstr "Haz clic aquí para obtener más información: {consent_link}"
 
 #. type=text
 msgctxt "text"
@@ -108,6 +123,11 @@ msgstr "¡Increíble! Comencemos."
 msgctxt "text"
 msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option."
 msgstr "¿Estás seguro de que no quieres recibir estos mensajes? Si no quieres recibir más mensajes, escribe \"NO\". Si te has equivocado, presiona REGRESAR y elige otra opción."
+
+#. type=text
+msgctxt "text"
+msgid "If you ever return to participate in the programme, type HELLO. "
+msgstr "Si en algún momento quieres continuar con tu participación en el programa, solo escribe HOLA. "
 
 #. type=text
 msgctxt "text"
@@ -210,6 +230,12 @@ msgstr "Crianza con Conciencia + te ayudará con todas las niñas, niños y adol
 msgctxt "text"
 msgid "Which region of Mexico do you live in?"
 msgstr "¿En qué región de México vives?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your name is @fields.first_user_name @fields.family_name. Is that correct?"
+msgstr "Tu nombre es @fields.first_user_name @fields.family_name. ¿Es correcto?"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -408,6 +434,12 @@ msgstr "Aguascalientes"
 msgctxt "quick_replies"
 msgid "Colima"
 msgstr "Colima"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Michoacán"
+msgstr "Michoacán"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -738,6 +770,12 @@ msgstr "aguascalientes"
 msgctxt "arguments"
 msgid "colima"
 msgstr "colima"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "michoacán"
+msgstr "michoacán"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
