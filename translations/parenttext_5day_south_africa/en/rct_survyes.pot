@@ -3,29 +3,29 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 
 #. type=text
+msgctxt "text"
+msgid "Please enter the 10-digit South African phone number that you would like to send airtime to. For example, you would enter 083 283 8620 as 0832838620."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "South African phone numbers should begin with the number zero, please enter a ten-digit phone number beginning with the number zero."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You did not enter a 10-digit phone number, please try again."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Invalid entry, please enter a ten-digit phone number, beginning with the number zero."
+msgstr ""
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "When was your child born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Sorry, this date is invalid. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "The date you entered is in the future. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Let's try again. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgid "Is this number correct? @results.input"
 msgstr ""
 
 #. type=text
@@ -36,42 +36,40 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgid "Your airtime of R @results.amount has been sent. Please allow up to 24 hours for the payment to process."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "If you have not received your airtime in 24 hours, please send a message to {support_phone_number} with your transaction ID."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgid "Your transaction ID is: @results.transaction_id"
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
+msgid "This transaction has failed. Please send a message to {support_phone_number} with this reference number: @fields.research_id"
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Your teen is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgid "Your saved phone number is @results.phone_number. Do you want to send airtime to this number or a different number?"
 msgstr ""
 
 #. type=text
 msgctxt "text"
 msgid "Please select your language:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Sicela ukhethe ulimi lwakho:"
 msgstr ""
 
 #. type=text
@@ -1067,6 +1065,18 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Same number"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "New number"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "English"
 msgstr ""
 
@@ -1673,13 +1683,25 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "yes y yeah yep"
+msgid "yes"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "no n nope"
+msgid "no"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "same number"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "new number"
 msgstr ""
 
 #. type=arguments
@@ -1704,18 +1726,6 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "no, i do not live in south africa"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "yes"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "no"
 msgstr ""
 
 #. type=arguments
