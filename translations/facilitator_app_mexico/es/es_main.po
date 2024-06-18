@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-18 16:27\n"
+"PO-Revision-Date: 2024-06-18 22:27\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -1451,7 +1451,7 @@ msgid ""
 msgstr ""
 "La semana que entra será mi última sesión de chat con ustedes. Pero pueden mantener este grupo de WhatsApp abierto para seguir apoyándose entre ustedes.  💚\n"
 "\n"
-"¿Hay alguien dispuesto a relevarme como administrador del grupo? \n"
+"¿Hay alguien dispuesto a relevarme como admin. del grupo? \n"
 "\n"
 "Por favor, mándenme un mensaje directo si les interesa. Sería estupendo conseguir *dos voluntarios*. 👀\n"
 "\n"
@@ -3113,8 +3113,24 @@ msgstr "¿Cómo se pondrá en contacto conmigo la persona asesora?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Make sure you're part of a WhatsApp group with other facilitators from your state and your coach. Your coach will share important information with you through this group. Stay connected and keep an eye out for updates from your coach in the WhatsApp group!"
+msgstr "Asegúrate de que formas parte de un grupo de WhatsApp con otras personas facilitadoras de tu estado y la persona asesora asignada para ti. Tu persona asesora compartirá información importante contigo a través de este grupo. ¡Conéctate y préstale atención a las actualizaciones que les mande su persona asesora en el grupo de WhatsApp!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "When will the coaching session happen?"
 msgstr "¿Cuándo será la sesión de asesoría?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here is the schedule for your coaching session: \r\rSession 1: After you conduct the in-person onboarding session\r\rSession 2: After first WhatsApp chat session on thoughts, feelings, and actions\r\rSession 3: After second WhatsApp chat session on kind self-talk\n"
+"\n"
+"Session 4: After third WhatsApp chat session on character strengths"
+msgstr ""
+"Este es el programa para tu sesión de asesoría: \r\rSesión 1: Después de la sesión de integración presencial\r\rSesión 2: Después de la primera sesión de chat de WhatsApp sobre pensamientos, sentimientos y acciones\r\rSesión 3: Después de la segunda sesión de chat de WhatsApp sobre el diálogo interno amable\n"
+"\n"
+"Sesión 4: Después de la tercera sesión de chat de WhatsApp sobre las fortalezas de carácter"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3123,8 +3139,28 @@ msgstr "Preparación para la Sesión de Asesoría"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Before your coaching session: \n"
+"\n"
+"Review your WhatsApp chat session with the parents \n"
+"Select a challenge or issue from your chat session that they want to receive support from during coaching. A challenge is a specific issue or difficulty the facilitators faced during their chat session.  \n"
+"Think about what coaching skills you want to improve. For example, you could build a stronger sense of community amongst the caregivers or improve their facilitation skills."
+msgstr ""
+"Antes de tu sesión de asesoría: \n"
+"\n"
+"Revisa tu sesión de chat de WhatsApp con las madres, los padres y las personas cuidadoras. \n"
+"Selecciona uno de los retos o problemas mencionados en la sesión de chat que quieran ver contigo durante la asesoría para recibir tu apoyo. Un reto es una situación o dificultad específica a la que se enfrentaron las personas facilitadoras durante su sesión de chat.  \n"
+"Piensa qué habilidades de asesoramiento quieres mejorar. Por ejemplo, podrías buscar crear un mayor sentido de comunidad entre las madres, los padres y las personas cuidadoras o mejorar sus habilidades de facilitación."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Need more support?"
 msgstr "¿Necesitas más ayuda?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you need support and your coaching session is a while from now, you can share your challenge in the WhatsApp group with other facilitators. \r\rOther facilitators may have faced similar challenges and may be able to support you."
+msgstr "Si necesitas apoyo y todavía tienes tiempo antes de tu sesión de asesoría, puedes compartir tu reto con las demás personas facilitadoras en el grupo de WhatsApp. \r\rEs posible que otras personas facilitadoras se hayan enfrentado a retos similares y puedan apoyarte."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3133,13 +3169,201 @@ msgstr "Información Adicional"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How to hand over to Group Admin"
+msgstr "Cómo designar Admins. del Grupo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Once 2 volunteers to be group admin are selected, schedule a WhatsApp call with them.\n"
+"\n"
+"When you’re done with the call, you can send the guidelines as messages to remind them what you discussed."
+msgstr ""
+"Una vez seleccionadas 2 personas voluntarias para administrar el grupo, programa una llamada de WhatsApp entre ustedes.\n"
+"\n"
+"Cuando terminen la llamada, puedes enviarles las minutas de la reunión en forma de mensajes para recordarles lo que se discutió."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What to cover in the WhatsApp Call?"
+msgstr "¿Qué temas se deben de tratar en la llamada de WhatsApp?"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.programme_name
+#.      @global.programme_name
+msgctxt "data_list"
+msgid ""
+"Thank the parents for volunteering to lead the WhatsApp group.  \n"
+"\n"
+"While engaging with other parents in the group, keep the following in mind:\n"
+"🔵Greet parents when engaging with them.\n"
+"🔵Respect what participants share and be aware of different ages, genders, values and circumstances.\n"
+"🔵Encourage parents to share and respond to each other - and praise them for it.\n"
+"🔵Remind parents of ground rules when needed.\n"
+"🔵Model the behaviour you want to see among the parents.\n"
+"\n"
+"If the parent needs any prompts for discussion, share the following: \n"
+"\n"
+"Let us celebrate our successes! What was something positive you experienced when you tried one of the @global.programme_name skills with your boy, girl, or teen?\n"
+"\n"
+"Trying out new skills can be hard at first. What was something difficult that you experienced when you tried a @global.programme_name skill with your girl, boy, or teen at home?\n"
+"Remind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n"
+"\n"
+"Ask them if they have any questions. \n"
+"\n"
+"Remind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
+msgstr ""
+"Agradécele a las madres, los padres y las personas cuidadoras que se hayan ofrecido a dirigir el grupo de WhatsApp.  \n"
+"\n"
+"Al relacionarte con las demás personas del grupo, ten en cuenta lo siguiente:\n"
+"🔵 Saluda a las madres, los padres y las personas cuidadoras al interactuar con ellas y ellos.\n"
+"🔵 Respeta lo que comparte cada participante y sé consciente de las diferentes edades, géneros, valores y circunstancias.\n"
+"🔵 Anima a las madres, los padres y las personas cuidadoras a participar y a responderse unos a otros; halágales por ello.\n"
+"🔵 Recuérdale al grupo las reglas básicas cuando sea necesario.\n"
+"🔵 Modela el comportamiento que quieres ver entre las madres, los padres y las personas cuidadoras.\n"
+"\n"
+"Si las madres, los padres o las personas cuidadoras necesitan algún estímulo para participar en la discusión, comparte lo siguiente: \n"
+"\n"
+"¡Celebremos nuestros éxitos! ¿Experimentaste algo positivo al probar una de las habilidades de @global.programme_name con tu niña, niño o adolescente? Cuéntanos sobre ello.\n"
+"\n"
+"Probar habilidades nuevas puede ser difícil al principio. ¿Qué dificultades experimentaste al probar una de las habilidades de @global.programme_name con tu niña, niño o adolescente en casa?\n"
+"Recuérdales a las madres, los padres y las personas cuidadoras que no tienen la obligación de responder a los mensajes en todo momento. Cada participante tiene el derecho de enviar mensajes en cualquier momento de la semana. Para que tu carga de trabajo sea manejable, puedes responder a los mensajes una o dos veces al día, según tu horario. \n"
+"\n"
+"Pregúntales si tienen alguna duda. \n"
+"\n"
+"Recuérdales que, lamentablemente, ya no podrás participar en el grupo de WhatsApp."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Send this message after your WhatsApp Call"
+msgstr "Envía este mensaje después de tu llamada de WhatsApp"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Hi! Thank you for volunteering to lead the group discussions. \n"
+"\n"
+"*While engaging with other parents in the group, keep the following in mind*: \n"
+"\n"
+"👋Greet parents when engaging with them.\n"
+"\n"
+"💛Respect what participants share and be aware of different ages, genders, values and circumstances. \n"
+"\n"
+"🏅Encourage parents to share and respond to each other - and praise them for it.\n"
+"\n"
+"🔔Remind parents of ground rules when needed.\n"
+"\n"
+"🔑Model the behaviour you want to see among the parents."
+msgstr ""
+"¡Hola! Gracias por ofrecerte para dirigir las discusiones e interacciones del grupo. \n"
+"\n"
+"*Al relacionarte con las demás personas del grupo, ten en cuenta lo siguiente*: \n"
+"\n"
+"👋 Saluda a las madres, los padres y las personas cuidadoras al interactuar con ellas y ellos.\n"
+"\n"
+"💛 Respeta lo que comparte cada participante y sé consciente de las diferentes edades, géneros, valores y circunstancias. \n"
+"\n"
+"🏅 Anima a las madres, los padres y las personas cuidadoras a participar y a responderse unos a otros; halágales por ello.\n"
+"\n"
+"🔔 Recuérdale al grupo sobre las reglas básicas cuando sea necesario.\n"
+"\n"
+"🔑 Modela el comportamiento que quieres ver entre las madres, los padres y las personas cuidadoras."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "When should the group admin respond to messages?"
+msgstr "¿Cuándo debe responder el admin del grupo a los mensajes?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*When should you respond to messages?*\n"
+"\n"
+"⏰Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n"
+"\n"
+"👍You can also respond to messages with a relevant emoji or short response when you can."
+msgstr ""
+"*¿Cuándo debes de responder a los mensajes?*\n"
+"\n"
+"⏰ Las madres, los padres y las personas cuidadoras del grupo pueden enviar mensajes en cualquier momento de la semana. Para que tu carga de trabajo sea manejable, puedes responder a los mensajes una o dos veces al día, según tu horario.\n"
+"\n"
+"👍 También puedes responder a los mensajes con un emoji que tenga que ver con el comentario o con una respuesta breve, cuando puedas."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Send this message to the group admin volunteers."
+msgstr "Mándale este mensaje a las personas que se ofrecieron como admins del grupo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "FAQ"
 msgstr "Preguntas Frecuentes"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Chat session prompts for new group admin"
+msgstr "Frases para instigar un nuevo admin de grupo en el chat"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After your call with the new group admin, you can share these prompts to support them with leading the chat sessions."
+msgstr "Tras tu llamada con el nuevo admin del grupo, puedes compartirle estas indicaciones para ayudarle a dirigir las sesiones de chat."
+
+#. type=data_list
+#. The string @global.programme_name should not be translated.
+msgctxt "data_list"
+msgid "🎉Let us celebrate our successes! What was something positive you experienced when you tried one of the @global.programme_name skills with your boy or girl?"
+msgstr "🎉 ¡Celebremos nuestros éxitos! ¿Experimentaste algo positivo al probar una de las habilidades de @global.programme_name con tu niña, niño o adolescente? Cuéntanos sobre ello."
+
+#. type=data_list
+#. The string @global.programme_name should not be translated.
+msgctxt "data_list"
+msgid "🌱Trying out new skills can be hard at first. What was something *difficult* that you experienced when you tried a @global.programme_name skill with your boy or girl at home?"
+msgstr "🌱 Probar habilidades nuevas puede ser difícil al principio. ¿Qué dificultades experimentaste al probar una de las habilidades de @global.programme_name con tu niña, niño o adolescente en casa?"
+
+#. type=data_list
+#. The string @global.programme_name should not be translated.
+msgctxt "data_list"
+msgid "💙You are welcome to use this WhatsApp space to share any questions or experiences you have on your @global.programme_name journey. Remember, I may not always be able to respond, but this is our group – *together we can find all the answers we need*!"
+msgstr "💙 Te invito a utilizar este espacio de WhatsApp para compartir cualquier pregunta o experiencia que tengas durante tu recorrido por @global.programme_name. Recuerda que no siempre podré responder, pero este es nuestro grupo: *¡podemos encontrar todas las respuestas que necesitamos si no unimos y trabajamos como equipo!*"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "No one volunteered to be group admin"
+msgstr "Nadie se ofreció para ser admin del grupo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It may be difficult to find volunteers to become group admin. If no one volunteers to lead the group, you can send the message below to close the group. \n"
+"\n"
+"Wait a couple days before closing because someone might still volunteer!"
+msgstr ""
+"Puede ser difícil encontrar personas que quieran ser admins del grupo. Si nadie se ofrece para dirigir el grupo, puedes enviar el siguiente mensaje para sacar a los participantes y eliminar el grupo. \n"
+"\n"
+"¡Espera un par de días antes de eliminarlo porque puede que alguien se ofrezca como voluntaria o voluntario!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Alternate Closing Message"
 msgstr "Mensaje de Cierre Alternativo"
+
+#. type=data_list
+#. The string @global.programme_name should not be translated.
+msgctxt "data_list"
+msgid ""
+"Thank you for sharing your thoughts 💙\n"
+"\n"
+"Since we don’t have any volunteers for group admin, I will be closing this WhatsApp Support Group at the end of the Programme. \n"
+"\n"
+"Remember, you can still continue your @global.programme_name journey with your family!"
+msgstr ""
+"Gracias por compartir sus pensamientos 💙\n"
+"\n"
+"Como no tenemos a alguien que pueda ser admin del grupo, cerraré este Grupo de Apoyo de WhatsApp al finalizar el Programa. \n"
+"\n"
+"¡Recuerda que aún puedes continuar el viaje de @global.programme_name con tu familia!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3168,8 +3392,18 @@ msgstr "No tuve el tiempo suficiente para pasar Tiempo Uno a Uno."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "✨Thank you for sharing. It can be hard to find time, especially when you have work, chores, and other responsibilities to do.🙂 You could try finding a chore to do together."
+msgstr "✨ Gracias por compartirlo. Puede ser difícil encontrar tiempo, sobre todo cuando tienes trabajo, cosas que hacer en la casa y otras responsabilidades. 🙂 Tal vez puedas encontrar una tarea del hogar que puedan hacer entre ustedes para aprovechar su tiempo a solas."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "My girl, boy or teen did not want to spend time with me."
 msgstr "Mi niña, niño o adolescente no quiso pasar tiempo conmigo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "✨Thank you for sharing. It feels sad when your boy, girl, or teen doesn't want to spend time with you. 🙂Try suggesting a fun activity to do together."
+msgstr "✨ Gracias por compartirlo. Es triste cuando tu niña, niño o adolescente no quiere pasar tiempo contigo. 🙂 Intenta sugerir una actividad divertida que puedan hacer en su tiempo uno a uno."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3178,8 +3412,28 @@ msgstr "Todo lo que mi niña, niño o adolescente quería hacer era ver la tele 
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"It can be tough when your teen, girl, or boy seems focused on watching TV or playing with a gadget all the time. ✨ \n"
+"\n"
+"To connect with them and understand their interests, try asking them to show you something cool on the gadget. \n"
+"\n"
+"It's a simple way to engage with their world and spend time together. 📺"
+msgstr ""
+"Puede ser difícil cuando tu niña, niño o adolescente parece enfocarse solamente en ver la tele o jugar con un aparato electrónico todo el tiempo. ✨ \n"
+"\n"
+"Para conectar con tu niña, niño o adolescente y comprender sus intereses, intenta pedirle que te enseñe algo padre o divertido en su aparato electrónico. \n"
+"\n"
+"Es una forma sencilla de relacionarte con su mundo y pasar tiempo con ella o él. 📺"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "My boy, girl, or teen did not want one-on-one time to end."
 msgstr "Mi niña, niño o  adolescente no quería que terminara el Tiempo Uno a Uno."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I understand it can be tough when your girl, boy, or teen does not want one-on-one time to end.✨\r\rTo make things smoother, try being clear about how much time you have together and give a gentle warning when the time is about to end. ⏰"
+msgstr "Entiendo que puede ser difícil cuando tu niña, niño o adolescente no quiere que termine el Tiempo Uno a Uno contigo. ✨\r\rPara facilitar la situación, intenta ser transparente y que quede claro cuánto tiempo va a poder pasar contigo y avísale, con gentileza, cuando el tiempo esté a punto de terminar. ⏰"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3188,8 +3442,41 @@ msgstr "Mi niña, niño o  adolescente quería hacer actividades que yo no podí
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"I can imagine it's challenging when your girl, boy, or teen wants to do activities that you find difficult. ✨\n"
+"\n"
+"A simple solution is to ask your boy, girl, or teen if you can join in by watching.  \n"
+"\n"
+"This way, you're still involved and supportive, even if you can't participate directly. 🤝"
+msgstr ""
+"Me imagino que es un reto cuando tu niña, niño o adolescente quiere hacer actividades que a ti te parecen complicadas. ✨\n"
+"\n"
+"Una solución sencilla es preguntarle a tu niña, niño o adolescente si puedes participar observando.  \n"
+"\n"
+"De esta manera, sigues involucrándote y apoyándole aunque no puedas participar directamente. 🤝"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Praising your girl, boy, or teen"
 msgstr "Reconocer y halagar a tu niña, niño o adolescente"
+
+#. type=data_list
+#. The string @global.programme_name should not be translated.
+msgctxt "data_list"
+msgid ""
+"It is normal for caregivers to feel uncomfortable or have challenges when praising their boys, girls, and teens. They may at first think that praise will either inflate their girls, boys, or teens or is not part of what they were taught. \n"
+"\n"
+"It is important to remember that there are many different ways to praise boys, girls, and teens. @global.programme_name focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the girl, boy, or teen! With practice it will become easier and more comfortable.\n"
+"\n"
+"Here are some common challenges and possible solutions for praising your girl, boy, or teen. \n"
+"\rYou can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Es normal que a las madres, los padres y las personas cuidadoras les incomode o les resulte difícil halagar a sus niñas, niños y adolescentes. Al principio, puede que piensen que el halago hará que sus niñas, niños o adolescentes se crean mucho o que les infle el ego o que, simplemente, no es algo que sepan hacer. \n"
+"\n"
+"Es importante recordar que hay muchas formas distintas de reconocer y halagar a las niñas, niños y adolescentes. @global.programme_name se centra principalmente en el halago como método para reforzar el comportamiento positivo. Lo que se reconoce y se halaga es el comportamiento más que a la niña, el niño o el adolescente. Con el tiempo y la práctica, se les hará más fácil y se sentirán bien haciéndolo.\n"
+"\n"
+"Aquí tienes algunos desafíos comunes y posibles soluciones para halagar a tu niña, niño o adolescente. \n"
+"\rPuedes compartir los siguientes mensajes como respuestas durante tu sesión de chat semanal cuando las madres, los padres o las personas cuidadoras compartan sus retos con este tema."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3257,6 +3544,18 @@ msgstr ""
 msgctxt "data_list"
 msgid "Talking about feelings"
 msgstr "Hablar sobre emociones y sentimientos"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It is completely normal for parents to have difficulty talking about and expressing emotions and feelings. Parents may be trying to recognise their emotions and communicate about them for the first time here. With practice it will become easier and more comfortable.\n"
+"\n"
+"Here are some common challenges and possible solutions for talking about feelings. \n"
+"\rYou can share the following messages as responses during your chat session when parents share challenges with this topic."
+msgstr ""
+"Es completamente normal que las madres, los padres y las personas cuidadoras tengan dificultades para hablar y expresar sus emociones y sentimientos. Puede que sea la primera vez que estén intentando identificar y comunicar sus emociones. Con el tiempo y la práctica, se les hará más fácil y se sentirán bien haciéndolo.\n"
+"\n"
+"Aquí tienes algunos desafíos comunes y posibles soluciones relacionadas con hablar sobre emociones y sentimientos \r\rPuedes mandar los siguientes mensajes como respuestas durante tus sesiones de chat cuando las madres, los padres y las personas cuidadoras compartan sus dificultades con este tema."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3378,6 +3677,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Parents should be the one setting the rule, not the girl, boy, or teen."
+msgstr "La madre, el padre o la persona cuidadora debe de ser quien establezca la regla, no las niñas, niños o adolescentes."
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "When we establish rules together with our\n"
 "children, that helps the family to understand each other better.\n"
@@ -3427,6 +3731,11 @@ msgstr "No pudimos seguir la rutina"
 msgctxt "data_list"
 msgid "Make sure you have a routine that can be kept easily. For example, try having one meal together every week instead of every night."
 msgstr "Asegúrate de tener una rutina que se pueda mantener fácilmente. Por ejemplo, intenten comer juntos una vez a la semana en vez de todas las noches."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Supporting girl, boy, or teen’s learning"
+msgstr "Apoyar el Aprendizaje de Mi Niña, Niño o Adolescente"
 
 #. type=data_list
 msgctxt "data_list"
