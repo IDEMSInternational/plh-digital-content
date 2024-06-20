@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-19 19:17\n"
+"PO-Revision-Date: 2024-06-20 01:16\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -4411,6 +4411,47 @@ msgstr "Has abierto la aplicación con opciones de desarrollador de manera exito
 msgctxt "template"
 msgid "You have entered an incorrect code."
 msgstr "Has ingresado un código incorrecto."
+
+#. type=template
+msgctxt "template"
+msgid "Import user"
+msgstr "Importar usuario"
+
+#. type=template
+msgctxt "template"
+msgid "Facilitator ID"
+msgstr "Número de Identificación de la Persona Facilitadora"
+
+#. type=template
+#. The string @local.facilitator_id should not be translated.
+msgctxt "template"
+msgid "Paste the @local.facilitator_id of a user to import their account data."
+msgstr "Pega la @local.facilitator_id de un usuario para importar los datos de su cuenta."
+
+#. type=template
+msgctxt "template"
+msgid "Import data"
+msgstr "Importar datos"
+
+#. type=template
+msgctxt "template"
+msgid "Validation"
+msgstr "Validación"
+
+#. type=template
+msgctxt "template"
+msgid "User name (on the current account)"
+msgstr "Nombre de usuario (en la cuenta actual)"
+
+#. type=template
+msgctxt "template"
+msgid "Clear user name"
+msgstr "Borrar el nombre de usuario"
+
+#. type=template
+msgctxt "template"
+msgid "If you had set a user name on your old account and the data was imported succesfully, the user name above should update."
+msgstr "Si configuraste un nombre de usuario en tu cuenta anterior y los datos se importaron correctamente, el nombre de usuario anterior debería de actualizarse."
 
 #. type=template
 msgctxt "template"
