@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-20 21:19\n"
+"PO-Revision-Date: 2024-06-21 20:59\n"
 
 #. type=text
 msgctxt "text"
@@ -1288,6 +1288,11 @@ msgstr "Cuidar del bienestar de tu adolescente y del tuyo es muy importante. Aun
 
 #. type=text
 msgctxt "text"
+msgid "How is talking with your teen about their feelings going? "
+msgstr "¿Cómo vas con tratar de platicar con tu adolescente sobre sus sentimientos? "
+
+#. type=text
+msgctxt "text"
 msgid "Previously you said that your teen refusing to obey instructions was the most challenging behaviour for you."
 msgstr "Anteriormente, nos dijiste que el hecho de que tu adolescente no obedezca las instrucciones es lo que más representa un reto para ti."
 
@@ -1832,6 +1837,12 @@ msgstr "👀 También puedes usar cualquier cosa que tenga imágenes para intera
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "😃 If possible, identify a library near your community: these places usually offer a wide selection of books for girls and boys of all ages. Visiting the library can be a fantastic activity for @fields.child_nickname and you."
+msgstr "😃 Si es posible, identifica una biblioteca cerca de tu comunidad: estos lugares suelen ofrecer una amplia selección de libros para niñas y niños de todas las edades. Ir a la biblioteca puede ser una actividad fantástica para @fields.child_nickname y para ti."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "💛 Remember that the most important thing is to foster a love for reading and learning in @fields.child_nickname, and there are many creative ways to do so even without having physical books at home!"
 msgstr "💛 Recuerda que lo más importante es fomentar el amor por la lectura y el aprendizaje en @fields.child_nickname. ¡Existen muchas formas creativas de hacerlo incluso sin tener libros físicos en casa!"
 
@@ -1844,6 +1855,11 @@ msgstr "📖 Escribe {BOOK} para recibir un libro electrónico que puedes leer c
 msgctxt "text"
 msgid "👀 You can also use anything that has pictures to interact with your {child} - magazines, newspapers, and even signs."
 msgstr "👀 También puedes usar cualquier cosa que tenga imágenes para interactuar con tu {child}: revistas, periódicos e incluso anuncios y letreros."
+
+#. type=text
+msgctxt "text"
+msgid "😃 If possible, identify a library near your community: these places usually offer a wide selection of books for girls and boys of all ages. Visiting the library can be a fantastic activity for your {child} and you."
+msgstr "😃 Si es posible, identifica una biblioteca cerca de tu comunidad: estos lugares suelen ofrecer una amplia selección de libros para niñas y niños de todas las edades. Ir a la biblioteca puede ser una actividad fantástica para tu {child} y para ti."
 
 #. type=text
 msgctxt "text"
@@ -2123,6 +2139,21 @@ msgid "🌱 It is normal to sometimes get angry at our girls and boys when they 
 msgstr "🌱 Es normal que a veces nos enojemos con nuestras niñas y niños cuando se portan mal, sobre todo cuando nos sacan el tapón."
 
 #. type=text
+msgctxt "text"
+msgid "⏸ Next time, when you are overwhelmed or angry, take a deep breath. If needed, walk away from the situation before you react. "
+msgstr "⏸ La próxima vez que sientas enojo o que ya no puedes más con la situación, respira profundo. Si es necesario, aléjate de la situación antes de reaccionar. "
+
+#. type=text
+msgctxt "text"
+msgid "Remember, your girl or boy's behaviour isn’t meant to hurt you. As girls and boys, it's normal for them to explore their limits. "
+msgstr "Recuerda que el comportamiento de tu niña o niño no tiene el objetivo de hacerte daño. Durante la niñez, es normal que exploren para ver hasta dónde llegan sus límites. "
+
+#. type=text
+msgctxt "text"
+msgid "Later, find something small and clear that your girl or boy is doing and you wish they could do more of. Then, praise them when they do it. "
+msgstr "Después, identifica algo sencillo y concreto que tu niña o niño esté haciendo y que te gustaría que hiciera más seguido. Luego, halágale cuando repita esa acción. "
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "☀️ Later, find something small and clear that @fields.child_nickname is doing and you wish they could do more of. Then, praise them when they do it."
@@ -2191,6 +2222,11 @@ msgstr "🌷 A veces, @fields.child_nickname se molestará al recibir una consec
 msgctxt "text"
 msgid "✨ ✨ Give yourself and @fields.child_nickname some space to calm down."
 msgstr "✨ Dense un poco de espacio, @fields.child_nickname y tú, para que se puedan tranquilizar."
+
+#. type=text
+msgctxt "text"
+msgid "☀️ Make sure that your girl or boy knows the household rules and what are the consequences for not following them in advance."
+msgstr "☀️ Asegúrate de que tu niña o niño conoce, de antemano, las reglas de la casa y cuáles son las consecuencias de no seguirlas."
 
 #. type=text
 msgctxt "text"
@@ -2540,6 +2576,16 @@ msgid "Thank you for providing your Progress Update. You can access this informa
 msgstr "Gracias por proporcionar una Actualización de Avances. Puedes acceder a esta información en el Menú Principal en cualquier momento. 📝 Si ya tienes la inscripción del un curso, mañana podrás reanudar tus avances. "
 
 #. type=text
+msgctxt "text"
+msgid "Excellent! Keep up the good work of supporting your girl or boy's learning."
+msgstr "¡Excelente! Sigue así, apoyando el aprendizaje de tu niña o niño."
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry to hear that you are struggling to support your girl or boy's learning."
+msgstr "Lamentamos escuchar que tienes dificultades para apoyar el aprendizaje o las actividades académicas de tu niña o niño."
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It can be hard to make time to help @fields.child_nickname learn. But it is never too late to start preparing @fields.child_nickname for success in school.  ⏰"
@@ -2584,9 +2630,36 @@ msgid "You were already excelling at preparing your {child} for success in schoo
 msgstr "Antes de Crianza con Conciencia + ya destacabas por apoyar a tu {child} en su aprendizaje. 🎈 ¡Es increíble que puedas mantener ese gran esfuerzo!"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Helping @fields.child_nickname prepare for success in school is important. Though you are still doing well, you have reported that this has become more challenging since you first began this course. Remember, learning takes time, and every child develops at their own pace. 💛"
+msgstr "Apoyar a @fields.child_nickname en su aprendizaje es importante. Aunque vas muy bien, has reportado que esto se ha vuelto cada vez más difícil desde que empezaste este curso. Recuerda que el aprendizaje lleva su tiempo y que cada niña o niño se desarrolla a su propio ritmo. 💛"
+
+#. type=text
+msgctxt "text"
+msgid "Helping your {child} prepare for success in school is important. Though you are still doing well, you have reported that this has become more challenging since you first began this course. Remember, learning takes time, and every child develops at their own pace. 💛"
+msgstr "Apoyar a tu {child} en su aprendizaje es importante. Aunque vas muy bien, has reportado que esto se ha vuelto cada vez más difícil desde que empezaste este curso. Recuerda que el aprendizaje lleva su tiempo y que cada niña o niño se desarrolla a su propio ritmo. 💛"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "How is involving @fields.child_nickname in an activity to learn going?"
+msgstr "¿Cómo vas con tratar de involucrar a @fields.child_nickname en actividades para apoyar su aprendizaje?"
+
+#. type=text
+msgctxt "text"
+msgid "How is involving your {child} in an activity to learn going?"
+msgstr "¿Cómo vas con tratar de involucrar a tu {child} en actividades para apoyar su aprendizaje?"
+
+#. type=text
 msgctxt "text"
 msgid "Well done for completing your course, Creating Structure and Boundaries with My Girls and Boys. Let’s see how things may have changed since you started this course:"
 msgstr "Bien hecho por completar tu curso, Crear Estructuras y Establecer Límites con Mi Niña o Niño. Veamos cómo han cambiado las cosas desde que empezaste con este curso:"
+
+#. type=text
+msgctxt "text"
+msgid "😔 It can be challenging to set and follow household rules. Try again with an easy rule. Having structure at home will help your girl or boy learn to be independent and responsible in the future. You can find more specific support in {structure resources}."
+msgstr "😔 Establecer y seguir las reglas del hogar puede ser un verdadero reto. Inténtalo de nuevo con una regla más fácil de seguir. Tener una estructura en casa ayudará a tu niña o niño a aprender a ser independiente y más responsable en el futuro. Puedes encontrar recursos de apoyo más específicos en {structure resources}."
 
 #. type=text
 msgctxt "text"
@@ -2597,6 +2670,16 @@ msgstr "😔 Establecer y mantener las reglas de la casa puede ser una actividad
 msgctxt "text"
 msgid "🎈 Congratulations on making some progress. It seems like it is still difficult to make sure your girl or boy is following household rules. Keep trying!"
 msgstr "🎈 Felicidades por tus avances. Parece que asegurarte de que tu niña o niño siga las reglas de la casa sigue representando un reto para ti. ¡No dejes de intentarlo!"
+
+#. type=text
+msgctxt "text"
+msgid "💛 You were already excelling at helping your girl or boy obey household rules before ParentText. It’s great that you’re able to keep up the excellent effort!"
+msgstr "💛 Antes de Crianza con Conciencia + ya destacabas por ayudar a tu niña o niño a obedecer las reglas de la casa. ¡Es increíble que puedas seguir con ese gran esfuerzo!"
+
+#. type=text
+msgctxt "text"
+msgid "Congratulations! 🎉 You’ve made progress course since you’ve started ParentText. Your effort is working!"
+msgstr "¡Felicidades! 🎉 Has avanzado mucho desde que empezaste el curso de Crianza con Conciencia +. ¡Tus esfuerzos están dando resultados!"
 
 #. type=text
 msgctxt "text"
@@ -2658,6 +2741,11 @@ msgstr "Es normal que nos cueste un poco de trabajo guiar el comportamiento de n
 
 #. type=text
 msgctxt "text"
+msgid "You can find more support here: {structure resources}"
+msgstr "Puedes encontrar más recursos de apoyo aquí: {structure resources}"
+
+#. type=text
+msgctxt "text"
 msgid "It’s normal to find it hard to help our girls and boys manage their behaviour. Consistency is the key, keep caring and supporting them while they are learning. 💙"
 msgstr "Es normal que nos cueste un poco de trabajo guiar el comportamiento de nuestras niñas y niños. La constancia es la clave, sigue cuidándoles y apoyándoles mientras aprenden. 💙"
 
@@ -2671,6 +2759,17 @@ msgstr "Es estupendo que @fields.child_nickname siga portándose bien. ¡Mantén
 msgctxt "text"
 msgid "It’s great that your {child} continues to behave well. Keep up the excellent effort and stay consistent!"
 msgstr "Es estupendo que tu {child} siga portándose bien. ¡Mantén este gran esfuerzo y sigue siendo constante!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It sounds like @fields.child_nickname tends to behave well, which is great to hear! Still, you have reported that this has become more challenging since you began this course. You can find more support here: {structure resources}"
+msgstr "Parece que @fields.child_nickname tiende a portarse bien, ¡lo cual es estupendo! Aun así, has reportado que se ha vuelto cada vez más difícil desde que empezaste este curso. Puedes encontrar más recursos de apoyo aquí: {structure resources}"
+
+#. type=text
+msgctxt "text"
+msgid "It sounds like your {child} tends to behave well, which is great to hear! Still, you have reported that this has become more challenging since you began this course. You can find more support here: {structure resources}"
+msgstr "Parece que tu {child} tiende a portarse bien, ¡lo cual es estupendo! Aun así, has reportado que se ha vuelto cada vez más difícil desde que empezaste este curso. Puedes encontrar más recursos de apoyo aquí: {structure resources}"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -2975,6 +3074,11 @@ msgstr "Anteriormente, nos dijiste que la conducta de burlarse y molestar a las 
 
 #. type=text
 msgctxt "text"
+msgid "Learning how to manage our stress is the first step to providing the best support for our children. Let’s check in on you first:"
+msgstr "Aprender a manejar nuestro estrés es el primer paso para poder ofrecerles el mejor apoyo a nuestras niñas y niños. Primero vamos a ver cómo estás tú:"
+
+#. type=text
+msgctxt "text"
 msgid "Do you feel overwhelmed by the responsibility of being a parent? 😔"
 msgstr "¿Te sientes abrumado por la responsabilidad de ser madre, padre o cuidador? 😔"
 
@@ -2987,6 +3091,91 @@ msgstr "¡Es bueno escucharlo! 🎉"
 msgctxt "text"
 msgid "That is okay. We will learn more about taking time for ourselves today. "
 msgstr "Eso está bien. Hoy aprenderemos más sobre cómo tomarnos tiempo para nosotros mismos. "
+
+#. type=text
+msgctxt "text"
+msgid "Before we get started on your course to have a healthy relationship with your partner, please answer this question:"
+msgstr "Antes de que empecemos el curso para aprender sobre la responsabilidad y el involucramiento en la crianza compartida, responde a esta pregunta:"
+
+#. type=text
+msgctxt "text"
+msgid "Do you and your partner share caregiving and household tasks equally? ⏰"
+msgstr "¿Tu pareja y tú comparten el cuidado y las tareas del hogar equitativamente? ⏰"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for your answer. To have a healthy relationship, it is important that both share responsibilities at home. This course will help you learn more about the importance of sharing caregiving and household tasks."
+msgstr "Gracias por tu respuesta. Para tener una relación sana, es importante que todas las personas involucradas compartan las responsabilidades de la casa. Este curso te ayudará a aprender más sobre la importancia de compartir los cuidados y las tareas del hogar."
+
+#. type=text
+msgctxt "text"
+msgid "That’s great to hear! Sharing tasks and family care equally helps everyone feel valued."
+msgstr "¡Qué gusto escuchar esto! Compartir las tareas del hogar y los cuidados familiares de manera equitativa ayuda a que todas las personas involucradas en la crianza se sientan valoradas."
+
+#. type=text
+msgctxt "text"
+msgid "What did you find difficult about sharing tasks equally?"
+msgstr "¿Qué ha sido lo más difícil a la hora de dividirse las actividades diarias y el quehacer de manera equitativa?"
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Ask them! Telling your partner you want to help but don’t know how shows them you care and want to be involved."
+msgstr "🌱 ¡Dile! Decirle a tu pareja que quieres ayudar pero que no sabes cómo, le demuestra que te importa y que te quieres involucrar."
+
+#. type=text
+msgctxt "text"
+msgid "⏰ Try creating a routine. Planning when to do household tasks or ways to share caregiving can be a helpful reminder."
+msgstr "⏰ Intenta crear una rutina. Planear cuándo hacer las tareas del hogar o cómo compartir los cuidados y la crianza puede servir como recordatorio de todas las cosas que se tienen que hacer."
+
+#. type=text
+msgctxt "text"
+msgid "🔑 Once you start sharing tasks more often - it will get easier to remember."
+msgstr "🔑 Una vez que empiecen a compartir la carga de actividades, les será más fácil acordarse de lo que tiene que hacer cada quién."
+
+#. type=text
+msgctxt "text"
+msgid "🔑 It can be hard to ask for support. Sometimes, we expect our partners to know we need support even if we don’t ask them. "
+msgstr "🔑 Pedir ayuda no siempre es fácil. A veces, esperamos que nuestras parejas sepan que necesitamos apoyo aunque no se los pidamos. "
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Once you start telling them, they’ll be more likely to get involved in household responsibilities again in the future."
+msgstr "🌱 Una vez que empieces a pedir apoyo, será más probable que vuelvan a involucrarse en las responsabilidades del hogar en el futuro."
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Finding time to support and asking for help can be hard."
+msgstr "🌱 Encontrar tiempo para ayudar y saber pedir ayuda puede ser difícil."
+
+#. type=text
+msgctxt "text"
+msgid "⏰ Can you think of a time when you’re less busy? For example, it may be easier to do and share the chores later at night when some of the girls and boys are asleep."
+msgstr "⏰ ¿Se te ocurre algún momento del día en el que no tengas tanto que hacer? Por ejemplo, puede ser más fácil hacer y repartir las tareas del hogar más tarde por la noche, cuando algunas de las niñas y los niños ya estén por dormir."
+
+#. type=text
+msgctxt "text"
+msgid "⭐ Be kind to yourself - trying something new is often hard at first."
+msgstr "⭐ Sé amable contigo. Empezar con algo nuevo suele ser difícil al principio."
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Give yourself time to adjust. "
+msgstr "🌱 Date tiempo para adaptarte. "
+
+#. type=text
+msgctxt "text"
+msgid "💡 Remember that sharing caregiving and household chores responsibilities benefits the whole family!"
+msgstr "💡 ¡Recuerda que compartir las responsabilidades del cuidado y las tareas del hogar beneficia a toda la familia!"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry to hear that your partner did not react positively. "
+msgstr "Lamento escuchar que tu pareja no reaccionó positivamente. "
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Be proud of yourself for trying and be gentle with yourself."
+msgstr "🌱 Siente orgullo por intentarlo y sé amable contigo."
 
 #. type=text
 msgctxt "text"
@@ -3010,8 +3199,53 @@ msgstr "Eso está bien. Ser padre puede ser difícil. Por favor, recuerda hacer 
 
 #. type=text
 msgctxt "text"
+msgid "Type {HELP} for information about places that can support you."
+msgstr "Escribe {HELP} para obtener información sobre los sitios que te puede brindar apoyo."
+
+#. type=text
+msgctxt "text"
+msgid "Congratulations on making some progress. Still, it seems like parenting is overwhelming. That is okay. Parenting can be difficult. Please remember to take a pause and ask for help when you need it. 💛"
+msgstr "Felicidades por tu progreso en este curso. Sin embargo, parece que la crianza y las actividades relacionadas con ella han sido abrumadoras. Y, eso está bien; la crianza y las responsabilidades que conlleva pueden ser lago difícil de sobrellevar. Por favor, acuérdate de hacer una pausa y pedir ayuda cuando la necesites. 💛"
+
+#. type=text
+msgctxt "text"
 msgid "Thank you for providing a progress update."
 msgstr "Gracias por proporcionar una actualización del progreso."
+
+#. type=text
+msgctxt "text"
+msgid "You have completed the course on having a healthy relationship with your partner. It’s time to check in on your progress. We want to know:"
+msgstr "Has completado el curso sobre responsabilidad e involucramiento en la crianza compartida. Es hora de ver cómo vas y qué tanto has avanzado. Queremos saber:"
+
+#. type=text
+msgctxt "text"
+msgid "Start by thinking in small steps. It is normal to have challenges when trying to change the way responsibilities are shared in the household. Talk about it and see how little by little everyone is taking charge of some task."
+msgstr "Empieza por pensar en pasos cortos y simples. Es normal tener dificultades cuando se intenta cambiar la forma en que se reparten las responsabilidades en el hogar. Platíquenlo seguido y observen cómo, poco a poco, cada quién se va haciendo cargo de alguna tarea."
+
+#. type=text
+msgctxt "text"
+msgid "Change takes time. It is normal to have challenges when trying to change the way responsibilities are shared in the household. Talk about it and see how little by little everyone is taking charge of some task."
+msgstr "Cualquier cambio lleva su tiempo Es normal tener dificultades cuando se intenta cambiar la forma en que se reparten las responsabilidades en el hogar. Platíquenlo seguido y observen cómo, poco a poco, cada quién se va haciendo cargo de alguna tarea."
+
+#. type=text
+msgctxt "text"
+msgid "Good job on making some progress. Still, it seems like sharing responsibilities is still a challenge. When the couple divides household chores and childcare, it reduces stress on the family and leaves them time to enjoy other activities."
+msgstr "Felicidades por tu progreso en este curso. Sin embargo, parece que el reparto de responsabilidades sigue siendo un desafío. Cuando las personas encargadas de la crianza compartida se reparten las tareas del hogar y el cuidado de las niñas y los niños, se reduce el estrés de la familia y les da más tiempo para disfrutar de otras actividades."
+
+#. type=text
+msgctxt "text"
+msgid "You were already excelling at sharing parenting responsibilities before ParentText. It’s great that you’re able to keep up the excellent effort!"
+msgstr "Antes de Crianza con Conciencia + ya destacabas por compartir las responsabilidades de la crianza. ¡Es increíble que puedas mantener ese gran esfuerzo!"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for providing your progress update. You can revisit this course again from the Main Menu by typing {MENU} 📝. If you are enrolled in a course, you will resume progress tomorrow."
+msgstr "Gracias por brindar una actualización de tu progreso. Puedes volver a visitar este curso en el Menú Principal al escribir {MENU}. 📝 Si ya tienes la inscripción para algún otro curso, podrás reanudar tus actividades el día de mañana."
+
+#. type=text
+msgctxt "text"
+msgid "How is sharing tasks going? "
+msgstr "¿Cómo vas con el reparto de actividades y tareas del hogar? "
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -3245,7 +3479,19 @@ msgstr "Sentía demasiado estrés o enojo como para compartir mis emociones; pre
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "I was angry that my teen had not told me these things before."
-msgstr "Me enojé porque mi adolescente no me contó esas cosas antes."
+msgstr "Me enojé porque mi adolescente no me había contado esas cosas."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "When my teen told me about a situation, I did not agree with how they had handled it."
+msgstr "Cuando mi adolescente me contaba cosas, generalmente, yo no estaba de acuerdo con cómo las había manejado en su momento."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "My teen told me I was the problem."
+msgstr "Mi adolescente me dijo que yo era el problema."
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -3456,6 +3702,42 @@ msgstr "Mi familia no quiso hacer el presupuesto conmigo."
 msgctxt "quick_replies"
 msgid "I did not have the time to talk about budgeting with my family."
 msgstr "No tuve tiempo para hablar del presupuesto con mi familia."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I didn’t know how to support my partner"
+msgstr "No supe cómo apoyar a mi pareja."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I forgot to share the tasks equally or get involved"
+msgstr "Olvidé repartir las tareas equitativamente o involucrarme en las actividades."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I forgot to ask for support"
+msgstr "Olvidé pedir ayuda."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I didn’t have the time to ask or give support"
+msgstr "No tuve tiempo de pedir o dar apoyo."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I felt uncomfortable doing tasks I don’t normally do"
+msgstr "Sentí incomodidad al hacer las actividades que normalmente no hago."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I asked my partner for help, but they refused."
+msgstr "Le pedí ayuda a mi pareja, pero se negó."
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -3724,6 +4006,48 @@ msgstr "no tuve tiempo de hacer esta actividad."
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "my teen refused to share their emotions."
+msgstr "mi adolescente no quiso compartir sus emociones."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "when i shared my own emotions, it felt uncomfortable for one of both of us."
+msgstr "cuando compartí mis propias emociones, fue muy incómodo para mi adolescente o para mí."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i was afraid my teen might think i am weak for sharing my own emotions. 😔"
+msgstr "tuve miedo de que mi adolescente pensara que soy débil por hablar sobre mis emociones. 😔"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i was too stressed or angry to share my emotions – i prefer to be alone when i feel like that."
+msgstr "sentía demasiado estrés o enojo como para compartir mis emociones; prefiero la soledad cuando me siento así."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i was angry that my teen had not told me these things before."
+msgstr "me enojé porque mi adolescente no me había contado esas cosas."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "when my teen told me about a situation, i did not agree with how they had handled it."
+msgstr "cuando mi adolescente me contaba cosas, generalmente, yo no estaba de acuerdo con cómo las había manejado en su momento."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "my teen told me i was the problem."
+msgstr "mi adolescente me dijo que yo era el problema."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "get more help"
 msgstr "obtener más ayuda"
 
@@ -3930,4 +4254,40 @@ msgstr "mi familia no quiso hacer el presupuesto conmigo."
 msgctxt "arguments"
 msgid "i did not have the time to talk about budgeting with my family."
 msgstr "no tuve tiempo para hablar del presupuesto con mi familia."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i didn’t know how to support my partner"
+msgstr "no supe cómo apoyar a mi pareja."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i forgot to share the tasks equally or get involved"
+msgstr "olvidé repartir las tareas equitativamente o involucrarme en las actividades."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i forgot to ask for support"
+msgstr "olvidé pedir ayuda."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i didn’t have the time to ask or give support"
+msgstr "no tuve tiempo de pedir o dar apoyo."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i felt uncomfortable doing tasks i don’t normally do"
+msgstr "sentí incomodidad al hacer las actividades que normalmente no hago."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i asked my partner for help, but they refused."
+msgstr "le pedí ayuda a mi pareja, pero se negó."
 
