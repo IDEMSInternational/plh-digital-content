@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-20 21:16\n"
+"PO-Revision-Date: 2024-06-25 12:09\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -42,20 +42,19 @@ msgstr "Buen trabajo. Estás listo para empezar el primer curso. "
 
 #. type=text
 msgctxt "text"
-msgid "NA"
-msgstr "NA"
+msgid "You have seen all the courses "
+msgstr "Has visto todos los cursos "
+
+#. type=text
+msgctxt "text"
+msgid "You are so close to completing the programme! You only have one course left."
+msgstr "¡Estás muy cerca de terminar el programa! Solo te queda un curso."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@(text_slice(results.message_options,3))."
 msgstr "@(text_slice(results.message_options,3))."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "This programme has @fields.n_goals_prog courses, which one do you want to work on first?"
-msgstr "Este programa tiene @fields.n_goals_prog cursos, ¿cuál quieres hacer primero?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -70,29 +69,13 @@ msgstr "Disculpa, no entiendo a qué te refieres."
 
 #. type=text
 msgctxt "text"
-msgid "You have seen all the courses "
-msgstr "Has visto todos los cursos "
-
-#. type=text
-msgctxt "text"
-msgid "You are so close to completing the programme! You only have one course left."
-msgstr "¡Estás muy cerca de terminar el programa! Solo te queda un curso."
-
-#. type=text
-msgctxt "text"
-msgid "It’s time to pick a new parenting course! Which course would you like to complete next?"
-msgstr "¡Es hora de escoger un curso sobre crianza nuevo! ¿Qué curso te gustaría hacer ahora?"
-
-#. type=text
-msgctxt "text"
 msgid "You only have one course to start"
 msgstr "Solo te queda un curso por terminar"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?"
-msgstr "Completaste @fields.n_goals_completed de @fields.n_goals_prog cursos. ¿Qué curso te gustaría hacer a continuación?"
+msgid "NA"
+msgstr "NA"
 
 #. type=text
 msgctxt "text"
@@ -323,11 +306,6 @@ msgstr "Completar Crianza con Conciencia + es un logro importante. ¡Bien hecho!
 
 #. type=text
 msgctxt "text"
-msgid "🎉You did it!🎉 You have completed the course and earned yourself a certificate. Congratulations! "
-msgstr "🎉¡Lo lograste!🎉 Has completado el curso y te has ganado un reconocimiento. ¡Felicidades! "
-
-#. type=text
-msgctxt "text"
 msgid "Remember, if you need support practising the skills you learned, you can get extra help in Troubleshooting, found in the Main Menu. Just type {MENU}."
 msgstr "Recuerda, si necesitas ayuda para practicar las habilidades que has aprendido, puedes obtener ayuda adicional en la sección de Solución de Problemas que se encuentra en el Menú Principal. Solo tienes que mandar la palabra {MENU}."
 
@@ -350,11 +328,6 @@ msgstr "1. Sí"
 msgctxt "text"
 msgid "2. Remind me tomorrow"
 msgstr "2. Recuérdamelo mañana"
-
-#. type=text
-msgctxt "text"
-msgid "ParentText has begun. You are just 5 days away from earning your course certificate. Are you ready to complete your registration and get started?"
-msgstr "Crianza con Conciencia + ha comenzado. Estás a solo 5 días de obtener tu reconocimiento del curso. ¿Estás listo para completar tu registro y empezar?"
 
 #. type=text
 msgctxt "text"
@@ -503,8 +476,8 @@ msgstr "Para invitar a alguien a unirse, ¡comparte este link!"
 
 #. type=text
 msgctxt "text"
-msgid "**************"
-msgstr "**************"
+msgid "{insert link}"
+msgstr "{insert link}"
 
 #. type=text
 msgctxt "text"
@@ -1209,27 +1182,6 @@ msgctxt "text"
 msgid "*DAY @fields.curr_demo_day*"
 msgstr "*DÍA @fields.curr_demo_day*"
 
-#. type=text
-msgctxt "text"
-msgid "You completed the ParentText demo. Type RESET and then START to re-start from the beginning."
-msgstr "Has completado la demostración de Crianza con Conciencia +. Escribe REINICIAR y luego EMPEZAR para volver a empezar desde el principio."
-
-#. type=text
-msgctxt "text"
-msgid "🎉You did it! Congratulations!🎉 Thank you for participating!"
-msgstr "🎉 ¡Lo lograste! ¡Felicidades!🎉 ¡Gracias por tu participación!"
-
-#. type=text
-msgctxt "text"
-msgid "Completing this course was an important achievement. New courses might be available soon. As they become available, you'll receive a notification through this channel. "
-msgstr "¡Completar este curso fue un logro importante! Es posible que pronto haya nuevos cursos disponibles. Cuando así sea, recibirás una notificación a través de este canal. "
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "It takes only 5 days to complete the core course, @results.name and earn your parenting certificate. In June, more optional courses will become available!"
-msgstr "Solo se necesitan 5 días para completar el curso elemental, @results.name y obtener tu reconocimiento de crianza. En junio, ¡habrá más cursos opcionales disponibles!"
-
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
@@ -1449,6 +1401,24 @@ msgstr "Volver al Menú Principal"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Review and track my progress"
+msgstr "Revisar y seguir mi progreso"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my settings"
+msgstr "Cambiar mi configuración"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get help with an emergency"
+msgstr "Obtener ayuda en caso de emergencia"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Track my progress"
 msgstr "Seguir mi progreso"
 
@@ -1475,12 +1445,6 @@ msgstr "Cambiar mi perfil"
 msgctxt "quick_replies"
 msgid "Stop receiving the messages"
 msgstr "Dejar de recibir mensajes"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Change my language"
-msgstr "Cambiar mi idioma"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1517,36 +1481,6 @@ msgstr "Actualizar el nombre de mi niño o niña"
 msgctxt "quick_replies"
 msgid "Change my child's gender"
 msgstr "Cambiar el género de mi niño o niña"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Review and track my progress"
-msgstr "Revisar y seguir mi progreso"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Change my settings"
-msgstr "Cambiar mi configuración"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Invite a friend to enroll in Crianza con Conciencia +"
-msgstr "Invita a un amigo o amiga a inscribirse en Crianza con Conciencia +"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Get help with an emergency"
-msgstr "Obtener ayuda en caso de emergencia"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Watch a video about Crianza con Conciencia +"
-msgstr "Ver un video sobre Crianza con Conciencia +"
 
 #. type=variables
 msgctxt "variables"
@@ -1766,6 +1700,24 @@ msgstr "volver al menú principal"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "review and track my progress"
+msgstr "revisar y seguir mi progreso"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my settings"
+msgstr "cambiar mi configuración"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get help with an emergency"
+msgstr "obtener ayuda en caso de emergencia"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "track my progress"
 msgstr "seguir mi progreso"
 
@@ -1792,12 +1744,6 @@ msgstr "cambiar mi perfil"
 msgctxt "arguments"
 msgid "stop receiving the messages"
 msgstr "dejar de recibir mensajes"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "change my language"
-msgstr "cambiar mi idioma"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1834,36 +1780,6 @@ msgstr "actualizar el nombre de mi niño o niña"
 msgctxt "arguments"
 msgid "change my child's gender"
 msgstr "cambiar el género de mi niño o niña"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "review and track my progress"
-msgstr "revisar y seguir mi progreso"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "change my settings"
-msgstr "cambiar mi configuración"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "invite a friend to enroll in crianza con conciencia+"
-msgstr "invita a un amigo o amiga a inscribirse en Crianza con Conciencia +"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "get help with an emergency"
-msgstr "obtener ayuda en caso de emergencia"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "watch a video about crianza con conciencia+"
-msgstr "ver un video sobre Crianza con Conciencia +"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
