@@ -124,6 +124,11 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "Sorry, I dont' understand what you mean."
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "Welcome back to ParentText!"
 msgstr ""
 
@@ -201,7 +206,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Your user ID is @fields.research_id"
+msgid "Your research ID is @fields.research_id"
 msgstr ""
 
 #. type=text
@@ -217,11 +222,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Thank you for taking a pause with me today. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "{book resources}"
 msgstr ""
 
 #. type=quick_replies
@@ -311,13 +311,7 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Continue my course tomorrow."
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Continue my course now."
+msgid "Exit menu"
 msgstr ""
 
 #. type=quick_replies
@@ -396,12 +390,6 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "start"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "book"
 msgstr ""
 
 #. type=arguments
@@ -515,13 +503,7 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "continue my course tomorrow."
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "continue my course now."
+msgid "exit menu"
 msgstr ""
 
 #. type=arguments
@@ -552,22 +534,4 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "iniciar"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "familia"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "formando"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "afectiva"
 msgstr ""
