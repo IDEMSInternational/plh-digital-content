@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2024-05-17 00:19\n"
+"PO-Revision-Date: 2024-06-27 06:38\n"
 
 #. type=text
 msgctxt "text"
@@ -169,27 +169,27 @@ msgstr "Veranderlikes is teruggestel"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "When was @fields.child_nickname born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Wanneer is @fields.child_nickname gebore? Tik sy/haar geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+msgstr "Wanneer is @fields.child_nickname gebore? Tik sy/haar geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
 
 #. type=text
 msgctxt "text"
 msgid "When was your child born? Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Wanneer is jou kind gebore? Tik sy/haar geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+msgstr "Wanneer is jou kind gebore? Tik sy/haar geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
 
 #. type=text
 msgctxt "text"
 msgid "Sorry, this date is invalid. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Jammer, hierdie datum is ongeldig. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+msgstr "Jammer, hierdie datum is ongeldig. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
 
 #. type=text
 msgctxt "text"
 msgid "The date you entered is in the future. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Die datum wat jy ingevul het, is in die toekoms. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+msgstr "Die datum wat jy ingevul het, is in die toekoms. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
 
 #. type=text
 msgctxt "text"
 msgid "Let's try again. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Kom ons probeer weer. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+msgstr "Kom ons probeer weer. Verskaf asseblief jou kind se geboortedatum in die volgende formaat: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -219,13 +219,13 @@ msgstr "Jou tiener is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) 
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Volgens die datum wat jy verskaf het, sal @fields.child_nickname @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud wees. ParentText is slegs vir kinders van 2-17 jaar oud. Vul asseblief 'n geldige geboortedatum in die volgende formaat in: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+msgstr "Volgens die datum wat jy verskaf het, sal @fields.child_nickname @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud wees. ParentText is slegs vir kinders van 2-17 jaar oud. Vul asseblief 'n geldige geboortedatum in die volgende formaat in: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
-msgstr "Volgens die datum wat jy verskaf het, sal jou kind @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud wees. ParentText is slegs vir kinders van 2-17 jaar oud. Vul asseblief 'n geldige geboortedatum in die volgende formaat in: DD/MM/JJJJ. Byvoorbeeld: As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+msgstr "Volgens die datum wat jy verskaf het, sal jou kind @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud wees. ParentText is slegs vir kinders van 2-17 jaar oud. Vul asseblief 'n geldige geboortedatum in die volgende formaat in: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
 
 #. type=text
 msgctxt "text"
@@ -2029,7 +2029,7 @@ msgstr "Kry hulp met 'n ander uitdaging"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Return to the Main Menu"
-msgstr "Terug na die hoofkieslys"
+msgstr "Terug na die Hoofkieslys"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
