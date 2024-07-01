@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-28 20:26\n"
+"PO-Revision-Date: 2024-07-01 16:30\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -150,11 +150,6 @@ msgstr "{F2_GRANDFATHER}: Para las vacas, claro, ¡las mantendrá a salvo! "
 msgctxt "text"
 msgid "{F2_DAUGHTER_3}: Now you can help me build a house for our family to sleep in!"
 msgstr "{F2_DAUGHTER_3}: ¡Ahora me puedes ayudar a construir una casa para que nuestra familia pueda dormir!"
-
-#. type=text
-msgctxt "text"
-msgid "F2_GRANDFATHER: This house is going to keep our family warm and dry. You are such a good builder, {F2_DAUGHTER_3}!"
-msgstr "{F2_GRANDFATHER}: Esta casa nos va a mantener calientitos y secos. ¡Eres una constructora muy buena, {F2_DAUGHTER_3}!"
 
 #. type=text
 msgctxt "text"
@@ -755,7 +750,7 @@ msgstr "🎈 Explora sus respuestas repitiendo lo que ha dicho con tus propias p
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "💙 When @fields.child_nickname talks about the book or answers your questions about the book, respond positively and encourage them, even if they are wrong."
-msgstr "💙 Cuando @fields.child_nickname hable del libro o responda a tus preguntas sobre el mismo libro, contéstale positivamente y anímale, aun cuando se equivoque."
+msgstr "💙 Cuando @fields.child_nickname hable del libro o responda a tus preguntas sobre el mismo libro, contéstale positivamente y anímale, aún cuando se equivoque."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -771,7 +766,7 @@ msgstr "👀 Fíjate en lo que le interesa a tu {child} y hablen sobre eso. Ayú
 #. type=text
 msgctxt "text"
 msgid "💙 When your {child} talks about the book or answers your questions about the book, respond positively and encourage them, even if they are wrong."
-msgstr "💙 Cuando tu {child} hable del libro o responda a tus preguntas sobre el mismo libro, contéstale positivamente y anímale, aun cuando se equivoque."
+msgstr "💙 Cuando tu {child} hable del libro o responda a tus preguntas sobre el mismo libro, contéstale positivamente y anímale, aún cuando se equivoque."
 
 #. type=text
 msgctxt "text"
@@ -1038,11 +1033,6 @@ msgstr "3️⃣ **APRENDER CON FIGURAS GEOMÉTRICAS**"
 msgctxt "text"
 msgid "🔷 Help @fields.child_nickname learn about shapes! Shapes are everywhere, too, so find them and talk about them. You could even make them! 👀"
 msgstr "🔷 ¡Ayúdale a @fields.child_nickname a aprender sobre las figuras geométricas! Las figuras se pueden encontrar por todas partes al igual que los números, así que búscalas y habla de ellas. ¡Hasta las pueden hacer! 👀"
-
-#. type=text
-msgctxt "text"
-msgid "🔴 Help YourChild draw different shapes. "
-msgstr "🔴 Ayúdale a tu {child} a dibujar diferentes figuras. "
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1316,6 +1306,66 @@ msgstr "📖 ¡Puedes compartir libros con tu {child} en cualquier lugar! "
 msgctxt "text"
 msgid "⏰ Pick a time every day when you can share books with your {child}."
 msgstr "⏰ Escoge alguna hora del día en la que puedas compartir libros con tu {child}."
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **ASK QUESTIONS** "
+msgstr "2️⃣ **HACER PREGUNTAS** "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "📖 From the book cover, ask @fields.child_nickname what they think the story might be about. "
+msgstr "📖 Desde que estén viendo la portada del libro, pregúntale a @fields.child_nickname de qué cree que trate la historia. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "✨ If you have read a story many times, see if @fields.child_nickname knows what comes next! "
+msgstr "✨ Si ya han leído la misma historia varias veces, pregúntale a @fields.child_nickname qué sigue, ¡a ver si sabe lo que viene después! "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "👀 Describe what’s happening in a picture. Always use language that @fields.child_nickname can understand. "
+msgstr "👀 Describe lo que pasa en las imágenes. Siempre usa un lenguaje que @fields.child_nickname pueda entender. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "💡 Ask @fields.child_nickname to retell the story."
+msgstr "💡 Pídele a @fields.child_nickname que vuelva a contar la historia."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "⭐ Allow @fields.child_nickname to ask you questions about the story or the images."
+msgstr "⭐ Deja que @fields.child_nickname te haga preguntas sobre la historia o sobre las imágenes."
+
+#. type=text
+msgctxt "text"
+msgid "📖 From the book cover, ask your {child} what they think the story might be about. "
+msgstr "📖 Desde que estén viendo la portada del libro, pregúntale a tu {child} de qué cree que trate la historia. "
+
+#. type=text
+msgctxt "text"
+msgid "✨ If you have read a story many times, see if your {child} knows what comes next! "
+msgstr "✨ Si ya han leído la misma historia varias veces, pregúntale a tu {child} qué sigue, ¡a ver si sabe lo que viene después! "
+
+#. type=text
+msgctxt "text"
+msgid "👀 Describe what’s happening in a picture. Always use language that your {child} can understand. "
+msgstr "👀 Describe lo que pasa en las imágenes. Siempre usa un lenguaje que tu {child} pueda entender. "
+
+#. type=text
+msgctxt "text"
+msgid "💡 Ask your {child} to retell the story."
+msgstr "💡 Pídele a tu {child} que vuelva a contar la historia."
+
+#. type=text
+msgctxt "text"
+msgid "⭐ Allow your {child} to ask you questions about the story or the images."
+msgstr "⭐ Deja que tu {child} te haga preguntas sobre la historia o sobre las imágenes."
 
 #. type=text
 msgctxt "text"
@@ -1864,12 +1914,12 @@ msgstr "{F3_MOTHER}: Gracias por cocinar conmigo. ¡Me ayudas mucho! ¿Qué tien
 #. type=text
 msgctxt "text"
 msgid "{F3_SON_4}: pieces of corn!"
-msgstr "{F3_SON_4}: ¡elotes!"
+msgstr "{F3_SON_4}: ¡papas!"
 
 #. type=text
 msgctxt "text"
 msgid "{F3_MOTHER}: That’s right! pieces of corn! How many pieces of corn do you have?"
-msgstr "{F3_MOTHER}: ¡Así es! ¡Elotes! ¿Cuántos elotes tienes?"
+msgstr "{F3_MOTHER}: ¡Así es! ¡papas! ¿Cuántos papas tienes?"
 
 #. type=text
 msgctxt "text"
@@ -1879,12 +1929,12 @@ msgstr "{F3_SON_4}: ¡Cinco!"
 #. type=text
 msgctxt "text"
 msgid "{F3_MOTHER}: That’s right! One, two, three, four… five! Five pieces of corn!"
-msgstr "{F3_MOTHER}: ¡Eso! Uno, dos, tres, cuatro… ¡cinco! ¡Cinco elotes!"
+msgstr "{F3_MOTHER}: ¡Eso! Uno, dos, tres, cuatro… ¡cinco! ¡Cinco papas!"
 
 #. type=text
 msgctxt "text"
 msgid "{F3_MOTHER}: Can you give me two pieces of corn?"
-msgstr "{F3_MOTHER}: ¿Me puedes dar dos elotes, por favor?"
+msgstr "{F3_MOTHER}: ¿Me puedes dar dos papas, por favor?"
 
 #. type=text
 msgctxt "text"
@@ -1894,17 +1944,17 @@ msgstr "¡Así es! ¡Uno… dos…! "
 #. type=text
 msgctxt "text"
 msgid "How many pieces of corn are left?"
-msgstr "¿Cuántos elotes quedan?"
+msgstr "¿Cuántos papas quedan?"
 
 #. type=text
 msgctxt "text"
 msgid "{F3_MOTHER}: Is it difficult? Don’t worry, let’s count together! Let’s see… we had five, and you gave me two. Now there are one… two… three remaining! There are three pieces of corn left!"
-msgstr "{F3_MOTHER}: ¿Se te hace muy difícil? No te preocupes, ¡vamos a contar juntos! Veamos… teníamos cinco, y tú me diste dos. Ahora quedan una… dos… ¡tres! ¡Quedan tres elotes!"
+msgstr "{F3_MOTHER}: ¿Se te hace muy difícil? No te preocupes, ¡vamos a contar juntos! Veamos… teníamos cinco, y tú me diste dos. Ahora quedan una… dos… ¡tres! ¡Quedan tres papas!"
 
 #. type=text
 msgctxt "text"
 msgid "{F3_SON_4}: Three pieces of corn left!"
-msgstr "{F3_SON_4}: ¡Quedan tres elotes!"
+msgstr "{F3_SON_4}: ¡Quedan tres papas!"
 
 #. type=text
 msgctxt "text"
@@ -3111,7 +3161,7 @@ msgstr "{F2_GRANDMOTHER}: ¿Qué pasó, mi vida?"
 #. type=text
 msgctxt "text"
 msgid "{F2_SON_8}: I forgot to take my drawing supplies to school today."
-msgstr "{F2_SON_8}: Se me olvidaron mis materiales para dibujar en la escuela, los dejé en la casa."
+msgstr "{F2_SON_8}: Ay abue, lo que pasa es que no llevé mis materiales para dibujar a la escuela. Se  me olvidaron aquí en la casa."
 
 #. type=text
 msgctxt "text"
@@ -3318,7 +3368,7 @@ msgstr "¡Sesión completada! Has aprendido cómo ayudar a tu {child} a aprender
 #. type=text
 msgctxt "text"
 msgid "Today, we will learn how to manage stress. Because this is such an important life skill, we will continue it tomorrow, too."
-msgstr "Hoy aprenderemos a regular el estrés. Como se trata de una habilidad tan importante para la vida, continuaremos con el tema el día de mañana."
+msgstr "Hoy aprenderemos a regular el estrés. Como se trata de una habilidad tan importante para la vida, mañana también continuaremos aprendiendo sobre esto."
 
 #. type=text
 msgctxt "text"
@@ -3348,7 +3398,7 @@ msgstr "📝 Hagamos un ejercicio para ver qué tanto sabes sobre el estrés"
 #. type=text
 msgctxt "text"
 msgid "True or False: Too much stress can have a negative impact on our relationships with others, including our children."
-msgstr "Verdadero o Falso: El exceso estrés puede tener un impacto negativo en nuestras relaciones con los demás, incluidas nuestras niñas y niños."
+msgstr "Verdadero o Falso: El exceso de estrés puede tener un impacto negativo en nuestras relaciones con otras personas, incluidas nuestras niñas y niños."
 
 #. type=text
 msgctxt "text"
@@ -3358,7 +3408,7 @@ msgstr "El exceso de estrés puede aumentar las agresiones y la irritabilidad, a
 #. type=text
 msgctxt "text"
 msgid "It can also make it harder to get even the simple things done in your daily life."
-msgstr "También, puede hacer que parezca más difícil hacer hasta las cosas más sencillas de la vida cotidiana."
+msgstr "También, puede hacer que parezca más difícil hacer las cosas sencillas de la vida cotidiana."
 
 #. type=text
 msgctxt "text"
@@ -3373,7 +3423,7 @@ msgstr "Hagamos otra: Si ignoramos nuestro estrés, desaparecerá con el tiempo.
 #. type=text
 msgctxt "text"
 msgid "🎓When you feel stressed, this is a sign from your body that you need to take care of yourself. "
-msgstr "🎓 Cuando sientas estrés, tómalo como una señal de tu cuerpo de que necesitas cuidarte. "
+msgstr "🎓 Cuando sientas estrés, tómalo como una señal de tu cuerpo que te indica que necesitas cuidarte. "
 
 #. type=text
 msgctxt "text"
@@ -3383,7 +3433,7 @@ msgstr "Es importante que le pongas atención a tus pensamientos y a cómo se si
 #. type=text
 msgctxt "text"
 msgid "\r🎓When you feel stress, this is a sign from your body that you need to take care of yourself or that you need more support."
-msgstr "\r🎓 Cuando sientas estrés, tómalo como una señal de tu cuerpo de que necesitas cuidarte o de que necesitas más apoyo."
+msgstr "\r🎓 Cuando sientas estrés, tómalo como una señal de tu cuerpo que te indica que necesitas cuidarte o de que necesitas más apoyo."
 
 #. type=text
 msgctxt "text"
@@ -3474,11 +3524,6 @@ msgstr "{F3_MOTHER}: Buena sugerencia. Entonces la regla queda en que {F3_SON_4}
 msgctxt "text"
 msgid "{F3_SON_4} and {F3_DAUGHTER_7}: Okay…"
 msgstr "{F3_SON_4} y {F3_DAUGHTER_7}: De acuerdo…"
-
-#. type=text
-msgctxt "text"
-msgid "{F2_MOTHER} (thinking): Phew! That was not easy, but at least I did not shout like usual. I have had a long day and am feeling very stressed. Maybe I will call Maria later and have a chat."
-msgstr "{F2_MOTHER} (pensando): ¡Uf! No fue fácil pero al menos no les grité como siempre lo hago. Tuve un día muy largo y me siento muy estresada. Tal vez le hable a María más tarde para platicar un poco con ella."
 
 #. type=text
 msgctxt "text"
@@ -3577,6 +3622,11 @@ msgstr "¡Lo estás haciendo muy bien! 😃🔄"
 
 #. type=text
 msgctxt "text"
+msgid "💚 It’s okay if you don’t have time today! You can share these tips with your teen tomorrow. Remember to take a pause and follow these tips if you are feeling stressed. "
+msgstr "💚 ¡No pasa nada si hoy no tienes tiempo! Puedes compartir estas estrategias con tu adolescente mañana. Recuerda hacer una pausa y seguir estas estrategias si te encuentras en una situación que te genere estrés. "
+
+#. type=text
+msgctxt "text"
 msgid "Lesson complete! You have learned how to manage your stress."
 msgstr "¡Sesión completa! Has aprendido a regular tu estrés."
 
@@ -3633,11 +3683,6 @@ msgstr "{F1_FATHER}: Limpiaré lo que pueda de la cocina en 10 minutos para esta
 
 #. type=text
 msgctxt "text"
-msgid "✅⬜️"
-msgstr "✅⬜️"
-
-#. type=text
-msgctxt "text"
 msgid "Press ▶️ to learn 5️⃣ tips to help you make a plan when you are feeling stressed because you have too many things to do: "
 msgstr "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que te ayudarán a elaborar un plan cuando estés en situaciones que te generen estrés porque tienes demasiadas cosas que hacer: "
 
@@ -3673,8 +3718,8 @@ msgstr "Aquí tienes 5️⃣ estrategias que te ayudarán a elaborar un plan cua
 
 #. type=text
 msgctxt "text"
-msgid "{F1_FATHER}: Hmm.. this is too much to do. What is most important out of this? Helping my girl or boy is most important. Bills are not due until later this week, and I can clean on some other day."
-msgstr "{F1_FATHER}: Mmm... es demasiado lo que me falta por hacer. ¿Qué es lo más importante de todo esto? Ayudar a mi niña y niños es lo más importante. Los recibos no vencen hasta finales de esta semana y puedo limpiar otro día."
+msgid "Grab a piece of paper, a notebook, or anything you can write on, and a pen."
+msgstr "Agarra un pedazo de papel, un cuaderno, o cualquier cosa en la que puedas escribir, y una pluma."
 
 #. type=text
 msgctxt "text"
@@ -3715,11 +3760,6 @@ msgstr "Por ejemplo, si tienes que limpiar tu casa, ¡puede parecer como algo in
 msgctxt "text"
 msgid "5️⃣ **ONE STEP AT A TIME** \r\rBegin with the number one task on your list. \r\rAfter you complete it, move to the next one. \r\rThis helps you focus on the most important things first and ensures you don't forget anything.\r\rEvery now and then, take a moment to look at your plan. Check if anything has changed or if new things have come up."
 msgstr "5️⃣ **UN PASO A LA VEZ** \r\rEmpieza por la actividad número uno de tu lista. \r\rCuando la completes, pasa a la siguiente. \r\rEsto te ayuda a centrarte primero en las cosas más importantes y garantiza que no te olvides de nada.\r\rDe vez en cuando, tómate un momento para revisar tu plan. Comprueba si ha cambiado algo o si han surgido cosas nuevas."
-
-#. type=text
-msgctxt "text"
-msgid "✅✅ 100%"
-msgstr "✅✅ 100%"
 
 #. type=text
 msgctxt "text"
@@ -4337,11 +4377,6 @@ msgid "{F2_GRANDMOTHER} : I am very happy to be able to spend this special time 
 msgstr "{F2_GRANDMOTHER}: Me hace muy feliz poder pasar este tiempo tan especial contigo, {F2_DAUGHTER_3}!"
 
 #. type=text
-msgctxt "text"
-msgid "💙 That's okay. Try to complete this task during the week or another day of the week. You can type {GROW} at any time to begin"
-msgstr "💙 Entendemos. Intenta completar esta actividad durante la semana o en otro día de la semana. Puedes escribir {GROW} en cualquier momento para comenzar."
-
-#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course, Understanding Development of Girls and Boys. ⭐"
@@ -4552,28 +4587,6 @@ msgstr "🏆 Halaga a tu {child} cuando comparta sus cosas con otras personas y 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Your home activity is to complete @fields.child_nickname's development assessment. To get started, type {GROW}. Can you complete the assessment today? ⭐"
-msgstr "Tu actividad para la casa será completar la evaluación de desarrollo de @fields.child_nickname. Para empezar, escribe {GROW}. ¿Puedes completar la evaluación hoy? ⭐"
-
-#. type=text
-msgctxt "text"
-msgid "Your home activity is to complete your {child}'s development assessment. To get started, type {GROW}. Can you complete the assessment today? ⭐"
-msgstr "Tu actividad para la casa será completar la evaluación de desarrollo de tu {child}. Para empezar, escribe {GROW}. ¿Puedes completar la evaluación hoy? ⭐"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "🎉 Great! This activity will help you better support @fields.child_nickname’s development."
-msgstr "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_nickname."
-
-#. type=text
-msgctxt "text"
-msgid "🎉 Great! This activity will help you better support your {child}’s development."
-msgstr "🎉 ¡Genial! Esta actividad te ayudará a apoyar y favorecer el desarrollo de tu {child}."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
 msgid "Lesson complete! You have learnt how to support @fields.child_nickname’s healthy development as they grow and change. ✨"
 msgstr "¡Sesión completada! Has aprendido cómo favorecer el desarrollo saludable de @fields.child_nickname a medida que va creciendo y cambiando. ✨"
 
@@ -4642,11 +4655,6 @@ msgstr "{F1_DAUGHTER_6}: ¡Lo logré! "
 msgctxt "text"
 msgid "{F1_FATHER}: Great job, {F1_DAUGHTER_6}! You are getting to be such a big girl!"
 msgstr "{F1_FATHER}: ¡Muy bien, {F1_DAUGHTER_6}! ¡Cada día haces más cosas!"
-
-#. type=text
-msgctxt "text"
-msgid "Try to complete this task during the week or another day of the week. You can type {GROW} at any time to begin"
-msgstr "💙 Intenta completar esta actividad durante la semana o en otro día de la semana. Puedes escribir {GROW} en cualquier momento para comenzar."
 
 #. type=text
 msgctxt "text"
@@ -4764,33 +4772,6 @@ msgstr "💡puede que tu {child} repita la pregunta o haga preguntas complementa
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Your home activity is to complete @fields.child_nickname's development assessment. To get started, type {GROW}. "
-msgstr "Tu actividad para casa será completar la evaluación de desarrollo de @fields.child_nickname. Para empezar, escribe {GROW}. "
-
-#. type=text
-msgctxt "text"
-msgid "Can you complete the assessment today? ⭐"
-msgstr "¿Puedes completar la evaluación hoy? ⭐"
-
-#. type=text
-msgctxt "text"
-msgid "Your home activity is to complete your {child}'s development assessment. To get started, type {GROW}. "
-msgstr "Tu actividad para casa será completar la evaluación de desarrollo de tu {child}. Para empezar, escribe {GROW}. "
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Great! 💙 This activity will help you better support @fields.child_nickname’s development."
-msgstr "¡Genial! 💙 Esta actividad te ayudará a apoyar y favorecer el desarrollo de @fields.child_nickname."
-
-#. type=text
-msgctxt "text"
-msgid "Great! 💙 This activity will help you better support your {child}’s development."
-msgstr "¡Genial! 💙 Esta actividad te ayudará a apoyar y favorecer el desarrollo de tu {child}."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
 msgid "This skill is about helping you support @fields.child_nickname’s healthy development as they grow and change. ✨"
 msgstr "Esta sesión trata sobre darte estrategias para favorecer el desarrollo saludable de @fields.child_nickname a medida que crece y va cambiando. ✨"
 
@@ -4838,16 +4819,6 @@ msgstr "{F3_UNCLE}: ¡Es una idea maravillosa, {F3_DAUGHTER_7}! ¡Vamos a intent
 msgctxt "text"
 msgid "{F3_UNCLE}: Good job, {F3_DAUGHTER_7}! You led the way, and we all had so much fun taking turns! {F3_SON_4}, you were also great at patiently waiting for your turn."
 msgstr "{F3_UNCLE}: ¡Buen trabajo, {F3_DAUGHTER_7}! Tú nos guiaste, ¡y todos nos divertimos mucho tomando turnos! {F3_SON_4}, tú estuviste excelente esperando pacientemente tu turno."
-
-#. type=text
-msgctxt "text"
-msgid "That's OK! Try to complete this task during the week or another day of the week. "
-msgstr "Está bien. Intenta completar esta actividad durante la semana u otro día de la semana. "
-
-#. type=text
-msgctxt "text"
-msgid "You can type {GROW} at any time to begin"
-msgstr "Puedes escribir {GROW} en cualquier momento para empezar."
 
 #. type=text
 msgctxt "text"
@@ -5065,8 +5036,8 @@ msgstr "Verdadero o Falso: Está bien alzarle la voz o gritarle a mi niña o ni�
 
 #. type=text
 msgctxt "text"
-msgid "🎉 Great! "
-msgstr "🎉 ¡Genial! "
+msgid "👀Oops! Check it out! "
+msgstr "👀 ¡Ups! ¡Checa esto!"
 
 #. type=text
 msgctxt "text"
@@ -5082,6 +5053,11 @@ msgstr "Está bien sentir enojo, a veces, pero es importante aprender a responde
 msgctxt "text"
 msgid "When we react with anger most of the time, it may cause our girls and boys to feel scared of them, feel stressed, misbehave more or behave aggressively."
 msgstr "La mayoría de las veces, cuando reaccionamos con ira o enojo, puede hacer que nuestras niñas y niños sientan miedo o estrés y se porten peor o se comporten de manera agresiva."
+
+#. type=text
+msgctxt "text"
+msgid "🎉 Great! "
+msgstr "🎉 ¡Genial! "
 
 #. type=text
 msgctxt "text"
@@ -5262,17 +5238,6 @@ msgstr "Si tu {child} está expresando enojo, recuerda mantener la calma y apoya
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Dealing with anger is not easy 😔. Maybe no one taught us how to manage our emotions.\r\r▶️Press Play to learn the 4️⃣tips you can use to manage your anger and communicate better with @fields.child_nickname: \r\r1️⃣ **NOTICE** \r2️⃣ **UNDERSTAND**\r3️⃣**MANAGE** \r4️⃣**COMMUNICATE**"
-msgstr "Lidiar con el enojo no es algo fácil 😔. Quizá nadie nos enseñó a regular nuestras emociones.\r\r▶️Da Clic en Reproducir para aprender las 4️⃣ estrategias que puedes usar para regular tu enojo y comunicarte mejor con @fields.child_nickname: \r\r1️⃣ **IDENTIFICAR** \r2️⃣ **COMPRENDER**\r3️⃣**REGULAR** \r4️⃣**COMUNICAR**"
-
-#. type=text
-msgctxt "text"
-msgid "Dealing with anger is not easy 😔. Maybe no one taught us how to manage our emotions.\r\r▶️Press Play to learn the 4️⃣tips you can use to manage your anger and communicate better with your {child}: \r\r1️⃣ **NOTICE** \r2️⃣ **UNDERSTAND**\r3️⃣**MANAGE** \r4️⃣**COMMUNICATE**"
-msgstr "Lidiar con el enojo no es algo fácil 😔. Quizá nadie nos enseñó a regular nuestras emociones.\r\r▶️Da Clic en Reproducir para aprender las 4️⃣ estrategias que puedes usar para regular tu enojo y comunicarte mejor con tu {child}: \r\r1️⃣ **IDENTIFICAR** \r2️⃣ **COMPRENDER**\r3️⃣**REGULAR** \r4️⃣**COMUNICAR**"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
 msgid "Dealing with anger is not easy 😔. Maybe no one taught us how to manage our emotions and healthily express them.\r\rHere are 4️⃣ tips you can use to manage your anger and communicate better with @fields.child_nickname: "
 msgstr "Lidiar con el enojo no es algo fácil 😔. Quizá nadie nos enseñó a regular nuestras emociones y a expresarlas de manera sana. \r\rAquí tienes 4️⃣ estrategias que puedes usar para regular tu enojo y comunicarte mejor con @fields.child_nickname: "
 
@@ -5335,11 +5300,6 @@ msgstr "Verdadero o Falso: No importa si das una instrucción de manera positiva
 
 #. type=text
 msgctxt "text"
-msgid "👀Oops! Check it out! "
-msgstr "👀 ¡Ups! ¡Checa esto!"
-
-#. type=text
-msgctxt "text"
 msgid "Girls and boys are more likely to follow instructions when they are told what to do instead of what not to do. "
 msgstr "Las niñas y los niños son más propensos a seguir instrucciones cuando se les dice lo que tienen que hacer en lugar de decir lo que *no* tienen que hacer. "
 
@@ -5347,11 +5307,6 @@ msgstr "Las niñas y los niños son más propensos a seguir instrucciones cuando
 msgctxt "text"
 msgid "💙 Negative instructions like, “Don’t do that!” can make children (and us) feel confused. 😣"
 msgstr "💙 Las instrucciones negativas como \"¡No hagas eso!\", pueden hacer que las niñas y los niños se sientan confundidos (al igual que nosotros). 😣"
-
-#. type=text
-msgctxt "text"
-msgid "{F3_DAUGTHER_7} is playing with the cell phone on the floor."
-msgstr "{F3_DAUGTHER_7} está jugando en el piso con el celular."
 
 #. type=text
 msgctxt "text"
@@ -5697,15 +5652,20 @@ msgid "🎉⭐ You are right! "
 msgstr "🎉 ¡Tienes razón! "
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Press play ▶️ and learn 4️⃣ four easy tips to help you make family rules with @fields.child_nickname: \r\r1️⃣ **BE A TEAM**"
-msgstr "Da Clic en Reproducir ▶️ para aprender 4️⃣ sencillas estrategias que te ayudarán a establecer reglas familiares con @fields.child_nickname: \r\r1️⃣ **SER UN EQUIPO**"
+msgid "1️⃣ **BE A TEAM**"
+msgstr "1️⃣ **SER UN EQUIPO**"
 
 #. type=text
 msgctxt "text"
 msgid "2️⃣ **KEEP IT REAL**"
 msgstr "2️⃣ **MANTENERLO REALISTA**"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Press play ▶️ and learn 4️⃣ four easy tips to help you make family rules with @fields.child_nickname: \r\r1️⃣ **BE A TEAM**"
+msgstr "Da Clic en Reproducir ▶️ para aprender 4️⃣ sencillas estrategias que te ayudarán a establecer reglas familiares con @fields.child_nickname: \r\r1️⃣ **SER UN EQUIPO**"
 
 #. type=text
 msgctxt "text"
@@ -5722,11 +5682,6 @@ msgstr "4️⃣ Aquí tienes cuatro estrategias sencillas que te ayudarán a est
 msgctxt "text"
 msgid "4️⃣ Here are four easy tips to help you make family rules with your {child}:"
 msgstr "4️⃣ Aquí tienes cuatro estrategias sencillas que te ayudarán a establecer reglas familiares con tu {child}:"
-
-#. type=text
-msgctxt "text"
-msgid "1️⃣ **BE A TEAM**"
-msgstr "1️⃣ **SER UN EQUIPO**"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -5907,13 +5862,13 @@ msgstr "{F3_MOTHER}: Me da gusto verte sentado tranquilamente, {F3_SON_4}. Toma,
 
 #. type=text
 msgctxt "text"
-msgid "▶️ Press play to learn the 5️⃣ five steps  five steps to use when your child whines or throws tantrums: "
-msgstr "▶️ Da Clic en Reproducir para aprender los 5️⃣ cinco pasos que debes seguir cuando tu niña o niño se queje o haga un berrinche: "
+msgid "1️⃣ **REDIRECT**"
+msgstr "1️⃣ **REDIRIGIR**"
 
 #. type=text
 msgctxt "text"
-msgid "\r\r1️⃣ **REDIRECT**\r2️⃣ **STAY CALM**\r3️⃣ **OBSERVE**"
-msgstr "\r\r1️⃣ **REDIRIGIR**\r2️⃣ **MANTENER LA CALMA**\r3️⃣ **OBSERVAR**"
+msgid "3️⃣ **OBSERVE**"
+msgstr "3️⃣ **OBSERVAR**"
 
 #. type=text
 msgctxt "text"
@@ -5924,16 +5879,6 @@ msgstr "4️⃣ **CUIDAR**"
 msgctxt "text"
 msgid "5️⃣ **BE CONSISTENT**"
 msgstr "5️⃣ **SER CONSTANTES**"
-
-#. type=text
-msgctxt "text"
-msgid "▶️ Press play to learn the 5️⃣  five steps to use when your child whines or throws tantrums: "
-msgstr "▶️ Da Clic en Reproducir para aprender los 5️⃣ cinco pasos que debes seguir cuando tu niña o niño se queje o haga un berrinche: "
-
-#. type=text
-msgctxt "text"
-msgid "\r1️⃣ **REDIRECT**\r2️⃣ **STAY CALM**\r3️⃣ **OBSERVE**"
-msgstr "\r1️⃣ **REDIRIGIR**\r2️⃣ **MANTENER LA CALMA**\r3️⃣ **OBSERVAR**"
 
 #. type=text
 msgctxt "text"
@@ -6097,11 +6042,6 @@ msgid "If your {child} continues or loses control, remain calm and stay with you
 msgstr "Si tu {child} continúa el comportamiento o pierde el control, mantén la calma y quédate con tu niña o niño sin discutir con ella o él. Puede que sea muy difícil, pero al final tu niña o niño se calmará también. En ese momento, ya podrás atender a sus necesidades."
 
 #. type=text
-msgctxt "text"
-msgid "1️⃣ **REDIRECT**"
-msgstr "1️⃣ **REDIRIGIR**"
-
-#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "🎨 Try to redirect @fields.child_nickname’s attention to a positive behaviour or activity. "
@@ -6121,11 +6061,6 @@ msgstr "En el primer curso de Crianza con Conciencia +,aprendiste sobre redirigi
 msgctxt "text"
 msgid "🎨 Try to redirect your {child}’s attention to a positive behaviour or activity. "
 msgstr "🎨 Intenta redirigir la atención de tu {child} hacia una conducta o actividad positiva. "
-
-#. type=text
-msgctxt "text"
-msgid "3️⃣ **OBSERVE**"
-msgstr "3️⃣ **OBSERVAR**"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -6291,7 +6226,7 @@ msgstr "{F3_DAUGHTER_7}: No."
 #. type=text
 msgctxt "text"
 msgid "{F3_MOTHER}: Either you put away the toys now, or you won’t be able to play with your toys after dinner."
-msgstr "{F3_MOTHER} guarda los juguetes ahora, para que puedas jugar con ellos después de cenar."
+msgstr "{F3_MOTHER}: Por favor guarda los juguetes ahora, para que puedas jugar con ellos después de cenar."
 
 #. type=text
 msgctxt "text"
@@ -6562,7 +6497,7 @@ msgstr "2️⃣ **RESOLVERLO**"
 #. type=text
 msgctxt "text"
 msgid "{F1_MOTHER}: How can we make sure you get all your work done and still get to bed on time?"
-msgstr "{F1_MOTHER}: ¿Cómo podemos asegurarnos de que hagas todo lo que tengas que hacer y aun así te acuestes a tiempo?"
+msgstr "{F1_MOTHER}: ¿Cómo podemos asegurarnos de que hagas todo lo que tengas que hacer y aún así te acuestes a tiempo?"
 
 #. type=text
 msgctxt "text"
@@ -6778,7 +6713,7 @@ msgstr "🎉 ¡Correcto! "
 #. type=text
 msgctxt "text"
 msgid "Press play ▶️ to learn four tips to help you know your role as your girls’ and boys’ caregiver and teach them their role, too: \r\r1️⃣ **KNOW YOUR ROLE**"
-msgstr "Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como la o el cuidador de tus niñas y niños y a enseñarles también el suyo: \r\r1️⃣ **CONOCER TU ROL**"
+msgstr "Da Clic en Reproducir ▶️ para aprender cuatro estrategias que te ayudarán a conocer tu rol como la o la persona cuidadora de tus niñas y niños y a enseñarles también el suyo: \r\r1️⃣ **CONOCER TU ROL**"
 
 #. type=text
 msgctxt "text"
@@ -6798,7 +6733,7 @@ msgstr "4️⃣ **NOTAR**"
 #. type=text
 msgctxt "text"
 msgid "4️⃣ Here are four tips to help you know your role as your girls’ and boys’ caregiver and teach them their role, too:"
-msgstr "4️⃣ Aquí tienes cuatro estrategias que te ayudarán a conocer tu rol como la o el cuidador de tus niñas y niños y a enseñarles también el suyo:"
+msgstr "4️⃣ Aquí tienes cuatro estrategias que te ayudarán a conocer tu rol como la o la persona cuidadora de tus niñas y niños y a enseñarles también el suyo:"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -9747,11 +9682,6 @@ msgstr "{F2_GRANDFATHER}: \"Claro que sí. Y, ¿{F2_SON_15}? Recuerda que no es 
 
 #. type=text
 msgctxt "text"
-msgid "\""
-msgstr "\""
-
-#. type=text
-msgctxt "text"
 msgid "💛 Ask yourself, “What does my teen need right now?”"
 msgstr "💛 Pregúntate: \"¿Qué es lo que mi adolescente necesita en este momento?\""
 
@@ -10019,12 +9949,12 @@ msgstr "{F1_SON_17}: Es que todas mis amistades lo usan. Ya tengo más de 600 me
 #. type=text
 msgctxt "text"
 msgid "{F1_MOTHER}: I’m proud of how well you dance, {F1_SON_17}. Let’s talk about staying safe on TikTok. While it’s fun to share with friends, we need to be careful. Some older people might try to talk to teenagers online. Sometimes, they can be dangerous and want to attack young children and teens. These people are called paedophiles."
-msgstr "{F1_MOTHER}: Estoy orgullosa de lo bien que bailas, {F1_SON_17}. Hablemos un poco sobre la seguridad en TikTok. Aunque es divertido compartir con tus amistades, debemos tener cuidado. Algunas personas mayores pueden intentar hablar con adolescentes en las redes. A veces, pueden ser personas peligrosas y querer agredir a niñas y niños pequeños y adolescentes. A estas personas se les llama pedófilos."
+msgstr "{F1_MOTHER}: Estoy orgullosa de lo bien que bailas, {F1_SON_17}. Hablemos un poco sobre la seguridad en TikTok. Aunque es divertido compartir con tus amistades, debemos tener cuidado. Algunas personas mayores pueden intentar hablar con adolescentes en las redes. A veces, pueden ser personas peligrosas y querer agredir a niñas, niños pequeños y adolescentes. A estas personas se les llama pedófilos."
 
 #. type=text
 msgctxt "text"
 msgid "{F1_MOTHER}: Let’s look together online at how we can keep this fun for you and also safe. Look – you can make your account private and control who follows you. So you can accept people you know but not strangers. Can we make a rule together that you can use TikTok but with a private account? I trust you to know who to accept!"
-msgstr "{F1_MOTHER}: Vamos a buscar juntas cómo podemos hacer que esto sea divertido para ti, pero que también sea seguro. ¡Mira!, puedes hacer que tu cuenta sea privada y controlar quién te sigue. Así puedes aceptar a gente que conoces pero no a personas desconocidas. ¿Podemos hacer una regla en donde tengas permitido usar TikTok pero con una cuenta privada? ¡Confío en que sepas a quién aceptar y a quién no!"
+msgstr "{F1_MOTHER}: Vamos a buscar juntos cómo podemos hacer que esto sea divertido para ti, pero que también sea seguro. ¡Mira!, puedes hacer que tu cuenta sea privada y controlar quién te sigue. Así puedes aceptar a gente que conoces pero no a personas desconocidas. ¿Podemos hacer una regla en donde tengas permitido usar TikTok pero con una cuenta privada? ¡Confío en que sepas a quién aceptar y a quién no!"
 
 #. type=text
 msgctxt "text"
@@ -10751,33 +10681,8 @@ msgstr "Aquí tienes una historieta sobre cómo ayudar a tu adolescente a aprend
 
 #. type=text
 msgctxt "text"
-msgid "{F1_GRANDFATHER}: My granddaughter, {F1_DAUGHTER_17}, has been struggling with History. Do you have any recommendations?"
-msgstr "{F1_GRANDFATHER}: A mi nieta, {F1_DAUGHTER_17}, le ha estado costando un poco de trabajo la clase de Historia. ¿Tienes alguna recomendación?"
-
-#. type=text
-msgctxt "text"
 msgid "{TEACHER_1}: Yes, how about you set up a study group with your daughter and her friends where they can read and discuss the lesson together?"
 msgstr "{TEACHER_1}: Claro que sí, ¿qué tal si organizas un grupo de estudio para tu nieta y sus amigas y amigos en donde puedan leer, revisar y discutir los temas de las clases?"
-
-#. type=text
-msgctxt "text"
-msgid "{F1_GRANDFATHER}: That sounds great!"
-msgstr "{F1_GRANDFATHER}: ¡Eso suena muy bien! Excelente idea."
-
-#. type=text
-msgctxt "text"
-msgid "{F1_DAUGHTER_17}: Did anyone understand chapter 3? I need some help making sense of it."
-msgstr "{F1_DAUGHTER_17}: ¿Alguien entendió el capítulo 3? Necesito ayuda para encontrarle sentido."
-
-#. type=text
-msgctxt "text"
-msgid "{F1_DAUGHTER_17}: Thank you so much for suggesting a book club, Grandpa. Our assignments are more fun and easier to understand when I work on them together with my friends. "
-msgstr "{F1_DAUGHTER_17}: Muchas gracias por sugerirme el grupo de estudio, abuelo. Los trabajos que nos piden y nuestras tareas son más divertidas y fáciles de entender cuando las hago con mis amigas y amigos. "
-
-#. type=text
-msgctxt "text"
-msgid "{F1_GRANDFATHER}: I am glad it is working for you. Even as an adult, I still learn a lot from others! Just last week, your grandmother taught me how to make these delicious tacos I am making for dinner."
-msgstr "{F1_GRANDFATHER}: Me da gusto que te esté funcionando. Hasta yo, que soy una persona adulta, ¡sigo aprendiendo mucho de otras personas! Justo la semana pasada, tu abuela me enseñó a hacer estos deliciosos tacos que estoy preparando para la comida."
 
 #. type=text
 msgctxt "text"
@@ -10896,11 +10801,6 @@ msgid "Excellent! 💙 You are building the skills to refill your cup and suppor
 msgstr "¡Excelente! 💙 Estás desarrollando las habilidades necesarias para volver a llenar tu vaso y apoyar a tu adolescente, especialmente cuando las cosas se ponen difíciles.. \r\r¡Lo estás haciendo muy bien! 😃🔄"
 
 #. type=text
-msgctxt "text"
-msgid "💚 It’s okay if you don’t have time today! You can share these tips with your teen tomorrow. Remember to take a pause and follow these tips if you are feeling stressed. "
-msgstr "💚 ¡No pasa nada si hoy no tienes tiempo! Puedes compartir estas estrategias con tu adolescente mañana. Recuerda hacer una pausa y seguir estas estrategias si te encuentras en una situación que te genere estrés. "
-
-#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course, Support My Teen’s Education⭐"
@@ -10958,11 +10858,6 @@ msgstr "{F3_MOTHER} (pensando): ¡Ash! ¿Cuántas veces tengo que decirle que ju
 
 #. type=text
 msgctxt "text"
-msgid "{F3_MOTHER} (thinking): I am feeling angry. Let me pause and take a few deep breaths. I am feeling angry because I have to clean again. This window will also cost money to replace. I am also worried because {F1_DAUGHTER_12} could have been hurt."
-msgstr "{F3_MOTHER} (pensando): Estoy muy enojada. Voy a hacer una pausa y respirar profundo. Lo que me molesta es que tengo que volver a limpiar y me costará dinero cambiar esa ventana. Además, estoy preocupada porque {F1_DAUGHTER_12} podría haberse lastimado."
-
-#. type=text
-msgctxt "text"
 msgid "{F3_DAUGHTER_12}: I am so sorry, Mom! "
 msgstr "{F3_DAUGHTER_12}: ¡Mamá... perdón! "
 
@@ -10985,11 +10880,6 @@ msgstr "{F3_MOTHER} (pensando después de unos minutos):"
 msgctxt "text"
 msgid "I am feeling better now. I'm still upset, but I can think clearly and handle things well. Instead of shouting at her, I will tell her how I feel."
 msgstr "Ahora me siento mejor. Sigo molesta pero puedo pensar con claridad y manejar bien las cosas. En lugar de gritarle, le diré cómo me siento."
-
-#. type=text
-msgctxt "text"
-msgid "{F3_MOTHER}: {F2_DAUGHTER_12}, this made me very angry. You could have gotten hurt, and we will need to pay someone to fix the window. Please get me the broom so I can clean this up."
-msgstr "{F3_MOTHER}: {F2_DAUGHTER_12}, esto me molestó mucho. Podrías haberte lastimado y tendremos que pagarle a alguien para que arregle la ventana. Por favor, tráeme la escoba para limpiar esto."
 
 #. type=text
 msgctxt "text"
@@ -11021,11 +10911,6 @@ msgstr "tu {teen} va experimentando una amplia gama de emociones a medida en que
 msgctxt "text"
 msgid "If your {teen} is angry, remember to be calm and support them. Help your {teen} notice their feelings of anger and help them manage their emotions using the tips in this lesson. "
 msgstr "Si tu {teen} está expresando enojo, recuerda mantener la calma y apoyarle. Ayuda a tu {teen} a darse cuenta de sus sentimientos de ira y ayúdale a regular sus emociones utilizando las estrategias de esta sesión. "
-
-#. type=text
-msgctxt "text"
-msgid "Dealing with anger is not easy 😔. Maybe no one taught us how to manage our emotions.\r\r▶️Press Play to learn the 4️⃣tips you can use to manage your anger and communicate better with your {teen}: \r\r1️⃣ **NOTICE** \r2️⃣ **UNDERSTAND**\r3️⃣**MANAGE** \r4️⃣**COMMUNICATE**"
-msgstr "Lidiar con el enojo no es algo fácil 😔. Quizá nadie nos enseñó a regular nuestras emociones.\r\r▶️Da Clic en Reproducir para aprender las 4️⃣ estrategias que puedes usar para regular tu enojo y comunicarte mejor con tu {teen}: \r\r1️⃣ **IDENTIFICAR** \r2️⃣ **COMPRENDER**\r3️⃣**REGULAR** \r4️⃣**COMUNICAR**"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -11071,12 +10956,12 @@ msgstr "Las y los adolescentes siguen instrucciones con mayor facilidad cuando s
 #. type=text
 msgctxt "text"
 msgid "{F3_MOTHER} is cleaning the house while {F3_DAUGHTER_12} is practising the dance moves with her friend."
-msgstr "{F3_MOTHER} está limpiando la casa mientras {F3_DAUGHTER_12} baila con su amiga."
+msgstr "{F3_MOTHER} está limpiando la casa mientras {F3_DAUGHTER_12} baila con sus amigas."
 
 #. type=text
 msgctxt "text"
 msgid "{F3_MOTHER}: {F3_DAUGHTER_12}, it is nice to see you practising your dance moves with your friend. Please take it outside, so I can finish cleaning the house. Afterwards, you can show me your dance.”"
-msgstr "{F3_MOTHER}: {F3_DAUGHTER_12}, me da gusto verte ensayando tu baile con tu amiga. Sigan haciéndolo pero afuera, por favor, para que pueda terminar de limpiar la casa. Ya que termine, me pueden enseñar su baile."
+msgstr "{F3_MOTHER}: {F3_DAUGHTER_12}, me da gusto verte ensayando el baile con tus amigas. Sigan haciéndolo pero afuera, por favor, para que pueda terminar de limpiar la casa. Ya que termine, me pueden enseñar su baile."
 
 #. type=text
 msgctxt "text"
@@ -11086,17 +10971,12 @@ msgstr "{F3_DAUGHTER_12}: ¡Está bien, ma!"
 #. type=text
 msgctxt "text"
 msgid "{F3_DAUGHTER_12} and her friend practise their dance moves outside while {F3_MOTHER} cleans inside. After a while, {F3_MOTHER} comes outside too."
-msgstr "{F3_DAUGHTER_12} y su amiga se salen a ensayar su baile mientras {F3_MOTHER} limpia adentro. Después de un rato, {F3_MOTHER} también se sale."
+msgstr "{F3_DAUGHTER_12} y sus amigas se salen a ensayar su baile mientras {F3_MOTHER} limpia adentro. Después de un rato, {F3_MOTHER} también se sale."
 
 #. type=text
 msgctxt "text"
 msgid "{F3_MOTHER}: Thank you for practising outside while I finished cleaning the house, {F3_DAUGHTER_12}. Now, I have some time to watch your dance."
 msgstr "{F3_MOTHER}: Gracias por ensayar afuera mientras yo terminaba de limpiar la casa, {F3_DAUGHTER_12}. Ahora, me gustaría ver su baile."
-
-#. type=text
-msgctxt "text"
-msgid "{F3_MOTHER}: Wow, {F2_DAUGHTER_12}! You have such good dance moves!"
-msgstr "{F3_MOTHER}: ¡Guau, {F2_DAUGHTER_12}! ¡Qué bien bailan!"
 
 #. type=text
 msgctxt "text"
@@ -11935,12 +11815,12 @@ msgstr "😣 Intentar llegar a la perfección todo el tiempo puede hacer que tu 
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "What could you say to help @fields.child_nickname be okay when they think they tried hard but failed at something?"
-msgstr "¿Qué podrías decir para ayudar a @fields.child_nickname a estar bien cuando sienta que se esforzó mucho pero aun así fracasó en algo?"
+msgstr "¿Qué podrías decir para ayudar a @fields.child_nickname a estar bien cuando sienta que se esforzó mucho pero aún así fracasó en algo?"
 
 #. type=text
 msgctxt "text"
 msgid "What could you say to help your {teen} be okay when they think they tried hard but failed at something?"
-msgstr "¿Qué podrías decir para ayudar a tu {teen} a estar bien cuando sienta que se esforzó mucho pero aun así fracasó en algo?"
+msgstr "¿Qué podrías decir para ayudar a tu {teen} a estar bien cuando sienta que se esforzó mucho pero aún así fracasó en algo?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -11963,27 +11843,6 @@ msgstr " 💙 Halagar a @fields.child_nickname por intentarlo, incluso cuando la
 msgctxt "text"
 msgid " 💙Praising your {teen} for trying, even when things are hard, helps them feel confident about facing challenges in the future. \r\r😣Telling your {teen} they are best at everything else could make your {teen} feel that they need to be perfect all the time which may make them feel under pressure. When you tell your {teen} they could have done better, they may feel like their efforts are not good enough. \r\r🌷It’s important to push your {teen} to grow, but it is also important to praise their efforts for trying!"
 msgstr " 💙 Halagar a tu {teen} por intentarlo, incluso cuando las cosas son difíciles, ayudará a construir su confianza para poder enfrentar cualquier problema que se le presente en el futuro. \r\r😣Decirle a tu {teen} que es #1 en todo, puede hacer que tu {teen} sienta que tiene que llegar a la perfección siempre y esto puede ejercer demasiada presión en su vida. Cuando le dices a tu {teen} que podría haberlo hecho mejor, es posible que llegue a sentir que sus esfuerzos no son lo suficientemente buenos. \r\r🌷 ¡Es importante animar a tu {teen} a crecer, pero también es importante reconocer y halagar sus esfuerzos e intentos!"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Press Play ▶️to 5️⃣tips on how to help @fields.child_nickname think positively about themselves: \r\r** 1️⃣ ACCEPT YOUR TEEN**\r** 2️⃣WHAT WOULD A FRIEND SAY?**"
-msgstr "Da Clic en Reproducir ▶️ para aprender 5️⃣ estrategias sobre cómo ayudar a @fields.child_nickname a pensar positivamente sobre su persona: \r\r** 1️⃣ ACEPTAR A TU ADOLESCENTE**\r** 2️⃣ PREGUNTAR, ¿QUÉ TE DIRÍA UNA AMIGA O AMIGO?**"
-
-#. type=text
-msgctxt "text"
-msgid "** 3️⃣BE A MODEL**"
-msgstr "** 3️⃣ SER UN EJEMPLO A SEGUIR**"
-
-#. type=text
-msgctxt "text"
-msgid "** 4️⃣TIP THE BALANCE**"
-msgstr "** 4️⃣ INCLINAR LA BALANZA**"
-
-#. type=text
-msgctxt "text"
-msgid "Press Play ▶️to 5️⃣tips on how to help your {teen} think positively about themselves: \r\r** 1️⃣ ACCEPT YOUR TEEN**\r** 2️⃣WHAT WOULD A FRIEND SAY?**"
-msgstr "Da Clic en Reproducir ▶️ para aprender 5️⃣ estrategias sobre cómo ayudar a tu {teen} a pensar positivamente sobre su persona: \r\r** 1️⃣ ACEPTAR A TU ADOLESCENTE**\r** 2️⃣ PREGUNTAR, ¿QUÉ TE DIRÍA UNA AMIGA O AMIGO?**"
 
 #. type=text
 msgctxt "text"
@@ -12083,6 +11942,11 @@ msgid "How we talk to ourselves changes how we feel about ourselves. This is tru
 msgstr "La manera en que nos hablamos afecta cómo nos sentimos con nuestra propia identidad. ¡Esto también es cierto para tu {teen}!"
 
 #. type=text
+msgctxt "text"
+msgid "** 3️⃣BE A MODEL**"
+msgstr "** 3️⃣ SER UN EJEMPLO A SEGUIR**"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "🎉 How you talk about yourself can teach @fields.child_nickname how to talk about themself. Remember, @fields.child_nickname is always learning from you! "
@@ -12119,6 +11983,11 @@ msgstr "🔵 Muéstrale a tu {teen} que no pasa nada cuando cometemos errores y 
 msgctxt "text"
 msgid "🔶When you face difficulty, say kind things to yourself in front of your {teen}."
 msgstr "🔶 Cuando te enfrentes a dificultades, sé amable contigo delante de tu {teen}."
+
+#. type=text
+msgctxt "text"
+msgid "** 4️⃣TIP THE BALANCE**"
+msgstr "** 4️⃣ INCLINAR LA BALANZA**"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -12257,6 +12126,11 @@ msgstr "📝 Empecemos con un ejercicio para saber más sobre cómo generar idea
 
 #. type=text
 msgctxt "text"
+msgid "What will your teen do when they feel hopeful about the future?"
+msgstr "¿Cuál es la ventaja de qué tu adolescente tenga ideas y motivación sobre lo que le gustaría lograr en el futuro?"
+
+#. type=text
+msgctxt "text"
 msgid "What does being hopeful mean?"
 msgstr "¿Qué significa tener esperanza?"
 
@@ -12295,11 +12169,6 @@ msgstr "⏰ Como madre, padre o persona cuidadora, puedes ayudar a @fields.child
 msgctxt "text"
 msgid "⏰As a caregiver, you can support your {teen} in handling these unpleasant emotions and be hopeful about the future.\r\r☀️Being hopeful means they can set goals, make choices to support them in achieving them, and believe they can achieve their goals, even when it gets difficult."
 msgstr "⏰ Como madre, padre o persona cuidadora, puedes ayudar a tu {teen} a manejar estas emociones desagradables y a pensar en ideas que le entusiasmen sobre su futuro.\r\r☀️ Tener motivación significa que serán capaces de establecer objetivos, tomar decisiones que les ayuden a lograrlos y realmente creer que pueden alcanzarlos, incluso cuando las cosas se compliquen."
-
-#. type=text
-msgctxt "text"
-msgid "What will your teen do when they feel hopeful about the future?"
-msgstr "¿Cuál es la ventaja de qué tu adolescente tenga ideas y motivación sobre lo que le gustaría lograr en el futuro?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -12563,17 +12432,6 @@ msgid "▶️No problem! You can try it tomorrow or some other time this week. "
 msgstr "▶️ ¡No pasa nada! Puedes intentarlo mañana o en otro momento de la semana. "
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
-msgctxt "text"
-msgid "Taking time to connect with @fields.child_nickname and support them in being hopeful about their future is very valuable! \r\r⏰Remember to be patient and open with @fields.child_nickname \r\rIf @fields.child_nickname encounters any challenges along the way, you can apply the tips you learned today to help them navigate those obstacles together."
-msgstr "¡Dedicar tiempo para conectar con @fields.child_nickname y brindarle apoyo para que vea su futuro con ojos de esperanza es muy valioso! \r\r⏰Acuérdate de ser paciente con @fields.child_nickname y de expresarte con honestidad. \r\rSi @fields.child_nickname se topa con algún reto en el camino, puedes aplicar las estrategias que aprendiste hoy para ayudarle a sobrellevar los obstáculos."
-
-#. type=text
-msgctxt "text"
-msgid "Taking time to connect with your {teen} and support them in being hopeful about their future is very valuable! \r\r⏰Remember to be patient and open with your {teen} \r\rIf your {teen} encounters any challenges along the way, you can apply the tips you learned today to help them navigate those obstacles together."
-msgstr "¡Dedicar tiempo para conectar con tu {teen} y brindarle apoyo para que vea su futuro con ojos de esperanza es muy valioso! \r\r⏰Acuérdate de ser paciente con tu {teen} y de expresarte con honestidad. \r\rSi tu {teen} se topa con algún reto en el camino, puedes aplicar las estrategias que aprendiste hoy para ayudarle a sobrellevar los obstáculos."
-
-#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Well done! 🎉 You have learnt about how to help @fields.child_nickname navigate challenges, and be hopeful about their future."
@@ -12683,6 +12541,11 @@ msgstr "💡 Ayúdale a decidir sobre qué cosas vale la pena preocuparse."
 msgctxt "text"
 msgid "🔑 Help them take steps to change what is causing their stress where they can."
 msgstr "🔑 Ayúdale a ir cambiando, poco a poco y en la medida de lo posible, las cosas que le estén causando estrés."
+
+#. type=text
+msgctxt "text"
+msgid "Can you do this with your teen today?"
+msgstr "¿Puedes hacerlo con tu adolescente hoy?"
 
 #. type=text
 msgctxt "text"
@@ -12852,66 +12715,6 @@ msgstr "👀 Identifica las señales de alerta y las conductas que podrían indi
 
 #. type=text
 msgctxt "text"
-msgid "A lot of sleeping or no sleeping"
-msgstr "Dormir mucho o no dormir nada"
-
-#. type=text
-msgctxt "text"
-msgid "Loss of interest in hobbies"
-msgstr "Pérdida de interés por sus pasatiempos favoritos"
-
-#. type=text
-msgctxt "text"
-msgid "Sudden loss in school and decrease in grades at school"
-msgstr "Cambios drásticos y repentinos en la escuela y calificaciones bajas"
-
-#. type=text
-msgctxt "text"
-msgid "Sudden changes in personality, for example a lot of anger"
-msgstr "Cambios drásticos y repentinos de personalidad, por ejemplo mucho enojo o coraje"
-
-#. type=text
-msgctxt "text"
-msgid "Feeling sad, empty, or worthless"
-msgstr "Sentir un vacío, mucha tristeza o sentirse incapaz"
-
-#. type=text
-msgctxt "text"
-msgid "A lot of worry"
-msgstr "Mucha preocupación"
-
-#. type=text
-msgctxt "text"
-msgid "Irritability or restlessness"
-msgstr "Irritabilidad o inquietud"
-
-#. type=text
-msgctxt "text"
-msgid "Not wanting to be around people or take part in activities"
-msgstr "No querer estar con gente o participar en actividades"
-
-#. type=text
-msgctxt "text"
-msgid "Extreme panic"
-msgstr "Un pánico extremo"
-
-#. type=text
-msgctxt "text"
-msgid "Drug and alcohol use"
-msgstr "Consumo de drogas y alcohol"
-
-#. type=text
-msgctxt "text"
-msgid "Signs of self-harm, such as cut marks"
-msgstr "Signos de autolesión, como cicatrices o marcas de cortes"
-
-#. type=text
-msgctxt "text"
-msgid "Expressing ideas about killing oneself"
-msgstr "Expresar ideas sobre suicidarse"
-
-#. type=text
-msgctxt "text"
 msgid "👀 Notice the warning signs and behaviour that could show that there may be a problem with your {teen}’s mental health:"
 msgstr "👀 Identifica las señales de alerta y las conductas que podrían indicar que hay un problema con la salud mental de tu {teen}:"
 
@@ -12993,6 +12796,26 @@ msgstr "{F1_SON_17}: Puedo escuchar a los pájaros de afuera, mi propia respirac
 
 #. type=text
 msgctxt "text"
+msgid "{F1_MOTHER}: Tell me 2 things you can smell. "
+msgstr "{F1_MOTHER}: Dime 2 cosas que puedas oler. "
+
+#. type=text
+msgctxt "text"
+msgid "{F1_SON_17}: I smell the flowers outside and corn cooking in the kitchen. "
+msgstr "{F1_SON_17}: Puedo oler las flores de afuera y el elote que se está cocinando en la cocina. "
+
+#. type=text
+msgctxt "text"
+msgid "{F1_MOTHER}: Lastly, 1 thing you are tasting. "
+msgstr "{F1_MOTHER}: Por último, nombra 1 sabor que sientas ahorita. "
+
+#. type=text
+msgctxt "text"
+msgid "{F1_SON_17}: Umm… the mint from my gum."
+msgstr "{F1_SON_17}: Mm… la menta de mi chicle."
+
+#. type=text
+msgctxt "text"
 msgid "{F1_MOTHER}: Good job! How do you feel now? "
 msgstr "{F1_MOTHER}: ¡Buen trabajo! ¿Cómo te sientes ahora? "
 
@@ -13013,8 +12836,8 @@ msgstr "Da Clic aquí ▶️ para aprender 5️⃣ estrategias que puedes usar p
 
 #. type=text
 msgctxt "text"
-msgid "**1️⃣ KNOW THE SIGNS** \r**2️⃣ CONNECT TO YOUR SENSES**"
-msgstr "**1️⃣ RECONOCER LAS SEÑALES** \r**2️⃣ CONECTAR CON TUS SENTIDOS**"
+msgid "**2️⃣ CONNECT TO YOUR SENSES**"
+msgstr "**2️⃣ CONECTAR CON TUS SENTIDOS**"
 
 #. type=text
 msgctxt "text"
@@ -13188,11 +13011,6 @@ msgstr "🔴 No disfrutar de las cosas que solían hacer, enojarse con facilidad
 msgctxt "text"
 msgid "**1️⃣ KNOW THE SIGNS** \r\rAnxiety looks different for different teens. Look out for warning signs of when you or your {teen} might require support in managing anxiety:   "
 msgstr "**1️⃣ RECONOCER LAS SEÑALES** \r\rLa ansiedad es diferente en cada adolescente. Debes prestar atención  a las señales de alerta para saber en qué momento tu {teen} o tú pueden necesitar apoyo adicional para poder regular la ansiedad:   "
-
-#. type=text
-msgctxt "text"
-msgid "**2️⃣ CONNECT TO YOUR SENSES**"
-msgstr "**2️⃣ CONECTAR CON TUS SENTIDOS**"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -13592,28 +13410,18 @@ msgstr "Da Clic en Reproducir ▶️ para aprender 3️⃣ estrategias que te ay
 
 #. type=text
 msgctxt "text"
-msgid "\r1️⃣ **TALK AND LISTEN**"
-msgstr "\r1️⃣ **HABLAR Y ESCUCHAR**"
+msgid "1️⃣ **TALK AND LISTEN**"
+msgstr "1️⃣ **HABLAR Y ESCUCHAR**"
 
 #. type=text
 msgctxt "text"
-msgid "2️⃣**DO THINGS YOU ENJOY**"
-msgstr "2️⃣ **HACER COSAS QUE TE GUSTEN**"
-
-#. type=text
-msgctxt "text"
-msgid "3️⃣** SEEK SUPPORT** "
+msgid "3️⃣ **SEEK SUPPORT** "
 msgstr "3️⃣ ** BUSCAR APOYO** "
 
 #. type=text
 msgctxt "text"
 msgid "Press ▶️ to learn 3️⃣ tips to help you and your {teen} manage sadness and spot warning signs of depression: "
 msgstr "Da Clic en Reproducir ▶️ para aprender 3️⃣ estrategias que te ayudarán a ti y a tu {teen} a regular la tristeza y a detectar los signos de alerta relacionados con la depresión: "
-
-#. type=text
-msgctxt "text"
-msgid "3️⃣ **SEEK SUPPORT** "
-msgstr "3️⃣ ** BUSCAR APOYO** "
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -13625,11 +13433,6 @@ msgstr "Aquí tienes 3️⃣ estrategias que te ayudarán a ti y a @fields.child
 msgctxt "text"
 msgid "Here are 3️⃣ tips to help you and your {teen} manage sadness and spot warning signs of depression: "
 msgstr "Aquí tienes 3️⃣ estrategias que te ayudarán a ti y a tu {teen} a regular la tristeza y a detectar los signos de alerta relacionados con la depresión: "
-
-#. type=text
-msgctxt "text"
-msgid "1️⃣ **TALK AND LISTEN**"
-msgstr "1️⃣ **HABLAR Y ESCUCHAR**"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -13656,12 +13459,6 @@ msgstr "💡 Cuando tu {teen} te comparta sus sentimientos, demuéstrale tu inte
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "\r🌈 When you or @fields.child_nickname are sad, ask, “If you weren’t feeling sad, what are two things you usually enjoy doing?”It could be spending time with loved ones, playing a game, or listening to music. "
-msgstr "\r🌈 Cuando @fields.child_nickname o tú estén tristes, hagan este tipo de preguntas: \"Si no estuviera triste, ¿cuáles de las actividades que normalmente disfruto hacer estaría haciendo ahorita? Nombra, por lo menos, dos\". Podrían ser cosas como pasar tiempo con tus seres queridos, jugar a algo o escuchar música. "
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
 msgid "It’s okay if @fields.child_nickname picks an activity you don’t enjoy. Letting @fields.child_nickname choose shows them that you support them in feeling better. "
 msgstr "No pasa nada si @fields.child_nickname escoge una actividad que a ti no te gusta. Dejar que @fields.child_nickname elija le demuestra que quieres que se sienta mejor y que le apoyas. "
 
@@ -13674,11 +13471,6 @@ msgstr "✨ Recuerda lo que viste en tu sesión de chat: nuestros pensamientos, 
 msgctxt "text"
 msgid "📖 Try to set aside time for you and your teen to do activities you usually enjoy regularly."
 msgstr "📖 Intenta apartar tiempo para que tu adolescente y tú hagan las actividades que normalmente disfrutan hacer."
-
-#. type=text
-msgctxt "text"
-msgid "\r🌈 When you or your {teen} are sad, ask, “If you weren’t feeling sad, what are two things you usually enjoy doing?”It could be spending time with loved ones, playing a game, or listening to music. "
-msgstr "\r🌈 Cuando tu {teen} o tú estén tristes, hagan este tipo de preguntas: \"Si no estuviera triste, ¿cuáles de las actividades que normalmente disfruto hacer estaría haciendo ahorita? Nombra, por lo menos, dos\". Podrían ser cosas como pasar tiempo con tus seres queridos, jugar a algo o escuchar música. "
 
 #. type=text
 msgctxt "text"
@@ -14641,6 +14433,11 @@ msgctxt "text"
 msgid "Lesson complete! You have learnt the importance of resolving conflict peacefully."
 msgstr "¡Sesión completada! Has aprendido la importancia de resolver pacíficamente los conflictos."
 
+#. type=text
+msgctxt "text"
+msgid "✅⬜️"
+msgstr "✅⬜️"
+
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
@@ -14681,25 +14478,25 @@ msgstr "En la escuela"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "from their friends"
-msgstr "de sus amigas y amigos"
+msgstr "Con sus amistades"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "at home"
-msgstr "en la casa"
+msgstr "En casa"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "watching educational TV shows"
-msgstr "al ver programas de televisión educativos"
+msgstr "En programas de televisión educativos"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "all of the above"
-msgstr "todas las anteriores"
+msgstr "Todas las anteriores"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -14896,24 +14693,6 @@ msgstr "\"Me da mucho orgullo que lo hayas intentado incluso cuando las cosas se
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Being positive all the time, no matter what."
-msgstr "Buscar la positividad todo el tiempo, pase lo que pase."
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Feeling capable of overcoming difficulties in the future."
-msgstr "Sentirse capaz de superar las dificultades en el futuro."
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Thinking that things will get better no matter what."
-msgstr "Pensar que las cosas mejorarán, pase lo que pase."
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Feel unsure and worried about what will happen next."
 msgstr "Sentirá inseguridad y preocupación por lo que pueda ocurrir después."
 
@@ -14928,6 +14707,24 @@ msgstr "Podrá establecer objetivos significativos y trabajar para lograrlos."
 msgctxt "quick_replies"
 msgid "Avoid thinking about their future."
 msgstr "Evitará pensar en su futuro."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Being positive all the time, no matter what."
+msgstr "Buscar la positividad todo el tiempo, pase lo que pase."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Feeling capable of overcoming difficulties in the future."
+msgstr "Sentirse capaz de superar las dificultades en el futuro."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Thinking that things will get better no matter what."
+msgstr "Pensar que las cosas mejorarán, pase lo que pase."
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -15059,25 +14856,25 @@ msgstr "en la escuela"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "from their friends"
-msgstr "de sus amigas y amigos"
+msgstr "Con sus amistades"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "at home"
-msgstr "en la casa"
+msgstr "En casa"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "watching educational tv shows"
-msgstr "al ver programas de televisión educativos"
+msgstr "En programas de televisión educativos"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "all of the above"
-msgstr "todas las anteriores"
+msgstr "Todas las anteriores"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -15401,5 +15198,5 @@ msgstr "parece distanciarse de sus amistades o de familiares."
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "all of the above."
-msgstr "todas las anteriores."
+msgstr "Todas las anteriores."
 
