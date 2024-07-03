@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-07-02 13:37\n"
+"PO-Revision-Date: 2024-07-03 19:19\n"
 
 #. type=text
 msgctxt "text"
@@ -73,6 +73,11 @@ msgstr "Ubani igama lakho?"
 msgctxt "text"
 msgid "Please select your language:"
 msgstr "Sicela ukhethe ulimi lwakho:"
+
+#. type=text
+msgctxt "text"
+msgid "Welcome to ParentText! This chatbot has been designed with and for parents just like you. We hope you find it useful!"
+msgstr "Wamukelekile kuJabuChat! Le robhothi ekhulumayo lakhiwe ngabazali futhi lakhelwe abazali abafana nawe. Sithemba ukuthi uzolithola liwusizo!"
 
 #. type=text
 msgctxt "text"
@@ -308,6 +313,11 @@ msgstr "Ngabe udinga usizo oluphuthumayo?"
 
 #. type=text
 msgctxt "text"
+msgid "I might know some resources that can help. Would you like information for:"
+msgstr "Kungenzeka ngazi amathuluzi angasiza. Ungathanda ulwazi lo:"
+
+#. type=text
+msgctxt "text"
 msgid "{family referrals}"
 msgstr "{family referrals}"
 
@@ -315,6 +325,16 @@ msgstr "{family referrals}"
 msgctxt "text"
 msgid "{development resources 1}"
 msgstr "{izinsiza zokuthuthukisa 1}"
+
+#. type=text
+msgctxt "text"
+msgid "{legal_help referrals}"
+msgstr "{legal_help referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "{lgbtqia referrals}"
+msgstr "{lgbtqia referrals}"
 
 #. type=text
 msgctxt "text"
@@ -595,6 +615,28 @@ msgstr "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) 
 
 #. type=text
 msgctxt "text"
+msgid "You have seen all the courses"
+msgstr "Usuzibone zonke izifundo"
+
+#. type=text
+msgctxt "text"
+msgid "Let's start with the course "
+msgstr "Masiqale ngesifundo "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It’s time to pick a new course! You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?"
+msgstr "Isikhathi sokukhetha isifundo esisha! Usuqede @fields.n_goals_completed ku @fields.n_goals_prog wezifundo. Ungathanda ukwenza siphi isifundo esilandelayo?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?"
+msgstr "Usuqede @fields.n_goals_completed ku @fields.n_goals_prog wezifundo. Ungathanda ukwenza siphi isifundo esilandelayo?"
+
+#. type=text
+msgctxt "text"
 msgid "What would you like to do next?"
 msgstr "Yini ongathanda ukuyenza ngokulandelayo?"
 
@@ -627,6 +669,17 @@ msgstr "Ingabe ufuna ukuqala manje noma kusasa?"
 msgctxt "text"
 msgid "It takes only 5 days to complete this course and earn your parenting certificate."
 msgstr "Kuthatha izinsuku ezi-5 kuphela ukuqeda lesi sifundo futhi uzuze isitifiketi sakho sokuba ngumzali."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for participating!"
+msgstr "Siyabonga ngokuhlanganyela kwakho!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations! "
+msgstr "🎉Uphumelele!🎉 Usiqedile isifundo @results.name. Nasi isitifiketi sakho. Halala! "
 
 #. type=text
 msgctxt "text"
@@ -1740,6 +1793,60 @@ msgstr "LANDELAYO"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Emergency support"
+msgstr "Ukweseka okuphuthumayo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Health support services"
+msgstr "Ukweseka kokuphila okuhle"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Dealing with violence"
+msgstr "Ukubhekana nodlame"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Suicide prevention services"
+msgstr "Usizo oluphuthumayo lokunqanda ukuzibulala"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Family counselling and support"
+msgstr "Ukwelulekwa nokweseka komndeni"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Drugs and alcohol abuse"
+msgstr "Ukusetshenziswa kwezidakamizwa notshwala"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Child development support"
+msgstr "Ukwesekwa ngokukhula kwengane"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Legal help"
+msgstr "Usizo ngokomthetho"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "LGBTQIA+ support services"
+msgstr "Usizo ngokweseka iLGBTQIA+"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Get other emergency contacts"
 msgstr "Thola ezinye izinombolo zocingo zezimo esiphuthumayo"
 
@@ -1956,8 +2063,20 @@ msgstr "Shitsha ama-settings ami"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Invite a friend to enroll"
+msgstr "Mema umngani ukuthi abhalise"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Get help with an emergency"
 msgstr "Thola usizo ngesimo esiphuthumayo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Watch a video with instructions"
+msgstr "Bhukela ividiyo enemiyalelo"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -2351,6 +2470,60 @@ msgstr "cha c cha cha"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "emergency support"
+msgstr "ukweseka okuphuthumayo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "health support services"
+msgstr "ukweseka kokuphila okuhle"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "dealing with violence"
+msgstr "ukubhekana nodlame"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "suicide prevention services"
+msgstr "usizo oluphuthumayo lokunqanda ukuzibulala"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "family counselling and support"
+msgstr "ukwelulekwa nokweseka komndeni"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "drugs and alcohol abuse"
+msgstr "ukusetshenziswa kwezidakamizwa notshwala"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "child development support"
+msgstr "ukwesekwa ngokukhula kwengane"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "legal help"
+msgstr "usizo ngokomthetho"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "lgbtqia+ support services"
+msgstr "usizo ngokweseka ilgbtqia+"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "get other emergency contacts"
 msgstr "thola ezinye izinombolo zocingo zezimo esiphuthumayo"
 
@@ -2561,8 +2734,20 @@ msgstr "shitsha ama-settings ami"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "invite a friend to enroll"
+msgstr "mema umngani ukuthi abhalise"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "get help with an emergency"
 msgstr "thola usizo ngesimo esiphuthumayo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "watch a video with instructions"
+msgstr "bhukela ividiyo enemiyalelo"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
