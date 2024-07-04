@@ -11,7 +11,12 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-07-02 13:38\n"
+"PO-Revision-Date: 2024-07-03 19:19\n"
+
+#. type=text
+msgctxt "text"
+msgid "All survey payments must be sent to the same phone number. Please enter a 10-digit South African phone number that you would like to send airtime to. For example, you would enter 083 283 8620 as 0832838620."
+msgstr "Wonke umholo oqhamuka kunhlolovo kufanele uthunyelwe kunombolo wefoni efanayo. Sicela ufake inombolo yaseNingizimu Afrika enezinombolo eziyi-10 ongathanda ukuthumela i-airtime kuyo. Njengesibonelo, uzofaka 083 283 8620 njengo 0832838620."
 
 #. type=text
 msgctxt "text"
@@ -40,6 +45,12 @@ msgid "Sorry, I don't understand what you mean."
 msgstr "Ngiyaxolisa, angiqondi ukuthi uthini."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your airtime of R @results.amount will be sent to @fields.internation_phone_number. Please allow up to 24 hours for the payment to process."
+msgstr "I-airtime yakho R @results.amount izothunyelwa ku @fields.internation_phone_number. Sicela uvumele amahora ayi-24 ukuthi kungene umholo wakho."
+
+#. type=text
 msgctxt "text"
 msgid "If you have not received your airtime in 24 hours, please send a message to {support_phone_number} with your transaction ID."
 msgstr "Uma ungayitholanga i-airtime yakho emahoreni angu-24, sicela uthumele umlayezo ku-{support_phone_number} ne-mininingwane ye ID yakho. "
@@ -59,6 +70,23 @@ msgstr "Lokhu okwenziwayo kwehlulekile. Sicela uthumele umlayezo ku-{support_pho
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "Your airtime of R @results.amount cannot be sent to @fields.internation_phone_number. Please contact {support_phone_number} with this reference number:"
+msgstr "I-airtime yakho R @results.amount ayikwazi ukuthunyelwa ku @fields.internation_phone_number. Sicela uthinte {support_phone_number} ngelenombolo yereferensi:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.research_id"
+msgstr "@fields.research_id"
+
+#. type=text
+msgctxt "text"
+msgid "and notify the research team that you have completed your survey."
+msgstr "bese wazisa iqembu locwaningo ukuthi usuqedile ngonhlolovo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "*DAY @fields.curr_demo_day*"
 msgstr "*USUKU @fields.curr_demo_day*"
 
@@ -66,6 +94,21 @@ msgstr "*USUKU @fields.curr_demo_day*"
 msgctxt "text"
 msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
 msgstr "Uyiqedele idemo yeParentText. Bhala ukuthi SETHA KABUSHA bese uthi {FACSTART} ukuze uqale kabusha kusukela ekuqaleni."
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back!"
+msgstr "Siyakwamukela!"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry. You are not eligible to participate in this programme. If you know a South African parent that might enjoy ParentText, you can send them this link to join: "
+msgstr "Uxolo. Angeke ukwazi ukuhlanganyela kuloluhlelo. Uma wazi umzali ongowaseNingizimu Afrika ongayijabulela iJabuChat, ungamuthumela ilinki yokujoyina: "
+
+#. type=text
+msgctxt "text"
+msgid "{share link}"
+msgstr "{share link}"
 
 #. type=text
 msgctxt "text"
@@ -195,7 +238,7 @@ msgstr "Sicela ufunde lemininingawane ngokucophelela: {consent_link}"
 #. type=text
 msgctxt "text"
 msgid "Press YES if you have read and understand the above document, agree with the messages. and give consent to participate in the study. Type \"EXIT\" if you do not want to participate. "
-msgstr "Cindezela u YEBO uma uwufundile wawuqonda lombhalo ongenhla, uvumela nemiyalezo, futhi unikeza imvume yokubamba iqhaza kulolu cwaningo. Thayipha u \"EXIT\" uma ungafuni ukubamba iqhaza. "
+msgstr "Cindezela u YEBO uma uwufundile wawuqonda lombhalo ongenhla, uvumela nemiyalezo, futhi unikeza imvume yokubamba iqhaza kulolu cwaningo. Thayipha u \"PHUMA\" uma ungafuni ukubamba iqhaza. "
 
 #. type=text
 msgctxt "text"
@@ -1674,6 +1717,36 @@ msgstr "yebo"
 msgctxt "arguments"
 msgid "no"
 msgstr "Cha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "social"
+msgstr "ukuhlangana nabantu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "support"
+msgstr "ukweseka"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "share"
+msgstr "ukwethula"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "study"
+msgstr "inhlolovo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "swift"
+msgstr "ngokushesha"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
