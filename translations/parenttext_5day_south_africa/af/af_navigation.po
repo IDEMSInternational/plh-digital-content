@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2024-07-02 13:37\n"
+"PO-Revision-Date: 2024-07-10 18:05\n"
 
 #. type=text
 msgctxt "text"
@@ -205,11 +205,6 @@ msgstr "Volgens die datum wat jy verskaf het, sal @fields.child_nickname @(round
 msgctxt "text"
 msgid "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
 msgstr "Volgens die datum wat jy verskaf het, sal jou kind @(round_down(datetime_diff(results.date,now(),\"M\")/12)) jaar oud wees. ParentText is slegs vir kinders van 2-17 jaar oud. Vul asseblief 'n geldige geboortedatum in die volgende formaat in: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
-
-#. type=text
-msgctxt "text"
-msgid "Welcome to ParentText, your partner in parenting. Thank you for being here! Let's get started:"
-msgstr "Welkom by ParentText, jou vennoot in ouerskap. Dankie dat jy hier is! Kom ons begin:"
 
 #. type=text
 msgctxt "text"
