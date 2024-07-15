@@ -1794,7 +1794,10 @@ msgid ""
 msgstr ""
 
 #. type=data_list
-#. The string @global.programme_name should not be translated.
+#. The following strings should not be translated: 
+#.      @global.programme_name
+#.      @global.trigger_menu
+#.      @global.trigger_help
 msgctxt "data_list"
 msgid ""
 "Hi!😃Thank you for your message. \n"
@@ -1803,7 +1806,7 @@ msgid ""
 "\n"
 "If your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n"
 "\n"
-"You can replay the programme by typing {MENU} or typing {HELP} if you need assistance for an emergency."
+"You can replay the programme by typing @global.trigger_menu or typing @global.trigger_help if you need assistance for an emergency."
 msgstr ""
 
 #. type=data_list
@@ -2866,6 +2869,7 @@ msgid "My girl or boy does not want to learn."
 msgstr ""
 
 #. type=data_list
+#. The string @global.trigger_play should not be translated.
 msgctxt "data_list"
 msgid ""
 "💡Try to understand why girl or boy doesn't want to learn. It could be due to frustration, lack of motivation, unidentified learning difficulties, or simply disinterest in the teaching method.\n"
@@ -2876,7 +2880,7 @@ msgid ""
 "\n"
 "💙 Model the behaviour. When a girl or boy will see you be enthusiastic about learning, they will want to learn too! \n"
 "\n"
-"📱 For playful, educational ideas, type {PLAY} at any time!"
+"📱 For playful, educational ideas, type @global.trigger_play at any time!"
 msgstr ""
 
 #. type=data_list
@@ -2974,13 +2978,14 @@ msgid "My teen is finding it challenging to adapt to a new routine or structure.
 msgstr ""
 
 #. type=data_list
+#. The string @global.trigger_grow should not be translated.
 msgctxt "data_list"
 msgid ""
 "⏰ Adjusting to a new routine can be tough for both teens and us adults, too! Remember, it takes time.\n"
 "\n"
 "🔑 Introduce the new routine gradually, starting with small changes and building on what’s familiar. Give them cues to signal upcoming transitions. \n"
 "\n"
-"🌷 If you are concerned about your teen’s ability to adapt, type {GROW} to take the developmental assessment and explore if there is a need for additional support."
+"🌷 If you are concerned about your teen’s ability to adapt, type @global.trigger_grow to take the developmental assessment and explore if there is a need for additional support."
 msgstr ""
 
 #. type=data_list
@@ -3159,13 +3164,16 @@ msgid "My girl or boy told me that school or the house of someone I trust is an 
 msgstr ""
 
 #. type=data_list
+#. The string @global.trigger_help should not be translated.
 msgctxt "data_list"
 msgid ""
 "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n"
 "\n"
-"👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \r\rStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n"
+"👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \n"
 "\n"
-"🔔Talk with someone and get support. Type {HELP} if you need more assistance.\n"
+"Stay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n"
+"\n"
+"🔔Talk with someone and get support. Type @global.trigger_help if you need more assistance.\n"
 "\n"
 "💙 Remember to take a pause when you are stressed."
 msgstr ""
