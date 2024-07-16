@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-07-08 22:09\n"
+"PO-Revision-Date: 2024-07-16 07:47\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -2391,7 +2391,10 @@ msgstr ""
 "Comparte este mensaje para orientarles hacia otros sitios en donde puedan recibir apoyo."
 
 #. type=data_list
-#. The string @global.programme_name should not be translated.
+#. The following strings should not be translated: 
+#.      @global.programme_name
+#.      @global.trigger_menu
+#.      @global.trigger_help
 msgctxt "data_list"
 msgid ""
 "Hi!😃Thank you for your message. \n"
@@ -2400,7 +2403,7 @@ msgid ""
 "\n"
 "If your WhatsApp Support group is still active, feel free to post your questions in the group. Other parents may be able to support you with helpful suggestions. 💡\n"
 "\n"
-"You can replay the programme by typing {MENU} or typing {HELP} if you need assistance for an emergency."
+"You can replay the programme by typing @global.trigger_menu or typing @global.trigger_help if you need assistance for an emergency."
 msgstr ""
 "¡Hola! 😃 Gracias por tu mensaje. \n"
 "\n"
@@ -2408,7 +2411,7 @@ msgstr ""
 "\n"
 "Si tu Grupo de Comunidad de WhatsApp sigue activo, no dudes en publicar tus preguntas en el grupo. Es posible que otras madres, padres o personas cuidadoras puedan apoyarte con sugerencias útiles. 💡\n"
 "\n"
-"Puedes repetir el programa al mandar la palabra {MENU} o si necesitas ayuda en una situación de emergencia, puedes mandar la palabra {HELP}."
+"Puedes repetir el programa al mandar la palabra @global.trigger_menu o si necesitas ayuda en una situación de emergencia, puedes mandar la palabra @global.trigger_help."
 
 #. type=data_list
 msgctxt "data_list"
@@ -3805,6 +3808,7 @@ msgid "My girl or boy does not want to learn."
 msgstr "Mi niña o niño no quiere aprender."
 
 #. type=data_list
+#. The string @global.trigger_play should not be translated.
 msgctxt "data_list"
 msgid ""
 "💡Try to understand why girl or boy doesn't want to learn. It could be due to frustration, lack of motivation, unidentified learning difficulties, or simply disinterest in the teaching method.\n"
@@ -3815,7 +3819,7 @@ msgid ""
 "\n"
 "💙 Model the behaviour. When a girl or boy will see you be enthusiastic about learning, they will want to learn too! \n"
 "\n"
-"📱 For playful, educational ideas, type {PLAY} at any time!"
+"📱 For playful, educational ideas, type @global.trigger_play at any time!"
 msgstr ""
 "💡 Trata de entender por qué la niña o el niño no quiere aprender. Puede deberse a frustración, falta de motivación, dificultades de aprendizaje no identificadas o simplemente desinterés por el método de enseñanza.\n"
 "\n"
@@ -3825,7 +3829,7 @@ msgstr ""
 "\n"
 "💙 Modela el comportamiento. Cuando una niña o un niño ve tu entusiasmo por aprender, ¡querrá aprender también! \n"
 "\n"
-"📱 ¡Para ver ideas divertidas y educativas, escribe {PLAY} en cualquier momento!"
+"📱 ¡Para ver ideas divertidas y educativas, escribe @global.trigger_play en cualquier momento!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3951,19 +3955,20 @@ msgid "My teen is finding it challenging to adapt to a new routine or structure.
 msgstr "A mi adolescente le cuesta adaptarse a las rutinas o estructuras nuevas."
 
 #. type=data_list
+#. The string @global.trigger_grow should not be translated.
 msgctxt "data_list"
 msgid ""
 "⏰ Adjusting to a new routine can be tough for both teens and us adults, too! Remember, it takes time.\n"
 "\n"
 "🔑 Introduce the new routine gradually, starting with small changes and building on what’s familiar. Give them cues to signal upcoming transitions. \n"
 "\n"
-"🌷 If you are concerned about your teen’s ability to adapt, type {GROW} to take the developmental assessment and explore if there is a need for additional support."
+"🌷 If you are concerned about your teen’s ability to adapt, type @global.trigger_grow to take the developmental assessment and explore if there is a need for additional support."
 msgstr ""
 "⏰ ¡Adaptarse a una rutina nueva puede ser difícil tanto para un adolescente como para un adulto! Recuerda que lleva su tiempo.\n"
 "\n"
 "🔑 Poco a poco, ve metiendo la rutina nueva en tu día a día, empezando con cambios pequeños y construyendo sobre lo que ya conocen. Dales señales que indiquen las próximas transiciones. \n"
 "\n"
-"🌷 Si te preocupa la capacidad de adaptación de tu adolescente, escribe {GROW} para realizar la evaluación de desarrollo y explorar la posibilidad de que necesite apoyo adicional."
+"🌷 Si te preocupa la capacidad de adaptación de tu adolescente, escribe @global.trigger_grow para realizar la evaluación de desarrollo y explorar la posibilidad de que necesite apoyo adicional."
 
 #. type=data_list
 msgctxt "data_list"
@@ -4202,21 +4207,26 @@ msgid "My girl or boy told me that school or the house of someone I trust is an 
 msgstr "Mi niña o niño me dijo que la escuela o la casa de alguien de confianza era un lugar inseguro. ¡Me impactó mucho y no supe qué hacer!"
 
 #. type=data_list
+#. The string @global.trigger_help should not be translated.
 msgctxt "data_list"
 msgid ""
 "😔 It is shocking to learn that people who we trust may cause discomfort to our girls and boys. \n"
 "\n"
-"👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \r\rStay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n"
+"👂 Listen to girl or boy if they want to talk about why it seems dangerous or uncomfortable. Ask if it’s the place, a particular person, or both that makes them uncomfortable. \n"
 "\n"
-"🔔Talk with someone and get support. Type {HELP} if you need more assistance.\n"
+"Stay calm and open during the conversation. Trust what they say - they will not say such things for no reason!\n"
+"\n"
+"🔔Talk with someone and get support. Type @global.trigger_help if you need more assistance.\n"
 "\n"
 "💙 Remember to take a pause when you are stressed."
 msgstr ""
 "😔 Es difícil creer que hay personas en las que confiamos que pueden llegar a incomodar a nuestras niñas y niños. \n"
 "\n"
-"👂 Escucha a tu niña o niño si quiere hablar de por qué le parece peligroso o incómodo. Pregúntale si lo que le incomoda es el lugar, una persona en particular o ambas cosas. \r\rMantén la calma y tu mente abierta durante la conversación. Confía en lo que te dice: ¡no diría esas cosas sin un motivo!\n"
+"👂 Escucha a tu niña o niño si quiere hablar de por qué le parece peligroso o incómodo. Pregúntale si lo que le incomoda es el lugar, una persona en particular o ambas cosas. \n"
 "\n"
-"🔔 Habla con alguien y busca apoyo. Escribe {HELP} si necesitas más ayuda.\n"
+"Mantén la calma y tu mente abierta durante la conversación. Confía en lo que te dice: ¡no diría esas cosas sin un motivo!\n"
+"\n"
+"🔔 Habla con alguien y busca apoyo. Escribe @global.trigger_help si necesitas más ayuda.\n"
 "\n"
 "💙 Recuerda hacer una pausa cuando te encuentres en situaciones estresantes."
 
