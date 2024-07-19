@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-05-20 15:29\n"
+"PO-Revision-Date: 2024-07-19 20:34\n"
 
 #. type=text
 msgctxt "text"
@@ -160,13 +160,73 @@ msgstr "Ngabe udinga usizo oluphuthumayo?"
 
 #. type=text
 msgctxt "text"
-msgid "It looks like you are facing an emergency. Can you please tell us what kind of assistance you need?"
-msgstr "Kubukeka sengathi ubhekene nesimo esiphuthumayo. Sicela usitshele ukuthi udinga nhloboni yosizo?"
+msgid "I might know some resources that can help. Would you like information for:"
+msgstr "Kungenzeka ngazi amathuluzi angasiza. Ungaluthanda ulwazi lo:"
+
+#. type=text
+msgctxt "text"
+msgid "Please look after yourself! Your local clinic can help you with all health issues. If you need more support, here are some free helplines:"
+msgstr "Sicela uzinakekele! Umtholampilo oseduze nawe ungakusiza ngezinkinga zokuphila. Uma udinga ukwesekwa, nazi izincingo zamahala zosizo:"
+
+#. type=text
+msgctxt "text"
+msgid "Seeing and experiencing violence can be a scary and confusing time. There are people who can help you and your child through this! "
+msgstr "Ukubona nokubhekana nodlame kungaba isikhathi esithusayo. Kukhona abantu abangasiza wena nengane yakho! "
+
+#. type=text
+msgctxt "text"
+msgid "Feeling sad or stressed, or your child's behaviour is difficult? These places can help you:"
+msgstr "Uzizwa uphansi noma ukhathazekile, noma imphatho yengane yakho inzima? Lezi zindawo zingakusiza:"
+
+#. type=text
+msgctxt "text"
+msgid "Family life is difficult! Did you know the social workers at your local Department of Social Development can help with parenting skills, fatherhood, teenage pregnancy, and family and relationship counselling? If you don't have a DSD office nearby, this support will be offered by NGOs in your area:"
+msgstr "Impilo yomndeni inzima! Ubuwazi ukuthi osohlalakahle kuMnyango Wezokuthuthukiswa Komphakathi eduze nawe bangakusiza ngamakhono obuzali, ukuba ngubaba, ukumitha kwentsha, nokwelulekwa komndeni nobudlelwano? Uma lingekho i-ofisi eliseduze, ungathola usizo kuNGO eseduze nawe:"
 
 #. type=text
 msgctxt "text"
 msgid "{family referrals}"
 msgstr "{ukudluliselwa ngomndeni}"
+
+#. type=text
+msgctxt "text"
+msgid "So much of our energy goes to helping the person struggling with substance abuse. While this is important, you and the rest of the family need support too! Find support for everyone below:"
+msgstr "Amandla amaningi ethu asekusizeni umuntu ohlulwa izidakamizwa. Njengoba lokhu kubalulekile, wena nomndeni wakho nidinga ukwesekwa futhi! Thola ukwesekwa ngezansi:"
+
+#. type=text
+msgctxt "text"
+msgid "{development resources 1}"
+msgstr "{izinsiza zokuthuthukisa 1}"
+
+#. type=text
+msgctxt "text"
+msgid "Legal and SASSA issues can be stressful and confusing! There might be more support than you realise at the organisations below:"
+msgstr "Izinkinga zomthetho neSASSA ziyakhathazana! Kungenzeka kubenokwesekwa okwengeziwe ngaphezu kolwazi lwakho kulezizindawo ngezansi:"
+
+#. type=text
+msgctxt "text"
+msgid "{legal_help referrals}"
+msgstr "{legal_help referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "Understanding sexual and gender development can be confusing and difficult to talk about. We are all unique! Here is some support and guidance:"
+msgstr "Ukuqondisisa ukuthuthuka kwezocansi nobulili kungadidana futhi kube nzima ukukhuluma ngakho. Sonke sihlukile! Naku ukweseka nokwelulekwa:"
+
+#. type=text
+msgctxt "text"
+msgid "{lgbtqia referrals}"
+msgstr "{lgbtqia referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "School is where your child spends most of their time. Making sure that they are in school, and happy and supported is so important. If you're struggling with any school issues, here is some help:"
+msgstr "Ingane yakho ichitha isikhathi esiningi esikoleni. Kubalulekile ukuqiniseka ukuthi basesikoleni, bajabulile futhi bayasekwa. Uma uhlulwa izinkinga zesikole, nalu usizo:"
+
+#. type=text
+msgctxt "text"
+msgid "{school referrals}"
+msgstr "{school referrals}"
 
 #. type=text
 msgctxt "text"
@@ -177,11 +237,6 @@ msgstr "Ungathanda ukwenzani?"
 msgctxt "text"
 msgid "We hope this was helpful! You can access this information at any time by typing {HELP}."
 msgstr "Sithemba ukuthi lokhu kube usizo! Ungafinyelela lolu lwazi noma nini ngokubhala ukuthi {HELP}."
-
-#. type=text
-msgctxt "text"
-msgid "Sorry, I dont' understand what you mean."
-msgstr "Uxolo, angiqondi ukuthi usho ukuthini."
 
 #. type=text
 msgctxt "text"
@@ -634,56 +689,62 @@ msgstr "Cha"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Police"
-msgstr "Iphoyisa"
+msgid "Emergency support"
+msgstr "Ukweseka okuphuthumayo"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Medical services"
-msgstr "Izinkonzo zezokwelapha"
+msgid "Health support services"
+msgstr "Ukweseka kokuphila okuhle"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Fire department"
-msgstr "Umyango wezicishamlilo"
+msgid "Dealing with violence"
+msgstr "Ukubhekana nodlame"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Mental health services"
-msgstr "Usizo lwezinkinga zengqondo"
+msgid "Suicide prevention services"
+msgstr "Usizo oluphuthumayo lokunqanda ukuzibulala"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Violence prevention hotline"
-msgstr "Inombolo yokunqanda udlame"
+msgid "Family counselling and support"
+msgstr "Ukwelulekwa nokweseka komndeni"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Suicide prevention hotline"
-msgstr "Inombolo ephuthumayo yokunqanda ukuzibulala"
+msgid "Drugs and alcohol abuse"
+msgstr "Ukusetshenziswa kwezidakamizwa notshwala"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Family counselling services"
-msgstr "Usizo lokwelulekwa komndeni"
+msgid "Child development support"
+msgstr "Ukwesekwa ngokukhula kwengane"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Substance abuse"
-msgstr "Ukusetshenziswa kwezidakamizwa"
+msgid "Legal or SASSA help"
+msgstr "Usizo ngezomthetho noma iSASSA"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Natural disasters"
-msgstr "Izinhlekelele zemvelo"
+msgid "LGBTQIA+ support services"
+msgstr "Usizo ngokweseka iLGBTQIA+"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "School issues"
+msgstr "Izinkinga zesikole"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -700,7 +761,7 @@ msgstr "Iya Kwimenyu enkulu"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit menu"
+msgid "Exit Menu"
 msgstr "Phuma kumenyu"
 
 #. type=quick_replies
@@ -750,6 +811,12 @@ msgstr "NA"
 msgctxt "quick_replies"
 msgid "Return to Menu"
 msgstr "Buyela kwi-Menyu enkulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit menu"
+msgstr "Phuma kumenyu"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -940,56 +1007,62 @@ msgstr "cha n cha"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "police"
-msgstr "Iphoyisa"
+msgid "emergency support"
+msgstr "ukweseka okuphuthumayo"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "medical services"
-msgstr "izinkonzo zezempilo"
+msgid "health support services"
+msgstr "ukweseka kokuphila okuhle"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "fire department"
-msgstr "umnyango wezemililo"
+msgid "dealing with violence"
+msgstr "ukubhekana nodlame"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "mental health services"
-msgstr "izinkonzo zezempilo zengqondo"
+msgid "suicide prevention services"
+msgstr "usizo oluphuthumayo lokunqanda ukuzibulala"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "violence prevention hotline"
-msgstr "inombolo yocingo yamahhala yezimo eziphuthumayo yokuvimbela udlame"
+msgid "family counselling and support"
+msgstr "ukwelulekwa nokweseka komndeni"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "suicide prevention hotline"
-msgstr "inombolo yocingo yamahhala yezimo eziphuthumayo yokuvimbela ukuzibulala"
+msgid "drugs and alcohol abuse"
+msgstr "ukusetshenziswa kwezidakamizwa notshwala"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "family counselling services"
-msgstr "Usizo lokwelulekwa komndeni"
+msgid "child development support"
+msgstr "ukwesekwa ngokukhula kwengane"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "substance abuse"
-msgstr "ukusetshenziswa kwezidakamizwa"
+msgid "legal or sassa help"
+msgstr "usizo ngezomthetho noma i-sassa"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "natural disasters"
-msgstr "izinhlekelele zemvelo"
+msgid "lgbtqia+ support services"
+msgstr "usizo ngokweseka ilgbtqia+"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "school issues"
+msgstr "izinkinga zesikole"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
