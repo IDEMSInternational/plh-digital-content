@@ -149,12 +149,72 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "It looks like you are facing an emergency. Can you please tell us what kind of assistance you need?"
+msgid "I might know some resources that can help. Would you like information for:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Please look after yourself! Your local clinic can help you with all health issues. If you need more support, here are some free helplines:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Seeing and experiencing violence can be a scary and confusing time. There are people who can help you and your child through this! "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Feeling sad or stressed, or your child's behaviour is difficult? These places can help you:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Family life is difficult! Did you know the social workers at your local Department of Social Development can help with parenting skills, fatherhood, teenage pregnancy, and family and relationship counselling? If you don't have a DSD office nearby, this support will be offered by NGOs in your area:"
 msgstr ""
 
 #. type=text
 msgctxt "text"
 msgid "{family referrals}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "So much of our energy goes to helping the person struggling with substance abuse. While this is important, you and the rest of the family need support too! Find support for everyone below:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{development resources 1}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Legal and SASSA issues can be stressful and confusing! There might be more support than you realise at the organisations below:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{legal_help referrals}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Understanding sexual and gender development can be confusing and difficult to talk about. We are all unique! Here is some support and guidance:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{lgbtqia referrals}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "School is where your child spends most of their time. Making sure that they are in school, and happy and supported is so important. If you're struggling with any school issues, here is some help:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{school referrals}"
 msgstr ""
 
 #. type=text
@@ -165,11 +225,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "We hope this was helpful! You can access this information at any time by typing {HELP}."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Sorry, I dont' understand what you mean."
 msgstr ""
 
 #. type=text
@@ -623,55 +678,61 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Police"
+msgid "Emergency support"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Medical services"
+msgid "Health support services"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Fire department"
+msgid "Dealing with violence"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Mental health services"
+msgid "Suicide prevention services"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Violence prevention hotline"
+msgid "Family counselling and support"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Suicide prevention hotline"
+msgid "Drugs and alcohol abuse"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Family counselling services"
+msgid "Child development support"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Substance abuse"
+msgid "Legal or SASSA help"
 msgstr ""
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Natural disasters"
+msgid "LGBTQIA+ support services"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "School issues"
 msgstr ""
 
 #. type=quick_replies
@@ -689,7 +750,7 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit menu"
+msgid "Exit Menu"
 msgstr ""
 
 #. type=quick_replies
@@ -738,6 +799,12 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Return to Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit menu"
 msgstr ""
 
 #. type=quick_replies
@@ -929,55 +996,67 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "police"
+msgid "emergency support"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "medical services"
+msgid "health support services"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "fire department"
+msgid "dealing with violence"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "mental health services"
+msgid "suicide prevention services"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "violence prevention hotline"
+msgid "family counselling and support"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "suicide prevention hotline"
+msgid "drugs and alcohol abuse"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "family counselling services"
+msgid "child development support"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "substance abuse"
+msgid "legal or sassa help"
 msgstr ""
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "natural disasters"
+msgid "lgbtqia+ support services"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "school issues"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid ""
 msgstr ""
 
 #. type=arguments
