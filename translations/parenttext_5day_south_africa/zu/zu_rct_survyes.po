@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-07-05 19:56\n"
+"PO-Revision-Date: 2024-07-19 08:39\n"
 
 #. type=text
 msgctxt "text"
@@ -109,6 +109,16 @@ msgstr "Uxolo. Angeke ukwazi ukuhlanganyela kuloluhlelo. Uma wazi umzali ongowas
 msgctxt "text"
 msgid "{share link}"
 msgstr "{share link}"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay."
+msgstr "Kulungile."
+
+#. type=text
+msgctxt "text"
+msgid "fail"
+msgstr "akuhambi kahle"
 
 #. type=text
 msgctxt "text"
@@ -267,6 +277,57 @@ msgstr "Kwakuhle! Uhambo lwakho lweParentText luqala manje!"
 
 #. type=text
 msgctxt "text"
+msgid "Sorry, this date is invalid. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Uxolo, lolu suku akulona. Sicela unikeze usuku lokuzalwa lwengane yakho ngalendlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "The date you entered is in the future. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Usuku olifakile isesikhathini esizayo. Sicela unikeze usuku yokuzalwa yengane yakho ngale ndlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "Let's try again. Please provide your child's date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ake sizame futhi. Sicela unikeze usuku lokuzalwa lwengane yakho ngale ndlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "@fields.child_nickname ngu @(round_down(isikhathi sosuku_diff(imiphumela.Usukulungele,manje(),\"M\")/12)) ubudala -. Ingabe kuyikho lokho?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your child is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "Ingane yakho ineminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)). Ingabe lokho kuliqiniso?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
+msgstr "i-@fields.child_nickname ineminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)) yobudala. Ingabe kuyikho lokho?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your teen is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
+msgstr "Osemusha wakho uneminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)). Ingabe lokho kuliqiniso?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ngoko suku olinikezile, @fields.child_nickname izoba @(round_down(datetime_diff(results.date,now(),\"M\")/12)) iminyaka yobudala. I-ParentText eyezingane ezineminyaka esukela ku-2-17 kuphela. Sicela ufake usuku okuyiloi lokuzalwa kwengane yakho ngefomethi elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, your child would be @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ngoko suku olinikezile, @fields.child_nickname izoba @(round_down(datetime_diff(results.date,now(),\"M\")/12)) iminyaka yobudala. I-ParentText eyezingane ezineminyaka esukela ku-2-17 kuphela. Sicela ufake usuku okuyiloi lokuzalwa kwengane yakho ngefomethi elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
 msgid "What is your first name?"
 msgstr "Ubani igama lakho?"
 
@@ -274,16 +335,6 @@ msgstr "Ubani igama lakho?"
 msgctxt "text"
 msgid "What is your last name?"
 msgstr "Sicela usinikeze isibongo sakho?"
-
-#. type=text
-msgctxt "text"
-msgid "Please share the phone number you would like to receive the funds at: "
-msgstr "Sicela wethule inombolo yefoni ongathanda ukuthola imali kuyo: "
-
-#. type=text
-msgctxt "text"
-msgid "This doesn't look like a phone number in the correct format. Let's try again."
-msgstr "Lokhu akubukeki njengenombolo yefoni ebhalwe kahle. Masizame futhi."
 
 #. type=text
 msgctxt "text"
@@ -1103,6 +1154,12 @@ msgstr "Cha"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "OKULANDELAYO"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "English"
 msgstr "IsiNgisi"
 
@@ -1111,12 +1168,6 @@ msgstr "IsiNgisi"
 msgctxt "quick_replies"
 msgid "IsiZulu"
 msgstr "IsiZulu"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "NEXT"
-msgstr "OKULANDELAYO"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1751,6 +1802,18 @@ msgstr "ngokushesha"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "relationship"
+msgstr "ubudlelwano"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "development"
+msgstr "ukukhula"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "english"
 msgstr "isiNgisi"
 
@@ -1789,6 +1852,18 @@ msgstr "cha, ngingaphansi weminyaka eyi-18"
 msgctxt "arguments"
 msgid "exit"
 msgstr "phuma"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep"
+msgstr "yebo y yebo yeb"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr "cha n cha"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
