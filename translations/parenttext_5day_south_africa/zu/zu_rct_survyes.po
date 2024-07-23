@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-07-23 16:35\n"
+"PO-Revision-Date: 2024-07-23 22:27\n"
 
 #. type=text
 msgctxt "text"
@@ -197,6 +197,46 @@ msgstr "akuhambi kahle"
 
 #. type=text
 msgctxt "text"
+msgid "👀 Oops! You've timed out. If you want to rejoin ParentText, press 1. "
+msgstr "👀 Eish! Uphelelwe isikhathi. Uma ufuna ukujoyina iJabuChat futhi, chofoza 1. "
+
+#. type=text
+msgctxt "text"
+msgid "🔑 You will receive the opportunity to participate in the 3 month survey, and receive R75 airtime, whether or not you complete ParentText. "
+msgstr "🔑 Uzothola ithuba lokuhlanganyela kunhlolovo lwezinyanga ezintathu, bese uthola i-airtime ka-R75, uqeda noma ungaqedile ngeJabuChat. "
+
+#. type=text
+msgctxt "text"
+msgid "It looks like you’re not interested in the Child Development course right now. If you want to join the Child Development course later, just press 1. 📚"
+msgstr "Kubukeka sengathi awunandaba nesifundo Ukuthuthuka Kwengane njengamanje. Uma ufuna ukujoyina Ukuthuthuka Kwengane ngesinye isikhathi, chofoza nje 1. 📚"
+
+#. type=text
+msgctxt "text"
+msgid "Remember, you can still take the 3-month survey and get R75 airtime, even if you don’t do the course. 🎁"
+msgstr "Khumbula, usengathatha unhlolovo lwezinyanga ezintathu bese uthola i-airtime ka-R75, noma ungasenzi isifundo. 🎁"
+
+#. type=text
+msgctxt "text"
+msgid "You will continue with your progress tomorrow."
+msgstr "Ungaqhubeka kusasa."
+
+#. type=text
+msgctxt "text"
+msgid "You can invite your family and friends to join the study and earn airtime, too! Just share this link with them: {rct link}"
+msgstr "Ungamema umndeni wakho noma abangani ukujoyina unhlolovo, nabo bathole i-airtime! Bathumelele lelinki kuphela: {rct link}"
+
+#. type=text
+msgctxt "text"
+msgid "🎉 You've been selected to receive WashText. Let's get started:"
+msgstr "🎉 Ukhethiwe ukuthola iWashtext. Masiqale:"
+
+#. type=text
+msgctxt "text"
+msgid "🎉 You've been selected to receive ParentText. Let's get started:"
+msgstr "🎉 Ukhethiwe ukuthola iJabuChat. Masiqale:"
+
+#. type=text
+msgctxt "text"
 msgid "Please select your language:"
 msgstr "Sicela ukhethe ulimi lwakho:"
 
@@ -349,6 +389,22 @@ msgstr "Kulungile. Ngiyabonga!"
 msgctxt "text"
 msgid "Great! Your ParentText journey starts now!"
 msgstr "Kwakuhle! Uhambo lwakho lweParentText luqala manje!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "What is @fields.child_nickname's date of birth?"
+msgstr "Wazalwa nini u@fields.child_nickname?"
+
+#. type=text
+msgctxt "text"
+msgid "Enter their date of birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Faka usuku lwakhe lokuzalwa ngalendlela elandelayo: DD/MM/YYYY. Isibonelo, uma ingane yakho yazalwa ngoMeyi 19, 2010, faka umhlaka-19/05/2010."
+
+#. type=text
+msgctxt "text"
+msgid "What is your child's date of birth?"
+msgstr "Yazalwa nini ingane yakho?"
 
 #. type=text
 msgctxt "text"
@@ -1237,6 +1293,18 @@ msgstr "1"
 msgctxt "quick_replies"
 msgid "2"
 msgstr "2"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Relationship"
+msgstr "Ubudlelwano"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Development"
+msgstr "Ukuthuthuka"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -2497,4 +2565,10 @@ msgstr "Kuwusizo olukhulu kakhulu"
 msgctxt "arguments"
 msgid "8 or more"
 msgstr "kawu-8 kuyela phezulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "completed"
+msgstr "qedile"
 
