@@ -11,7 +11,12 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-07-19 08:39\n"
+"PO-Revision-Date: 2024-07-23 16:35\n"
+
+#. type=text
+msgctxt "text"
+msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
+msgstr "Kubukeka sengathi lesi akusona isikhathi esihle. Sicela ubhale 1 uma ungathanda ukuqhubeka."
 
 #. type=text
 msgctxt "text"
@@ -112,8 +117,78 @@ msgstr "{share link}"
 
 #. type=text
 msgctxt "text"
+msgid "🥳 It's time for your 2nd survey. This survey contains about 25 questions. You will receive R50 airtime for participating. Are you ready to get started? "
+msgstr "🥳 Sekuyisikhathi sokwenza inhlolovo yesibili. Le nhlolovo inemibuzo eyi-25. Uzothola i-airtime ye-R50 ngokuphendula imibuzo. Sewukulungele ukuqala na? "
+
+#. type=text
+msgctxt "text"
+msgid "Press a number on your keypad:"
+msgstr "Cindezela inombolo kukhiphedi yakho:"
+
+#. type=text
+msgctxt "text"
+msgid "1. Yes"
+msgstr "1. Yebo"
+
+#. type=text
+msgctxt "text"
+msgid "2. No"
+msgstr "2. Cha"
+
+#. type=text
+msgctxt "text"
 msgid "That's okay."
 msgstr "Kulungile."
+
+#. type=text
+msgctxt "text"
+msgid "🥳 It's time for your last survey.  If you complete the survey, you will receive R75 airtime. Are you ready to get started? "
+msgstr "🥳 Sekuyisikhathi sokwenza inhlolovo yokugcina. Mawuyiqeda uzothola i-airtime ye-R75. Sewukulungele ukuqala na?"
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Grow Together! 🌱"
+msgstr "🌱 Khula Ndawonye! 🌱"
+
+#. type=text
+msgctxt "text"
+msgid "Your child is growing up fast! Learn more with our easy 5-day course on child development in ParentText. Just 5 minutes each day. Earn a certificate when you finish! Want to start? Reply \"Yes\" now!"
+msgstr "Ingane yakho ikhula ngokushesha! Funda ngokwengeziwe ngesifundo sethu sezinsuku ezi-5 ngokukhula kwengane kuJabuChat. Imizuzu emihlanu kuphela ngosuku. Zuza isitifiketi uma uqeda! Ufuna ukuqala? Phendula ngo \"Yebo\" manje!"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay! You can easily access the Child Development course any time you want via the main menu. Just type {MENU} to access it. "
+msgstr "Lokho kulungile! Ungangena kalula esifundweni soKuthuthuka Kwengane noma inini kumenyu enkulu. Bhala u{MENU} ukungena. "
+
+#. type=text
+msgctxt "text"
+msgid "🔑 You can still join the next survey, and receive R75 airtime, regardless of whether or not you complete ParentText."
+msgstr "🔑 Usengajoyina unhlolovo olulandelayo, bese uthola i-airtime ka-R75, uqeda noma ungaqedile ngeJabuChat."
+
+#. type=text
+msgctxt "text"
+msgid "👏 You're doing an amazing job learning how to improve your relationship with your child! 👏"
+msgstr "👏 Wenze kahle ngokuthatha isikhathi ukufunda ukuthuthukisa ubudlelwano nengane yakho! 👏"
+
+#. type=text
+msgctxt "text"
+msgid "🌟 ParentText now has a new 5-day course on understanding and helping your child's development. 🌟"
+msgstr "🌟 JabuChat isinesifundo esisha sezinsuku ezinhlanu ngokuqondisisa nokusiza ukukhula kwengane yakho. 🌟"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to keep working towards your current certificate on improving your relationship, or start the new course on child development? Reply \"Relationship\" or \"Development\" to choose!"
+msgstr "Ungathanda ukuqhubeka ngokusebenzela isitifiketi sakho samanje ngokuthuthukisa ukudlelwano, noma uqale isifundo esisha ngokuthuthuka kwengane? Phendula \"Ubudlelwano\" noma \"Ukuthuthuka\" ukukhetha!"
+
+#. type=text
+msgctxt "text"
+msgid "Great! Let's keep going with your current course. "
+msgstr "Kwakuhle! Masiqhubeke ngesifundo sakho osenzayo manje. "
+
+#. type=text
+msgctxt "text"
+msgid "🔑  Once you finish, you'll be able to start the Child Development course. Keep up the good work!"
+msgstr "🔑 Uma usuqedile, uzokwazi ukuqala isifundo Ukuthuthuka Kwengane. Qhubeka ngomsebenzi omuhle!"
 
 #. type=text
 msgctxt "text"
@@ -294,7 +369,7 @@ msgstr "Ake sizame futhi. Sicela unikeze usuku lokuzalwa lwengane yakho ngale nd
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
-msgstr "@fields.child_nickname ngu @(round_down(isikhathi sosuku_diff(imiphumela.Usukulungele,manje(),\"M\")/12)) ubudala -. Ingabe kuyikho lokho?"
+msgstr "@fields.child_nickname ngu @(round_down(datetime_diff(results.date,now(),\"M\")/12)) ubudala -. Ingabe kuyikho lokho?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1154,6 +1229,18 @@ msgstr "Cha"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "1"
+msgstr "1"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "2"
+msgstr "2"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "NEXT"
 msgstr "OKULANDELAYO"
 
@@ -1676,18 +1763,6 @@ msgstr "0"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "1"
-msgstr "1"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "2"
-msgstr "2"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "3"
 msgstr "3"
 
@@ -1798,6 +1873,18 @@ msgstr "inhlolovo"
 msgctxt "arguments"
 msgid "swift"
 msgstr "ngokushesha"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "1"
+msgstr "1"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "2"
+msgstr "2"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -2338,18 +2425,6 @@ msgstr "anginaye umlingani ekhaya lami"
 msgctxt "arguments"
 msgid "0"
 msgstr "0"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "1"
-msgstr "1"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "2"
-msgstr "2"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
