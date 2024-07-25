@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2024-07-25 11:12\n"
+"PO-Revision-Date: 2024-07-25 12:49\n"
 
 #. type=text
 msgctxt "text"
@@ -394,7 +394,7 @@ msgstr "Kwakuhle! Uhambo lwakho lweParentText luqala manje!"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "What is @fields.child_nickname's date of birth?"
-msgstr "Yazalwa nini u@fields.child_nickname?"
+msgstr "Wazalwa nini u@fields.child_nickname?"
 
 #. type=text
 msgctxt "text"
@@ -425,7 +425,7 @@ msgstr "Ake sizame futhi. Sicela unikeze usuku lokuzalwa lwengane yakho ngale nd
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old. Is that correct?"
-msgstr "u@fields.child_nickname ineminyaka engu- @(round_down(datetime_diff(results.date,now(),\"M\")/12)). Ingabe kuyikho lokho?"
+msgstr "U@fields.child_nickname uneminyaka engu- @(round_down(datetime_diff(results.date,now(),\"M\")/12)). Ingabe kuyikho lokho?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -437,7 +437,7 @@ msgstr "Ingane yakho ineminyaka engu-@(round_down(datetime_diff(results.date,now
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.child_nickname is @(round_down(datetime_diff(results.date,now(),\"M\")/12)) years old.  Is that correct?"
-msgstr "u-@fields.child_nickname uneminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)) yobudala. Ingabe kuyikho lokho?"
+msgstr "U@fields.child_nickname uneminyaka engu-@(round_down(datetime_diff(results.date,now(),\"M\")/12)) yobudala. Ingabe kuyikho lokho?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -666,7 +666,7 @@ msgstr "Yini ubulili u@fields.child_nickname azalwe nabo?"
 #. type=text
 msgctxt "text"
 msgid "What is your teen's biological sex?"
-msgstr "Yini ubulili osemusha wakho ozalwe nabo?"
+msgstr "Yini ubulili umntwana wakho ozalwe nabo?"
 
 #. type=text
 msgctxt "text"
@@ -836,7 +836,7 @@ msgstr "Kukangakanani evikini eledlule lapho uzimisele khona ukwenza izinto no@f
 #. type=text
 msgctxt "text"
 msgid "How often in the past week did you actively participate in activities with your teen, such as playing, sharing books, or helping with schoolwork?"
-msgstr "Kukangakanani evikini eledlule lapho uzimisele khona ukwenza izinto nosemusha wakho, njengokudlala, ukwabelana izincwadi, noma ukusiza ngomsebenzi wesikole?"
+msgstr "Kukangakanani evikini eledlule lapho uzimisele khona ukwenza izinto nomntwana wakho, njengokudlala, ukwabelana izincwadi, noma ukusiza ngomsebenzi wesikole?"
 
 #. type=text
 msgctxt "text"
@@ -1712,7 +1712,7 @@ msgstr "Umzala"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Too young for school"
-msgstr "Mncane kakhulu ekuya esikoleni"
+msgstr "Mncane kakhulu ukuya esikoleni"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -2378,7 +2378,7 @@ msgstr "umzala"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "too young for school"
-msgstr "mncane kakhulu ekuya esikoleni"
+msgstr "mncane kakhulu ukuya esikoleni"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
