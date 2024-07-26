@@ -1241,6 +1241,7 @@ msgid "Message 5: Goodbye"
 msgstr ""
 
 #. type=data_list
+#. The string @global.programme_name should not be translated.
 msgctxt "data_list"
 msgid ""
 "It's been wonderful being part of this amazing parent program with all of you! Saying goodbye makes me a bit sad. \n"
@@ -1249,7 +1250,7 @@ msgid ""
 "\n"
 "You are the best parents to your girls, boys and teens.  *You can still complete your final Crianza con Conciencia+ lessons if you have not done so yet*. 🌱\n"
 "\n"
-"We all face difficult situations sometimes, and these final parts of Crianza con Conciencia+ will help you and your girl, boy or teen to get through them well. \n"
+"We all face difficult situations sometimes, and these final parts of @global.programme_name will help you and your girl, boy or teen to get through them well. \n"
 "\n"
 "You’ve got this! ⭐You are doing a wonderful job as a caregiver. It has been a pleasure to be on this journey with you!"
 msgstr ""
@@ -1693,12 +1694,18 @@ msgid ""
 msgstr ""
 
 #. type=data_list
-#. The string in@global.programme_name should not be translated.
+#. The following strings should not be translated: 
+#.      @global.trigger_help
+#.      @global.programme_name
 msgctxt "data_list"
 msgid ""
 "Dear [INSERT NAME], \n"
 "\n"
-"This space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\r\rYou can also type HELP in@global.programme_name ParentText to find more resources for support. \r\rYour safety and well-being is important to us, and we are here to help. Asking for help is a brave and healthy act"
+"This space is here to support you. If you or someone else is in immediate danger, consider calling La Línea de la Vida at 800 911 2000 or SAPTEL at 55 5259 8121 for assistance.\n"
+"\n"
+"You can also type @global.trigger_help in @global.programme_name to find more resources for support. \n"
+"\n"
+"Your safety and well-being is important to us, and we are here to help. Asking for help is a brave and healthy act"
 msgstr ""
 
 #. type=data_list
@@ -1823,17 +1830,20 @@ msgid ""
 msgstr ""
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @global.trigger_menu.
+#.      @global.trigger_help
 msgctxt "data_list"
 msgid ""
 "Hello 👋\n"
 "\n"
 "Thank you for sharing your thoughts about the programme. I’m sorry that you’re facing challenges. Here are a couple of things you can try: \n"
 "\n"
-"1️⃣If there’s a lesson that you are finding difficult, remember you can always go back to it by typing MENU. Practice makes perfect! ✨\n"
+"1️⃣If there’s a lesson that you are finding difficult, remember you can always go back to it by typing @global.trigger_menu. Practice makes perfect! ✨\n"
 "\n"
 "2️⃣If you feel comfortable, please feel free to chat about the areas you’re finding tough with your peers in the WhatsApp Support Group. Your peers might have some helpful tips 👍\n"
 "\n"
-"3️⃣If you are facing a severe situation, please type HELP to access a list of resources. \n"
+"3️⃣If you are facing a severe situation, please type @global.trigger_help to access a list of resources. \n"
 "\n"
 "Remember, everyone’s learning journey is unique, and change takes time. But trust me, if you keep practising the skills you’ve learned, you’ll start to see progress. 🏅"
 msgstr ""
@@ -2665,8 +2675,7 @@ msgid ""
 "\n"
 "🌱Next time you spend one-on-one time, try and think of one thing you can praise them for. \n"
 "\n"
-"☀️You can even say, “Thank you for\n"
-"spending time with me!”"
+"☀️You can even say, “Thank you for spending time with me!”"
 msgstr ""
 
 #. type=data_list
