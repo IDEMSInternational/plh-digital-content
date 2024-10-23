@@ -136,7 +136,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course “Improve my Relationship with My Child”. ⭐"
+msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course {goal_name}. ⭐"
 msgstr ""
 
 #. type=text
@@ -270,7 +270,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "💡@fields.child_nickname may use gestures, full sentences, movements, and sounds to communicate with you. Respond to your child when they communicate with you. It shows you are really paying attention to them."
+msgid "💡 @fields.child_nickname may use gestures, full sentences, movements, and sounds to communicate with you. Respond to your child when they communicate with you. It shows you are really paying attention to them."
 msgstr ""
 
 #. type=text
@@ -285,7 +285,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "💡your child may use gestures, full sentences, movements, and sounds to communicate with you. Respond to your child when they communicate with you. It shows you are really paying attention to them."
+msgid "💡 your child may use gestures, full sentences, movements, and sounds to communicate with you. Respond to your child when they communicate with you. It shows you are really paying attention to them."
 msgstr ""
 
 #. type=text
@@ -1493,7 +1493,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course “Improve My Relationship with My Child” 🏆"
+msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course {goal_name} 🏆"
 msgstr ""
 
 #. type=text
@@ -1610,12 +1610,22 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "✨ “Please speak more softly.” \r(instead of “stop shouting”)"
+msgid "✨ “Please speak more softly.” "
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "✨ “Remember to walk inside the house.”\r(instead of “stop running”)"
+msgid "(instead of “stop shouting”)"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✨ “Remember to walk inside the house.”"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "(instead of “stop running”)"
 msgstr ""
 
 #. type=text
@@ -1764,7 +1774,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course “Improve my Relationship with my Teen.” ⭐"
+msgid "You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course {goal_name}⭐"
 msgstr ""
 
 #. type=text
@@ -1844,7 +1854,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "💛 Accept your teen and avoid judgment."
+msgid "💛 Accept your teen and avoid judgement."
 msgstr ""
 
 #. type=text
@@ -1964,7 +1974,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Well done, you have now learnt the four steps to Praise! ⭐ You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course “Improve my Relationship with my Teen.”"
+msgid "Well done, you have now learnt the four steps to Praise! ⭐ You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course {goal_name}."
 msgstr ""
 
 #. type=text
@@ -2205,39 +2215,29 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Amazing! 🎉 You have learnt how to create a routine with your teen! You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course “Improve My Relationship with My Teen.”"
+msgid "Amazing! 🎉 You have learnt how to create a routine with your teen! You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course {goal_name}."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "To continue building a positive relationship with @fields.child_nickname, let’s make one-on-one time a part of a routine. "
+msgid "To continue building a positive relationship with @fields.child_nickname, let’s make one-on-one time a part of a routine. \r\rYou can use the tips in this lesson to create other daily routines with @fields.child_nickname. "
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Creating other daily routines with @fields.child_nickname will help them feel more calm and connected with you and behave better.  🔑 "
+msgid "Creating other daily routines with @fields.child_nickname will help them feel more calm and connected with you and behave better.  🔑 \r\rHelp them plan time for resting, meals, chores, school, and sleep. ⏰"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Help them plan time for resting, meals, chores, school, and sleep. ⏰"
+msgid "To continue building a positive relationship with your teen, let’s make one-on-one time a part of a routine. \r\rYou can use the tips in this lesson to create other daily routines with your teen. "
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "To continue building a positive relationship with your teen, let’s make one-on-one time a part of a routine. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You can use the tips in this lesson to create other daily routines with your teen. "
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Creating other daily routines with your teen will help them feel more calm and connected with you and behave better.  🔑 "
+msgid "Creating other daily routines with your teen will help them feel more calm and connected with you and behave better.  🔑 \r\rHelp them plan time for resting, meals, chores, school, and sleep. ⏰"
 msgstr ""
 
 #. type=text
@@ -2303,7 +2303,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "💙 This helps your teen feel secure, calm and connected to you, because they know what to expect."
+msgid "💙 This helps your teen feel secure, calm and connected to you because they know what to expect."
 msgstr ""
 
 #. type=text
@@ -2374,12 +2374,12 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "This lesson is about noticing your and @fields.child_nickname feelings during one-on-one time."
+msgid "This lesson is about noticing your and @fields.child_nickname’s feelings during one-on-one time."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "This lesson is about noticing your and your teen feelings during one-on-one time."
+msgid "This lesson is about noticing your and your teen’s feelings during one-on-one time."
 msgstr ""
 
 #. type=text
@@ -2505,18 +2505,18 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Well done. You have now learned the 6 steps to noticing feelings during one-on-one time! ⭐ You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course “Improve my Relationship with my Teen.”"
+msgid "Well done. You have now learned the 6 steps to noticing feelings during one-on-one time! ⭐ You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course {goal_name}."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Noticing and talking about feelings with @fields.child_nickname will help them learn how to express themselves. "
+msgid "Noticing and talking about feelings with @fields.child_nicknames will help them learn how to express themselves. "
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Noticing and talking about feelings with your teen will help them learn how to express themselves. "
+msgid "Noticing and talking about feelings with your teens will help them learn how to express themselves. "
 msgstr ""
 
 #. type=text
@@ -2711,7 +2711,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course “Improve My Relationship with My Teen” 🏆"
+msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course {goal_name}. 🏆"
 msgstr ""
 
 #. type=text
@@ -2769,12 +2769,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "✨ “Please speak more softly.”"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "(instead of “stop shouting”)"
+msgid "✨ “Please speak more softly.” instead of “Stop shouting!”"
 msgstr ""
 
 #. type=text
@@ -2784,7 +2779,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "(instead of “don’t leave your jacket on the floor”)"
+msgid "instead of “Don’t leave your jacket on the floor!”"
 msgstr ""
 
 #. type=text
@@ -2845,6 +2840,71 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "1️⃣ **SIT DOWN**"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⏸  Find a place where you can sit comfortably."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "⭐ You can close your eyes if you want."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **LISTEN**"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Take a deep breath."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "👂 Feel the air moving in and out of your body."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🔄 Repeat this 5 times."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ **NOTICE**"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✨ Notice how your body feels while you breathe."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🔵 Notice where you feel tension in your body and try to let it go."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ **OPEN YOUR EYES**"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "👀 When you are ready, open your eyes."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🔑 Notice if you feel any different than when you started this activity."
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "✅⬜️"
 msgstr ""
 
@@ -2876,71 +2936,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Well done! 🎉 You have learnt the importance of caring for yourself and how to take a pause. ✨"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "1️⃣ *SIT DOWN*"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "⏸  Find a place where you can sit comfortably."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "⭐ You can close your eyes if you want."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "2️⃣ *LISTEN*"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🌱 Take a deep breath."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "👂 Feel the air moving in and out of your body."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🔄 Repeat this 5 times."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "3️⃣ *NOTICE*"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "✨ Notice how your body feels while you breathe."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🔵 Notice where you feel tension in your body and try to let it go."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "4️⃣ *OPEN YOUR EYES*"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "👀 When you are ready, open your eyes."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🔑 Notice if you feel any different than when you started this activity."
 msgstr ""
 
 #. type=quick_replies
