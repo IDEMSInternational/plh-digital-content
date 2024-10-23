@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2024-10-23 06:48\n"
+"PO-Revision-Date: 2024-10-23 09:00\n"
 
 #. type=text
 msgctxt "text"
@@ -349,7 +349,7 @@ msgstr "{development resources 1}"
 #. type=text
 msgctxt "text"
 msgid "Legal and SASSA issues can be stressful and confusing! There might be more support than you realise at the organisations below:"
-msgstr "Wettige en SASSA-kwessies kan stresvol en verwarrend wees! Daar mag meer ondersteuning wees as wat jy besef by die onderstaande organisasies:"
+msgstr "Wetlike en SASSA-kwessies kan stresvol en verwarrend wees! Daar mag meer ondersteuning wees as wat jy besef by die onderstaande organisasies:"
 
 #. type=text
 msgctxt "text"
@@ -745,6 +745,11 @@ msgstr "1. Ja"
 msgctxt "text"
 msgid "2. Remind me tomorrow"
 msgstr "2. Herinner my môre"
+
+#. type=text
+msgctxt "text"
+msgid "You’re off track! Do you want to complete your previous unifinished lesson or start a new lesson?"
+msgstr "Jy is van koers af! Wil jy jou vorige onvoltooide les voltooi of 'n nuwe les begin?"
 
 #. type=text
 msgctxt "text"
@@ -1757,6 +1762,12 @@ msgstr "Engels"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "IsiZulu"
+msgstr "IsiZulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "YES"
 msgstr "JA"
 
@@ -1799,6 +1810,66 @@ msgstr "VOLGENDE"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Emergency support"
+msgstr "Noodondersteuning"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Health support services"
+msgstr "Gesondheidsondersteuningsdienste"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Dealing with violence"
+msgstr "Om geweld te hanteer"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Suicide prevention services"
+msgstr "Selfmoordvoorkomingsdienste"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Family counselling and support"
+msgstr "Gesinsberading en ondersteuning"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Drugs and alcohol abuse"
+msgstr "Dwelm- en alkoholmisbruik"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Child development support"
+msgstr "Ondersteuning vir kindontwikkeling"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Legal or SASSA help"
+msgstr "Wetlike or SASSA hulp"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "LGBTQIA+ support services"
+msgstr "LGBTQIA+ ondersteuningsdienste"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "School issues"
+msgstr "Skoolkwessies"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Get other emergency contacts"
 msgstr "Kry ander noodkontakte"
 
@@ -1807,6 +1878,12 @@ msgstr "Kry ander noodkontakte"
 msgctxt "quick_replies"
 msgid "Go to the Main Menu"
 msgstr "Gaan na die Hoofkieslys"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit Menu"
+msgstr "Verlaat Kieslys"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -2009,8 +2086,20 @@ msgstr "Verander my instellings"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Invite a friend to enroll"
+msgstr "Nooi 'n vriend om in te skryf"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Get help with an emergency"
 msgstr "Kry hulp in 'n noodgeval"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Watch a video with instructions"
+msgstr "Kyk 'n video met instruksies"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -2381,6 +2470,66 @@ msgstr "nee n"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "emergency support"
+msgstr "noodondersteuning"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "health support services"
+msgstr "gesondheidsondersteuningsdienste"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "dealing with violence"
+msgstr "om geweld te hanteer"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "suicide prevention services"
+msgstr "selfmoordvoorkomingsdienste"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "family counselling and support"
+msgstr "gesinsberading en ondersteuning"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "drugs and alcohol abuse"
+msgstr "dwelm- en alkoholmisbruik"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "child development support"
+msgstr "ondersteuning vir kindontwikkeling"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "legal or sassa help"
+msgstr "wetlike or SASSA hulp"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "lgbtqia+ support services"
+msgstr "LGBTQIA+ ondersteuningsdienste"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "school issues"
+msgstr "skoolkwessies"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "get other emergency contacts"
 msgstr "kry ander noodkontakte"
 
@@ -2591,8 +2740,20 @@ msgstr "verander my instellings"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "invite a friend to enroll"
+msgstr "nooi 'n vriend om in te skryf"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "get help with an emergency"
 msgstr "kry hulp in 'n noodgeval"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "watch a video with instructions"
+msgstr "kyk 'n video met instruksies"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
