@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2024-07-24 16:30\n"
+"PO-Revision-Date: 2024-10-23 06:48\n"
 
 #. type=text
 msgctxt "text"
@@ -208,6 +208,11 @@ msgstr "Volgens die datum wat jy verskaf het, sal jou kind @(round_down(datetime
 
 #. type=text
 msgctxt "text"
+msgid "Welcome to ParentText! This chatbot has been designed with and for parents just like you. We hope you find it useful!"
+msgstr "Welkom by ParentText! Hierdie geselsbot is saam met en vir ouers soos jy ontwerp. Ons hoop jy vind dit nuttig!"
+
+#. type=text
+msgctxt "text"
 msgid "ParentText will help you with all of the children in your life, but in this programme, we are focusing on just one child at a time."
 msgstr "ParentText sal jou help met al die kinders in jou lewe, maar in hierdie program fokus ons op slegs een kind op 'n keer."
 
@@ -303,13 +308,73 @@ msgstr "Het jy dringende hulp nodig?"
 
 #. type=text
 msgctxt "text"
+msgid "I might know some resources that can help. Would you like information for:"
+msgstr "Ek weet dalk van hulpbronne wat kan help. Wil jy inligting hê oor:"
+
+#. type=text
+msgctxt "text"
+msgid "Please look after yourself! Your local clinic can help you with all health issues. If you need more support, here are some free helplines:"
+msgstr "Kyk asseblief na jouself! Jou plaaslike kliniek kan jou help met alle gesondheidskwessies. Hier is 'n paar gratis hulplyne as jy meer ondersteuning nodig het:"
+
+#. type=text
+msgctxt "text"
+msgid "Seeing and experiencing violence can be a scary and confusing time. There are people who can help you and your child through this! "
+msgstr "Om geweld te sien en te ervaar, kan 'n vreesaanjaende en verwarrende tyd wees. Daar is mense wat jou en jou kind hiermee kan help! "
+
+#. type=text
+msgctxt "text"
+msgid "Feeling sad or stressed, or your child's behaviour is difficult? These places can help you:"
+msgstr "Voel jy hartseer of gestres, of is jou kind se gedrag moeilik? Hierdie plekke kan jou help:"
+
+#. type=text
+msgctxt "text"
+msgid "Family life is difficult! Did you know the social workers at your local Department of Social Development can help with parenting skills, fatherhood, teenage pregnancy, and family and relationship counselling? If you don't have a DSD office nearby, this support will be offered by NGOs in your area:"
+msgstr "Familielewe is moeilik! Het jy geweet dat die maatskaplike werkers by jou plaaslike Departement van Maatskaplike Ontwikkeling kan help met ouerskapvaardighede, vaderskap, tiener swangerskappe en gesins- en verhoudingsberading? As jy nie 'n DMO-kantoor naby het nie, sal hierdie ondersteuning deur NRO's in jou area aangebied word:"
+
+#. type=text
+msgctxt "text"
 msgid "{family referrals}"
 msgstr "{family referrals}"
 
 #. type=text
 msgctxt "text"
+msgid "So much of our energy goes to helping the person struggling with substance abuse. While this is important, you and the rest of the family need support too! Find support for everyone below:"
+msgstr "So baie van ons energie gaan na die persoon wat sukkel met dwelmmisbruik. Terwyl dit belangrik is, het jy en die res van die gesin ook ondersteuning nodig! Vind ondersteuning vir almal hieronder:"
+
+#. type=text
+msgctxt "text"
 msgid "{development resources 1}"
 msgstr "{development resources 1}"
+
+#. type=text
+msgctxt "text"
+msgid "Legal and SASSA issues can be stressful and confusing! There might be more support than you realise at the organisations below:"
+msgstr "Wettige en SASSA-kwessies kan stresvol en verwarrend wees! Daar mag meer ondersteuning wees as wat jy besef by die onderstaande organisasies:"
+
+#. type=text
+msgctxt "text"
+msgid "{legal_help referrals}"
+msgstr "{legal_help referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "Understanding sexual and gender development can be confusing and difficult to talk about. We are all unique! Here is some support and guidance:"
+msgstr "Om seksuele en geslagsontwikkeling te verstaan, kan verwarrend en moeilik wees om oor te praat. Ons is almal uniek! Hier is 'n paar ondersteuning en leiding:"
+
+#. type=text
+msgctxt "text"
+msgid "{lgbtqia referrals}"
+msgstr "{lgbtqia referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "School is where your child spends most of their time. Making sure that they are in school, and happy and supported is so important. If you're struggling with any school issues, here is some help:"
+msgstr "Skool is waar jou kind die meeste van hulle tyd spandeer. Dit is so belangrik om seker te maak dat hulle in die skool is, gelukkig is en ondersteun word. Hier is 'n paar hulpbronne as jy sukkel met enige skoolkwessies:"
+
+#. type=text
+msgctxt "text"
+msgid "{school referrals}"
+msgstr "{school referrals}"
 
 #. type=text
 msgctxt "text"
@@ -585,6 +650,33 @@ msgstr "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) 
 
 #. type=text
 msgctxt "text"
+msgid "You have seen all the courses"
+msgstr "Jy het al die kursusse gesien"
+
+#. type=text
+msgctxt "text"
+msgid "Let's start with the course "
+msgstr "Kom ons begin met die kursus "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It’s time to pick a new course! You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?"
+msgstr "Dit is tyd om 'n nuwe kursus te kies! Jy het @fields.n_goals_completed van @fields.n_goals_prog kursusse voltooi. Watter kursus wil jy volgende aanpak?"
+
+#. type=text
+msgctxt "text"
+msgid "Let's continue with the course "
+msgstr "Kom ons gaan voort met die kursus "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.n_goals_completed of @fields.n_goals_prog courses. Which course would you like to work on next?"
+msgstr "Jy het @fields.n_goals_completed van @fields.n_goals_prog kursusse voltooi. Watter kursus wil jy volgende aanpak?"
+
+#. type=text
+msgctxt "text"
 msgid "What would you like to do next?"
 msgstr "Wat wil jy graag volgende doen?"
 
@@ -617,6 +709,17 @@ msgstr "Wil jy nou begin, of môre?"
 msgctxt "text"
 msgid "It takes only 5 days to complete this course and earn your parenting certificate."
 msgstr "Dit neem slegs 5 dae om hierdie kursus te voltooi en jou ouerskapsertifikaat te verdien."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for participating!"
+msgstr "Dankie vir jou deelname!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations! "
+msgstr "🎉Jy het dit gedoen! 🎉Jy het die kursus @results.name voltooi. Hier is jou kursussertifikaat. Baie geluk! "
 
 #. type=text
 msgctxt "text"
