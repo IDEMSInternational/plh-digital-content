@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2024-10-28 01:31\n"
+"PO-Revision-Date: 2024-10-28 07:40\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -122,7 +122,7 @@ msgstr "{F1_SON_5}: Wat bedoel jy, {F1_FATHER}?"
 #. type=text
 msgctxt "text"
 msgid "{F1_FATHER}: First, we all have private parts on our bodies. These are the parts that are covered by our underwear."
-msgstr "{F1_FATHER}: Eerste, ons het almal het privaatdele op ons liggaam. Dit is die dele wat bedek word deur ons onderklere."
+msgstr "{F1_FATHER}: Eerste, ons almal het privaatdele op ons liggaam. Dit is die dele wat bedek word deur ons onderklere."
 
 #. type=text
 msgctxt "text"
@@ -132,7 +132,7 @@ msgstr "{F1_SON_5}: Soos dit? "
 #. type=text
 msgctxt "text"
 msgid "{F1_FATHER}: Exactly. It's important to remember that these parts are private, and no one should touch them except to keep you clean and healthy."
-msgstr "{F1_FATHER}: Presies. Dit is belangrik om te onthou dat die dele privaat is, en niemand moet aan dit raak, behalwe om dit skoon en gesond te hou nie."
+msgstr "{F1_FATHER}: Presies. Dit is belangrik om te onthou dat die dele privaat is, en niemand moet aan dit raak nie, behalwe om dit skoon en gesond te hou."
 
 #. type=text
 msgctxt "text"
@@ -147,7 +147,7 @@ msgstr "{F1_SON_5}: Oukei, {F1_FATHER}."
 #. type=text
 msgctxt "text"
 msgid "{F1_FATHER}: And if anything ever happens that makes you feel scared or uneasy, remember you can always come and tell me or {F1_MOTHER}. We're here to protect you and keep you safe."
-msgstr "{F1_FATHER}: En as enige iets ooit gebeur wat jou bang of onrustig laat voel, onthou jy altyd vir my kom vertel of {F1_MOTHER}. Ons is hier om jou te beskerm en veilig te hou."
+msgstr "{F1_FATHER}: En as enige iets ooit gebeur wat jou bang of onrustig laat voel, onthou jy kan altyd vir my kom vertel of {F1_MOTHER}. Ons is hier om jou te beskerm en veilig te hou."
 
 #. type=text
 msgctxt "text"
@@ -1276,6 +1276,56 @@ msgid "😣Both girls AND boys could face hard times and crisis situations. Reme
 msgstr "😣 Beide meisies EN seuns kan moeilike tye en situasies ervaar. Onthou om in te kyk by altwee."
 
 #. type=text
+msgctxt "text"
+msgid "3️⃣ RESPOND: What might help?"
+msgstr "3️⃣ REAGEER: Wat mag dalk help?"
+
+#. type=text
+msgctxt "text"
+msgid "🔶 You might need to help your child talk about their feelings. "
+msgstr "🔶 Jy mag dalk nodig hê om jou kind te help om oor hulle gevoelens te praat. "
+
+#. type=text
+msgctxt "text"
+msgid "⏸ In the moment, your child needs you to be there for them with love and accept their feelings."
+msgstr "⏸ In die oomblik het jou kind jou nodig om daar te wees met liefde en hulle gevoelens te aanvaar."
+
+#. type=text
+msgctxt "text"
+msgid "➡️ You might need to talk about the actions that you or your child could take to help with what has happened."
+msgstr "➡️ Jy mag dalk moet praat oor die aksies wat jy of jou kind kan neem om te help met wat aangaan."
+
+#. type=text
+msgctxt "text"
+msgid "✅ Remember, you can always type {HELP} to ParentText and get information about resources in your community where you can receive help."
+msgstr "✅ Onthou, jy kan altyd {HELP} in ParentText tik en inligting kry oor hulpbronne in jou gemeenskap waar jy hulp kan ontvang indien jy dit nodig het."
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ COMFORT: Be there for your child"
+msgstr "4️⃣ TROOS: Wees daar vir jou kind"
+
+#. type=text
+msgctxt "text"
+msgid "🌷 It can be hard to see your child feeling upset or confused, but there is a lot you can do to support them."
+msgstr "🌷 Dit kan moeilik wees om jou kind ontsteld of verward te sien, maar daar is baie wat jy kan doen om hulle te ondersteun."
+
+#. type=text
+msgctxt "text"
+msgid "💚 They need you to accept them and comfort them when difficult things are going on."
+msgstr "💚 Hulle het nodig dat jy hulle aanvaar en troos wanneer moeilike dinge aangaan."
+
+#. type=text
+msgctxt "text"
+msgid "🔄In these moments, maintaining a consistent routine can be particularly helpful. Familiar routines can provide a sense of security and normalcy, helping your child feel safe again."
+msgstr "🔄In die oomblikke, om 'n konsekwente roetine te handhaaf kan baie hulpsaam wees. Bekende roetines kan 'n gevoel van veiligheid en normaalheid voorsien, wat jou kind weer sal help om veilig te voel."
+
+#. type=text
+msgctxt "text"
+msgid "🎈 Remind your child again that you love them, and thank them for sharing with you."
+msgstr "🎈 Herinner jou kind weer dat jy hulle liefhet, en sê dankie dat hulle met jou gedeel het."
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Amazing job! 🎉 You have completed the Respond to Crises lesson! You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course, {goal_name}."
@@ -1287,9 +1337,82 @@ msgid "Home Activity! ⭐ "
 msgstr "Tuisaktiwiteit! ⭐ "
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Find a calm time to look at the community map you created with your child during the previous tip. Talk about possible risks and what they could do to avoid them. Discuss possible actions that you can take with @fields.child_nickname if they happen. 💡"
+msgstr "Vind 'n rustige tyd om na die gemeenskapskaart, wat julle geskep het, te kyk gedurende die vorige wenk. Praat oor moontlike risiko's en wat hulle kan doen om dit te vermy. Bespreek moontlike aksies wat jy kan vat met @fields.child_nickname indien dit gebeur. 💡"
+
+#. type=text
 msgctxt "text"
 msgid "Do you have time to do this today? ⏰"
 msgstr "Het jy tyd om dit vandag te doen? ⏰"
+
+#. type=text
+msgctxt "text"
+msgid "Find a calm time to look at the community map you created with your child during the previous tip. Talk about possible risks and what they could do to avoid them. Discuss possible actions that you can take with your child if they happen. 💡"
+msgstr "Vind 'n rustige tyd om na die gemeenskapskaart, wat julle geskep het, te kyk gedurende die vorige wenk. Praat oor moontlike risiko's en wat hulle kan doen om dit te vermy. Bespreek moontlike aksies wat jy kan vat met jou kind indien dit gebeur. 💡"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Amazing! 💙 This can help prepare you and @fields.child_nickname to face hard situations AND avoid them in the first place."
+msgstr "Wonderlik! 💙 Dit kan jou en @fields.child_nickname help voorberei om moeilike situasies te hanteer EN hulle te vermy in die eerste plek."
+
+#. type=text
+msgctxt "text"
+msgid "Amazing! 💙 This can help prepare you and your child to face hard situations AND avoid them in the first place."
+msgstr "Wonderlik! 💙 Dit kan jou en jou kind help voorberei om moeilike situasies te hanteer EN hulle te vermy in die eerste plek."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "That's OK! Plan to set aside some time in the next few days to have this chat with @fields.child_nickname. This can help prepare you and @fields.child_nickname to face hard situations AND avoid them in the first place."
+msgstr "Dit is OUKEI! Beplan om tyd opsy te sit in die volgende paar dae om die gesprek met @fields.child_nickname te hou. Dit kan jou en @fields.child_nickname help voorberei om moeilike situasies te hanteer EN hulle te vermy in die eerste plek."
+
+#. type=text
+msgctxt "text"
+msgid "That's OK! Plan to set aside some time in the next few days to have this chat with your child. This can help prepare you and your child to face hard situations AND avoid them in the first place."
+msgstr "Dit is OUKEI! Beplan om tyd opsy te sit in die volgende paar dae om die gesprek met jou kind te hou. Dit kan jou en jou kind help voorberei om moeilike situasies te hanteer EN hulle te vermy in die eerste plek."
+
+#. type=text
+msgctxt "text"
+msgid "{F2_DAUGHTER_8} is in trouble. Let’s see how her grandmother, {F2_GRANDMOTHER} responds:"
+msgstr "{F2_DAUGHTER_8} is in die moeilikheid. Kom ons kyk hoe haar ouma, {F2_GRANDMOTHER} reageer:"
+
+#. type=text
+msgctxt "text"
+msgid "{F2_GRANDMOTHER}: My dear, you look really upset, do you want to tell me what happened?"
+msgstr "{F2_GRANDMOTHER}: My skat, jy lyk regtig ontsteld, wil jy vir my vertel wat gebeur het?"
+
+#. type=text
+msgctxt "text"
+msgid "{F2_DAUGHTER_8}: It’s my uncle, he… he… he touched me."
+msgstr "{F2_DAUGHTER_8}: Dis my oom, hy... hy... hy het aan my gevat."
+
+#. type=text
+msgctxt "text"
+msgid "{F2_GRANDMOTHER} (thinking): Take a deep breath... What does my child need? She needs me to be calm and listen. "
+msgstr "{F2_GRANDMOTHER} (dink): Haal diep asem… Wat het my kind nou nodig? Sy het nodig dat ek rustig bly en luister. "
+
+#. type=text
+msgctxt "text"
+msgid "Come and sit down next to me. Take your time, I’m listening."
+msgstr "Kom sit hier langs my. Vat jou tyd, ek luister."
+
+#. type=text
+msgctxt "text"
+msgid "{F2_DAUGHTER_8}: It’s true, he… he… made me very uncomfortable… he touched my body and told me I’d be in trouble if I told anybody! I didn’t want to do anything with him, and I even said NO, but he told me I would be in trouble."
+msgstr "{F2_DAUGHTER_8}: Dit is waar, hy… hy… het my baie ongemaklik gemaak… hy het aan my liggaam geraak en gesê ek sal in moeilikheid wees as ek vir enige iemand vertel! Ek wou niks met hom doen nie, en ek het selfs NEE gesê, maar hy het gesê ek gaan in moeilikheid wees."
+
+#. type=text
+msgctxt "text"
+msgid "{F2_GRANDMOTHER}: You are so brave for sharing this with me. You are not in trouble. This is not your fault. Thank you for telling me."
+msgstr "{F2_GRANDMOTHER}: Jy is so dapper om dit met my te deel. Jy is nie in die moeilikheid nie. Dit is nie jou skuld nie. Dankie dat jy my vertel het."
+
+#. type=text
+msgctxt "text"
+msgid "{F2_DAUGHTER_8}: Yesterday, when you went to see your friend, he just came here and that’s when it happened."
+msgstr "{F2_DAUGHTER_8}: Gister, toe jy jou vriend gaan sien het, het hy net gekom, en dit is toe dit gebeur het."
 
 #. type=text
 msgctxt "text"
@@ -1303,13 +1426,96 @@ msgstr "{F2_GRANDMOTHER}: Ons sal met iemand moet praat wat jou sal help om veil
 
 #. type=text
 msgctxt "text"
+msgid "{F2_DAUGHTER_8}: Yes… Okay… where will we go?"
+msgstr "{F2_DAUGHTER_8}: Ja… dis reg… waarheen gaan ons?"
+
+#. type=text
+msgctxt "text"
+msgid "{F2_GRANDMOTHER}: We can go to the clinic. And {F2_DAUGHTER_8} remember this is not your fault. I love you. We will get through this."
+msgstr "{F2_GRANDMOTHER}: Ons kan na die kliniek toe gaan. En {F2_DAUGHTER_8} onthou dit is nie jou skuld nie. Ek is lief vir jou. Ons sal hierdeur kom."
+
+#. type=text
+msgctxt "text"
+msgid "👂 Let your child share with you what they need. Sometimes, your child might be comfortable sharing by drawing or using toys."
+msgstr "👂Laat jou kind met jou deel wat hulle nodig het. Soms, mag jou kind gemakliker voel om te deel deur te teken of speelgoed te gebruik."
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣RESPOND: What might help?"
+msgstr "3️⃣REAGEER: Wat mag dalk help?"
+
+#. type=text
+msgctxt "text"
+msgid "🔶 You might need to help your child talk about their feelings."
+msgstr "🔶 Jy mag dalk nodig hê om jou kind te help om oor hulle gevoelens te praat."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Amazing! 💙This can help prepare you and @fields.child_nickname to face hard situations AND avoid them in the first place."
+msgstr "Wonderlik! 💙 Dit kan jou en @fields.child_nickname help voorberei om moeilike situasies te hanteer EN hulle te vermy in die eerste plek."
+
+#. type=text
+msgctxt "text"
+msgid "Amazing! 💙This can help prepare you and your child to face hard situations AND avoid them in the first place."
+msgstr "Wonderlik! 💙 Dit kan jou en jou kind help voorberei om moeilike situasies te hanteer EN hulle te vermy in die eerste plek."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "That's OK! Plan to set aside an hour in the next few days to have this chat with @fields.child_nickname. This can help prepare you and @fields.child_nickname to face hard situations AND avoid them in the first place."
+msgstr "Dit is OUKEI! Beplan om 'n uur opsy te sit in die volgende paar dae om die gesprek met @fields.child_nickname te hou. Dit kan jou en @fields.child_nickname help voorberei om moeilike situasies te hanteer EN hulle te vermy in die eerste plek."
+
+#. type=text
+msgctxt "text"
+msgid "That's OK! Plan to set aside an hour in the next few days to have this chat with your child. This can help prepare you and your child to face hard situations AND avoid them in the first place."
+msgstr "Dit is OUKEI! Beplan om 'n uur opsy te sit in die volgende paar dae om die gesprek met jou kind te hou. Dit kan jou en jou kind help voorberei om moeilike situasies te hanteer EN hulle te vermy in die eerste plek."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This lesson is about how to keep @fields.child_nickname safe online. 📱"
+msgstr "Die les gaan oor hoe om @fields.child_nickname veilig te hou aanlyn. 📱"
+
+#. type=text
+msgctxt "text"
+msgid "There is so much to share. We will cover online safety over two lessons.2️⃣"
+msgstr "Daar is so baie om te deel, dat ons aanlyn-veiligheid oor twee lesse sal dek️.2️⃣"
+
+#. type=text
+msgctxt "text"
+msgid "This lesson is about how to keep your child safe online. 📱"
+msgstr "Die les gaan oor hoe om jou kind veilig te hou aanlyn. 📱"
+
+#. type=text
+msgctxt "text"
+msgid "Children are spending a lot of time online.⏰ Being connected helps them stay positive and learn more 🔑 but there are also some risks and dangers.🚩"
+msgstr "Kinders spandeer baie tyd aanlyn.⏰ Om verbind te wees help hulle om positief te bly en meer te leer, 🔑 maar daar is ook 'n paar risiko's en gevare.🚩"
+
+#. type=text
+msgctxt "text"
+msgid "True or False: Parents should set time limits on how long their girl or boy can use the internet each day."
+msgstr "Waar of Vals: Ouers moet tydsbeperkings stel oor hoe lank hulle meisie of seun die internet kan gebruik elke dag."
+
+#. type=text
+msgctxt "text"
 msgid "One more! "
 msgstr "Of meer! "
 
 #. type=text
 msgctxt "text"
+msgid "True or false: It is safe for young children to have their social media accounts without parental supervision."
+msgstr "Waar of Vals: Dit is veilig vir jong kinders om hulle sosiale media-rekeninge te hê sonder ouerlike toesig."
+
+#. type=text
+msgctxt "text"
 msgid "👀Oops! Check it out! "
 msgstr "👀Oeps! Kyk hierna! "
+
+#. type=text
+msgctxt "text"
+msgid "🔑 Social media platforms like YouTube have age restrictions for a reason."
+msgstr "🔑 Sosiale media platforms soos YouTube het ouderdomsbeperkings vir 'n rede."
 
 #. type=text
 msgctxt "text"
