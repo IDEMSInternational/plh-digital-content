@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2024-11-15 10:29\n"
+"PO-Revision-Date: 2024-11-15 17:02\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -2068,6 +2068,35 @@ msgstr "Tafuta kwa kutumia milango yako ya fahamu"
 msgctxt "data_list"
 msgid "Engage all your senses by identifying things around you that you and your child can touch, hear, see, taste and smell."
 msgstr "Shirikisha hisia zako kwa kutambua vitu vilivyopo maeneo yenu ambayo wewe na mtoto wako mnaweza kugusa, kuvisikia. kuvionja/kujaribu na kuvinusa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Take turns to identify what in your surroundings you can touch, hear, see, taste or smell. Together, discuss what you discover. \n"
+"1. **What can you smell?** Where do you think it is coming from? What do you think about how it smells?"
+msgstr ""
+"Chukua zamu ili kutambua ni nini katika mazingira yako ambacho unaweza kugusa, kuona, au kunusa. Kwa pamoja, jadili gundua.\n"
+"1.** Unaweza kunusa nini?** unafikiri inatoka wapi? unamaoni gani kuhusu jinsi inavyonukia?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "2. **What can you hear?** What is making that sound? Where is it coming from?"
+msgstr "2.** Unaweza kusikia nini? ** Ni nini kinachotoa sauti hiyo? inatoka wapi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "3. **What can you see?** What is near to you? What is far away?"
+msgstr "3.**Unaona nini?** Nini kipo karibu? Nini kipo mbali?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "4. **What can you touch?** Discuss the different textures and how it feels to touch it."
+msgstr "4. ** Unaweza kugusa nini? **Jadili miundo tofauti na unaiskiaje ukiishika."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5. **What can you taste?** Or, what do you see around you that you could taste? How do you think it would taste?"
+msgstr "5.** Unaweza kuonja nini?**Au Unaona nini karibu yako ambacho unaweza kukionja? Unafikiri kitakuwa na radha gani?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8234,6 +8263,25 @@ msgstr "Hakuna muda maalum kwamba ni mapema sana! Watoto wa umri wote _ hata wat
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Before I joined ParentApp, I thought that children only needed books when they start primary school. I was very surprised to learn that the earlier you start with book activities, the easier it will be for children to learn to read when they get older. \n"
+"\n"
+"I was even more surprised to hear that you can start book activities when they are still babies – even before they can talk. So I am now doing different types of book activities with my 9-month old, my 4 year old and my 7 year old. \n"
+"\n"
+"With my baby, I sit with her on my lap, and I talk about the pictures in the same voice that I talk to her when I feed or bathe her. She gets really excited – she  makes all sorts of sounds and flaps her arms. \n"
+"\n"
+"With my 4 year old, I describe the pictures and ask him questions about the story. I do this with my 7 year old too, and she is already starting to recognise some letters and words in the book. My children really enjoy these activities. I wish I knew about this when I had my first child."
+msgstr ""
+"Kabla sijajiunga na programu ya wazazi, nilifikiri kwamba watoto walihitaji vitabu  pale tu wanapoanza shule ya msingi. Nilishangazwa sana kujifunza kwamba ukianza shughuli za kitabu mapema, ndivyo itakavyokuwa rahisi  kwa watoto kujifunza kusoma pale wanapokuwa wamekua.\n"
+"\n"
+"Hata nilishangazwa zaidi kusikia kwamba aunaweza kuanza shughuli za kitabu pale wanapokuwa watoto wachanga-hata kabla ya kuanza kuongea. Hivyo, sasa ninafanya shughuli tofauti za vitabu  na mtoto wangu mwenye umri wa miaka 4 na mtoto wangu mwenye umri wa miaka 7.\n"
+"\n"
+"Nakaa na mtoto wangu, kwenye miguu yangu na ninazungumza kuhusu picha katika sauti ile ile ambayo ninaongea naye ninapomlisha au ninapomuogesha. Anafurahia sana-anatengeneza sauti mbalimbali na akipiga mikono yake.\n"
+"\n"
+"Na mtoto wangu  wa miaka 4, naelezea picha na ninamuuliza maswali kuhusu hadithi. Ninafanya hii na mtoto wangu mwenye umri wa  miaka 7pia, na tayari ameanza kutambua baadhi ya herufi na maneno ya kitabuni. Watoto wangu wanafurahia sana hizi shughuli. Natamani ningejua kuhusu hii nilipokuwa na mtoto wangu wa kwanza."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How can I do book activities with my child if I struggle with reading myself?"
 msgstr "Nitafanyaje shughuli za kitabu na mtoto wangu ikiwa mimi mwenyewe siwezi kusoma?"
 
@@ -9282,6 +9330,11 @@ msgstr "Vidokezo"
 msgctxt "template"
 msgid "@fields.@local.click_history_field_name ;  @local.now"
 msgstr "@fields.@local.click_history_field_name ;  @local.now"
+
+#. type=template
+msgctxt "template"
+msgid "Give me an activity"
+msgstr "Nipatie shughuli"
 
 #. type=template
 msgctxt "template"
