@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2024-11-19 16:31\n"
+"PO-Revision-Date: 2024-11-28 11:08\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -2826,6 +2826,21 @@ msgstr "Chezesha mwili wako ili kuondoa msongo wa mawazo."
 msgctxt "data_list"
 msgid "Learning Through Play"
 msgstr "Kujifunza kupitia kucheza"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Woman"
+msgstr "Mwanamke"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Man"
+msgstr "Mwanaume"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Prefer not to say"
+msgstr "Ningependa nisiseme"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9084,6 +9099,12 @@ msgctxt "global"
 msgid "5 March 2024"
 msgstr "5 Machi 2024"
 
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "Welcome to @global.app_name"
+msgstr "Karibu kwenye @global.app_name"
+
 #. type=template
 msgctxt "template"
 msgid "Developer mode"
@@ -9257,11 +9278,6 @@ msgstr "Ingiza taarifa"
 
 #. type=template
 msgctxt "template"
-msgid "Continue"
-msgstr "Endelea"
-
-#. type=template
-msgctxt "template"
 msgid "My Favourite Books"
 msgstr "Vitabu ninavyovipenda"
 
@@ -9281,11 +9297,6 @@ msgstr "safu ya vitambulisho:@local.book_tag_list"
 msgctxt "template"
 msgid "has selected tag: @local.has_selected_tag"
 msgstr "amechagua lebo:@local.has_ selected_tag"
-
-#. type=template
-msgctxt "template"
-msgid "Active"
-msgstr "Inaendelea"
 
 #. type=template
 msgctxt "template"
@@ -9344,6 +9355,11 @@ msgstr "Nipatie shughuli"
 msgctxt "template"
 msgid "Resource Centre"
 msgstr "Kituo cha Rasilimali"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Endelea"
 
 #. type=template
 msgctxt "template"
