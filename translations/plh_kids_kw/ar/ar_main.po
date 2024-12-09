@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-12-02 09:50\n"
+"PO-Revision-Date: 2024-12-09 18:29\n"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -47,6 +47,41 @@ msgstr "IDEMS"
 msgctxt "data_list"
 msgid "Partners"
 msgstr "الشركاء"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Woman"
+msgstr "أنثى"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Man"
+msgstr "ذكر"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Prefer not to say"
+msgstr "أفضل ألا أقول"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Parent or caregiver"
+msgstr "والد أو مقدم رعاية"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Facilitator"
+msgstr "مدرب"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "System tester"
+msgstr "مختبر النظام"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "None of the above"
+msgstr "لا شيء مما سبق"
 
 #. type=global
 #. The string @global.app_name should not be translated.
@@ -429,6 +464,22 @@ msgctxt "global"
 msgid "Skip"
 msgstr "تخطي"
 
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "Welcome to @global.app_name"
+msgstr "مرحباً بك في تطبيق @global.app_name"
+
+#. type=global
+msgctxt "global"
+msgid "Please select your gender"
+msgstr "الجنس"
+
+#. type=global
+msgctxt "global"
+msgid "I am a..."
+msgstr "أنا..."
+
 #. type=template
 msgctxt "template"
 msgid "Templates"
@@ -505,6 +556,16 @@ msgstr "لقد قمت بالدخول إلى وضع المبرمج بنجاح."
 msgctxt "template"
 msgid "You have entered an incorrect code."
 msgstr "لقد أدخلت رمزًا خاطئًا."
+
+#. type=template
+msgctxt "template"
+msgid "List"
+msgstr "قائمة"
+
+#. type=template
+msgctxt "template"
+msgid "Map"
+msgstr "خريطة"
 
 #. type=template
 msgctxt "template"
