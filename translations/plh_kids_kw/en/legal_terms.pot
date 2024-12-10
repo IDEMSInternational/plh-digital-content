@@ -250,6 +250,7 @@ msgstr ""
 #.      @global.app_name
 #.      @global.app_name
 #.      @global.app_name
+#.      @global.app_name
 #.      @global.terms_and_conditions
 #.      @global.terms_and_conditions
 #.      @global.privacy_policy,
@@ -258,6 +259,8 @@ msgstr ""
 msgctxt "data_list"
 msgid ""
 "These @global.terms_and_conditions are an agreement between you and @global.app_name (or ‘the app’) which furthermore sets out the rules for your use of @global.app_name.\n"
+"\n"
+"@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years.\n"
 "\n"
 "@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years.\n"
 "\n"
@@ -311,7 +314,7 @@ msgctxt "data_list"
 msgid ""
 "@global.app_name is open-source, meaning its codebase is available on GitHub for the wider software development community. However, altering the existing application or its materials, or replicating any trademarks associated with the @global.app_name team, is against the terms of use. While the app is open-source, translating the software into other languages or creating alternative versions without properly crediting the @global.app_name team is not permitted. Unauthorised access to confidential user data is strictly prohibited.\n"
 "\n"
-"When using the app, we believe you to be providing accurate information about yourself, avoid making false claims of affiliation, and accurately report the app's behaviour. Your use of the app must comply with all relevant local rules and regulations. By accessing and using the app, you confirm that you are not considered a minor in your country of residence."
+"When using the app, you must provide accurate information about yourself, avoid making false claims of affiliation, and accurately report the app's behaviour. Your use of the app must comply with all relevant local rules and regulations. By accessing and using the app, you confirm that you are not considered a minor in your country of residence."
 msgstr ""
 
 #. type=data_list
@@ -336,7 +339,7 @@ msgstr ""
 #. type=data_list
 #. The string @global.app_name should not be translated.
 msgctxt "data_list"
-msgid "The app, together with its trademarks, copyright, database rights, and all associated intellectual property, is owned by or licensed to the various collaborators of the @global.app_name team. The software code is governed by the GPL 3 licence, while the content is covered under the Creative Commons International 4.0 license. The names, emblems, and logos of collaborating institutions are the exclusive property of those institutions and are protected under both national and international laws. Any unauthorised use is strictly prohibited. Reproducing or copying these logos in any form is not permitted without the prior written consent of the respective institution."
+msgid "The app, together with its trademarks, copyright, database rights, and all associated intellectual property, is owned by or licensed to the various collaborators of the @global.app_name team. The software code is governed by the GPL 3 licence, while the content is covered under the CC BY licence. The names, emblems, and logos of collaborating institutions are the exclusive property of those institutions and are protected under both national and international laws. Any unauthorised use is strictly prohibited. Reproducing or copying these logos in any form is not permitted without the prior written consent of the respective institution."
 msgstr ""
 
 #. type=data_list
@@ -471,16 +474,6 @@ msgid ""
 "If you have any questions or suggestions about our @global.terms_and_conditions, do not hesitate to contact us at <apps@idems.international>.\n"
 "\n"
 "**Last updated: @global.deployment_terms_text**"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Terms & Conditions"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Privacy Policy"
 msgstr ""
 
 #. type=template
