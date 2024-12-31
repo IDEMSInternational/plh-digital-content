@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-12-30 15:52\n"
+"PO-Revision-Date: 2024-12-31 22:28\n"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -256,6 +256,11 @@ msgstr "نشاط اللعب"
 
 #. type=global
 msgctxt "global"
+msgid "Complete your modules and home activities to unlock new moments of play."
+msgstr "أكمل درسك وأنشطتك المنزلية للحصول على نشاط جديد للعب."
+
+#. type=global
+msgctxt "global"
 msgid "Filter"
 msgstr "تصفية"
 
@@ -273,6 +278,20 @@ msgstr "متاح"
 msgctxt "global"
 msgid "Favourites"
 msgstr "المفضلة"
+
+#. type=global
+msgctxt "global"
+msgid ""
+"Nothing here yet!\n"
+"Mark games as favorites by tapping the ❤️ icon to quickly find what you enjoy most."
+msgstr ""
+"لا يجود نشاط هنا بعد!\n"
+"قم بضغط علامة ❤️ على الألعاب المفضلة للعثور عليها أسرع."
+
+#. type=global
+msgctxt "global"
+msgid "Unlock your moments of play by completing a module or logging an activity!"
+msgstr "احصل على نشاط جديد للعب من خلال استكمال درس أو نشاط منزلي!"
 
 #. type=global
 msgctxt "global"
@@ -538,6 +557,22 @@ msgstr "إعادة تشغيل"
 
 #. type=template
 msgctxt "template"
+msgid "Change countdown days"
+msgstr "تغيير أيام العد التنازلي"
+
+#. type=template
+#. The string @fields.countdown_days should not be translated.
+msgctxt "template"
+msgid "Countdown days: @fields.countdown_days"
+msgstr "أيام العد التنازلي: @fields.countdown_days"
+
+#. type=template
+msgctxt "template"
+msgid "Choose a number of days to count down"
+msgstr "اختر عدد الأيام للعد التنازلي"
+
+#. type=template
+msgctxt "template"
 msgid "Submit"
 msgstr "إرسال"
 
@@ -554,8 +589,18 @@ msgstr "لقد أدخلت رمزًا خاطئًا."
 
 #. type=template
 msgctxt "template"
+msgid "This code is correct."
+msgstr "هذا الرمز صحيح."
+
+#. type=template
+msgctxt "template"
 msgid "Enter developer mode"
 msgstr "ادخل إلى وضع المبرمج"
+
+#. type=template
+msgctxt "template"
+msgid "trophy"
+msgstr "جائزة"
 
 #. type=template
 msgctxt "template"
