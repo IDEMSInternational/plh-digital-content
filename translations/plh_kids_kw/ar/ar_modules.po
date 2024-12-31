@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2024-12-30 15:48\n"
+"PO-Revision-Date: 2024-12-31 16:18\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -81,6 +81,11 @@ msgstr "أريد بناء بيت من الوسائد!"
 msgctxt "data_list"
 msgid "Great idea! What do we need to do first?"
 msgstr "فكرة رائعة! ماذا علينا أن نفعل أولاً؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "First, we place these pillows on top of each other so they make a wall. The headboard is our other wall. Next, we will put a bedsheet across the headboard and the wall of pillows to make our roof!"
+msgstr "أولاً، نضع هذه الوسائد فوق بعضها البعض حتى تصبح كأنها جدارًا. ولوح السرير هو جدارنا الآخر. بعد ذلك سنضع ملاءة سرير فوق لوح السرير وحائط الوسائد لنشكل سقف!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -231,6 +236,19 @@ msgstr "بمدحها"
 msgctxt "data_list"
 msgid "That’s right. When @data.characters.f1_father.name praises his daughter, she learns that it is good to be curious, inventive, and attentive to detail. She is more likely to repeat these behaviours in the future because she has been praised for them."
 msgstr "هذا صحيح. فعندما مدح @data.characters.f1_father.name ابنته فإنه شجعها على أن تكون فضولية ومبتكرة ومنتبهة للتفاصيل. ومن المرجح أن تكرر هذه السلوكيات في المستقبل لأنها نالت المدح عليها."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f3_uncle.name
+#.      @data.characters.f3_son_4.name
+msgctxt "data_list"
+msgid ""
+"Children (just like us) can learn a lot from their mistakes.\n"
+"\n"
+"Let’s look at how @data.characters.f3_uncle.name supports @data.characters.f3_son_4.name to learn from his mistake when he struggles to put on his shoes."
+msgstr ""
+"الأطفال يتعلمون الكثير من أخطائهم (مثلنا).\n"
+"لنلق نظرة على كيفية دعم @data.characters.f3_uncle.name لـ@data.characters.f3_son_4.name ليتعلم من خطئه عندما يواجه صعوبة في ارتداء حذائه."
 
 #. type=data_list
 msgctxt "data_list"
@@ -624,6 +642,11 @@ msgstr "لا، ليس بعد!"
 msgctxt "data_list"
 msgid "@data.characters.f3_son_4.name, either you put away the toys now, or you won’t be able to play with your toys after dinner."
 msgstr "@data.characters.f3_son_4.name إما أن تضع الألعاب بمكانها الآن أو لن تتمكن من اللعب بألعابك بعد العشاء."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "No Uncle! I don’t want to! I’m not finished with my game."
+msgstr "لا يا خالي لا أريد! لم أنتهِ من لعبي بعد."
 
 #. type=data_list
 #. The string @data.characters.f3_son_4.name, should not be translated.
@@ -1105,6 +1128,12 @@ msgid "What can we learn from how @data.characters.f3_uncle.name talks about @da
 msgstr "ماذا يمكننا أن نتعلم من الطريقة التي يتحدث بها @data.characters.f3_uncle.name عن مشاعر @data.characters.f3_son_4.name؟"
 
 #. type=data_list
+#. The string @data.characters.f3_son_4.name’s should not be translated.
+msgctxt "data_list"
+msgid "He names @data.characters.f3_son_4.name’s positive emotions"
+msgstr "يسمي مشاعر @data.characters.f3_son_4.name الإيجابية"
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @data.characters.f3_son_4.name’s
 #.      @data.characters.f3_uncle.name
@@ -1116,6 +1145,15 @@ msgstr "نعم، إنه يفعل ذلك! لكنه أيضًا يسمي مشاعر
 msgctxt "data_list"
 msgid "He doesn’t want him to feel frustrated so he ignores it."
 msgstr "إنه لا يريده أن يشعر بالإحباط فيقوم بتجاهل مشاعره."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f3_uncle.name
+#.      @data.characters.f3_son_4.name
+#.      @data.characters.f3_uncle.name
+msgctxt "data_list"
+msgid "Not quite. @data.characters.f3_uncle.name accepts whatever emotions @data.characters.f3_son_4.name is feeling. @data.characters.f3_uncle.name shows us how we can talk about positive *and* difficult emotions with our children in a helpful way."
+msgstr "يقبل @data.characters.f3_uncle.name أي مشاعر يشعر بها @data.characters.f3_son_4.name، ويوضح لنا @data.characters.f3_uncle.name كيفية التحدث عن المشاعر الإيجابية والمزعجة مع أطفالنا بطريقة مفيدة."
 
 #. type=data_list
 #. The string @data.characters.f3_son_4.name’s should not be translated.
@@ -1146,6 +1184,12 @@ msgstr "لا يخفي مشاعره بل يقوم بتحديدها من خلال 
 msgctxt "data_list"
 msgid "He stays calm despite @data.characters.f3_son_4.name’s frustration."
 msgstr "يظل هادئًا على الرغم من إحباط @data.characters.f3_son_4.name ."
+
+#. type=data_list
+#. The string @data.characters.f3_uncle.name should not be translated.
+msgctxt "data_list"
+msgid "Yes, @data.characters.f3_uncle.name shows us that his nephew’s difficult emotions are not something he needs to ignore or be scared of."
+msgstr "نعم، إن @data.characters.f3_uncle.name يُوضح لنا أن مشاعر ابن أخته المزعجة ليست شيئًا يجب أن يتجاهلها أو يخاف منها."
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -1340,14 +1384,64 @@ msgstr "لا بأس، تعلم مشاركة المشاعر مع أطفالنا �
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Today's lesson is about learning to give instructions that work! \n"
+"\n"
+"Nobody follows rules all of the time. But *how* we give instructions can make things happier and calmer at home.\n"
+"\n"
+"Negative instructions like, “Don’t touch that!” can make children feel bad. (They can make parents feel bad, too!)\n"
+"\n"
+"Children are more likely to follow an instruction when it is worded in a positive way: \"Please only touch things that don't belong to us!\""
+msgstr ""
+"درس اليوم هو تعلم كيفية إعطاء تعليمات فعّالة!\n"
+"\n"
+"لا أحد يتبع الضوابط طوال الوقت، لكن طريقة إعطاء التعليمات يمكن أن تساهم في جعل الأجواء أكثر سعادة وهدوءًا في المنزل.\n"
+"\n"
+"التعليمات السلبية مثل \"لا تلمس ذلك!\" يمكن أن تجعل الأطفال يشعرون بالإحباط. (وقد تجعل الوالدين أيضًا يشعرون بالذنب!)\n"
+"\n"
+"يتبع الأطفال التعليمات أكثر عندما تُعبّر عنها بطريقة إيجابية مثل: \"من فضلك، المس الأشياء التي تخصنا فقط!\""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How will this help you and your family?"
 msgstr "كيف سيساعدكم؟"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Let’s try something: Don’t think about a pink elephant…\n"
+"What did you think about? A pink elephant?\n"
+"\n"
+"The same happens when we give negative instructions to our children. When we tell them “stop fighting” or “stop playing with your food”, they don’t know how to think about what we DO want them to do, only what we DON’T want them to do.\n"
+"\n"
+"When you give a positive instruction, your child is more likely to follow it."
+msgstr ""
+"دعونا نجرب شيئًا: لا تفكر في فيل وردي...\n"
+"بماذا فكرت؟ فيل وردي؟\n"
+"\n"
+"نفس الشيء يحدث عندما نعطي تعليمات سلبية لأطفالنا. عندما نقول لهم \"توقفوا عن الشجار\" أو \"توقف عن التعبث بطعامك\" فإنهم لا يعرفون ماذا نفكر فيه أو ماذا نريدهم أن يفعلوا، بل فقط ما لا نريدهم أن يفعلوه.\n"
+"\n"
+"عندما تعطي تعليمات إيجابية فإن طفلك سيكون أكثر احتمالًا لإتباعها."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_father.name
+#.      @data.characters.f1_daughter_2.name:
+msgctxt "data_list"
+msgid "Let’s see how @data.characters.f1_father.name gives instructions to @data.characters.f1_daughter_2.name:"
+msgstr "لنرى كيف @data.characters.f1_father.name يعطي تعليمات ل@data.characters.f1_daughter_2.name:"
 
 #. type=data_list
 #. The string @data.characters.f1_daughter_2.name. should not be translated.
 msgctxt "data_list"
 msgid "It looks like you’re having a lot of fun, @data.characters.f1_daughter_2.name. It’s almost time to clean up. In 3 minutes, please put your blocks away."
 msgstr "يبدو أنك تستمتعين كثيرًا @data.characters.f1_daughter_2.name. حان وقت التنظيف تقريبًا، بعد 3 دقائق من فضلك ضعي المكعبات في مكانها."
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_2.name. should not be translated.
+msgctxt "data_list"
+msgid "3 minutes are over, @data.characters.f1_daughter_2.name. Please pack away your blocks."
+msgstr "@data.characters.f1_daughter_2.name لقد مرت ٣ دقائق. من فضلك ضعي المكعبات في مكانها."
 
 #. type=data_list
 #. The string @data.characters.f1_daughter_2.name. should not be translated.
@@ -1429,6 +1523,14 @@ msgstr "ما هي الخطوات التي يتخذها @data.characters.f1_fathe
 msgctxt "data_list"
 msgid "He warns @data.characters.f1_daughter_2.name that misbehaviour is not acceptable."
 msgstr "يحذر @data.characters.f1_daughter_2.name من أن السلوك السيء غير مقبول. "
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_daughter_2.name
+#.      @data.characters.f1_daughter_2.name
+msgctxt "data_list"
+msgid "Try again! Making the instruction positive by telling @data.characters.f1_daughter_2.name what she should do rather than shouldn’t do will help @data.characters.f1_daughter_2.name to follow through."
+msgstr "حاول مرة أخري! إن جعل التعليمات إيجابية من خلال إخبار @data.characters.f1_daughter_2.name ما ينبغي لها فعله بدلاً مما لا ينبغي لها فعله سيساعد @data.characters.f1_daughter_2.name على اتباعها."
 
 #. type=data_list
 #. The string @data.characters.f1_daughter_2.name should not be translated.
