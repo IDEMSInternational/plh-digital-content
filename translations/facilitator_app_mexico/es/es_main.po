@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-20 13:35\n"
+"PO-Revision-Date: 2025-01-21 21:11\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -22,7 +22,7 @@ msgstr "@global.app_name es una aplicación diseñada por IDEMS Internacional y 
 #. type=data_list
 msgctxt "data_list"
 msgid "Attendance"
-msgstr "Asistencia"
+msgstr "Registro de persona cuidadora"
 
 #. type=data_list
 #. The string @global.share_medium should not be translated.
@@ -52,6 +52,11 @@ msgstr "Perfil"
 msgctxt "data_list"
 msgid "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups."
 msgstr "En tu perfil podrás ver tu identificación de persona facilitadora y también puedes editar la lista de las personas cuidadoras que asisten a tus grupos."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Library"
+msgstr "Biblioteca"
 
 #. type=data_list
 msgctxt "data_list"
@@ -932,7 +937,7 @@ msgstr "Consulta y edita la lista de participantes que asisten a tus grupos."
 #. type=data_list
 msgctxt "data_list"
 msgid "Your Parent Groups"
-msgstr "Tus Grupos de Madres, Padres y  Personas Cuidadoras"
+msgstr "Selecciona o crea un grupo"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3800,6 +3805,16 @@ msgstr "Tu Paquete de Contenidos"
 msgctxt "template"
 msgid "Your Parent Groups"
 msgstr "Tus Grupos de Madres, Padres y  Personas Cuidadoras"
+
+#. type=template
+msgctxt "template"
+msgid "Manage Existing Groups"
+msgstr "Administrar Grupos Existentes"
+
+#. type=template
+msgctxt "template"
+msgid "Create New Group"
+msgstr "Crea un nuevo grupo"
 
 #. type=template
 msgctxt "template"
