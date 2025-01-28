@@ -11,29 +11,13 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-28 13:32\n"
+"PO-Revision-Date: 2025-01-28 15:26\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
 msgctxt "data_list"
 msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Crianza con Conciencia + in Mexico. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
 msgstr "@global.app_name es una aplicación diseñada por IDEMS Internacional y Parenting for Lifelong Health para apoyar la ampliación del Programa Crianza con Conciencia + (CC+) en México. Su contenido está disponible bajo una licencia Creative Commons Internacional 4.0 de código abierto. Se desarrolló en colaboración con socios clave:"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Attendance"
-msgstr "Registro de persona cuidadora"
-
-#. type=data_list
-#. The string @global.share_medium should not be translated.
-msgctxt "data_list"
-msgid "Whether meeting with your parents over @global.share_medium through a chat session or in-person, you'll want to report attendance using this form."
-msgstr "Ya sea que te reúnas con tu grupo de personas cuidadoras a través de @global.share_medium en una sesión de chat o que lo hagas en persona, haz el informe de asistencia usando estos formularios."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Home"
-msgstr "Inicio"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -45,18 +29,18 @@ msgstr "Te damos la bienvenida a @global.app_name. Cada semana debes seleccionar
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Profile"
-msgstr "Perfil"
+msgid "Library"
+msgstr "Biblioteca"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Settings"
+msgstr "Ajustes"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups."
 msgstr "En tu perfil podrás ver tu identificación de persona facilitadora y también puedes editar la lista de las personas cuidadoras que asisten a tus grupos."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Library"
-msgstr "Biblioteca"
 
 #. type=data_list
 msgctxt "data_list"
@@ -755,26 +739,6 @@ msgstr "Desafíos Comunes"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Onboarding Caregivers into the Course"
-msgstr "Integración de las personas cuidadoras al curso"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "In this video, learn how to onboard caregivers to the course in the programme."
-msgstr "En este vídeo, aprende a integrar a tus personas cuidadoras al curso del programa."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Add a Parent or Co-Parent"
-msgstr "Añadir una persona cuidadora o persona con quien se comparte la crianza"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "In this video, learn how to add a parent and co-parent in the app."
-msgstr "En este vídeo, aprende a añadir a una persona cuidadora y a una persona con quien se comparte la crianza en la aplicación."
-
-#. type=data_list
-msgctxt "data_list"
 msgid "After Onboarding Session"
 msgstr "Después de la Sesión de Integración al programa"
 
@@ -797,11 +761,6 @@ msgstr "Día 5: Última Sesión de Chat"
 msgctxt "data_list"
 msgid "Before Your Chat Session"
 msgstr "Antes de tus Sesiones de Reflexión"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Week 1 Chat Session: Thoughts, Feelings, and Actions"
-msgstr "Semana 1: Pensamientos, Sentimientos y Acciones"
 
 #. type=data_list
 msgctxt "data_list"
@@ -939,6 +898,26 @@ msgstr "Conectar Formando Conciencia +  con el Número de registro de la madre, 
 msgctxt "data_list"
 msgid "Closing Activity"
 msgstr "Despedida"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many minutes did it take you to prepare for this session?"
+msgstr "¿Cuántos minutos tardaste en preparar la sesión?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many minutes did it take you to travel to the location where the session was delivered?"
+msgstr "¿Cuántos minutos tardaste en desplazarte al lugar donde se impartió la sesión?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How many minutes did it take you to deliver the sessions?"
+msgstr "¿Cuántos minutos tardaste en impartir la sesión?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of the parents in this group attended your in-person session?"
+msgstr "¿Quiénes fueron las y los miembros de tu grupo que asistieron a la sesión presencial de integración?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4305,11 +4284,6 @@ msgstr "Biblioteca"
 
 #. type=template
 msgctxt "template"
-msgid "Share"
-msgstr "Compartir"
-
-#. type=template
-msgctxt "template"
 msgid "You successfully completed the report for this session!"
 msgstr "¡Completaste con éxito el reporte de esta sesión!"
 
@@ -4337,6 +4311,11 @@ msgstr "Escoge qué contenido quieres ver."
 msgctxt "template"
 msgid "Continue"
 msgstr "Continúa"
+
+#. type=template
+msgctxt "template"
+msgid "test"
+msgstr "prueba"
 
 #. type=template
 msgctxt "template"
@@ -4388,6 +4367,11 @@ msgstr "Este número de Identificación del Programa Crianza con Conciencia + (C
 msgctxt "template"
 msgid "Co-parenting with"
 msgstr "Agregar persona con quien comparte la crianza"
+
+#. type=template
+msgctxt "template"
+msgid "pdf"
+msgstr "pdf"
 
 #. type=template
 msgctxt "template"
@@ -4472,11 +4456,6 @@ msgstr "Sincronizar ahora"
 
 #. type=template
 msgctxt "template"
-msgid "article"
-msgstr "artículo"
-
-#. type=template
-msgctxt "template"
 msgid "Your Reports"
 msgstr "Tus Reportes"
 
@@ -4484,16 +4463,6 @@ msgstr "Tus Reportes"
 msgctxt "template"
 msgid "Parent Group"
 msgstr "Grupo de madres, padres y personas cuidadoras"
-
-#. type=template
-msgctxt "template"
-msgid "pdf"
-msgstr "pdf"
-
-#. type=template
-msgctxt "template"
-msgid "test"
-msgstr "prueba"
 
 #. type=template
 msgctxt "template"
