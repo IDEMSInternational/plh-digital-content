@@ -11,13 +11,7 @@ msgstr ""
 "Language-Team: French\n"
 "\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-23 02:25\n"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "In this program, you will receive @fields.c_n_mod tips. You will receive a new tip each day. Your first tip is \"@results.name\"."
-msgstr "Dans ce programme, vous recevrez @fields.c_n_mod conseils. Vous recevrez un nouveau conseil chaque jour. Votre premier conseil est \"@results.name\"."
+"PO-Revision-Date: 2025-01-28 11:57\n"
 
 #. type=text
 msgctxt "text"
@@ -63,11 +57,6 @@ msgstr "Désolé, je ne comprends pas ce que vous voulez dire."
 
 #. type=text
 msgctxt "text"
-msgid "You haven't received any tips yet. "
-msgstr "Vous n'avez pas encore reçu de conseils. "
-
-#. type=text
-msgctxt "text"
 msgid "You have received the following tip:"
 msgstr "Vous avez reçu le conseil suivant :"
 
@@ -95,23 +84,13 @@ msgstr "@(word_count(fields.s_modules_compl) +1). Retour au menu principal"
 
 #. type=text
 msgctxt "text"
-msgid "What would you like to do next?"
-msgstr "Que voulez-vous faire ensuite ?"
-
-#. type=text
-msgctxt "text"
-msgid "Alright. I will share another tip tomorrow. "
-msgstr "D'accord. Je partagerai un autre conseil demain. "
+msgid "OK, see you tomorrow."
+msgstr "OK, à demain."
 
 #. type=text
 msgctxt "text"
 msgid "What would you like to do?"
 msgstr "Que voulez-vous faire ?"
-
-#. type=text
-msgctxt "text"
-msgid "OK, see you tomorrow."
-msgstr "OK, à demain."
 
 #. type=text
 msgctxt "text"
@@ -137,11 +116,6 @@ msgstr "Vous avez terminé le programme. Bravo !"
 msgctxt "text"
 msgid "Remember, you can always return to ParentText to review these tips. Just type {MENU}."
 msgstr "N'oubliez pas que vous pouvez toujours revenir à ParentText pour revoir ces conseils. Tapez simplement {MENU}."
-
-#. type=text
-msgctxt "text"
-msgid "It’s a difficult moment for your family. I’m here today with a few tips to create small moments of connection with your child to give them the routine and stability you all need right now. Press 1 to continue with your registration. "
-msgstr "C'est un moment difficile pour votre famille. Je suis ici aujourd'hui pour vous donner quelques conseils afin de créer de petits moments de complicité avec votre enfant afin de lui donner les bonnes habitudes et la stabilité dont vous avez tous besoin en ce moment. Appuyez sur 1 pour continuer votre inscription. "
 
 #. type=text
 msgctxt "text"
@@ -171,11 +145,6 @@ msgstr "Un nouveau conseil est disponible. Voulez-vous continuer maintenant ?"
 
 #. type=text
 msgctxt "text"
-msgid "This time is difficult. It doesn't seem like you have the time for the these tips right now. When you are ready to keep going, press 1. "
-msgstr "Cette période est difficile. Apparemment, vous n'avez pas le temps de suivre ces conseils pour l'instant. Lorsque vous êtes prêt à continuer, appuyez sur 1. "
-
-#. type=text
-msgctxt "text"
 msgid "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}."
 msgstr "Nous espérons que cela vous a été utile ! Vous pouvez accéder au menu principal à tout moment en tapant {MENU}."
 
@@ -191,13 +160,13 @@ msgstr "{insert link}"
 
 #. type=text
 msgctxt "text"
-msgid "We hope this was helpful. You can access the Main Menu at any time by typing {MENU}."
-msgstr "Nous espérons que cela vous a été utile. Vous pouvez accéder au menu principal à tout moment en tapant {MENU}."
+msgid "What would you like to do next?"
+msgstr "Que voulez-vous faire ensuite ?"
 
 #. type=text
 msgctxt "text"
-msgid "You've reached the end of today's tip. Well done for caring for your child during this challenging time. "
-msgstr "Vous êtes arrivé au dernier à la fin du conseil de la journée. Bravo pour les efforts que vous avez fournis pour vous occuper de votre enfant pendant cette période difficile. "
+msgid "We hope this was helpful. You can access the Main Menu at any time by typing {MENU}."
+msgstr "Nous espérons que cela vous a été utile. Vous pouvez accéder au menu principal à tout moment en tapant {MENU}."
 
 #. type=text
 msgctxt "text"
@@ -233,11 +202,6 @@ msgstr "Vous n'avez pas fourni cette information."
 msgctxt "text"
 msgid "Would you like to change it?"
 msgstr "Voulez-vous modifier cela ?"
-
-#. type=text
-msgctxt "text"
-msgid "You didn't tell us if you are a woman or a man. "
-msgstr "Vous ne nous avez pas dit si vous êtes une femme ou un homme. "
 
 #. type=text
 msgctxt "text"
@@ -290,17 +254,6 @@ msgctxt "text"
 msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
 msgstr "Vous avez terminé la démo ParentText. Tapez REINITIALISER puis {FACSTART} pour recommencer depuis le début."
 
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "There are @(fields.c_n_mod - fields.c_n_mod_compl) more tips. You'll receive a new one tomorrow. "
-msgstr "Il y a @(fields.c_n_mod - fields.c_n_mod_compl) plus de conseils. Vous en recevrez un nouveau demain. "
-
-#. type=text
-msgctxt "text"
-msgid "There is one more tip. You'll receive it tomorrow. "
-msgstr "Il y a encore un conseil. Vous le recevrez demain. "
-
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
@@ -322,18 +275,6 @@ msgstr "Non"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "I want an idea for an activity I can do with my child to connect with them"
-msgstr "J'aimerais avoir une idée d'activité que je pourrais faire avec mon enfant pour me rapprocher de lui"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Continue with another tip tomorrow. "
-msgstr "Continuez avec un autre conseil demain. "
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "NA"
 msgstr "NA"
 
@@ -346,14 +287,14 @@ msgstr "Voir une autre idée d'activité"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Go to Main Menu"
-msgstr "Aller au Menu Principal"
+msgid "Exit menu"
+msgstr "Quitter le menu"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Exit menu"
-msgstr "Quitter le menu"
+msgid "Go to Main Menu"
+msgstr "Aller au Menu Principal"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -432,6 +373,12 @@ msgstr "J'ai fini de recevoir toutes les informations que je souhaitais de la pa
 msgctxt "quick_replies"
 msgid "No, remind me tomorrow."
 msgstr "Non, rappelez-moi cela demain."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "1"
+msgstr "1"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -526,20 +473,14 @@ msgstr "oui"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "continue with another tip tomorrow."
-msgstr "continuer avec un autre conseil demain."
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i want an idea for an activity i can do with my child to connect with them"
-msgstr "j'aimerais avoir une idée d'activité que je pourrais faire avec mon enfant pour me rapprocher de lui"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "na"
 msgstr "na"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "continue with another tip tomorrow."
+msgstr "continuer avec un autre conseil demain."
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
