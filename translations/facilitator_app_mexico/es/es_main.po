@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-01-29 20:10\n"
+"PO-Revision-Date: 2025-02-05 15:15\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -1253,11 +1253,6 @@ msgstr "Desafíos Comunes"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Parenting Children in Crisis"
-msgstr "Crianza en Contextos de Crisis"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group."
 msgstr "Esta sesión de reflexión debe llevarse a cabo el mismo día o al día siguiente de completar la sesión presencial de integración. Como será  el primer mensaje clave que envíes, las personas participantes tendrán la oportunidad de presentarse ante el grupo."
 
@@ -1410,6 +1405,11 @@ msgstr "Contenido Opcional: Crianza en Contextos de Crisis"
 msgctxt "data_list"
 msgid "Partners"
 msgstr "Socios"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Overview of the Crianza con Conciencia+ Programme"
+msgstr "Descripción General del Programa Crianza con Conciencia+"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4711,6 +4711,26 @@ msgstr "minutos"
 
 #. type=global
 msgctxt "global"
+msgid "You successfully completed the report for this session!"
+msgstr "¡Completaste con éxito el reporte de esta sesión!"
+
+#. type=global
+msgctxt "global"
+msgid "Review Report"
+msgstr "Revisar Reporte"
+
+#. type=global
+msgctxt "global"
+msgid "Submit Report"
+msgstr "Enviar informe de asistencia"
+
+#. type=global
+msgctxt "global"
+msgid "Frequently Asked Questions"
+msgstr "Preguntas Frecuentes"
+
+#. type=global
+msgctxt "global"
 msgid "Language"
 msgstr "Idioma"
 
@@ -5017,26 +5037,6 @@ msgstr "Biblioteca"
 
 #. type=template
 msgctxt "template"
-msgid "You successfully completed the report for this session!"
-msgstr "¡Completaste con éxito el reporte de esta sesión!"
-
-#. type=template
-msgctxt "template"
-msgid "Review Report"
-msgstr "Revisar Reporte"
-
-#. type=template
-msgctxt "template"
-msgid "Submit Report"
-msgstr "Enviar informe de asistencia"
-
-#. type=template
-msgctxt "template"
-msgid "Get Support"
-msgstr "Ayuda"
-
-#. type=template
-msgctxt "template"
 msgid "Choose which content you want to see."
 msgstr "Escoge qué contenido quieres ver."
 
@@ -5145,16 +5145,6 @@ msgstr "Tus Grupos"
 msgctxt "template"
 msgid "Save"
 msgstr "Guardar"
-
-#. type=template
-msgctxt "template"
-msgid "Manage Existing Groups"
-msgstr "Administrar Tus Grupos"
-
-#. type=template
-msgctxt "template"
-msgid "Create New Group"
-msgstr "Crea un nuevo grupo"
 
 #. type=template
 msgctxt "template"
