@@ -11,12 +11,12 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-02-05 10:50\n"
+"PO-Revision-Date: 2025-02-12 13:43\n"
 
 #. type=text
 msgctxt "text"
 msgid "Would you like to receive ParentText lessons as text or videos?"
-msgstr "هل ترغب في استلام دروس رسائل الأهل كنصوص أو كمقاطع فيديو؟"
+msgstr "هل ترغب في إستلام النصائح كنصوص أم كمقاطع فيديو؟"
 
 #. type=text
 msgctxt "text"
@@ -26,7 +26,7 @@ msgstr "عذراً، أنا لا أفهم ما تقصد."
 #. type=text
 msgctxt "text"
 msgid "Are you a WOMAN or MAN?"
-msgstr "هل أنت امرأة أم رجل؟"
+msgstr "هل انت ذكر أم أنتى؟"
 
 #. type=text
 msgctxt "text"
@@ -352,7 +352,7 @@ msgstr "لقد أكملت @fields.n_s_modules_compl من بين نصائح @fiel
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
 msgctxt "text"
 msgid "@(word_count(fields.s_modules_compl) +1). Return to Main Menu"
-msgstr "@(word_count(fields.s_modules_compl) +1). العودة إلى القائمة الرئيسية"
+msgstr "@(word_count(fields.s_modules_compl) +1). العودة إلى القائمة الرئيسة"
 
 #. type=text
 msgctxt "text"
@@ -458,7 +458,7 @@ msgstr "ماذا تريد أن تفعل بعد ذلك؟"
 #. type=text
 msgctxt "text"
 msgid "We hope this was helpful. You can access the Main Menu at any time by typing {MENU}."
-msgstr "نتمنى أن يكون هذا مفيدًا. يمكنك الوصول إلى القائمة الرئيسية في أي وقت عن طريق كتابة {MENU}."
+msgstr "نتمنى أن يكون هذا مفيدًا. يمكنك الوصول إلى القائمة الرئيسة في أي وقت عن طريق كتابة {MENU}."
 
 #. type=text
 msgctxt "text"
@@ -659,19 +659,19 @@ msgstr "أخرى"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Living in a camp or shelter"
-msgstr "العيش في مخيم أو مأوى"
+msgstr "أعيش في مخيم أو مأوى مؤقّت"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Living in a house or apartment"
-msgstr "العيش في منزل أو شَقَّة"
+msgstr "أعيش في منزل"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Moving around often"
-msgstr "التحرك في كثير من الأحيان"
+msgstr "أتنقّل بين أماكن كثيرة"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1085,19 +1085,19 @@ msgstr "أخرى"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "living in a camp or shelter"
-msgstr "العيش في مخيم أو مأوى"
+msgstr "أعيش في مخيم أو مأوى مؤقّت"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "living in a house or apartment"
-msgstr "العيش في منزل أو شِقَّة"
+msgstr "أعيش في منزل"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "moving around often"
-msgstr "التحرك في كثير من الأحيان"
+msgstr "أتنقّل بين أماكن كثيرة"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
