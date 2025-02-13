@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-02-13 12:19\n"
+"PO-Revision-Date: 2025-02-13 13:13\n"
 
 #. type=text
 msgctxt "text"
@@ -22,11 +22,6 @@ msgstr "عذراً، أنا لا أفهم ما تقصد."
 msgctxt "text"
 msgid "Are you a WOMAN or MAN?"
 msgstr "اخبرتنا انك انثى؟"
-
-#. type=text
-msgctxt "text"
-msgid "If you ever return to participate in the programme, type HELLO. "
-msgstr "إذا عدت للمشاركة في البرنامج، اكتب مرحبًا. "
 
 #. type=text
 msgctxt "text"
@@ -67,6 +62,11 @@ msgstr "❌يمكنك التوقف عندما تريد. فقط اكتب {STOP}"
 msgctxt "text"
 msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option."
 msgstr "هل أنت أكيد أنك لا ترغب في تلقي هذه الرسائل؟ إذا كنت لا ترغب في تلقي المزيد من الرسائل، يرجى كتابة لا. إذا ارتكبت خطأ، يرجى الضغط على رجوع واختيار شيء آخر."
+
+#. type=text
+msgctxt "text"
+msgid "If you ever return to participate in the programme, type HELLO. "
+msgstr "إذا عدت للمشاركة في البرنامج، اكتب مرحبًا. "
 
 #. type=text
 msgctxt "text"
@@ -496,12 +496,6 @@ msgstr "الفيديو"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Text"
-msgstr "النص"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Woman"
 msgstr "أنثى"
 
@@ -514,44 +508,8 @@ msgstr "ذكر"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "1"
-msgstr "1"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "2"
-msgstr "2"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "3"
-msgstr "3"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "4"
-msgstr "4"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "5"
-msgstr "5"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "6"
-msgstr "6"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "7"
-msgstr "7"
+msgid "Other"
+msgstr "أخرى"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -814,6 +772,12 @@ msgstr "لا، ذكرني غدا."
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "1"
+msgstr "1"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Return to Menu"
 msgstr "العودة إلى القائمة"
 
@@ -916,12 +880,6 @@ msgstr "فيديو"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "text"
-msgstr "نص"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "woman"
 msgstr "أنثى"
 
@@ -934,50 +892,8 @@ msgstr "ذكر"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "1"
-msgstr "1"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "2"
-msgstr "2"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "3"
-msgstr "3"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "4"
-msgstr "4"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "5"
-msgstr "5"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "6"
-msgstr "6"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "7"
-msgstr "7"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "exit"
-msgstr "خروج"
+msgid "other"
+msgstr "أخرى"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1044,6 +960,12 @@ msgstr "العربية"
 msgctxt "arguments"
 msgid "yes"
 msgstr "نعم"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr "خروج"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
