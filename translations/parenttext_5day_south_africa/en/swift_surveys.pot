@@ -850,8 +850,19 @@ msgid "Your child was made to do anything sexual"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when Your {age group} did something wrong or made you upset or angry."
+msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when @fields.child_nickname did something wrong or made you upset or angry."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when your teen did something wrong or made you upset or angry."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when your child did something wrong or made you upset or angry."
 msgstr ""
 
 #. type=text
