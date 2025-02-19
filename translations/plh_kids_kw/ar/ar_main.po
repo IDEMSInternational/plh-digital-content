@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-01-03 11:59\n"
+"PO-Revision-Date: 2025-02-19 17:14\n"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -88,6 +88,21 @@ msgstr "لا شيء مما سبق"
 msgctxt "global"
 msgid "About @global.app_name"
 msgstr "نبذة عن @global.app_name"
+
+#. type=global
+msgctxt "global"
+msgid "User ID"
+msgstr "رقم المستخدم"
+
+#. type=global
+msgctxt "global"
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#. type=global
+msgctxt "global"
+msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
+msgstr "هل ترغب في إنشاء حساب؟ سيسمح لك هذا الخيار باستعادة بياناتك في حالة فقدان جهازك."
 
 #. type=global
 msgctxt "global"
@@ -480,33 +495,18 @@ msgstr "ملاحظات عن التطبيق "
 
 #. type=global
 msgctxt "global"
-msgid "Login"
-msgstr "تسجيل الدخول"
-
-#. type=global
-msgctxt "global"
-msgid "Login with existing account"
-msgstr "تسجيل الدخول باستخدام حساب موجود"
-
-#. type=global
-msgctxt "global"
 msgid "Create an account"
 msgstr "إنشاء حساب"
 
 #. type=global
 msgctxt "global"
-msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
-msgstr "هل ترغب في إنشاء حساب؟ سيسمح لك هذا الخيار باستعادة بياناتك في حالة فقدان جهازك."
-
-#. type=global
-msgctxt "global"
-msgid "Already have an account? Log in here."
-msgstr "هل لديك حساب؟ قم بتسجيل الدخول هنا."
-
-#. type=global
-msgctxt "global"
 msgid "Skip"
 msgstr "تخطي"
+
+#. type=global
+msgctxt "global"
+msgid "Welcome"
+msgstr "مرحباً"
 
 #. type=global
 #. The string @global.app_name should not be translated.
@@ -571,15 +571,20 @@ msgid "Change countdown days"
 msgstr "تغيير أيام العد التنازلي"
 
 #. type=template
-#. The string @fields.countdown_days should not be translated.
+#. The string @local.countdown_days should not be translated.
 msgctxt "template"
-msgid "Countdown days: @fields.countdown_days"
-msgstr "أيام العد التنازلي: @fields.countdown_days"
+msgid "Countdown days: @local.countdown_days"
+msgstr "أيام العد التنازلي: @local.countdown_days"
 
 #. type=template
 msgctxt "template"
 msgid "Choose a number of days to count down"
 msgstr "اختر عدد الأيام للعد التنازلي"
+
+#. type=template
+msgctxt "template"
+msgid "Save"
+msgstr "حفظ"
 
 #. type=template
 msgctxt "template"
@@ -632,16 +637,6 @@ msgstr "قم بلصق @local.user_id_name لاستيراد بيانات الحس
 msgctxt "template"
 msgid "Import data"
 msgstr "استيراد البيانات"
-
-#. type=template
-msgctxt "template"
-msgid "Settings"
-msgstr "إعدادات"
-
-#. type=template
-msgctxt "template"
-msgid "Save"
-msgstr "حفظ"
 
 #. type=template
 msgctxt "template"
