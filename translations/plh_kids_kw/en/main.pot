@@ -77,31 +77,6 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "User ID"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Login"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Logout"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "You are logged in."
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "Dayem App"
 msgstr ""
 
@@ -489,17 +464,12 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Sign in"
+msgid "Login"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Sign in with Google"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Sign out"
+msgid "Login with existing account"
 msgstr ""
 
 #. type=global
@@ -509,51 +479,17 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Creating an account allows you to save your progress across devices. It is optional."
+msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Already have an account? Log in here."
 msgstr ""
 
 #. type=global
 msgctxt "global"
 msgid "Skip"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Continue without an account"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Welcome"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Excited to have you here! Let’s keep going."
-msgstr ""
-
-#. type=global
-#. The string @fields._auth_user_given_name! should not be translated.
-msgctxt "global"
-msgid "Excited to have you here @fields._auth_user_given_name! Let’s keep going."
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "You are signed in."
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid ""
-"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
-"\n"
-"If you do, any progress made on this device will be lost."
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Load saved progress"
 msgstr ""
 
 #. type=global
@@ -575,11 +511,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Templates"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Dynamic data"
 msgstr ""
 
 #. type=template
@@ -624,19 +555,14 @@ msgid "Change countdown days"
 msgstr ""
 
 #. type=template
-#. The string @local.countdown_days should not be translated.
+#. The string @fields.countdown_days should not be translated.
 msgctxt "template"
-msgid "Countdown days: @local.countdown_days"
+msgid "Countdown days: @fields.countdown_days"
 msgstr ""
 
 #. type=template
 msgctxt "template"
 msgid "Choose a number of days to count down"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Save"
 msgstr ""
 
 #. type=template
@@ -689,6 +615,16 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Import data"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Settings"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Save"
 msgstr ""
 
 #. type=template
