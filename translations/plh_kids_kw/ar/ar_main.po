@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-02-19 17:14\n"
+"PO-Revision-Date: 2025-02-19 23:09\n"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -92,7 +92,7 @@ msgstr "نبذة عن @global.app_name"
 #. type=global
 msgctxt "global"
 msgid "User ID"
-msgstr "رقم المستخدم"
+msgstr "معرف المستخدم"
 
 #. type=global
 msgctxt "global"
@@ -103,6 +103,16 @@ msgstr "تسجيل الدخول"
 msgctxt "global"
 msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
 msgstr "هل ترغب في إنشاء حساب؟ سيسمح لك هذا الخيار باستعادة بياناتك في حالة فقدان جهازك."
+
+#. type=global
+msgctxt "global"
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#. type=global
+msgctxt "global"
+msgid "You are logged in."
+msgstr "لقد قمت بتسجيل الدخول."
 
 #. type=global
 msgctxt "global"
@@ -495,8 +505,28 @@ msgstr "ملاحظات عن التطبيق "
 
 #. type=global
 msgctxt "global"
+msgid "Sign in"
+msgstr "تسجيل الدخول"
+
+#. type=global
+msgctxt "global"
+msgid "Sign in with Google"
+msgstr "تسجيل الدخول باستخدام جوجل"
+
+#. type=global
+msgctxt "global"
+msgid "Sign out"
+msgstr "تسجيل الخروج"
+
+#. type=global
+msgctxt "global"
 msgid "Create an account"
 msgstr "إنشاء حساب"
+
+#. type=global
+msgctxt "global"
+msgid "Creating an account allows you to save your progress across devices. It is optional."
+msgstr "عند إنشاء حساب تستطيع حفظ تقدمك عبر الأجهزة. إنه أمر اختياري."
 
 #. type=global
 msgctxt "global"
@@ -505,8 +535,45 @@ msgstr "تخطي"
 
 #. type=global
 msgctxt "global"
+msgid "Continue without an account"
+msgstr "متابعة بدون إنشاء حساب"
+
+#. type=global
+msgctxt "global"
 msgid "Welcome"
-msgstr "مرحباً"
+msgstr "أهلاً"
+
+#. type=global
+msgctxt "global"
+msgid "Excited to have you here! Let’s keep going."
+msgstr "يسعدني تواجدك هنا! دعنا نستمر."
+
+#. type=global
+#. The string @fields._auth_user_given_name! should not be translated.
+msgctxt "global"
+msgid "Excited to have you here @fields._auth_user_given_name! Let’s keep going."
+msgstr "يسعدني تواجدك هنا @fields._auth_user_given_name! دعنا نستمر."
+
+#. type=global
+msgctxt "global"
+msgid "You are signed in."
+msgstr "لقد قمت بتسجيل الدخول."
+
+#. type=global
+msgctxt "global"
+msgid ""
+"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
+"\n"
+"If you do, any progress made on this device will be lost."
+msgstr ""
+"يبدو أنك قمت بتسجيل الدخول على جهاز آخر من قبل. هل ترغب في المتابعة من حيث توقفت؟\n"
+"\n"
+"إذا قمت بذلك فسيتم فقدان أي تقدم تم إنجازه على هذا الجهاز."
+
+#. type=global
+msgctxt "global"
+msgid "Load saved progress"
+msgstr "تحميل التقدم المحفوظ سابقاً"
 
 #. type=global
 #. The string @global.app_name should not be translated.
@@ -528,6 +595,11 @@ msgstr "أنا..."
 msgctxt "template"
 msgid "Templates"
 msgstr "القوالب"
+
+#. type=template
+msgctxt "template"
+msgid "Dynamic data"
+msgstr "البيانات المتغيرة"
 
 #. type=template
 msgctxt "template"
