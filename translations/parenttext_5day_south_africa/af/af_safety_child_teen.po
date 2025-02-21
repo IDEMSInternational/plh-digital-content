@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2025-02-18 16:50\n"
+"PO-Revision-Date: 2025-02-21 17:47\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -56,6 +56,11 @@ msgstr "Waar of Vals: Ouers moet wag to hulle kinders op skoolgaande ouderdom is
 
 #. type=text
 msgctxt "text"
+msgid "👀 Oops! That's not actually true."
+msgstr "👀 Oeps! Dit is eintlik nie waar nie."
+
+#. type=text
+msgctxt "text"
 msgid "🌷 It is never too early to talk with your child about how to keep them safe from sexual abuse."
 msgstr "🌷 Dit is nooit te vroeg om met jou kind te praat oor hoe om hulle veilig te hou van seksuele mishandeling nie."
 
@@ -78,6 +83,11 @@ msgstr "⭐ Dit is reg. "
 msgctxt "text"
 msgid "Sorry, I don't understand what you mean."
 msgstr "Jammer, ek verstaan nie wat jy bedoel nie."
+
+#. type=text
+msgctxt "text"
+msgid "Here's another one:"
+msgstr "Hier is nog een:"
 
 #. type=text
 msgctxt "text"
@@ -113,6 +123,66 @@ msgstr "Jy het 25% van hierdie vaardigheid voltooi! Druk VOLGENDE om voort te ga
 msgctxt "text"
 msgid "{F1_FATHER} wants to help his young children learn about safe and unsafe touch. Let’s see how he has the conversation with his young son, {F1_SON_5}."
 msgstr "{F1_FATHER} wil hulle jong kind help om te leer van veilige en onveilige aanraking. Kom ons sien hoe hy die gesprek met sy jong seun, {F1_SON_5}, voer."
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_FATHER}**: Did you enjoy the story, {F1_SON_5}?"
+msgstr "**{F1_FATHER}**: Het jy die storie geniet, {F1_SON_5}?"
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_SON_5}**: Yes, {F1_FATHER}! It was fun!"
+msgstr "**{F1_SON_5}**: Ja, {F1_FATHER}! Dit was pret!"
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_FATHER}**:  Now, there are some important things I want to talk to you about. It's about keeping your body safe and healthy."
+msgstr "**{F1_FATHER}**: Nou is daar 'n paar belangrike goed waaroor ek met jou wil gesels. Dit gaan oor hoe om jou liggaam veilig en gesond te hou."
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_SON_5}**: What do you mean, {F1_FATHER}?"
+msgstr "**{F1_SON_5}**: Wat bedoel jy, {F1_FATHER}?"
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_FATHER}**: First, we all have private parts on our bodies. These are the parts that are covered by our underwear."
+msgstr "**{F1_FATHER}**: Eerstens, ons het almal privaatdele op ons liggame. Dit is die dele wat bedek word deur ons onderklere."
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_SON_5}**: Like this? "
+msgstr "**{F1_SON_5}**: Soos dit? "
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_FATHER}**: Exactly. It's important to remember that these parts are private, and no one should touch them except to keep you clean and healthy."
+msgstr "**{F1_FATHER}**: Presies. Dit is belangrik om te onthou dat die dele privaat is, en niemand aan dit moet raak nie, behalwe om dit skoon en gesond te hou."
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_FATHER}**: Your body belongs to you, and you have the right to say \"no\" if someone wants to touch you in a way that feels uncomfortable or wrong."
+msgstr "**{F1_FATHER}**: Jou liggaam behoort aan jou, en jy het die reg om 'nee' te sê as iemand jou wil aanraak op 'n manier wat ongemaklik of verkeerd voel."
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_SON_5}**: Okay, {F1_FATHER}."
+msgstr "**{F1_SON_5}**: Oukei, {F1_FATHER}."
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_FATHER}**: And if anything ever happens that makes you feel scared or uneasy, remember you can always come and tell me or {F1_MOTHER}. We're here to protect you and keep you safe."
+msgstr "**{F1_FATHER}**: En as enige iets ooit gebeur wat jou bang of onrustig laat voel, onthou jy kan altyd vir my of {F1_MOTHER} kom vertel. Ons is hier om jou te beskerm en veilig te hou."
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_SON_5}**: I will tell you and {F1_MOTHER}, {F1_FATHER}."
+msgstr "**{F1_SON_5}**: Ek sal vir jou en {F1_MOTHER} vertel, {F1_FATHER}."
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_FATHER}**: We love you, **{F1_SON_5}. Now, let's give each other a big hug!"
+msgstr "**{F1_FATHER}**: Ons is lief vir jou, {F1_SON_5}. Nou, kom ons gee vir mekaar 'n groot drukkie!"
 
 #. type=text
 msgctxt "text"
@@ -164,6 +234,17 @@ msgstr "✅✅✅✅ 100%"
 msgctxt "text"
 msgid "You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course {goal_name}. ⭐"
 msgstr "Jy het nou @(fields.c_n_mod_compl +1) van @fields.c_n_mod lesse in die kursus {goal_name} voltooi. ⭐"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "If @fields.child_nickname tells you they feel uncomfortable about someone touching them on their private parts, you should:"
+msgstr "As @fields.child_nickname vir jou sê hulle voel ongemaklik oor iemand wat hulle op hul privaatdele aanraak, moet jy:"
+
+#. type=text
+msgctxt "text"
+msgid "If your child tells you they feel uncomfortable about someone touching them on their private parts, you should:"
+msgstr "As jou kind vir jou sê hulle voel ongemaklik oor iemand wat hulle op hul privaatdele aanraak, moet jy:"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -240,6 +321,16 @@ msgstr "💡 Leer altyd vir @fields.child_nickname hoe om weg te kom van enige s
 msgctxt "text"
 msgid "🚩 Offenders are usually known to the child and/or caregivers and initially engage in physical activities like wrestling or touching. This is to get the child comfortable with touch."
 msgstr "🚩 Oortreders is gewoonlik bekend aan die kind en/of versorgers en raak aanvanklik betrokke in aktiwiteite soos stoei of aanraking. Dit is om die kind gemaklik te maak met aanraking."
+
+#. type=text
+msgctxt "text"
+msgid "❗ When playing physical games like wrestling  with your child, practice saying \"no\" and respecting their boundaries. If your child says \"no\", stop the game immediately."
+msgstr "❗Wanneer jy speletjies soos stoei met jou kind speel, oefen om \"nee\" te sê en respekteer hulle grense. Wanneer jou kind \"nee\" sê, stop die speletjie onmiddellik."
+
+#. type=text
+msgctxt "text"
+msgid "🌷 This empowers them to say “NO!” to unsafe situations outside the home as well. It will not be as easy for the child to get away from such situations, but teaching them how to leave when they feel uncomfortable will help."
+msgstr "🌷Dit bemagtig hulle om ook \"NEE!\" te sê vir onveilige situasies buite die huis. Dit sal nie maklik wees vir die kind om weg te kom van sulke situasies nie, maar om hulle te leer hoe om weg te kom wanneer hulle ongemaklik voel, sal help."
 
 #. type=text
 msgctxt "text"
@@ -333,6 +424,66 @@ msgid "{F2_GRANDMOTHER} wants to help her young children learn about safe and un
 msgstr "{F2_GRANDMOTHER} wil haar jong kind help om te leer van veilige en onveilige aanraking. Kom ons sien hoe sy die gesprek met haar jong dogter, {F2_DAUGHTER_3}, voer."
 
 #. type=text
+msgctxt "text"
+msgid "**{F2_GRANDMOTHER}**: Did you enjoy the story,{F2_DAUGHTER_3}?"
+msgstr "**{F2_GRANDMOTHER}**: Het jy die storie geniet, {F2_DAUGHTER_3}?"
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_DAUGHTER_3}**: Yes, {F2_GRANDMOTHER}! It was fun!"
+msgstr "**{F2_DAUGHTER_3}**: Ja, {F2_GRANDMOTHER}! Dit was pret!"
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_GRANDMOTHER}**:  Now, there are some important things I want to talk to you about. It's about keeping your body safe and healthy."
+msgstr "**{F2_GRANDMOTHER}**: Nou is daar 'n paar belangrike goed waaroor ek met jou wil gesels. Dit gaan oor hoe om jou liggaam veilig en gesond te hou."
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_DAUGHTER_3}**: What do you mean, {F2_GRANDMOTHER}?"
+msgstr "**{F2_DAUGHTER_3}**: Wat bedoel jy, {F2_GRANDMOTHER}?"
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_GRANDMOTHER}**: First, we all have private parts on our bodies. These are the parts that are covered by our underwear."
+msgstr "**{F2_GRANDMOTHER}**: Eerstens, ons almal het privaatdele op ons liggaam. Dit is die dele wat bedek word deur ons onderklere."
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_DAUGHTER_3}**: Like this? "
+msgstr "**{F2_DAUGHTER_3}**: Soos dit? "
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_GRANDMOTHER}**: Exactly. It's important to remember that these parts are private, and no one should touch them except to keep you clean and healthy."
+msgstr "**{F2_GRANDMOTHER}**: Presies. Dit is belangrik om te onthou dat die dele privaat is, en niemand aan dit moet raak nie, behalwe om dit skoon en gesond te hou."
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_GRANDMOTHER}**: Your body belongs to you, and you have the right to say \"no\" if someone wants to touch you in a way that feels uncomfortable or wrong."
+msgstr "**{F2_GRANDMOTHER}**: Jou liggaam behoort aan jou, en jy het die reg om 'nee' te sê as iemand jou wil aanraak op 'n manier wat ongemaklik of verkeerd voel."
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_DAUGHTER_3}**: Okay, {F2_GRANDMOTHER}."
+msgstr "**{F2_DAUGHTER_3}**: Oukei, {F2_GRANDMOTHER}."
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_GRANDMOTHER}**: And if anything ever happens that makes you feel scared or uneasy, remember you can always come and tell me or your teacher. We are here to protect you and keep you safe."
+msgstr "**{F2_GRANDMOTHER}**: En as enige iets ooit gebeur wat jou bang of onrustig laat voel, onthou jy kan altyd vir my of jou juffrou kom vertel. Ons is hier om jou te beskerm en veilig te hou."
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_DAUGHTER_3}**: I will tell you, {F2_GRANDMOTHER}."
+msgstr "**{F2_DAUGHTER_3}**: Ek sal vir jou vertel, {F2_GRANDMOTHER}."
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_GRANDMOTHER}**: I love you, {F2_DAUGHTER_3}. Now, let's give each other a big hug!"
+msgstr "**{F2_GRANDMOTHER}**: Ek is lief vir jou, {F2_DAUGHTER_3}. Nou, kom ons gee vir mekaar 'n groot drukkie!"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "You have now completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course, {goal_name}. ⭐"
@@ -363,6 +514,36 @@ msgstr "💡Maar daar is eenvoudinge goed wat hulle kan help verstaan wanneer di
 msgctxt "text"
 msgid "Here’s a story about a time {F3_DAUGHTER_7} felt unsafe about someone touching her."
 msgstr "Hier is 'n storie oor 'n tyd toe {F3_DAUGHTER_7} onveilig gevoel het toe iemand aan haar geraak het."
+
+#. type=text
+msgctxt "text"
+msgid "**{F3_DAUGHTER_7}**: (Tearing up) {F3_MOTHER}, Uncle gives very long hugs! I don’t like them."
+msgstr "**{F3_DAUGHTER_7}**: (Word tranerig) {F3_MOTHER}, Oom gee baie lang drukkies! Ek hou nie daarvan nie."
+
+#. type=text
+msgctxt "text"
+msgid "**{F3_MOTHER}**: Oh dear, {F3_DAUGHTER_7}, that is not OK. Thank you for telling me about it."
+msgstr "**{F3_MOTHER}**: O nee, {F3_DAUGHTER_7}, dit is nie reg nie. Baie dankie dat jy my vertel het."
+
+#. type=text
+msgctxt "text"
+msgid "**{F3_MOTHER}**: If he ever tries to give you a hug again, you can tell him, “No, let’s rather shake hands,” and tell me straight away. Shall we practise?"
+msgstr "**{F3_MOTHER}**: As hy ooit weer probeer om vir jou 'n drukkie te gee, kan jy vir hom sê: “Nee, kom ons skud liewer hande,” en vertel my onmiddellik. Sal ons oefen?"
+
+#. type=text
+msgctxt "text"
+msgid "**{F3_DAUGHTER_7}**: (Practising) No, let’s rather shake hands, please."
+msgstr "**{F3_DAUGHTER_7}**: (Oefen) Nee, kom ons skud eerder hande, asseblief."
+
+#. type=text
+msgctxt "text"
+msgid "**{F3_MOTHER}**: Well done, {F3_DAUGHTER_7}. I love you very much and I’m so glad you spoke to me about it. If Uncle makes you feel uncomfortable again, you must tell me immediately. You should always feel safe and comfortable with the people around you."
+msgstr "**{F3_MOTHER}**: Welgedaan, {F3_DAUGHTER_7}. Ek is baie lief vir jou en so bly dat jy met my daaroor gepraat het. As Oom jou weer ongemaklik laat voel, moet jy my dadelik vertel. Jy moet altyd veilig en gemaklik voel met die mense rondom jou."
+
+#. type=text
+msgctxt "text"
+msgid "**{F3_DAUGHTER_7}**: Thank you, {F3_MOTHER}. I’m glad I can tell you about these things."
+msgstr "**{F3_DAUGHTER_7}**: Dankie, {F3_MOTHER}. Ek is bly ek kan jou die goed vertel."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -499,6 +680,16 @@ msgstr "⭐ Jy is reg! "
 
 #. type=text
 msgctxt "text"
+msgid "Let’s do a True/False Quiz!"
+msgstr "Kom ons doen 'n Waar/Vals Vasvra!"
+
+#. type=text
+msgctxt "text"
+msgid "My child is always with me, so I don’t need to teach them about safety until they are older."
+msgstr "My kind is altyd met my, so ek hoef nie vir hulle oor veiligheid te leer totdat hulle ouer is nie."
+
+#. type=text
+msgctxt "text"
 msgid "👀 Oops! That’s not actually true. "
 msgstr "👀 Oeps! Dit is eintlik nie waar nie. "
 
@@ -521,6 +712,31 @@ msgstr "⭐ Jy is reg! "
 msgctxt "text"
 msgid "Let’s check in on {F2_DAUGHTER_3} and her grandfather, who are playing together outside:"
 msgstr "Kom ons gaan kyk na {F2_DAUGHTER_3} en haar oupa, wat saam buite speel:"
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_DAUGHTER_3}**: Look {F2_GRANDFATHER}, how far I can kick my ball!"
+msgstr "**{F2_DAUGHTER_3}**: Kyk hoe ver het ek my bal geskop, {F2_GRANDFATHER}!"
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_DAUGHTER_3}**: Oh no! My ball!"
+msgstr "**{F2_DAUGHTER_3}**: O nee! My bal!"
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_GRANDFATHER}**: Remember what we talked about, {F2_DAUGHTER_3}. What should we do if the ball goes on the street? "
+msgstr "**{F2_GRANDFATHER}**: Onthou waaroor ons gepraat het, {F2_DAUGHTER_3}. Wat moet ons doen as die bal in die straat gaan? "
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_DAUGHTER_3}**: We should stay where we are and ask an adult for help."
+msgstr "**{F2_DAUGHTER_3}**: Ons moet bly waar ons is en 'n volwassene vra om te help."
+
+#. type=text
+msgctxt "text"
+msgid "**{F2_GRANDFATHER}**: That’s right! I am so proud of you for remembering. Roads are for cars and bikes, and it is safer for an adult to get your ball for you."
+msgstr "**{F2_GRANDFATHER}**: Dit is reg! Ek is so trots op jou dat jy onthou het. Paaie is vir motors en motorfietse, en dit is veiliger vir 'n volwassene om die bal vir jou te kry."
 
 #. type=text
 msgctxt "text"
@@ -584,8 +800,19 @@ msgstr "📝 Teken 'n padkaart van jou gemeenskap."
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "🚩 Include the main places in your community: your house, streets in your neighbourhood, crèche, and other places @fields.child_nickname visits."
+msgstr "🚩 Sluit die hoof plekke in jou gemeenskap in: jou huis, strate in jou woonbuurt, kleuterskool, en ander plekke waarheen @fields.child_nickname dalk mag gaan."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "👋Draw and identify pictures of trusted people who @fields.child_nickname can go to when they feel unsafe. These can be you and your partner, other family members, or teachers."
 msgstr "👋Teken en identifiseer foto's van betroubare mense wie @fields.child_nickname toe gaan wanneer hulle onveilig voel. Dit kan jy of jou lewensmaat, ander familielede, of onderwysers wees."
+
+#. type=text
+msgctxt "text"
+msgid "🚩 Include the main places in your community: your house, streets in your neighbourhood, crèche, and other places your child visits."
+msgstr "🚩 Sluit die hoof plekke in jou gemeenskap in: jou huis, strate in jou woonbuurt, kleuterskool, en ander plekke waarheen jou kind dalk mag gaan."
 
 #. type=text
 msgctxt "text"
