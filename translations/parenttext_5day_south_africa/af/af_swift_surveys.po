@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2025-02-18 16:54\n"
+"PO-Revision-Date: 2025-02-23 15:55\n"
 
 #. type=text
 msgctxt "text"
@@ -32,6 +32,21 @@ msgstr "✅ Jou persoonlike inligting is veilig en privaat. "
 msgctxt "text"
 msgid "✅ Your name and information will not be public, but your responses will be kept and used by researchers to learn how to support families like yours. "
 msgstr "✅ Jou naam en inligting sal nie openbaar wees nie, maar jou antwoorde sal gehou word en deur navorsers gebruik word om te leer hoe om gesinne soos joune te ondersteun. "
+
+#. type=text
+msgctxt "text"
+msgid "✅ The information you share may also be combined with other families’ experiences so that we can understand how these programmes work across the world."
+msgstr "✅ Die inligting wat jy deel, mag ook gekombineer word met ander gesinne se ervarings sodat ons kan verstaan hoe hierdie programme wêreldwyd werk."
+
+#. type=text
+msgctxt "text"
+msgid "📲 We will send you airtime as a thank you for your participation."
+msgstr "📲 Ons sal vir jou lugtyd stuur om dank te betoon vir jou deelname."
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to participate in the study to help us learn how we can support parents like you in South Africa? 🇿🇦"
+msgstr "Wil jy aan die studie deelneem om ons te help leer hoe ons ouers soos jy in Suid-Afrika kan ondersteun? 🇿🇦"
 
 #. type=text
 msgctxt "text"
@@ -65,6 +80,16 @@ msgstr "✏️ 1 maand later sal jy gevra word om 'n tweede opname in te vul, wa
 
 #. type=text
 msgctxt "text"
+msgid "✏️ 3 months later, you will receive a 3rd survey. You will receive R50 airtime after completing that final survey to thank you. "
+msgstr "✏️ 3 maande later sal jy 'n 3de opname ontvang. Om jou te bedank, sal jy R50 lugtyd ontvang nadat jy daardie finale opname voltooi het. "
+
+#. type=text
+msgctxt "text"
+msgid "📲 After each survey, the money will be sent to this WhatsApp number as mobile airtime."
+msgstr "📲 Na elke opname sal die geld na hierdie WhatsApp nommer gestuur word as mobiele lugtyd."
+
+#. type=text
+msgctxt "text"
 msgid "🤐 If there are any questions that you feel uncomfortable answering, you do not have to answer them."
 msgstr "🤐 As daar enige vrae is wat jy ongemaklik vind om te beantwoord, hoef jy dit nie te beantwoord nie."
 
@@ -85,8 +110,18 @@ msgstr "Lees asseblief hierdie inligting sorgvuldig deur:{ret_consent_link}"
 
 #. type=text
 msgctxt "text"
+msgid "Press YES if you have read and understand the above document, agree with the messages, and give consent to participate in the study. Type \"EXIT\" if you do not want to participate."
+msgstr "Druk JA as jy die bogenoemde dokument gelees en verstaan het, saamstem met die boodskappe, en toestemming gee om aan die studie deel te neem. Tik \"UITGAAN\" as jy nie wil deelneem nie."
+
+#. type=text
+msgctxt "text"
 msgid "Great! Let's start your first survey."
 msgstr "Wonderlik! Kom ons begin met jou eerste opname."
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you want to exit the study?"
+msgstr "Is jy seker jy wil die studie verlaat?"
 
 #. type=text
 msgctxt "text"
@@ -147,6 +182,11 @@ msgstr "Is jy onder die ouderdom van 18?"
 msgctxt "text"
 msgid "Sorry. You do not qualify for the study. Thank you for your time. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}."
 msgstr "Jammer. Jy kwalifiseer nie vir die studie nie. Dankie vir jou tyd. Jy kan dalk 'n ander WhatsApp-program probeer, ParentLine, deur 'n WhatsApp te stuur na {parentline number}."
+
+#. type=text
+msgctxt "text"
+msgid "Are you a parent or caregiver of a child aged 2 to 17 years?"
+msgstr "Is jy 'n ouer of versorger van 'n kind van 2 en 17 jaar oud?"
 
 #. type=text
 msgctxt "text"
@@ -225,6 +265,11 @@ msgstr "Wat is jou naam?"
 
 #. type=text
 msgctxt "text"
+msgid "This looks too long. Please enter a shorter name."
+msgstr "Dit lyk te lank. Voer asseblief 'n korter naam in."
+
+#. type=text
+msgctxt "text"
 msgid "What is your last name?"
 msgstr "Wat is jou van?"
 
@@ -232,6 +277,11 @@ msgstr "Wat is jou van?"
 msgctxt "text"
 msgid "What gender do you identify as?"
 msgstr "Watter geslag identifiseer jy jouself as?"
+
+#. type=text
+msgctxt "text"
+msgid "At the moment, the characters in ParentText are masculine or feminine. Would you like a masculine or feminine character to represent you?"
+msgstr "Op die oomblik is die karakters in ParentText manlik of vroulik. Wil jy hê dat 'n manlike of vroulike karakter jou moet verteenwoordig?"
 
 #. type=text
 msgctxt "text"
@@ -307,6 +357,18 @@ msgstr "Die datum wat jy ingevul het, is in die toekoms. Verskaf asseblief jou k
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "@fields.child_nickname is @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) jaar oud. Is dit korrek?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your child is @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "Jou kind is @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) jaar oud. Is dit korrek?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "What is @fields.child_nickname's date of birth?"
 msgstr "Wat is @fields.child_nickname se geboortedatum?"
 
@@ -319,6 +381,18 @@ msgstr "Voer hul geboortedatum in die volgende formaat in: DD/MM/YYYY. Byvoorbee
 msgctxt "text"
 msgid "What is your child's date of birth?"
 msgstr "Wat is jou kind se geboortedatum?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Volgens die datum wat jy verskaf het, is @fields.child_nickname @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) jaar oud. ParentText is slegs vir kinders van 2-17 jaar oud. Vul asseblief 'n geldige geboortedatum in die volgende formaat in: DD/MM/JJJJ. Byvoorbeeld, as jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, your child would be @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Volgens die datum wat jy verskaf het, is jou kind @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) jaar oud. ParentText is slegs vir kinders van 2-17 jaar oud. Vul asseblief 'n geldige geboortedatum in die volgende formaat in: DD/MM/JJJJ. Byvoorbeeld, As jou kind op 19 Mei 2010 gebore is, tik 19/05/2010."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -356,6 +430,11 @@ msgstr "Is jy die primêre of hoofversorger van jou kind?"
 msgctxt "text"
 msgid "How often in the past month has your household run out of money to buy food?"
 msgstr "Hoe gereeld het jou huisgesin die afgelope maand geen geld gehad om kos te koop nie?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you or somebody else in your household receive a social grant? e.g. child support, state pension, disability"
+msgstr "Ontvang jy of iemand anders in jou huisgesin 'n maatskaplike toelaag? Byvoorbeeld, kinderonderhoud, staatspensioen, ongeskiktheidstoelaag"
 
 #. type=text
 msgctxt "text"
@@ -479,6 +558,11 @@ msgstr "💚 Daar is geen regte of verkeerde antwoorde nie."
 
 #. type=text
 msgctxt "text"
+msgid "How often in the past 2 weeks did you have little interest or pleasure in doing things?"
+msgstr "Hoe dikwels het jy in die afgelope 2 weke min belangstelling of plesier ervaar om dinge te doen?"
+
+#. type=text
+msgctxt "text"
 msgid "How often in the past week did you have little interest or pleasure in doing things?"
 msgstr "Hoe gereeld het jy in die afgelope week min belanggestel of plesier gekry om dinge te doen?"
 
@@ -542,9 +626,20 @@ msgid "💚Again, some of these questions might be difficult to answer or even t
 msgstr "💚 Weereens, sommige van hierdie vrae mag moeilik wees om te beantwoord of selfs oor na te dink, maar hulle is belangrik. Deel asseblief eerlik sodat ons jou kan ondersteun."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "😔 If @fields.child_nickname has been exposed to something sexual, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and @fields.child_nickname with this very difficult experience."
+msgstr "😔 As @fields.child_nickname blootgestel was aan iets seksueel, is dit belangrik dat dit gerapporteer word. As dit nie gerapporteer was nie, of as jy meer ondersteuning nodig het, bel asseblief die Kinderlyn op 116. Hulle is daar om jou en @fields.child_nickname te help met hierdie baie moeilike ervaring."
+
+#. type=text
 msgctxt "text"
 msgid "🌱 The last questions are about your teen, their behaviour, and their communication with you."
 msgstr "🌱 Die laaste vrae is oor jou tiener, hul gedrag, en hul kommunikasie met jou."
+
+#. type=text
+msgctxt "text"
+msgid "😔 If your teen has been exposed to something sexual, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and your teen with this very difficult experience."
+msgstr "😔 As jou tiener blootgestel was aan iets seksueel, is dit belangrik dat dit gerapporteer word. As dit nie gerapporteer was nie, of as jy meer ondersteuning nodig het, bel asseblief die Kinderlyn op 116. Hulle is daar om jou en jou tiener te help met hierdie baie moeilike ervaring."
 
 #. type=text
 msgctxt "text"
@@ -634,6 +729,11 @@ msgstr "🧒🏾 Was óf by die huis óf buite die huis sonder volwasse toesig"
 msgctxt "text"
 msgid "🚗Took a lift with someone they didn't know"
 msgstr "🚗 'n Geleentheid saam met iemand geneem wat hulle nie ken nie"
+
+#. type=text
+msgctxt "text"
+msgid "🌙 Spent a night away from home when you didn't know where they were, or came home later than expected"
+msgstr "🌙'n Aand buite die huis deurgebring het waar jy nie geweet het waar hulle was nie, of later as verwag huis toe gekom het"
 
 #. type=text
 msgctxt "text"
@@ -754,6 +854,22 @@ msgstr "@fields.child_nickname is gedwing om iets seksueel te doen"
 msgctxt "text"
 msgid "Your child was made to do anything sexual"
 msgstr "Jou kind is gedwing om enige iets seksueel te doen"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when @fields.child_nickname did something wrong or made you upset or angry."
+msgstr "😇 Kinders doen dikwels dinge wat verkeerd is, ongehoorsaam is of hulle ouers kwaad maak. Ons wil graag weet wat jy gedoen het toe @fields.child_nickname iets verkeerd gedoen het of jou ontsteld of kwaad gemaak het."
+
+#. type=text
+msgctxt "text"
+msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when your teen did something wrong or made you upset or angry."
+msgstr "😇 Kinders doen dikwels dinge wat verkeerd is, ongehoorsaam is of hulle ouers kwaad maak. Ons wil graag weet wat jy gedoen het toe jou tiener iets verkeerd gedoen het of jou ontsteld of kwaad gemaak het."
+
+#. type=text
+msgctxt "text"
+msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when your child did something wrong or made you upset or angry."
+msgstr "😇 Kinders doen dikwels dinge wat verkeerd is, ongehoorsaam is of hulle ouers kwaad maak. Ons wil graag weet wat jy gedoen het toe jou kind iets verkeerd gedoen het of jou ontsteld of kwaad gemaak het."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -980,6 +1096,12 @@ msgid "🥳 You have completed the survey! Thank you very much for your particip
 msgstr "🥳 Jy het die opname voltooi! Baie dankie vir jou deelname. As 'n teken van waardering sal jy R25 lugtyd ontvang. "
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child
+msgctxt "text"
+msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, please refer to the help menu by typing {HELP} or email the research team at swift@globalparenting.org"
+msgstr "❗❗❗ As enige vrae in hierdie opname jou bekommerd gelaat het of jou emosioneel geraak het, verwys asseblief na die hulp kieslys deur {HELP} in te tik of kontak die navorsingspan by swift@globalparenting.org"
+
+#. type=text
 msgctxt "text"
 msgid "📅 We will follow up with similar questions in one month, and once you've completed this survey, you will receive an additional R50 airtime. "
 msgstr "📅 Ons sal oor een maand met soortgelyke vrae opvolg, en sodra jy hierdie opname voltooi het, sal jy 'n ekstra R50 lugtyd ontvang. "
@@ -995,9 +1117,25 @@ msgid "✏️ You will receive R50 airtime for participating in this survey. "
 msgstr "✏️Jy sal R50 lugtyd ontvang vir deelname aan hierdie opname. "
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "😔 If @fields.child_nickname has been exposed to something sexual, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and @fields.child_nickname with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option."
+msgstr "😔 As @fields.child_nickname blootgestel word aan iets seksueel, is dit belangrik dat dit gerapporteer word. As dit nie gerapporteer was nie, of as jy meer ondersteuning nodig het, bel asseblief die Kinderlyn op 116. Hulle is daar om jou en @fields.child_nickname te help met hierdie baie moeilike ervaring. Onthou, jy kan ook enige tyd toegang kry tot die hulpkieslys en die opsie 'hantering van geweld' kies."
+
+#. type=text
+msgctxt "text"
+msgid "😔 If your teen has been exposed to something sexual, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and your teen with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option."
+msgstr "😔 As jou tiener blootgestel word aan iets seksueel, is dit belangrik dat dit gerapporteer word. As dit nie gerapporteer was nie, of as jy meer ondersteuning nodig het, bel asseblief die Kinderlyn op 116. Hulle is daar om jou en jou tiener te help met hierdie baie moeilike ervaring. Onthou, jy kan ook enige tyd toegang kry tot die hulpkieslys en die opsie 'hantering van geweld' kies."
+
+#. type=text
 msgctxt "text"
 msgid "😔 If your child has been exposed to something sexual, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and your child with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option."
 msgstr "😔 As jou kind blootgestel is aan iets seksueel, is dit belangrik dat dit gerapporteer word. As dit nie gerapporteer is nie, of as jy meer ondersteuning nodig het, bel asseblief die Kinderlyn op 116. Hulle is daar om jou en jou kind te help met hierdie baie moeilike ervaring. Onthou, jy kan ook enige tyd toegang kry tot die hulpkieslys en die opsie 'hantering van geweld' kies."
+
+#. type=text
+msgctxt "text"
+msgid "How helpful was ParentText to you and your family?"
+msgstr "Hoe behulpsaam was ParentText vir jou en jou gesin?"
 
 #. type=text
 msgctxt "text"
