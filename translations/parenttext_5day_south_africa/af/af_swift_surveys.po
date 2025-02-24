@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2025-02-23 21:55\n"
+"PO-Revision-Date: 2025-02-24 13:07\n"
 
 #. type=text
 msgctxt "text"
@@ -1494,6 +1494,12 @@ msgstr "Dikwels"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "I don't know"
+msgstr "Ek weet nie"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Not helpful"
 msgstr "Nie behulpsaam nie"
 
@@ -1778,6 +1784,12 @@ msgstr "soms"
 msgctxt "arguments"
 msgid "often"
 msgstr "dikwels"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i don't know"
+msgstr "ek weet nie"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
