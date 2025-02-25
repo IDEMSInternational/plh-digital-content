@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-02-21 19:36\n"
+"PO-Revision-Date: 2025-02-25 01:05\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -4781,8 +4781,35 @@ msgstr "Continuar sin una cuenta"
 
 #. type=global
 msgctxt "global"
+msgid "Excited to have you here! Let’s keep going."
+msgstr "¡Me alegro de tenerte aquí! Sigamos adelante."
+
+#. type=global
+#. The string @fields._auth_user_given_name! should not be translated.
+msgctxt "global"
+msgid "Excited to have you here @fields._auth_user_given_name! Let’s keep going."
+msgstr "¡Que gusto tenerte aquí @campos._nombre_de_usuario_autónomo! Sigamos adelante."
+
+#. type=global
+msgctxt "global"
 msgid "You are signed in."
 msgstr "Sesión iniciada."
+
+#. type=global
+msgctxt "global"
+msgid ""
+"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
+"\n"
+"If you do, any progress made on this device will be lost."
+msgstr ""
+"Parece que ya has iniciado sesión en otro dispositivo. ¿Quieres continuar desde donde lo dejaste? \n"
+"\n"
+"Si lo haces, cualquier progreso realizado en este dispositivo se perderá."
+
+#. type=global
+msgctxt "global"
+msgid "Load saved progress"
+msgstr "Cargar progreso guardado"
 
 #. type=global
 msgctxt "global"
