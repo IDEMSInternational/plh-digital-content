@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-02-24 13:08\n"
+"PO-Revision-Date: 2025-02-25 13:40\n"
 
 #. type=text
 msgctxt "text"
@@ -107,6 +107,11 @@ msgstr "📱 WiFi: Jonga iindawo zakho zeWiFi zasimahla apha: https://www.wester
 msgctxt "text"
 msgid "Please read this information carefully: {ret_consent_link}"
 msgstr "Nceda ufunde olu lwazi ngononophelo: {ret_consent_link}"
+
+#. type=text
+msgctxt "text"
+msgid "Press YES if you have read and understand the above document, agree with the messages, and give consent to participate in the study. Type \"EXIT\" if you do not want to participate."
+msgstr "Cofa u-EWE ukuba ulufundile kwaye uyaluqonda olu xwebhu lungentla, uyavumelana nemiyalezo, kwaye unikeza imvume yokuthatha inxaxheba kuphononongo. Bhala \"EXIT\" ukuba awufuni ukuthatha inxaxheba."
 
 #. type=text
 msgctxt "text"
@@ -1489,6 +1494,12 @@ msgstr "Rhoqo"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "I don't know"
+msgstr "Andiyazi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Not helpful"
 msgstr "Ayiloncedo"
 
@@ -1773,6 +1784,12 @@ msgstr "ngamaxesha athile"
 msgctxt "arguments"
 msgid "often"
 msgstr "rhoqo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i don't know"
+msgstr "andiyazi"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
