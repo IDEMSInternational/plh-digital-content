@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-02-18 22:40\n"
+"PO-Revision-Date: 2025-02-26 16:38\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -1375,11 +1375,6 @@ msgstr "Las personas cuidadoras desempeñan un papel importante a la hora de apo
 msgctxt "data_list"
 msgid "After Onboarding Session"
 msgstr "Después de la Sesión de Integración al programa"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "onboarding"
-msgstr "integración"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4786,19 +4781,35 @@ msgstr "Continuar sin una cuenta"
 
 #. type=global
 msgctxt "global"
-msgid "Yay! We're so glad you're here! Let's keep going."
-msgstr "¡Increíble! ¡Estamos felices de que estés aquí! Sigamos."
+msgid "Excited to have you here! Let’s keep going."
+msgstr "¡Me alegro de tenerte aquí! Sigamos adelante."
 
 #. type=global
-#. The string @global.user_name! should not be translated.
+#. The string @fields._auth_user_given_name! should not be translated.
 msgctxt "global"
-msgid "Yay! We're so glad you're here @global.user_name! Let's keep going."
-msgstr "¡Increíble! ¡Estamos felices de que estés aquí @global.user_name! Sigamos."
+msgid "Excited to have you here @fields._auth_user_given_name! Let’s keep going."
+msgstr "¡Que gusto tenerte aquí @fields._auth_user_given_name! Sigamos adelante."
 
 #. type=global
 msgctxt "global"
 msgid "You are signed in."
 msgstr "Sesión iniciada."
+
+#. type=global
+msgctxt "global"
+msgid ""
+"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
+"\n"
+"If you do, any progress made on this device will be lost."
+msgstr ""
+"Parece que ya has iniciado sesión en otro dispositivo. ¿Quieres continuar desde donde lo dejaste? \n"
+"\n"
+"Si lo haces, cualquier progreso realizado en este dispositivo se perderá."
+
+#. type=global
+msgctxt "global"
+msgid "Load saved progress"
+msgstr "Cargar progreso guardado"
 
 #. type=global
 msgctxt "global"

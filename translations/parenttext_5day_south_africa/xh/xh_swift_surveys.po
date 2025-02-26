@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-02-18 16:54\n"
+"PO-Revision-Date: 2025-02-25 13:40\n"
 
 #. type=text
 msgctxt "text"
@@ -32,6 +32,21 @@ msgstr "✅ Iinkcukacha zakho zobuqu zikhuselekile kwaye zibucala. "
 msgctxt "text"
 msgid "✅ Your name and information will not be public, but your responses will be kept and used by researchers to learn how to support families like yours. "
 msgstr "✅ Igama lakho kunye neenkcukacha aziyi kuba sesidlangalaleni, kodwa iimpendulo zakho ziya kugcinwa kwaye zisetyenziswe ngabaphandi ukufunda indlela yokuxhasa iintsapho ezifana nezakho. "
+
+#. type=text
+msgctxt "text"
+msgid "✅ The information you share may also be combined with other families’ experiences so that we can understand how these programmes work across the world."
+msgstr "✅ Ulwazi owabelana ngalo lusenokudityaniswa namava ezinye iintsapho ukuze siqonde ukuba ezi nkqubo zisebenza njani kwihlabathi liphela."
+
+#. type=text
+msgctxt "text"
+msgid "📲 We will send you airtime as a thank you for your participation."
+msgstr "📲 Sizakuthumelela i-airtime njengombulelo wokuthatha kwakho inxaxheba."
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to participate in the study to help us learn how we can support parents like you in South Africa? 🇿🇦"
+msgstr "Ingaba ungathanda ukuthatha inxaxheba kolu phononongo ukuze usincede sifunde ukuba singabaxhasa njani abazali abafana nawe eMzantsi Afrika? 🇿🇦"
 
 #. type=text
 msgctxt "text"
@@ -65,6 +80,16 @@ msgstr "✏️ Emva kwenyanga enye, uya kucelwa ukuba ugqibezele imibuzo yesibin
 
 #. type=text
 msgctxt "text"
+msgid "✏️ 3 months later, you will receive a 3rd survey. You will receive R50 airtime after completing that final survey to thank you. "
+msgstr "✏️ Emva kweenyanga ezintathu, uya kufumana imibuzo yesithathu. Uya kufumana i-airtime ye-R75 emva kokugqiba lemibuzo yokugqibela ukukubulela. "
+
+#. type=text
+msgctxt "text"
+msgid "📲 After each survey, the money will be sent to this WhatsApp number as mobile airtime."
+msgstr "📲 Emva kovavanyo ngalunye, imali iya kuthunyelwa kwinombolo yefowuni oyikhethayo njengexesha lomoya eliphathwayo."
+
+#. type=text
+msgctxt "text"
 msgid "🤐 If there are any questions that you feel uncomfortable answering, you do not have to answer them."
 msgstr "🤐 Ukuba kukho nayiphi na imibuzo oziva ungakhululekanga ukuyiphendula, akunyanzelekanga ukuba uyiphendule."
 
@@ -85,8 +110,18 @@ msgstr "Nceda ufunde olu lwazi ngononophelo: {ret_consent_link}"
 
 #. type=text
 msgctxt "text"
+msgid "Press YES if you have read and understand the above document, agree with the messages, and give consent to participate in the study. Type \"EXIT\" if you do not want to participate."
+msgstr "Cofa u-EWE ukuba ulufundile kwaye uyaluqonda olu xwebhu lungentla, uyavumelana nemiyalezo, kwaye unikeza imvume yokuthatha inxaxheba kuphononongo. Bhala \"EXIT\" ukuba awufuni ukuthatha inxaxheba."
+
+#. type=text
+msgctxt "text"
 msgid "Great! Let's start your first survey."
 msgstr "Kuhle! Masiqale uphando lwakho lokuqala.\n"
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you want to exit the study?"
+msgstr "Uqinisekile ufuna ukuphuma kolu phononongo?"
 
 #. type=text
 msgctxt "text"
@@ -147,6 +182,11 @@ msgstr "Ingaba ungaphantsi kweminyaka elishumi elinesibhozo?"
 msgctxt "text"
 msgid "Sorry. You do not qualify for the study. Thank you for your time. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}."
 msgstr "Uxolo. Awufanelekanga kolu phononongo. Enkosi ngexesha lakho. Unokufuna ukuzama enye inkqubo ka WhatsAapp, i-ParentLine, ngokuthumela u WhatsApp ku {parentline number}."
+
+#. type=text
+msgctxt "text"
+msgid "Are you a parent or caregiver of a child aged 2 to 17 years?"
+msgstr "Ingaba ungumzali okanye umnonopheli womntwana oneminyaka emibini ukuya kutsho kwishumi elinesixhenxe?"
 
 #. type=text
 msgctxt "text"
@@ -225,6 +265,11 @@ msgstr "Ngubani igama lakho lokuqala?"
 
 #. type=text
 msgctxt "text"
+msgid "This looks too long. Please enter a shorter name."
+msgstr "Le ibonakala inde. Nceda ngenisa igama elifutshane."
+
+#. type=text
+msgctxt "text"
 msgid "What is your last name?"
 msgstr "Ithini ifani yakho?"
 
@@ -232,6 +277,11 @@ msgstr "Ithini ifani yakho?"
 msgctxt "text"
 msgid "What gender do you identify as?"
 msgstr "Sesiphi isini ozichaza ngaso?"
+
+#. type=text
+msgctxt "text"
+msgid "At the moment, the characters in ParentText are masculine or feminine. Would you like a masculine or feminine character to represent you?"
+msgstr "Okwangoku, abalinganiswa kwi-ParentText ngamadoda okanye abafazi. Ngaba ungathanda umlinganiswa oyindoda okanye obhinqileyo ukuba amele wena?"
 
 #. type=text
 msgctxt "text"
@@ -307,6 +357,18 @@ msgstr "Umhla owufakileyo ukwixesha elizayo. Nceda unikeze umhla wokuzalwa womnt
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "@fields.child_nickname is @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "@fields.child_nickname u @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) ubudala. Ingaba ichanekile loo nto?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your child is @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. Is that correct?"
+msgstr "Umntwana wakho u @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) iminyaka ubudala. Ingaba ichanekile loo nto?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "What is @fields.child_nickname's date of birth?"
 msgstr "Luthini usuku lokuzalwa luka @fields.child_nickname?"
 
@@ -319,6 +381,18 @@ msgstr "Faka umhla wakhe wokuzalwa ngolu hlobo lulandelayo: DD/MM/YYYY. Umzekelo
 msgctxt "text"
 msgid "What is your child's date of birth?"
 msgstr "Luthini usuku lokuzalwa lomntwana wakho?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, @fields.child_nickname would be @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ngokomhla osinike wona, u@fields.child_nickname uyakuba @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) neminyaka ubudala. I-ParentText yeyabantwana abaneminyaka eyi-2-17 kuphela. Nceda ufake umhla osemthethweni wokuzalwa komntwana wakho ngolu hlobo lulandelayo: DD/MM/YYYY. Umzekelo, ukuba umntwana wakho wazalwa ngoMeyi 19, 2010, faka 19/05/2010."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you provided, your child would be @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. ParentText is only for children aged 2-17. Please enter a valid date for your child's birth in the following format: DD/MM/YYYY. For example, if your child was born on May 19, 2010, enter 19/05/2010."
+msgstr "Ngokomhla osinike wona, umntwana wakho uyakuba @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) neminyaka ubudala. I-ParentText yeyabantwana abaneminyaka eyi-2-17 kuphela. Nceda ufake umhla osemthethweni wokuzalwa komntwana wakho ngolu hlobo lulandelayo: DD/MM/YYYY. Umzekelo, ukuba umntwana wakho wazalwa ngoMeyi 19, 2010, faka 19/05/2010."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -356,6 +430,11 @@ msgstr "Ingaba nguwe umnonopheli oyintloko okanye ophambili womntwana wakho?"
 msgctxt "text"
 msgid "How often in the past month has your household run out of money to buy food?"
 msgstr "Kukangaphi kule nyanga idlulileyo ikhaya lakho liphelelwe yimali yokuthenga ukutya?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you or somebody else in your household receive a social grant? e.g. child support, state pension, disability"
+msgstr "Ingaba wena okanye omnye umntu kwikhaya lakho ufumana isibonelelo sikarhulumente? umz. inkxaso yabantwana, umhlalaphantsi karhulumente, ukukhubazeka"
 
 #. type=text
 msgctxt "text"
@@ -479,6 +558,11 @@ msgstr "💚 Akukho zimpendulo zilungileyo okanye zingalunganga apha."
 
 #. type=text
 msgctxt "text"
+msgid "How often in the past 2 weeks did you have little interest or pleasure in doing things?"
+msgstr "Kukangaphi kweziveki zimbini zidlulileyo obukhe wanomdla omncinici okanye wakonwabela ukwenza izinto?"
+
+#. type=text
+msgctxt "text"
 msgid "How often in the past week did you have little interest or pleasure in doing things?"
 msgstr "Kukangaphi kule veki iphelileyo obukhe wanomdla omncinici okanye wakonwabela ukwenza izinto?"
 
@@ -542,9 +626,20 @@ msgid "💚Again, some of these questions might be difficult to answer or even t
 msgstr "💚Kwakhona, eminye yalemibuzo ingaba nzima ukuyiphendula okanye ukucinga malunga nayo, kodwa ke ibalulekile. Nceda wabelane ngokunyanisekileyo ukuze sikwazi ukukuxhasa."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "😔 If @fields.child_nickname has been exposed to something sexual, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and @fields.child_nickname with this very difficult experience."
+msgstr "😔 Ukuba u @fields.child_nickname ukhe wachaphazeleka kwinto edibene nezesondo, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele uChildline ku-116. Bakhona ukuze bakuncede wena kunye nomntwana wakho kobubunzima nibuvayo."
+
+#. type=text
 msgctxt "text"
 msgid "🌱 The last questions are about your teen, their behaviour, and their communication with you."
 msgstr "🌱 Imibuzo yokugqibela imalunga nomntwana wakho ofikisayo, indlela aziphatha ngayo, kunye nendlela anxibelelana ngayo nawe."
+
+#. type=text
+msgctxt "text"
+msgid "😔 If your teen has been exposed to something sexual, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and your teen with this very difficult experience."
+msgstr "😔 Ukuba umntwana wakho ofikisayo ukhe wachaphazeleka kwinto edibene nezesondo, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele uChildline ku-116. Bakhona ukuze bakuncede wena kunye nomntwana wakho kobubunzima nibuvayo."
 
 #. type=text
 msgctxt "text"
@@ -634,6 +729,11 @@ msgstr "🧒🏾 Kunokwenzeka ebesendlini okanye ngaphandle kwendlu ngaphandle k
 msgctxt "text"
 msgid "🚗Took a lift with someone they didn't know"
 msgstr "🚗Ukhwele ilifti nomntu ebengamazi"
+
+#. type=text
+msgctxt "text"
+msgid "🌙 Spent a night away from home when you didn't know where they were, or came home later than expected"
+msgstr "🌙 Uchithe ubusuku kude nekhaya ngelixa ubungayazi ukuba uyephi, okanye ufike endlini ngorhatya kunokuba kulindelekile"
 
 #. type=text
 msgctxt "text"
@@ -754,6 +854,22 @@ msgstr "@fields.child_nickname wenziswa nantoni na enokwenza nezesondo"
 msgctxt "text"
 msgid "Your child was made to do anything sexual"
 msgstr "Umntwana wakho wenziswa nantoni na enokwenza nezesondo"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when @fields.child_nickname did something wrong or made you upset or angry."
+msgstr "😇Abantwana badla ngokwenza izinto ezingafanelekanga, ukungathobeli okanye benze abazali babo bacaphuke. Singathanda ukwazi ukuba wenza ntoni xa i-@fields.child_nickname enze into engalunganga okanye ikwenze wanomsindo okanye wacaphuka."
+
+#. type=text
+msgctxt "text"
+msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when your teen did something wrong or made you upset or angry."
+msgstr "😇Abantwana badla ngokwenza izinto ezingafanelekanga, ukungathobeli okanye benze abazali babo bacaphuke. Singathanda ukwazi ukuba wenza ntoni xa umntana wakho ofikisayo enze into engalunganga okanye ikwenze wanomsindo okanye wacaphuka."
+
+#. type=text
+msgctxt "text"
+msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when your child did something wrong or made you upset or angry."
+msgstr "😇Abantwana badla ngokwenza izinto ezingafanelekanga, ukungathobeli okanye benze abazali babo bacaphuke. Singathanda ukwazi ukuba wenza ntoni xa umntana wakho enze into engalunganga okanye ikwenze wanomsindo okanye wacaphuka."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -980,6 +1096,12 @@ msgid "🥳 You have completed the survey! Thank you very much for your particip
 msgstr "🥳 Ugqibile ukuphendula imibuzo! Enkosi kakhulu ngenxaxheba yakho. Njengombonakaliso wombulelo wethu kuwe, uzakufumana i-airtime ye R25. "
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child
+msgctxt "text"
+msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, please refer to the help menu by typing {HELP} or email the research team at swift@globalparenting.org"
+msgstr "❗❗❗ Ukuba nayo nayiphi na imibuzo koluphando ikushiye uxhalabile okanye uchaphazelekile ngokwasemoyeni, nceda uye kwi menyu yoncedo ngokubhala {HELP} okanye uqhagamshelana neqela lophando ku swift@globalparenting.org"
+
+#. type=text
 msgctxt "text"
 msgid "📅 We will follow up with similar questions in one month, and once you've completed this survey, you will receive an additional R50 airtime. "
 msgstr "📅 Sizakulandelela nemibuzo ebufana kwisithuba senyanga enye, kwaye xa uthe wayigqiba lemibuzo, uyakufumana i-R50 airtime eyongezelelweyo. "
@@ -995,14 +1117,51 @@ msgid "✏️ You will receive R50 airtime for participating in this survey. "
 msgstr "✏️ Uzakufumana i-airtime ye R50 ngokuthatha inxaxheba kolu phando. "
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "😔 If @fields.child_nickname has been exposed to something sexual, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and @fields.child_nickname with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option."
+msgstr "😔 Ukuba u @fields.child_nickname ukhe wachaphazeleka kwinto edibene nezesondo, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele uChildline ku-116. Bakhona ukuze bakuncede wena kunye nomntwana wakho kobubunzima enibuvayo. Khumbula ukuba ungafikelela kwimenyu yoncedo nangaliphi na ixesha, kwaye ukhethe ukhetho oluthi 'ukumelana nobundlobongela'."
+
+#. type=text
+msgctxt "text"
+msgid "😔 If your teen has been exposed to something sexual, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and your teen with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option."
+msgstr "😔 Ukuba umntwana wakho ofikisayo ukhe wachaphazeleka kwinto edibene nezesondo, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele uChildline ku-116. Bakhona ukuze bakuncede wena kunye nomntwana wakho kobubunzima nibuvayo. Khumbula ukuba ungafikelela kwimenyu yoncedo nangaliphi na ixesha, kwaye ukhethe ukhetho oluthi 'ukumelana nobundlobongela'."
+
+#. type=text
 msgctxt "text"
 msgid "😔 If your child has been exposed to something sexual, it is important that it has been reported. If it hasn't been reported, or you need more support, please call Childline on 116. They are there to help you and your child with this very difficult experience. Remember you can also access the help menu at any time, and select the 'dealing with violence' option."
 msgstr "😔 Ukuba umntwana wakho ukhe wachaphazeleka kwinto edibene nezesondo, kubalulekile ukuba ixelwe. Ukuba ayikhange ixelwe, okanye udinga inkxaso eyongezelelweyo, nceda ufowunele uChildline ku-116. Bakhona ukuze bancede wena kunye nomntwana wakho kobubunzima nibuvayo. Khumbula ukuba ungafikelela kwimenyu yoncedo nangaliphi na ixesha, kwaye ukhethe ukhetho oluthi 'ukumelana nobundlobongela'."
 
 #. type=text
 msgctxt "text"
+msgid "How helpful was ParentText to you and your family?"
+msgstr "Ibeluncedo njani i-ParentText kuwe kunye nosapho lwakho?"
+
+#. type=text
+msgctxt "text"
+msgid "What did you mainly use to connect to ParentText?"
+msgstr "Yintoni oyisebenzise kakhulu ukuqhagamshela kwiParentText?"
+
+#. type=text
+msgctxt "text"
 msgid "🎉🎉 You have completed the survey! Thank you very much for your participation. As a token of thanks, you will receive R50 airtime."
 msgstr "🎉🎉 Ulugqibile uphando! Enkosi kakhulu ngenxaxheba yakho. Njengombonakaliso yombulelo wethu kuwe, uzakufumana i-airtime ye R50."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child
+msgctxt "text"
+msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, please refer to the help menu by typing {HELP} or email the research team at swift@globalparenting.org "
+msgstr "❗❗❗ Ukuba nayo nayiphi na imibuzo koluphando ikushiye uxhalabile okanye uchaphazelekile ngokwasemoyeni, nceda uye kwi menyu yoncedo ngokubhala {HELP} okanye uqhagamshelana neqela lophando ku swift@globalparenting.org "
+
+#. type=text
+msgctxt "text"
+msgid "📅 We will follow up with similar questions in two months, and once you've completed that final survey, you will receive an additional R50 airtime. "
+msgstr "📅 Sizakulandelela nemibuzo ebufana kwisithuba senyanga ezimbini, kwaye xa uthe walugqiba olu phando, uyakufumana i-R50 ye-airtime eyongezelelweyo. "
+
+#. type=text
+msgctxt "text"
+msgid "We would like to know more about your experience with ParentText! Can a member from our research team contact you for a short interview? If selected, you will receive a grocery store voucher or airtime bundle from us."
+msgstr "Singathanda ukwazi ngakumbi ngamava akho ngeParentText! Ingaba ilungu elivela kwiqela lethu lophando lingaqhagamshelana nawe kudliwano-ndlebe olufutshane? Ukuba ukhethiwe, uya kufumana ivawutsha yevenkile yokutya okanye i-airtime bundle evela kuthi."
 
 #. type=text
 msgctxt "text"
@@ -1167,6 +1326,12 @@ msgstr "Hayi, andihlali eNtshona Koloni"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "I am a nurse"
+msgstr "Ndingu Mongikazi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Female"
 msgstr "Ibhinqa"
 
@@ -1187,6 +1352,18 @@ msgstr "Umtshintshi-sini"
 msgctxt "quick_replies"
 msgid "Gender diverse"
 msgstr "Iintlobo zesini"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Masculine character"
+msgstr "Umlinganiswa onophawu lamadoda"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Feminine character"
+msgstr "Umlinganiswa onophawu lwabasetyhini"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1317,6 +1494,12 @@ msgstr "Rhoqo"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "I don't know"
+msgstr "Andiyazi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Not helpful"
 msgstr "Ayiloncedo"
 
@@ -1431,6 +1614,12 @@ msgstr "hayi, andihlali eNtshona Koloni"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "i am a nurse"
+msgstr "ndingu Mongikazi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "female"
 msgstr "ibhinqa"
 
@@ -1451,6 +1640,18 @@ msgstr "umtshintshi-sini"
 msgctxt "arguments"
 msgid "gender diverse"
 msgstr "iintlobo zesini"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "masculine character"
+msgstr "umlinganiswa onophawu lamadoda"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "feminine character"
+msgstr "umlinganiswa onophawu lwabasetyhini"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1583,6 +1784,12 @@ msgstr "ngamaxesha athile"
 msgctxt "arguments"
 msgid "often"
 msgstr "rhoqo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i don't know"
+msgstr "andiyazi"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
