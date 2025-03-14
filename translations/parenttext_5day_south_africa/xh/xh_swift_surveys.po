@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-03-14 10:07\n"
+"PO-Revision-Date: 2025-03-14 10:50\n"
 
 #. type=text
 msgctxt "text"
@@ -90,8 +90,23 @@ msgstr "📲 Emva kovavanyo ngalunye, imali iya kuthunyelwa kwinombolo yefowuni 
 
 #. type=text
 msgctxt "text"
+msgid ";"
+msgstr ";"
+
+#. type=text
+msgctxt "text"
 msgid "🤐 If there are any questions that you feel uncomfortable answering, you do not have to answer them."
 msgstr "🤐 Ukuba kukho nayiphi na imibuzo oziva ungakhululekanga ukuyiphendula, akunyanzelekanga ukuba uyiphendule."
+
+#. type=text
+msgctxt "text"
+msgid "❌ You can stop when you want. Just type {STOP}."
+msgstr "❌ Unga yeka xa ufuna. Bhala nje {STOP}."
+
+#. type=text
+msgctxt "text"
+msgid "📱  WiFi: Check your local free WiFi hotspots here: https://www.westerncape.gov.za/site-page/wcg-wi-fi-hotspots (Tip: If you get a library card, you can access more WiFi at library hotspots! Your local mall might also have WiFi)."
+msgstr "📱 WiFi: Jonga iindawo zakho zeWiFi zasimahla apha: https://www.westerncape.gov.za/site-page/wcg-wi-fi-hotspots (Ingcebiso: Ukuba ufumana ikhadi lethala leencwadi, ungafikelela kwi-WiFi engakumbi Iindawo zethala leencwadi ezithandwayo zinokuba nazo)."
 
 #. type=text
 msgctxt "text"
@@ -237,6 +252,11 @@ msgstr "🤐 Khumbula ukuba igama lakho kunye neempendulo zakho kulemibuzo zizak
 msgctxt "text"
 msgid "🤗 Please try to answer the questions as honestly as you can."
 msgstr "🤗 Nceda uzame ukuphendula imibuzo ngokunyanisekileyo kangangoko unako."
+
+#. type=text
+msgctxt "text"
+msgid "❌You can stop when you want. Just type {STOP}."
+msgstr "❌Unga yeka xa ufuna. Bhala nje {STOP}."
 
 #. type=text
 msgctxt "text"
@@ -415,6 +435,11 @@ msgstr "Ingaba nguwe umnonopheli oyintloko okanye ophambili womntwana wakho?"
 msgctxt "text"
 msgid "How often in the past month has your household run out of money to buy food?"
 msgstr "Kukangaphi kule nyanga idlulileyo ikhaya lakho liphelelwe yimali yokuthenga ukutya?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you or somebody else in your household receive a social grant? For example, child support, state pension, disability grant."
+msgstr "Ingaba wena okanye omnye umntu kwikhaya lakho ufumana isibonelelo sikarhulumente? umz. inkxaso yabantwana, ipenshoni karhulumente, ukukhubazeka."
 
 #. type=text
 msgctxt "text"
@@ -750,6 +775,94 @@ msgstr "Ungasixelela ukuba yenzeke kangaphi lento kumntwana wakho *kwinyanga* ed
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "@fields.child_nickname felt pressured to have a boyfriend or girlfriend."
+msgstr "@fields.child_nickname uzive enyanzelekile ukuba abenenkwenkwe okanye intombazana."
+
+#. type=text
+msgctxt "text"
+msgid "Your teen felt pressured to have a boyfriend or girlfriend."
+msgstr "Umntwana wakho ofikisayo uzive enyanzelekile ukuba abenenkwenkwe okanye intombazana."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname was touched in a sexual way when they did not want to be touched."
+msgstr "@fields.child_nickname waphathwa ngendlela yezesondo xa wayengafuni ukuphathwa."
+
+#. type=text
+msgctxt "text"
+msgid "Your teen was touched in a sexual way when they did not want to be touched."
+msgstr "Umntwana wakho ofikisayo waphathwa ngendlela yezesondo xa wayengafuni ukuphathwa."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname was shown something sexual that they didn’t want to see."
+msgstr "@fields.child_nickname waboniswa into enokwenza nezesondo awayengafuni ukuyibona."
+
+#. type=text
+msgctxt "text"
+msgid "Your teen was shown something sexual that they didn’t want to see."
+msgstr "Umntwana wakho ofikisayo waboniswa into enokwenza nezesondo awayengafuni ukuyibona."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname did anything sexual they didn’t want to do."
+msgstr "@fields.child_nickname wenze nantoni na eyezesondo ebengafuni ukuyenza."
+
+#. type=text
+msgctxt "text"
+msgid "Your teen did anything sexual they didn’t want to do."
+msgstr "Umntwana wakho ofikisayo wenze nantoni na eyezesondo ebengafuni ukuyenza."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname displayed any inappropriate sexual behaviour."
+msgstr "@fields.child_nickname ubonakalise nayiphi na indlela yokuziphatha engafanelekanga ngokwesondo."
+
+#. type=text
+msgctxt "text"
+msgid "Your child displayed any inappropriate sexual behaviour."
+msgstr "Umntwana wakho ubonakalise nayiphi na indlela yokuziphatha engafanelekanga ngokwesondo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname was touched in a sexual way."
+msgstr "@fields.child_nickname waphathwa ngokwendlela yezesondo."
+
+#. type=text
+msgctxt "text"
+msgid "Your child was touched in a sexual way."
+msgstr "Umntwana wakho waphathwa ngokwendlela yezesondo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname was shown something sexual."
+msgstr "@fields.child_nickname waboniswa into enokwenza nezesondo."
+
+#. type=text
+msgctxt "text"
+msgid "Your child was shown something sexual."
+msgstr "Umntwana wakho waboniswa into enokwenza nezesondo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.child_nickname was made to do anything sexual."
+msgstr "@fields.child_nickname wenziswa nantoni na enokwenza nezesondo."
+
+#. type=text
+msgctxt "text"
+msgid "Your child was made to do anything sexual."
+msgstr "Umntwana wakho wenziswa nantoni na enokwenza nezesondo."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "😇Children often do things that are wrong, disobey or make their parents angry. We would like to know what you have done when @fields.child_nickname did something wrong or made you upset or angry."
 msgstr "😇Abantwana badla ngokwenza izinto ezingafanelekanga, ukungathobeli okanye benze abazali babo bacaphuke. Singathanda ukwazi ukuba wenza ntoni xa i-@fields.child_nickname enze into engalunganga okanye ikwenze wanomsindo okanye wacaphuka."
 
@@ -1052,6 +1165,11 @@ msgstr "📅 Sizakulandelela nemibuzo ebufana kwisithuba senyanga ezimbini, kway
 
 #. type=text
 msgctxt "text"
+msgid "We would like to know more about your experience with ParentText! Can a member from our research team contact you for a short interview? If selected, you will receive a grocery store voucher or airtime from us."
+msgstr "Singathanda ukwazi ngakumbi ngamava akho ngeParentText! Ingaba ilungu elivela kwiqela lethu lophando lingaqhagamshelana nawe kudliwano-ndlebe olufutshane? Ukuba ukhethiwe, uya kufumana ivawutsha yevenkile yokutya okanye i-airtime evela kuthi."
+
+#. type=text
+msgctxt "text"
 msgid "Thanks!  What cell phone number can we reach you on?"
 msgstr "Enkosi! Yeyiphi inombolo yefowuni esingakufumana kuyo?"
 
@@ -1089,6 +1207,11 @@ msgstr "Enkosi ngokunika imvume yakho! Yeyiphi inombolo yefowuni esingamfumana k
 msgctxt "text"
 msgid "Who should we ask to speak to (your teens's name)?"
 msgstr "Sicele ukuthetha nabani (igama lomntwana wakho ofikisayo)?"
+
+#. type=text
+msgctxt "text"
+msgid "Please speak to your teen about this. We will be in touch with you telephonically to answer any questions that you might have before we call your teen for the interview and to arrange a time which will be best for us to interview them. What cell phone number can we reach you on?"
+msgstr "Nceda uthethe nomntwana wakho ngale nto. Siza kuqhagamshelana nawe ngomnxeba ukuze siphendule nayiphi na imibuzo onokuba nayo ngaphambi kokuba sibizele umntwana wakho kudliwano-ndlebe kwaye senze amalungiselelo exesha elilungele ukuba senze udliwano-ndlebe naye. Yeyiphi inombolo yeselula esinokukufumana ngayo?"
 
 #. type=text
 msgctxt "text"
@@ -1214,6 +1337,18 @@ msgstr "Ndingu Mongikazi"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Woman"
+msgstr "Owasetyhini"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Man"
+msgstr "Indoda"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Transgender"
 msgstr "Umtshintshi-sini"
 
@@ -1298,6 +1433,18 @@ msgstr "Engenye/Ndikhetha ukungatsho"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Girl"
+msgstr "Intombazana"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Boy"
+msgstr "Inkwenkwe"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Biological/adoptive parent"
 msgstr "Umzali okuzalayo/umzali ongakuzaliyo"
 
@@ -1306,6 +1453,12 @@ msgstr "Umzali okuzalayo/umzali ongakuzaliyo"
 msgctxt "quick_replies"
 msgid "Grandparent"
 msgstr "Ubakhulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Step-parent"
+msgstr "Umzali wesibini"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1342,6 +1495,18 @@ msgstr "Ukhetha ukungatsho"
 msgctxt "quick_replies"
 msgid "Never"
 msgstr "Zange"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Sometimes (1-2 times)"
+msgstr "Ngamanye amaxesha (kanye okanye kabini)"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Often (3 or more times)"
+msgstr "Rhoqo (kathathu nangaphezulu)"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1484,6 +1649,18 @@ msgstr "ndingu Mongikazi"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "woman"
+msgstr "owasetyhini"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "man"
+msgstr "indoda"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "transgender"
 msgstr "umtshintshi-sini"
 
@@ -1574,6 +1751,18 @@ msgstr "n"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "girl"
+msgstr "intombazana"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "boy"
+msgstr "inkwenkwe"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "biological/adoptive parent"
 msgstr "umzali okuzalayo/umzali ongakuzaliyo"
 
@@ -1582,6 +1771,12 @@ msgstr "umzali okuzalayo/umzali ongakuzaliyo"
 msgctxt "arguments"
 msgid "grandparent"
 msgstr "ubakhulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "step-parent"
+msgstr "umzali wesibini"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1618,6 +1813,18 @@ msgstr "ukhetha ukungatsho"
 msgctxt "arguments"
 msgid "never"
 msgstr "zange"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "sometimes (1-2 times)"
+msgstr "ngamanye amaxesha (kanye okanye kabini)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "often (3 or more times)"
+msgstr "rhoqo (kathathu nangaphezulu)"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
