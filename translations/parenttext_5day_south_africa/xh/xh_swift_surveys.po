@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-03-17 14:43\n"
+"PO-Revision-Date: 2025-03-18 02:30\n"
 
 #. type=text
 msgctxt "text"
@@ -358,13 +358,13 @@ msgstr "Umhla owufakileyo ukwixesha elizayo. Nceda unikeze umhla wokuzalwa womnt
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@fields.child_nickname is @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. Is that correct?"
-msgstr "@fields.child_nickname u @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) ubudala. Ingaba ichanekile loo nto?"
+msgstr "@fields.child_nickname uneminyaka e- @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) ubudala. Ingaba ichanekile loo nto?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Your child is @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) years old. Is that correct?"
-msgstr "Umntwana wakho u @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) iminyaka ubudala. Ingaba ichanekile loo nto?"
+msgstr "Umntwana wakho uneminyaka e-  @(round_down(datetime_diff(fields.sq_base_childdob,now(),\"M\")/12)) ubudala. Ingaba ichanekile loo nto?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1046,7 +1046,7 @@ msgstr "Buyintoni ubudlelwane bakhe kumntwana?"
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "How often in the past week did this other caregiver actively participate in activities with @fields.child_nickname, such as playing, sharing books, or helping with schoolwork?"
-msgstr "Kukangaphi kule veki idlulileyo lo mnye umkhathaleli ethatha inxaxheba ngokukhutheleyo kwimisebenzi no@fields.child_nickname, kanje ngoku dlala, ukwabelana ngeencwadi, okanye ukuncedisa kumsebenzi wesikolo?"
+msgstr "Kukangaphi kule veki idlulileyo lo omnye umkhathaleli ethatha inxaxheba ngokukhutheleyo kwimisebenzi no@fields.child_nickname, kanje ngoku dlala, ukwabelana ngeencwadi, okanye ukuncedisa kumsebenzi wesikolo?"
 
 #. type=text
 msgctxt "text"
@@ -1056,7 +1056,7 @@ msgstr "Kukangaphi kule veki idlulileyo lo mnye umnonopheli ethatha inxaxheba kw
 #. type=text
 msgctxt "text"
 msgid "How often in the past week did this other caregiver actively participate in activities with your child, such as playing, sharing books, or helping with schoolwork?"
-msgstr "Kukangaphi kule veki idlulileyo lo mnye umnonopheli ethatha inxaxheba kwizinto ezenziwayo nomntwana wakho, njengokudlala, ukwabelana ngeencwadi, okanye ukunceda ngomsebenzi wesikolo?"
+msgstr "Kukangaphi kule veki idlulileyo lo omnye umnonopheli ethatha inxaxheba kwizinto ezenziwayo nomntwana wakho, njengokudlala, ukwabelana ngeencwadi, okanye ukunceda ngomsebenzi wesikolo?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1067,12 +1067,12 @@ msgstr "Kukangaphi kwiveki ephelileyo lo omnye umnonopheli ebandakanyeka ekuthat
 #. type=text
 msgctxt "text"
 msgid "How often in the past week was this other caregiver involved in making decisions regarding your teen's education, health, and overall well-being?"
-msgstr "Kukangaphi kule veki iphelileyo lo mnye umkhathaleli ebandakanyeka ekwenzeni izigqibo malunga nemfundo yomntwana wakho ofikisayo, impilo, kunye nempilo yonke?"
+msgstr "Kukangaphi kule veki iphelileyo lo omnye umkhathaleli ebandakanyeka ekwenzeni izigqibo malunga nemfundo yomntwana wakho ofikisayo, impilo, kunye nempilo yonke?"
 
 #. type=text
 msgctxt "text"
 msgid "How often in the past week was this other caregiver involved in making decisions regarding your child's education, health, and overall well-being?"
-msgstr "Kukangaphi kule veki iphelileyo lo mnye umkhathaleli ebandakanyeka ekwenzeni izigqibo ngemfundo yomntwana wakho, impilo yakhe kunye nempilo yakhe yonke?"
+msgstr "Kukangaphi kule veki iphelileyo lo omnye umkhathaleli ebandakanyeka ekwenzeni izigqibo ngemfundo yomntwana wakho, impilo yakhe kunye nempilo yakhe yonke?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1171,7 +1171,7 @@ msgstr "Enkosi! Yeyiphi inombolo yefowuni esingakufumana kuyo?"
 #. type=text
 msgctxt "text"
 msgid "Please enter a 10-digit South African phone. For example, you would enter 083 283 8620 as 0832838620."
-msgstr "Nceda ufake inombolo zakho ezilishumi zofowuni yoMzantsi Afrika. Umzekelo, ungafaka 083 283 8620 ngoluhlobo 0832838620."
+msgstr "Nceda ufake inombolo zakho ezilishumi zefowuni yoMzantsi Afrika. Umzekelo, ungafaka 083 283 8620 ngoluhlobo 0832838620."
 
 #. type=text
 msgctxt "text"
@@ -1186,7 +1186,7 @@ msgstr "Inombolo zefowuni yoMzantsi Afrika kufuneka ziqale ngo nothi, nceda ufak
 #. type=text
 msgctxt "text"
 msgid "We would also like to know about your teen's opinion of ParentText. Can a member of our research team contact them for a quick phone call where we will ask them a few multiple choice questions? Before giving your consent, please read this for all information: "
-msgstr "Singathanda ukwazi malunga noluvo lwakho lomntwana wakho ofikisayo ngeParentText. Ngaba ilungu leqela lethu lophando lingamfowunela ngokukhawuleza apho siya kumbuza imibuzo embalwa yokhetho? Ngaphambi kokuba unike imvume yakho, nceda ufunde oku kulo lonke ulwazi:"
+msgstr "Singathanda ukwazi malunga noluvo lomntwana wakho ofikisayo ngeParentText. Ingaba ilungu leqela lethu lophando lingamfowunela ngokukhawuleza apho siya kumbuza imibuzo embalwa yokhetho? Ngaphambi kokuba unike imvume yakho, nceda ufunde oku kulo lonke ulwazi:"
 
 #. type=text
 msgctxt "text"
@@ -1216,7 +1216,7 @@ msgstr "🎉🎉 Ugqibile! 🎉🎉"
 #. type=text
 msgctxt "text"
 msgid "💙 Thank you very much for completing this final survey and taking the time to help us with this study. "
-msgstr "💙 Enkosi kakhulu ngokugqibezela olu phando lokugqibela kwaye uthathe ixesha lokusinceda kolu phononongo. "
+msgstr "💙 Enkosi kakhulu ngokugqibezela le saveyi yokugqibela kwaye uthathe ixesha lokusinceda koluphando. "
 
 #. type=text
 msgctxt "text"
