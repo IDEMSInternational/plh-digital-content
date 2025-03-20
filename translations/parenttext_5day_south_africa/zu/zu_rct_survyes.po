@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2025-03-13 10:13\n"
+"PO-Revision-Date: 2025-03-20 14:35\n"
 
 #. type=text
 msgctxt "text"
@@ -1279,6 +1279,16 @@ msgstr "Sithemba ukukubona futhi maduze!"
 
 #. type=text
 msgctxt "text"
+msgid "How much would you have been willing to pay to receive ParentText if it was not free?"
+msgstr "Ubungavuma ukukhokha malini ukuze uthole i-ParentText uma ibingeyona yamahhala?"
+
+#. type=text
+msgctxt "text"
+msgid "How much would you have been willing to pay to receive WashText if it was not free?"
+msgstr "Ubungavuma ukukhokha malini ukuze uthole i-WashText uma ibingeyona yamahhala?"
+
+#. type=text
+msgctxt "text"
 msgid "🎉 You will receive R50 airtime for participating in this survey. "
 msgstr "🎉 Uzothola i-airtime ka-R50 ngokuhlanganyela kule nhlolovo. "
 
@@ -1966,6 +1976,42 @@ msgstr "Ukuthuthuka"
 msgctxt "quick_replies"
 msgid "BACK"
 msgstr "EMUVA"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "R5"
+msgstr "R5"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "R10"
+msgstr "R10"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "R20"
+msgstr "R20"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "R50"
+msgstr "R50"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "More than R50"
+msgstr "Ngaphezulu kuka-R50"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I would not have paid"
+msgstr "Bengingeke ngikhokhe"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -2686,4 +2732,40 @@ msgstr "Usizo"
 msgctxt "arguments"
 msgid "stop"
 msgstr "yima"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "r5"
+msgstr "r5"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "r10"
+msgstr "r10"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "r20"
+msgstr "r20"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "r50"
+msgstr "r50"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "more than r50"
+msgstr "ngaphezulu kuka-R50"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i would not have paid"
+msgstr "bengingeke ngikhokhe"
 
