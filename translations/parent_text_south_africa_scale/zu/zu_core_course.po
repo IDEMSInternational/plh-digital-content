@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2025-03-28 20:05\n"
+"PO-Revision-Date: 2025-04-01 13:26\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -33,6 +33,16 @@ msgstr "Kuzokwakha ukwethembana nenhlonipho futhi kweseke izingane ekufundeni iz
 msgctxt "text"
 msgid "Let's do a quiz!"
 msgstr "Ake sizame lemibuzo!"
+
+#. type=text
+msgctxt "text"
+msgid "True or False: When I spend special time with my child, I need to decide what we will do together."
+msgstr "Iqiniso Noma Amanga: Lapho ngichitha isikhathi esikhethekile nengane yami, kudingeka nginqume ukuthi yini esizoyenza ndawonye."
+
+#. type=text
+msgctxt "text"
+msgid "👀 Oops! That's not actually true."
+msgstr "Aw! akusilo iqiniso."
 
 #. type=text
 msgctxt "text"
@@ -81,6 +91,26 @@ msgstr "**{F1_SON_5}**: “Ngifuna ukudlala ukugqoka izingubo!”"
 
 #. type=text
 msgctxt "text"
+msgid "**{F1_MOTHER}**: \"Wonderful idea, {F1_SON_5}! I see you are taking out the yellow scarf with blue stripes on it.”"
+msgstr "Icebo elihle"
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_SON_5}**: \"Mommy, it’s for you.\""
+msgstr "Eyakho mama."
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_MOTHER}**: \"Thank you, I love it!\""
+msgstr "Ngiyabonga ngiyayithanda!"
+
+#. type=text
+msgctxt "text"
+msgid "**{F1_SON_5}**: \"Wear it, Mommy!\""
+msgstr "Igqoke mama!"
+
+#. type=text
+msgctxt "text"
 msgid "**{F1_MOTHER}**: “Look how good you are at getting dressed by yourself, {F1_SON_5}!”"
 msgstr "**{F1_MOTHER}**: “Bheka ukuthi uba muhle kanjani ngokuzigqokisa, {F1_SON_5}!”"
 
@@ -113,6 +143,12 @@ msgstr "Kulungile! Uma ungenaso isikhathi namuhla, zinikeze isikhathi kusasa."
 msgctxt "text"
 msgid "✅✅✅✅ 100%"
 msgstr "✅✅✅✅ 100%"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod lessons in the course {goal_name}. ⭐"
+msgstr "Uqedile kulokhu kuzo zonke izifundo"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -276,6 +312,12 @@ msgid "💛 Accept your child and avoid judgment."
 msgstr "💛 Yamukela ingane yakho futhi ugweme ukwahlulela."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "💡 @fields.child_nickname may use gestures, full sentences, movements, and sounds to communicate with you. Respond to your child when they communicate with you. It shows you are really paying attention to them."
+msgstr "Angasebenzisa umzimba, imisho ephelele, ukunyakaza nemisindo ukukhuluma nawe. Yiphendule ingane uma ikhuluma nawe. Lokho kutshengisa ukuthi impela uyinakile."
+
+#. type=text
 msgctxt "text"
 msgid "3️⃣ *STAY - Focus on your child*"
 msgstr "3️⃣ *HLALA - Gxila enganeni yakho*"
@@ -284,6 +326,11 @@ msgstr "3️⃣ *HLALA - Gxila enganeni yakho*"
 msgctxt "text"
 msgid "👀 Look at your child. Nod or say “I see” to show you are really paying attention. "
 msgstr "👀 Ibuke ingane yakho. Unqekuzise ikhanda noma uthi “ngiyabona” ukhombise ukuthi uyinake ngempela. "
+
+#. type=text
+msgctxt "text"
+msgid "💡 Your child may use gestures, full sentences, movements, and sounds to communicate with you. Respond to your child when they communicate with you. It shows you are really paying attention to them."
+msgstr "Ingane yakho ingasebenzisa umzimba, imisho ephelele, ukunyakaza kanye nemisindo ukukhuluma nawe. Phendula ingane yakho ikhuluma nawe. Lokho kukhombisa ukuthi impela uyinakile."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -315,6 +362,11 @@ msgstr "✨ Indlela oyincoma ngayo ingane yakho ibalulekile. Ukuncoma kufanele k
 msgctxt "text"
 msgid "🌱 You can begin by praising your child for the smallest things, such as playing by themselves quietly for 2 minutes."
 msgstr "🌱 Ungaqala ngokuncoma ingane yakho ngezinto ezincane kakhulu, njengalapho izidlalela buthule imizuzu eng-2."
+
+#. type=text
+msgctxt "text"
+msgid "Let’s check in on another family to see how the mother praises her son, {F3_SON_4}, during one-on-one time."
+msgstr "Ake sibheke komunye umndeni sibone ukuthi umama wakhona uyincoma kanjani indodana yakhe. Ngesikhathi esikhethekile."
 
 #. type=text
 msgctxt "text"
@@ -360,6 +412,11 @@ msgstr "🎉 Yisho lokho ngesasasa ukuze kubonakale ukuthi kuphuma kuwe ngaphaka
 msgctxt "text"
 msgid "🔄 This way, they are more likely to do it again."
 msgstr "🔄 Ngale ndlela, maningi amathuba okuthi bakwenze futhi."
+
+#. type=text
+msgctxt "text"
+msgid "💚 That's OK! Sometimes, things take time. You can review this lesson in the Main Menu at any time. At the end of the day, think of all of the positive things that happened - this makes it easier to point them out. ☀️ With time, it will become easier for you to praise your child."
+msgstr "Kulungile! Kwesinye isikhathi izinto zithatha isikhathi sazo. Ungabuyekeza lesisifundo kuMain Menu. Ekupheleni kosuku cabanga ngakho konke okuhle okwenzekile - lokhu kwenza kube lula ukuzibala. Ngokuhamba kwesikhathi kuzoya ngokuba lula ukuncoma ingane yakho."
 
 #. type=text
 msgctxt "text"
