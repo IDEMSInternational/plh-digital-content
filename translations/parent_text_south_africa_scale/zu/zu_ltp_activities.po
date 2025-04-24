@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2025-04-24 07:43\n"
+"PO-Revision-Date: 2025-04-24 14:03\n"
 
 #. type=text
 msgctxt "text"
@@ -1387,6 +1387,22 @@ msgid "Here are 3 fun animal-related games you can play! "
 msgstr "Nayi imidlalo ewu 3 engezilwa ejabulisayo ongayidlala "
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🧸 Active animals \rTake turns with @fields.child_nickname doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird."
+msgstr "🧸Izilwane ezikhuthele\\Shintshana no@fields.child_nickname ngokulingisa izilwane: Gxuma njengeselesele, nwebeka njengekati, gijima njengenja, shibilika njengenyoka, shaya amaphiko njengenyoni."
+
+#. type=text
+msgctxt "text"
+msgid "🧸 Active animals \rTake turns with your child doing animal actions: Hop like a frog, stretch like a cat, run like a dog, slither like a snake, flap like a bird."
+msgstr "🧸Izilwane ezikhuthele\\Shintshana nengane yakho ukulingisa izilwane: Gxuma njengeselesele, nwebeka njengekati, shibilika njengenyoka, shaya amaphiko njengenyoni."
+
+#. type=text
+msgctxt "text"
+msgid "💡 Groups of animals"
+msgstr "💡Amaqembu ezilwane"
+
+#. type=text
 msgctxt "text"
 msgid "What are all the animals we can think of that have feathers?"
 msgstr "Iziphi zonke izilwane esingazicabanga ezinamaphiko?"
@@ -1408,8 +1424,44 @@ msgstr "😃 Ukubala onogwaja"
 
 #. type=text
 msgctxt "text"
+msgid "🔟 Find 10 rocks and tell your child that they are rabbits!"
+msgstr "Thola amatshe awu 10 bese utshela ingane ukuthi onogwaja!"
+
+#. type=text
+msgctxt "text"
+msgid "Put them in a line and ask them to count the rabbits."
+msgstr "Wabeke abe ulayini ucele ingane ibale onogwaja."
+
+#. type=text
+msgctxt "text"
+msgid "Ask your child to give you 3 rabbits. Say “If you give me 3, how many rabbits do you have?”"
+msgstr "Cela ingane yakho ikunike onogwaja abawu 3. Uthi\"Uma unginika abawu 3, usala nonogwaja abangakhi?\""
+
+#. type=text
+msgctxt "text"
+msgid "These playful animal games build movement, counting, and thinking skills - while sparking your child’s curiosity about the natural world 🌈"
+msgstr "Lemidlalo yezilwane yakha umnyakazo, ukubala namakhono okucabanga - ngenkathi ikhanyisa ilukuluku kwingane yakho ngokwendalo yomhlaba 🌈"
+
+#. type=text
+msgctxt "text"
 msgid "*Active Counting*"
 msgstr "*Ukubala Ngokwenza*"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 2 fun games that help your child learn how to count, listen, and remember!"
+msgstr "Nansi imidlalo emibili ejabulisayo ukusiza ingane yakho ukufunda ukubala, ukulalela nokukhumbula!"
+
+#. type=text
+msgctxt "text"
+msgid "👋 Clap, hop, jump: "
+msgstr "👋 Shaya izandla, gxuma, gxuma: "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Play the following game with @fields.child_nickname. Make it active!"
+msgstr "Dlala lomdlalo olandelayo no@fields.child_nickname.Yenza kube nokukhuthala!"
 
 #. type=text
 msgctxt "text"
@@ -1423,8 +1475,33 @@ msgstr "1️⃣ Gxuma kanye. 2️⃣ Gxuma kabili."
 
 #. type=text
 msgctxt "text"
+msgid "1️⃣ Hop 1 time. 3️⃣ Hop 3 times."
+msgstr "1️⃣Gxuma kanye. 3️⃣ Gxuma kathathu."
+
+#. type=text
+msgctxt "text"
+msgid "💡 Can you hop, then jump, then clap? "
+msgstr "Ungagxuma kancane, bese uyagxuma, bese ushaya izandla "
+
+#. type=text
+msgctxt "text"
 msgid "🏆 Can you clap twice, jump once, and hop three times?"
 msgstr "🏆 Ungashaya izandla kabili, ugxume kanye, bese ugxuma kancane kathathu?"
+
+#. type=text
+msgctxt "text"
+msgid "Play the following game with your child. Make it active!"
+msgstr "Dlala lomdlalo olandelayo no. Yenza kube nokukhuthala!"
+
+#. type=text
+msgctxt "text"
+msgid "💡 Remembering Instructions"
+msgstr "💡 Ukukhumbula Imiyalelo"
+
+#. type=text
+msgctxt "text"
+msgid "Take turns to give 2-3 instructions that the other person has to follow. Make sure physical movement is included!"
+msgstr "Shintshanani ngokunika imiyalelo ewu 2-3 omunye umuntu kumele ayilandele. Qiniseka umnyakazo womzimba uyingxenye!"
 
 #. type=text
 msgctxt "text"
@@ -1550,6 +1627,11 @@ msgstr "*Landela Umholi!*"
 
 #. type=text
 msgctxt "text"
+msgid "⭐ Choose someone to be the leader (tip: start with an adult like yourself)."
+msgstr "⭐Khetha omunye umuntu abe ngumholi( ithiphu: qala ngomuntu omdala njengawe)."
+
+#. type=text
+msgctxt "text"
 msgid "😃 Other players line up behind the leader. The leader moves around in any way they like!"
 msgstr "😃 Abanye abadlali bama emuva komholi. Umholi uyanyakaza nganoma iyiphi indlela ayithandayo!"
 
@@ -1565,8 +1647,69 @@ msgstr "👀 Abanye abadlali kufanele balingise izenzo zomholi, futhi umholi ang
 
 #. type=text
 msgctxt "text"
+msgid "🔄 Take turns being the leader, and remember, you can play with just two people or as many as you want!"
+msgstr "🔄Shintshanani ngokuba umholi, ukhumbule, ungadlala nabantu ababili noma abaningi ofisa ngayo!"
+
+#. type=text
+msgctxt "text"
+msgid "This game builds movement skills, attention and listening, and self-control, while having fun together! 👂 "
+msgstr "Lomdlalo wakha amakhono okunyakaza, ukuqaphela nokulalela, nokuzithiba, ngenkathi nijabule ndawonye! 👂 "
+
+#. type=text
+msgctxt "text"
+msgid "*Emotion Cards*"
+msgstr "*Amakhadi Emizwa*"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Create cards of the main six emotions with @fields.child_nickname: happy, sad, angry, disgusted, surprised, afraid 😃😔😣"
+msgstr "Yakha amakhadi emizwa emikhulu eyisithupha no@fields.child_nickname: jabulile,dumele,thukuthele, dumazeka, mangele, kwesaba 😃😔😣"
+
+#. type=text
+msgctxt "text"
+msgid "🔶 Draw, cut-out pictures from magazines, or take photos of family members showing different emotions. "
+msgstr "🔶Dweba, sika izithombe kumagazini, noma uthathe izithombe zamalunga omndeni bekhombisa imizwa ehlukene. "
+
+#. type=text
+msgctxt "text"
+msgid "📝 Label each emotion and describe how each family member feels those emotions."
+msgstr "Bhala umuzwa ngamunye bese uchaza ukuthi ilunga ngalinye lomndeni lizizwa kanjani."
+
+#. type=text
+msgctxt "text"
+msgid "Create cards of the main six emotions with your child: happy, sad, angry, disgusted, surprised, afraid 😃😔😣"
+msgstr "Yakha amakhadi emizwa emikhulu eyisithupha nengane yakho: jabulile, dumele, thukuthele, dumazeka, mangele, kwesaba 😃😔😣"
+
+#. type=text
+msgctxt "text"
+msgid "🚩 Put the cards in a spot everyone agrees on, and use it throughout the day to name how everyone is feeling. For example, after school, everyone can point out the emotion they are experiencing. "
+msgstr "🚩Beka amakhadi endaweni lapho wonke umuntu evuma khona, bese uwasebenzisa usuku lonke ukusho ukuthi umuntu ngamunye uzizwa kanjani. Isibonelo, emva kokuphuma kwesikole wonke umuntu angakhomba umuzwa awuzwayo "
+
+#. type=text
+msgctxt "text"
+msgid "💡 Feel free to add new feelings as they come up. If someone doesn’t know what they are feeling, help them identify it by exploring how it feels in their body. Try together to find a new word for that emotion."
+msgstr "💡Khululeka ungangeza imizwa emisha uma isaqhamuka. Uma kukhona ongazazi ukuthi uzizwa kanjani, msize ukuthola ngokuhlola ukuthi uzizwa kanjani emzimbeni wakhe. Zamani ukuthola igama elisha laloyo muzwa."
+
+#. type=text
+msgctxt "text"
+msgid "This can help everyone in the family become experts in understanding themselves and be aware of what their bodies need! 💛"
+msgstr "Lokhu kungasiza wonke umuntu emndenini babe ngochwepheshe ngokuzazi nokuqonda ukuthi imizimba yabo idingani! 💛"
+
+#. type=text
+msgctxt "text"
 msgid "*What's New?*"
 msgstr "*Yini Entsha?*"
+
+#. type=text
+msgctxt "text"
+msgid "Learning together is fun! 🎓"
+msgstr "Ukufunda ndawonye kuyajabulisa! 🎓"
+
+#. type=text
+msgctxt "text"
+msgid "❓ Ask your child to think of a new, fun skill you could learn together. "
+msgstr "❓Cela ingane yakho ukuthi icabange ikhono elisha, elimnandi eningalifunda ndawonye. "
 
 #. type=text
 msgctxt "text"
@@ -1580,8 +1723,118 @@ msgstr "🔄 Shintshisanani nizama ikhono elisha. Qiniseka ukuthi niyancomana fu
 
 #. type=text
 msgctxt "text"
+msgid "💛 Approach learning the skill in a kind and fun way, and do not judge your child or yourself for your ability in the skill. "
+msgstr "💛 Sondela ukufunda ikhono ngendlela enomusa nejabulisayo, futhi ungahluleli ingane yakho noma wena ngokwakho ngekhono lakho kulelikhono. "
+
+#. type=text
+msgctxt "text"
 msgid "😃 Once you have mastered the skill, choose another skill to learn together."
 msgstr "😃 Uma usuphumelele kulelo khono, khetha elinye ikhono eningalifunda ndawonye."
+
+#. type=text
+msgctxt "text"
+msgid "*Five Stones*"
+msgstr "*Amatshe Amahlanu*"
+
+#. type=text
+msgctxt "text"
+msgid "Let’s test your speed and skill with this classic hand game played across South Africa! ⭐"
+msgstr "Make sihlole ukushesha nekhono lakho ngomdlalo wesandla wakudala odlalwe e Ningizimu Africa yonke ⭐"
+
+#. type=text
+msgctxt "text"
+msgid "5️⃣ You’ll need five small stones (or any small objects you have around)."
+msgstr "5️⃣Uzodinga amatshe amancane amahlanu( noma izinto ezincane onazo eduze kwakho)."
+
+#. type=text
+msgctxt "text"
+msgid "▶️ Start by placing all five on the ground. Pick up one and throw it gently into the air. While it’s in the air, quickly grab one stone from the ground and catch the first stone before it lands."
+msgstr "▶️Qala ngokuwabeka womahlanu phansi. Cosha elilodwa uliphonse phezulu ngokumnene. Uma lisasephezulu emoyeni, bamba itshe elilodwa kulawa owabeke phansi bese ushesha unqaka leli lokuqala ngaphambi kokuthi lifike phansi."
+
+#. type=text
+msgctxt "text"
+msgid "🔄 Repeat this, picking up one stone at a time. Then try two at once, then three... all the way to four!"
+msgstr "🔄Phinda lokhu, cosha itshe ngesikhathi esisodwa. Bese uzama amabili ngesikhathi esisodwa, bese kuba amathathu..... njalo ukhuphukela kwamane!"
+
+#. type=text
+msgctxt "text"
+msgid "🚩 Play alone or with friends, and see who can complete the challenge without dropping a stone!"
+msgstr "🚩Dlala wedwa noma nabangani, nibone ukuthi ngubani uzoqeda inselelo engaliwisanga itshe!"
+
+#. type=text
+msgctxt "text"
+msgid "This traditional game builds hand-eye coordination, focus, and timing - and it’s lots of fun to master ✅"
+msgstr "Lomdlalo wakudala wakha ukuhlangana kwamehlo, ukugxila nokukala isikhathi - kuyintokozo enkulu ukunqoba ✅"
+
+#. type=text
+msgctxt "text"
+msgid "*Clap & Sing Game*"
+msgstr "*Umdlalo wokucula nokushaya izandla*"
+
+#. type=text
+msgctxt "text"
+msgid "🎵 Sit face-to-face with your child and try a fun clapping rhyme together. "
+msgstr "🎵Hlalani nibhekane nengane yakho nizame umlolozelo ojabulisayo wokushaya izandla nivumelane ndawonye. "
+
+#. type=text
+msgctxt "text"
+msgid "👋 Clap your hands, then each other’s, and repeat with a rhythm and song from your childhood – or make up a new one."
+msgstr "👋Shaya izandla zakho, bese ushaya ezomunye uphinde isigqi nengoma yangezikhathi zobungane bakho - noma uziqambele entsha."
+
+#. type=text
+msgctxt "text"
+msgid "💚 Follow the words with a simple clapping pattern. You can swap in your own words or names to make it even more fun!"
+msgstr "💚 Landela amagama ngendlela elula yokushaya izandla ngendlela efanayo. Ungashintshanisa ngamagama akho ukuyenza ijabulise kakhulu!"
+
+#. type=text
+msgctxt "text"
+msgid "These clapping games have been popular among children from generation to generation, and help build rhythm, timing, memory, and laughter ✨"
+msgstr "Lemidlalo yokushaya izandla idume kakhulu ezinganeni ukusukela esizukulwaneni ukuya esizukulwaneni, isiza ukwakha isigqi, ukukala isikhathi, inkumbulo nokuhleka ✨"
+
+#. type=text
+msgctxt "text"
+msgid "*Skipping Rope Song*"
+msgstr "*Izingoma zokudlala ingqathu*"
+
+#. type=text
+msgctxt "text"
+msgid "🎈 Find a long rope or make one from tied-up tights or string. "
+msgstr "🎈 Thola intambo ende noma uzenzele ngentambo eboshiwe eqinile "
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ Two people turn the rope while one jumps in the middle. "
+msgstr "2️⃣ Abantu ababili baphendula intambo ngenkathi oyedwa egxuma esiphakathini. "
+
+#. type=text
+msgctxt "text"
+msgid "🎵 Sing a song together as they jump – do you remember one from your childhood or can you use a different song you all know? "
+msgstr "🎵Culani ingoma nonke besagxuma - uyayikhumbula eyodwa enaniyicula niseyizingane noma ningasebenzisa elinye iculo enilaziyo nonke? "
+
+#. type=text
+msgctxt "text"
+msgid "🏆 You can add fun moves like hopping, clapping, or even dancing while skipping. "
+msgstr "🏆 Ungangeza iminyakazo ejabulisayo, njengokugxuma kancane, ukushaya izandla, nokudansa ngesikhathi ugxuma. "
+
+#. type=text
+msgctxt "text"
+msgid "💛 Then switch places so everyone gets a turn."
+msgstr "💛 Nishintshane ngezindawo wonke umuntu athole ithuba."
+
+#. type=text
+msgctxt "text"
+msgid "This energetic game builds coordination, confidence, and teamwork - and brings a joyful beat to any outdoor play session 🌈"
+msgstr "Lomdlalo onomdlandla wakha ukuxhumanisa nokusebenzisana niyiqembu - uletha isigqi esimnandi ngesikhathi sokudlala ngaphandle 🌈"
+
+#. type=text
+msgctxt "text"
+msgid "*Three Tin Tower*"
+msgstr "*Umbhoshongo Wamathini Amamthathu*"
+
+#. type=text
+msgctxt "text"
+msgid "🔶 Stack three empty tins into a tower. "
+msgstr "🔶Yenza isitaki ngamathini amathathu angenalutho wenze umbhoshongo. "
 
 #. type=text
 msgctxt "text"
