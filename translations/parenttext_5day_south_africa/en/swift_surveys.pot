@@ -1022,8 +1022,19 @@ msgid "What gender do they identify as?"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "What is their relationship to the child?"
+msgid "What is their relationship to @fields.child_nickname?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What is their relationship to your teen?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What is their relationship to your child?"
 msgstr ""
 
 #. type=text
@@ -1076,18 +1087,18 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "🥳 You have completed the survey! Thank you very much for your participation. As a token of appreciation, you will receive R25 airtime. "
+msgid "🥳 You have completed the survey! Thank you very much for your participation. As a token of appreciation, you will receive R25 airtime."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child
 msgctxt "text"
-msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, please refer to the help menu by typing {HELP} or email the research team at swift@globalparenting.org"
+msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally contact the research team on swift@globalparenting.org"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "📅 We will follow up with similar questions in one month, and once you've completed this survey, you will receive an additional R50 airtime. "
+msgid "📅 We will follow up with similar questions in one month, and once you've completed this survey, you will receive an additional R50 airtime."
 msgstr ""
 
 #. type=text
@@ -1134,12 +1145,12 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child
 msgctxt "text"
-msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, please refer to the help menu by typing {HELP} or email the research team at swift@globalparenting.org "
+msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on swift@globalparenting.org"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "📅 We will follow up with similar questions in two months, and once you've completed that final survey, you will receive an additional R50 airtime. "
+msgid "📅 We will follow up with similar questions in two months, and once you've completed that final survey, you will receive an additional R50 airtime."
 msgstr ""
 
 #. type=text
@@ -1199,12 +1210,12 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "💙 Thank you very much for completing this final survey and taking the time to help us with this study. "
+msgid "💙 Thank you very much for completing this final survey and taking the time to help us with this study."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "🥳 You will now receive R50 airtime as a token of thanks. "
+msgid "🥳 You will now receive R50 airtime as a token of thanks."
 msgstr ""
 
 #. type=text
