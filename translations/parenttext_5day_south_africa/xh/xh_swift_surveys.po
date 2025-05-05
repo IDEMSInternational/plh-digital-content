@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-05-05 00:15\n"
+"PO-Revision-Date: 2025-05-05 12:08\n"
 
 #. type=text
 msgctxt "text"
@@ -1028,9 +1028,20 @@ msgid "What gender do they identify as?"
 msgstr "Sesiphi isini azichaza ngaso?"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "What is their relationship to the child?"
-msgstr "Buyintoni ubudlelwane bakhe kumntwana?"
+msgid "What is their relationship to @fields.child_nickname?"
+msgstr "Buyintoni ubudlelwane bakhe ku@fields.child_nickname?"
+
+#. type=text
+msgctxt "text"
+msgid "What is their relationship to your teen?"
+msgstr "Buyintoni ubudlelwane bakhe kumntwana wakho ofikisayo?"
+
+#. type=text
+msgctxt "text"
+msgid "What is their relationship to your child?"
+msgstr "Buyintoni ubudlelwane bakhe kumntwana wakho?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1082,19 +1093,19 @@ msgstr "Kukangaphi kule veki iphelileyo apho omnye umnonopheli ebonise uvelwano 
 
 #. type=text
 msgctxt "text"
-msgid "🥳 You have completed the survey! Thank you very much for your participation. As a token of appreciation, you will receive R25 airtime. "
-msgstr "🥳 Ugqibile ukuphendula imibuzo! Enkosi kakhulu ngenxaxheba yakho. Njengombonakaliso wombulelo wethu kuwe, uzakufumana i-airtime ye R25. "
+msgid "🥳 You have completed the survey! Thank you very much for your participation. As a token of appreciation, you will receive R25 airtime."
+msgstr "🥳 Uyigqibile isaveyi! Enkosi kakhulu ngenxaxheba yakho. Njengombulelo wethu kuwe, uzakufumana i-airtime ye R25."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child
 msgctxt "text"
-msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, please refer to the help menu by typing {HELP} or email the research team at swift@globalparenting.org"
-msgstr "❗❗❗ Ukuba nayo nayiphi na imibuzo koluphando ikushiye uxhalabile okanye uchaphazelekile ngokwasemoyeni, nceda uye kwi menyu yoncedo ngokubhala {HELP} okanye uqhagamshelane neqela lophando ku swift@globalparenting.org"
+msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally contact the research team on swift@globalparenting.org"
+msgstr "❗❗❗ Ukuba nayo nayiphi na imibuzo kule saveyi ikushiye uxhalabile okanye uchaphazelekile ngokwasemoyeni qhagamshela iqela lophando ku swift@globalparenting.org"
 
 #. type=text
 msgctxt "text"
-msgid "📅 We will follow up with similar questions in one month, and once you've completed this survey, you will receive an additional R50 airtime. "
-msgstr "📅 Sizakulandelela nemibuzo ebufana kwisithuba senyanga enye, kwaye xa uthe wayigqiba lemibuzo, uyakufumana i-R50 airtime eyongezelelweyo. "
+msgid "📅 We will follow up with similar questions in one month, and once you've completed this survey, you will receive an additional R50 airtime."
+msgstr "📅 Sizakulandelela nemibuzo ebufana kwisithuba senyanga, kwaye xa uthe walugqiba olu phando, uyakufumana i-R50 ye-airtime eyongezelelweyo."
 
 #. type=text
 msgctxt "text"
@@ -1140,13 +1151,13 @@ msgstr "🎉🎉 Ulugqibile uphando! Enkosi kakhulu ngenxaxheba yakho. Njengombo
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child
 msgctxt "text"
-msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, please refer to the help menu by typing {HELP} or email the research team at swift@globalparenting.org "
-msgstr "❗❗❗ Ukuba nayo nayiphi na imibuzo koluphando ikushiye uxhalabile okanye uchaphazelekile ngokwasemoyeni, nceda uye kwi menyu yoncedo ngokubhala {HELP} okanye uqhagamshelane neqela lophando ku swift@globalparenting.org "
+msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on swift@globalparenting.org"
+msgstr "❗❗❗ Ukuba nayo nayiphi na imibuzo kule saveyi ikushiye uxhalabile okanye uchaphazelekile ngokwasemoyeni, qhagamshelana neqela lophando ku swift@globalparenting.org"
 
 #. type=text
 msgctxt "text"
-msgid "📅 We will follow up with similar questions in two months, and once you've completed that final survey, you will receive an additional R50 airtime. "
-msgstr "📅 Sizakulandelela nemibuzo ebufana kwisithuba senyanga ezimbini, kwaye xa uthe walugqiba olu phando, uyakufumana i-R50 ye-airtime eyongezelelweyo. "
+msgid "📅 We will follow up with similar questions in two months, and once you've completed that final survey, you will receive an additional R50 airtime."
+msgstr "📅 Sizakulandelela nemibuzo ebufana kwisithuba senyanga ezimbini, kwaye xa uthe wayigqiba isaveyi yokugqibela, uyakufumana i-R50 ye-airtime eyongezelelweyo."
 
 #. type=text
 msgctxt "text"
@@ -1205,13 +1216,13 @@ msgstr "🎉🎉 Ugqibile! 🎉🎉"
 
 #. type=text
 msgctxt "text"
-msgid "💙 Thank you very much for completing this final survey and taking the time to help us with this study. "
-msgstr "💙 Enkosi kakhulu ngokugqibezela le saveyi yokugqibela kwaye uthathe ixesha lokusinceda koluphando. "
+msgid "💙 Thank you very much for completing this final survey and taking the time to help us with this study."
+msgstr "💙 Enkosi kakhulu ngokugqiba le saveyi yokugqibela kwaye uthathe ixesha lokusinceda koluphando."
 
 #. type=text
 msgctxt "text"
-msgid "🥳 You will now receive R50 airtime as a token of thanks. "
-msgstr "🥳Uzakufumana i-airtime yeR50 njengombulelo. "
+msgid "🥳 You will now receive R50 airtime as a token of thanks."
+msgstr "🥳Uzakufumana i-airtime yeR50 njengombulelo."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
