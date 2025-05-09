@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-05-02 09:49\n"
+"PO-Revision-Date: 2025-05-08 22:09\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -34,6 +34,16 @@ msgstr "error"
 msgctxt "text"
 msgid "Let’s get started. Press NEXT to begin."
 msgstr "Comencemos. Presiona SIGUIENTE para empezar."
+
+#. type=text
+msgctxt "text"
+msgid "Well done. You're ready to start the first course."
+msgstr "Buen trabajo. Estás listo para empezar el primer curso."
+
+#. type=text
+msgctxt "text"
+msgid "You have seen all the courses"
+msgstr "Has visto todos los cursos"
 
 #. type=text
 msgctxt "text"
@@ -128,6 +138,16 @@ msgstr "No pasa nada."
 
 #. type=text
 msgctxt "text"
+msgid "Which new course would you like to start?"
+msgstr "¿Qué nuevo curso te gustaría empezar?"
+
+#. type=text
+msgctxt "text"
+msgid "You do not have have a current course."
+msgstr "No tienes un curso activo."
+
+#. type=text
+msgctxt "text"
 msgid "You only have the following course started"
 msgstr "Solo has empezado el siguiente curso"
 
@@ -138,6 +158,11 @@ msgstr "¿Cuál de los cursos incompletos te gustaría terminar?"
 
 #. type=text
 msgctxt "text"
+msgid "There are no incomplete courses."
+msgstr "No hay cursos incompletos."
+
+#. type=text
+msgctxt "text"
 msgid "You only have the following course to complete"
 msgstr "Solo te hace falta completar el siguiente curso"
 
@@ -145,6 +170,11 @@ msgstr "Solo te hace falta completar el siguiente curso"
 msgctxt "text"
 msgid "Great! Which unfinished course would you like to complete?"
 msgstr "¡Muy bien! ¿Cuál de los cursos incompletos te gustaría terminar?"
+
+#. type=text
+msgctxt "text"
+msgid "You're almost finished with this course! You only have 1 lesson remaining,"
+msgstr "¡Ya casi terminas este curso! Solamente te queda 1 sesión,"
 
 #. type=text
 msgctxt "text"
@@ -221,6 +251,11 @@ msgstr "@(word_count(fields.goals_accessed) +1). Regresar al Menú Principal"
 
 #. type=text
 msgctxt "text"
+msgid "You haven't completed any of the lessons in this course."
+msgstr "No has completado ninguna de las sesiones de este curso."
+
+#. type=text
+msgctxt "text"
 msgid "You have only completed the following lesson:"
 msgstr "Solo completaste la siguiente sesión:"
 
@@ -277,6 +312,12 @@ msgid "Do you want to begin now or tomorrow?"
 msgstr "¿Te gustaría empezar ahorita o hasta mañana?"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It takes only 5 days to complete the core course, @results.name. Once you've earned your certificate, you will have access to other helpful parenting courses. You can choose to take the courses that interest you or meet your family's needs."
+msgstr "Completar el Curso Elemental \"@results.name\" solo te llevará 5 días. Una vez que hayas obtenido tu reconocimiento, tendrás acceso a otros cursos útiles acerca de crianza. Podrás elegir hacer los cursos que te interesen o los que aporten más a las necesidades de tu familia."
+
+#. type=text
 msgctxt "text"
 msgid "🎉You did it! Congratulations!🎉 You have completed the programme. Well done!"
 msgstr "🎉¡Lo lograste! ¡Felicidades!🎉 Has completado el programa. ¡Bien hecho!"
@@ -285,6 +326,17 @@ msgstr "🎉¡Lo lograste! ¡Felicidades!🎉 Has completado el programa. ¡Bien
 msgctxt "text"
 msgid "Remember, you can always return to ParentText and get extra support or review these courses. Just type {MENU}."
 msgstr "Recuerda que siempre puedes volver a Crianza con Conciencia + para obtener ayuda adicional o repasar estos cursos. Solo tienes que mandar la palabra {MENU}."
+
+#. type=text
+msgctxt "text"
+msgid "Completing ParentText is an important achievement. Well done! New courses might be available soon. As they become available, you'll receive a notification through this channel."
+msgstr "Completar Crianza con Conciencia + es un logro importante. ¡Bien hecho! Es posible que pronto tengamos cursos nuevos disponibles. Cuando estén disponibles, recibirás una notificación por este medio."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🎉You did it!🎉 You have completed the course @results.name and earned yourself a certificate. Congratulations!"
+msgstr "🎉¡Lo lograste!🎉 Completaste el curso @results.name y obtuviste un reconocimiento. ¡Felicidades!"
 
 #. type=text
 msgctxt "text"
@@ -391,6 +443,11 @@ msgstr "2. No, recuérdamelo mañana"
 
 #. type=text
 msgctxt "text"
+msgid "These messages don’t seem to be working. When you are ready to keep going, press 1."
+msgstr "Parece que este no es un buen momento. Presiona 1 cuando estés listo para continuar."
+
+#. type=text
+msgctxt "text"
 msgid "You have not completed a course yet."
 msgstr "Aún no has terminado ningún curso."
 
@@ -417,6 +474,16 @@ msgstr "No quedan más cursos por terminar."
 
 #. type=text
 msgctxt "text"
+msgid "You have the following courses still available:"
+msgstr "Aún tienes disponibles los siguientes cursos:"
+
+#. type=text
+msgctxt "text"
+msgid "You have not begun the following courses:"
+msgstr "No has comenzado los siguientes cursos:"
+
+#. type=text
+msgctxt "text"
 msgid "You are on track to complete the entire ParentText programme! There are no new courses to start!"
 msgstr "¡Vas por buen camino para completar todo el programa de Crianza con Conciencia +! ¡No tienes cursos nuevos por empezar!"
 
@@ -436,6 +503,12 @@ msgid "We hope this was helpful! You can access the Main Menu at any time by typ
 msgstr "Esperamos que esto te haya servido. Puedes acceder al Menú Principal en cualquier momento mandando la palabra {MENU}."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your relationship status has been updated. You've unlocked a new course: @results.name."
+msgstr "Tu estado civil se ha actualizado. Has desbloqueado un curso nuevo: @results.name."
+
+#. type=text
 msgctxt "text"
 msgid "To invite someone to join, share this link!"
 msgstr "Para invitar a alguien a unirse, ¡comparte este link!"
@@ -444,6 +517,11 @@ msgstr "Para invitar a alguien a unirse, ¡comparte este link!"
 msgctxt "text"
 msgid "{insert link}"
 msgstr "{insert link}"
+
+#. type=text
+msgctxt "text"
+msgid "You have reached the end of this lesson! 🎉"
+msgstr "¡Has llegado al final de esta sesión! 🎉"
 
 #. type=text
 msgctxt "text"
@@ -960,6 +1038,11 @@ msgstr "¿Quieres hacer un cambio?"
 
 #. type=text
 msgctxt "text"
+msgid "You didn't tell us if you are a woman or a man."
+msgstr "No nos has dicho tu sexo."
+
+#. type=text
+msgctxt "text"
 msgid "You told us that you are a Woman."
 msgstr "Nos has dicho que eres Mujer."
 
@@ -1017,6 +1100,29 @@ msgstr "Nos has dicho que estás"
 msgctxt "text"
 msgid "Would you like to change your relationship status?"
 msgstr "¿Quieres cambiar tu estado civil?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that @fields.child_nickname is @fields.child_age year old."
+msgstr "Nos has dicho que @fields.child_nickname tiene @fields.child_age años."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You told us that your {child} is @fields.child_age year old."
+msgstr "Nos has dicho que tu {child} tiene @fields.child_age años."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Would you like to update the age of @fields.child_nickname?"
+msgstr "¿Quieres actualizar la edad de @fields.child_nickname?"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update the age of your {child}?"
+msgstr "¿Quieres actualizar la edad de tu {child}?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1119,6 +1225,32 @@ msgstr "*DÍA @fields.curr_demo_day*"
 msgctxt "text"
 msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
 msgstr "Completaste la demostración de Crianza con Conciencia +. Escribe REINICIAR y luego {FACSTART} para volver a empezar desde el principio."
+
+#. type=text
+msgctxt "text"
+msgid "It looks like this is not a good time."
+msgstr "Parece que no es un buen momento."
+
+#. type=text
+msgctxt "text"
+msgid "Congratulations on finishing your first course!"
+msgstr "¡Felicidades por terminar tu primer curso!"
+
+#. type=text
+msgctxt "text"
+msgid "How should I print your name on the certificate?"
+msgstr "¿Cómo debo escribir tu nombre en el certificado?"
+
+#. type=text
+msgctxt "text"
+msgid "This name is too long. Please enter a shorter name."
+msgstr "Este nombre es demasiado largo. Por favor, introduce un nombre más corto."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "The name you would like to have on you certificate is @fields.sq_cert_name. Is that correct?"
+msgstr "El nombre que quieres que aparezca en tu certificado es @fields.sq_cert_name. ¿Es correcto?"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
