@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-05-08 22:09\n"
+"PO-Revision-Date: 2025-05-09 04:07\n"
 
 #. type=text
 msgctxt "text"
@@ -163,7 +163,7 @@ msgstr "✅ Puedes obtener más información sobre este programa y el equipo det
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "Thanks, @fields.first_user_name. Now let's get to know your child. You might have more than one, but we're going to start by focusing on just one."
-msgstr "Gracias, @fields.first_user_name. Ahora vamos a conocer a tu hijo. Puede que tengas más de uno, pero vamos a comenzar centrándonos solo en uno."
+msgstr "Gracias, @fields.first_user_name. Ahora vamos a conocer a tu niña, niño o adolescente. Es posible que tengas más de una niña, niño o adolescente a tu cuidado, pero vamos a comenzar enfocándonos solo en uno de ellos."
 
 #. type=text
 msgctxt "text"
@@ -204,7 +204,7 @@ msgstr "Esperamos volver a verte pronto, ¡y te deseamos un feliz y tranquilo d�
 #. type=text
 msgctxt "text"
 msgid "Great! To complete this programme, you'll need a partner in parenting. There are 2 parenting experts to choose from:"
-msgstr "¡Estupendo! Para completar este programa, necesitarás un compañero. Hay 2 expertos en crianza para elegir:"
+msgstr "¡Estupendo! Para completar este programa, necesitarás a alguien que te guie. Hay 2 expertos en crianza para elegir:"
 
 #. type=text
 msgctxt "text"
@@ -235,8 +235,63 @@ msgstr "Es un gusto conocerte, @fields.first_user_name."
 
 #. type=text
 msgctxt "text"
+msgid "Please enter the first letter of your state."
+msgstr "Por favor, introduce la primera letra del Estado en donde vives."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "I'm sorry, @fields.first_user_name. I don't understand. Please enter the first letter of your state. For example, enter M if you live in Michocán."
+msgstr "Lo siento, @fields.first_user_name. No entiendo. Por favor, introduce la primera letra del Estado en donde vives. Por ejemplo, introduce M si vives en Michocán."
+
+#. type=text
+msgctxt "text"
+msgid "Hmm. I don't know of any states beginning with that letter. Can you please try again?"
+msgstr "Hmmm. No conozco ningún Estado que empiece con esa letra. ¿Puedes volver a intentarlo?"
+
+#. type=text
+msgctxt "text"
 msgid "Is your {child} a girl or a boy?"
 msgstr "¿Tu {child} es niña o niño?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "How many years old is @fields.child_nickname?"
+msgstr "¿Cuántos años tiene @fields.child_nickname?"
+
+#. type=text
+msgctxt "text"
+msgid "How many years old is your {child}?"
+msgstr "¿Cuántos años tiene tu {child}?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Let's try that again. How many years old is @fields.child_nickname? Please enter a number between 2-17."
+msgstr "Intentémoslo de nuevo. ¿Cuántos años tiene @fields.child_nickname? Introduce un número entre 2-17."
+
+#. type=text
+msgctxt "text"
+msgid "Let's try that again. How many years old is your {child}? Please enter a number between 2-17."
+msgstr "Intentémoslo de nuevo. ¿Cuántos años tiene tu {child}? Introduce un número entre 2-17."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Oops! This programme is only for parents of children ages 2-17. Let's try that again. How many years old is @fields.child_nickname? Please enter a number between 2-17."
+msgstr "¡Uy! Este programa es sólo para madres, padres y personas cuidadoras de niñas, niños o adolescentes de 2 a 17 años. Intentémoslo de nuevo. ¿Cuántos años tiene @fields.child_nickname? Por favor, introduce un número entre 2-17."
+
+#. type=text
+msgctxt "text"
+msgid "Oops! This programme is only for parents of children ages 2-17. Let's try that again. How many years old is your {child}? Please enter a number between 2-17."
+msgstr "¡Uy! Este programa es sólo para madres, padres y personas cuidadoras de niñas, niños o adolescentes de 2 a 17 años. Intentémoslo de nuevo. ¿Cuántos años tiene tu {child}? Por favor, introduce un número entre 2-17."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Thanks @fields.first_user_name. I've got your programme ready for you."
+msgstr "Gracias @fields.first_user_name. Tengo un programa listo para ti."
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -297,6 +352,18 @@ msgstr "Niña"
 msgctxt "quick_replies"
 msgid "Boy"
 msgstr "Niño"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Dani"
+msgstr "Dani"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Chris"
+msgstr "Chris"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -499,6 +566,12 @@ msgstr "Quintana Roo"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Go back and enter a different letter"
+msgstr "Regresa y selecciona otra letra"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Spanish"
 msgstr "Español"
 
@@ -549,6 +622,12 @@ msgstr "Sur"
 msgctxt "quick_replies"
 msgid "YES"
 msgstr "Sí"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NO"
+msgstr "NO"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -615,6 +694,18 @@ msgstr "niña"
 msgctxt "arguments"
 msgid "boy"
 msgstr "niño"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "dani"
+msgstr "Dani"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "chris"
+msgstr "Chris"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -813,6 +904,12 @@ msgstr "Yucatán"
 msgctxt "arguments"
 msgid "quintana roo"
 msgstr "Quintana Roo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go back and enter a different letter"
+msgstr "Regresa y selecciona otra letra"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
