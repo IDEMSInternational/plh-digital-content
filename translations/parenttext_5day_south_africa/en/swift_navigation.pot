@@ -413,7 +413,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Press a number on your keypad:"
+msgid "Select one of the options below:"
 msgstr ""
 
 #. type=text
@@ -471,11 +471,6 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It’s time to get started on your course, @results.name. Are you ready?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Press a number on your keypad: "
 msgstr ""
 
 #. type=text
@@ -1085,19 +1080,13 @@ msgid "🥳 It's time for your last survey.  If you complete the survey, you wil
 msgstr ""
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "🌱 Keep @fields.child_nickname safe and healthy! 🌱"
+msgid "🌱 Keep your child safe and healthy! 🌱"
 msgstr ""
 
 #. type=text
 msgctxt "text"
 msgid "You've already started improving your relationship with your child! Learn more with our easy 5-day course on child safety in ParentText. Just 10 minutes each day. Earn a certificate when you finish! Want to start?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "🌱 Keep your child safe and healthy! 🌱"
 msgstr ""
 
 #. type=text
@@ -1128,12 +1117,12 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "How can we help?"
+msgid "It looks like ParentText isn't working for you. Can you tell us why?"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "It looks like ParentText isn't working for you. Can you tell us why?"
+msgid "How can we help?"
 msgstr ""
 
 #. type=text
@@ -1594,30 +1583,6 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "I need more parenting support than ParentText offers"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I need support with my child’s disability"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I’m facing challenges that make it difficult to focus on parenting right now"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I need emergency support"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "I do not have time"
 msgstr ""
 
@@ -1637,6 +1602,30 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Other"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need more parenting support than ParentText offers"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need support with my child’s disability"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I’m facing challenges that make it difficult to focus on parenting right now"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need emergency support"
 msgstr ""
 
 #. type=quick_replies
@@ -1744,6 +1733,11 @@ msgstr ""
 #. type=variables
 msgctxt "variables"
 msgid "@fields.c_n_mod_started"
+msgstr ""
+
+#. type=variables
+msgctxt "variables"
+msgid "@results.name"
 msgstr ""
 
 #. type=arguments
@@ -2109,30 +2103,6 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "i need more parenting support than parenttext offers"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i need support with my child’s disability"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i’m facing challenges that make it difficult to focus on parenting right now"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i need emergency support"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "i do not have time"
 msgstr ""
 
@@ -2152,6 +2122,30 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "other"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i need more parenting support than parenttext offers"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i need support with my child’s disability"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i’m facing challenges that make it difficult to focus on parenting right now"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i need emergency support"
 msgstr ""
 
 #. type=arguments
