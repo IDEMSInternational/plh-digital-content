@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-05-09 12:36\n"
+"PO-Revision-Date: 2025-05-12 14:31\n"
 
 #. type=text
 msgctxt "text"
@@ -424,8 +424,8 @@ msgstr "I-ParentText seyiqalile. Unentsuku ezintlanu ukuyofika ekufumaneni isati
 
 #. type=text
 msgctxt "text"
-msgid "Press a number on your keypad:"
-msgstr "Cofa inombolo kwi khibhodi yakho:"
+msgid "Select one of the options below:"
+msgstr "Khetha enye yeenketho ezingezantsi:"
 
 #. type=text
 msgctxt "text"
@@ -483,11 +483,6 @@ msgstr "1. Gqibezela izifundo ezingagqitywanga ukufumana isatifikethi sam sesifu
 msgctxt "text"
 msgid "It’s time to get started on your course, @results.name. Are you ready?"
 msgstr "Lixesha lokuba uqalise isifundo sakho, @results.name. Ukulungele?"
-
-#. type=text
-msgctxt "text"
-msgid "Press a number on your keypad: "
-msgstr "Cofa inombolo kwi khibhodi yakho: "
 
 #. type=text
 msgctxt "text"
@@ -1096,20 +1091,14 @@ msgid "🥳 It's time for your last survey.  If you complete the survey, you wil
 msgstr "🥳Lixesha lokuba wenze isaveyi yakho yokugqibela.  Ukuba uyalugqiba uphando, uza kufumana i-airtime ye-R50. Ingaba ukulungele ukuqalisa? "
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "🌱 Keep @fields.child_nickname safe and healthy! 🌱"
-msgstr "Gcina U- @fields.child_nickname ukhuselekile kwaye usempilweni"
+msgid "🌱 Keep your child safe and healthy! 🌱"
+msgstr "🌱 Gcina unmntwana wakho ekhuselekile kwaye esempilweni! 🌱"
 
 #. type=text
 msgctxt "text"
 msgid "You've already started improving your relationship with your child! Learn more with our easy 5-day course on child safety in ParentText. Just 10 minutes each day. Earn a certificate when you finish! Want to start?"
 msgstr "Sele uqalile ukuphucula ubudlelwane bakho nomntwana wakho! Funda okungakumbi ngesifundo sethu seentsuku ezi-5 sokukhusela abantwana kwiParentText. Imizuzu nje ezi-10 ngo suku ngalunye. Fumana isatifiketi xa ugqibile! Ngaba ufuna ukuqala?"
-
-#. type=text
-msgctxt "text"
-msgid "🌱 Keep your child safe and healthy! 🌱"
-msgstr "🌱 Gcina unmntwana wakho ekhuselekile kwaye esempilweni! 🌱"
 
 #. type=text
 msgctxt "text"
@@ -1139,13 +1128,13 @@ msgstr "Uyigqibile idemo ye ParentText. Chwetheza {RESET} kwa ngoko {FACSTART} u
 
 #. type=text
 msgctxt "text"
-msgid "How can we help?"
-msgstr "Singakunceda njani?"
+msgid "It looks like ParentText isn't working for you. Can you tell us why?"
+msgstr "Kubonakala ngathi i-ParentText ayikusebenzeli. Ungasixelela ukuba kutheni?"
 
 #. type=text
 msgctxt "text"
-msgid "It looks like ParentText isn't working for you. Can you tell us why?"
-msgstr "Kubonakala ngathi i-ParentText ayikusebenzeli. Ungasixelela ukuba kutheni?"
+msgid "How can we help?"
+msgstr "Singakunceda njani?"
 
 #. type=text
 msgctxt "text"
@@ -1605,30 +1594,6 @@ msgstr "Yeka ukufumana imiyalezo"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "I need more parenting support than ParentText offers"
-msgstr "Ndifuna inkxaso yobuzali engakumbi kunalena inikezelwa ngu ParentText"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I need support with my child’s disability"
-msgstr "Ndifuna inkxaso ngokukhubazeka komntwana wam"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I’m facing challenges that make it difficult to focus on parenting right now"
-msgstr "Ndijongene nemiceli-mngeni eyenza kubenzima ukugxila kubuzali ngoku"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I need emergency support"
-msgstr "Ndifuna inkxaso kaxakeka"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "I do not have time"
 msgstr "Andinalo ixesha tu"
 
@@ -1649,6 +1614,30 @@ msgstr "I-Parenttext ayisebenzi efowunini yam"
 msgctxt "quick_replies"
 msgid "Other"
 msgstr "Okunye"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need more parenting support than ParentText offers"
+msgstr "Ndifuna inkxaso yobuzali engakumbi kunalena inikezelwa ngu ParentText"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need support with my child’s disability"
+msgstr "Ndifuna inkxaso ngokukhubazeka komntwana wam"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I’m facing challenges that make it difficult to focus on parenting right now"
+msgstr "Ndijongene nemiceli-mngeni eyenza kubenzima ukugxila kubuzali ngoku"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need emergency support"
+msgstr "Ndifuna inkxaso kaxakeka"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1756,6 +1745,11 @@ msgstr "Phuma"
 msgctxt "variables"
 msgid "@fields.c_n_mod_started"
 msgstr "@fields.c_n_mod_started"
+
+#. type=variables
+msgctxt "variables"
+msgid "@results.name"
+msgstr "@results.name"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -2120,30 +2114,6 @@ msgstr "ewe"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "i need more parenting support than parenttext offers"
-msgstr "ndifuna inkxaso yobuzali engakumbi kunalena inikezelwa ngu parenttext"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i need support with my child’s disability"
-msgstr "ndifuna inkxaso ngokukhubazeka komntwana wam"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i’m facing challenges that make it difficult to focus on parenting right now"
-msgstr "ndijongene nemiceli-mngeni eyenza kubenzima ukugxila kubuzali ngoku"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i need emergency support"
-msgstr "ndifuna inkxaso kaxakeka"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "i do not have time"
 msgstr "andinalo ixesha tu"
 
@@ -2164,6 +2134,30 @@ msgstr "parenttext ayisebenzi efowunini yam"
 msgctxt "arguments"
 msgid "other"
 msgstr "enye"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i need more parenting support than parenttext offers"
+msgstr "ndifuna inkxaso yobuzali engakumbi kunalena inikezelwa ngu parenttext"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i need support with my child’s disability"
+msgstr "ndifuna inkxaso ngokukhubazeka komntwana wam"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i’m facing challenges that make it difficult to focus on parenting right now"
+msgstr "ndijongene nemiceli-mngeni eyenza kubenzima ukugxila kubuzali ngoku"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i need emergency support"
+msgstr "ndifuna inkxaso kaxakeka"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply

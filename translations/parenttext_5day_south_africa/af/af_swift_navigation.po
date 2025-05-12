@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2025-05-08 16:13\n"
+"PO-Revision-Date: 2025-05-12 14:31\n"
 
 #. type=text
 msgctxt "text"
@@ -424,8 +424,8 @@ msgstr "ParentText het begin. Jy is net 5 dae daarvan weg om jou ouerskapsertifi
 
 #. type=text
 msgctxt "text"
-msgid "Press a number on your keypad:"
-msgstr "Druk 'n nommer op jou sleutelbord:"
+msgid "Select one of the options below:"
+msgstr "Kies een van die opsies hieronder:"
 
 #. type=text
 msgctxt "text"
@@ -483,11 +483,6 @@ msgstr "1. Voltooi onvoltooide lesse om my kursussertifikaat te verdien"
 msgctxt "text"
 msgid "It’s time to get started on your course, @results.name. Are you ready?"
 msgstr "Dis tyd om met jou kursus te begin, @results.name. Is jy gereed?"
-
-#. type=text
-msgctxt "text"
-msgid "Press a number on your keypad: "
-msgstr "Druk 'n nommer op jou sleutelbord: "
 
 #. type=text
 msgctxt "text"
@@ -1096,20 +1091,14 @@ msgid "🥳 It's time for your last survey.  If you complete the survey, you wil
 msgstr "🥳 Dit is tyd vir jou laaste opname! As jy die opname voltooi, sal jy R50 lugtyd ontvang. Is jy gereed om te begin? "
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "🌱 Keep @fields.child_nickname safe and healthy! 🌱"
-msgstr "🌱Hou @fields.child_nickname veilig en gesond! 🌱"
+msgid "🌱 Keep your child safe and healthy! 🌱"
+msgstr "🌱Hou jou kind veilig en gesond!🌱"
 
 #. type=text
 msgctxt "text"
 msgid "You've already started improving your relationship with your child! Learn more with our easy 5-day course on child safety in ParentText. Just 10 minutes each day. Earn a certificate when you finish! Want to start?"
 msgstr "Jy het alreeds begin om jou verhouding met jou kind te verbeter! Kom leer meer met ons maklike 5-dag kursus oor kinderveiligheid in ParentText. Net 10 minute elke dag. Verdien 'n sertifikaat wanneer jy klaar is! Wil jy begin?"
-
-#. type=text
-msgctxt "text"
-msgid "🌱 Keep your child safe and healthy! 🌱"
-msgstr "🌱Hou jou kind veilig en gesond!🌱"
 
 #. type=text
 msgctxt "text"
@@ -1139,13 +1128,13 @@ msgstr "Jy het die ParentText-demo voltooi. Tik {RESET} en dan {FACSTART} om wee
 
 #. type=text
 msgctxt "text"
-msgid "How can we help?"
-msgstr "Hoe kan ons help?"
+msgid "It looks like ParentText isn't working for you. Can you tell us why?"
+msgstr "Dit lyk asof ParentText nie vir jou werk nie. Kan jy vir ons sê hoekom?"
 
 #. type=text
 msgctxt "text"
-msgid "It looks like ParentText isn't working for you. Can you tell us why?"
-msgstr "Dit lyk asof ParentText nie vir jou werk nie. Kan jy vir ons sê hoekom?"
+msgid "How can we help?"
+msgstr "Hoe kan ons help?"
 
 #. type=text
 msgctxt "text"
@@ -1605,30 +1594,6 @@ msgstr "Hou op om boodskappe te ontvang"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "I need more parenting support than ParentText offers"
-msgstr "Ek het meer ouerskap-ondersteuning nodig as wat ParentText bied"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I need support with my child’s disability"
-msgstr "Ek het ondersteuning nodig met my kind se gestremdheid"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I’m facing challenges that make it difficult to focus on parenting right now"
-msgstr "Ek het baie uitdagings wat dit moeilik maak om nou op ouerskap te konsentreer"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I need emergency support"
-msgstr "Ek het noodondersteuning nodig"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "I do not have time"
 msgstr "Ek het nie tyd nie"
 
@@ -1649,6 +1614,30 @@ msgstr "ParentText werk nie op my foon nie"
 msgctxt "quick_replies"
 msgid "Other"
 msgstr "Ander"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need more parenting support than ParentText offers"
+msgstr "Ek het meer ouerskap-ondersteuning nodig as wat ParentText bied"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need support with my child’s disability"
+msgstr "Ek het ondersteuning nodig met my kind se gestremdheid"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I’m facing challenges that make it difficult to focus on parenting right now"
+msgstr "Ek het baie uitdagings wat dit moeilik maak om nou op ouerskap te konsentreer"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need emergency support"
+msgstr "Ek het noodondersteuning nodig"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1756,6 +1745,11 @@ msgstr "Gaan uit"
 msgctxt "variables"
 msgid "@fields.c_n_mod_started"
 msgstr "@fields.c_n_mod_started"
+
+#. type=variables
+msgctxt "variables"
+msgid "@results.name"
+msgstr "@results.name"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -2120,30 +2114,6 @@ msgstr "ja j jip ok"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "i need more parenting support than parenttext offers"
-msgstr "ek het meer ouerskap-ondersteuning nodig as wat ParentText bied"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i need support with my child’s disability"
-msgstr "ek het ondersteuning nodig met my kind se gestremdheid"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i’m facing challenges that make it difficult to focus on parenting right now"
-msgstr "ek het baie uitdagings wat dit moeilik maak om nou op ouerskap te konsentreer"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i need emergency support"
-msgstr "ek het noodondersteuning nodig"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "i do not have time"
 msgstr "ek het nie tyd nie"
 
@@ -2164,6 +2134,30 @@ msgstr "ParentText werk nie op my foon nie"
 msgctxt "arguments"
 msgid "other"
 msgstr "ander"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i need more parenting support than parenttext offers"
+msgstr "ek het meer ouerskap-ondersteuning nodig as wat ParentText bied"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i need support with my child’s disability"
+msgstr "ek het ondersteuning nodig met my kind se gestremdheid"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i’m facing challenges that make it difficult to focus on parenting right now"
+msgstr "ek het baie uitdagings wat dit moeilik maak om nou op ouerskap te konsentreer"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i need emergency support"
+msgstr "ek het noodondersteuning nodig"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
