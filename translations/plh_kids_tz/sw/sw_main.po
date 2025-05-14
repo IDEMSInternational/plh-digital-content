@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-05-14 11:16\n"
+"PO-Revision-Date: 2025-05-14 17:08\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -10626,6 +10626,26 @@ msgid "I am going to put @data.characters.f1_baby_boy.name down for his nap. @da
 msgstr "Naenda kumlaza,................................................ na............................... tafadhali naomba mkae kimya ili............................ alale usingizi.."
 
 #. type=data_list
+#. The string (@data.characters.f1_child_boy.name should not be translated.
+msgctxt "data_list"
+msgid "(@data.characters.f1_child_boy.name plays with instrument and makes loud noises)"
+msgstr "...................... anachezea vifaa na kutoa sauti kubwa"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_child_boy.name,
+#.      @data.characters.f1_baby_boy.name
+msgctxt "data_list"
+msgid "@data.characters.f1_child_boy.name, remember that your father is putting down @data.characters.f1_baby_boy.name for his nap. If we make loud noises, your brother won’t fall asleep. So please play a quiet game.”"
+msgstr "...........................Kumbuka kwamba baba yako anamlaza................. Kama tukitoa sauti kubwa, kaka yako hatapata usingizi. Hivyo tafadhali cheza mchezo wa kimyakimya\""
+
+#. type=data_list
+#. The string @data.characters.f1_father.name should not be translated.
+msgctxt "data_list"
+msgid "“If you play a quiet game now, your brother will fall asleep easier. Once he is asleep, @data.characters.f1_father.name and I can play a game with you.”"
+msgstr "\"Kama ukicheza mcezo wa kimyakimya, kaka yako atalala usingizi kirahisi. Mara atakapolala,................ na mimi tunaweza kucheza mchezo na wewe.."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "“Thank you for being so quiet! Now we can play something fun together. What would you like to build?”"
 msgstr "\"Asante kwa ukimya! Sasa tunaweza kucheza mchezo wa kufurahisha pamoja. Ungependa kujenga nini?\""
@@ -12848,13 +12868,28 @@ msgstr "Ingia"
 
 #. type=global
 msgctxt "global"
+msgid "Sign in with Apple"
+msgstr "Ingia kwa kutumia Apple"
+
+#. type=global
+msgctxt "global"
 msgid "Sign in with Google"
 msgstr "Ingia kwa kutumia Google"
 
 #. type=global
 msgctxt "global"
+msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
+msgstr "Je ungependa kufungua account? hii itakufanya upate taarifa zako pale kifaa chako  ikiwa kitapotea."
+
+#. type=global
+msgctxt "global"
 msgid "Logout"
 msgstr "Kutoka"
+
+#. type=global
+msgctxt "global"
+msgid "You are logged in."
+msgstr "Umeingia "
 
 #. type=template
 #. The string @local.active_page should not be translated.
@@ -12880,8 +12915,18 @@ msgstr "Wote"
 
 #. type=template
 msgctxt "template"
+msgid "Add your favourite resources to your list so you can easily find and enjoy them anytime!"
+msgstr "Ongeza vitu unavyovipenda kwenye orodha yako ili iwe rahisi kuvipata na kuvifurahia kwa urahisi wakati wowote!!"
+
+#. type=template
+msgctxt "template"
 msgid "Start Reading"
 msgstr "Anza kusoma"
+
+#. type=template
+msgctxt "template"
+msgid "Add your favourite Play activities to your list so you can easily find and enjoy them anytime!"
+msgstr "Ongeza vitu unavyovipenda kwenye orodha yako ya shughuli za kucheza ili iwe rahisi kuvipata na kuvifurahia kwa urahisi wakati wowote!"
 
 #. type=template
 msgctxt "template"
@@ -12895,13 +12940,33 @@ msgstr "Kujifunza kupitia kucheza"
 
 #. type=template
 msgctxt "template"
+msgid "play"
+msgstr "Cheza"
+
+#. type=template
+msgctxt "template"
 msgid "default"
 msgstr "chaguo-msingi"
 
 #. type=template
 msgctxt "template"
+msgid "Add your favourite Relax activities to your list so you can easily find and enjoy them anytime!"
+msgstr "Ongeza vitu unavyovipenda kwenye orodha yako ya shughuli za kupata utulivu ili iwe rahisi kuzipata na kuzifurahia kwa urahisi wakati wowote!"
+
+#. type=template
+msgctxt "template"
 msgid "Relax"
 msgstr "Chukua pumziko"
+
+#. type=template
+msgctxt "template"
+msgid "relax"
+msgstr "chukua pumziko"
+
+#. type=template
+msgctxt "template"
+msgid "no"
+msgstr "Hapana"
 
 #. type=template
 msgctxt "template"
@@ -12931,6 +12996,11 @@ msgstr "Vidokezo"
 
 #. type=template
 msgctxt "template"
+msgid "Add your favourite Books to your list so you can easily find and enjoy them anytime!"
+msgstr "Ongeza vitu unavyovipenda kwenye orodha yako ya vitabu ili iwe rahisi kuvipata na kuvifurahia kwa urahisi wakati wowote!"
+
+#. type=template
+msgctxt "template"
 msgid "Submit"
 msgstr "Tuma"
 
@@ -12952,8 +13022,18 @@ msgstr "Umeingiza kodi isiyo sahihi."
 
 #. type=template
 msgctxt "template"
+msgid "This code is correct."
+msgstr "Utambulisho huu ni sahihi."
+
+#. type=template
+msgctxt "template"
 msgid "Enter developer mode"
 msgstr "Unaingia kwenye ukurasa wa mtengenezaji"
+
+#. type=template
+msgctxt "template"
+msgid "Account"
+msgstr "Akaunti"
 
 #. type=template
 msgctxt "template"
@@ -13181,6 +13261,11 @@ msgstr "vitabu"
 msgctxt "template"
 msgid "General Feedback Form"
 msgstr "Fomu ya mrejesho kwa Jumla"
+
+#. type=template
+msgctxt "template"
+msgid "Path to form asset data. This must be pre-processed using the xlsform converter workspace."
+msgstr "Njia ya kupata taarifa. Hii lazima ichakatwa mapema kwa kutumia programu geuzi ya fomu ya kitabu kazi."
 
 #. type=template
 msgctxt "template"
