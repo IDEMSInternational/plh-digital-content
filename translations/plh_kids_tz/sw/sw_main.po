@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-05-15 06:49\n"
+"PO-Revision-Date: 2025-05-15 12:47\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -3911,7 +3911,7 @@ msgstr "Hiyo inatosha sasa.Usiku mwema,."
 #. type=data_list
 msgctxt "data_list"
 msgid "I ... don’t ... want ... to ... go ... to ... sleep."
-msgstr "\"Sitaki kwenda kulala\"."
+msgstr "\"Sitaki kwenda kulala\""
 
 #. type=data_list
 msgctxt "data_list"
@@ -4446,7 +4446,7 @@ msgstr "Tumia nguvu ya kawaida"
 #. type=data_list
 msgctxt "data_list"
 msgid "Make time in your daily or weekly schedule for quality time with your child."
-msgstr "Tenga muda katika ratiba yako ya kila siku au ya wiki ili kuwa pamoja na mtoto wako."
+msgstr "Tenga muda katika ratiba yako ya kila siku au ya wiki kwa muda bora na mtoto wako."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10649,7 +10649,7 @@ msgstr "\"Kama ukicheza mcezo wa kimyakimya, kaka yako atalala usingizi kirahisi
 #. The string @data.characters.f1_child_boy.name. should not be translated.
 msgctxt "data_list"
 msgid "What a good idea to play with the blocks instead, @data.characters.f1_child_boy.name. Well done for playing quietly so that your brother can fall asleep!"
-msgstr "Ni wazo zuri badala yake la kuchezea matofali,.........................Umefanya vizuri kwa kucheza kimya kimya ili kaka yako alale usingizi!!"
+msgstr "Mama: Ni wazo zuri sana kuchezea matofali........................ Umefanya vizuri kucheza kimya kimya ili mdogo wako aweze kulala.!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11471,9 +11471,22 @@ msgstr ""
 "Au, unapofanya makosa, sema, \"Hilo halikuenda kama ilivyopangwa, lakini ni sawa. Ninaweza kujaribu tena\""
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f2_father.name
+#.      @data.characters.f2_boy.name
+msgctxt "data_list"
+msgid "Let’s see how @data.characters.f2_father.name supports @data.characters.f2_boy.name to overcome a challenging situation:"
+msgstr "Hebu tuone ni namna gani.................... humsaidia................... kukabiliana na hali ya changamoto.:"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Five kicks in a row! You seem really proud to have made it to five, Dennis!"
 msgstr "Umepiga mara tano! Unaonekana kujivunia kweli kufanikiwa kufikia tano, Dennis!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let’s do 10!"
+msgstr "Hebu tufanye kumi!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11995,9 +12008,7 @@ msgstr "Husianisha  kati ya kile unachokiona  kwenye kitabu na maisha ya mtoto w
 #. type=data_list
 msgctxt "data_list"
 msgid "Show your child how what happens in the story is similar to or different from their own life. For example, if there is a chicken in the story, you could remind your child that you also have chickens outside your house that you feed every morning. You could ask: “Do our chickens look like the one in this story? Who feeds our chickens at home?” Or you could say: “look, he is playing with a ball. When you play outside our house, what do you like to play with?”"
-msgstr ""
-"Muonyeshe mtoto wako jinsi kile kinachotokea katika hadithi ni sawa au tofauti katika maisha yao. Kwa mfano, ikiwa kuna kuku kwenye hadithi, unaweza kumkumbusha mtoto wako kuwa  una kuku nje  ya nyumba yako na huwa unawalisha kila asubuhi, unaweza kuuliza: “Je kuku wetu wanafanana  na yule wa kwenye hadithi hii? Ni nani anayewalisha kuku wetu nyumbani? Au unaweza kusema: “Tazama anacheza mpira nje ya nyumba yetu,unapenda kucheza na nani?”\n"
-"\n"
+msgstr "Muonyeshe mtoto wako jinsi kile kinachotokea katika hadithi ni sawa au tofauti katika maisha yao. Kwa mfano, ikiwa kuna kuku kwenye hadithi, unaweza kumkumbusha mtoto wako kuwa una kuku nje ya nyumba yako na huwa unawalisha kila asubuhi, unaweza kuuliza: “Je kuku wetu wanafanana na yule wa kwenye hadithi hii? Ni nani anayewalisha kuku wetu nyumbani? Au unaweza kusema: “Tazama anacheza mpira nje ya nyumba yetu, unapenda kucheza na nani?”"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12629,8 +12640,117 @@ msgstr "Kujijali ni ujuzi muhimu kwenye malezi. Hembu tuangalie mawazo matatu ye
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**Take a pause**\n"
+"\n"
+"Taking a pause helps us to feel calmer in stressful moments."
+msgstr ""
+"**Chukua pumziko**\n"
+"Kupumzika husaidia kujiskia utulivu wakati unapokuwa na msongo wa mawazo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"All parents get frustrated, overwhelmed or upset. Taking a moment for yourself can help you to respond in a calmer way. \n"
+"When you are having a hard time, it’s okay to make sure your children are in a safe place and to give yourself a couple of minutes to step away and calm yourself. Even taking a few deep breaths makes a big difference. \n"
+"By staying calm instead of reacting strongly, you can also prevent a lot of problems!"
+msgstr ""
+"Wazazi wote wanachanganyikiwa, wanaelemewa au kukasirika. Kupata muda kwaajili yako inaweza kukusaidia kujibu kwa njia tulivu.\n"
+"Unapokuwa na wakati mgumu, ni vizuri kuhakikisha watoto wako wapo sehemu salama na kujipa dakika kadhaa kuwa peke yako na kujituliza. Hata kuvuta pumzi inaleta tofauti kubwa.\n"
+"Kukaa kwa kutulia badala ya kujibu kwa nguvu, unaweza kuzuia matatizo mengi!!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Be kind to yourself**\n"
+"\n"
+"Being a parent can be hard. Show yourself kindness and remind yourself of what you can be proud of."
+msgstr ""
+"**Uwe mwema kwako mwenyewe**\n"
+"Kuwa mzazi inaweza kuwa ngumu. Jitendee wema wewe mwenyewe na ujikumbushe kile unachoweza kujivunia.."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When we are feeling stressed or overwhelmed, we often can’t help but focus on everything that’s going wrong. But just because things are hard, doesn’t mean you have to be hard on yourself. \n"
+"Identify negative thoughts when they start and decide if they are true or helpful. If not, find positive thoughts to replace them with. \n"
+"After a challenging experience, set-back or “bad day”, think about what you would like to do differently next time and then move on. Rather focus on what you have done well, and what you can be proud of.\n"
+"For example, instead of “I am a bad parent” say “I am feeling overwhelmed right now, but I am doing the best I can and I will talk to a friend for support”."
+msgstr ""
+"Tunapokuwa na msongo wa mawazo au kuelemewa, mara nyingi hatuwezi kusaidia lakini tunafatilia zaidi kila kitu kilichoenda vibaya. Ingawa mambo ni magumu, haimaanishi uruhusu maumivu ndani yako.\n"
+"Fikiria juu ya mawazo yasiyofaa yanapoanza kukujia na angalia ikiwa ni ya kujenga au ya msaada. Kama sivyo, tafuta mawazo mazuri yafanye mbadala wake.\n"
+"Baada ya kupitia changamoto, kumbukumbu au “siku mbaya”, tafuta kitu cha tofauti ambacho ungependa kufanya wakati ujao na uendelee na maisha. Badala yake zingatia kile ulichofanya vizuri, na kile unachoweza kujivunia.\n"
+"Kwa mfano, badala ya “Mimi ni mzazi mbaya” sema “Najiskia kuelemewa sasa hivi, lakini najitahidi niwezavyo na nitazungumza na rafiki kwaajili ya msaada”."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Connect with others**\n"
+"\n"
+"Connect with your family and friends - you are not alone."
+msgstr ""
+"**Ungana na wengine**\n"
+"Ungana na familia na rafiki zako - hauko peke yako.."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Listen to learn more:"
 msgstr "Sikiliza ujifunze zaidi:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Being a parent is not always easy. Don’t hesitate to reach out for support when you need it. Sharing challenges with trusted people can lighten your emotional load and help you find solutions.\n"
+" Make an effort to share your feelings and experiences with trusted friends or family members. Honest conversations build trust and help you feel understood. This helps others to feel connected too. \n"
+" Even a quick phone call or a thoughtful text can reinforce your connections and let others know you care."
+msgstr ""
+"Kuwa mzazi sio rahisi kila wakati. Usiogope kutafuta msaada unapohitaji. Kuwashirikisha changamoto watu wanaoaminika inaweza kuleta wepesi wa mzigo wa hisia na kukusaidia kupata suluhisho.\n"
+"Fanya jitihada kuwashirikisha hisia zako na unayoyapitia marafiki na wanafamilia wanaoaminika. Mazungumzo yenye uaminifu hujenga uaminifu na kukusaidia kujiskia kueleweka. Hii husaidia wengine kuona wako pamoja.\n"
+"Hata kupiga simu kwa haraka au ujumbe wenye mawazo mazuri yanaweza kuimarisha umoja na kufanya wengine waone unajali.."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let’s see how f3_grandma manages to take care of herself when life gets a bit too much:"
+msgstr "Hebu tuangalie jinsi Bibi Musa anavyoweza kujitunza wakati mambo yanapokuwa mengi kwenye maisha:"
+
+#. type=data_list
+#. The string @data.characters.f3_grandma.name should not be translated.
+msgctxt "data_list"
+msgid "@data.characters.f3_grandma.name come play with me and my dolls!"
+msgstr ".................... njoo tucheze na mimi na mdoli wangu!!"
+
+#. type=data_list
+#. The string @data.characters.f3_girl.name. should not be translated.
+msgctxt "data_list"
+msgid "(🤔thinking) I am feeling so stressed. Let me take a deep breath… Phewww… Maybe I can finish preparing dinner and then take a few minutes to play with @data.characters.f3_girl.name. It will take my mind off all these worries."
+msgstr "(🤔kwakuwaza) Najiskia kuwa na msongo wa mawazo sana. Acha nivute pumzi ndefu… fyuuu… Labda naweza kumaliza kuandaa chakula cha jioni kisha nichukue dakika chache kucheza na Amina. Itaondoa wasiwasi huu wote kwenye akili yangu."
+
+#. type=data_list
+#. The string @data.characters.f3_girl.name, should not be translated.
+msgctxt "data_list"
+msgid "Alright, @data.characters.f3_girl.name, let me finish preparing lunch quickly, and then I will come play with you."
+msgstr "Sawa, Amina, ngoja nimalize kuandaa chakula cha mchana haraka, kisha nitakuja kucheza na wewe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "(🤔thinking) I am glad I took some time with my child. I feel a bit better and my mind feels clearer already. After dinner, I deserve a cup of tea by myself."
+msgstr "(🤔kwakuwaza) Ninafuraha nilichukua muda na mtoto wangu. Ninajiskia vizuri zaidi na akili yangu tayari iko safi. Baada ya chakula cha jioni, ninastahili kikombe cha chai nikiwa peke yangu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "(🤔thinking) What a day. I have a lot of things to do, but I am still standing and trying my best every day. Tomorrow, I should visit my friends so we can catch up and be reminded that we aren’t alone!"
+msgstr "(🤔kwakuwaza) ni siku nzuri. Nina mambo mengi ya kufanya, lakini bado nasimama na kujaribu niwezavyo kila siku. Kesho, ninapaswa kutembelea marafiki zangu ili tuweze kuonana na kutukumbusha kwamba hatuko peke yetu!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let’s reflect."
+msgstr "Hebu tutafakari."
+
+#. type=data_list
+#. The string @data.characters.f3_grandma.name should not be translated.
+msgctxt "data_list"
+msgid "How did @data.characters.f3_grandma.name feel at first?"
+msgstr "Bibi Musa alijiskiaje mwanzoni?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12643,9 +12763,107 @@ msgid "Okay"
 msgstr "Sawa"
 
 #. type=data_list
+#. The string @data.characters.f3_grandma.name’s should not be translated.
+msgctxt "data_list"
+msgid "Have another look at @data.characters.f3_grandma.name’s facial expression and thoughts. She is feeling stressed and worried."
+msgstr "Tazama tena sura na mawazo ya Bibi Musa. Anajiskia kuwa na msongo wa mawazo na wasiwasi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stressed"
+msgstr "Ana msongo wa mawazo"
+
+#. type=data_list
+#. The string @data.characters.f3_grandma.name should not be translated.
+msgctxt "data_list"
+msgid "Yes, @data.characters.f3_grandma.name feels stressed and worried about everything happening in her life."
+msgstr "Ndiyo, Bibi Musa anajiskia kuwa na msongo wa mawazo na kuwa na wasiwasi kuhusu kila kitu kinachotokea maishani mwake.."
+
+#. type=data_list
+#. The string @data.characters.f3_grandma.name should not be translated.
+msgctxt "data_list"
+msgid "What does @data.characters.f3_grandma.name do to manage her stress?"
+msgstr "Je, Bibi............... hufanya nini kukabiliana na msongo wa mawazo??"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Take a pause"
 msgstr "Tulia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yes, taking a pause helps in stressful moments. Even taking a few deep breaths can help us feel better and respond more calmly"
+msgstr "Ndiyo, kupumzika husaidia katika nyakati za msongo wa mawazo. Hata kuvuta pumzi kidogo kunaweza kutusaidia kujisikia vizuri na kujibu kwa utulivu zaidi"
+
+#. type=data_list
+#. The string @data.characters.f3_girl.name should not be translated.
+msgctxt "data_list"
+msgid "Play with @data.characters.f3_girl.name"
+msgstr "Cheza na Amina"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f3_grandma.name
+#.      @data.characters.f3_girl.name
+msgctxt "data_list"
+msgid "Exactly. Play helped @data.characters.f3_grandma.name to connect with @data.characters.f3_girl.name and forget about her worries for a moment."
+msgstr "Haswaa. Kucheza kulimsaidia Bibi Musa kuungana na Amina na kusahau wasiwasi wake kwa muda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reward herself"
+msgstr "Jizawadie"
+
+#. type=data_list
+#. The string @data.characters.f3_grandma.name should not be translated.
+msgctxt "data_list"
+msgid "Exactly, @data.characters.f3_grandma.name creates a moment in the evening to enjoy a cup of tea by herself. Having this moment also helps her to come up with other ways to get support."
+msgstr "Haswaa, Bibi Musa anatayarisha muda wa jioni kufurahia kikombe cha chai peke yake. Kuwa na wakati huu pia humsaidia kuja na njia zingine za kupata usaidizi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Plan to see a friend"
+msgstr "Panga kuonana na rafiki"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yes, when we isolate ourselves, problems will start to feel even bigger. Reaching out to a friend can help."
+msgstr "Ndiyo, tunapojitenga, matatizo yataanza kuwa makubwa zaidi. Kutembelea rafiki kunaweza kusaidia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You can use book activities to take a pause when you feel stressed."
+msgstr "Unaweza kutumia shughuli za kitabu kuchukua pumziko unapojiskia kuwa na msongo wa mawazo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "By sitting down with a book and focusing your attention on the pictures and story, you can forget about your worries for a moment."
+msgstr "Kwa kukaa chini na kitabu na kuzingatia mawazo yako juu ya picha na hadithi, unaweza kusahau kuhusu wasiwasi wako kwa muda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Connecting with others helps us feel less alone. You can use book activities to connect with your child and your family."
+msgstr "Kuungana na wengine hutusaidia kujiskia kutokuwa peke yetu. Unaweza kutumia shughuli za vitabu kuungana na mtoto wako na familia yako."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Having some fun is helpful for parents too. You can use stories to relax, laugh and have fun together."
+msgstr "Kuwa na furaha kuna manufaa kwa wazazi pia. Unaweza kutumia hadithi kupumzika, kucheka na kufurahia pamoja."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Taking care of yourself is an important parenting skill! \n"
+"For your home practice:\n"
+"🤝 When you notice you are feeling stressed, give yourself a moment to pause, breathe and regain your calm.\n"
+"📖 Share a book with your child or family to relax and have fun together.\n"
+"😌 Reward yourself by doing something you enjoy."
+msgstr ""
+"Kujitunza mwenyewe ni ujuzi muhimu kwenye malezi! \n"
+"Kwa mazoezi yako ya nyumbani:\n"
+"🤝 Unapoona una msongo wa mawazo, jipe ​​muda wa kutulia, kupumua na kurejesha utulivu wako.\n"
+"📖 Shiriki kitabu na mtoto wako au familia ili kupumzika na kufurahia pamoja \n"
+"😌 Jipatie zawadi kwa kufanya kitu unachofurahia."
 
 #. type=data_list
 msgctxt "data_list"
@@ -12656,6 +12874,15 @@ msgstr "KUJIUNGA"
 msgctxt "data_list"
 msgid "Welcome to the ParentApp for Kids community!"
 msgstr "Karibu katika Jumuiya ya Programu ya wazazi ya malezi ya watoto!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Well done for finishing the JOIN module! \n"
+"Here is a song to celebrate you!"
+msgstr ""
+"Umefanya vizuri kumaliza mada ya KUUNGANA\n"
+"Huu ni wimbo wa kukusheherekea!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13007,7 +13234,7 @@ msgstr "Kitambulisho cha mtumiaji"
 #. The string @local.user_id_name should not be translated.
 msgctxt "template"
 msgid "Paste the @local.user_id_name to import their account data."
-msgstr "Bandika kuingiza @local.user_id_name."
+msgstr "Bandika ...........kuingiza @local.user_id_name. akounti za taarifa"
 
 #. type=template
 msgctxt "template"
