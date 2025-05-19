@@ -30,11 +30,6 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Who would you like to be your guide?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
 msgid "Which state do you live in?"
 msgstr ""
 
@@ -177,7 +172,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option."
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option."
 msgstr ""
 
 #. type=text
@@ -203,6 +198,11 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Chris is a 38 year old dad. He used to lose his patience and get anxious when spending time with his kids. He worked as a family physician but now coaches parents on the same strategies that helped him."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Who would you like to be your guide?"
 msgstr ""
 
 #. type=text
@@ -236,11 +236,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Hmm. I don't know of any states beginning with that letter. Can you please try again?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Is your {child} a girl or a boy?"
 msgstr ""
 
 #. type=text
@@ -340,18 +335,6 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Boy"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Dani"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Chris"
 msgstr ""
 
 #. type=quick_replies
@@ -555,12 +538,6 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Go back and enter a different letter"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Spanish"
 msgstr ""
 
@@ -624,6 +601,24 @@ msgctxt "quick_replies"
 msgid "BACK"
 msgstr ""
 
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Dani"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Chris"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go back and enter a different letter"
+msgstr ""
+
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
@@ -682,18 +677,6 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "boy"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "dani"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "chris"
 msgstr ""
 
 #. type=arguments
@@ -897,12 +880,6 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "go back and enter a different letter"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "n"
 msgstr ""
 
@@ -970,4 +947,22 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "back"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "dani"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "chris"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go back and enter a different letter"
 msgstr ""
