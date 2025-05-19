@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-05-09 04:07\n"
+"PO-Revision-Date: 2025-05-19 17:03\n"
 
 #. type=text
 msgctxt "text"
@@ -38,11 +38,6 @@ msgstr "¿@fields.child_nickname es una niña o un niño?"
 msgctxt "text"
 msgid "Is your child a girl or a boy?"
 msgstr "¿Su hijo es niña o niño?"
-
-#. type=text
-msgctxt "text"
-msgid "Who would you like to be your guide?"
-msgstr "¿Quién te gustaría que fuera tu guía?"
 
 #. type=text
 msgctxt "text"
@@ -188,11 +183,6 @@ msgstr "✅ Tu información personal está segura y es privada. Para leer nuestr
 
 #. type=text
 msgctxt "text"
-msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option."
-msgstr "¿Estás seguro de que no quieres recibir estos mensajes? Si no quieres recibir más mensajes, escribe \"NO\". Si te has equivocado, presiona REGRESAR y elige otra opción."
-
-#. type=text
-msgctxt "text"
 msgid "If you ever decide to participate in the programme, type HELLO. "
 msgstr "Si en algún momento decides participar en el programa, solo escribe HOLA. "
 
@@ -215,6 +205,11 @@ msgstr "Dani tiene 35 años y es madre de 3. Es psicóloga clínica y la primera
 msgctxt "text"
 msgid "Chris is a 38 year old dad. He used to lose his patience and get anxious when spending time with his kids. He worked as a family physician but now coaches parents on the same strategies that helped him."
 msgstr "Chris es un padre de 38 años. Solía perder la paciencia y ponerse ansioso cuando pasaba tiempo con sus hijos. Trabajaba como médico familiar, pero ahora acompaña a madres, padres y personas cuidadoras con las mismas estrategias que le ayudaron a él."
+
+#. type=text
+msgctxt "text"
+msgid "Who would you like to be your guide?"
+msgstr "¿Quién te gustaría que fuera tu guía?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -248,11 +243,6 @@ msgstr "Lo siento, @fields.first_user_name. No entiendo. Por favor, introduce la
 msgctxt "text"
 msgid "Hmm. I don't know of any states beginning with that letter. Can you please try again?"
 msgstr "Hmmm. No conozco ningún Estado que empiece con esa letra. ¿Puedes volver a intentarlo?"
-
-#. type=text
-msgctxt "text"
-msgid "Is your {child} a girl or a boy?"
-msgstr "¿Tu {child} es niña o niño?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -352,18 +342,6 @@ msgstr "Niña"
 msgctxt "quick_replies"
 msgid "Boy"
 msgstr "Niño"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Dani"
-msgstr "Dani"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Chris"
-msgstr "Chris"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -566,12 +544,6 @@ msgstr "Quintana Roo"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Go back and enter a different letter"
-msgstr "Regresa y selecciona otra letra"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Spanish"
 msgstr "Español"
 
@@ -635,6 +607,24 @@ msgctxt "quick_replies"
 msgid "BACK"
 msgstr "REGRESAR"
 
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Dani"
+msgstr "Dani"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Chris"
+msgstr "Chris"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go back and enter a different letter"
+msgstr "Regresa y selecciona otra letra"
+
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
@@ -694,18 +684,6 @@ msgstr "niña"
 msgctxt "arguments"
 msgid "boy"
 msgstr "niño"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "dani"
-msgstr "Dani"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "chris"
-msgstr "Chris"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -908,12 +886,6 @@ msgstr "Quintana Roo"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "go back and enter a different letter"
-msgstr "Regresa y selecciona otra letra"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "n"
 msgstr "n"
 
@@ -982,4 +954,22 @@ msgstr "finalizar"
 msgctxt "arguments"
 msgid "back"
 msgstr "REGRESAR"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "dani"
+msgstr "Dani"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "chris"
+msgstr "Chris"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go back and enter a different letter"
+msgstr "Regresa y selecciona otra letra"
 
