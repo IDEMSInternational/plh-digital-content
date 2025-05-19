@@ -324,7 +324,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "🎉You did it!🎉 You have completed the course @results.name and earned yourself a certificate. Congratulations!"
+msgid "🎉Yahoo!🎉 Great work, @fields.first_user_name. Here's your course certificate to keep and share."
 msgstr ""
 
 #. type=text
@@ -1001,28 +1001,14 @@ msgid "What would you like change?"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Your current media setting is Text, Images, and Videos."
+msgid "Current Status: Your name is @fields.first_user_name."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Your current media setting is Text, Images, and Audio."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Your current media setting is Text and Images Only."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Your current media setting is"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You didn't provide this info."
+msgid "You didn't tell us your name."
 msgstr ""
 
 #. type=text
@@ -1032,106 +1018,85 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You didn't tell us if you are a woman or a man."
+msgid "You didn't tell us your gender."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that you are a Woman."
+msgid "Current Status: You are a Woman."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that you are a Man."
+msgid "Current Status: You are a Man."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that you are a"
+msgid "Current Status: You are a"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Would you like to update your gender?"
+msgid "You didn't tell us your relationship status."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You didn't tell us what's your relationship status."
+msgid "Current Status: You are Single (not in a relationship)."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that you are Single (not in a relationship)."
+msgid "Current Status: You are Married."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that you are Married."
+msgid "Current Status: You are Partnered but not married."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that you are Partnered but not married."
+msgid "Current Status: You are Divorced or separated."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that you are Divorced or separated."
+msgid "Current Status: You are Widowed."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that you are Widowed."
+msgid "Current Status: You are"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that you are"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Would you like to change your relationship status?"
+msgid "You didn't provide this info."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You told us that @fields.child_nickname is @fields.child_age year old."
+msgid "Current Status: @fields.child_nickname is @fields.child_age year old."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You told us that your {child} is @fields.child_age year old."
+msgid "Current Status: your {child} is @fields.child_age year old."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Would you like to update the age of @fields.child_nickname?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Would you like to update the age of your {child}?"
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Your child's nickname is @fields.child_nickname."
+msgid "Current Status: Your child's name is @fields.child_nickname."
 msgstr ""
 
 #. type=text
 msgctxt "text"
 msgid "You didn't provide a nickname for your child."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Would you like to update it?"
 msgstr ""
 
 #. type=text
@@ -1159,34 +1124,40 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You told us that @fields.child_nickname is a Girl."
+msgid "Current Status: @fields.child_nickname is a Girl."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that your {child} is a Girl."
-msgstr ""
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "You told us that @fields.child_nickname is a Boy."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "You told us that your {child} is a Boy."
+msgid "Current Status: your {child} is a Girl."
 msgstr ""
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You told us that @fields.child_nickname is a"
+msgid "Current Status: @fields.child_nickname is a Boy."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You told us that your {child} is a"
+msgid "Current Status: your {child} is a Boy."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Current Status: @fields.child_nickname is a"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Current Status: your {child} is a"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your partner in parenting is @fields.avatar_name."
 msgstr ""
 
 #. type=text
@@ -1217,7 +1188,65 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
+msgid "You completed the ParentText demo. Type {RESET} and then {FACSTART} to re-start from the beginning."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Here's your certificate for the course @results.name!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Oops something went wrong."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any course yet."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have received the following certificate:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like me to print it again?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can come back here anytime to get it."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Which certificate should I re-print for you?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.goals_compl) +1). None, return to the main menu"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "I'll make your certificate with the name @fields.certificate_name."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us which name you'd like on your certificate."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Is that right?"
 msgstr ""
 
 #. type=text
@@ -1226,8 +1255,9 @@ msgid "It looks like this is not a good time."
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Congratulations on finishing your first course!"
+msgid "🎉You did it!🎉 You have completed the course @fields.print_goal_name and earned yourself a certificate. Congratulations!"
 msgstr ""
 
 #. type=text
@@ -1513,6 +1543,12 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Reprint my Certificates"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Retake completed lessons"
 msgstr ""
 
@@ -1537,7 +1573,13 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Change the way I receive content"
+msgid "Change my name"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my guide"
 msgstr ""
 
 #. type=quick_replies
@@ -1568,6 +1610,24 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Change my child's gender"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, return to the main menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, change my name"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, that's right!"
 msgstr ""
 
 #. type=variables
@@ -1836,6 +1896,12 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "reprint my certificates"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "retake completed lessons"
 msgstr ""
 
@@ -1860,7 +1926,13 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "change the way i receive content"
+msgid "change my name"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my guide"
 msgstr ""
 
 #. type=arguments
@@ -1903,4 +1975,22 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "no n nope"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, return to the main menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, change my name"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes, that's right!"
 msgstr ""
