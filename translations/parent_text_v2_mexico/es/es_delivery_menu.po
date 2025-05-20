@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-05-08 22:09\n"
+"PO-Revision-Date: 2025-05-19 17:03\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -331,12 +331,6 @@ msgstr "Recuerda que siempre puedes volver a Crianza con Conciencia + para obten
 msgctxt "text"
 msgid "Completing ParentText is an important achievement. Well done! New courses might be available soon. As they become available, you'll receive a notification through this channel."
 msgstr "Completar Crianza con Conciencia + es un logro importante. ¡Bien hecho! Es posible que pronto tengamos cursos nuevos disponibles. Cuando estén disponibles, recibirás una notificación por este medio."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "🎉You did it!🎉 You have completed the course @results.name and earned yourself a certificate. Congratulations!"
-msgstr "🎉¡Lo lograste!🎉 Completaste el curso @results.name y obtuviste un reconocimiento. ¡Felicidades!"
 
 #. type=text
 msgctxt "text"
@@ -1008,23 +1002,8 @@ msgstr "¿Qué te gustaría cambiar?"
 
 #. type=text
 msgctxt "text"
-msgid "Your current media setting is Text, Images, and Videos."
-msgstr "Tu configuración actual para los medios de comunicación es Texto, Imágenes y Videos."
-
-#. type=text
-msgctxt "text"
-msgid "Your current media setting is Text, Images, and Audio."
-msgstr "Tu configuración actual para los medios de comunicación es Texto, Imágenes y Audio."
-
-#. type=text
-msgctxt "text"
-msgid "Your current media setting is Text and Images Only."
-msgstr "Tu configuración actual para los medios de comunicación es Solo Texto e Imágenes."
-
-#. type=text
-msgctxt "text"
-msgid "Your current media setting is"
-msgstr "Tu configuración actual para los medios de comunicación es"
+msgid "Would you like to change it?"
+msgstr "¿Quieres hacer un cambio?"
 
 #. type=text
 msgctxt "text"
@@ -1033,112 +1012,8 @@ msgstr "No has proporcionado esta información."
 
 #. type=text
 msgctxt "text"
-msgid "Would you like to change it?"
-msgstr "¿Quieres hacer un cambio?"
-
-#. type=text
-msgctxt "text"
-msgid "You didn't tell us if you are a woman or a man."
-msgstr "No nos has dicho tu sexo."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are a Woman."
-msgstr "Nos has dicho que eres Mujer."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are a Man."
-msgstr "Nos has dicho que eres Hombre."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are a"
-msgstr "Nos has dicho que eres"
-
-#. type=text
-msgctxt "text"
-msgid "Would you like to update your gender?"
-msgstr "¿Quieres actualizar tu género?"
-
-#. type=text
-msgctxt "text"
-msgid "You didn't tell us what's your relationship status."
-msgstr "No nos has dicho cuál es tu estado civil."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are Single (not in a relationship)."
-msgstr "Nos has dicho que estás Soltero o Soltera (no tienes pareja)."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are Married."
-msgstr "Nos has dicho que estás Casado o Casada."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are Partnered but not married."
-msgstr "Nos has dicho que estás En Pareja pero No Casado."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are Divorced or separated."
-msgstr "Nos has dicho que estás Divorciado o Separado."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are Widowed."
-msgstr "Nos has dicho que estás Viudo o Viuda."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that you are"
-msgstr "Nos has dicho que estás"
-
-#. type=text
-msgctxt "text"
-msgid "Would you like to change your relationship status?"
-msgstr "¿Quieres cambiar tu estado civil?"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "You told us that @fields.child_nickname is @fields.child_age year old."
-msgstr "Nos has dicho que @fields.child_nickname tiene @fields.child_age años."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "You told us that your {child} is @fields.child_age year old."
-msgstr "Nos has dicho que tu {child} tiene @fields.child_age años."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Would you like to update the age of @fields.child_nickname?"
-msgstr "¿Quieres actualizar la edad de @fields.child_nickname?"
-
-#. type=text
-msgctxt "text"
-msgid "Would you like to update the age of your {child}?"
-msgstr "¿Quieres actualizar la edad de tu {child}?"
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Your child's nickname is @fields.child_nickname."
-msgstr "El apodo o nombre de cariño de tu niña o niño es @fields.child_nickname."
-
-#. type=text
-msgctxt "text"
 msgid "You didn't provide a nickname for your child."
 msgstr "No has agregado un apodo o nombre de cariño para tu niña o niño."
-
-#. type=text
-msgctxt "text"
-msgid "Would you like to update it?"
-msgstr "¿Quieres actualizarlo?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1161,39 +1036,6 @@ msgstr "No nos has dicho el género de @fields.child_nickname."
 msgctxt "text"
 msgid "You didn't tell us the gender of your {child}."
 msgstr "No nos has dicho el género de tu {child}."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "You told us that @fields.child_nickname is a Girl."
-msgstr "Nos has dicho que @fields.child_nickname es una Niña."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that your {child} is a Girl."
-msgstr "Nos has dicho que tu {child} es una Niña."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "You told us that @fields.child_nickname is a Boy."
-msgstr "Nos has dicho que @fields.child_nickname es un Niño."
-
-#. type=text
-msgctxt "text"
-msgid "You told us that your {child} is a Boy."
-msgstr "Nos has dicho que tu {child} es un Niño."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "You told us that @fields.child_nickname is a"
-msgstr "Nos has dicho que @fields.child_nickname es"
-
-#. type=text
-msgctxt "text"
-msgid "You told us that your {child} is a"
-msgstr "Nos has dicho que tu {child} es"
 
 #. type=text
 msgctxt "text"
@@ -1223,18 +1065,8 @@ msgstr "*DÍA @fields.curr_demo_day*"
 
 #. type=text
 msgctxt "text"
-msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
-msgstr "Completaste la demostración de Crianza con Conciencia +. Escribe REINICIAR y luego {FACSTART} para volver a empezar desde el principio."
-
-#. type=text
-msgctxt "text"
 msgid "It looks like this is not a good time."
 msgstr "Parece que no es un buen momento."
-
-#. type=text
-msgctxt "text"
-msgid "Congratulations on finishing your first course!"
-msgstr "¡Felicidades por terminar tu primer curso!"
 
 #. type=text
 msgctxt "text"
@@ -1539,12 +1371,6 @@ msgstr "Cambiar mi perfil"
 msgctxt "quick_replies"
 msgid "Stop receiving the messages"
 msgstr "Dejar de recibir mensajes"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Change the way I receive content"
-msgstr "Cambiar la forma en que recibo el contenido"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1862,12 +1688,6 @@ msgstr "cambiar mi perfil"
 msgctxt "arguments"
 msgid "stop receiving the messages"
 msgstr "dejar de recibir mensajes"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "change the way i receive content"
-msgstr "cambiar la forma en que recibo el contenido"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
