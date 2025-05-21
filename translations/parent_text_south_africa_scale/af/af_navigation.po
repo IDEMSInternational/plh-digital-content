@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2025-05-20 11:31\n"
+"PO-Revision-Date: 2025-05-20 17:33\n"
 
 #. type=text
 msgctxt "text"
@@ -53,6 +53,11 @@ msgstr "In watter provinsie woon jy?"
 msgctxt "text"
 msgid "Please select your language:"
 msgstr "Kies asseblief jou taal:"
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
+msgstr "Ons hoop ons sien jou gou weer, en ons hoop jy het 'n lekker en rustige dag!"
 
 #. type=text
 msgctxt "text"
@@ -250,11 +255,6 @@ msgstr "Jy het nie toestemming gegee om aan hierdie program deel te neem nie. Wi
 msgctxt "text"
 msgid "If you ever decide to participate in the programme, type HELLO. "
 msgstr "As jy ooit besluit om aan die program deel te neem, tik HALLO. "
-
-#. type=text
-msgctxt "text"
-msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
-msgstr "Ons hoop ons sien jou gou weer, en ons hoop jy het 'n lekker en rustige dag!"
 
 #. type=text
 msgctxt "text"
@@ -465,21 +465,6 @@ msgstr "Wat wil jy doen?"
 
 #. type=text
 msgctxt "text"
-msgid "What kind of activity do you want to try with your teen?"
-msgstr "Watter tipe aktiwiteit wil jy met jou tiener probeer?"
-
-#. type=text
-msgctxt "text"
-msgid "What kind of activity do you want to try with your baby?"
-msgstr "Watter tipe aktiwiteit wil jy met jou baba probeer?"
-
-#. type=text
-msgctxt "text"
-msgid "What kind of activity do you want to try with your child?"
-msgstr "Watter tipe aktiwiteit wil jy met jou kind probeer?"
-
-#. type=text
-msgctxt "text"
 msgid "Do you want to begin now or tomorrow?"
 msgstr "Wil jy nou begin, of môre?"
 
@@ -511,11 +496,6 @@ msgstr "ParentText het begin. Jy is net 5 dae daarvan weg om jou ouerskapsertifi
 
 #. type=text
 msgctxt "text"
-msgid "Press a number on your keypad:"
-msgstr "Druk 'n nommer op jou sleutelbord:"
-
-#. type=text
-msgctxt "text"
 msgid "1. Yes"
 msgstr "1. Ja"
 
@@ -523,11 +503,6 @@ msgstr "1. Ja"
 msgctxt "text"
 msgid "2. Remind me tomorrow"
 msgstr "2. Herinner my môre"
-
-#. type=text
-msgctxt "text"
-msgid "You’re off track! Do you want to complete your previous unifinished lesson or start a new lesson?"
-msgstr "Jy is van koers af! Wil jy jou vorige onvoltooide les voltooi of 'n nuwe les begin?"
 
 #. type=text
 msgctxt "text"
@@ -551,6 +526,11 @@ msgstr "Jy's amper klaar met hierdie kursus! Jy het net 1 onvoltooide les. Wat w
 
 #. type=text
 msgctxt "text"
+msgid "Press a number on your keypad:"
+msgstr "Druk 'n nommer op jou sleutelbord:"
+
+#. type=text
+msgctxt "text"
 msgid "1. Finish this lesson and earn my course certificate"
 msgstr "1. Voltooi hierdie les en verdien my kursussertifikaat"
 
@@ -567,23 +547,8 @@ msgstr "1. Voltooi onvoltooide lesse om my kursussertifikaat te verdien"
 
 #. type=text
 msgctxt "text"
-msgid "It's time to get started on ParentText. Are you ready? "
-msgstr "Dis tyd om te begin op ParentText. Is jy gereed? "
-
-#. type=text
-msgctxt "text"
-msgid "Press a number on your keypad: "
-msgstr "Druk 'n nommer op jou sleutelbord: "
-
-#. type=text
-msgctxt "text"
 msgid "1. Yes!"
 msgstr "1. Ja!"
-
-#. type=text
-msgctxt "text"
-msgid "I've got another lesson ready for you! Are you ready?"
-msgstr "Ek het nog 'n les gereed vir jou! Is jy gereed?"
 
 #. type=text
 msgctxt "text"
@@ -1126,11 +1091,6 @@ msgstr "*DAG @fields.curr_demo_day*"
 
 #. type=text
 msgctxt "text"
-msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
-msgstr "Jy het die ParentText-demo voltooi. Tik HERSTEL en dan {FACSTART} om weer van die begin af te begin."
-
-#. type=text
-msgctxt "text"
 msgid "How can I help?"
 msgstr "Hoe kan ek help?"
 
@@ -1486,8 +1446,8 @@ msgstr "IsiXhosa"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "NEXT"
-msgstr "VOLGENDE"
+msgid "BACK"
+msgstr "TERUG"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1504,8 +1464,8 @@ msgstr "Nee"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "BACK"
-msgstr "TERUG"
+msgid "NEXT"
+msgstr "VOLGENDE"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1560,30 +1520,6 @@ msgstr "Gaan na Hoofkieslys"
 msgctxt "quick_replies"
 msgid "Exit menu"
 msgstr "Gaan uit kieslys"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Something Quick"
-msgstr "Iets Vinnigs"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Something Active"
-msgstr "Iets Aktiefs"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Something Calm"
-msgstr "Iets Kalms"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Something for the whole family"
-msgstr "Iets vir die hele gesin"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -2043,6 +1979,30 @@ msgstr "isiXhosa"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "yes"
+msgstr "ja"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr "uITGAAN"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no"
+msgstr "nee"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "back"
+msgstr "terug"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "yes y yeah yep"
 msgstr "ja j jip ja"
 
@@ -2127,36 +2087,6 @@ msgstr "nee n nee nah"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "yes"
-msgstr "ja"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "no"
-msgstr "nee"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "exit"
-msgstr "uITGAAN"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "back"
-msgstr "terug"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "study"
-msgstr "study"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "i’m done for today"
 msgstr "ek's klaar vir vandag"
 
@@ -2207,30 +2137,6 @@ msgstr "gaan môre voort met my vordering"
 msgctxt "arguments"
 msgid "exit menu"
 msgstr "gaan uit kieslys"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "something quick"
-msgstr "iets vinnigs"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "something active"
-msgstr "iets aktiefs"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "something calm"
-msgstr "iets kalms"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "something for the whole family"
-msgstr "iets vir die hele gesin"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
