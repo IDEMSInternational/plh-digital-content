@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-05-22 19:50\n"
+"PO-Revision-Date: 2025-05-23 01:49\n"
 
 #. type=text
 msgctxt "text"
@@ -2379,6 +2379,11 @@ msgstr "💡Inicia una conversación con tu {child} sobre su cuerpo, sus funcion
 
 #. type=text
 msgctxt "text"
+msgid "🔑 Answer any questions from your {child} honestly. You can do this to keep our girls and boys safe!🌷"
+msgstr "🔑 Responde, con sinceridad, a las preguntas que te haga tu {child}. ¡Haciendo esto puedes aportar a que nuestras niñas y niños se mantengan a salvo!🌷"
+
+#. type=text
+msgctxt "text"
 msgid "💚 Talk with confidence about the body, especially private parts. Initially, it may feel awkward, but the more you do it, the more natural and comfortable it will become for both. Your {child} will learn how to talk about their body and can communicate with you if anything happens."
 msgstr "💚 Habla con confianza sobre el cuerpo, especialmente de las partes privadas. Al principio, puede ser incómodo, pero entre más lo hagas, más natural y cómodo resultará para ustedes. Tu {child} aprenderá a hablar sobre su cuerpo y podrá comunicarse contigo si algo le llega a suceder."
 
@@ -2397,6 +2402,11 @@ msgstr "Bien hecho por completar tu objetivo de apoyar el desarrollo de tu {chil
 msgctxt "text"
 msgid "It can be difficult to support your child’s development, and that’s okay. 💛"
 msgstr "Apoyar el desarrollo de tu niña o niño puede ser algo difícil, y eso está bien, no pasa nada. 💛"
+
+#. type=text
+msgctxt "text"
+msgid "Congratulations on making some progress. It seems like supporting your child’s development may still be a challenge.\rKeep trying. When parents support their girls or boys’ development, they help them live a safe and healthy life."
+msgstr "Felicidades por tus avances en este curso. Parece que apoyar el desarrollo de tu niña o niño sigue representando un reto.\rSigue intentándolo. Cuando las madres, los padres y las personas cuidadoras apoyan el desarrollo de sus niñas y niños, les ayudan a tener una vida segura y saludable."
 
 #. type=text
 msgctxt "text"
@@ -2434,6 +2444,39 @@ msgstr "Aunque sigues haciéndolo muy bien, has reportado que tienes menos confi
 msgctxt "text"
 msgid "Supporting your {child}’s development is important. "
 msgstr "Apoyar el desarrollo de tu {child} es importante. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "How are activities to help @fields.child_nickname’s development going?"
+msgstr "¿Cómo vas con las actividades para apoyar al desarrollo de @fields.child_nickname?"
+
+#. type=text
+msgctxt "text"
+msgid "How are activities to help your {child}’s development going?"
+msgstr "¿Cómo vas con las actividades para apoyar al desarrollo de tu {child}?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Excellent! Keep up the good work in supporting @fields.child_nickname’s development."
+msgstr "¡Excelente! Sigue así, apoyando el desarrollo de @fields.child_nickname."
+
+#. type=text
+msgctxt "text"
+msgid "Excellent! Keep up the good work in supporting your {child}’s development."
+msgstr "¡Excelente! Sigue así, apoyando el desarrollo de tu {child}."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "I am sorry to hear that activities to help @fields.child_nickname’s development are not going well."
+msgstr "Lamento escuchar que las actividades para apoyar el desarrollo de @fields.child_nickname no van bien."
+
+#. type=text
+msgctxt "text"
+msgid "I am sorry to hear that activities to help your {child}’s development are not going well."
+msgstr "Lamento escuchar que las actividades para apoyar el desarrollo de tu {child} no van bien."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -2559,6 +2602,11 @@ msgstr "¡Felicidades! 🎉 Has avanzado mucho desde que empezaste el curso de C
 
 #. type=text
 msgctxt "text"
+msgid "🌷Excellent! Keep up the good work in creating household rules and routines with your boy or girl."
+msgstr "🌷 ¡Excelente! Sigue así, creando reglas y estableciendo rutinas con tu niña, niño o adolescente."
+
+#. type=text
+msgctxt "text"
 msgid "😔I am sorry to hear that involving your girl or boy in creating household rules and routines is not going well. "
 msgstr "😔 Lamentamos escuchar que la participación de tu niña o niño en la creación de reglas y rutinas en la casa no va bien. "
 
@@ -2651,6 +2699,17 @@ msgstr "Felicidades por tus avances. 🎉 Es normal que nos resulte difícil gui
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "How is managing @fields.child_nickname behaviour going?"
+msgstr "¿Cómo va el intentar guiar el buen comportamiento de @fields.child_nickname?"
+
+#. type=text
+msgctxt "text"
+msgid "How is managing your {child} behaviour going?"
+msgstr "¿Cómo va el intentar guiar el buen comportamiento de tu {child}?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "Excellent! Keep up the good work in managing @fields.child_nickname behaviour."
 msgstr "¡Excelente! Sigue así, guiando el buen comportamiento de @fields.child_nickname."
 
@@ -2697,15 +2756,31 @@ msgid "🎉  Congratulations! 🎉 You’ve made improvements since you started 
 msgstr "🎉 ¡Felicidades! 🎉Has mejorado mucho desde que empezaste este curso. ¡Tus esfuerzos están dando resultados!"
 
 #. type=text
+msgctxt "text"
+msgid "📺 Excellent! Keep up the good work in keeping your child safe online and offline."
+msgstr "📺 ¡Excelente! Sigue así, trabajando para mantener la seguridad de tu niña, niño o adolescente dentro y fuera de internet."
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It can be hard to know how to keep @fields.child_nickname healthy and safe, especially when we are so busy ourselves. 💙"
 msgstr "Puede ser difícil saber cómo hacerle para mantener a @fields.child_nickname con salud y a salvo, sobre todo cuando estamos con mil cosas en la cabeza. 💙"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "💡If you need support, consider reaching out to @fields.child_nickname’s school, family or friends who are good with technology."
+msgstr "💡 Si necesitas apoyo, considera la posibilidad de pedir ayuda en la escuela de @fields.child_nickname, con la familia o con amistades a quienes se les facilité la tecnología."
+
+#. type=text
 msgctxt "text"
 msgid "It can be hard to know how to keep your {child} healthy and safe, especially when we are so busy ourselves. 💙"
 msgstr "Puede ser difícil saber cómo hacerle para mantener a tu {child} con salud y a salvo, sobre todo cuando estamos con mil cosas en la cabeza. 💙"
+
+#. type=text
+msgctxt "text"
+msgid "💡If you need support, consider reaching out to your {child}’s school, family or friends who are good with technology."
+msgstr "💡 Si necesitas apoyo, considera la posibilidad de pedir ayuda en la escuela de tu {child}, con la familia o con amistades a quienes se les facilite la tecnología."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -2728,6 +2803,17 @@ msgstr "⭐ Felicidades por tus avances. Parece que saber cómo mantener la segu
 msgctxt "text"
 msgid "⭐ Congratulations on making some progress. It seems like knowing how to keep your {child} safe and healthy online and offline is still a challenge."
 msgstr "⭐ Felicidades por tus avances. Parece que saber cómo mantener la seguridad y salud de tu {child}, dentro y fuera del internet, sigue representando un reto para ti."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "How is keeping @fields.child_nickname safe online and offline going?"
+msgstr "¿Cómo vas con procurar la seguridad de @fields.child_nickname en sus interacciones virtuales y no virtuales?"
+
+#. type=text
+msgctxt "text"
+msgid "How is keeping your {child} safe online and offline going?"
+msgstr "¿Cómo vas con procurar la seguridad de tu {child} en sus interacciones virtuales y no virtuales?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -2888,6 +2974,11 @@ msgstr "¡Es bueno escucharlo! 🎉"
 
 #. type=text
 msgctxt "text"
+msgid "That is okay. We will learn more about taking time for ourselves today."
+msgstr "Está bien. Hoy aprenderemos más sobre cómo tomar tiempo para sí misma o mismo."
+
+#. type=text
+msgctxt "text"
 msgid "Before we get started on your course to have a healthy relationship with your partner, please answer this question:"
 msgstr "Antes de que empecemos el curso para aprender sobre la responsabilidad y el involucramiento en la crianza compartida, responde a esta pregunta:"
 
@@ -3030,6 +3121,11 @@ msgstr "Felicidades por tu progreso en este curso. Sin embargo, parece que el re
 msgctxt "text"
 msgid "You were already excelling at sharing parenting responsibilities before ParentText. It’s great that you’re able to keep up the excellent effort!"
 msgstr "Antes de Crianza con Conciencia + ya destacabas por compartir las responsabilidades de la crianza. ¡Es increíble que puedas mantener ese gran esfuerzo!"
+
+#. type=text
+msgctxt "text"
+msgid "How is sharing tasks going?"
+msgstr "¿Cómo vas con el reparto de actividades y tareas del hogar?"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
