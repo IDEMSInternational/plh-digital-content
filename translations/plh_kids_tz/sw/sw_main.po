@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-05-23 13:50\n"
+"PO-Revision-Date: 2025-05-23 20:01\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -697,11 +697,6 @@ msgstr "Rasilimali za ziada"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Essential Tools"
-msgstr "Nyenzo Muhimu"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Songs"
 msgstr "Nyimbo"
 
@@ -719,11 +714,6 @@ msgstr "Unapojiskia tofauti, kutokuwa salama ndani ya familia, kwa mwenza, mtoto
 msgctxt "data_list"
 msgid "Ideas for book activities"
 msgstr "Mawazo ya shughuli za kitabu"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "More ideas for book activities"
-msgstr "Mawazo zaidi ya shughuli za kitabu"
 
 #. type=data_list
 msgctxt "data_list"
@@ -747,18 +737,23 @@ msgstr "Kufanya hadithi za vitabu kuwa hai"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Using books in playful ways"
-msgstr "Kutumia vitabu kwa njia ya kucheza"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Using books to talk about feelings"
 msgstr "Kutumia vitabu kuzungumza juu ya hisia"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "More ideas for book activities"
+msgstr "Mawazo zaidi ya shughuli za kitabu"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Prepare"
 msgstr "Andaa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Using books in playful ways"
+msgstr "Kutumia vitabu kwa njia ya kucheza"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13366,16 +13361,6 @@ msgstr "Mipangilio"
 
 #. type=template
 msgctxt "template"
-msgid "Learning Through Play"
-msgstr "Kujifunza kupitia kucheza"
-
-#. type=template
-msgctxt "template"
-msgid "Essential Tools"
-msgstr "Nyenzo Muhimu"
-
-#. type=template
-msgctxt "template"
 msgid "This week"
 msgstr "Wiki hii"
 
@@ -13416,11 +13401,6 @@ msgstr "Orodha"
 
 #. type=template
 msgctxt "template"
-msgid "General Feedback Form"
-msgstr "Fomu ya mrejesho kwa Jumla"
-
-#. type=template
-msgctxt "template"
 msgid "XML Form Value"
 msgstr "Thamani ya Fomu ya XML"
 
@@ -13428,11 +13408,6 @@ msgstr "Thamani ya Fomu ya XML"
 msgctxt "template"
 msgid "Continue"
 msgstr "Endelea"
-
-#. type=template
-msgctxt "template"
-msgid "Add your favourite Essential Tools to your list so you can easily find and enjoy them anytime!"
-msgstr "Ongeza Zana Muhimu unazopenda kwenye orodha yako ili uweze kuzipata kwa urahisi na kuzifurahia wakati wowote!"
 
 #. type=template
 msgctxt "template"
@@ -13455,6 +13430,14 @@ msgid "Designer"
 msgstr "Mbunifu"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @local.click_history_field_name
+#.      @local.now
+msgctxt "template"
+msgid "@fields.@local.click_history_field_name ;  @local.now"
+msgstr "@fields.@local.click_history_field_name ;  @local.now"
+
+#. type=template
 msgctxt "template"
 msgid "Start Reading"
 msgstr "Anza kusoma"
@@ -13470,16 +13453,6 @@ msgstr "Ukurasa unaotumika wa ndani:@local.active_page"
 msgctxt "template"
 msgid "Last page: @local.last_page"
 msgstr "Ukurasa wa mwisho:@local.last_page"
-
-#. type=template
-msgctxt "template"
-msgid "Additional Resources"
-msgstr "Rasilimali za ziada"
-
-#. type=template
-msgctxt "template"
-msgid "play"
-msgstr "Cheza"
 
 #. type=template
 msgctxt "template"
@@ -13500,6 +13473,11 @@ msgstr "Mada"
 msgctxt "template"
 msgid "Home Activities"
 msgstr "Shughuli za nyumbani"
+
+#. type=template
+msgctxt "template"
+msgid "Library"
+msgstr "Maktaba"
 
 #. type=template
 #. The string @global.app_name should not be translated.
@@ -13550,16 +13528,6 @@ msgstr "Landanisha..."
 
 #. type=template
 msgctxt "template"
-msgid "Done"
-msgstr "Imefanyika"
-
-#. type=template
-msgctxt "template"
-msgid "arrow-forward"
-msgstr "mshale wa kwenda mbele"
-
-#. type=template
-msgctxt "template"
 msgid "Submit"
 msgstr "Tuma"
 
@@ -13601,21 +13569,6 @@ msgstr "Ongeza vitu unavyovipenda kwenye orodha yako ya shughuli za kupata utuli
 
 #. type=template
 msgctxt "template"
-msgid "default"
-msgstr "chaguo-msingi"
-
-#. type=template
-msgctxt "template"
-msgid "Library"
-msgstr "Maktaba"
-
-#. type=template
-msgctxt "template"
-msgid "books"
-msgstr "vitabu"
-
-#. type=template
-msgctxt "template"
 msgid "Resource Centre"
 msgstr "Kituo cha Rasilimali"
 
@@ -13623,16 +13576,6 @@ msgstr "Kituo cha Rasilimali"
 msgctxt "template"
 msgid "Add your favourite resources to your list so you can easily find and enjoy them anytime!"
 msgstr "Ongeza vitu unavyovipenda kwenye orodha yako ili iwe rahisi kuvipata na kuvifurahia kwa urahisi wakati wowote!!"
-
-#. type=template
-msgctxt "template"
-msgid "Songs"
-msgstr "Nyimbo"
-
-#. type=template
-msgctxt "template"
-msgid "songs"
-msgstr "nyimbo"
 
 #. type=template
 msgctxt "template"
@@ -13659,8 +13602,9 @@ msgctxt "template"
 msgid "All"
 msgstr "Wote"
 
-#. type=template
-msgctxt "template"
-msgid "relax"
-msgstr "chukua pumziko"
+#. type=tour
+#. The string @global.app_name should not be translated.
+msgctxt "tour"
+msgid "Welcome to @global.app_name"
+msgstr "Karibu kwenye @global.app_name"
 
