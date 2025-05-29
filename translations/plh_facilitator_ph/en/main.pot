@@ -195,6 +195,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Consuelo Zobel Alger Foundation"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Facilitator/Co-facilitator"
 msgstr ""
 
@@ -495,6 +500,16 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
+msgid "This region has no provinces"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "This province has no cities/municipalities"
+msgstr ""
+
+#. type=global
+msgctxt "global"
 msgid "Share"
 msgstr ""
 
@@ -575,7 +590,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Submit Report"
+msgid "Mark Session as Delivered"
 msgstr ""
 
 #. type=global
@@ -590,7 +605,17 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Go back to start"
+msgid "View Module from Start"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Copied to clipboard"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "You've reached the end of this session. What would you like to do next?"
 msgstr ""
 
 #. type=global
@@ -890,6 +915,14 @@ msgid "Edit Parent Group"
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      !@local.text_box
+#.      !@fields.current_group_readonly
+msgctxt "template"
+msgid "!!@local.text_box && !@fields.current_group_readonly"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Settings"
 msgstr ""
@@ -931,6 +964,18 @@ msgid "App Details & Terms"
 msgstr ""
 
 #. type=template
+#. The string @local.current_answer_1 should not be translated.
+msgctxt "template"
+msgid "current: @local.current_answer_1"
+msgstr ""
+
+#. type=template
+#. The string @local.answer_1 should not be translated.
+msgctxt "template"
+msgid "answer: @local.answer_1"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Date of Session Delivery?"
 msgstr ""
@@ -941,8 +986,37 @@ msgid "How long did the session last?"
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @local.answer_3
+#.      @local.answer_3
+#.      @local.answer_3
+#.      @local.answer_3
+#.      !@local.answer_3
+#.      @calc((/^\d+$/.test(@local.answer_3) && @local.answer_3>= 1 && @local.answer_3<= 1000) || @local.answer_3 == '' || !@local.answer_3)
+msgctxt "template"
+msgid "@calc((/^\\d+$/.test(@local.answer_3) && @local.answer_3>= 1 && @local.answer_3<= 1000) || @local.answer_3 == '' || !@local.answer_3)"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "How much time did you spend on preparing for the session?"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.answer_4
+#.      @local.answer_4
+#.      @local.answer_4
+#.      @local.answer_4
+#.      !@local.answer_4
+#.      @calc((/^\d+$/.test(@local.answer_4) && @local.answer_4>= 1 && @local.answer_4<= 1000) || @local.answer_4 == '' || !@local.answer_4)
+msgctxt "template"
+msgid "@calc((/^\\d+$/.test(@local.answer_4) && @local.answer_4>= 1 && @local.answer_4<= 1000) || @local.answer_4 == '' || !@local.answer_4)"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Please enter a valid number between 1 and 999."
 msgstr ""
 
 #. type=template
@@ -1027,6 +1101,14 @@ msgid "What challenges or successes did the parent experience during with their 
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @local.answer3_valid
+#.      @local.answer4_valid
+msgctxt "template"
+msgid "@local.answer3_valid && @local.answer4_valid"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Import user"
 msgstr ""
@@ -1090,6 +1172,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Add Co-Facilitator"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Your Reports"
 msgstr ""
 
@@ -1106,11 +1193,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Group Name"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Add Co-Facilitator"
 msgstr ""
 
 #. type=template
@@ -1136,6 +1218,31 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Support"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Are you sure you want to remove the co-facilitator from this parent group?"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "This action cannot be undone."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Note: Removing a co-facilitator will revoke their access to this group."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Remove"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You don't have any active parent groups yet"
 msgstr ""
 
 #. type=template
@@ -1420,4 +1527,30 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "pdf"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Please enter a valid co-facilitator id"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "id matches your own id"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Please enter a name for the co-facilitator"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      !@local.co_facilitator_id
+#.      !@local.co_facilitator_name
+#.      @local.co_facilitator_id_valid
+#.      @local.co_facilitator_name_valid
+#.      @local.not_own_id
+msgctxt "template"
+msgid "!!@local.co_facilitator_id && !!@local.co_facilitator_name&&@local.co_facilitator_id_valid && @local.co_facilitator_name_valid && @local.not_own_id"
 msgstr ""
