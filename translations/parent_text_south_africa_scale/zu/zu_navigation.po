@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Zulu\n"
 "\n"
 "Language: zu_ZA\n"
-"PO-Revision-Date: 2025-06-04 14:09\n"
+"PO-Revision-Date: 2025-06-05 13:23\n"
 
 #. type=text
 msgctxt "text"
@@ -520,8 +520,18 @@ msgstr "-"
 
 #. type=text
 msgctxt "text"
+msgid "Let's start with your final course:"
+msgstr "Masiqale ngesifundo sakho sokugcina:"
+
+#. type=text
+msgctxt "text"
 msgid "Which course would you like to complete next?"
 msgstr "Isiphi isifundo ongathanda ukusiqeda ngokulandelayo?"
+
+#. type=text
+msgctxt "text"
+msgid "We'll continue the course tomorrow. Is there anything else you'd like to do today?"
+msgstr "Sizoqhubeka nesifundo kusasa. Ikhona enye into ofisa ukuyenza namhlanje?"
 
 #. type=text
 msgctxt "text"
@@ -542,6 +552,33 @@ msgstr "Ingabe ufuna ukuqala manje noma kusasa?"
 msgctxt "text"
 msgid "It takes only 5 days to complete this first course and earn your parenting certificate."
 msgstr "Kuthatha izinsuku ezi-5 kuphela ukuqeda lesi sifundo futhi uzuze isitifiketi sakho sobuzali."
+
+#. type=text
+msgctxt "text"
+msgid "*🥳 Wow! You did it—you finished the whole programme!*"
+msgstr "*🥳 Halala! Ukwenzile - uqede yonke iprogrem!*"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "ParentText only took a few minutes a day, but the real work was the time you spent with @fields.child_nickname."
+msgstr "I ParentText ithatha imizuzu embalwa ngosuku, kodwa umsebenzi wangempela isikhathi osichitha no@fields.child_nickname"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Thank you for joining me and for investing in yourself and @fields.child_nickname. You both matter—and you’re worth it!"
+msgstr "Ngiyabonga ukungijoyina  nokuzinikela kwakho nino@fields.child_nickname. Nobabili nibalulekile!"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText only took a few minutes a day, but the real work was the time you spent with your child."
+msgstr "I ParentText ithatha imizuzu embalwa ngosuku, kodwa umsebenzi wangempela isikhathi osichitha nengane yakho"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for joining me and for investing in yourself and your child. You both matter—and you’re worth it!"
+msgstr "Ngiyabonga ukungijoyina nokuzinikelela wena nengane yakho. Nobabili nibalulekile!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1376,6 +1413,16 @@ msgctxt "text"
 msgid "The name you would like to have on your completion certificate is @fields.certificate_name. Is that correct?"
 msgstr "Igama lakho ongathanda libe kusitifiketi sakho kanje @fields.certificate_name. Ingabe kulungile lokho?"
 
+#. type=text
+msgctxt "text"
+msgid "Want to improve your relationship with your child in just 5 days?"
+msgstr "Ufuna ukuthuthukisa ubudlelwane nengane yakho ngezinsuku eziwu 5?"
+
+#. type=text
+msgctxt "text"
+msgid "Send PARENTTEXT to this number and get FREE daily practical tips."
+msgstr "Thumela u PARENTTEXT kulenamba ukuze uthole amathiphu amahala zonke izinsuku."
+
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
@@ -1927,6 +1974,12 @@ msgstr "Thola ezinye izinombolo zocingo zezimo esiphuthumayo"
 msgctxt "quick_replies"
 msgid "Exit"
 msgstr "Phuma"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "PARENTTEXT"
+msgstr "PARENTTEXT"
 
 #. type=variables
 msgctxt "variables"
