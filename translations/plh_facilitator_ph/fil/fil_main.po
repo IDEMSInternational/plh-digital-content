@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Filipino\n"
 "\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2025-05-30 13:21\n"
+"PO-Revision-Date: 2025-06-10 03:49\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -142,6 +142,11 @@ msgstr "(DSWD) Department of Social Welfare and Development"
 msgctxt "data_list"
 msgid "Joy~Nostalg Foundation"
 msgstr "Joy~Nostalg Foundation"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Consuelo Zobel Alger Foundation"
+msgstr "Consuelo Zobel Alger Foundation"
 
 #. type=data_list
 msgctxt "data_list"
@@ -478,6 +483,16 @@ msgstr "Mag-sign out"
 
 #. type=global
 msgctxt "global"
+msgid "This region has no provinces"
+msgstr "This region has no provinces"
+
+#. type=global
+msgctxt "global"
+msgid "This province has no cities/municipalities"
+msgstr "This province has no cities/municipalities"
+
+#. type=global
+msgctxt "global"
 msgid "Your Content Package"
 msgstr "Your Content Package"
 
@@ -739,6 +754,26 @@ msgid "About parent"
 msgstr "Tungkol sa Magulang"
 
 #. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid ""
+"Ask your co-facilitator for this parent group to share their @global.app_name code with you.\n"
+"Paste the code below to add them to the group."
+msgstr ""
+"Ask your co-facilitator for this parent group to share their @global.app_name code with you. \n"
+"Paste the code below to add them to the group."
+
+#. type=global
+msgctxt "global"
+msgid "Enter co-facilitator’s code"
+msgstr "Enter co-facilitator's code"
+
+#. type=global
+msgctxt "global"
+msgid "Enter co-facilitator's name"
+msgstr "Enter co-facilitator's name"
+
+#. type=global
 msgctxt "global"
 msgid "Add Co-Facilitator"
 msgstr "Add Co-Facilitator"
@@ -820,6 +855,11 @@ msgstr "I-review ang report"
 
 #. type=global
 msgctxt "global"
+msgid "Mark Session as Delivered"
+msgstr "Mark Session as Delivered"
+
+#. type=global
+msgctxt "global"
 msgid "Frequently Asked Questions"
 msgstr "Frequently Asked Questions"
 
@@ -827,6 +867,21 @@ msgstr "Frequently Asked Questions"
 msgctxt "global"
 msgid "Language"
 msgstr "Wika"
+
+#. type=global
+msgctxt "global"
+msgid "View Module from Start"
+msgstr "View Module from Start"
+
+#. type=global
+msgctxt "global"
+msgid "Copied to clipboard"
+msgstr "Copied to clipboard"
+
+#. type=global
+msgctxt "global"
+msgid "You've reached the end of this session. What would you like to do next?"
+msgstr "You've reached the end of this session. What would you like to do next?"
 
 #. type=global
 msgctxt "global"
@@ -1041,6 +1096,26 @@ msgstr "Parent Group"
 
 #. type=template
 msgctxt "template"
+msgid "Are you sure you want to remove the co-facilitator from this parent group?"
+msgstr "Are you sure you want to remove the co-facilitator from this parent group?"
+
+#. type=template
+msgctxt "template"
+msgid "This action cannot be undone."
+msgstr "This action cannot be undone."
+
+#. type=template
+msgctxt "template"
+msgid "Note: Removing a co-facilitator will revoke their access to this group."
+msgstr "Note: Removing a co-facilitator will revoke their access to this group."
+
+#. type=template
+msgctxt "template"
+msgid "Remove"
+msgstr "Remove"
+
+#. type=template
+msgctxt "template"
 msgid "Edit Parent Group"
 msgstr "Edit Parent Group"
 
@@ -1079,6 +1154,21 @@ msgstr "You have successfully entered developer mode."
 msgctxt "template"
 msgid "You have entered an incorrect code."
 msgstr "You have entered an incorrect code."
+
+#. type=template
+msgctxt "template"
+msgid "Please enter a valid co-facilitator id"
+msgstr "Please enter a valid co-facilitator ID"
+
+#. type=template
+msgctxt "template"
+msgid "id matches your own id"
+msgstr "ID matches your own ID"
+
+#. type=template
+msgctxt "template"
+msgid "Please enter a name for the co-facilitator"
+msgstr "Please enter a name for the co-facilitator"
 
 #. type=template
 msgctxt "template"
@@ -1233,6 +1323,11 @@ msgstr "Gaano katagal ka naghanda para sa sesyon?"
 
 #. type=template
 msgctxt "template"
+msgid "Please enter a valid number between 1 and 999."
+msgstr "Please enter a valid number between 1 and 999."
+
+#. type=template
+msgctxt "template"
 msgid "Were you able to complete all the activities?"
 msgstr "Were you able to complete all the activities?"
 
@@ -1330,6 +1425,13 @@ msgstr "Are you sure you want to archive @fields.current_group_name?"
 
 #. type=template
 msgctxt "template"
+msgid ""
+"Archiving this group will remove it from your active list.\n"
+"You can still view its data later if needed."
+msgstr "Archiving this group will remove it from your active list. You can still view its data later if needed."
+
+#. type=template
+msgctxt "template"
 msgid "Cancel"
 msgstr "Cancel"
 
@@ -1347,6 +1449,11 @@ msgstr "Choose which content you want to see."
 msgctxt "template"
 msgid "Continue"
 msgstr "Continue"
+
+#. type=template
+msgctxt "template"
+msgid "You don't have any active parent groups yet"
+msgstr "You don't have any active parent groups yet"
 
 #. type=template
 msgctxt "template"
