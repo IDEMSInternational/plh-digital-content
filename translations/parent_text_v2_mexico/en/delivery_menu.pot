@@ -1203,6 +1203,12 @@ msgid "Oops something went wrong."
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sorry, but you can only reprint your certificate for the course @results.name twice."
+msgstr ""
+
+#. type=text
 msgctxt "text"
 msgid "You haven't completed any course yet."
 msgstr ""
