@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-07-01 16:27\n"
+"PO-Revision-Date: 2025-06-17 12:18\n"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -593,6 +593,11 @@ msgid "Privacy Policy"
 msgstr "Política de Privacidad"
 
 #. type=template
+msgctxt "template"
+msgid "You can only move on and access the app if you provide your consent."
+msgstr "Solo podrás seguir adelante y acceder a la aplicación si das tu consentimiento."
+
+#. type=template
 #. The following strings should not be translated: 
 #.      @global.terms_and_conditions
 #.      @global.privacy_policy
@@ -631,9 +636,4 @@ msgstr "Continuar"
 msgctxt "template"
 msgid "Last updated: @global.deployment_terms_text"
 msgstr "Última actualización: @global.deployment_terms_text"
-
-#. type=template
-msgctxt "template"
-msgid "You can only move on and access the app if you provide your consent."
-msgstr "Solo podrás seguir adelante y acceder a la aplicación si das tu consentimiento."
 
