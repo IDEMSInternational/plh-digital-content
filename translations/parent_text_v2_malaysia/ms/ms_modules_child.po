@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-06-17 03:28\n"
+"PO-Revision-Date: 2025-06-17 11:40\n"
 
 #. type=text
 msgctxt "text"
@@ -2234,8 +2234,23 @@ msgstr " 🔴 Mengira adalah satu kemahiran yang anak anda boleh mula belajar le
 
 #. type=text
 msgctxt "text"
+msgid "🚗 Ask your child to count things around you: cars, people, houses, and their fingers and toes! 👋"
+msgstr "🚗 Ajak anak anda untuk mengira benda-benda yang berada di sekeliling bersama: sebagai contoh, kereta, orang, rumah, jari tangan dan jari kaki dia! 👋"
+
+#. type=text
+msgctxt "text"
+msgid "🍅 Ask your child to count things in daily activities: like potatoes while cooking, or socks while sorting out clothes"
+msgstr "🍅 Ajak anak anda untuk mengira semasa membuat aktiviti harian: contohnya, mengira kentang sambil memasak, atau stoking masa lipat baju"
+
+#. type=text
+msgctxt "text"
 msgid "🎵 Sing songs that include numbers with your child."
 msgstr "🎵 Nyanyi lagu yang mempunyai nombor dengan anak anda."
+
+#. type=text
+msgctxt "text"
+msgid "🎨 Encourage your child to draw things, or ask them how many things there are in the pictures."
+msgstr "🎨 Galakkan anak anda melukis apa-apa saja, atau tanya anak anda berapa banyak benda yang ada dalam lukisan tersebut."
 
 #. type=text
 msgctxt "text"
@@ -2256,6 +2271,11 @@ msgstr "👀 Tanya anak anda apa nombor yang tertera setiap kali anda melihat se
 msgctxt "text"
 msgid "😃 Help them if they don’t know!"
 msgstr "😃 Bantu anak anda jika dia tidak tahu!"
+
+#. type=text
+msgctxt "text"
+msgid "Here’s a home activity for today! ⭐ Try to involve your child in an activity with numbers. For example, counting the amount of ingredients when you are cooking. Do you have time today?"
+msgstr "Aktiviti di Rumah! ⭐ Cuba lakukan aktiviti menggunakan nombor bersama anak anda seperti mengira bilangan bahan-bahan yang digunakan ketika memasak. Bolehkah anda lakukannya hari ini?"
 
 #. type=text
 msgctxt "text"
@@ -2282,6 +2302,12 @@ msgstr "Anda telah melengkapkan @(fields.c_n_mod_compl +1) daripada @fields.c_n_
 msgctxt "text"
 msgid "3️⃣ LEARN WITH SHAPES"
 msgstr "3️⃣ BELAJAR MENGGUNAKAN BENTUK-BENTUK"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🔷 @fields.child_nickname can also learn through shapes! Shapes are everywhere, too, so find them and talk about them. 👀"
+msgstr "🔷 @fields.child_nickname juga boleh belajar melalui bentuk! Bentuk ada di mana-mana, jadi cari bersama dan borak tentangnya. 👀"
 
 #. type=text
 msgctxt "text"
@@ -2747,13 +2773,38 @@ msgstr "{F3_MOTHER}: Hai anak ibu, Ibu boleh meluangkan Masa Bersama Seorang den
 
 #. type=text
 msgctxt "text"
+msgid "{F3_DAUGTHER_4}: I want to… Build a house out of bed sheets! "
+msgstr "{F3_DAUGTHER_4}: Saya nak... Bina rumah menggunakan cadar! "
+
+#. type=text
+msgctxt "text"
 msgid "{F3_MOTHER}: Great idea! What do we need to do first?"
 msgstr "{F3_MOTHER}: Idea yang bernas! Apa yang kita perlu lakukan terlebih dahulu?"
 
 #. type=text
 msgctxt "text"
+msgid "{F3_DAUGTHER_4}: First, we hang one bed sheet from the bed on top. Look! It’s our first wall! Then, we can use a pillow at the bottom."
+msgstr "{F3_DAUGTHER_4}: Tengok ni, mula-mula, kita sangkut satu cadar di sebelah atas katil dua tingkat. Itu jadi dinding kita yang pertama! Selepas itu, kita gunakan bantal untuk bahagian bawah."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: Well done, {F3_DAUGTHER_4}! This is such a nice house."
+msgstr "{F3_MOTHER}: Bagusnya, {F3_DAUGTHER_4}! Cantik sangat rumah ni."
+
+#. type=text
+msgctxt "text"
 msgid "{F3_DAUGTHER_4}: Can we read our bedtime story here tonight? "
 msgstr "{F3_DAUGTHER_4}: Malam ini, bolehkah Ibu bacakan cerita waktu tidur di sini? "
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: Of course, {F3_DAUGTHER_4}!"
+msgstr "{F3_MOTHER}: Sudah tentu, {F3_DAUGTHER_4}!"
+
+#. type=text
+msgctxt "text"
+msgid "That's OK! 💙 It can be hard to find time. You can set some time aside to play together tomorrow!"
+msgstr "Tak apa! 💙 Luangkan sedikit masa esok jika anda tidak sempat untuk bermain bersama pada hari ini!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
@@ -2768,9 +2819,20 @@ msgid "🎨 Playing with @fields.child_nickname is important for their developme
 msgstr "🎨 Bermain dengan @fields.child_nickname adalah penting untuk perkembangan dan pembelajaran mereka di dalam dan di luar sekolah. Ini benar untuk SEMUA kanak-kanak, termasuk mereka yang mempunyai ketidakupayaan fizikal dan perkembangan. "
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🚲 Did you know? Playing also helps @fields.child_nickname learn social values and social rules!"
+msgstr "🚲 Tahukah anda, bermain juga membantu @fields.child_nickname mempelajari nilai sosial serta peraturan sosial!"
+
+#. type=text
 msgctxt "text"
 msgid "🎨 Playing with your child is important for their development and learning in and out of school. This is true for ALL children, including those with physical and developmental disabilities. "
 msgstr "🎨 Bermain dengan anak anda adalah penting untuk perkembangan dan pembelajaran mereka di dalam dan di luar sekolah. Ini benar untuk SEMUA kanak-kanak, termasuk mereka yang mempunyai ketidakupayaan fizikal dan perkembangan. "
+
+#. type=text
+msgctxt "text"
+msgid "🚲 Did you know? Playing also helps your child learn social values and social rules!"
+msgstr "🚲 Tahukah anda, bermain juga membantu anak anda mempelajari nilai sosial serta peraturan sosial!"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -2807,6 +2869,44 @@ msgstr "2️⃣ Berikut ialah 2 petua bagaimana anda boleh menjadikan proses pem
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "⚽ Create time and have fun playing games with @fields.child_nickname! "
+msgstr "⚽ Cari masa untuk main dan berseronok dengan @fields.child_nickname, masa macam ni sangat bermakna! "
+
+#. type=text
+msgctxt "text"
+msgid "🌱 This has benefits, like improving their physical and mental health, and helping them to learn and remember important facts better! "
+msgstr "🌱 Banyak manfaatnya — boleh kuatkan kesihatan fizikal dan mental anak, dan bantu anak anda belajar serta ingat perkara penting dengan lebih baik! "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "⏰ If @fields.child_nickname starts to feel overwhelmed, take a pause or play together to help calm them. "
+msgstr "⏰ Kalau @fields.child_nickname mula rasa terbeban atau gelisah, ambil masa untuk berhenti seketika atau main bersama supaya anak anda dapat tenang semula. "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "💡 Take note of @fields.child_nickname’s interests and use those in your play. This keeps them engaged!"
+msgstr "💡 Cuba perhatikan apa yang @fields.child_nickname suka, dan libatkan minat tu dalam aktiviti bermain. Lagi mudah nak tarik perhatian dia!"
+
+#. type=text
+msgctxt "text"
+msgid "⚽ Create time and have fun playing games with your child! "
+msgstr "⚽ Cari masa untuk main dan berseronok dengan anak anda, masa macam ni sangat bermakna! "
+
+#. type=text
+msgctxt "text"
+msgid "⏰ If your child starts to feel overwhelmed, take a pause or play together to help calm them. "
+msgstr "⏰ Kalau anak anda mula rasa terbeban atau gelisah, ambil masa untuk berhenti seketika atau main bersama supaya dia dapat tenang semula. "
+
+#. type=text
+msgctxt "text"
+msgid "💡 Take note of your child’s interests and use those in your play. This keeps them engaged!"
+msgstr "💡 Cuba perhatikan apa yang anak anda suka, dan libatkan minat tu dalam aktiviti bermain. Lagi mudah nak tarik perhatian dia!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "🎨 Allow @fields.child_nickname to be creative when playing. For example, encourage @fields.child_nickname to draw or go outside."
 msgstr "🎨 Benarkan @fields.child_nickname menjadi kreatif ketika bermain. Sebagai contoh, anda boleh galakkan @fields.child_nickname untuk melukis atau pergi bermain di luar."
 
@@ -2838,6 +2938,39 @@ msgid "💙 Set a good example: Let your child see you being creative and trying
 msgstr "💙 Walaupun anda tidak kreatif, biarkan anak anda melihat anda sebagai contoh bagi mencuba untuk menjadi kreatif dan mencuba sesuatu yang baharu."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "For today’s home activity, ⭐ invite @fields.child_nickname to play with you. Encourage them to ask questions and explore new things through play. Do you have time to do it today? ⏰"
+msgstr "⭐Ajak @fields.child_nickname bermain sekali untuk aktiviti di rumah anda pada hari ini. Galakkan dia untuk bertanya soalan dan meneroka perkara baharu melalui bermain. Ada masa tak untuk melakukannya pada hari ini? ⏰"
+
+#. type=text
+msgctxt "text"
+msgid "For today’s home activity, ⭐ invite your child to play with you. Encourage them to ask questions and explore new things through play. Do you have time to do it today? ⏰"
+msgstr "⭐Ajak anak anda bermain sekali untuk aktiviti di rumah anda pada hari ini. Galakkan dia untuk bertanya soalan dan meneroka perkara baharu melalui bermain. Ada masa tak untuk melakukannya pada hari ini? ⏰"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.n_skills_week and results.n_skills are numbers
+msgctxt "text"
+msgid "That’s great! 💙 Use the tips you have learnt today and have fun! Playing with @fields.child_nickname is a great way to motivate them to learn and develop new skills. ⚽"
+msgstr "Hebat! 💙 Gunakan tip yang anda dah belajar hari ni dan nikmati masa bersama! Bermain dengan @fields.child_nickname memang cara yang terbaik untuk bagi semangat pada mereka belajar dan kuasai kemahiran baru. ⚽"
+
+#. type=text
+msgctxt "text"
+msgid "That’s great! 💙 Use the tips you have learnt today and have fun! Playing with your child is a great way to motivate them to learn and develop new skills. ⚽"
+msgstr "Hebat! 💙 Gunakan tip yang anda dah belajar hari ni dan nikmati masa bersama! Bermain dengan anak anda merupakan cara yang terbaik untuk bagi semangat pada dia untuk belajar dan kuasai kemahiran baru. ⚽"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Great job! You have learnt to encourage @fields.child_nickname to play and have fun while learning."
+msgstr "Kemahiran lengkap! Anda telah belajar cara untuk menggalakkan @fields.child_nickname supaya bermain dan berseronok ketika belajar."
+
+#. type=text
+msgctxt "text"
+msgid "Great job! You have learnt to encourage your child to play and have fun while learning."
+msgstr "Kemahiran lengkap! Anda telah belajar cara untuk menggalakkan anak anda supaya bermain dan berseronok ketika belajar."
+
+#. type=text
 msgctxt "text"
 msgid "Today’s parenting skill is about helping your child know how to learn from their mistakes. 💚"
 msgstr "Kemahiran keibubapaan hari ini berkenaan membantu anak anda belajar daripada kesilapan mereka. 💚"
@@ -2851,6 +2984,11 @@ msgstr "Belajar daripada kesilapan dapat membantu kita mengelakkan diri dari mem
 msgctxt "text"
 msgid "It can also help us be more supportive to ourselves and less harsh when things do not go well. 😃"
 msgstr "Ia juga dapat membantu kita menjadi lebih pemaaf terhadap diri sendiri ketika sesuatu perkara tidak berjalan dengan baik. 😃"
+
+#. type=text
+msgctxt "text"
+msgid "What do you think about this?"
+msgstr "Apa pendapat anda tentang perkara ini?"
 
 #. type=text
 msgctxt "text"
@@ -2884,6 +3022,11 @@ msgstr "{F3_UNCLE}: {F3_DAUGHTER_4}, hati-hati bermain! Nanti kamu pecahkan bara
 
 #. type=text
 msgctxt "text"
+msgid "{F3_DAUGHTER_4}: No I won’t! Look! I’m so fast!"
+msgstr "{F3_DAUGHTER_4}: Tak nak! Tengok ni! Saya laju sangat!"
+
+#. type=text
+msgctxt "text"
 msgid "{F3_DAUGHTER_4} runs into a table and breaks a vase. {F3_UNCLE} sees and is concerned."
 msgstr "{F3_DAUGHTER_4} berlari ke arah meja dan memecahkan sebuah pasu. {F3_UNCLE} melihatnya dan berasa bimbang."
 
@@ -2891,6 +3034,11 @@ msgstr "{F3_DAUGHTER_4} berlari ke arah meja dan memecahkan sebuah pasu. {F3_UNC
 msgctxt "text"
 msgid "{F3_UNCLE}: Are you hurt??"
 msgstr "{F3_UNCLE}: Kamu cedera??"
+
+#. type=text
+msgctxt "text"
+msgid "{F3_DAUGHTER_4}: No, uncle. I’m so, so sorry for breaking the vase… I didn’t see it."
+msgstr "{F3_DAUGHTER_4}: Tak, Pak Cik. Saya minta maaf sangat-sangat sebab pecahkan pasu... Saya tak nampak."
 
 #. type=text
 msgctxt "text"
@@ -2936,6 +3084,16 @@ msgstr "✨ Usaha sebenarnya lebih penting daripada penguasaan kemahiran tertent
 msgctxt "text"
 msgid "3️⃣ ALLOW FOR MISTAKES TO HAPPEN"
 msgstr "3️⃣ BENARKAN KESILAPAN BERLAKU"
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Mistakes are part of learning. . It’s okay for your child to make them. It helps them learn and grow! "
+msgstr "🌱 Tak apa sekiranya anak anda membuat kesilapan. Ianya merupakan sebahagian dari proses untuk membantu mereka belajar dan berkembang! "
+
+#. type=text
+msgctxt "text"
+msgid "❓It can be tempting to jump in and fix things for your child, especially when you know the “right” answer. But we have to let them learn how to do it themselves. "
+msgstr "❓Memang rasa nak tolong anak terus bila kita tahu jawapan yang betul. Tapi penting juga untuk beri mereka peluang cuba dan belajar buat sendiri. "
 
 #. type=text
 msgctxt "text"
