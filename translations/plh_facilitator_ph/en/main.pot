@@ -614,7 +614,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Send this message to the Facilitator who runs the group"
+msgid "As a co-facilitator, you can’t create a parent group. Please send this message to your facilitator to add them to the parent group:"
 msgstr ""
 
 #. type=global
@@ -1195,6 +1195,26 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Create/Join a Group"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Are you a facilitator or co-facilitator for this parent group?"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Facilitator"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Co-facilitator"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Submit"
 msgstr ""
 
@@ -1367,6 +1387,11 @@ msgid "What is your goal or what do you want to achieve or learn from the coachi
 msgstr ""
 
 #. type=template
+msgctxt "template"
+msgid "Which of the parents in this group attended your in-person session?"
+msgstr ""
+
+#. type=template
 #. The string @local.module_name should not be translated.
 msgctxt "template"
 msgid "What challenges or successes did the parent experience during with their home activity for @local.module_name ? Were there any concerns?"
@@ -1490,8 +1515,9 @@ msgid "Very Poorly"
 msgstr ""
 
 #. type=template
+#. The string @global.virtual_session_platform should not be translated.
 msgctxt "template"
-msgid "Which of the parents in this group attended your in-person session?"
+msgid "Which of the parents in this group attended your @global.virtual_session_platform group session?"
 msgstr ""
 
 #. type=template
