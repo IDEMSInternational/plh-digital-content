@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Filipino\n"
 "\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2025-06-19 15:55\n"
+"PO-Revision-Date: 2025-06-20 09:53\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -123,6 +123,76 @@ msgstr "Sino sa mga magulang sa grupong ito ang dumalo sa in-person sesyon?"
 msgctxt "data_list"
 msgid "@global.app_name is an app designed by IDEMS International, Parenting for Lifelong Health, and Masayang Pamilya Organization, Inc. to support the delivery of MaPaChat in Philippines The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
 msgstr "@global.app_name is an app designed by IDEMS International, Parenting for Lifelong Health, and Masayang Pamilya Organization, Inc. to support the delivery of MaPaChat in Philippines The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 3: Module 1 Reminder"
+msgstr "Day 3: Module 1 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 5: Module 1 Reminder"
+msgstr "Day 5: Module 1 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 3: Module 2 Reminder"
+msgstr "Day 3: Module 2 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 5: Module 2 Reminder"
+msgstr "Day 5: Module 2 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 3: Module 3 Reminder"
+msgstr "Day 3: Module 3 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 5: Module 3 Reminder"
+msgstr "Day 5: Module 3 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 3: Module 4 Reminder"
+msgstr "Day 3: Module 4 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 5: Module 4 Reminder"
+msgstr "Day 5: Module 4 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 3: Module 5 Reminder"
+msgstr "Day 3: Module 5 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 5: Module 5 Reminder"
+msgstr "Day 5: Module 5 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 3: Module 6 Reminder"
+msgstr "Day 3: Module 6 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 5: Module 6 Reminder"
+msgstr "Day 5: Module 6 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 3: Module 7 Reminder"
+msgstr "Day 3: Module 7 Reminder"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Day 5: Module 7 Reminder"
+msgstr "Day 5: Module 7 Reminder"
 
 #. type=data_list
 msgctxt "data_list"
@@ -550,6 +620,11 @@ msgstr "Please enter a date."
 
 #. type=global
 msgctxt "global"
+msgid "As a co-facilitator, you can’t create a parent group. Please send this message to your facilitator to add them to the parent group:"
+msgstr "Bilang isang co-facilitator, hindi ka makakagawa ng parent group. I-send ang message na ito sa iyong facilitator:"
+
+#. type=global
+msgctxt "global"
 msgid ""
 "Hello, \n"
 "Please add me as a co-facilitator!\n"
@@ -718,6 +793,11 @@ msgstr "Copied to clipboard"
 msgctxt "global"
 msgid "You've reached the end of this session. What would you like to do next?"
 msgstr "You've reached the end of this session. What would you like to do next?"
+
+#. type=global
+msgctxt "global"
+msgid "This profile is incomplete. Open to complete the missing details."
+msgstr "This profile is incomplete. Open to complete the missing details."
 
 #. type=global
 msgctxt "global"
@@ -1102,6 +1182,12 @@ msgid "You don't have any active parent groups yet"
 msgstr "You don't have any active parent groups yet"
 
 #. type=template
+#. The string @local.progress should not be translated.
+msgctxt "template"
+msgid "progress: @local.progress"
+msgstr "progress: @local.progress"
+
+#. type=template
 #. The string @global.app_name should not be translated.
 msgctxt "template"
 msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
@@ -1129,6 +1215,26 @@ msgstr "Archiving this group will remove it from your active list. You can still
 msgctxt "template"
 msgid "Archive"
 msgstr "Archive"
+
+#. type=template
+msgctxt "template"
+msgid "Create/Join a Group"
+msgstr "Gumawa/Sumali sa Isang Grupo"
+
+#. type=template
+msgctxt "template"
+msgid "Are you a facilitator or co-facilitator for this parent group?"
+msgstr "Ikaw ba ay facilitator ng co-facilitator ng parent group na ito?"
+
+#. type=template
+msgctxt "template"
+msgid "Facilitator"
+msgstr "Facilitator"
+
+#. type=template
+msgctxt "template"
+msgid "Co-facilitator"
+msgstr "Co-facilitator"
 
 #. type=template
 msgctxt "template"
@@ -1430,6 +1536,12 @@ msgstr "Poorly"
 msgctxt "template"
 msgid "Very Poorly"
 msgstr "Very Poorly"
+
+#. type=template
+#. The string @global.virtual_session_platform should not be translated.
+msgctxt "template"
+msgid "Which of the parents in this group attended your @global.virtual_session_platform group session?"
+msgstr "Sino sa mga magulang sa grupong ito ang umattend ng @global.virtual_session_platform sesyon?"
 
 #. type=template
 msgctxt "template"
