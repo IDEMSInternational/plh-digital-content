@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-06-05 13:09\n"
+"PO-Revision-Date: 2025-06-25 18:45\n"
 
 #. type=text
 msgctxt "text"
@@ -144,6 +144,12 @@ msgid "✨ Welcome to @fields.prog_name!"
 msgstr "✨ ¡Te damos la bienvenida a @fields.prog_name!"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "✅ In @fields.prog_name, you will receive daily sessions with practical examples and positive parenting strategies to strengthen your relationship with your children and adolescents."
+msgstr "✅ En @fields.prog_name, recibirás sesiones diarias con ejemplos prácticos y estrategias de crianza positiva para fortalecer la relación con tus hijos y adolescentes."
+
+#. type=text
 msgctxt "text"
 msgid "✅ You can learn more about this programme and the team behind it at {URL}"
 msgstr "✅ Puedes obtener más información sobre este programa y el equipo detrás de él en {URL}"
@@ -205,6 +211,11 @@ msgstr "¡Estupendo! Para completar este programa, necesitarás a alguien que te
 msgctxt "text"
 msgid "Dani is a 35 old mom of 3. She's a clinical psychologist and the first person her friends ask for help with parenting."
 msgstr "Dani tiene 35 años y es madre de 3. Es psicóloga clínica y la primera persona  que sus amistades buscan para pedirle apoyo en temas de crianza."
+
+#. type=text
+msgctxt "text"
+msgid "Cris is a 38 year old dad. He used to lose his patience and get anxious when spending time with his kids. He worked as a family physician but now coaches parents on the same strategies that helped him."
+msgstr "Cris es un padre de 38 años. Solía perder la paciencia y ponerse ansioso cuando pasaba tiempo con sus hijas e hijos. Es médico familiar y actualmente acompaña a madres, padres y personas cuidadoras con las mismas estrategias que le ayudaron a él."
 
 #. type=text
 msgctxt "text"
@@ -592,6 +603,12 @@ msgstr "Sur"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Let's Go!"
+msgstr "¡Vamos!"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "YES"
 msgstr "Sí"
 
@@ -612,6 +629,12 @@ msgstr "REGRESAR"
 msgctxt "quick_replies"
 msgid "Dani"
 msgstr "Dani"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Cris"
+msgstr "Cris"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -954,6 +977,12 @@ msgstr "REGRESAR"
 msgctxt "arguments"
 msgid "dani"
 msgstr "Dani"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "cris"
+msgstr "cris"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
