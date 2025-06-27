@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-06-25 18:45\n"
+"PO-Revision-Date: 2025-06-27 11:50\n"
 
 #. type=text
 msgctxt "text"
@@ -170,11 +170,6 @@ msgstr "¿En qué región de México vives?"
 msgctxt "text"
 msgid "Your name is @fields.first_user_name @fields.family_name. Is that correct?"
 msgstr "Tu nombre es @fields.first_user_name @fields.family_name. ¿Es correcto?"
-
-#. type=text
-msgctxt "text"
-msgid "It looks like this is not a good time."
-msgstr "Parece que no es un buen momento."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -989,4 +984,10 @@ msgstr "cris"
 msgctxt "arguments"
 msgid "go back and enter a different letter"
 msgstr "Regresa y selecciona otra letra"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "media"
+msgstr "medios de comunicación"
 
