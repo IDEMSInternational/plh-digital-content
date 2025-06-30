@@ -11,7 +11,17 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-05-12 15:57\n"
+"PO-Revision-Date: 2025-06-30 08:33\n"
+
+#. type=text
+msgctxt "text"
+msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
+msgstr "Kubonakala ngathi ayiloxesha elilungileyo eli. Nceda uchwetheze u-1 ukuba ungathanda ukuqhubeka."
+
+#. type=text
+msgctxt "text"
+msgid "You will continue with your progress tomorrow."
+msgstr "Uya kuqhubeka nenkqubela yakho ngomso."
 
 #. type=text
 msgctxt "text"
@@ -130,8 +140,101 @@ msgstr "Ususiwe kuphando, kodwa akuphelanga thuba lokuphucula ubudlelwane bakho 
 
 #. type=text
 msgctxt "text"
-msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
-msgstr "Kubonakala ngathi ayiloxesha elilungileyo eli. Nceda uchwetheze u-1 ukuba ungathanda ukuqhubeka."
+msgid "If you do not want to receive any more messages, please type \"EXIT\"."
+msgstr "Ukuba awufuni ukufumana nayiphina na imiyalezo, Sicela uchwetheze \"PHUMA\"."
+
+#. type=text
+msgctxt "text"
+msgid "If you made a mistake, please type \"BACK\"."
+msgstr "Ukuba wenze impazamo, sicela uchwetheze \"UMVA\"."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for participating. If you want to return to the programme, type HELLO. "
+msgstr "Enkosi ngokuthatha inxaxheba. Ukuba ufuna ukubuyela kule nkqubo, cofa MOLO. "
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon!"
+msgstr "Siyathemba sizakuphinda sikubone kwakhona kungekudala!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "The transaction for sending your airtime of R@results.amount has failed."
+msgstr "Le transaction yokuthumela i-airtime yakho ye- R@results.amount ayiphumelelanga."
+
+#. type=text
+msgctxt "text"
+msgid "If you have not received your airtime in 3 days, please send a message to {WhatsApp SWIFT line support} with your transaction ID."
+msgstr "Ukuba awukayifumani i-airtime yakho kwiintsuku ezi- 3, nceda uthumele umyalezo ku-  {WhatsApp SWIFT line support} ne- transaction ID yakho."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your transaction ID is: @contact.id"
+msgstr "I-ID yentengiselwano yakho ithi: @contact.id"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your airtime of R@results.amount will be sent to this WhatsApp number. Please allow up to 3 days for the payment to process."
+msgstr "I-airtime yakho ye-R@results.amount izakuthunyelwa kulenombolo ka-WhatsApp. Nceda ulinde ukuya kwiintsuku ezi-3 ukuze intlawulo ingene. "
+
+#. type=text
+msgctxt "text"
+msgid "🥳 It's time for your 2nd survey. This survey contains about 25 questions. You will receive R50 airtime for participating. Are you ready to get started? "
+msgstr "🥳 Lixesha lesaveyi yakho yesibini. Olu phando lunemibuzo emalunga namashumi amabini anesihlanu. Uza kufumana i-airtime ye-R50 ngokuthatha inxaxheba. Ingaba ukulungele ukuqalisa? "
+
+#. type=text
+msgctxt "text"
+msgid "Select one of the options below:"
+msgstr "Khetha enye yeenketho ezingezantsi:"
+
+#. type=text
+msgctxt "text"
+msgid "1. Yes"
+msgstr "1. Ewe"
+
+#. type=text
+msgctxt "text"
+msgid "2. No"
+msgstr "2. Hayi"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay."
+msgstr "Oko kulungile."
+
+#. type=text
+msgctxt "text"
+msgid "🥳 It's time for your last survey.  If you complete the survey, you will receive R50 airtime. Are you ready to get started? "
+msgstr "🥳Lixesha lokuba wenze isaveyi yakho yokugqibela.  Ukuba uyalugqiba uphando, uza kufumana i-airtime ye-R50. Ingaba ukulungele ukuqalisa? "
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Keep your child safe and healthy! 🌱"
+msgstr "🌱 Gcina umntwana wakho ekhuselekile kwaye esempilweni! 🌱"
+
+#. type=text
+msgctxt "text"
+msgid "You've already started improving your relationship with your child! Learn more with our easy 5-day course on child safety in ParentText. Just 10 minutes each day. Earn a certificate when you finish! Want to start?"
+msgstr "Sele uqalile ukuphucula ubudlelwane bakho nomntwana wakho! Funda okungakumbi ngesifundo sethu seentsuku ezi-5 sokukhusela abantwana kwiParentText. Imizuzu nje ezi-10 ngo suku ngalunye. Fumana isatifiketi xa ugqibile! Ngaba ufuna ukuqala?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay! You can easily access the Child Safety course any time you want via the main menu. Just type {MENU} to access it."
+msgstr "Kulungile! Ungafikelela ngokulula kwikhosi loKhuseleko loMntwana naliphi na ixesha xa ufuna ngemenyu ephambili. Vele uchwetheze {MENU} ukufikelela kuyo."
+
+#. type=text
+msgctxt "text"
+msgid "Sorry. You are not eligible to participate in this programme. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}."
+msgstr "Ixolo. Awukulungelanga ukuthatha inkxaxheba kulenkqubo. Ungafuna ukuzama enye inkqubo ka-WhatsApp, i-ParentLine, ngokuthumela u-WhatsApp ku {parentline number}."
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back!"
+msgstr "Wamkelekile kwakhona!"
 
 #. type=text
 msgctxt "text"
@@ -1272,6 +1375,42 @@ msgstr "HAYI"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "BACK"
+msgstr "UMVA"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "1"
+msgstr "1"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "2"
+msgstr "2"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr "Ewe"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr "Hayi"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "OKULANDELAYO"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "English"
 msgstr "IsiNgesi"
 
@@ -1290,12 +1429,6 @@ msgstr "IAfrikansi"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "NEXT"
-msgstr "OKULANDELAYO"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Yes, I am 18 years old or older"
 msgstr "Ewe, ndineminyaka elineshumi elinesibhozo okanye ngaphezulu"
 
@@ -1304,18 +1437,6 @@ msgstr "Ewe, ndineminyaka elineshumi elinesibhozo okanye ngaphezulu"
 msgctxt "quick_replies"
 msgid "No, I am under 18"
 msgstr "Hayi, ndingaphantsi kweminyaka elishumi elinesibhozo"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Yes"
-msgstr "Ewe"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "No"
-msgstr "Hayi"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1614,6 +1735,12 @@ msgstr "ewe, ndiyafuna ukuthatha inxaxheba kolu phononongo"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "no, thanks"
+msgstr "hayi, enkosi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "yes"
 msgstr "ewe"
 
@@ -1628,6 +1755,72 @@ msgstr "phuma"
 msgctxt "arguments"
 msgid "no"
 msgstr "hayi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "back"
+msgstr "umva"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "1"
+msgstr "1"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "2"
+msgstr "2"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "generic"
+msgstr "ufuzo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental_health"
+msgstr "iimpilo_zengqondo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "health"
+msgstr "impilo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "violence"
+msgstr "ubundlobongela"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "natural_disasters"
+msgstr "iintlekele_zendalo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "drugs"
+msgstr "iziyobisi"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "help"
+msgstr "uncedo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop"
+msgstr "yima"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
