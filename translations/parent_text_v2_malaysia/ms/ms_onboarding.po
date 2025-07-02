@@ -11,7 +11,12 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-06-12 06:54\n"
+"PO-Revision-Date: 2025-07-02 07:38\n"
+
+#. type=text
+msgctxt "text"
+msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
+msgstr "Nampaknya ini bukan masa yang sesuai. Sila taip 1 jika anda ingin teruskan."
 
 #. type=text
 msgctxt "text"
@@ -29,6 +34,33 @@ msgid "Sorry, I don't understand what you mean."
 msgstr "Maaf, saya tidak faham apa maksud anda."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "✨ Welcome to @fields.prog_name!"
+msgstr "✨ Selamat datang ke @fields.prog_name!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "✅ In @fields.prog_name, you'll receive daily lessons with stories and strategies to make parenting work. "
+msgstr "✅ Dalam @fields.prog_name, anda akan menerima pelajaran harian yang mengandungi cerita dan strategi untuk membantu keibubapaan lebih berkesan"
+
+#. type=text
+msgctxt "text"
+msgid "✅ You can learn more about this programme and the team behind it at {URL}"
+msgstr "✅ Anda boleh mengetahui lebih lanjut tentang program ini dan organisasi yang terlibat di {URL}"
+
+#. type=text
+msgctxt "text"
+msgid "✅ Your personal information is safe and private. To read our privacy policy, visit {consent}. If you are over 16 and consent to our privacy policy, select YES.  Type \"EXIT\" if you do not want to participate."
+msgstr "✅ Maklumat peribadi anda adalah selamat dan sulit. Untuk membaca polisi privasi kami, sila layari {consent}. Jika anda berumur lebih 16 tahun dan bersetuju dengan polisi privasi kami, pilih YA. Taip \"KELUAR\" jika anda tidak mahu mengambil bahagian."
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option."
+msgstr "Adakah anda pasti yang anda tidak mahu menerima mesej-mesej ini? Sila taip TIDAK sekiranya anda tidak lagi mahu menerima mesej. Sekiranya anda melakukan kesilapan, sila taip KEMBALI dan buat pilihan lain."
+
+#. type=text
 msgctxt "text"
 msgid "If you ever decide to participate in the programme, type HELLO. "
 msgstr "Taip HELO jika anda kembali untuk menyertai program ini. "
@@ -37,6 +69,38 @@ msgstr "Taip HELO jika anda kembali untuk menyertai program ini. "
 msgctxt "text"
 msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
 msgstr "Semoga berjumpa lagi! Selamat sejahtera!"
+
+#. type=text
+msgctxt "text"
+msgid "Great! To complete this programme, you'll need a partner in parenting. There are 2 parenting experts to choose from:"
+msgstr "Bagus! Untuk melengkapkan program ini, anda memerlukan seorang rakan dalam keibubapaan. Terdapat 2 pakar keibubapaan yang boleh anda pilih:"
+
+#. type=text
+msgctxt "text"
+msgid "Who would you like to be your guide?"
+msgstr "Siapa yang anda ingin pilih sebagai pembimbing anda?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi! I'm @fields.avatar_name! Welcome to @fields.prog_name. I am excited to be your companion in this programme. You already know about me. Now, I would love to learn more about you. It will help me create a personalised programme just for you. Let's get started."
+msgstr "Hai! Saya @fields.avatar_name! Selamat datang ke @fields.prog_name. Saya teruja untuk menjadi teman anda dalam program ini. Anda sudah pun mengenali saya. Sekarang, saya ingin tahu lebih lanjut tentang anda pula. Ini akan membantu saya mencipta program yang khusus untuk anda. Jom kita mulakan!"
+
+#. type=text
+msgctxt "text"
+msgid "What is your name?"
+msgstr "Apakah nama anda?"
+
+#. type=text
+msgctxt "text"
+msgid "This looks too long. Please enter a shorter name."
+msgstr "Nama anda terlalu panjang. Sila masukkan nama yang lebih pendek."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It's really nice to meet you, @fields.first_user_name."
+msgstr "Gembira dapat berkenalan dengan anda, @fields.first_user_name."
 
 #. type=text
 msgctxt "text"
@@ -52,6 +116,17 @@ msgstr "Apakah status hubungan anda?"
 msgctxt "text"
 msgid "Where do you live?"
 msgstr "Di manakah anda tinggal?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your ethnicity?"
+msgstr "Apakah etnik anda?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Thanks, @fields.first_user_name. Now let's get to know your child. You might have more than one, but we're going to start by focusing on just one."
+msgstr "Terima kasih, @fields.first_user_name. Sekarang, jom kita kenali anak anda pula. Anda mungkin mempunyai lebih daripada seorang anak, tetapi kita akan mulakan dengan fokus kepada seorang dahulu."
 
 #. type=text
 msgctxt "text"
@@ -75,6 +150,50 @@ msgid "Is your child a girl or a boy?"
 msgstr "Adakah anak anda seorang perempuan atau lelaki?"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "How many years old is @fields.child_nickname?"
+msgstr "Berapakah umur @fields.child_nickname?"
+
+#. type=text
+msgctxt "text"
+msgid "How many years old is your child?"
+msgstr "Berapakah umur anak anda?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Let's try that again. How many years old is @fields.child_nickname? Please enter a number between 2-7."
+msgstr "Mari kita cuba sekali lagi. Berapakah umur @fields.child_nickname? Sila masukkan nombor antara 2-7."
+
+#. type=text
+msgctxt "text"
+msgid "Let's try that again. How many years old is your child? Please enter a number between 2-7."
+msgstr "Mari kita cuba sekali lagi. Berapakah umur anak anda? Sila masukkan nombor antara 2-7."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Oops! This programme is only for parents of children ages 2-7. Let's try that again. How many years old is @fields.child_nickname? Please enter a number between 2-7."
+msgstr "Oops! Program ini hanya untuk ibu bapa yang mempunyai anak berumur antara 2-7 tahun. Mari kita cuba sekali lagi. Berapakah umur @fields.child_nickname? Sila masukkan nombor antara 2-7."
+
+#. type=text
+msgctxt "text"
+msgid "Oops! This programme is only for parents of children ages 2-7. Let's try that again. How many years old is your child? Please enter a number between 2-7."
+msgstr "Oops! Program ini hanya untuk ibu bapa yang mempunyai anak berumur antara 2-7 tahun. Mari kita cuba sekali lagi. Berapakah umur anak anda? Sila masukkan nombor antara 2-7."
+
+#. type=text
+msgctxt "text"
+msgid "Perfect! I've got your programme ready for you and you are all set to begin."
+msgstr "Program khusus untuk anda sudah sedia dan anda boleh mula sekarang."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@fields.prog_name is easiest to use when you receive content as videos, images and text. Videos are fun and engaging, but we understand if you have limited mobile data. To save on data, you can choose to receive the same content with a smaller audio file or text. How would you like to receive @fields.prog_name?"
+msgstr "@fields.prog_name paling mudah digunakan apabila anda menerima kandungan dalam bentuk video, imej dan teks. Video lebih menyeronokkan dan interaktif, tetapi kami faham jika anda mempunyai data yang terhad. Untuk menjimatkan data, anda boleh memilih untuk menerima kandungan yang sama dalam bentuk fail audio yang lebih kecil atau teks. Bagaimanakah anda ingin menerima @fields.prog_name?"
+
+#. type=text
 msgctxt "text"
 msgid "How helpful has this programme been in improving your relationship with your child?"
 msgstr "Sejauh manakah program ini telah memperbaiki hubungan anda dengan anak anda?"
@@ -96,6 +215,12 @@ msgstr "Bahasa Melayu"
 msgctxt "quick_replies"
 msgid "YES"
 msgstr "YA"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NO"
+msgstr "TIDAK"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -348,6 +473,12 @@ msgstr "Membantu"
 msgctxt "quick_replies"
 msgid "Very helpful"
 msgstr "Sangat membantu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "completed"
+msgstr "selesai"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
