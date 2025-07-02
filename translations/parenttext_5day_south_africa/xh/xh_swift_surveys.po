@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-06-30 08:33\n"
+"PO-Revision-Date: 2025-07-02 14:15\n"
 
 #. type=text
 msgctxt "text"
@@ -97,6 +97,16 @@ msgstr "✏️ Emva kweenyanga ezintathu, uya kufumana imibuzo yesithathu. Uya k
 msgctxt "text"
 msgid "📲 After each survey, the money will be sent to this WhatsApp number as mobile airtime."
 msgstr "📲 Emva kovavanyo ngalunye, imali iya kuthunyelwa kwinombolo yefowuni oyikhethayo njengexesha lomoya eliphathwayo."
+
+#. type=text
+msgctxt "text"
+msgid "✏️ 1 month later, you will be asked to complete a 2nd survey. "
+msgstr "✏️ Emva kwenyanga enye, uzakucelwa ukuba uphendule isaveyi yesibini. "
+
+#. type=text
+msgctxt "text"
+msgid "✏️ 3 months later, you will receive a 3rd survey."
+msgstr "✏️ Emva kwenyanga ezintathu, uzakufumana isaveyi yesithathu."
 
 #. type=text
 msgctxt "text"
@@ -208,8 +218,18 @@ msgstr "Oko kulungile."
 
 #. type=text
 msgctxt "text"
+msgid "🥳 It's time for your 2nd survey. This survey contains about 25 questions. Are you ready to get started? "
+msgstr "Lixesha lesaveyi yakho yesibini. Le saveyi inemibuzo engama-25.  Ukulungele ukuqala? "
+
+#. type=text
+msgctxt "text"
 msgid "🥳 It's time for your last survey.  If you complete the survey, you will receive R50 airtime. Are you ready to get started? "
 msgstr "🥳Lixesha lokuba wenze isaveyi yakho yokugqibela.  Ukuba uyalugqiba uphando, uza kufumana i-airtime ye-R50. Ingaba ukulungele ukuqalisa? "
+
+#. type=text
+msgctxt "text"
+msgid "🥳 It's time for your last survey. Are you ready to get started? "
+msgstr "🥳 Lixesha le saveyi yakho yokugqibela. Ingaba ukulungele ukuqala? "
 
 #. type=text
 msgctxt "text"
@@ -235,6 +255,37 @@ msgstr "Ixolo. Awukulungelanga ukuthatha inkxaxheba kulenkqubo. Ungafuna ukuzama
 msgctxt "text"
 msgid "Welcome back!"
 msgstr "Wamkelekile kwakhona!"
+
+#. type=text
+msgctxt "text"
+msgid "Would you also like a member of our team to contact you for support?"
+msgstr "Ungathanda ukuba ilungu leqela lethu liqhagamshelane nawe ukuze likuxhase?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. Press NEXT to continue with the survey."
+msgstr "Kulungile. Cofa OKULANDELAYO ukuze uqhubekeke ne saveyi."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Great! Can we use @(text_slice(contact.urn,11)) to contact you?"
+msgstr "Kuhle! Singasebenzisa le namba (text_slice(contact.urn,11)) ukuqhamshelana nawe?"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you. Someone from the ParentText team will contact you in the next week."
+msgstr "Enkosi. Umntu osuka kwiqela le-ParentText uzakuqhangamshelana nawe kuleveki izayo."
+
+#. type=text
+msgctxt "text"
+msgid "Press NEXT to continue with the survey."
+msgstr "Cofa OKULANDELAYO ukuze uqhubekeke ne saveyi."
+
+#. type=text
+msgctxt "text"
+msgid "No problem. Please enter a 10 digit South African phone number, beginning with the number 0, where we can reach you."
+msgstr "Akukho ngxaki. Nceda ucofe inamba yaseMzantsi Afrika engamanani alishumi, eqala ngenani u- 0, singakufumana phi?"
 
 #. type=text
 msgctxt "text"
@@ -1261,6 +1312,11 @@ msgstr "❗❗❗ Ukuba nayo nayiphi na imibuzo kule saveyi ikushiye uxhalabile 
 msgctxt "text"
 msgid "📅 We will follow up with similar questions in two months, and once you've completed that final survey, you will receive an additional R50 airtime."
 msgstr "📅 Sizakulandelela nemibuzo ebufana kwisithuba senyanga ezimbini, kwaye xa uthe wayigqiba isaveyi yokugqibela, uyakufumana i-R50 ye-airtime eyongezelelweyo."
+
+#. type=text
+msgctxt "text"
+msgid "🎉🎉 You have completed the survey! Thank you very much for your participation. "
+msgstr "Uyigqibile isaveyi! Enkosi kakhulu ngenxaxheba yakho. "
 
 #. type=text
 msgctxt "text"
