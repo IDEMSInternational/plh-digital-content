@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2025-07-01 19:39\n"
+"PO-Revision-Date: 2025-07-02 14:15\n"
 
 #. type=text
 msgctxt "text"
@@ -233,6 +233,11 @@ msgstr "🥳 Dit is tyd vir jou laaste opname! As jy die opname voltooi, sal jy 
 
 #. type=text
 msgctxt "text"
+msgid "🥳 It's time for your last survey. Are you ready to get started? "
+msgstr "🥳 Dis tyd vir jou laaste opname. Is jy gereed om te begin? "
+
+#. type=text
+msgctxt "text"
 msgid "🌱 Keep your child safe and healthy! 🌱"
 msgstr "🌱Hou jou kind veilig en gesond!🌱"
 
@@ -255,6 +260,58 @@ msgstr "Jammer. Jy voldoen nie aan die vereistes om aan hierdie program deel te 
 msgctxt "text"
 msgid "Welcome back!"
 msgstr "Welkom terug!"
+
+#. type=text
+msgctxt "text"
+msgid "Would you also like a member of our team to contact you for support?"
+msgstr "Wil jy ook hê dat 'n lid van ons span jou moet kontak vir ondersteuning?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. Press NEXT to continue with the survey."
+msgstr "Dis oukei. Druk VOLGENDE om om voort te gaan met die opname."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Great! Can we use @(text_slice(contact.urn,11)) to contact you?"
+msgstr "Wonderlik! Kan ons @(text_slice(contact.urn,11)) gebruik om jou te kontak?"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you. Someone from the ParentText team will contact you in the next week."
+msgstr "Dankie. Iemand van die ParentText span sal jou in die week kontak."
+
+#. type=text
+msgctxt "text"
+msgid "Press NEXT to continue with the survey."
+msgstr "Druk VOLGENDE om voort te gaan met die opname."
+
+#. type=text
+msgctxt "text"
+msgid "No problem. Please enter a 10 digit South African phone number, beginning with the number 0, where we can reach you."
+msgstr "Geen probleem. Voer asseblief 'n 10-syfer Suid-Afrikaanse telefoonnommer in, wat met die nommer 0 begin, waar ons jou kan bereik."
+
+#. type=text
+msgctxt "text"
+msgid "That phone number is invalid. South African phone numbers should begin with the number zero, please enter a ten-digit phone number beginning with the number zero. Or press 1 if you no longer wish to be contacted."
+msgstr "Daardie foonnommer is ongeldig. Suid-Afrikaanse foonnommers moet met die nommer nul begin, voer asseblief 'n tien-syfer telefoonnommer in wat met die nommer nul begin. Of druk 1 as jy nie meer gekontak wil word nie."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Your answer means that @fields.child_nickname might have experienced something difficult. *Childline* can help: call free on *116*."
+msgstr "Jou antwoord beteken dat @fields.child_nickname dalk iets moeilik ervaar het. *Childline* kan help: bel gratis op *116*."
+
+#. type=text
+msgctxt "text"
+msgid "Your answer means that your teen might have experienced something difficult. *Childline* can help: call free on *116*."
+msgstr "Jou antwoord beteken dat jou tiener dalk iets moeilik ervaar het. *Childline* kan help: bel gratis op *116*."
+
+#. type=text
+msgctxt "text"
+msgid "Your answer means that your child might have experienced something difficult. *Childline* can help: call free on *116*."
+msgstr "Jou antwoord beteken dat jou kind dalk iets moeilik ervaar het. *Childline* kan help: bel gratis op *116*."
 
 #. type=text
 msgctxt "text"
@@ -1237,6 +1294,16 @@ msgstr "🇿🇦 💛 Jou waardevolle insette sal ons help om die uitdagings en 
 
 #. type=text
 msgctxt "text"
+msgid "🥳 You have completed the survey! Thank you very much for your participation. "
+msgstr "🥳 Jy het die opname voltooi! Baie dankie vir jou deelname. "
+
+#. type=text
+msgctxt "text"
+msgid "📅 We will follow up with similar questions in one month."
+msgstr "📅 Ons sal oor 'n maand met soortgelyke vrae opvolg."
+
+#. type=text
+msgctxt "text"
 msgid "✏️ You will receive R50 airtime for participating in this survey. "
 msgstr "✏️Jy sal R50 lugtyd ontvang vir deelname aan hierdie opname. "
 
@@ -1281,6 +1348,16 @@ msgstr "❗❗❗ As enige vrae in hierdie opname jou bekommerd gelaat het of jo
 msgctxt "text"
 msgid "📅 We will follow up with similar questions in two months, and once you've completed that final survey, you will receive an additional R50 airtime."
 msgstr "📅 Ons sal oor twee maande met soortgelyke vrae opvolg, en sodra jy daardie finale opname voltooi het, sal jy 'n bykomende R50 lugtyd ontvang."
+
+#. type=text
+msgctxt "text"
+msgid "🎉🎉 You have completed the survey! Thank you very much for your participation. "
+msgstr "🎉🎉 Jy het die opname voltooi! Baie dankie vir jou deelname. "
+
+#. type=text
+msgctxt "text"
+msgid "📅 We will follow up with similar questions in two months."
+msgstr "📅 Ons sal oor 'n maand met soortgelyke vrae opvolg."
 
 #. type=text
 msgctxt "text"
