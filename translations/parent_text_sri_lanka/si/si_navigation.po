@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Sinhala\n"
 "\n"
 "Language: si_LK\n"
-"PO-Revision-Date: 2025-07-02 14:18\n"
+"PO-Revision-Date: 2025-07-03 08:24\n"
 
 #. type=text
 msgctxt "text"
@@ -156,7 +156,7 @@ msgstr "ඒකට කමක් නෑ. ඔබ කවදා හරි   නැව
 #. type=text
 msgctxt "text"
 msgid "You are already part of ParentText!"
-msgstr "ඔබ දැනටමත් ParentText හි කොටසක්!"
+msgstr "ඔබ දැනටමත් ParentText  සමඟ සම්බන්ධවී ඇත!"
 
 #. type=text
 msgctxt "text"
@@ -186,7 +186,7 @@ msgstr "සහභාගී වූවාට ඔබට ස්තූතියි. �
 #. type=text
 msgctxt "text"
 msgid "We hope to see you again soon!"
-msgstr "ඉක්මනින් ඔබව නැවත දැකීමට බලාපොරොත්තු වෙමු!"
+msgstr "ඉක්මනින් ඔබ  සමඟ නැවත සම්බන්ධ වීමට බලාපොරොත්තු  වෙමු!"
 
 #. type=text
 msgctxt "text"
@@ -315,7 +315,7 @@ msgstr "ඔබ සම්පූර්ණ කිරීමට කැමති ප�
 #. type=text
 msgctxt "text"
 msgid "You haven't started to work on a course yet."
-msgstr "ඔයා තාම පාඨමාලාවක වැඩ පටන් අරන් නෑ."
+msgstr "ඔබ තවම පාඨමාලාවක වැඩ පටන් ගෙන නොමැත."
 
 #. type=text
 msgctxt "text"
@@ -340,7 +340,7 @@ msgstr "ඔබ අපහසුවෙන් ඉන්නෙ මොනවාටද
 #. type=text
 msgctxt "text"
 msgid "You haven't completed a lesson yet."
-msgstr "ඔබ තවම පාඩමක් ඉවර කරලා නැහැ."
+msgstr "ඔබ තවම පාඩමක් අවසන් කර නොමැත."
 
 #. type=text
 msgctxt "text"
@@ -1109,7 +1109,7 @@ msgstr "වත්මන් තත්ත්වය: ඔබ"
 #. type=text
 msgctxt "text"
 msgid "You didn't provide this info."
-msgstr "ඔබ මෙම තොරතුරු ලබා දුන්නේ නැත."
+msgstr "ඔබ මෙම තොරතුරු ලබා දී නොමැත."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1132,7 +1132,7 @@ msgstr "වත්මන් තත්ත්වය: ඔබේ දරුවාග�
 #. type=text
 msgctxt "text"
 msgid "You didn't provide a nickname for your child."
-msgstr "ඔබ ඔබගේ දරුවාට අන්වර්ථ නාමයක් දුන්නේ නැහැ."
+msgstr "ඔබ ඔබගේ දරුවාට අන්වර්ථ නාමයක් ලබා දී නොමැත."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1238,6 +1238,16 @@ msgstr "ParentText ඔබට වැඩ කරන්නේ නැහැ වගේ
 
 #. type=text
 msgctxt "text"
+msgid "ParentText should only take 10 minutes a day to complete. Would you like to try a new lesson now?"
+msgstr "ParentText සම්පූර්ණ කිරීමට දිනකට මිනිත්තු 10ක් පමණයි ගතවෙන්නේ. දැන් අලුත් පාඩමක් උත්සාහ කිරීමට ඔබ කැමතිද?"
+
+#. type=text
+msgctxt "text"
+msgid "Oh no! Why is ParentText not helpful?"
+msgstr "අනේ නැහැ! ParentText ප්‍රයෝජනවත් නොවන්නේ ඇයි?"
+
+#. type=text
+msgctxt "text"
 msgid "It may seem like spending one-on-one time with your child won't help you with their behaviour right away, but patience is key. This time together helps you understand each other better and build a strong bond. When children feel heard and supported like this, it often helps improve their behaviour over time."
 msgstr "ඔබේ දරුවා සමඟ දරුවා වෙනුවෙන් වෙන්කරගත් කාලය ගත කිරීම ඔවුන්ගේ හැසිරීමට වහාම උපකාරී නොවන බව පෙනෙන්නට පුළුවන්, නමුත් ඉවසීම අත්‍යවශ්‍ය වේ. මෙම කාලය එකට ගත කිරීම ඔබට එකිනෙකා වඩා හොඳින් තේරුම් ගැනීමට සහ ශක්තිමත් බැඳීමක් ගොඩනඟා ගැනීමට උපකාරී වේ. දරුවන්ට මේ ආකාරයෙන් සවන් දී සහයෝගය දක්වන බව දැනෙන විට, එය බොහෝ විට කාලයත් සමඟ ඔවුන්ගේ හැසිරීම වැඩිදියුණු කිරීමට උපකාරී වේ."
 
@@ -1249,7 +1259,7 @@ msgstr "වෙන්කරගත් කාලය පාඩම ගැන වැ�
 #. type=text
 msgctxt "text"
 msgid "I might know some resources that can help. What would you like information for?"
-msgstr "උදව් විය හැකි සම්පත් කිහිපයක් මම දන්නවා ඇති. ඔබට තොරතුරු අවශ්‍ය වන්නේ කුමක් සඳහාද?"
+msgstr "උදව් විය හැකි සම්පත් කිහිපයක් මම දන්නවා. ඔබට තොරතුරු අවශ්‍ය වන්නේ කුමක් සඳහාද?"
 
 #. type=text
 msgctxt "text"
@@ -1309,7 +1319,7 @@ msgstr "{lgbtqia referrals}"
 #. type=text
 msgctxt "text"
 msgid "School is where your child spends most of their time. Making sure that they are in school, and happy and supported is so important. If you're struggling with any school issues, here is some help:"
-msgstr "ඔබේ දරුවා වැඩි කාලයක් ගත කරන්නේ පාසලයි. ඔවුන් පාසලේ සිටින බවටත්, සතුටින් සහ සහයෝගයෙන් කටයුතු කරන බවටත් වග බලා ගැනීම ඉතා වැදගත්. ඔබ කිසියම් පාසලේ ගැටලුවක් සමඟ පොරබදන්නේ නම්, මෙන්න උදව්වක්:"
+msgstr "ඔබේ දරුවා වැඩි කාලයක් ගත කරන්නේ පාසලෙයි. ඔවුන් පාසලේ සිටින බවටත්, සතුටින් සහ සහයෝගයෙන් කටයුතු කරන බවටත් වග බලා ගැනීම ඉතා වැදගත්. ඔබ කිසියම් පාසලේ ගැටලුවක් සමඟ පොරබදන්නේ නම්, මෙන්න උදව්වක්:"
 
 #. type=text
 msgctxt "text"
@@ -1574,6 +1584,17 @@ msgctxt "text"
 msgid "How should I print your name on the certificate?"
 msgstr "සහතිකයේ ඔබේ නම මුද්‍රණය කරන්න ඕනේ කොහොමද?"
 
+#. type=text
+msgctxt "text"
+msgid "This name is too long. Please enter a shorter name."
+msgstr "මෙම නම දිග වැඩියි. කරුණාකර කෙටි නමක් ඇතුළත් කරන්න."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "The name you would like to have on you certificate is @fields.sq_cert_name. Is that correct?"
+msgstr "ඔබේ සහතිකයේ තැබීමට කැමති නම @fields.sq_cert_name. ඒක හරිද?"
+
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
@@ -1589,8 +1610,296 @@ msgstr "නැත"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "BACK"
+msgstr "ආපසු"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "NEXT"
 msgstr "ඊළඟ"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Give me an idea for 1-on-1 time with my child"
+msgstr "මගේ දරුවා එක්ක දරුවා වෙනුවෙන් වෙන්කරගත් කාලයේදී කරන්න අදහසක් දෙන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need more parenting help"
+msgstr "මට තව මාපියකරණය පිළිබඳව උදව් අවශ්‍යයි"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I’m done for today"
+msgstr "අදට මට ඇති"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NA"
+msgstr "NA"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View another activity idea"
+msgstr "තවත් ක්‍රියාකාරකම් අදහසක් බලන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to Main Menu"
+msgstr "ප්‍රධාන මෙනුවට යන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Continue my progress tomorrow"
+msgstr "හෙට මගේ ප්‍රගතිය දිගටම කරගෙන යන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit menu"
+msgstr "මෙනුවෙන් ඉවත්වන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Quick"
+msgstr "ඉක්මන් දෙයක්"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Active"
+msgstr "ක්‍රියාකාරී දෙයක්"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Calm"
+msgstr "සන්සුන් දෙයක්"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something for the whole family"
+msgstr "මුළු පවුලටම කළ හැකි දෙයක්"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Now"
+msgstr "දැන්"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Tomorrow"
+msgstr "හෙට"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "1"
+msgstr "1"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "2"
+msgstr "2"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Remind me tomorrow"
+msgstr "මට හෙට මතක් කරන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review a lesson from a different course"
+msgstr "වෙනත් පාඨමාලාවකින් පාඩමක් නැවත බලන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Menu"
+msgstr "මෙනුවට ආපසු යන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review another lesson from this course"
+msgstr "මෙම පාඨමාලාවෙන් තවත් පාඩමක් නැවත බලන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get more help with this course"
+msgstr "මෙම පාඨමාලාව සම්බන්ධයෙන් තවත් උදව් ලබා ගන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get help with a different challenge"
+msgstr "වෙනත් අභියෝගයකට උදව් ලබා ගන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to the Main Menu"
+msgstr "ප්‍රධාන මෙනුවට ආපසු යන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View finished courses"
+msgstr "අවසන් කළ පාඨමාලා බලන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View incomplete courses"
+msgstr "අසම්පූර්ණ පාඨමාලා බලන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View courses to start"
+msgstr "පටන් ගැනීමට ඇති පාඨමාලා බලන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Main Menu"
+msgstr "ප්‍රධාන මෙනුවට ආපසු යන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit Menu"
+msgstr "මෙනුවෙන් ඉවත්වන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Track My Progress"
+msgstr "මගේ ප්‍රගතිය නිරීක්ෂණය කරන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Share with a Friend"
+msgstr "මිතුරෙකු සමඟ බෙදා ගන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Emergencies"
+msgstr "හදිසි අවස්ථා"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Settings"
+msgstr "සැකසුම්"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Activities"
+msgstr "ක්‍රියාකාරකම්"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "How to Use ParentText"
+msgstr "ParentText භාවිතා කරන්නේ කොහොමද?"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get Help with the Skills I am Working on"
+msgstr "මට අවශ්‍ය කරන කුසලතා සඳහා උදව් ලබා ගන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review Completed Skills"
+msgstr "සම්පූර්ණ කළ කුසලතා නැවත බලන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change your profile"
+msgstr "ඔබගේ තොරතුරු වෙනස් කරන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Stop receiving the messages"
+msgstr "පණිවිඩ ලැබීම නවත්වන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Language"
+msgstr "ඔබේ භාෂාව"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Media Settings"
+msgstr "ඔබේ මාධ්‍ය සැකසුම්"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Gender"
+msgstr "ඔබේ ස්ත්‍රීපුරුෂ භාවය"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Relationship Status"
+msgstr "ඔබේ සම්බන්ධතා තත්ත්වය"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Child's Age"
+msgstr "ඔබේ දරුවාගේ වයස"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Child's Nickname"
+msgstr "ඔබේ දරුවාගේ අන්වර්ථ නාමය"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Your Child's Gender"
+msgstr "ඔබේ දරුවාගේ ස්ත්‍රීපුරුෂ භාවය"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit"
+msgstr "ඉවත්වන්න"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I need more parenting support than ParentText offers"
+msgstr "මට ParentText ලබාදෙනවට වඩා මාපියකරණය ගැන සහයෝගය අවශ්‍යයි"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1680,7 +1989,7 @@ msgstr "සෞඛ්‍ය සහාය සේවා"
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Dealing with violence"
-msgstr "ප්රචණ්ඩත්වය සමඟ කටයුතු කිරීම"
+msgstr "ප්‍රචණ්ඩත්වය සමඟ කටයුතු කිරීම"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1984,7 +2293,7 @@ msgstr "මගේ දරුවා වෙනුවෙන් වෙන්කරග
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "i need more parenting help"
-msgstr "මට තව මපියකරණය ගැන උදව් අවශ්‍යයි"
+msgstr "මට මපියකරණය ගැන තවත්  උදව් අවශ්‍යයි"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -2164,7 +2473,7 @@ msgstr "ක්‍රියාකාරකම්"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "how to use parenttext"
-msgstr "parenttext භාවිතා කරන්නේ කෙසේද?"
+msgstr "parenttext භාවිතා කරන්නේ කොහොමද?"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -2285,4 +2594,214 @@ msgstr "මගේ දුරකථනයේ parenttext වැඩ කරන්න�
 msgctxt "arguments"
 msgid "other"
 msgstr "වෙනත්"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "this content is too basic for me"
+msgstr "මේ අන්තර්ගතය මට ගොඩක් සරල වැඩියි"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i do not see how parenttext will help me with my child’s behaviour"
+msgstr "මගේ දරුවාගේ හැසිරීම සම්බන්ධයෙන් Parenttext උපකාර වන්නේ කෙසේදැයි මට තේරෙන්නේ නැහැ"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i need more support than a chatbot can provide"
+msgstr "මට චැට්බෝට් එකකින් ලබාදෙනවට වඩා සහයෝගයක් අවශ්‍යයි"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "this content is not helpful for my child with special needs"
+msgstr "විශේෂ අවශ්‍යතා ඇති මගේ දරුවාට මෙම අන්තර්ගතය ප්‍රයෝජනවත් නොවේ"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i'm facing challenges that make it difficult to focus on parenting right now"
+msgstr "මම මේ වෙලාවේ මාපියකරණය ගැන අවධානය යොමු කිරීම දුෂ්කර කරන අභියෝගවලට මුහුණ දෙනවා"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "emergency support"
+msgstr "හදිසි සහාය"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "health support services"
+msgstr "සෞඛ්‍ය සහාය සේවා"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "dealing with violence"
+msgstr "ප්‍රචණ්ඩත්වය සමඟ කටයුතු කිරීම"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "suicide prevention services"
+msgstr "සියදිවි නසාගැනීම් වැළැක්වීමේ සේවා"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "family counselling and support"
+msgstr "පවුල් උපදේශනය සහ සහාය"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "drugs and alcohol abuse"
+msgstr "මත්ද්‍රව්‍ය සහ මත්වතුර අනිසි භාවිතය"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "child development support"
+msgstr "ළමා සංවර්ධන සහාය"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "legal or sassa help"
+msgstr "නීතිමය හෝ sassa උදව්"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "lgbtqia+ support services"
+msgstr "lgbtqia+ සහාය සේවා"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "school issues"
+msgstr "පාසලේ ගැටළු"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, thanks"
+msgstr "ස්තුතියි. අවශ්‍ය නැහැ"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get other emergency contacts"
+msgstr "වෙනත් හදිසි ඇමතුම් ලබා ගන්න"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "english"
+msgstr "ඉංග්‍රීසි"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "sinhala"
+msgstr "සිංහල"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "dani"
+msgstr "ඩැනි"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "chris"
+msgstr "ක්‍රිස්"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "woman"
+msgstr "කාන්තාව"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "man"
+msgstr "පුරුෂයා"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "prefer not to say"
+msgstr "කීමට අකැමතියි"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "single (not in a relationship)"
+msgstr "තනිකඩ (සම්බන්ධතාවයක් නොමැති)"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "married"
+msgstr "විවාහක"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "partnered but not married"
+msgstr "සහකරු හෝ සහකාරිය, නමුත් විවාහ වී නැත"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "divorced or separated"
+msgstr "දික්කසාද වූ හෝ වෙන් වූ"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "widowed"
+msgstr "වැන්දඹු වූ"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "n"
+msgstr "n"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "girl"
+msgstr "ගැහැණු ළමයා"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "boy"
+msgstr "පිරිමි ළමයා"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text, images, and videos"
+msgstr "පෙළ, රූප සහ වීඩියෝ"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text, images, and audio"
+msgstr "පෙළ, රූප සහ හඬ පට"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text and images only"
+msgstr "පෙළ සහ රූප පමණි"
 
