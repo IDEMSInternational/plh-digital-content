@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-07-03 08:24\n"
+"PO-Revision-Date: 2025-07-03 10:49\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -220,6 +220,14 @@ msgid "Yes, @data.characters.f2_son_8.name is still learning to manage his time 
 msgstr "Ewe,@data.characters.f2_son_8.name usafunda ukuphatha ixesha lakhe kakuhle.Zonke ezi zimpenduloezi chanekileyo!"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f2_grandfather.name
+#.      @data.characters.f2_son_8.name?
+msgctxt "data_list"
+msgid "What does @data.characters.f2_grandfather.name do to solve the problem together with @data.characters.f2_son_8.name?"
+msgstr "Wenza ntoni@data.characters.f2_grandfather.name ukusombulula ingxaki kunye no@data.characters.f2_son_8.name?"
+
+#. type=data_list
 #. The string @data.characters.f2_son_8.name should not be translated.
 msgctxt "data_list"
 msgid "He tells @data.characters.f2_son_8.name that he is disappointed in him for going to bed late"
@@ -236,6 +244,12 @@ msgid ""
 msgstr ""
 "Zama kwakhona!u@data.characters.f2_grandfather.name ukhangela izisombululo kunye no@data.characters.f2_son_8.name.\n"
 "Kunye, bangasebenzisa amanyathelo amane okusombulula, Yazi, Yizame, Cingisisa."
+
+#. type=data_list
+#. The string @data.characters.f2_son_8.name should not be translated.
+msgctxt "data_list"
+msgid "He asks @data.characters.f2_son_8.name to help come up with solutions"
+msgstr "Ucela u@data.characters.f2_son_8.name ukuba ancedise ukuza nezisombululo"
 
 #. type=data_list
 msgctxt "data_list"
@@ -282,8 +296,31 @@ msgstr "YAZI"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Put the problem into words.\n"
+"\n"
+"Talk to your child about what the problem is."
+msgstr ""
+"Yibeke ngamazwi ingxaki.\n"
+"\n"
+"Thetha nomtwana wakho malunga nokuba yintoni ingxaki."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "_\"I can hear you arguing because you don’t want to watch the same television programme. I know I said you both could watch TV after you’ve helped clean up after dinner, but we only have one television. How can we solve this problem?\"_"
+msgstr "\"- Ndiyaniva xa nixambulisana kuba anifuni kubukela inkqubo enye kumabonakude. Ndiyayazi ukuba ndithe ningabukela umabonakude nobabini emva kokuba nincedise ukucoceni emva kwesidlo sangokuhlwa, kodwa sinomabonakude omnye, singayisombulula njani le ngxaki?_"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "SOLVE IT"
 msgstr "YISOMBULULE"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Together, think of possible solutions to this problem.\n"
+"What could you or your child do differently in this situation in the future?"
+msgstr "Nonke, cingani ngezisombululo ezinokubakho kule ngxaki. Yintoni wena okanye umntwana wakho onokuyenza ngokwahlukileyo kule meko kwixesha elizayo?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -297,8 +334,73 @@ msgstr "SIZAME"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Choose one solution together.\n"
+"\n"
+"Try it next time you are in a similar situation, and praise your child for trying!"
+msgstr ""
+"Khetha isisombululo esinye kunye.\n"
+"\n"
+"Yizame kwixesha elizayoxa ukwimeko efanayo, uze umncome umntwana wakho ngokuzama oko!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"_\"Okay boys, do you remember what we said last night about the TV? Who can remember the solution we came up with?\"\n"
+"\"That's right – well done for remembering! Let's try to pick a programme that you both want to watch – I can even come watch with you!\"_"
+msgstr ""
+"'_Kulungile bafana, niyakhumbula ukuba sathetha ntoni phezolo ngomabonakude? Ngubani onokusikhumbuza isisombululo esize naso?\n"
+"Kulungile, wenze kakuhle ukukhumbula! sizame ukukhetha inkqubo enifuna ukuyibukela nobabini - ndingeza nam ndizokubukela nani!'"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "REFLECT"
+msgstr "Çingisisa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "After you’ve tried it, decide with your child whether or not your solution worked."
+msgstr "Emva kokuba uyizamile, yenza isigqibo nomntwana wakho ukuba isisombululo sakho sisebenzile na okanye hayi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What you could say"
+msgstr "Yintoni onokuthi uyithethe"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "After the programme ends… _“Well that was an exciting game! I never knew I liked watching soccer so much, so thank you for introducing me to something new! I think we all had fun watching that together.”_"
 msgstr "Emva kokuba inkqubo iphelile... Ewe ngumdlalo onika umdla! Zange ndazi ukuba ndithanda ukubukela ibhola ekhatywayo kakhulu, ngoko ke ndiyabulela ngondazisa ngento entsha! Ndicinga ukuba sonke siyonwaba sibukele loo nto kunye"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let’s think of some common problems we could solve with our children."
+msgstr "Makhe sicinge ngeengxaki eziqhelekileyo esinokuzisombulula nabantwana bethu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Do you experience any of these problems at home with your children?"
+msgstr "Ngaba ufumana nayiphi na kwezi ngxaki ekhaya kunye nabantwana bakho?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Too much screen time"
+msgstr "Ixesha lokuhlola kakhulu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Coming home late"
+msgstr "Ubuya ngobusuku ekhaya"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fighting with other children"
+msgstr "Uyalwa nabanye abantwana"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Not sharing toys"
+msgstr "Ukungabelani ngezinto zokudlala"
 
 #. type=data_list
 msgctxt "data_list"
