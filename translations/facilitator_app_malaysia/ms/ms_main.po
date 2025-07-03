@@ -11,7 +11,12 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-06-17 11:40\n"
+"PO-Revision-Date: 2025-07-03 08:21\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sessions"
+msgstr "Sesi"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -23,13 +28,28 @@ msgstr "Selamat datang ke @global.app_name. Anda perlu memilih topik mingguan an
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Report"
+msgstr "Laporan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Library"
+msgstr "Sumber"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Settings"
-msgstr "Bersungguh-sungguh dalam melakukan aktiviti harian yang dicadangkan (Cuba selesaikan keseluruhan Kemahiran 5 minit pada satu masa, untuk mengelakkan masa ParentText daripada tamat)."
+msgstr "Tetapan"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups."
 msgstr "Anda dapat melihat ID fasilitator anda dan juga anda dapat menyunting senarai ibu bapa yang hadir ke kumpulan anda di profil anda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Overview of the Naungan Kasih programme."
+msgstr "Gambaran Keseluruhan Program Naungan Kasih."
 
 #. type=data_list
 msgctxt "data_list"
@@ -45,6 +65,36 @@ msgstr "Panduan Pengenalan"
 msgctxt "data_list"
 msgid "Closing Guide"
 msgstr "Panduan Penutup"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Onboarding Caregivers into the Course"
+msgstr "Panduan masuk Penjaga ke dalam Kursus"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In this video, learn how to onboard caregivers to the course in the programme."
+msgstr "Dalam video ini, pelajari cara membawa penjaga masuk ke kursus dalam program ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Add a Parent or Co-Parent"
+msgstr "Tambah Ibu Bapa atau Pasangan Keibubapaan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "In this video, learn how to add a parent and co-parent in the app."
+msgstr "Dalam video ini, pelajari cara menambah ibu bapa dan pasangan keibubapaan dalam aplikasi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Module 2 Skill"
+msgstr "Kemahiran Modul 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Body Scan"
+msgstr "Imbasan Tubuh"
 
 #. type=data_list
 msgctxt "data_list"
@@ -348,6 +398,15 @@ msgstr ""
 "Kongsi mesej ini untuk membimbing ibu bapa dengan perlahan-lahan ke tempat lain untuk mendapatkan sokongan."
 
 #. type=data_list
+msgctxt "data_list"
+msgid ""
+"Save the NKText phone number (+6-012-292-7434) as a contact. \n"
+"Open WhatsApp, search for ‘NKText and start a chat by typing the trigger word."
+msgstr ""
+"Simpan nombor telefon NKText (+6-012-292-7434) sebagai kenalan.\n"
+"Buka WhatsApp, cari 'NKText' dan mulakan perbualan dengan menaip kata kunci."
+
+#. type=data_list
 #. The string @global.supervisor_name. should not be translated.
 msgctxt "data_list"
 msgid "Reach out for support to @global.supervisor_name."
@@ -379,6 +438,50 @@ msgstr ""
 "Sebagai langkah terakhir, dalam kes yang dianggap penting, anda mempunyai pilihan untuk mengeluarkan ibu bapa daripada kumpulan. Contohnya, jika ahli berulang kali berkongsi kandungan mesej yang tidak berkaitan, menggunakan bahasa yang tidak sesuai atau mempamerkan rasa tidak hormat terhadap ahli lain. \n"
 "\n"
 "Apabila anda perlu mengeluarkan seseorang daripada kumpulan, adalah penting untuk mengendalikan situasi dengan sensitif dan hormat. Luangkan masa untuk mengadakan perbualan secara peribadi dengan ibu bapa, mengulangi peraturan asas kepada kumpulan, dan maklumkan penyelia anda."
+
+#. type=data_list
+#. The string @global.supervisor_name. should not be translated.
+msgctxt "data_list"
+msgid ""
+"Parents may see you as someone they can turn to for help beyond school and Naungan Kasih, especially when they need advice on their child’s behaviour. \n"
+"\n"
+"Even though you want to help, it is important to find a balance for your well-being. \n"
+"\n"
+"Share the following message to gently remind the parents about your role in Naungan Kasih. \n"
+"\n"
+"If the parents continue to persist, notify @global.supervisor_name."
+msgstr ""
+"Ibu bapa mungkin melihat anda sebagai seseorang yang boleh mereka hubungi untuk mendapatkan bantuan di luar sekolah dan Naungan Kasih, terutamanya apabila mereka memerlukan nasihat tentang tingkah laku anak mereka.\n"
+"\n"
+"Walaupun anda ingin membantu, adalah penting untuk mencari keseimbangan demi kesejahteraan anda.\n"
+"\n"
+"Kongsikan mesej berikut untuk mengingatkan ibu bapa tentang peranan anda dalam Naungan Kasih. \n"
+"\n"
+"Jika ibu bapa masih melakukannya, maklumkan kepada @global.supervisor_name."
+
+#. type=data_list
+#. The string @parent should not be translated.
+msgctxt "data_list"
+msgid ""
+"Getting everyone to join in the chat sessions can be a bit challenging. Some parents might be busy, shy, or just prefer to read about other’s experiences. \n"
+"\n"
+"Here are some helpful tips to encourage participation: \n"
+"\n"
+"1. Directly ask a question to someone by typing @parent name on WhatsApp. \n"
+"\n"
+"2. Share one of the messages below with the entire group. \n"
+"\n"
+"3. Consider sending a private message to a parent (see the message below)."
+msgstr ""
+"Bagi mendapatkan semua orang untuk menyertai sesi sembang mungkin agak mencabar. Sesetengah ibu bapa mungkin sibuk, malu, atau lebih suka baca tentang pengalaman orang lain. \n"
+"\n"
+"Berikut ialah beberapa petua berguna untuk menggalakkan penyertaan: \n"
+"\n"
+"1. Tanya soalan secara langsung kepada seseorang dengan menaip @nama ibu bapa di WhatsApp. \n"
+"\n"
+"2. Kongsi salah satu mesej di bawah dengan seluruh kumpulan.\n"
+"\n"
+"3. Pertimbangkan untuk menghantar mesej peribadi kepada ibu bapa (lihat mesej di bawah)."
 
 #. type=data_list
 msgctxt "data_list"
@@ -423,6 +526,154 @@ msgstr ""
 "Melibatkan ibu bapa dalam kumpulan sembang kadangkala sukar. Sesetengah ibu bapa mungkin memerlukan dorongan untuk berkongsi pengalaman mereka atau mereka mungkin sibuk dengan jadual mereka.\n"
 "\n"
 "Jika kumpulan sembang anda menjadi senyap selepas gesaan (prompt), pertimbangkan untuk berkongsi idea atau cadangan ini:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Parenting can be challenging and many obstacles can get in the way.\n"
+"\n"
+"Remember, your job isn't to solve their problems, but enable a conversation between parents to support one another. 🔄\n"
+"\n"
+"Here are some common challenges and possible solutions for spending one-on-one time that we have encountered previously when delivering the programme. \n"
+"\n"
+"You can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Keibubapaan sememangnya mencabar dan mempunyai banyak halangan.\n"
+"\n"
+"Ingat, tugas anda bukanlah menyelesaikan masalah mereka, tetapi untuk menggalakkan perbualan antara ibu bapa bagi menyokong satu sama lain. 🔄\n"
+"\n"
+"Berikut adalah beberapa cabaran lazim dan cadangan penyelesaian untuk masa bersama seorang dengan seorang yang telah kita bincangkan sebelum ini ketika menyampaikan program. \n"
+"\n"
+"Anda boleh berkongsi mesej berikut sebagai respon semasa sembang mingguan anda apabila ibu bapa berkongsi cabaran tentang topik ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It is normal for parents to feel uncomfortable or have challenges when praising their children. They may at first think that praise will either inflate their children or is not part of their culture. \n"
+"\n"
+"It is important to remember that there are many different ways to praise children. Naungan Kasih focuses mainly on praise as a method to reinforce positive behaviour. We praise the behaviour more than just the child!\n"
+"\n"
+"Here are some common challenges and possible solutions for praising your child. \n"
+"\n"
+"You can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Adalah perkara biasa bagi ibu bapa untuk berasa tidak selesa atau menghadapi kesulitan apabila memberikan pujian kepada anak mereka. Pada mulanya, mereka mungkin berfikir bahawa pujian akan menjadikan anak-anak mereka manja atau ini bukanlah sebahagian daripada budaya mereka. \n"
+"\n"
+"Terdapat banyak cara yang berbeza untuk memuji kanak-kanak. Program Naungan Kasih memberi tumpuan kepada pujian sebagai kaedah untuk mengukuhkan tingkah laku positif. Kami memuji tingkah laku itu lebih daripada memuji kanak-kanak tersebut!\n"
+"\n"
+"Berikut adalah beberapa cabaran lazim dan cadangan penyelesaian untuk memuji anak anda. \n"
+"\n"
+"Anda boleh berkongsi mesej berikut sebagai respon semasa sembang mingguan anda apabila ibu bapa berkongsi cabaran tentang topik ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It is completely normal for parents to have difficulty talking about and expressing emotions and feelings. Parents may be trying to recognise their emotions and communicate about them for the first time here.\n"
+"\n"
+"Here are some common challenges and possible solutions for talking about feelings. \n"
+"\n"
+"You can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Adalah perkara biasa bagi ibu bapa untuk menghadapi kesukaran bercakap dan meluahkan emosi dan perasaan. Ibu bapa mungkin cuba mengenali emosi mereka dan menerangkan tentangnya buat kali pertama di sini.\n"
+"\n"
+"Berikut adalah beberapa cabaran lazim dan cadangan penyelesaian untuk bercakap tentang perasaan. \n"
+"\n"
+"Anda boleh berkongsi mesej berikut sebagai respon semasa sembang mingguan anda apabila ibu bapa berkongsi cabaran tentang topik ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are some common challenges and possible solutions for supporting parents to help their children develop in a healthy way. \n"
+"\n"
+"You can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Berikut adalah beberapa cabaran lazim dan cadangan penyelesaian untuk menyokong ibu bapa bagi membantu anak mereka berkembang secara positif. \n"
+"\n"
+"Anda boleh berkongsi mesej berikut sebagai respon semasa sembang mingguan anda apabila ibu bapa berkongsi cabaran tentang topik ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are some common challenges and possible solutions for supporting parents to help their children’s learning in reading and maths. \n"
+"\n"
+"You can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Berikut adalah beberapa cabaran lazim dan cadangan penyelesaian untuk menyokong ibu bapa bagi membantu anak mereka belajar membaca dan matematik. \n"
+"\n"
+"Anda boleh berkongsi mesej berikut sebagai respon semasa sembang mingguan anda apabila ibu bapa berkongsi cabaran tentang topik ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are some common challenges and possible solutions that parents may experience when giving their children structure. \n"
+"\n"
+"You can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Berikut adalah beberapa cabaran lazim dan cadangan penyelesaian yang mungkin ibu bapa alami semasa memberikan anak mereka persekitaran yang seimbang. \n"
+"\n"
+"Anda boleh berkongsi mesej berikut sebagai respon semasa sembang mingguan anda apabila ibu bapa berkongsi cabaran tentang topik ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Establishing regular household rules and routines can be difficult for parents at first. \n"
+"\n"
+"It is important that they focus on positive behaviours like “Play inside the garden” instead of “Don’t play in the street.” This may not feel natural at first for parents so they will need some encouragement and support.\n"
+"\n"
+"Parents may also not feel comfortable involving their children in establishing a rule or routine. You can remind them that this will make it more likely that their child will follow the rule and will also help their child learn responsibilities.\n"
+"\n"
+"Here are some common challenges and possible solutions for setting household rules and routines. \n"
+"\n"
+"You can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Menetapkan peraturan dan rutin harian mungkin mencabar pada mulanya.\n"
+"\n"
+"Galakkan ibu bapa fokus pada tingkah laku positif seperti \"Bermain di taman\" berbanding \"Jangan main di jalan.\" Ini mungkin tidak biasa, jadi sokongan anda penting.\n"
+"\n"
+"Sesetengah ibu bapa mungkin kurang selesa libatkan anak dalam menetapkan peraturan, tetapi ini boleh bantu anak lebih patuh dan belajar tanggungjawab.\n"
+"\n"
+"Berikut beberapa cabaran biasa dan penyelesaian yang boleh dikongsi semasa perbualan mingguan jika ibu bapa menghadapi kesukaran dengan topik ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Giving appropriate and fair consequences when their children misbehave is an important skill for parents to learn. It will help avoid more harmful discipline practices.\n"
+"\n"
+"Consequences are most effective when used to support following instructions or household rules and routines that have already been discussed with children.\n"
+"\n"
+"Here are some common challenges and possible solutions for giving consequences.\n"
+"\n"
+"You can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Kemahiran penting untuk dipelajari oleh ibu bapa adalah memberi akibat yang wajar dan adil apabila anak-anak mereka melakukan salah laku. Ia akan membantu mengelakkan amalan disiplin yang lebih berbahaya.\n"
+"\n"
+"Akibat atau denda adalah paling berkesan apabila digunakan untuk menyokong pematuhan arahan atau peraturan rumah dan rutin/jadual harian yang telah dibincangkan dengan kanak-kanak.\n"
+"\n"
+"Berikut adalah beberapa cabaran lazim dan cadangan penyelesaian untuk memberi akibat.\n"
+"\n"
+"Anda boleh berkongsi mesej berikut sebagai respon semasa sembang mingguan anda apabila ibu bapa berkongsi cabaran tentang topik ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are some common challenges and possible solutions for supporting positive child behaviour. \n"
+"\n"
+"You can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Berikut adalah beberapa cabaran lazim dan cadangan penyelesaian untuk menyokong tingkah laku positif anak. \n"
+"\n"
+"Anda boleh berkongsi mesej berikut sebagai respon semasa sembang mingguan anda apabila ibu bapa berkongsi cabaran tentang topik ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Here are some common challenges and possible solutions for keeping children safe and healthy. \n"
+"\n"
+"You can share the following messages as responses during your weekly chat when parents share challenges with this topic."
+msgstr ""
+"Berikut adalah beberapa cabaran lazim dan cadangan penyelesaian untuk memastikan keselamatan dan kesihatan anak-anak. \n"
+"\n"
+"Anda boleh berkongsi mesej berikut sebagai respon semasa sembang mingguan anda apabila ibu bapa berkongsi cabaran tentang topik ini."
 
 #. type=data_list
 msgctxt "data_list"
@@ -501,6 +752,11 @@ msgstr "Soalan Lazim"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How to handover to Group Admin"
+msgstr "Cara menyerahkan tugas kepada Pentadbir Kumpulan"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Guide for Parent Reflection and Celebration"
 msgstr "Panduan untuk Refleksi dan Keraian Ibu Bapa"
 
@@ -523,6 +779,11 @@ msgstr "Gesa (Prompt) sesi sembang untuk pentadbir kumpulan baharu"
 msgctxt "data_list"
 msgid "If parents or group admin reach out to you after the group has ended."
 msgstr "Jika ibu bapa atau pentadbir kumpulan hubungi anda selepas kumpulan berakhir."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How do I access NKText?"
+msgstr "Bagaimana saya boleh akses NKText?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -741,6 +1002,11 @@ msgstr "Fasilitator"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "System tester"
+msgstr "Penguji sistem"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Ministry of Women, Family and Community Development’s Talian Kasih 24-Hour Hotline for abuse, neglect, and violence: 15999 or SMS/WhatsApp +6019-261-5999"
 msgstr "Talian Kasih 24 Jam oleh Kementerian Pembangunan Wanita, Keluarga dan Masyarakat untuk penderaan, pengabaian, dan keganasan: 15999 atau SMS/WhatsApp +6019-261-5999"
 
@@ -835,6 +1101,37 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"🎉 Those are some great ideas! \n"
+"\n"
+"Remember, before you can take care of your child and family, you need to take care of yourself. \n"
+"\n"
+"If you want to redo any of your goals, simply type MENU in NKText. \n"
+"\n"
+"Next chat session will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n"
+"\n"
+"Is anyone willing to take over as a group admin? \n"
+"\n"
+"Please send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n"
+"\n"
+"Chat to you next session! 👀"
+msgstr ""
+"🎉 Itu merupakan idea yang hebat! \n"
+"\n"
+"Ingat, anda perlu menjaga diri anda sendiri sebelum anda dapat menjaga anak serta keluarga anda. \n"
+"\n"
+"Taip sahaja MENU dalam NKText jika anda ingin buat semula mana-mana matlamat anda.\n"
+"\n"
+"Sesi sembang seterusnya akan menjadi sesi sembang terakhir saya dengan anda. Tetapi anda boleh memastikan kumpulan WhatsApp ini dibuka* sebagai tempat untuk terus menyokong satu sama lain! 💚\n"
+"\n"
+"Adakah sesiapa yang sanggup mengambil alih menjadi pentadbir kumpulan? \n"
+"\n"
+"Sila hantar mesej secara terus kepada saya jika anda berminat. Pasti bagus jika mendapat *dua orang sukarelawan*. 👀\n"
+"\n"
+"Jom sembang lagi pada sesi seterusnya! 👀"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉or ⭐."
 msgstr "Benarkan ibu bapa berkongsi tentang perubahan yang mereka alami semasa program ini. Anda boleh memberikan kata-kata galakan ringkas seperti \"Hebat!\" atau \"Saya gembira mendengarnya!\" atau berkongsi emoji sambutan seperti 🎉atau ⭐."
 
@@ -845,8 +1142,54 @@ msgstr "Hantar mesej ini selepas Panggilan WhatsApp anda"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Hi! Thank you for volunteering to lead the group discussions. \n"
+"\n"
+"*While engaging with other parents in the group, keep the following in mind*: \n"
+"\n"
+"👋 Greet parents when engaging with them.\n"
+"\n"
+"💛 Respect what participants share and be aware of different ages, genders, values and circumstances. \n"
+"\n"
+"🏅 Encourage parents to share and respond to each other - and praise them for it.\n"
+"\n"
+"🔔 Remind parents of ground rules when needed.\n"
+"\n"
+"🔑 Model the behaviour you want to see among the parents."
+msgstr ""
+"Hai! Terima kasih kerana menawarkan diri untuk memimpin kumpulan perbincangan ini. \n"
+"\n"
+"*Ingat beberapa perkara ini semasa terlibat dengan ibu bapa yang lain dalam kumpulan*: \n"
+"\n"
+"👋Beri salam perkenalan pada ibu bapa yang lain ketika bergaul dengan mereka.\n"
+"\n"
+"💛Hormati perkongsian yang diberikan oleh para peserta dan peka tentang perbezaan umur, jantina, nilai dan persekitaran. \n"
+"\n"
+"🏅Beri galakkan kepada ibu bapa untuk berkongsi dan memberi maklum balas antara satu sama lain - dan berikan pujian terhadap perkara yang dikongsikan.\n"
+"\n"
+"🔔 Beri peringatan kepada ibu bapa tentang peraturan asas apabila diperlukan. \n"
+"\n"
+"🔑Tunjukkan tingkah laku yang anda ingin lihat dalam kalangan ibu bapa."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "When should the group admin respond to messages?"
 msgstr "Bilakah sepatutnya pentadbir kumpulan memberi respon terhadap mesej?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"*When should you respond to messages?*\n"
+"\n"
+"⏰ Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n"
+"\n"
+"👍 You can also respond to messages with a relevant emoji or short response when you can."
+msgstr ""
+"*Bilakah sepatutnya anda membalas mesej*\n"
+"\n"
+"⏰ Peserta akan menghantar mesej bila-bila masa sepanjang minggu. Bagi memudahkan tugas anda, mesej-mesej tersebut bolehlah dibalas sebanyak sekali atau 2 kali sehari, bergantung kepada jadual masing-masing. \n"
+"\n"
+"👍 Anda juga boleh memberikan respon dengan emoji yang bersesuaian atau jawapan ringkas."
 
 #. type=data_list
 msgctxt "data_list"
@@ -973,8 +1316,42 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Notify your supervisor once you remove them. \n"
+"\n"
+"You can block the parent if they continue to reach out to you."
+msgstr ""
+"Jika anda telah mengeluarkan mereka, maklumkan kepada penyelia anda. \n"
+"\n"
+"Jika ibu bapa tetap menghubungi anda, anda boleh menyekat (block) mereka."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Send this message to the group after removing the parent who broke the ground rule"
 msgstr "Hantar mesej ini kepada kumpulan selepas mengeluarkan ibu bapa yang melanggar peraturan asas daripada kumpulan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Hello Everyone ⭐,\n"
+"\n"
+"👀 We want our group to be positive for everyone, and that means following the rules.\n"
+"\n"
+"💚 Unfortunately, someone had to be removed because they weren't following the rules despite reminders.\n"
+"\n"
+"Let's keep things respectful and supportive.\n"
+"\n"
+"See you in the next chat session!"
+msgstr ""
+"Helo Semua ⭐,\n"
+"\n"
+"👀 Kami mahu kumpulan kami bersikap positif untuk semua orang, dan ini bermakna dengan mematuhi peraturan.\n"
+"\n"
+"💚 Malangnya, seseorang terpaksa dialih keluar kerana mereka tidak mematuhi peraturan walaupun diberi peringatan.\n"
+"\n"
+"Mari kita pastikan kita saling menghormati dan saling menyokong.\n"
+"\n"
+"Jumpa anda dalam sesi sembang seterusnya!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1256,6 +1633,21 @@ msgstr "Anak saya tidak mahu masa bersama seorang dengan seorang berakhir."
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"I understand it can be tough when your child does not want one-on-one time to end. 😣\n"
+"\n"
+"To make things smoother, try being clear about how much time you have together and give a gentle warning when the time is about to end. ⏰\n"
+"\n"
+"To help you with managing your child’s behaviour, consider making “Support My Child’s Positive Behaviour” as your next parenting goal once you finish your current goal."
+msgstr ""
+"Saya faham tentang kesukaran apabila anak anda tidak mahu sesi masa bersama seorang dengan seorang berakhir. 😣\n"
+"\n"
+"Bagi melancarkan sesi ini, cuba beritahu secara jelas tentang berapa banyak masa yang anda boleh luangkan dan berikan peringatan mesra ketika masa sudah hampir tamat. ⏰\n"
+"\n"
+"Bagi membantu anda menguruskan tingkah laku anak anda, pertimbangkan untuk menjadikan \" Menyokong Tingkah Laku Positif Anak Saya” sebagai matlamat keibubapaan anda yang seterusnya apabila anda sudah tamat dengan matlamat semasa anda."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "My child wanted to do activities that I could not do."
 msgstr "Anak saya mahu melakukan aktiviti yang saya tidak berupaya lakukan."
 
@@ -1281,8 +1673,38 @@ msgstr "Saya lupa untuk memuji anak saya."
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"💚 It can be difficult to juggle all the different things we need to do. \n"
+"\n"
+"🌱 Next time you spend one-on-one time, try and think of one thing you can praise them for. \n"
+"\n"
+"☀️ You can even say, “Thank you for spending time with me!”"
+msgstr ""
+"💚Sukar bagi kita membahagikan masa untuk semua perkara yang perlu kita lakukan. \n"
+"\n"
+"🌱Apabila anda meluangkan masa bersama seorang-dengan-seorang, cuba dan fikir satu perkara untuk memuji anak anda. \n"
+"\n"
+"☀️Anda juga boleh mengatakan, “Terima kasih kerana meluangkan masa dengan saya!”"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "I felt embarrassed or weird when praising my child."
 msgstr "Saya rasa malu atau pelik ketika memuji anak saya."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"⭐ It’s normal to feel uneasy about doing new things.\n"
+"\n"
+"🌷 This is especially true of praise when we are not used to hearing it ourselves. \n"
+"\n"
+"👀 But it will get easier with practice,I promise!"
+msgstr ""
+"⭐Adalah perkara biasa untuk berasa tidak selesa ketika kita melakukan sesuatu perkara yang baru.\n"
+"\n"
+"🌷Ini benar tentang pujian, terutamanya apabila kita sendiri tidak biasa mendengar pujian. \n"
+"\n"
+"👀Tapi saya pasti ia akan menjadi lebih mudah dengan banyak berlatih!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1291,8 +1713,38 @@ msgstr "Saya tidak boleh berfikir tentang sesuatu perkara untuk memuji anak saya
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"🔔 Start small! You don’t have to select anything big to praise. \n"
+"\n"
+"💡 Find a simple behaviour that your child does that you are happy about and tell them. Even something that they already do. \n"
+"\n"
+"♥️ It will make a difference!"
+msgstr ""
+"🔔Mulakan dari perkara yang kecil dan mudah! Anda tidak perlu memilih sesuatu yang besar untuk dipuji.\n"
+"\n"
+"💡Cari tingkah laku mudah yang anak anda lakukan yang buat anda berasa gembira dan beritahu dia. Mungkin juga perkara yang sudah dia lakukan.\n"
+"\n"
+"♥️ Pastinya ia membawa perubahan!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "My child did not want to share their emotions."
 msgstr "Anak saya tidak mahu berkongsi perasaan mereka."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"💚 I understand that sharing feelings is challenging when it’s new. \n"
+"\n"
+"🌱 Be patient and keep providing them with the opportunity to start sharing. \n"
+"\n"
+"☀️ Be a model for your children by sharing your own feelings."
+msgstr ""
+"💚 Saya faham bahawa berkongsi perasaan adalah mencabar jika baru bermula. \n"
+"\n"
+"🌱Bersabar dan terus berikan peluang untuk dia mula berkongsi. \n"
+"\n"
+"☀️Jadilah model untuk anak-anak anda dengan berkongsi tentang perasaan anda sendiri."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1301,8 +1753,34 @@ msgstr "Saya rasa tidak selesa untuk bercakap tentang perasaan saya sendiri"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"⭐ It's okay to feel uncomfortable talking about your own feelings. \n"
+"\n"
+"👀 A simple way to start is by using 'I feel...' \n"
+"\n"
+"🌷 For example, you could say, \"I feel happy when we spend time together.\" Starting small like this can make it easier."
+msgstr ""
+"⭐ Tidak mengapa jika anda berasa tidak selesa untuk bercakap tentang perasaan anda sendiri.\n"
+"\n"
+"👀Cara mudah untuk bermula adalah dengan mengatakan 'Saya berasa...'\n"
+"\n"
+"🌷Sebagai contoh, anda boleh berkata, \"Saya berasa gembira apabila kita meluangkan masa bersama-sama.\" Bermula daripada perkara sekecil ini boleh menjadikannya lebih mudah."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Others in the household don’t think it’s a good idea to talk about emotions."
 msgstr "Orang lain di rumah berfikir bahawa bercakap tentang perasaan bukanlah idea yang baik."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"🔔 You can try talking to them about why it might be a good idea. \n"
+"\n"
+"💡 Encourage them to try it first. Sometimes, just giving it a try can help everyone understand each other better."
+msgstr ""
+"🔔 Anda boleh berbual dengan anak anda tentang sebab mengapa ia boleh menjadi idea yang baik. \n"
+"\n"
+"💡Galakkan dia untuk mencubanya dahulu! Kadang kala, dengan mencuba boleh membantu semua orang memahami antara satu sama lain dengan lebih baik."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1311,8 +1789,38 @@ msgstr "Orang lain di rumah berfikir bahawa bercakap tentang perasaan negatif bu
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"🔔 Maybe you can have a chat with them about why it could be a good idea. \n"
+"\n"
+"💡 Encourage them to give it a try! Talking openly about feelings can help everyone understand each other better."
+msgstr ""
+"🔔 Mungkin anda boleh berbual dengan anak anda tentang sebab mengapa ia boleh menjadi idea yang baik. \n"
+"\n"
+"💡Galakkan dia untuk mencubanya! Bercakap secara terbuka tentang perasaan boleh membantu semua orang memahami antara satu sama lain dengan lebih baik."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "I don’t know how to name some of the feelings I am experiencing."
 msgstr "Saya tidak tahu perasaan yang sedang saya alami."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"✨ Naming feelings can be tough. \n"
+"\n"
+"🔄 Try combining words you know, like happy or sad, and think about where you feel it in your body. \n"
+"\n"
+"🔴 For example, if your chest feels tight, it might be stress. \n"
+"\n"
+"🔶 It's okay not to have all the words – describe it the best you can."
+msgstr ""
+"✨Mungkin sukar untuk menyatakan perasaan. \n"
+"\n"
+"🔄Dengan memikirkan tentang di mana anda merasakannya pada tubuh anda, cuba gabungkan perkataan yang anda tahu, seperti gembira atau sedih. \n"
+"\n"
+"🔴Contohnya, jika dada anda berasa sesak, ia mungkin disebabkan tekanan. \n"
+"\n"
+"🔶Tidak mengapa jika anda tidak tahu kata-kata untuk mengungkapkannya – gambarkannya dengan sebaik mungkin."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1361,13 +1869,66 @@ msgstr "Anak saya kerap tercedera akibat melasak atau suka berkenalan dengan rak
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"🧸 It must be hard to see your child getting injured or feeling sad. \n"
+"\n"
+"🌷 Children learn and grow from making mistakes. It is an important part of child development. They will be safe as long as you are aware of their activities and you can prevent anything dangerous.\n"
+"\n"
+"⭐ Build your child’s confidence about their abilities, values, and appearance so that they are comfortable trying new things.\n"
+"\n"
+"🎨 Encourage them to safely try out fun activities with other kids or adults. Praise them when they do it well!\n"
+"\n"
+"💚 Let your child know that you trust them to be safe and follow the rules that you have set."
+msgstr ""
+"🧸 Pasti sukar untuk melihat anak anda terluka atau berasa sedih.\n"
+"\n"
+"🌷Dengan melakukan kesilapan, kanak-kanak dapat belajar dan berkembang. Ia adalah bahagian penting dalam perkembangan kanak-kanak. Selagi mana anda mengetahui aktiviti yang dilakukannya dan anda boleh mengelakkan perkara yang berbahaya, keselamatan anak akan terjaga.\n"
+"\n"
+"⭐ Bina keyakinan anak anda tentang kebolehan, nilai dan penampilan supaya dia selesa untuk mencuba perkara baharu.\n"
+"\n"
+"🎨 Galakkan anak-anak untuk mencuba aktiviti yang menyeronokkan dengan selamat bersama kanak-kanak atau orang dewasa lain. Berikan pujian apabila dia dapat melakukannya dengan baik!\n"
+"\n"
+"💚 Beritahu anak anda bahawa anda mempercayainya untuk menjaga keselamatan diri dan mengikut peraturan yang telah anda tetapkan."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "My children will think I am not strong if I share my own mistakes."
 msgstr "Jika saya berkongsi kesilapan diri, anak saya akan berfikir bahawa saya tidak kuat."
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"💚 It’s completely normal to feel worried about how your children might see you if you share your mistakes. \n"
+"\n"
+"🏆 Sharing your mistakes shows your child how you have learned and grown from your mistake, and they can do the same. \n"
+"\n"
+"⭐ It shows your children how you are stronger after learning your mistakes."
+msgstr ""
+"💚Perasaan bimbang tentang tanggapan anak anda terhadap diri anda jika anda berkongsi kesilapan adalah perkara biasa. \n"
+"\n"
+"🏆Dengan berkongsi kesilapan, anda menunjukkan kepada anak anda bagaimana anda telah belajar dan berkembang daripada kesilapan anda, dan dia juga boleh melakukan perkara yang sama.\n"
+"\n"
+"⭐Ia akan menunjukkan kepada anak-anak anda bagaimana anda menjadi lebih kuat selepas sedar akan kesilapan anda."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "I don’t know what to do during play time with my child."
 msgstr "Saya tidak tahu apa yang perlu dilakukan ketika masa bermain dengan anak saya."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"💙 I understand that figuring out what to do during playtime with your child can be challenging. \n"
+"\n"
+"🌱 It's a common concern, and you're not alone. \n"
+"\n"
+"💡 If you need ideas for activities, simply type PLAY in ParentText"
+msgstr ""
+"💙 Saya faham bahawa memikirkan idea untuk aktiviti bermain bersama anak anda adalah agak mencabar.\n"
+"\n"
+"🌱Anda tidak bersendirian kerana ini adalah kebimbangan yang biasa. \n"
+"\n"
+"💡Jika anda memerlukan idea untuk aktiviti, hanya taip MAIN dalam ParentText"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1458,12 +2019,25 @@ msgstr "Anak saya tidak mengikuti arahan walaupun saya mengikutinya."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "💙 I understand it can be challenging when your child doesn't follow instructions. Remember, children need time to learn these skills. Be patient with the process, and don't hesitate to try again.🌱"
+msgstr "💙Saya faham ia boleh jadi mencabar apabila anak anda tidak mengikut arahan. Ingat, kanak-kanak memerlukan masa untuk mempelajari kemahiran ini. Bersabar dengan prosesnya, dan jangan teragak-agak untuk mencuba lagi.🌱"
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "I gave a negative instead of a positive\n"
 "instruction."
 msgstr ""
 "Saya memberikan arahan negatif dan bukannya arahan \n"
 "positif."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"💛 It takes time to get used to giving positive\n"
+"instructions – but it’s worth trying again! Try\n"
+"thinking about the behaviour you would like to see your child to more often and think of positive ways to give that instruction. 🌷"
+msgstr "💛 Memberi arahan secara positif memang mengambil masa untuk dibiasakan — tapi sangat berbaloi untuk terus mencuba! Cuba fikirkan tingkah laku yang anda mahu anak lakukan dengan lebih kerap, dan fikirkan cara positif untuk menyampaikan arahan tersebut. 🌷"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1477,11 +2051,33 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid ""
+"⭐ It can be tough when your child doesn't listen. \n"
+"\n"
+"👀 Try getting their attention by looking at them or gently touching their shoulder before telling them something. That might help them hear you better."
+msgstr ""
+"⭐ Memang mencabar bila anak tidak mendengar kata.\n"
+"\n"
+"👀 Cuba tarik perhatian anak anda dengan melihat mata atau sentuh bahunya dengan lembut sebelum bercakap. Ini mungkin membantu mereka lebih fokus dan mendengar dengan lebih baik."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
 "My child had difficulty following my\n"
 "instructions."
 msgstr ""
 "Anak saya sukar untuk mengikut arahan \n"
 "saya."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"It's hard when your child struggles to follow what you ask. \n"
+"\n"
+"1️⃣ Try giving just one instruction at a time, something they can easily do. And remember to give them enough time to do it. This can make following instructions easier for them."
+msgstr ""
+"Sukar apabila anak anda susah untuk mengikut kata anda. \n"
+"\n"
+"1️⃣Cuba berikan satu arahan sahaja pada satu masa, sesuatu yang dia boleh lakukan dengan mudah. Dan ingat untuk memberi anak anda masa yang cukup untuk melakukannya. Ini boleh memudahkan arahan berikut untuknya."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1611,8 +2207,38 @@ msgstr "Ahli keluarga yang lain tidak bersetuju untuk menggunakan kaedah abaikan
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"🚩 Sometimes others will not agree with us or have other methods of parenting. \n"
+"\n"
+"💡 It might be helpful to explain to other family members how to use ignore and why it might help reduce your children’s demanding behaviours. \n"
+"\n"
+"✨ You can only control your behaviour so remember that these changes start with you and with time others might see that they really work!"
+msgstr ""
+"🚩Kadang-kadang orang lain tidak akan bersetuju dengan kita atau mempunyai kaedah keibubapaan lain.\n"
+"\n"
+"💡Terangkan kepada ahli keluarga lain cara untuk mengamalkan kaedah abaikan dan sebab ia boleh membantu mengurangkan tingkah laku menuntut anak anda mungkin membantu mereka untuk lebih memahami.\n"
+"\n"
+"✨Anda hanya boleh mengawal tingkah laku anda jadi ingat bahawa perubahan ini bermula dengan anda dan lama kelamaan orang lain mungkin melihat bahawa ia benar-benar berkesan!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "I can’t ignore my child’s behaviour because they are hitting/biting/pushing."
 msgstr "Anak saya memukul/menggigit/menolak, jadi saya tidak boleh mengabaikan tingkah laku anak saya."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"🔑 Ignore only works for negative attention seeking and demanding behaviours like whining, pestering, and tantrums.\n"
+"\n"
+"Using consequences is more effective for aggressive behaviours like hitting. Your child might need a break from an activity to cool down if they are being aggressive. \n"
+"\n"
+"⏸ You can teach them to Take a Pause!"
+msgstr ""
+"🔑Mengabaikan tingkah laku hanya berkesan untuk tingkah laku yang mencari perhatian dan menuntut perhatian negatif seperti merengek, mengganggu dan mengamuk.\n"
+"\n"
+"Untuk kelakuan yang agresif seperti memukul, gunakan akibat lebih berkesan. Jika anak anda menjadi agresif, dia mungkin perlu berehat daripada melakukan aktiviti untuk menenangkan dirinya. \n"
+"\n"
+"⏸ Anda boleh mengajar mereka untuk Berhenti Seketika!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1638,6 +2264,17 @@ msgstr ""
 msgctxt "data_list"
 msgid "Ignoring the behaviour just seems to make it worse!"
 msgstr "Mengabaikan tingkah laku tersebut membuat keadaan menjadi lebih buruk!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"👀 It is completely natural for your child to test you. They have learned that by increasing their demanding behaviour they might get what they want. \n"
+"\n"
+"💚 Be patient and continue to practise ignoring. Eventually, your child will learn that this behaviour does not work."
+msgstr ""
+"👀 Adalah perkara biasa jika anak anda menguji kesabaran anda. Mereka telah belajar bahawa dengan meningkatkan tingkah laku menuntut, mereka mungkin akan mendapat apa yang mereka mahukan.\n"
+"\n"
+"💚 Bersabarlah dan teruskan berlatih kaedah mengabaikan. Lama-kelamaan, anak anda akan belajar bahawa tingkah laku seperti itu tidak akan berhasil."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1710,13 +2347,110 @@ msgstr "Saya risau apabila anak saya pulang lewat malam selepas bermain."
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"🚩 I understand it can be unsafe when your child comes home late after playing outside.\n"
+"\n"
+"⏰ Consider establishing a household rule for when your child should come home. Work together with your child to set fair consequences if they don't follow the rule.\n"
+"\n"
+"💚 To support you in setting rules with your child, think about making \"Give My Child Structure\" your next parenting goal once you complete your current one."
+msgstr ""
+"🚩 Saya faham ia boleh menjadi tidak selamat apabila anak anda pulang lewat selepas bermain di luar.\n"
+"\n"
+"⏰ Pertimbangkan untuk menetapkan peraturan di rumah mengenai waktu anak anda perlu pulang. Bincang bersama anak anda untuk tetapkan akibat yang adil jika mereka tidak mematuhi peraturan tersebut.\n"
+"\n"
+"💚 Untuk membantu anda menetapkan peraturan bersama anak, fikirkan untuk memilih \"Memberikan Anak Saya Persekitaran yang Seimbang\" sebagai matlamat keibubapaan anda yang seterusnya selepas anda menyelesaikan yang sedang anda ikuti sekarang."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "My child told me that school or the house of someone I trust is an unsafe place. 🚩 I was shocked and did not know what to do!"
 msgstr "Anak saya beritahu saya bahawa sekolah atau rumah seseorang yang saya percayai merupakan tidak selamat bagi mereka. 🚩Saya terkejut dan tidak tahu apa yang perlu dilakukan!"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"😔 It is shocking to learn that people who we trust may cause discomfort to our children.\n"
+"\n"
+"👂 Listen to your child if they want to talk about why it seems dangerous or uncomfortable. Trust what they say - they will not say such things for no reason!\n"
+"\n"
+"🔔 Talk with someone and get support. Type {HELP} if you need more assistance.\n"
+"\n"
+"💙 Remember to take a pause when you are stressed."
+msgstr ""
+"😔 Sungguh mengejutkan apabila mengetahui bahawa orang yang kita percayai boleh menyebabkan ketidakselesaan kepada anak-anak kita.\n"
+"\n"
+"👂 Dengar anak anda jika mereka ingin bercakap tentang sebab mengapa dia rasa dirinya dalam bahaya atau tidak selesa. Percaya apa yang mereka katakan - mereka tidak akan mengatakan perkara sedemikian tanpa sebab!\n"
+"\n"
+"🔔Bercakap dengan seseorang dan dapatkan sokongan. Taip {HELP} jika anda memerlukan bantuan lanjut.\n"
+"\n"
+"💙 Ingatlah untuk berhenti seketika apabila anda tertekan."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "I am shy to talk to my young child about bodies and safe touch."
 msgstr "Saya berasa malu untuk bercakap tentang tubuh badan dan sentuhan selamat dengan anak saya."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"💙 It is slightly uncomfortable to talk to our children about male and female body parts.\n"
+"\n"
+"💡But it helps to keep our children safe. Your child will know that they can come to you about any questions related to the body.\n"
+"\n"
+"💚 While it may be uncomfortable to talk about some body parts, especially private parts, your child will know how to talk about it if anything happens.\n"
+"\n"
+"🔑 Answer any questions from your child honestly. You can do this to keep our children safe! 🌷"
+msgstr ""
+"💙 Bercakap dengan anak-anak kita tentang bahagian anggota badan lelaki dan perempuan mungkin membuat kita berasa kurang selesa.\n"
+"\n"
+"💡Tetapi ia membantu untuk memastikan anak-anak kita selamat. Anak anda akan tahu bahawa dia boleh bertanya kepada anda tentang sebarang soalan yang berkaitan dengan tubuh badan.\n"
+"\n"
+"💚 Walaupun anda mungkin berasa tidak selesa untuk bercakap tentang bahagian badan tertentu, terutamanya bahagian sulit, anak anda akan tahu cara untuk bercakap mengenainya jika apa-apa berlaku.\n"
+"\n"
+"🔑 Berikan jawapan yang jujur untuk pertanyaan anak anda. Anda boleh lakukannya bagi memastikan keselamatan anak anda! 🌷"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Remember to add the ground rules to the WhatsApp Group Description. \n"
+"\n"
+"​​To add the ground rules to the Group Description, copy the following ground rules or use the ones agreed during the onboarding session: \n"
+"\n"
+"“To make this a safe space for everyone, here are some ground rules:\n"
+" \n"
+"✅ What is said in the group stays in the group. You need to know that this group is private.\n"
+"✅ Accept each other. Everyone is different and has different experiences.\n"
+"✅ Share only what you feel comfortable sharing.\n"
+"✅ Feel free to ask questions!\n"
+"✅ Respect privacy of personal pictures and videos that are sent to the chat group. \n"
+"\n"
+"\n"
+"Open the WhatsApp group chat. \n"
+"\n"
+"Tap the group name. \n"
+"\n"
+"Tap the existing description, or tap Add Group Description. \n"
+"Paste the ground rules. \n"
+"\n"
+"Tap Save."
+msgstr ""
+"Jangan lupa untuk tambah peraturan asas ke dalam Penerangan Kumpulan WhatsApp.\n"
+"\n"
+"Untuk menambah peraturan asas ke dalam Penerangan Kumpulan, salin peraturan di bawah atau gunakan peraturan yang telah dipersetujui semasa sesi pengenalan:\n"
+"\n"
+"\"Untuk memastikan ruang ini selamat untuk semua, berikut adalah peraturan asas:\n"
+"\n"
+"✅ Apa yang dikongsi dalam kumpulan ini, kekal dalam kumpulan. Kumpulan ini adalah peribadi.\n"
+"✅ Terima satu sama lain. Setiap orang berbeza dan mempunyai pengalaman yang berbeza.\n"
+"✅ Hanya kongsi perkara yang anda rasa selesa untuk dikongsi.\n"
+"✅ Jangan malu untuk bertanya soalan!\n"
+"✅ Hormati privasi gambar dan video peribadi yang dihantar dalam kumpulan sembang.\n"
+"\n"
+"Buka sembang kumpulan WhatsApp.\n"
+"Klik pada nama kumpulan.\n"
+"Klik pada penerangan sedia ada, atau klik Tambah Penerangan Kumpulan.\n"
+"Tampal peraturan asas di atas.\n"
+"\n"
+"Klik Simpan."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1760,6 +2494,11 @@ msgstr "Apakah isi kandungan dalam Panduan Fasilitator?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "This guide is for YOU! It is a comprehensive guide to help you deliver Naungan Kasih to families around you. It includes steps on how to introduce caregivers to the programme, and support them, and specific information on the programme’s content."
+msgstr "Panduan ini khas untuk ANDA! Ia merupakan panduan lengkap untuk membantu anda menyampaikan Naungan Kasih kepada keluarga di sekeliling anda. Panduan ini merangkumi langkah-langkah untuk memperkenalkan program kepada penjaga, cara menyokong mereka, serta maklumat terperinci tentang kandungan program ini."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "What to remember?"
 msgstr "Apa yang perlu diambil tahu?"
 
@@ -1781,6 +2520,11 @@ msgstr "Kemahiran yang anda perlukan"
 msgctxt "data_list"
 msgid "The core skills of a good facilitator are a mirror for parents to learn how to bring about the change we want to see in parents and the community. These include understanding stages of child development, praising and encouraging parents, using active listening skills, being consistent and compassionate, exploring problems, and finding solutions together."
 msgstr "Kemahiran asas bagi fasilitator yang bagus merupakan cerminan kepada ibu bapa semasa mempelajari cara membawa perubahan yang diingini dalam kalangan ibu bapa dan masyarakat. Ini termasuklah memahami tahap perkembangan anak, memuji dan menggalakkan ibu bapa, menggunakan kemahiran mendengar yang aktif, sentiasa konsisten dan bertolak ansur, meneroka masalah dan mencari jalan penyelesaian bersama-sama."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "⭐ Remember"
+msgstr "⭐ Ingat"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1833,6 +2577,60 @@ msgstr ""
 msgctxt "data_list"
 msgid "Conduct Chat Session"
 msgstr "Memimpin Sesi Sembang"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"**Before conducting chat sessions, make sure you:** \n"
+"\n"
+"- Create a WhatsApp Group during the onboarding session. \n"
+"\n"
+"- Identify the ground rules for the WhatsApp Group\n"
+"\n"
+"**Structure for the chat session**: \n"
+"\n"
+"- Week 0 (immediately after the onboarding session): Welcome, introductions, and reminder of home practice. \n"
+"\n"
+"- Week 2: Check-in: Connecting with parents on their progress with NKText, and discussion on child’s development and growth. \n"
+"\n"
+"- Week 4: Check-in: Connecting with parents on their progress with NKText, and discussion on supporting child’s learning in a fun and engaging way. \n"
+"\n"
+"- Week 6: Check-in: Connecting with parents on their progress with NKText, discussion on parent’s mental health, and identifying group admin to handover the group after final chat session.  \n"
+"\n"
+"- Week 8: Final Chat Sessions: Sharing new group admin details, and closing.\n"
+"\n"
+"**When to send the messages** \n"
+"\n"
+"- You and your group will decide a time to chat during the onboarding session.\n"
+"\n"
+"- Each chat session has a reminder message (Message 1) that you should send a few hours before the chat session. \n"
+"\n"
+"- Send the remaining messages during the scheduled chat time."
+msgstr ""
+"**Sebelum menjalankan sesi sembang, pastikan anda:**\n"
+"\n"
+"- Membuat Kumpulan WhatsApp semasa sesi pengenalan.\n"
+"- Kenal pasti peraturan asas untuk Kumpulan WhatsApp.\n"
+"\n"
+"**Struktur sesi sembang**:\n"
+"\n"
+"- Minggu 0 (selepas sesi pengenalan): Aluan, sesi pengenalan, dan peringatan tentang latihan di rumah.\n"
+"\n"
+"- Minggu 2: Sesi check-in: Berhubung dengan ibu bapa mengenai kemajuan mereka dalam NKText, dan berbincang tentang perkembangan dan pertumbuhan anak.\n"
+"\n"
+"- Minggu 4: Sesi check-in: Berhubung dengan ibu bapa mengenai kemajuan mereka dalam NKText, dan berbincang tentang cara menyokong pembelajaran anak secara menyeronokkan dan menarik.\n"
+"\n"
+"- Minggu 6: Check-in: Berhubung dengan ibu bapa mengenai kemajuan mereka dalam NKText, berbincang tentang kesihatan mental ibu bapa, dan kenal pasti pentadbir kumpulan untuk penyerahan selepas sesi akhir.\n"
+"\n"
+"- Minggu 8: Sesi Sembang Akhir: Kongsikan maklumat pentadbir kumpulan baharu dan sesi penutup.\n"
+"\n"
+"**Bila untuk menghantar mesej**:\n"
+"\n"
+"- Anda dan kumpulan anda akan menetapkan waktu sesi sembang semasa sesi pengenalan.\n"
+"\n"
+"- Setiap sesi sembang mempunyai mesej peringatan (Mesej 1) yang perlu dihantar beberapa jam sebelum sesi bermula.\n"
+"\n"
+"- Hantar mesej-mesej lain semasa waktu sesi sembang yang telah ditetapkan.\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1901,8 +2699,73 @@ msgstr "Apa yang perlu dirangkumi dalam Panggilan WhatsApp?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Thank the parent for volunteering to lead the WhatsApp group.  \n"
+"\n"
+"While engaging with other parents in the group, keep the following in mind:\n"
+"🔵 Greet parents when engaging with them.\n"
+"🔵 Respect what participants share and be aware of different ages, genders, values and circumstances.\n"
+"🔵 Encourage parents to share and respond to each other - and praise them for it.\n"
+"🔵 Remind parents of ground rules when needed.\n"
+"🔵 Model the behaviour you want to see among the parents.\n"
+"\n"
+"If the parent needs any prompts for discussion, share the following: \n"
+"\n"
+"Let us celebrate our successes! What was something positive you experienced when you tried one of the ParentText skills with your child?\n"
+"\n"
+"Trying out new skills can be hard at first. What was something difficult that you experienced when you tried a ParentText skill with your child at home?\n"
+"Remind the parent that they are not obligated to respond to messages all times. Participants may send messages at any time during the week. To keep your workload manageable, you can respond to messages once or twice a day, depending on your schedule. \n"
+"\n"
+"Ask them if they have any questions. \n"
+"\n"
+"Remind the parent that unfortunately, you will no longer be able to participate in the WhatsApp group."
+msgstr ""
+"Ucapkan terima kasih kepada ibu bapa kerana sudi mengetuai kumpulan WhatsApp.\n"
+"\n"
+"Semasa melibatkan dengan ibu bapa lain dalam kumpulan, ingat perkara berikut:\n"
+"🔵Bertegur sapa dengan ibu bapa apabila terlibat dengan mereka.\n"
+"🔵Hormati apa yang peserta kongsikan dan ambil tahu tentang umur, jantina, nilai dan keadaan yang berbeza.\n"
+"🔵Galakkan ibu bapa untuk berkongsi dan memberi respon antara satu sama lain - dan memuji mereka atas sebab tersebut.\n"
+"🔵Ingatkan ibu bapa tentang peraturan asas apabila diperlukan.\n"
+"🔵Menjadi teladan dengan mempraktikkan tingkah laku yang anda ingin lihat di kalangan ibu bapa.\n"
+"\n"
+"Jika ibu bapa memerlukan sebarang gesaan (prompt) untuk perbincangan, kongsi perkara berikut:\n"
+"\n"
+"Marilah kita meraikan kejayaan kita! Apakah perkara positif yang anda alami apabila anda mencuba salah satu kemahiran ParentText dengan anak anda?\n"
+"\n"
+"Mencuba kemahiran baharu mungkin sukar pada mulanya. Apakah sesuatu yang sukar yang anda alami apabila anda mencuba kemahiran ParentText dengan anak anda di rumah?\n"
+"Ingatkan ibu bapa bahawa mereka tidak bertanggungjawab untuk membalas mesej sepanjang masa. Peserta boleh menghantar mesej pada bila-bila masa sepanjang minggu. Untuk memastikan beban kerja anda terurus, anda boleh membalas mesej sekali atau dua kali sehari, bergantung pada jadual anda.\n"
+"\n"
+"Tanya kepada mereka jika mereka mempunyai sebarang soalan.\n"
+"Ingatkan ibu bapa bahawa anda tidak lagi boleh menyertai kumpulan WhatsApp."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Set up your profile"
 msgstr "Tetapkan profil anda"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Select the profile icon from the bottom navigation bar. \n"
+"\n"
+"Choose “About you” \n"
+"\n"
+"Type your name under “Your name” \n"
+"\n"
+"Select your state from the dropdown menu \n"
+"\n"
+"Tap Save"
+msgstr ""
+"Pilih ikon profil dari bar navigasi di bawah. \n"
+"\n"
+"Pilih “Tentang Anda” \n"
+"\n"
+"Masukkan nama anda di bahagian “Nama Anda” \n"
+"\n"
+"Pilih negeri anda daripada menu juntai bawah \n"
+"\n"
+"Klik Simpan"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2038,13 +2901,109 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How many minutes did it take you to prepare for this session?"
+msgstr "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How many minutes did it take you to travel to the location where the session was delivered?"
 msgstr "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "How many minutes did it take you to deliver the sessions?"
+msgstr "Berapa minit yang anda ambil untuk menyampaikan sesi ini?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Which of the parents in this group attended your in-person session?"
+msgstr "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "This chat session should happen on the same day or day after you complete the in-person onboarding session. As the first chat session, it offers a chance for parents to introduce themselves to the group."
 msgstr "Sesi sembang ini perlu berlangsung pada hari yang sama atau sehari selepas anda melengkapkan sesi pengenalan bersemuka. Sesi sembang pertama ini menawarkan peluang kepada ibu bapa untuk memperkenalkan diri mereka kepada kumpulan."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Every week, you will check-in on the parent’s progress on NKText. \n"
+" \n"
+"It’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n"
+"\n"
+"Before closing the session, you will encourage the parents to focus on a particular parenting theme. \n"
+"\n"
+"This week’s theme is how parents can support their child's development and growth."
+msgstr ""
+"Anda akan mendaftar masuk kemajuan ibu bapa dalam NKText pada setiap minggu. \n"
+" \n"
+"Ini adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n"
+"\n"
+"Anda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan tertentu sebelum menutup sesi. \n"
+"\n"
+"Cara ibu bapa dapat menyokong perkembangan dan pertumbuhan anak mereka merupakan tema pada minggu ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This week, you will connect again with the parents to get updates on how they are engaging with NKText. \n"
+" \n"
+"It’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n"
+"\n"
+"Before closing the session, you will encourage the parents to focus on this week’s parenting theme: supporting their child’s learning in a fun and engaging way."
+msgstr ""
+"Anda akan berhubung sekali lagi dengan ibu bapa pada minggu ini untuk mendapat kemas kini tentang keterlibatan mereka dengan NKText. \n"
+"\n"
+"Ini adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n"
+"\n"
+"Anda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan pada minggu ini sebelum menutup sesi iaitu: menyokong pembelajaran anak mereka dalam cara yang menarik dan menyeronokkan."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This week, you will have your third check-in session with the parents. \n"
+"\n"
+"It’s a chance for parents to share their experiences with the skills they've learned, discuss challenges, or explore solutions as a group. \n"
+"\n"
+"Before closing the session, you will encourage the parents to focus on the last parenting theme: managing daily stress."
+msgstr ""
+"Anda mempunyai sesi daftar masuk yang ketiga dengan ibu bapa pada minggu ini. \n"
+"\n"
+"Ini adalah peluang bagi ibu bapa untuk berkongsi pengalaman mereka dengan kemahiran yang telah mereka pelajari, membincangkan cabaran atau meneroka penyelesaian sebagai satu kumpulan. \n"
+"\n"
+"Anda akan menggalakkan para ibu bapa untuk tumpukan perhatian kepada tema keibubapaan yang terakhir sebelum menutup sesi iaitu: menguruskan tekanan harian."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This week is your final chat session with the group. It can be an emotional time for parents and for you. You should congratulate yourself for taking the parents through the Naungan Kasih journey and celebrate with them the positive changes in their lives and for their children. \n"
+"\n"
+"During this chat session, you will ask the names of the two group admin to keep the WhatsApp Support Group ongoing, and handover the WhatsApp group administration rights to them. \n"
+"\n"
+"Remember, the WhatsApp groups are designed to support parent engagement in the ParentText chatbot. \n"
+"\n"
+"Before this chat session, you should have selected the two parents to lead the group. Enter the name of the parents after sharing in Message 4: Group Admin. If no one volunteered, see FAQ. \n"
+"\n"
+"For next steps after selecting the group admin, see “How to handover to Group Admin” in the Facilitator Guide. \n"
+"\n"
+"You can choose to stay or leave the WhatsApp Group after the program ends."
+msgstr ""
+"Minggu ini merupakan sesi sembang terakhir anda bersama kumpulan. Ia mungkin menjadi saat yang penuh emosi untuk ibu bapa dan juga untuk anda. Ucapkan tahniah kepada diri anda kerana berjaya membimbing ibu bapa melalui perjalanan Naungan Kasih, dan raikan bersama mereka perubahan positif dalam kehidupan mereka dan anak-anak mereka.\n"
+"\n"
+"Dalam sesi sembang ini, anda akan meminta nama dua orang ibu bapa untuk menjadi pentadbir kumpulan untuk memastikan Kumpulan Sokongan WhatsApp terus berjalan. Kemudian, serahkan hak pentadbiran kumpulan WhatsApp kepada mereka.\n"
+"\n"
+"Ingat, kumpulan WhatsApp ini diwujudkan untuk menyokong penglibatan ibu bapa dalam bot sembang NKText.\n"
+"\n"
+"Sebelum sesi ini, anda sepatutnya telah memilih dua orang ibu bapa untuk mengetuai kumpulan. Masukkan nama mereka selepas berkongsi Mesej 4: Pentadbir Kumpulan. Jika tiada yang tampil secara sukarela, sila rujuk bahagian Soalan Lazim (FAQ).\n"
+"\n"
+"Untuk langkah seterusnya selepas memilih pentadbir kumpulan, sila rujuk bahagian “Cara Menyerahkan Tugas kepada Pentadbir Kumpulan” dalam Panduan Fasilitator.\n"
+"\n"
+"Anda boleh memilih untuk kekal atau meninggalkan Kumpulan WhatsApp selepas program tamat.\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "test"
+msgstr "ujian"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2058,8 +3017,70 @@ msgstr "Penderma"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"😃 Thank you so much for being part of our WhatsApp chat group! \n"
+"\n"
+"As your home activity, try to spend at least 5 minutes of One-on-One Time with your child each day. \n"
+"\n"
+"We can share about how it goes during our next chat session. \n"
+"\n"
+"👋 See you in the next session on [ENTER DATE]."
+msgstr ""
+"😃Jutaan terima kasih kerana menjadi sebahagian daripada kumpulan sembang WhatsApp kami! \n"
+"\n"
+"Cuba untuk luangkan sekurang-kurangnya 5 minit Masa Bersama Seorang dengan Seorang bersama anak anda setiap hari sebagai aktiviti anda di rumah. \n"
+"\n"
+"Kita boleh berkongsi tentang perjalanan semasa sesi sembang kita yang seterusnya. \n"
+"\n"
+"👋Jumpa anda pada sesi seterusnya pada [MASUKKAN TARIKH]."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Add Ground Rules to the WhatsApp Group Description"
 msgstr "Tambahkan Peraturan Asas ke dalam Penerangan Kumpulan WhatsApp"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"To make this a safe space for everyone, here are some ground rules:\n"
+" \n"
+"✅ What is said in the group stays in the group. You need to know that this group is private.\n"
+"✅ Accept each other. Everyone is different and has different experiences.\n"
+"✅ Share only what you feel comfortable sharing.\n"
+"✅ Feel free to ask questions!\n"
+"✅ Respect privacy of personal pictures and videos that are sent to the chat group."
+msgstr ""
+"Untuk memastikan ruang ini selamat untuk semua, berikut adalah beberapa peraturan asas:\n"
+"\n"
+"✅ Apa yang dikongsikan dalam kumpulan kekal dalam kumpulan. Anda perlu tahu bahawa kumpulan ini adalah privasi.\n"
+"✅ Terima satu sama lain. Setiap orang berbeza dan mempunyai pengalaman yang berbeza.\n"
+"✅ Kongsi hanya perkara yang anda rasa selesa untuk dikongsikan.\n"
+"✅ Jangan malu untuk bertanya soalan!\n"
+"✅ Hormati privasi gambar dan video peribadi yang dikongsi dalam kumpulan sembang."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Remember to add the ground rules to the WhatsApp Group Description. \n"
+"\n"
+"​​To add the ground rules to the Group Description:\n"
+"- Copy the ground rules or use the ones agreed during the onboarding session.\n"
+"- Open the WhatsApp group chat. \n"
+"- Tap the group name. \n"
+"- Tap the existing description, or tap Add Group Description. \n"
+"- Paste the ground rules. \n"
+"- Tap Save."
+msgstr ""
+"Ingat untuk menambah peraturan asas ke dalam Penerangan Kumpulan WhatsApp.\n"
+"\n"
+"Langkah-langkah untuk menambah peraturan asas ke dalam Penerangan Kumpulan:\n"
+"\n"
+"- Salin peraturan asas, atau gunakan peraturan yang telah dipersetujui semasa sesi pengenalan.\n"
+"- Buka sembang kumpulan WhatsApp.\n"
+"- Klik nama kumpulan.\n"
+"- Klik penerangan sedia ada, atau klik Tambah Penerangan Kumpulan.\n"
+"- Tampal peraturan asas.\n"
+"- Klik Simpan."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2068,8 +3089,55 @@ msgstr "Mesej 1: Pengenalan"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"😃 Hi there! Welcome to our Naungan Kasih WhatsApp Group! \n"
+"\n"
+"Today we are introducing ourselves and our goals for the programme! ⭐ \n"
+"\n"
+"My name is [INSERT NAME] and my goal is to learn more about how to help my child go to bed by 8 every night. ⏰🌙 \n"
+"\n"
+"Please share your name and your goal for Naungan Kasih using text or audio message."
+msgstr ""
+"😃 Hai! Selamat datang ke Kumpulan WhatsApp Naungan Kasih! \n"
+"\n"
+"Kita akan mula dengan memperkenalkan diri kita dan matlamat kita bagi program ini pada hari ini! ⭐ \n"
+"\n"
+"Nama saya [MASUKKAN NAMA] dan matlamat saya adalah untuk mempelajari lebih lanjut tentang cara membantu anak saya tidur pada pukul 8 setiap malam.⏰🌙 \n"
+"\n"
+"Sila kongsikan nama anda dan matlamat anda untuk Naungan Kasih menggunakan teks atau mesej audio."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Remember to fill in your name where it says [INSERT NAME] before sending your message. \n"
+"\n"
+"Allow some time for parents to share. Try to praise each response.\n"
+"For example, you can say “Thanks for the response, [INSERT NAME]!” or “Great goal, [INSERT NAME]”! You can also use simple emojis like 👍or 🙂"
+msgstr ""
+"Ingat untuk mengisi nama anda di tempat yang tertera [MASUKKAN NAMA] sebelum menghantar mesej anda. \n"
+"\n"
+"Berikan sedikit masa untuk ibu bapa berkongsi. Cuba puji setiap respon.\n"
+"Sebagai contoh, anda boleh menyebut \"Terima kasih atas respon, [Masukkan Nama]!\" atau \"Matlamat hebat, [Masukkan Nama]\"! Anda juga boleh menggunakan emoji ringkas seperti 👍atau 🙂"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Message 2: Setting time to chat"
 msgstr "Mesej 2: Tetapkan masa untuk bersembang"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Every 2 weeks, we will catch up at [INSERT TIME] on [INSERT DAY] to chat about our Naungan Kasih journey. \n"
+"\n"
+"👋 Please join to share how things are going, any challenges you experience, or just say hi! 😊\n"
+"\n"
+"⏰ Does this time and day work for everyone?"
+msgstr ""
+"Setiap 2 minggu, kita akan berjumpa pada [MASUKKAN MASA] hari [MASUKKAN HARI] untuk berbual tentang perjalanan kita dalam Naungan Kasih.\n"
+"\n"
+"👋 Sila turut serta untuk berkongsi perkembangan anda, sebarang cabaran yang dihadapi, atau sekadar bertanya khabar! 😊\n"
+"\n"
+"⏰ Adakah masa dan hari ini sesuai untuk semua orang?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2135,6 +3203,23 @@ msgstr "Mesej 2: Selamat datang dan Daftar Masuk"
 #. type=data_list
 msgctxt "data_list"
 msgid ""
+"Hello! Before we start our chat session, I just wanted to congratulate you for making it this far into the programme! ✨\n"
+"\n"
+"How is everybody doing? 😃 Happy? 😣 Stressed? Angry? 😒 Annoyed? 💙 Peaceful? Whatever emotion you feel…it’s okay! Please share with the group how you are feeling today."
+msgstr ""
+"Hai semua! Sebelum kita mulakan sesi sembang hari ini, saya ingin ucapkan tahniah kerana anda telah sampai sejauh ini dalam program Naungan Kasih! ✨\n"
+"\n"
+"Apa khabar semua hari ini? 😃 Gembira? 😣 Tertekan? Marah? 😒 Menjengkelkan? 💙 Tenang? Apa pun emosi yang anda rasa… semuanya tidak mengapa!\n"
+"Sila kongsikan dengan kumpulan bagaimana perasaan anda hari ini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Allow time for parents to share how they are feeling. You should also share how you are feeling. For example, “I am happy to be part of this chat today.”"
+msgstr "Berikan masa untuk ibu bapa berkongsi perasaan mereka. Anda juga harus berkongsi perasaan anda. Sebagai contoh, \"Saya gembira menjadi sebahagian daripada sesi sembang pada hari ini.\""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
 "Thanks for sharing! ✨\n"
 "\n"
 "How are your NKText home activities going with your child? Did anything go particularly well? Did you find any activity difficult?"
@@ -2150,13 +3235,62 @@ msgstr "Mesej 4: Menyokong perkembangan anak"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Thanks for sharing! \n"
+"\n"
+"We all see how much our children grow and change over time. As parents, you have a big role in making sure your child develops and grows well. \n"
+"\n"
+"What do you think are some things you can do to support your child’s growth and development?"
+msgstr ""
+"Terima kasih atas perkongsian! \n"
+"\n"
+"Kita semua melihat sejauh mana anak kita membesar dan berubah mengikut peredaran masa. Anda mempunyai peranan yang besar sebagai ibu bapa dalam memastikan anak anda berkembang dan membesar dengan baik. \n"
+"\n"
+"Pada pendapat anda, apakah perkara yang boleh anda lakukan untuk menyokong pertumbuhan dan perkembangan anak anda?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Acknowledge the experiences parents share with an appropriate emoji. You can begin the discussion by sharing that parents can help their child grow by using words to describe what they are doing so that they develop language abilities."
 msgstr "Iktiraf pengalaman yang dikongsi ibu bapa dengan emoji yang sesuai. Anda boleh memulakan perbincangan dengan berkongsi bahawa ibu bapa boleh membantu anak mereka membesar dengan menggunakan perkataan untuk menerangkan perkara yang mereka lakukan supaya mereka dapat mengembangkan kebolehan bahasa."
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"That’s right! You can make a big difference by being involved in your child’s development. \n"
+"\n"
+"In NKText, you will find tips on how to support your child’s development and growth in the goal, “Understand Child Development”\n"
+"\n"
+"If you've already given this goal a try, that's fantastic! If not, consider choosing this as your next goal. \n"
+"\n"
+"Thank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆"
+msgstr ""
+"Betul! Anda boleh melakukan perubahan yang besar dengan melibatkan diri dalam perkembangan anak anda.\n"
+"\n"
+"Anda akan menemui petua-petua tentang cara untuk menyokong perkembangan dan pertumbuhan anak anda dalam matlamat \"Memahami Perkembangan Kanak-Kanak\" dalam NKText.\n"
+"\n"
+"Jika anda sudah mencuba matlamat ini, bagus! Jika belum, pertimbangkan untuk memilih matlamat ini sebagai matlamat seterusnya. \n"
+"\n"
+"Terima kasih kerana berkongsi dan berusaha keras sebagai ibu bapa. Jumpa lagi dalam sesi sembang seterusnya pada [MASUKKAN TARIKH]! 🏆"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Hello! I am looking forward to chatting with you later today at [INSERT TIME]. We will catch up on how things are going with your home activities. Chat soon! 👋"
 msgstr "Helo! Saya tidak sabar untuk bersembang dengan anda pada hari ini pukul [MASUKKAN WAKTU]. Kami akan mengikuti perkembangan aktiviti di rumah anda. Nanti kita sembang lagi! 👋"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"🔔 Hello! Welcome to our Naungan Kasih chat session!\n"
+"\n"
+"How are you doing today? Excited to share? Anxious about parenting? Curious? Whatever emotion you’re experiencing is okay. \n"
+"\n"
+"Share an emoji that best shows how you are feeling today. 😃😒😔😣"
+msgstr ""
+"🔔 Helo! Selamat datang ke sesi sembang Naungan Kasih!\n"
+"\n"
+"Bagaimana dengan anda hari ini? Teruja untuk berkongsi? Gelisah tentang keibubapaan? Rasa ingin tahu? Tidak kira apa emosi yang anda alami, semuanya tidak mengapa. \n"
+"\n"
+"Kongsikan emoji yang menggambarkan perasaan anda dengan terbaik pada hari ini. 😃😒😔😣"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2172,6 +3306,11 @@ msgstr ""
 "Bagaimana kemajuan anda dengan aktiviti di rumah NKText anda?\n"
 "\n"
 "Ingat, kami di sini untuk meraikan perkara yang baik bersama-sama dan membantu satu sama lain untuk mencari penyelesaian apabila sesuatu tidak berjalan dengan baik. Siapa yang ingin berkongsi dahulu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Message 4: Supporting children’s learning"
+msgstr "Mesej 4: Menyokong pembelajaran anak"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2199,6 +3338,33 @@ msgstr "Iktiraf pengalaman yang dikongsikan oleh ibu bapa dengan emoji yang sesu
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"🎉 Those are some great ideas! \n"
+"\n"
+"Remember that your children will learn best when you make it fun, creative, and meaningful.\n"
+"\n"
+"If you would like to learn more about ways to help your child grow healthily, check out the goal, “Prepare My Child for Success in School” in NKText. \n"
+"\n"
+"If you have already completed this goal, great job! If not, consider making this your next parenting goal. \n"
+"\n"
+"Remember, it is what you do at home with your child that makes the difference! 💚\n"
+"\n"
+"Chat to you next session on [ENTER DATE]! 👀"
+msgstr ""
+"🎉 Itu adalah beberapa idea yang hebat! \n"
+"\n"
+"Ingatlah bahawa anak anda akan belajar dengan sangat baik jika anda menjadikan pembelajaran tersebut menyeronokkan, kreatif dan bermakna.\n"
+"\n"
+"Semak matlamat \"Persiapkan Anak Saya untuk Kejayaan di Sekolah\" dalam NKText jika anda ingin mempelajari lebih lanjut tentang cara membantu anak anda membesar dengan sihat. \n"
+"\n"
+"Tahniah, jika anda telah melengkapkan matlamat ini! Jika tidak, pertimbangkan untuk menjadikan matlamat ini sebagai matlamat keibubapaan anda yang seterusnya. \n"
+"\n"
+"Ingat, andalah yang mencorakkan masa depan anak anda dengan apa yang anda lakukan di rumah bersamanya! 💚\n"
+"\n"
+"Mari bersembang lagi dalam sesi seterusnya pada [MASUKKAN TARIKH]! 👀"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Hello! I am excited to chat with you later today at [INSERT TIME]. Let us catch up on how things are going with your home activities from NKText. Chat soon!"
 msgstr "Helo! Saya teruja untuk bersembang dengan anda pada hari ini pukul [MASUKKAN WAKTU]. Biar kami mengikuti perkembangan aktiviti di rumah anda daripada NKText. Nanti kita sembang lagi!"
 
@@ -2206,6 +3372,29 @@ msgstr "Helo! Saya teruja untuk bersembang dengan anda pada hari ini pukul [MASU
 msgctxt "data_list"
 msgid "Message 2: Welcome and check-in"
 msgstr "Mesej 2: Selamat datang dan daftar masuk"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"🔔 Hello! Welcome to our Naungan Kasih chat session!\n"
+"\n"
+"How is everyone’s stress level today? \n"
+"\n"
+"Use Type a number from 1 to 10 to share your stress level:\n"
+"1 - No Stress \n"
+"2 to 5 - Some Stress \n"
+"6 to 9 - Feeling Stressed \n"
+"10 - Extremely Stressed"
+msgstr ""
+"🔔 Helo! Selamat datang ke sesi sembang Naungan Kasih!\n"
+"\n"
+"Bagaimana dengan tahap tekanan semua orang pada hari ini? \n"
+"\n"
+"Untuk berkongsi tahap tekanan anda, gunakan Taip satu nombor daripada 1 hingga 10:\n"
+"1 - Tiada Tekanan \n"
+"2 hingga 5 - Sedikit Tekanan \n"
+"6 hingga 9 - Berasa Tertekan \n"
+"10 - Sangat Tertekan"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2219,6 +3408,21 @@ msgstr "Mesej 3: Aktiviti di Rumah"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Thanks for sharing! ✨\n"
+"\n"
+"It’s been six weeks since we began our NKText journey. How is everyone doing with their NKText home activities? \n"
+"\n"
+"Who would like to share first?"
+msgstr ""
+"Terima kasih atas perkongsian! ✨\n"
+"\n"
+"Sudah enam minggu berlalu sejak kita mulakan perjalanan NKText kita. Bagaimana kemajuan semua orang dengan aktiviti di rumah NKText? \n"
+"\n"
+"Siapa yang ingin berkongsi dahulu?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Acknowledge the experiences parents share with an appropriate emoji or with a response from the common challenges."
 msgstr "Hargai pengalaman yang dikongsi ibu bapa dengan emoji yang sesuai atau dengan respon daripada bahagian cabaran lazim."
 
@@ -2229,8 +3433,64 @@ msgstr "Mesej 4: Mengurus tekanan dalam kehidupan seharian"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Thanks for sharing! This week we are going to focus our chat session on you 🙂\n"
+"\n"
+"It is important that we can take care of ourselves as parents if we are going to be able to support our children. \n"
+"As we think about the last six weeks with NKText, you’ve probably noticed lots of lessons that help you take care of yourself. \n"
+"\n"
+"Here’s a question for you: What’s one thing you’ve learned from NKText that’s helped you take care of yourself better?"
+msgstr ""
+"Terima kasih atas perkongsian! Kita akan tumpukan perhatian sesi sembang kita terhadap anda 🙂\n"
+"\n"
+"Jika kita ingin mampu untuk menyokong anak kita, adalah penting bagi kita sebagai ibu bapa untuk menjaga diri kita sendiri. \n"
+"Anda mungkin telah menyedari banyak pelajaran yang membantu anda menjaga diri sendiri sepanjang enam minggu terakhir bersama NKText. \n"
+"\n"
+"Ini adalah soalan untuk anda: Apakah satu perkara yang anda pelajari daripada NKText yang membantu anda menjaga diri anda dengan lebih baik?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Acknowledge the experiences parents share with an appropriate emoji. You can share suggestions like setting a routine helped you from the lesson “Managing Stress” in the goal “Give My Child Structure”."
+msgstr ""
+"Berikan respon kepada perkongsian ibu bapa dengan emoji yang sesuai. Bergantung pada perasaan atau pengalaman yang mereka kongsi.\n"
+"\n"
+"Anda boleh berkongsi cadangan seperti menetapkan jadual harianyang membantu anda daripada pelajaran \"Menguruskan Tekanan\" dalam matlamat \"Berikan Persekitaran yang Seimbang untuk Anak Saya”."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Message 5: Closing"
 msgstr "Mesej 5: Penutup"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"🎉 Those are some great ideas! \n"
+"\n"
+"Remember, before you can take care of your child and family, you need to take care of yourself. \n"
+"\n"
+"If you want to redo any of your goals, simply type MENU in NKText. \n"
+"\n"
+"Next chat session will be my last chat session with you. But you can keep this WhatsApp group open* as a place to continue to support each other! 💚\n"
+"\n"
+"Is anyone willing to take over as a group admin? \n"
+"\n"
+"Please send me a direct message if you are interested. It would be great to get *two volunteers*. 👀\n"
+"\n"
+"Chat to you next session on [ENTER DATE]! 👀"
+msgstr ""
+"🎉 Itu merupakan idea yang hebat! \n"
+"\n"
+"Ingat, anda perlu menjaga diri anda sendiri sebelum anda dapat menjaga anak serta keluarga anda. \n"
+"\n"
+"Taip sahaja MENU dalam NKText jika anda ingin buat semula mana-mana matlamat anda.\n"
+"\n"
+"Sesi sembang seterusnya akan menjadi sesi sembang terakhir saya dengan anda. Tetapi anda boleh memastikan kumpulan WhatsApp ini dibuka* sebagai tempat untuk terus menyokong satu sama lain! 💚\n"
+"\n"
+"Adakah sesiapa yang sanggup mengambil alih menjadi pentadbir kumpulan? \n"
+"\n"
+"Sila hantar mesej secara terus kepada saya jika anda berminat. Pasti bagus jika mendapat *dua orang sukarelawan*. 👀\n"
+"\n"
+"Jom sembang lagi pada sesi seterusnya pada [MASUKKAN TARIKH]! 👀"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2244,6 +3504,15 @@ msgstr "Mesej 1: Peringatan"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"Hello! Today’s chat session at [INSERT TIME] will be later today. \n"
+"See you later today!"
+msgstr ""
+"Helo! Sesi sembang hari ini pada [MASUKKAN WAKTU] akan diadakan nanti. \n"
+"Jumpa anda nanti!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Send this message in the morning on the day of the chat session. Insert the time for the chat before sending the message."
 msgstr "Hantar mesej ini pada waktu pagi pada hari sesi sembang. Masukkan masa untuk sembang sebelum menghantar mesej."
 
@@ -2251,6 +3520,22 @@ msgstr "Hantar mesej ini pada waktu pagi pada hari sesi sembang. Masukkan masa u
 msgctxt "data_list"
 msgid "Message 2: Welcome"
 msgstr "Mesej 2: Aluan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"👋 Hi everyone, welcome to the final chat session together on Naungan Kasih. \n"
+"\n"
+"✨ Take a moment to think back to the beginning of the programme. How have you and your child changed?"
+msgstr ""
+"👋 Hai semua, selamat datang ke sesi sembang terakhir bersama-sama di Naungan Kasih. \n"
+"\n"
+"✨ Ambil waktu sejenak untuk berfikir kembali tentang awal program. Seberapa jauh anda serta anak anda berubah?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Allow parents to share about the changes that they have experienced during the programme. You can give brief words of encouragement like “Wonderful!” or “I am happy to hear that!” or even share celebration emojis like 🎉 or ⭐."
+msgstr "Benarkan ibu bapa berkongsi tentang perubahan yang mereka alami semasa program ini. Anda boleh memberikan kata-kata galakan ringkas seperti \"Hebat!\" atau \"Saya gembira mendengarnya!\" atau berkongsi emoji sambutan seperti 🎉atau ⭐."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2276,6 +3561,25 @@ msgstr "Walaupun ini merupakan sesi sembang terakhir saya bersama anda, anda ber
 msgctxt "data_list"
 msgid "Message 5: Goodbye"
 msgstr "Mesej 5: Selamat Tinggal"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"I will now be exiting this WhatsApp Group. 👋\n"
+"\n"
+"You are the best parents to your children *You can still complete your final ParentText Goals and Skills if you have not done so yet*. 🌱\n"
+"\n"
+"We all face difficult situations sometimes, and these final parts of ParentText will help you and your child to get through them well. \n"
+"\n"
+"You’ve got this! ⭐ You are doing a wonderful job as a parent. It has been a pleasure to be on this journey with you!"
+msgstr ""
+"Sekarang saya akan keluar dari Kumpulan WhatsApp ini. 👋\n"
+"\n"
+"Anda adalah ibu bapa yang terbaik untuk anak-anak anda *Anda masih boleh melengkapkan Matlamat dan Kemahiran NKText terakhir anda jika anda belum melakukannya*. 🌱\n"
+"\n"
+"Kadangkala kita semua menghadapi situasi yang sukar, dan bahagian akhir NKText ini akan membantu anda serta anak anda untuk melaluinya dengan baik.\n"
+"\n"
+"Anda pasti boleh! ⭐Anda melakukan tugas yang hebat sebagai ibu bapa. Ia adalah satu keseronokan untuk berada dalam perjalanan ini bersama anda!"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -2387,6 +3691,11 @@ msgstr "Minggu 8: Sesi Sembang Terakhir"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "masw"
+msgstr "masw"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "kemas"
 msgstr "kemas"
 
@@ -2394,6 +3703,78 @@ msgstr "kemas"
 msgctxt "global"
 msgid "Share"
 msgstr "Kongsi"
+
+#. type=global
+msgctxt "global"
+msgid "your DIF supervisor"
+msgstr "penyelia anda"
+
+#. type=global
+msgctxt "global"
+msgid "Sign in"
+msgstr "Log masuk"
+
+#. type=global
+msgctxt "global"
+msgid "Sign in with Google"
+msgstr "Log masuk dengan Google"
+
+#. type=global
+msgctxt "global"
+msgid "Sign out"
+msgstr "Log keluar"
+
+#. type=global
+msgctxt "global"
+msgid "Create an account"
+msgstr "Cipta akaun"
+
+#. type=global
+msgctxt "global"
+msgid "Creating an account allows you to save your progress across devices. It is optional."
+msgstr "Membuat akaun membolehkan anda menyimpan kemajuan anda merentasi peranti berbeza. Ia adalah pilihan (tidak wajib)."
+
+#. type=global
+msgctxt "global"
+msgid "Skip"
+msgstr "Langkau"
+
+#. type=global
+msgctxt "global"
+msgid "Continue without an account"
+msgstr "Teruskan tanpa akaun"
+
+#. type=global
+msgctxt "global"
+msgid "Excited to have you here! Let’s keep going."
+msgstr "Terujanya anda bersama kami! Jom teruskan."
+
+#. type=global
+#. The string @fields._auth_user_given_name! should not be translated.
+msgctxt "global"
+msgid "Excited to have you here @fields._auth_user_given_name! Let’s keep going."
+msgstr "Terujanya @fields._auth_user_given_name bersama kami! Jom teruskan."
+
+#. type=global
+msgctxt "global"
+msgid "You are signed in."
+msgstr "Anda telah berjaya log masuk."
+
+#. type=global
+msgctxt "global"
+msgid ""
+"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
+"\n"
+"If you do, any progress made on this device will be lost."
+msgstr ""
+"Nampaknya anda pernah log masuk di peranti lain sebelum ini. Adakah anda ingin sambung semula dari bahagian terakhir anda berhenti?\n"
+"\n"
+"Jika ya, sebarang kemajuan yang dibuat di peranti ini akan hilang."
+
+#. type=global
+msgctxt "global"
+msgid "Load saved progress"
+msgstr "Sambung kemajuan yang disimpan"
 
 #. type=global
 msgctxt "global"
@@ -2438,8 +3819,78 @@ msgstr "WhatsApp"
 
 #. type=global
 msgctxt "global"
+msgid "14 December 2023"
+msgstr "14 Disember 2023"
+
+#. type=global
+msgctxt "global"
+msgid "Parent Group"
+msgstr "Kumpulan Ibu Bapa"
+
+#. type=global
+msgctxt "global"
+msgid "Select Parent Group"
+msgstr "Pilih Kumpulan Ibu Bapa"
+
+#. type=global
+msgctxt "global"
+msgid "No Parent Groups"
+msgstr "Tiada Kumpulan Ibu Bapa"
+
+#. type=global
+msgctxt "global"
+msgid "Chat Sessions will load after you select a parent group"
+msgstr "Sesi sembang akan dimuatkan selepas anda memilih kumpulan ibu bapa"
+
+#. type=global
+msgctxt "global"
+msgid "Parent's first name"
+msgstr "Nama pertama Ibu Bapa"
+
+#. type=global
+msgctxt "global"
+msgid "Parent's last name"
+msgstr "Nama akhir Ibu Bapa"
+
+#. type=global
+msgctxt "global"
+msgid "Parent Text ID"
+msgstr "NKText ID"
+
+#. type=global
+msgctxt "global"
 msgid "minutes"
 msgstr "minit"
+
+#. type=global
+msgctxt "global"
+msgid "Your Active Groups"
+msgstr "Kumpulan Aktif Anda"
+
+#. type=global
+msgctxt "global"
+msgid "Your Archived Groups"
+msgstr "Kumpulan Terdahulu"
+
+#. type=global
+msgctxt "global"
+msgid "You successfully completed this session!"
+msgstr "Anda telah berjaya menyelesaikan sesi ini!"
+
+#. type=global
+msgctxt "global"
+msgid "You successfully completed the report for this session!"
+msgstr "Anda telah berjaya melengkapkan laporan untuk sesi ini!"
+
+#. type=global
+msgctxt "global"
+msgid "Review Report"
+msgstr "Semak Laporan"
+
+#. type=global
+msgctxt "global"
+msgid "Submit Report"
+msgstr "Hantar Laporan"
 
 #. type=global
 msgctxt "global"
@@ -2448,8 +3899,43 @@ msgstr "Soalan Lazim"
 
 #. type=global
 msgctxt "global"
+msgid "GUIDE"
+msgstr "BANTUAN"
+
+#. type=global
+msgctxt "global"
+msgid "Mark Session as Delivered"
+msgstr "Tandakan Sesi sebagai Telah Dilaksanakan"
+
+#. type=global
+msgctxt "global"
 msgid "Language"
 msgstr "Bahasa"
+
+#. type=global
+msgctxt "global"
+msgid "View Module from Start"
+msgstr "Lihat Modul dari Awal"
+
+#. type=global
+msgctxt "global"
+msgid "Copied to clipboard"
+msgstr "Disalin ke papan klip"
+
+#. type=global
+msgctxt "global"
+msgid "You've reached the end of this session. What would you like to do next?"
+msgstr "Anda telah sampai ke penghujung sesi ini. Apa yang anda ingin lakukan seterusnya?"
+
+#. type=global
+msgctxt "global"
+msgid "This profile is incomplete. Open to complete the missing details."
+msgstr "Profil ini belum lengkap. Buka untuk melengkapkan maklumat yang belum diisi."
+
+#. type=global
+msgctxt "global"
+msgid "Select Role"
+msgstr "Pilih Peranan"
 
 #. type=global
 msgctxt "global"
@@ -2479,6 +3965,16 @@ msgstr "penyelia anda"
 
 #. type=template
 msgctxt "template"
+msgid "Are you sure you want to delete this report?"
+msgstr "Anda pasti ingin memadam laporan ini?"
+
+#. type=template
+msgctxt "template"
+msgid "This will delete all of your report data and entries. The action cannot be undone!"
+msgstr "Ini akan memadam semua data dan laporan anda. Tindakan ini tidak boleh dipulihkan!"
+
+#. type=template
+msgctxt "template"
 msgid "Parent profile"
 msgstr "Profil ibu bapa"
 
@@ -2495,7 +3991,7 @@ msgstr "Nama terakhir"
 #. type=template
 msgctxt "template"
 msgid "Settings"
-msgstr "Bersungguh-sungguh dalam melakukan aktiviti harian yang dicadangkan (Cuba selesaikan keseluruhan Kemahiran 5 minit pada satu masa, untuk mengelakkan masa ParentText daripada tamat)."
+msgstr "Tetapan"
 
 #. type=template
 msgctxt "template"
@@ -2504,13 +4000,78 @@ msgstr "Profil"
 
 #. type=template
 msgctxt "template"
+msgid "Switch language"
+msgstr "Tukar Bahasa"
+
+#. type=template
+msgctxt "template"
+msgid "Your Facilitator Code"
+msgstr "ID Fasilitator anda"
+
+#. type=template
+msgctxt "template"
 msgid "Your Content Package"
 msgstr "Pakej Kandungan Anda"
 
 #. type=template
 msgctxt "template"
+msgid "Parent Actions"
+msgstr "Tindakan Ibu Bapa"
+
+#. type=template
+msgctxt "template"
 msgid "Your Parent Groups"
 msgstr "Kumpulan Ibu Bapa Anda"
+
+#. type=template
+msgctxt "template"
+msgid "App Details & Terms"
+msgstr "Butiran Aplikasi & Terma"
+
+#. type=template
+msgctxt "template"
+msgid "Add Parent to Group"
+msgstr "Tambah Ibu Bapa ke Kumpulan"
+
+#. type=template
+#. The string @item.co_parent_name should not be translated.
+msgctxt "template"
+msgid "Co-parent: @item.co_parent_name"
+msgstr "Pasangan Keibubapaan: @item.co_parent_name"
+
+#. type=template
+msgctxt "template"
+msgid "Library"
+msgstr "Sumber"
+
+#. type=template
+#. The string @fields.current_parent_name should not be translated.
+msgctxt "template"
+msgid "Are you sure you want to delete @fields.current_parent_name?"
+msgstr "Anda pasti ingin memadam @fields.current_parent_name?"
+
+#. type=template
+#. The string @fields.current_parent_name should not be translated.
+msgctxt "template"
+msgid "This will delete all of @fields.current_parent_name parent data. The action cannot be undone."
+msgstr "Ini akan memadam semua data ibu bapa bagi @fields.current_parent_name. Tindakan ini tidak boleh dipulihkan."
+
+#. type=template
+#. The string @fields.current_group_name should not be translated.
+msgctxt "template"
+msgid "Are you sure you want to delete @fields.current_group_name?"
+msgstr "Anda pasti ingin memadam @fields.current_group_name?"
+
+#. type=template
+#. The string @fields.current_group_name should not be translated.
+msgctxt "template"
+msgid "This will delete all of @fields.current_group_name group data. The action cannot be undone."
+msgstr "Ini akan memadam semua data kumpulan @fields.current_group_name. Tindakan ini tidak boleh dipulihkan."
+
+#. type=template
+msgctxt "template"
+msgid "Delete"
+msgstr "Padam"
 
 #. type=template
 msgctxt "template"
@@ -2574,6 +4135,47 @@ msgstr "Ibu bapa"
 
 #. type=template
 msgctxt "template"
+msgid "Very poorly"
+msgstr "Sangat lemah"
+
+#. type=template
+msgctxt "template"
+msgid "New Parent Group"
+msgstr "Kumpulan Ibu Bapa Baru"
+
+#. type=template
+msgctxt "template"
+msgid "images/icons/task_"
+msgstr "imej/ikon/tugas_"
+
+#. type=template
+#. The string @fields.current_group_no should not be translated.
+msgctxt "template"
+msgid "currentgroup: @fields.current_group_no"
+msgstr "Kumpulan Semasa: @fields.current_group_no"
+
+#. type=template
+msgctxt "template"
+msgid "Your Reports"
+msgstr "Laporan Anda"
+
+#. type=template
+msgctxt "template"
+msgid "Parent Group"
+msgstr "Kumpulan Ibu Bapa"
+
+#. type=template
+msgctxt "template"
+msgid "Edit Parent Group"
+msgstr "Kemaskini Kumpulan Ibu Bapa"
+
+#. type=template
+msgctxt "template"
+msgid "Group Name"
+msgstr "Nama Kumpulan"
+
+#. type=template
+msgctxt "template"
 msgid "Submit"
 msgstr "Hantar"
 
@@ -2600,8 +4202,18 @@ msgstr "Kod yang anda masukkan tidak betul."
 
 #. type=template
 msgctxt "template"
+msgid "test"
+msgstr "ujian"
+
+#. type=template
+msgctxt "template"
 msgid "Templates"
 msgstr "Templat"
+
+#. type=template
+msgctxt "template"
+msgid "Dynamic data"
+msgstr "Data Dinamik"
 
 #. type=template
 msgctxt "template"
@@ -2640,6 +4252,16 @@ msgstr "Keluar dari mod pembangun"
 
 #. type=template
 msgctxt "template"
+msgid "First Name"
+msgstr "Nama Pertama"
+
+#. type=template
+msgctxt "template"
+msgid "Last Name"
+msgstr "Nama Akhir"
+
+#. type=template
+msgctxt "template"
 msgid "ParentText ID"
 msgstr "ID ParentText"
 
@@ -2652,6 +4274,16 @@ msgstr "Pastikan ID ParentText mengandungi 6 aksara bernombor."
 msgctxt "template"
 msgid "This ParentText ID has already been assigned to another parent."
 msgstr "ID ParentText ini telah diberikan kepada ibu bapa yang lain."
+
+#. type=template
+msgctxt "template"
+msgid "Save Profile"
+msgstr "Simpan Profil"
+
+#. type=template
+msgctxt "template"
+msgid "Save and Add New"
+msgstr "Simpan dan Tambah Baru"
 
 #. type=template
 #. The string @global.share_medium should not be translated.
@@ -2681,13 +4313,94 @@ msgstr "Tiada satu pun mesej"
 
 #. type=template
 msgctxt "template"
+msgid "How do you feel the session went?"
+msgstr "Bagaimana perasaan anda tentang sesi ini?"
+
+#. type=template
+msgctxt "template"
+msgid "Very well"
+msgstr "Sangat Baik"
+
+#. type=template
+msgctxt "template"
+msgid "Well"
+msgstr "Baik"
+
+#. type=template
+msgctxt "template"
+msgid "Acceptable / Okay"
+msgstr "Boleh diterima / Okey"
+
+#. type=template
+msgctxt "template"
+msgid "Poorly"
+msgstr "Lemah"
+
+#. type=template
+msgctxt "template"
+msgid "Very Poorly"
+msgstr "Sangat Lemah"
+
+#. type=template
+#. The string @global.virtual_session_platform should not be translated.
+msgctxt "template"
+msgid "Which of the parents in this group attended your @global.virtual_session_platform group session?"
+msgstr "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi kumpulan anda di @global.virtual_session_platform?"
+
+#. type=template
+msgctxt "template"
+msgid "How many minutes did it take you to prepare for this session?"
+msgstr "Berapa minit yang anda ambil untuk persiapan bagi sesi ini?"
+
+#. type=template
+msgctxt "template"
 msgid "How many minutes did it take you to travel to the location where the session was delivered?"
 msgstr "Berapa minit yang anda ambil untuk pergi ke lokasi di mana sesi tersebut dijalankan?"
 
 #. type=template
 msgctxt "template"
+msgid "How many minutes did it take you to deliver the sessions?"
+msgstr "Berapa minit yang anda ambil untuk menyampaikan sesi ini?"
+
+#. type=template
+msgctxt "template"
+msgid "Which of the parents in this group attended your in-person session?"
+msgstr "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?"
+
+#. type=template
+msgctxt "template"
+msgid "parents"
+msgstr "ibu bapa"
+
+#. type=template
+msgctxt "template"
 msgid "Please check all the activities you completed during this session:"
 msgstr "Sila pilih semua aktiviti yang anda selesaikan semasa sesi ini:"
+
+#. type=template
+#. The string @fields.current_group_name should not be translated.
+msgctxt "template"
+msgid "Are you sure you want to archive @fields.current_group_name?"
+msgstr "Adakah anda pasti ingin memindah @fields.current_group_name ke Kumpulan Terdahulu?"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Archiving this group will remove it from your active list.\n"
+"You can still view its data later if needed."
+msgstr ""
+"Memindahkan ke Kumpulan Terdahulu akan mengeluarkannya daripada senarai aktif anda.\n"
+"Anda masih boleh melihat datanya kemudian jika perlu."
+
+#. type=template
+msgctxt "template"
+msgid "Cancel"
+msgstr "Batal"
+
+#. type=template
+msgctxt "template"
+msgid "Archive"
+msgstr "Kumpulan Terdahulu"
 
 #. type=template
 msgctxt "template"
