@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-07-07 13:32\n"
+"PO-Revision-Date: 2025-07-07 16:37\n"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -127,9 +127,60 @@ msgid "Information Sharing and Third Party Service Providers and Websites"
 msgstr "Ukwabelana ngolwazi kunye nababoneleli ngeenkonzo yomntu wesithathu kunye newebhusayithi"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @global.privacy_policy,
+#.      @global.privacy_policy.
+#.      @global.privacy_policy
+msgctxt "data_list"
+msgid ""
+"Your personal data may be shared with third parties such as researchers and partners involved in the improvement or implementation of the app including those outside your country. Prior to the disclosure of information with research partners we will make them anonymous by extracting data and removing any personally identifiable information. In reading this @global.privacy_policy, you acknowledge that we will use your anonymised data in published research.\n"
+"\n"
+"We may transfer your personal data outside your country, for example, to administer cloud services. We will ensure that any country, company or person that we pass your personal information, will treat your information with the same level of protection as we are obliged to and we will rely on Standard Contractual Clauses.\n"
+"\n"
+"The app is supported by duly authorized third parties that may collect your personal data in order to provide their services. We do so for the following reasons:\n"
+"-   To provide the app on our behalf;\n"
+"-   To perform app-related services; or\n"
+"-   To assist us in analysing how our app is used.\n"
+"\n"
+"Links to the privacy policies of third-party service providers used by the app:\n"
+"-   [Apple Media Services](https://www.apple.com/legal/internet-services/itunes/)\n"
+"-   [Google Play Services](https://www.google.com/policies/privacy/)\n"
+"-   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)\n"
+"-   [Sentry](https://sentry.io/privacy/)\n"
+"-   [Matomo](https://matomo.org/privacy-policy/)\n"
+"-   [GlitchTip](https://glitchtip.com/legal/privacy)\n"
+"\n"
+"This app may contain links to other sites that are not covered by this @global.privacy_policy. If you click on a third-party link, you will be directed to that site. This @global.privacy_policy applies only to the processing of your personal data by this app. It does not address, and we are not responsible for, the privacy, information, or other practices of any third parties, including any third party operating any site or service to which this app links to."
+msgstr ""
+"Idatha yakho yobuqu inokwabelana nabantu  besithathu abafana nabaphandi kunye namaqela abandakanyeka ekuphuculeni okanye ekuphunyezweni kw-app ukuquka abo bangaphandle kwelizwe lakho.Phambi kokubhengezwa kolwazi kunye anaqela ophando siya kubenza bangaziwa ngokukhupha idatha kunye nokususa naluphi na ulwazi olunokubonwa.Ekundeni @global.@global.privacy_policy@global.privacy_policyprivacy_policy, uyavuma ukuba siya kusebenzisa idatha engaziwa kuphando olupapashiweyo.\n"
+"\n"
+"Sinokudlulisela idatha yakho yobuqu ngaphandle kwelizwelakho. umzekelo,ukulawula iinkonzo zelifu.Siya kuqinisekisa ukuba naliphina ilizwe, inkampu, okanye umntu esidlulisela ulwazi lwakho kulomntu siqu,uya kuphatha ulwazi lwakho ngenqanaba elifanayo lokhuseleko njengoko sibophelelekile kwaye siya kuxhomekeka kwiStandard Contractual Clauses esemgangathweni.\n"
+"\n"
+"I-App ixhaswa liqela lesithathu eligunyazisiweyo elinokuthi liqokelele idatha yakho yobuqu ukuze babonelele ngeenkonzo zabo. Senza njalo ngezi zintathu zilandelayo.\n"
+"\n"
+"-Ukubonelela ngosetyenziso egameni lethu.\n"
+"- Ukwenza  iinkonzo ezinxulumene ne-app,okanye \n"
+"-Ukusinceda ekuhlalutyeni indlela i-app yethu esetyenziswa ngayo. \n"
+"\n"
+"Iilinki kwimigaqo -nkqubo yabucala yababoneleli  beenkonzo zeqela  lesithathu ezisetyenziswa yi-app:\n"
+"-   [Apple Media Services](https://www.apple.com/legal/internet-services/itunes/)\n"
+"   [Google Play Services](https://www.google.com/policies/privacy/)\n"
+"-   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)\n"
+"-   [Sentry](https://sentry.io/privacy/)\n"
+"-   [Matomo](https://matomo.org/privacy-policy/)\n"
+"-   [GlitchTip](https://glitchtip.com/legal/privacy\n"
+"\n"
+"Le app isenokuqulatha uqhangamshelwano kwezinye iisayithi ezingabandakanywanga y.@global.privacy_policUkuba ucofa kwiqela lomntu wesithathu,iya kubhekisa kulo site.Lo @global.privacy_polic  isebenza kuphela ukusetyenzwa kwedatha  yakho yobuqu ngale app.Ayithethi,kwaye asinaxanduva lwabucala,ulwazi,okanye ezinye izenzo zomntu wesithathu, kubandakanywa nawuphina  na umntu wesithathu osebenza kuyo nayiphi na isyithi okanye iinkonzo apho le app idibaisa khona..."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "How long do we keep your data?"
 msgstr "Siyigcina ixesha elingakanani idatha yakho?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We will retain your personal information for as long as you continue to use the app and keep the app installed on your phone as long as we need it to fulfill our purposes, including any relating to app services as well as legal, accounting, or reporting requirements. In any case, we will not process your data over 4 years after your last use of the app."
+msgstr "Siza kungcina iinkcukacha zakho logama uqhubeka usebenzisa i-app kwaye ugcine i-app ifakwe kwifowuni yakho okoko sikufunayo ukuze sifezekise injongo yethu, kuquka naziphi na ezinxulumene neenkonzo ze-app kunye neemfuneko zomthetho, zokubalwa okanye ukunika ingxelo, Nakweyiphi na imeko, asizukuyiqhuba idatha yakho ngaphezu kweminyaka e4 emva kokusetyenziswa kwayo kokugqibela kwe -app."
 
 #. type=data_list
 msgctxt "data_list"
