@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Filipino\n"
 "\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2025-06-23 15:58\n"
+"PO-Revision-Date: 2025-07-10 16:42\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1094,6 +1094,11 @@ msgstr "Edit Parent Group"
 
 #. type=template
 msgctxt "template"
+msgid "Co-parenting with"
+msgstr "Co-parenting with"
+
+#. type=template
+msgctxt "template"
 msgid "Facilitator ID"
 msgstr "Facilitator ID"
 
@@ -1160,41 +1165,6 @@ msgstr "Add Parent to Group"
 msgctxt "template"
 msgid "Co-parent: @item.co_parent_name"
 msgstr "Co-parent: @item.co_parent_name"
-
-#. type=template
-msgctxt "template"
-msgid "Parent profile"
-msgstr "Parent profile"
-
-#. type=template
-msgctxt "template"
-msgid "First name"
-msgstr "First name"
-
-#. type=template
-msgctxt "template"
-msgid "Last name"
-msgstr "Last name"
-
-#. type=template
-msgctxt "template"
-msgid "ParentText ID"
-msgstr "ParentText ID"
-
-#. type=template
-msgctxt "template"
-msgid "Make sure that the ParentText ID consists of 6 numerical characters."
-msgstr "Make sure that the ParentText ID consists of 6 numerical characters."
-
-#. type=template
-msgctxt "template"
-msgid "This ParentText ID has already been assigned to another parent."
-msgstr "This ParentText ID has already been assigned to another parent."
-
-#. type=template
-msgctxt "template"
-msgid "Co-parenting with"
-msgstr "Co-parenting with"
 
 #. type=template
 msgctxt "template"
@@ -1361,11 +1331,6 @@ msgstr "This will delete all of @fields.current_group_name group data. The actio
 
 #. type=template
 msgctxt "template"
-msgid "Cancel"
-msgstr "Cancel"
-
-#. type=template
-msgctxt "template"
 msgid "Delete"
 msgstr "Delete"
 
@@ -1504,6 +1469,11 @@ msgstr "Sino sa mga magulang sa grupong ito ang naka-attend ng in-person session
 msgctxt "template"
 msgid "What challenges or successes did the parent experience during with their home activity for @local.module_name ? Were there any concerns?"
 msgstr "What challenges or successes did the parent experience during with their home activity for @local.module_name ? Were there any concerns?"
+
+#. type=template
+msgctxt "template"
+msgid "Cancel"
+msgstr "Cancel"
 
 #. type=template
 msgctxt "template"
