@@ -225,22 +225,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "Sign in"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Sign in with Apple"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Sign in with Google"
 msgstr ""
 
 #. type=global
@@ -250,44 +235,12 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "You are logged in."
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Delete account"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Are you sure you want to delete your account?"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "This action is permanent and cannot be undone. You will lose all your progress."
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "This action is permanent and cannot be undone."
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Yes"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "No"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid ""
-"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
-"\n"
+msgid "It looks like you've logged in on another device before. Would you like to continue from where you left off? \n\n"
 "If you do, any progress made on this device will be lost."
 msgstr ""
 
@@ -324,6 +277,61 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Skip"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Login"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Sign in with Apple"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Sign in with Google"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Logout"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "You are logged in."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Delete account"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Are you sure you want to delete your account?"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "This action is permanent and cannot be undone. You will lose all your progress."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Yes"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "No"
 msgstr ""
 
 #. type=global
@@ -523,8 +531,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid ""
-"Nothing here yet!\n"
+msgid "Nothing here yet!\n"
 "Mark games as favourites by tapping the ❤️ icon to quickly find what you enjoy most."
 msgstr ""
 
@@ -753,6 +760,22 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "User ID"
+msgstr ""
+
+#. type=template
+#. The string @local.user_id_name should not be translated.
+msgctxt "template"
+msgid "Paste the @local.user_id_name to import their account data."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Import data"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Raising teens can be hard and we all struggle sometimes."
 msgstr ""
 
@@ -859,9 +882,7 @@ msgstr ""
 #. type=template
 #. The string @global.parent_app should not be translated.
 msgctxt "template"
-msgid ""
-"It is not easy to look after our families. We all have challenges sometimes, but we hope this app will help you navigate them well. @global.parent_app is based on ten years of experience running parenting programmes in South Africa and thousands of parents have found that the tips that are shared help with many parenting challenges. We hope this app will help you and your family too.\n"
-"\n"
+msgid "It is not easy to look after our families. We all have challenges sometimes, but we hope this app will help you navigate them well. @global.parent_app is based on ten years of experience running parenting programmes in South Africa and thousands of parents have found that the tips that are shared help with many parenting challenges. We hope this app will help you and your family too.\n\n"
 "Here are some of the key proven tips for you:"
 msgstr ""
 
@@ -1044,3 +1065,4 @@ msgstr ""
 msgctxt "template"
 msgid "Save"
 msgstr ""
+
