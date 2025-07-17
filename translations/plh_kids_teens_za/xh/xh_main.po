@@ -11,7 +11,30 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-07-10 16:42\n"
+"PO-Revision-Date: 2025-07-17 16:05\n"
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
+msgstr ""
+"@global.app_name Yi App eyenziwe ngabakwa IDEMS international kunye nabazali ukwenzela Lifelong Health ukuxhasa abazali kunye nabagcini babantwana abakwiminyaka eyi2 ukuya kwiminyaka eyi9.\n"
+"Umxholo apha ufumaneka phantsi komthombo ovulekileyo oyi Creative Commons International 4.0 license. Iphuhliswe ngemanyano yobambiswano elingundoqo:"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Man"
+msgstr "Indoda"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Woman"
+msgstr "Mfazi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Prefer not to say"
+msgstr "Ukhetha ukungatsho"
 
 #. type=data_list
 msgctxt "data_list"
@@ -22,14 +45,6 @@ msgstr "Amaqabane"
 msgctxt "data_list"
 msgid "Donors"
 msgstr "Abaxhasi"
-
-#. type=data_list
-#. The string @global.app_name should not be translated.
-msgctxt "data_list"
-msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
-msgstr ""
-"@global.app_name Yi App eyenziwe ngabakwa IDEMS international kunye nabazali ukwenzela Lifelong Health ukuxhasa abazali kunye nabagcini babantwana abakwiminyaka eyi2 ukuya kwiminyaka eyi9.\n"
-"Umxholo apha ufumaneka phantsi komthombo ovulekileyo oyi Creative Commons International 4.0 license. Iphuhliswe ngemanyano yobambiswano elingundoqo:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -55,26 +70,6 @@ msgstr "Uncle"
 msgctxt "data_list"
 msgid "Father"
 msgstr "Tata"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Woman"
-msgstr "Mfazi"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Man"
-msgstr "Indoda"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Prefer not to say"
-msgstr "Ukhetha ukungatsho"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Relax"
-msgstr "Phola"
 
 #. type=data_list
 msgctxt "data_list"
@@ -116,6 +111,46 @@ msgctxt "data_list"
 msgid "Teen Safety"
 msgstr "Ukhuseleko Lwabantwana Abafikisayo"
 
+#. type=data_list
+msgctxt "data_list"
+msgid "Relax"
+msgstr "Phola"
+
+#. type=global
+msgctxt "global"
+msgid "ParentApp"
+msgstr "I-app Yomzali"
+
+#. type=global
+msgctxt "global"
+msgid "Tap and choose"
+msgstr "Cofa uze ukhethe"
+
+#. type=global
+msgctxt "global"
+msgid "Skip"
+msgstr "Tsiba"
+
+#. type=global
+msgctxt "global"
+msgid "Sign in with Google"
+msgstr "Sayina ngoGoogle"
+
+#. type=global
+msgctxt "global"
+msgid "Yes"
+msgstr "Ewe"
+
+#. type=global
+msgctxt "global"
+msgid "No"
+msgstr "Hayi"
+
+#. type=global
+msgctxt "global"
+msgid "COVID"
+msgstr "I-COVID"
+
 #. type=global
 msgctxt "global"
 msgid "Home"
@@ -125,6 +160,11 @@ msgstr "Ikhaya"
 msgctxt "global"
 msgid "Settings"
 msgstr "Iisetingi"
+
+#. type=global
+msgctxt "global"
+msgid "Continue"
+msgstr "Qhubekeka"
 
 #. type=global
 msgctxt "global"
@@ -168,79 +208,18 @@ msgstr "Gcina"
 
 #. type=global
 msgctxt "global"
-msgid "Tap and type"
-msgstr "Cofa uze uchwetheze"
-
-#. type=global
-msgctxt "global"
 msgid "Language"
 msgstr "Ulwimi"
 
 #. type=global
 msgctxt "global"
-msgid "Skip"
-msgstr "Tsiba"
-
-#. type=global
-msgctxt "global"
-msgid "Continue"
-msgstr "Qhubekeka"
-
-#. type=global
-msgctxt "global"
-msgid "Sign in with Google"
-msgstr "Sayina ngoGoogle"
-
-#. type=global
-msgctxt "global"
-msgid "ParentApp"
-msgstr "I-app Yomzali"
-
-#. type=global
-msgctxt "global"
-msgid "Tap and choose"
-msgstr "Cofa uze ukhethe"
-
-#. type=global
-msgctxt "global"
-msgid "COVID"
-msgstr "I-COVID"
-
-#. type=template
-msgctxt "template"
-msgid "Save"
-msgstr "Gcina"
-
-#. type=template
-msgctxt "template"
-msgid "right"
-msgstr "chanekile"
+msgid "Tap and type"
+msgstr "Cofa uze uchwetheze"
 
 #. type=template
 msgctxt "template"
 msgid "Quick Parenting Tips"
 msgstr "Iingcebiso Ezikhawuleziyo Zokuba Ngumzali"
-
-#. type=template
-#. The string @local.sync_latest should not be translated.
-msgctxt "template"
-msgid "Last sync at: @local.sync_latest"
-msgstr "Ungqamaniso Lokugqibela e: @local.sync_latest"
-
-#. type=template
-msgctxt "template"
-msgid "This device has never been synced. Sync to reveal your code."
-msgstr "Esi sixhobo asizange singqanyaniswe. Ngqamanisa uzokuveza ikhowudi yakho."
-
-#. type=template
-msgctxt "template"
-msgid "Sync now"
-msgstr "Ngqamanisa ngoku"
-
-#. type=template
-msgctxt "template"
-msgid "Syncing..."
-msgstr "Ungqamaniso..."
 
 #. type=template
 msgctxt "template"
@@ -348,26 +327,6 @@ msgid "Start your first parenting workshop"
 msgstr "Qalisa uqeqesho lwakho lokuqala lokuba ngumzali"
 
 #. type=template
-msgctxt "template"
-msgid "Submit"
-msgstr "Ngenisa"
-
-#. type=template
-msgctxt "template"
-msgid "Tap and type"
-msgstr "Cofa uze uchwetheze"
-
-#. type=template
-msgctxt "template"
-msgid "You have entered an incorrect code."
-msgstr "Ufake ikhowudi engachananga."
-
-#. type=template
-msgctxt "template"
-msgid "Continue"
-msgstr "Qhubekeka"
-
-#. type=template
 #. The string @local.workshop_data.in_text_title should not be translated.
 msgctxt "template"
 msgid "You will get more support in the @local.workshop_data.in_text_title."
@@ -402,4 +361,50 @@ msgstr "Qhubeka ne-@local.workshop_data.in_text_title"
 msgctxt "template"
 msgid "Re-access the @local.workshop_data.in_text_title"
 msgstr "Phinda ungene kwi@local.workshop_data.in_text_title"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Ungqamaniso Lokugqibela e: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "Esi sixhobo asizange singqanyaniswe. Ngqamanisa uzokuveza ikhowudi yakho."
+
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Ngqamanisa ngoku"
+
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Ungqamaniso..."
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Qhubekeka"
+
+#. type=template
+msgctxt "template"
+msgid "Submit"
+msgstr "Ngenisa"
+
+#. type=template
+msgctxt "template"
+msgid "Tap and type"
+msgstr "Cofa uze uchwetheze"
+
+#. type=template
+msgctxt "template"
+msgid "You have entered an incorrect code."
+msgstr "Ufake ikhowudi engachananga."
+
+#. type=template
+msgctxt "template"
+msgid "Save"
+msgstr "Gcina"
 
