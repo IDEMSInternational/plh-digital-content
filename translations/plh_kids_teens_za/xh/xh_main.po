@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-07-17 16:57\n"
+"PO-Revision-Date: 2025-07-18 11:11\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
@@ -48,6 +48,26 @@ msgstr "Abaxhasi"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Parent or caregiver"
+msgstr "Umzali okanye umnakekeli"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Facilitator"
+msgstr "Umbhexeshi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "System tester"
+msgstr "Umvavanyi wenkqubo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "None of the above"
+msgstr "Akukho nanye kwezi zingentla"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Gogo"
 msgstr "Khokho"
 
@@ -73,6 +93,31 @@ msgstr "Tata"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Development Through Play"
+msgstr "Uphuhliso ngezemidlalo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feelings"
+msgstr "Iimvakalelo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Instructions"
+msgstr "Imiyalelo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Consequences"
+msgstr "Iziphumo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Taking Care of Yourself"
+msgstr "Ukukhathalela wena"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "One-on-One Time"
 msgstr "Ixesha Lenu Nobabini"
 
@@ -90,6 +135,11 @@ msgstr "Imiyalelo Eyakhayo"
 msgctxt "data_list"
 msgid "Managing Stress"
 msgstr "Ukulawula Uxinezeleko"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Solve Problems"
+msgstr "Sombulula iingxaki"
 
 #. type=data_list
 msgctxt "data_list"
@@ -113,13 +163,128 @@ msgstr "Ukhuseleko Lwabantwana Abafikisayo"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Crisis"
+msgstr "Ingxaki"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Body Changes and Intimate Relationships"
+msgstr "Utshintso lomzimba kunye nobudlelwano obusondeleleyo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Staying Safe"
+msgstr "Hlala ukhuselekile"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Coping with Grief"
+msgstr "Ukumelana nosizi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Helping Your Teen Learn"
+msgstr "Ukunceda umntwana wakho ofikisayo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Celebration"
+msgstr "Umbiyozo"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Relax"
 msgstr "Phola"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Check-in"
+msgstr "Khangela kwi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Today's Topic"
+msgstr "Isihloko sanamhlanje"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Explore"
+msgstr "Phonononga"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Review"
+msgstr "Uphononongo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Practise"
+msgstr "Ukuziqhelanisa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Home Activity"
+msgstr "Umsebenzi wasekhaya"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Teen Testimonial"
+msgstr "Ubungqina bomntwana ofikisayo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Content Notice"
+msgstr "Isaziso somxholo"
+
+#. type=global
+msgctxt "global"
+msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
+msgstr "Ungathanda ukwenza iakhawunti? Oku kuyakuvumela ukuba ufumane idata yakho ukuba uthe walahlekelwa sisixhobo sakho."
+
+#. type=global
+msgctxt "global"
+msgid "Sign in"
+msgstr "Ngena"
+
+#. type=global
+msgctxt "global"
+msgid "Sign in with Apple"
+msgstr "Ngena ngeApple"
 
 #. type=global
 msgctxt "global"
 msgid "Sign in with Google"
 msgstr "Sayina ngoGoogle"
+
+#. type=global
+msgctxt "global"
+msgid "Sign out"
+msgstr "Phuma"
+
+#. type=global
+msgctxt "global"
+msgid "You are logged in."
+msgstr "Ungenile."
+
+#. type=global
+msgctxt "global"
+msgid "Delete account"
+msgstr "Cima iakhawunti"
+
+#. type=global
+msgctxt "global"
+msgid "Are you sure you want to delete your account?"
+msgstr "Uqinisekile ukuba ufuna ukucima iakhawunti?"
+
+#. type=global
+msgctxt "global"
+msgid "This action is permanent and cannot be undone. You will lose all your progress."
+msgstr "Esisenzo sisigxina kwaye awunako ukungasenzi. Uzakulahlekelwa yiyo yonke inqubela yakho."
+
+#. type=global
+msgctxt "global"
+msgid "This action is permanent and cannot be undone."
+msgstr "Esisenzo sisigxina kwaye awukwazi ukungasenzi."
 
 #. type=global
 msgctxt "global"
@@ -133,13 +298,44 @@ msgstr "Hayi"
 
 #. type=global
 msgctxt "global"
+msgid ""
+"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
+"\n"
+"If you do, any progress made on this device will be lost."
+msgstr ""
+"Kubonakala ukuba ubukhe wangena kwesinye isixhobo ngaphambili. Ungathanda ukuqhubekeka apho ubushiye khona?\n"
+"\n"
+"Ukuba uyafuna, nayiphi na inkqubelo eyenzeke kwesisixhobo iya kulahleka."
+
+#. type=global
+msgctxt "global"
+msgid "Load saved progress"
+msgstr "Faka inkqubela yomsebenzi egciniweyo"
+
+#. type=global
+msgctxt "global"
 msgid "ParentApp"
 msgstr "I-app Yomzali"
 
 #. type=global
 msgctxt "global"
+msgid "ParentApp South Africa"
+msgstr "Iapp yaseMzantsi Afrika yabazali"
+
+#. type=global
+msgctxt "global"
+msgid "5 December 2024"
+msgstr "5 Disemba 2024"
+
+#. type=global
+msgctxt "global"
 msgid "Tap and choose"
 msgstr "Cofa uze ukhethe"
+
+#. type=global
+msgctxt "global"
+msgid "User ID"
+msgstr "Isazisi somsebenzisi"
 
 #. type=global
 msgctxt "global"
@@ -153,8 +349,38 @@ msgstr "I-COVID"
 
 #. type=global
 msgctxt "global"
+msgid "List"
+msgstr "Uluhlu"
+
+#. type=global
+msgctxt "global"
+msgid "Map"
+msgstr "Imephu"
+
+#. type=global
+msgctxt "global"
+msgid "Module"
+msgstr "Imodyuli"
+
+#. type=global
+msgctxt "global"
+msgid "Start here"
+msgstr "Qala apha"
+
+#. type=global
+msgctxt "global"
 msgid "Home"
 msgstr "Ikhaya"
+
+#. type=global
+msgctxt "global"
+msgid "Library"
+msgstr "Ithala leencwadi"
+
+#. type=global
+msgctxt "global"
+msgid "Play"
+msgstr "Dlala"
 
 #. type=global
 msgctxt "global"
@@ -163,13 +389,253 @@ msgstr "Iisetingi"
 
 #. type=global
 msgctxt "global"
+msgid "Completed"
+msgstr "Igqityiwe"
+
+#. type=global
+msgctxt "global"
+msgid "Check-in"
+msgstr "Khangela kwi"
+
+#. type=global
+msgctxt "global"
+msgid "Let’s Begin"
+msgstr "Masiqale"
+
+#. type=global
+msgctxt "global"
 msgid "Continue"
 msgstr "Qhubekeka"
 
 #. type=global
 msgctxt "global"
+msgid "Restart"
+msgstr "Phinda uqalele"
+
+#. type=global
+msgctxt "global"
+msgid "In 1 day"
+msgstr "Kusuku olu 1"
+
+#. type=global
+msgctxt "global"
+msgid "In 2 days"
+msgstr "Kwintsuku ezi 2"
+
+#. type=global
+msgctxt "global"
+msgid "In 3 days"
+msgstr "Kwintsuku ezi 3"
+
+#. type=global
+msgctxt "global"
+msgid "In 4 days"
+msgstr "Kwintsuku ezi 4"
+
+#. type=global
+msgctxt "global"
+msgid "In 5 days"
+msgstr "Kwintsuku ezi 5"
+
+#. type=global
+msgctxt "global"
+msgid "In 6 days"
+msgstr "Kwintsuku ezi 6"
+
+#. type=global
+msgctxt "global"
+msgid "In 7 days"
+msgstr "Kwintsuku ezi 7"
+
+#. type=global
+msgctxt "global"
+msgid "Learn More"
+msgstr "Funda ngakumbi"
+
+#. type=global
+msgctxt "global"
+msgid "Select a response"
+msgstr "Khetha impendulo"
+
+#. type=global
+msgctxt "global"
+msgid "Congratulations"
+msgstr "Siyavuyisana nawe"
+
+#. type=global
+msgctxt "global"
+msgid "Hooray"
+msgstr "Hooray"
+
+#. type=global
+msgctxt "global"
+msgid "A new moment of play has been unlocked"
+msgstr "Umzuzu omtsha wokudlala uvuliwe"
+
+#. type=global
+msgctxt "global"
+msgid "Open your moment of play"
+msgstr "Vula umzumzu wakho wokudlala"
+
+#. type=global
+msgctxt "global"
+msgid "Open"
+msgstr "Vula"
+
+#. type=global
+msgctxt "global"
+msgid "Well done for finishing this module"
+msgstr "Wenze kakuhle ngokugqiba le modyuli"
+
+#. type=global
+msgctxt "global"
+msgid "Well done for finishing this check-in"
+msgstr "Wenze kakuhle ngokugqiba lo msebenzi wokujonga"
+
+#. type=global
+msgctxt "global"
+msgid "Unlock your moment of play"
+msgstr "Vula ixesha lakho lukudlala"
+
+#. type=global
+msgctxt "global"
+msgid "Well done for finishing all modules and home activities!"
+msgstr "Wenze kakuhle ukugqiba zonke iimodyuli zakho kunye nemisebenzi yasekhaya!"
+
+#. type=global
+msgctxt "global"
+msgid "Unlock all moments of play"
+msgstr "Vula yonke imizuzu yokudlala"
+
+#. type=global
+msgctxt "global"
+msgid "Moments of Play"
+msgstr "Imizuzu yokudlala"
+
+#. type=global
+msgctxt "global"
+msgid "Complete your modules and home activities to unlock new moments of play."
+msgstr "Gqiba iimodyuli zakho kunye nemisebenzi yasekhaya ukuvula imizuzu emitsha yokudlala."
+
+#. type=global
+msgctxt "global"
+msgid "Filter"
+msgstr "Hluza"
+
+#. type=global
+msgctxt "global"
+msgid "All Games"
+msgstr "Yonke imidlalo"
+
+#. type=global
+msgctxt "global"
+msgid "Unlocked"
+msgstr "Ivuliwe"
+
+#. type=global
+msgctxt "global"
+msgid "Favourites"
+msgstr "Ezithandwayo"
+
+#. type=global
+msgctxt "global"
+msgid ""
+"Nothing here yet!\n"
+"Mark games as favourites by tapping the ❤️ icon to quickly find what you enjoy most."
+msgstr ""
+"Akukabikho nto apha okwangoku!\n"
+"Phawula imidlalo njengeyona uyithandayo ngokucofa i ❤️ukuze ukhawuleze ufumane eyonanto ekonwabisayo kakhulu."
+
+#. type=global
+msgctxt "global"
+msgid "Unlock your moments of play by completing a module or logging an activity!"
+msgstr "Vula imizuzu yakho yokudlala ngokugqiba imodyuli okanye ngokuvula umsebenzi!"
+
+#. type=global
+msgctxt "global"
+msgid "By age"
+msgstr "Ngokweminyaka"
+
+#. type=global
+msgctxt "global"
+msgid "For 2-3"
+msgstr "Kwaba na 2-3"
+
+#. type=global
+msgctxt "global"
+msgid "For 4-5"
+msgstr "Kwabana 4-5"
+
+#. type=global
+msgctxt "global"
+msgid "For 6-7"
+msgstr "Kwabana 6-7"
+
+#. type=global
+msgctxt "global"
+msgid "For 7-8"
+msgstr "Kwabana 7-8"
+
+#. type=global
+msgctxt "global"
+msgid "For 8-9"
+msgstr "Kwabana 8-9"
+
+#. type=global
+msgctxt "global"
+msgid "Source"
+msgstr "Umthombo"
+
+#. type=global
+msgctxt "global"
+msgid "Close"
+msgstr "Vala"
+
+#. type=global
+msgctxt "global"
+msgid "Profile"
+msgstr "Iprofayili"
+
+#. type=global
+msgctxt "global"
+msgid "Switch Language"
+msgstr "Tshintsha ulwimi"
+
+#. type=global
+msgctxt "global"
+msgid "Your ParentApp Code"
+msgstr "Ikhowudi yakho yeParentApp"
+
+#. type=global
+msgctxt "global"
+msgid "Account"
+msgstr "Akhawunti"
+
+#. type=global
+msgctxt "global"
+msgid "General"
+msgstr "Jikelele"
+
+#. type=global
+msgctxt "global"
+msgid "Feedback"
+msgstr "Impendulo"
+
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "About @global.app_name"
+msgstr "Nge @global.app_name"
+
+#. type=global
+msgctxt "global"
 msgid "Developer Mode"
 msgstr "Imowudi Yomphuhlisi"
+
+#. type=global
+msgctxt "global"
+msgid "Version"
+msgstr "Inguqulelo"
 
 #. type=global
 msgctxt "global"
@@ -188,13 +654,80 @@ msgstr "Ulwimi"
 
 #. type=global
 msgctxt "global"
+msgid "Type here"
+msgstr "Bhala apha"
+
+#. type=global
+msgctxt "global"
+msgid "App feedback"
+msgstr "Impendulo yeApp"
+
+#. type=global
+msgctxt "global"
+msgid "My challenge is not listed here"
+msgstr "Umcelimngeni wam awudweliswanga apha"
+
+#. type=global
+msgctxt "global"
+msgid "Sorry we missed this! Do you want to share it with us?"
+msgstr "Uxolo sikuphosile oku! Ubufuna ukwabelana ngayo nathi?"
+
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "Thank you for sharing your challenge! We will use this feedback to make @global.app_name better."
+msgstr "Enkosi ngokwabelana ngomcelimngeni wakho! Sizakuyisebenzisa lempendulo ukwenza @global.app_name ngcono."
+
+#. type=global
+msgctxt "global"
 msgid "Tap and type"
 msgstr "Cofa uze uchwetheze"
+
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "Welcome to @global.app_name"
+msgstr "Wamkelekile kwi@global.app_name"
+
+#. type=global
+msgctxt "global"
+msgid "Please select your gender"
+msgstr "Nceda ukhethe isini sakho"
+
+#. type=global
+msgctxt "global"
+msgid "I am a..."
+msgstr "Ndiyi..."
+
+#. type=template
+msgctxt "template"
+msgid "What you need"
+msgstr "Ingaba ufuna ntoni"
+
+#. type=template
+msgctxt "template"
+msgid "Steps"
+msgstr "Amanyathelo"
+
+#. type=template
+msgctxt "template"
+msgid "Tips"
+msgstr "Iingcebiso"
+
+#. type=template
+msgctxt "template"
+msgid "Try also"
+msgstr "Zama ne"
 
 #. type=template
 msgctxt "template"
 msgid "Quick Parenting Tips"
 msgstr "Iingcebiso Ezikhawuleziyo Zokuba Ngumzali"
+
+#. type=template
+msgctxt "template"
+msgid "Raising teens can be hard and we all struggle sometimes."
+msgstr "Ukukhulisa abantwana abafikisayo kunganzima, kwaye sonke siyoyisakala ngamanye amaxesha."
 
 #. type=template
 msgctxt "template"
@@ -297,6 +830,18 @@ msgid "You can get more support on how to solve problems together here:"
 msgstr "Unokufumana inkxaso engakumbi malunga nokusombulula iingxaki kunye apha:"
 
 #. type=template
+#. The string @global.parent_app should not be translated.
+msgctxt "template"
+msgid ""
+"It is not easy to look after our families. We all have challenges sometimes, but we hope this app will help you navigate them well. @global.parent_app is based on ten years of experience running parenting programmes in South Africa and thousands of parents have found that the tips that are shared help with many parenting challenges. We hope this app will help you and your family too.\n"
+"\n"
+"Here are some of the key proven tips for you:"
+msgstr ""
+"Akululanga ukukhathalela iintsapho zethu. Sonke sinemicelimngeni ngamanye amaxesha, kodwa siyathemba ukuba le app iza kukunceda ujongane nabo kakuhle. @global.parent_app isekwe kwiminyaka elishumi yamava iqhuba iinkqubo zoba ngumzali eMzantsi Afrika, kwaye amawaka wabazali bafumanise ukuba iingcebiso ekwabelwana ngazo ziyanceda kwimicelimngeni emininzi yokuba ngumzali. Siyathemba ukuba le app iza kukunceda kunye nosapho lwakho nalo.\n"
+"\n"
+"Nazi ezinye zeengcebiso eziphambili zakho ezingqiniweyo:"
+
+#. type=template
 msgctxt "template"
 msgid "Start your first parenting workshop"
 msgstr "Qalisa uqeqesho lwakho lokuqala lokuba ngumzali"
@@ -338,6 +883,27 @@ msgid "Re-access the @local.workshop_data.in_text_title"
 msgstr "Phinda ungene kwi@local.workshop_data.in_text_title"
 
 #. type=template
+#. The string @global.app_name should not be translated.
+msgctxt "template"
+msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
+msgstr "I@global.app_name ikhuphele into entsha. Nceda uqale iapp kwakhona ukugqibezela ukuyifaka."
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "Phinda uqalele"
+
+#. type=template
+msgctxt "template"
+msgid "Copy code"
+msgstr "Khuphela ikhowudi"
+
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "Ikhutshelwe!"
+
+#. type=template
 #. The string @local.sync_latest should not be translated.
 msgctxt "template"
 msgid "Last sync at: @local.sync_latest"
@@ -365,6 +931,46 @@ msgstr "Qhubekeka"
 
 #. type=template
 msgctxt "template"
+msgid "Templates"
+msgstr "Iitemplethi"
+
+#. type=template
+msgctxt "template"
+msgid "Dynamic data"
+msgstr "Idatha eguqukayo"
+
+#. type=template
+msgctxt "template"
+msgid "Reset app"
+msgstr "Phinda usete iapp"
+
+#. type=template
+msgctxt "template"
+msgid "Open feedback"
+msgstr "Vula impendulo"
+
+#. type=template
+msgctxt "template"
+msgid "Close feedback"
+msgstr "Vala impendulo"
+
+#. type=template
+msgctxt "template"
+msgid "Import user"
+msgstr "Ngenisa umsebenzisi"
+
+#. type=template
+msgctxt "template"
+msgid "Developer mode"
+msgstr "Indlela yomphuhlisi"
+
+#. type=template
+msgctxt "template"
+msgid "Exit developer mode"
+msgstr "Phuma kwindlela yomphuhlisi"
+
+#. type=template
+msgctxt "template"
 msgid "Submit"
 msgstr "Ngenisa"
 
@@ -374,9 +980,41 @@ msgid "Tap and type"
 msgstr "Cofa uze uchwetheze"
 
 #. type=template
+#. The string @local.submit should not be translated.
+msgctxt "template"
+msgid "To launch the app in developer mode, enter your developer code in the box below and press @local.submit."
+msgstr "Ukuqalisa usetyenziso lweapp kwimo yomphuhlisi, faka ikhowudi yomphuhlisi ekwibhokisi kwaye ucofe @local.submit."
+
+#. type=template
 msgctxt "template"
 msgid "You have entered an incorrect code."
 msgstr "Ufake ikhowudi engachananga."
+
+#. type=template
+msgctxt "template"
+msgid "This code is correct."
+msgstr "Le khowudi ichanekile."
+
+#. type=template
+msgctxt "template"
+msgid "Enter developer mode"
+msgstr "Faka isimo somphuhlisi"
+
+#. type=template
+msgctxt "template"
+msgid "Change countdown days"
+msgstr "Tshintsha iintsuku zokubala"
+
+#. type=template
+#. The string @local.countdown_days should not be translated.
+msgctxt "template"
+msgid "Countdown days: @local.countdown_days"
+msgstr "Iintsuku zokubala: @local.countdown_days"
+
+#. type=template
+msgctxt "template"
+msgid "Choose a number of days to count down"
+msgstr "Khetha inani le ntsuku ukuzibala"
 
 #. type=template
 msgctxt "template"

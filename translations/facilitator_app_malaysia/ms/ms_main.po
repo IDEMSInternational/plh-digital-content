@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-07-07 07:22\n"
+"PO-Revision-Date: 2025-07-18 10:56\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3727,6 +3727,26 @@ msgstr "Tentang @global.app_name"
 
 #. type=global
 msgctxt "global"
+msgid "Please make sure messages have been shared before completing session"
+msgstr "Sila pastikan mesej-mesej telah dikongsi sebelum menamatkan sesi"
+
+#. type=global
+msgctxt "global"
+msgid "You successfully completed this session! Please complete the report"
+msgstr "Anda telah berjaya menyelesaikan sesi ini! Sila lengkapkan laporan"
+
+#. type=global
+msgctxt "global"
+msgid "Add Report"
+msgstr "Tambah laporan"
+
+#. type=global
+msgctxt "global"
+msgid "Mark Session as Delivered and add report"
+msgstr "Tandakan Sesi sebagai Disampaikan dan tambah laporan"
+
+#. type=global
+msgctxt "global"
 msgid "Share"
 msgstr "Kongsi"
 
@@ -3876,7 +3896,7 @@ msgstr "Nama pertama Ibu Bapa"
 #. type=global
 msgctxt "global"
 msgid "Parent's last name"
-msgstr "Nama akhir Ibu Bapa"
+msgstr "Nama akhir"
 
 #. type=global
 msgctxt "global"
@@ -4021,6 +4041,11 @@ msgstr "Sesi"
 
 #. type=template
 msgctxt "template"
+msgid "Reports"
+msgstr "Pelaporan"
+
+#. type=template
+msgctxt "template"
 msgid "New Parent Group"
 msgstr "Kumpulan Ibu Bapa Baru"
 
@@ -4065,7 +4090,7 @@ msgstr "Nama pertama"
 #. type=template
 msgctxt "template"
 msgid "Last name"
-msgstr "Nama terakhir"
+msgstr "Nama akhir"
 
 #. type=template
 msgctxt "template"
@@ -4248,8 +4273,23 @@ msgstr "Sila pilih semua aktiviti yang anda selesaikan semasa sesi ini:"
 
 #. type=template
 msgctxt "template"
+msgid "Unsaved values"
+msgstr "Nilai yang tidak disimpan"
+
+#. type=template
+msgctxt "template"
+msgid "Are you sure you want to exit without saving?"
+msgstr "Adakah anda pasti ingin keluar tanpa menyimpan?"
+
+#. type=template
+msgctxt "template"
 msgid "Cancel"
 msgstr "Batal"
+
+#. type=template
+msgctxt "template"
+msgid "Exit without saving"
+msgstr "Keluar tanpa menyimpan"
 
 #. type=template
 msgctxt "template"
