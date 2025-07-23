@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-07-21 14:37\n"
+"PO-Revision-Date: 2025-07-23 15:41\n"
 
 #. type=text
 msgctxt "text"
@@ -112,6 +112,11 @@ msgstr ";"
 
 #. type=text
 msgctxt "text"
+msgid "Here is our first one: {F1_DAUGHTER_6} and her mother, {F1_MOTHER}, are playing dress up during one-on-one time. Let’s see how they have fun together."
+msgstr "{F1_DAUGHTER_6} dan ibunya, {F1_MOTHER}, sedang bermain berdandan sewaktu masa bersama seorang dengan seorang. Mari lihat bagaimana mereka berseronok bersama-sama."
+
+#. type=text
+msgctxt "text"
 msgid "{F1_MOTHER}: I have 5 minutes of one-on-one time to spend with you, {F1_DAUGHTER_6}. What would you like to do?"
 msgstr "{F1_MOTHER}: Ibu boleh meluangkan masa bersama seorang dengan seorang bersama kamu selama 5 minit, {F1_DAUGHTER_6}. Apa yang kamu ingin lakukan?"
 
@@ -182,9 +187,20 @@ msgid "You have completed @(fields.c_n_mod_compl +1) out of @fields.c_n_mod skil
 msgstr "Anda telah melengkapkan @(fields.c_n_mod_compl +1) daripada @fields.c_n_mod kemahiran untuk mencapai matlamat anda, Menambah baik Hubungan saya dengan Anak Saya. ⭐"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Spending special time with @fields.child_nickname will make them feel valued and loved. 💙 "
+msgstr "@fields.child_nickname akan rasa dihargai dan disayangi jika anda meluangkan masa istimewa bersamanya. 💙 "
+
+#. type=text
 msgctxt "text"
 msgid "It also builds trust and respect, and helps your child learn new things. ✨"
 msgstr "Ia juga boleh bantu membina kepercayaan, saling hormat-menghormati, dan menyokong kanak-kanak untuk belajar perkara baharu.✨"
+
+#. type=text
+msgctxt "text"
+msgid "Spending special time with your child will make them feel valued and loved. 💙 "
+msgstr "Anak anda akan rasa dihargai dan disayangi jika anda meluangkan masa istimewa bersama anak anda. 💙 "
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -2656,6 +2672,11 @@ msgstr "5️⃣ Berikut merupakan lima cara untuk membuat anak anda lebih bersed
 
 #. type=text
 msgctxt "text"
+msgid "💡 Books with no words help with imagination, ideas, and learning new words. Together, name and describe what is in the pictures. Try to communicate in a way that your child can understand. "
+msgstr "💡 Buku-buku tanpa perkataan membantu dalam imaginasi, idea, dan mempelajari perkataan baharu. Namakan dan terangkan apa yang ada dalam gambar itu bersama-sama. Cuba untuk berkomunikasi dengan cara yang mudah difahami oleh anak anda. "
+
+#. type=text
+msgctxt "text"
 msgid "⭐ Books with words help to understand letters and sounds!"
 msgstr "⭐ Buku-buku yang menggunakan perkataan boleh membantu untuk memahami huruf dan bunyi!"
 
@@ -4261,6 +4282,11 @@ msgstr "🎨 Sekarang cuba fikir – apa yang anda suka buat? "
 
 #. type=text
 msgctxt "text"
+msgid "💚 There are different ways to care for yourself, such as walking, praying, and reading. Activities that help you manage stress are called ‘self-care’."
+msgstr "💚 Jaga diri anda dengan melakukan perkara seperti berjalan, sembahyang dan membaca. Aktiviti yang membantu anda menguruskan tekanan dipanggil ‘penjagaan kendiri’."
+
+#. type=text
+msgctxt "text"
 msgid "✨ Reflect on your daily life - how can you reduce your stress?"
 msgstr "✨Fikirkan tentang kehidupan harian anda: bagaimana anda boleh mengurangkan tekanan anda?"
 
@@ -4360,6 +4386,11 @@ msgstr "{F3_DAUGTHER_4} sedang bermain telefon di lantai."
 msgctxt "text"
 msgid "{F3_MOTHER}: It is nice to see you playing quietly with the handphone while I clear up after dinner, {F3_DAUGHTER_4}. In 3 minutes, it will be bedtime and you will need to give the handphone back to me."
 msgstr "{F3_MOTHER}: Seronok melihat kamu bermain dengan tenang bersama telefon sementara Mummy mengemas meja makan, {F3_DAUGHTER_4}. 3 minit lagi sudah waktu tidur, nanti beri semula telefon tersebut kepada Mummy ya."
+
+#. type=text
+msgctxt "text"
+msgid "{F3_MOTHER}: [after 3 minutes] 3 minutes is up, {F3_DAUGHTER_4}. Please give me back the phone."
+msgstr "{F3_MOTHER}: [selepas 3 minit] Dah cukup 3 minit, {F3_DAUGHTER_4}. Tolong pulangkan telefon kepada Mummy ya."
 
 #. type=text
 msgctxt "text"
@@ -5420,6 +5451,11 @@ msgstr "➡️ Mengalihkan tingkah laku anak anda hanya berkesan sekiranya sebel
 
 #. type=text
 msgctxt "text"
+msgid "🙂 You will learn about what we can do if your child is already misbehaving in the next 2 skills."
+msgstr "🙂 Dalam 2 kemahiran berikutnya, anda akan mempelajari tindakan yang boleh diambil apabila anak anda sedang berkelakuan negatif."
+
+#. type=text
+msgctxt "text"
 msgid "{F2_GRANDFATHER} is working in the garden while his granddaughter and grandson are playing with a ball."
 msgstr "{F2_GRANDFATHER} sedang berkebun sementara cucu perempuannya dan cucu lelakinya sedang bermain bola."
 
@@ -5614,6 +5650,11 @@ msgid "✅ Rather than saying what you DON’T like or want, tell your child wha
 msgstr "✅ Daripada mengatakan yang anda TIDAK suka atau tidak mahu, beritahu anak anda apa yang anda MAHU dia lakukan."
 
 #. type=text
+msgctxt "text"
+msgid "💚 Use positive words. Say “Come and help me plant these vegetables,” instead of saying, “Stop fighting.”"
+msgstr "💚 Gunakan ayat positif. Katakan “Jom kita tanam sayur-sayur ini,” daripada berkata, “Jangan bergaduh.”"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "⭐ Praise @fields.child_nickname when they behave well!"
@@ -5786,6 +5827,17 @@ msgstr "Anda telah melengkapkan @(fields.c_n_mod_compl +1) daripada @fields.c_n_
 msgctxt "text"
 msgid "How you respond to your child really matters. Here’s one more question to consider. "
 msgstr "Cara anda memberi tindak balas kepada anak anda memang sangat penting. Jom fikirkan satu lagi soalan ni, apa pendapat anda? "
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "True or False: You should tell @fields.child_nickname to stop complaining and threaten to hit them if they continue."
+msgstr "Betul atau Salah: Anda sepatutnya memberitahu @fields.child_nickname untuk berhenti merungut dan anda boleh mengugut untuk memukulnya jika dia terus berkelakuan begitu."
+
+#. type=text
+msgctxt "text"
+msgid "True or False: You should tell your child to stop complaining and threaten to hit them if they continue."
+msgstr "Betul atau Salah: Anda sepatutnya memberitahu anak anda untuk berhenti merungut dan anda boleh mengugut untuk memukulnya jika dia terus berkelakuan begitu."
 
 #. type=text
 msgctxt "text"
@@ -6108,6 +6160,11 @@ msgstr "💚 Anda boleh meminta sokongan daripada orang lain apabila anda berasa
 msgctxt "text"
 msgid "☕ Stay connected - talk to friends, family, or other support networks everyday. 💙"
 msgstr "☕ Kekal berkomunikasi – luangkan masa berbual dengan kawan, ahli keluarga atau mana-mana sokongan yang anda ada setiap hari. 💙"
+
+#. type=text
+msgctxt "text"
+msgid "❗ Lock away or remove anything dangerous that can be used to hurt others from your home."
+msgstr "❗ Buang atau simpan dalam tempat berkunci segala benda berbahaya di rumah yang boleh digunakan untuk mencederakan orang lain."
 
 #. type=text
 msgctxt "text"
@@ -7725,6 +7782,11 @@ msgstr "{F1_SON_5} (menangis): Aiman dan kawan-kawan lain membuli saya. Mereka c
 
 #. type=text
 msgctxt "text"
+msgid "{F1_FATHER}: Oh my {F1_SON_5}, that is not a very nice thing to say to anyone. I can understand why you would feel upset about this. "
+msgstr "{F1_FATHER}: Anakku {F1_SON_5}, itu adalah kata-kata yang tak baik untuk dicakapkan kepada orang lain. Ayah faham sebab kamu berasa marah. "
+
+#. type=text
+msgctxt "text"
 msgid "First of all, you are not stupid! I am so proud about how much you are growing and learning. It is important that Aiman and the others know that it is not okay to say mean things. Would you like me to come with you so that we can have a chat with the others together?"
 msgstr "Pertama sekali, kamu kene tahu yang kamu tak bodoh. Ayah bangga melihat kamu membesar dan belajar dengan baik. Tapi Aiman dan rakan-rakan Aiman yang lain perlu tahu bahawa kita tidak boleh bercakap perkara yang tidak baik. Kamu nak Ayah ikut kamu tak? Supaya Ayah boleh bercakap dengan Aiman dan rakan-rakan kamu yang lain bersama-sama?"
 
@@ -8545,6 +8607,11 @@ msgstr "{F1_DAUGHTER_6}: TAK! Saya LAPAR!!!"
 
 #. type=text
 msgctxt "text"
+msgid "{F1_MOTHER}: Okay, come wash your hands and sit down - your veggies are ready, so you can eat those while I prepare the rest of the meal."
+msgstr "{F1_MOTHER}: Okey, mari basuh tangan dan duduk dulu - sayur-sayur dah siap, jadi kamu boleh makan sayur dulu sementara Ibu siapkan lauk lain."
+
+#. type=text
+msgctxt "text"
 msgid "{F1_MOTHER}: Well done, {F1_DAUGHTER_6}, for eating all of your carrots. Come and help me get the jelly from the fridge. "
 msgstr "{F1_MOTHER}: Bagus, {F1_DAUGHTER_6}, sebab berjaya makan semua lobak kamu. Mari sini dan tolong Ibu ambil agar-agar dari dalam peti sejuk. "
 
@@ -8987,6 +9054,11 @@ msgstr "Anda mungkin memerlukan masa untuk membiasakan diri dan membuat keputusa
 
 #. type=text
 msgctxt "text"
+msgid "Remember that by communicating with your spouse and involving them in decision-making, they will start to feel more comfortable doing so too. ⭐"
+msgstr "Pasangan anda akan rasa lebih selesa untuk berkomunikasi dan melibatkan anda dalam membuat keputusan sekiranya anda buat perkara yang sama. ⭐"
+
+#. type=text
+msgctxt "text"
 msgid "Well done! "
 msgstr "Syabas! "
 
@@ -9066,6 +9138,11 @@ msgstr "{F1_FATHER}: Betul tu. Awak nampak letih, sayang. Apa kata awak berehat 
 msgctxt "text"
 msgid "{F1_MOTHER}: That would be wonderful, my love! Thank you for being so supportive."
 msgstr "{F1_MOTHER}: Sudah pasti, sayang! “Terima kasih kerana sangat memahami."
+
+#. type=text
+msgctxt "text"
+msgid "{F1_FATHER}: Of course! You need a break. I am more than happy to support both you and our children."
+msgstr "{F1_FATHER}: Mestilah! Awak memang perlukan rehat. Saya sangat gembira dapat menyokong awak dan anak-anak kita."
 
 #. type=text
 msgctxt "text"
