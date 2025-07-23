@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-07-23 15:43\n"
+"PO-Revision-Date: 2025-07-23 21:37\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1258,6 +1258,26 @@ msgstr "¿Es correcto?"
 
 #. type=text
 msgctxt "text"
+msgid "👍 Thanks for your feedback!"
+msgstr "👍 ¡Gracias por tu comentario!"
+
+#. type=text
+msgctxt "text"
+msgid "If you'd like to join again, just type 1 anytime."
+msgstr "Si quieres volver a unirte, escribe 1 en cualquier momento."
+
+#. type=text
+msgctxt "text"
+msgid "We're here to listen. Please tell how to make ParentText more helpful by sharing your feedback in a single message."
+msgstr "Estamos aquí para escucharte. Por favor, dinos cómo hacer que ParentText sea más útil compartiendo tus comentarios en un solo mensaje."
+
+#. type=text
+msgctxt "text"
+msgid "It looks like ParentText isn't working for you. Can you tell us why?"
+msgstr "Parece que ParentText no está funcionando para ti. ¿Puedes decirnos por qué?"
+
+#. type=text
+msgctxt "text"
 msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
 msgstr "Parece que este no es un buen momento. Por favor, presiona 1 si te gustaría continuar ahora."
 
@@ -1640,6 +1660,24 @@ msgstr "Sí, ¡es correcto!"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "I do not have time"
+msgstr "No tengo tiempo"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "It is not helpful"
+msgstr "No es útil"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "It isn't working on my phone"
+msgstr "No funciona en mi teléfono"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Other"
 msgstr "Otro"
 
@@ -2007,6 +2045,24 @@ msgstr "no, cambiar mi nombre"
 msgctxt "arguments"
 msgid "yes, that's right!"
 msgstr "sí, ¡es correcto!"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i do not have time"
+msgstr "no tengo tiempo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "it is not helpful"
+msgstr "no es útil"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "it isn't working on my phone"
+msgstr "no funciona en mi teléfono"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
