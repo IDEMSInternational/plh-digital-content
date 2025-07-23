@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-07-10 16:32\n"
+"PO-Revision-Date: 2025-07-23 15:43\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -440,11 +440,6 @@ msgstr "¡Tengo otra lección preparada para ti! ¿Estás listo para continuar c
 msgctxt "text"
 msgid "2. No, remind me tomorrow"
 msgstr "2. No, recuérdamelo mañana"
-
-#. type=text
-msgctxt "text"
-msgid "These messages don’t seem to be working. When you are ready to keep going, press 1."
-msgstr "Parece que este no es un buen momento. Presiona 1 cuando quieras retomar el curso."
 
 #. type=text
 msgctxt "text"
@@ -1263,8 +1258,8 @@ msgstr "¿Es correcto?"
 
 #. type=text
 msgctxt "text"
-msgid "It looks like this is not a good time."
-msgstr "Parece que no es un buen momento."
+msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
+msgstr "Parece que este no es un buen momento. Por favor, presiona 1 si te gustaría continuar ahora."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -1642,6 +1637,12 @@ msgctxt "quick_replies"
 msgid "Yes, that's right!"
 msgstr "Sí, ¡es correcto!"
 
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Other"
+msgstr "Otro"
+
 #. type=variables
 msgctxt "variables"
 msgid "@results.name"
@@ -2006,4 +2007,10 @@ msgstr "no, cambiar mi nombre"
 msgctxt "arguments"
 msgid "yes, that's right!"
 msgstr "sí, ¡es correcto!"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "other"
+msgstr "otro"
 
