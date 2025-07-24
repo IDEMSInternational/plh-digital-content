@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-07-23 15:41\n"
+"PO-Revision-Date: 2025-07-24 09:36\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4336,6 +4336,11 @@ msgstr "Kemaskini Kumpulan Ibu Bapa"
 
 #. type=template
 msgctxt "template"
+msgid "Access Code"
+msgstr "Kod Akses"
+
+#. type=template
+msgctxt "template"
 msgid "First Name"
 msgstr "Nama Pertama"
 
@@ -4370,6 +4375,17 @@ msgstr "Kumpulan Ibu Bapa Baru"
 msgctxt "template"
 msgid "Group Name"
 msgstr "Nama Kumpulan"
+
+#. type=template
+msgctxt "template"
+msgid "Share access code with parents"
+msgstr "Kongsi kod akses bersama ibu bapa"
+
+#. type=template
+#. The string @local.access_code should not be translated.
+msgctxt "template"
+msgid "Please enter this access code into the onboarding in ParentText: @local.access_code"
+msgstr "Sila masukkan kod akses ini semasa sesi pengenalan dalam NKText: @local.access_code"
 
 #. type=template
 msgctxt "template"
