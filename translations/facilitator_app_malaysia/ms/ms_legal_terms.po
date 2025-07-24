@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-07-23 09:38\n"
+"PO-Revision-Date: 2025-07-23 15:42\n"
 
 #. type=data_list
 #. The string @global.app_name. should not be translated.
@@ -267,9 +267,47 @@ msgid "User Agreement"
 msgstr "Perjanjian Pengguna"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @global.app_name
+#.      @global.app_name
+#.      @global.app_name
+#.      (‘@global.app_name
+#.      @global.app_name
+msgctxt "data_list"
+msgid ""
+"These terms and conditions are an agreement between you and Parenting for Lifelong Health (“PLH”) which furthermore sets out the rules for your use of @global.app_name (or “App”).\n"
+"\n"
+"@global.app_name is a free app version of the PLH programme and designed for facilitators of the Naungan Kasih Positive Parenting Programme.\n"
+"\n"
+"@global.app_name is brought to you by the collaboration of partners including the Community Development Department (KEMAS) in the Ministry of Rural and Regional Development, the Universiti Putra Malaysia (UPM), the Malaysian National Population and Family Development Board (LPPKN) in the Ministry of Women, Family and Community Development, the Malaysian Association of Social Workers (MASW), University of Oxford, UNICEF Malaysia, IDEMS International, and Parenting for Lifelong Health (PLH) (‘@global.app_name team’).\n"
+"\n"
+"Please read these terms and conditions carefully. By downloading or using the app, you agree that you have read, understood, and accepted the terms and conditions contained below.\n"
+"\n"
+"Your privacy is important to us – please also read our privacy policy, which will detail how we collect, store and use the information that you provide to us. By using @global.app_name you are confirming to us that you reviewed our privacy policy, as set out separately."
+msgstr ""
+"Terma dan syarat ini adalah perjanjian antara anda dan Parenting for Lifelong Health (“PLH”) yang menetapkan peraturan untuk kegunaan @global.app_name (atau \"Apl”).\n"
+"\n"
+"@global.app_name adalah apl percumaversi program PLH dan direka untuk fasilitator Program Keibubapaan Positif Naungan Kasih.\n"
+"\n"
+"@global.app_name dibawakan kepada anda melalui kerjasama rakan kongsi termasuk Jabatan Kemajuan Masyarakat (KEMAS) di Kementerian Kemajuan Desa dan Wilayah, Universiti Putra Malaysia (UPM), Lembaga Penduduk dan Pembangunan Keluarga Negara Malaysia (LPPKN) di Kementerian Pembangunan Wanita, Keluarga dan Masyarakat, Persatuan Pekerja Sosial Malaysia (MASW), Universiti Oxford, UNICEF Malaysia, IDEMS International, dan Parenting for Lifelong Health (PLH). (‘Pasukan @global.app_name’).\n"
+"\n"
+"Sila baca terma dan syarat ini dengan teliti. Dengan memuat turun atau menggunakan apl, anda bersetuju bahawa anda telah membaca, memahami dan menerima terma dan syarat yang terkandung di bawah.\n"
+"\n"
+"Privasi anda adalah penting bagi kami – sila baca juga dasar privasi kami, yang akan memperincikan cara kami mengumpul, menyimpan dan menggunakan maklumat yang anda berikan kepada kami. Dengan menggunakan @global.app_name anda mengesahkan kepada kami bahawa anda telah membaca dasar privasi kami, seperti yang dinyatakan secara berasingan."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Rules of Usage"
 msgstr "Peraturan Penggunaan"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.app_name
+#.      @global.app_name
+#.      @global.app_name
+msgctxt "data_list"
+msgid "@global.app_name is open-source, which means that its codebase can be found on GitHub for the wider software developer community. However, it's against the terms of use to alter the existing application or its materials, or to replicate any trademarks from the @global.app_name team. Although open source, refrain from translating the software into other languages or creating alternate versions without crediting the @global.app_name team. Unauthorised access to confidential user data is forbidden. It's not acceptable to provide false information about yourself when using the app, make unfounded claims of affiliation, or inaccurately report the app’s behaviour. Ensure that your usage of the app adheres to all local rules and laws. Adults only can use the app. If you are a minor in your country of residence you may not access and use the app."
+msgstr "@global.app_name adalah sumber terbuka, yang bermaksud pangkalan kodnya boleh didapati di GitHub untuk komuniti pembangun perisian yang lebih luas. Walau bagaimanapun, adalah bertentangan dengan syarat penggunaan untuk mengubah aplikasi sedia ada atau bahannya, atau untuk meniru sebarang tanda dagangan daripada @global.app_name pasukan. Walaupun sumber terbuka, elakkan daripada menterjemah perisian ke bahasa lain atau mencipta versi ganti tanpa mengkreditkan pasukan @global.app_name. Akses tanpa kebenaran kepada data pengguna untuk maklumat sulit adalah dilarang. Adalah tidak boleh diterima untuk memberikan maklumat palsu tentang diri anda apabila menggunakan apl, membuat dakwaan tidak berasas tentang hubungan anda dengan apl ini, atau melaporkan secara tidak tepat tentang kelakuan apl. Pastikan bahawa penggunaan anda dalam apl mematuhi semua peraturan dan undang-undang tempatan. Orang dewasa sahaja boleh menggunakan apl. Jika anda seorang bawah umur di negara tempat tinggal anda, anda tidak boleh mengakses dan menggunakan apl tersebut."
 
 #. type=data_list
 msgctxt "data_list"
@@ -294,9 +332,20 @@ msgid "Intellectual property"
 msgstr "Harta Intelektual"
 
 #. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "The app’s source code is made available under the GNU General Public License v3.0 (GPL-3.0), while the content is licensed under Creative Commons Attribution (CC BY). The app itself, the trademarks, copyright, database rights and other intellectual property rights related to it, belong to or are licensed to the various applicable collaborators of the @global.app_name team (noting that code is covered under GPL 3 and content by CC BY license). The use of names and emblems/logos of collaborating institutions are the exclusive property of those institutions and are protected under international and national laws. Unauthorised use is prohibited. Logos may not be copied or reproduced in any way without the prior written permission of said institution."
+msgstr "Kod sumber apl disediakan di bawah GNU General Public License v3.0 (GPL-3.0), manakala kandungannya dilesenkan di bawah Creative Commons Attribution (CC BY). Apl itu sendiri, tanda dagangan, hak cipta, hak pangkalan data dan hak harta intelek lain yang berkaitan dengannya, dimiliki atau dilesenkan kepada pelbagai kolaborator yang berkenaan dalam pasukan @global.app_name (dengan menyatakan bahawa kod dilindungi di bawah GPL 3 dan kandungan oleh lesen CC BY). Penggunaan nama dan lambang/logo institusi yang bekerjasama adalah hak eksklusif institusi tersebut dan dilindungi di bawah undang-undang antarabangsa dan negara. Penggunaan yang tidak dibenarkan adalah dilarang. Logo tidak boleh disalin atau diterbitkan semula dalam apa cara sekalipun tanpa kebenaran bertulis terlebih dahulu daripada institusi tersebut."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Submissions"
 msgstr "Penyerahan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your feedback on the app is appreciated. So that we can improve, any comments are not considered confidential and will become available for further lawful use without additional approval or compensation. We shall therefore own exclusive rights and believe any feedback that you have made is original by you. Your feedback will never be shared with your full name."
+msgstr "Maklum balas anda tentang apl dihargai. Supaya kami boleh menambah baik, sebarang ulasan tidak dianggap sulit dan akan tersedia untuk kegunaan selanjutnya yang sah tanpa kelulusan atau pampasan tambahan. Oleh itu, kami akan memiliki hak eksklusif dan percaya sebarang maklum balas yang anda buat adalah asli oleh anda. Maklum balas anda tidak akan dikongsi dengan nama penuh anda."
 
 #. type=data_list
 msgctxt "data_list"
@@ -304,9 +353,55 @@ msgid "Security"
 msgstr "Keselamatan"
 
 #. type=data_list
+#. The string @global.privacy_policy. should not be translated.
+msgctxt "data_list"
+msgid ""
+"Our app stores and processes personal data that you have provided to us, in order to offer our services. It is your responsibility to keep your phone and access to the app secure. Removal of software restrictions and limitations imposed by the official operating system of your device is therefore not recommended. Doing so could make your phone vulnerable to malware, viruses, malicious programs as well as compromise your phone’s security features and could mean that the app will not work properly or at all.\n"
+"\n"
+"All data collected by PLH is stored securely using encryption protocols and is accessible only to authorized personnel.\n"
+"\n"
+"To see how we handle your personal information, please see our @global.privacy_policy."
+msgstr ""
+"Apl kami menyimpan dan memproses data peribadi yang telah anda berikan kepada kami, untuk menawarkan perkhidmatan kami. Adalah menjadi tanggungjawab anda untuk menyimpan telefon anda dan akses kepada apl selamat. Oleh itu, pengalihan keluar sekatan dan had perisian yang dikenakan oleh sistem pengendalian rasmi peranti anda tidak disyorkan. Melakukannya boleh menjadikan telefon anda terdedah kepada perisian hasad, virus, program berniat jahat serta menjejaskan ciri keselamatan telefon anda dan boleh bermakna apl itu tidak akan berfungsi dengan betul atau sama sekali.\n"
+"\n"
+"Semua data yang dikumpul oleh PLH akan disimpan dengan selamat menggunakan protokol sulit dan hanya boleh diakses oleh kakitangan yang diberi kuasa.\n"
+"\n"
+"Untuk mengetahui cara kami mengendalikan maklumat peribadi anda, silat baca @global.privacy_policy."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "External links and resources"
 msgstr "Pautan dan sumber luar"
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid ""
+"The app uses third party services that declare their own terms and conditions and may link to other websites and resources that are not under the PLH’s control.\n"
+"\n"
+"Links to terms and conditions of third party service providers used by the app include:\n"
+"\n"
+"-   [Apple Store Services](https://www.apple.com/legal/internet-services/itunes/)\n"
+"-   [Google Play Services](https://policies.google.com/terms)\n"
+"-   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)\n"
+"-   [Sentry](https://sentry.io/terms/)\n"
+"-   [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n"
+"-   [GlitchTip](https://glitchtip.com/legal/tos)\n"
+"\n"
+"The inclusion of such links does not imply an endorsement or approval by PLH and/or its partners of any website, product, or service. Similarly, PLH and the @global.app_name team affiliated developers and collaborators do not assume any responsibility or liability in respect of such websites, product, or service, including, for example, responsibility or liability for the accuracy or reliability of any information, data, opinions, advice or statements made on those web sites."
+msgstr ""
+"Apl menggunakan perkhidmatan pihak ketiga yang mengisytiharkan terma dan syarat mereka sendiri dan mungkin memaut ke laman web dan sumber lain yang bukan di bawah kawalan PLH.\n"
+"\n"
+"Pautan kepada terma dan syarat penyedia perkhidmatan pihak ketiga yang digunakan oleh apl termasuk:\n"
+"\n"
+"- [Perkhidmatan Apple Store](https://www.apple.com/legal/internet-services/itunes/)\n"
+"- [Perkhidmatan Google Play](https://policies.google.com/terms)\n"
+"- [Google Analitis untuk Firebase](https://firebase.google.com/terms/analytics)\n"
+"- [Sentry](https://sentry.io/terms/)\n"
+"- [Matomo](https://matomo.org/matomo-cloud-terms-of-service/)\n"
+"- [GlitchTip](https://glitchtip.com/legal/tos)\n"
+"\n"
+"Kemasukan pautan tersebut tidak membayangkan pengesahan atau kelulusan oleh PLH dan/atau rakan kongsinya terhadap mana-mana tapak web, produk atau perkhidmatan. Begitu juga pembangun dan kolaborator gabungan PLH dan pihak @global.app_name tidak memikul sebarang tanggungjawab atau liabiliti berkenaan dengan tapak web, produk atau perkhidmatan tersebut, termasuk, sebagai contoh, tanggungjawab atau liabiliti untuk ketepatan atau kebolehpercayaan sebarang maklumat, data, pendapat, nasihat atau kenyataan yang dibuat pada tapak web tersebut."
 
 #. type=data_list
 msgctxt "data_list"
@@ -314,10 +409,74 @@ msgid "Disclaimer"
 msgstr "Penafian"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @global.app_name
+#.      @global.app_name
+#.      @global.app_name
+#.      @global.app_name
+#.      @global.app_name
+msgctxt "data_list"
+msgid ""
+"Please be aware that except in cases of wilful misconduct, gross negligence, breach of obligations arising from public policy or liability that cannot be limited under the applicable law, the @global.app_name team exclude responsibility for the following:\n"
+"\n"
+"1. Certain functions of the app will require the app to have an active internet connection. The @global.app_name team cannot take responsibility for the app not working at full functionality if you do not have access to Wi-Fi, or you do not have any of your data allowance left.\n"
+"\n"
+"2. Using the app outside of an area with Wi-Fi, will mean that your terms of agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you accept responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you are using the app, please be aware that we assume that you have received permission from the bill payer for using the app.\n"
+"\n"
+"3. Although we endeavour to ensure that the app is updated and its content accurate, we do rely on third parties to provide information to us so that we can make it available to you. We do not regularly review all of the external sites and cannot guarantee that they are always accurate or reliable.\n"
+"\n"
+"4. The @global.app_name team accepts no liability for any damage or loss, direct or indirect, you experience as a result of using the app, or arising from any reliance you may place on advice or information provided from the app. You should always exercise your own discretion and judgment appropriate to your own circumstances in relation to any advice or information provided from the app.\n"
+"\n"
+"5. We are devoid of any responsibility for any instances of software bugs, viruses or other malicious material transmitted by a third party through our site are a regret.\n"
+"\n"
+"6. Updates to the app occur regularly in order to improve performance and content, to adapt to new technologies, to prevent abuse or harm, to address legal, regulatory, safety, or security issues or for any other further need. The app is available on Android and Apple -- the requirements for this system (and for any additional systems we decide to extend the availability of the app to) may change. It is your responsibility to download app updates to keep using the app. The @global.app_name team does not promise that it will always update the app so that it is relevant to you and/or works with the operating system that you have installed on your device. However, you agree to always accept updates to the application when offered to you.\n"
+"\n"
+"7. The app might not be available at all times for reasons of maintenance or trouble with associated software or hardware. We are not liable for any loss you may incur should the site not be accessible or is withdrawn. Equally, we have the right and choice to terminate your access and use of the app (including availability of captured data) at any time. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.\n"
+"\n"
+"8. You agree to indemnify, at your own expense, PLH, its officials, employees, consultants and agents, against any claims, including your costs and expenses, by any third party, resulting from your use of the app.\n"
+"\n"
+"9. Companies or products associated with the app should not be interpreted as endorsement by the app or the @global.app_name team or demonstrate an intention to infringe proprietary rights."
+msgstr ""
+"Sila ambil perhatian bahawa kecuali dalam kes salah laku yang disengajakan, kecuaian teruk, pelanggaran kewajipan yang timbul daripada dasar awam atau liabiliti yang tidak boleh dihadkan di bawah undang-undang yang terpakai, pasukan @global.app_name mengecualikan tanggungjawab untuk perkara berikut:\n"
+"\n"
+"1. Fungsi tertentu bagi apl akan memerlukan apl untuk mempunyai sambungan internet yang aktif. Pasukan @global.app_name tidak boleh mengambil tanggungjawab untuk apl tidak berfungsi pada kefungsian penuh jika anda tidak mempunyai akses kepada Wi-Fi, atau anda tidak mempunyai sebarang elaun data anda lagi.\n"
+"\n"
+"2. Menggunakan apl di luar kawasan dengan Wi-Fi, bermakna syarat perjanjian anda dengan pembekal rangkaian mudah alih anda akan tetap terpakai. Akibatnya, anda mungkin dicaj oleh pembekal mudah alih anda untuk kos data untuk tempoh sambungan semasa mengakses apl, atau caj pihak ketiga yang lain. Dalam menggunakan apl, anda menerima tanggungjawab untuk sebarang caj sedemikian, termasuk caj data perayauan jika anda menggunakan apl di luar wilayah asal anda (iaitu wilayah atau negara) tanpa mematikan perayauan data. Jika anda bukan pembayar bil untuk peranti yang anda gunakan apl, harap maklum bahawa kami menganggap bahawa anda telah menerima kebenaran daripada pembayar bil untuk menggunakan apl tersebut.\n"
+"\n"
+"3. Walaupun kami berusaha untuk memastikan bahawa apl dikemas kini dan kandungannya tepat, kami bergantung kepada pihak ketiga untuk memberikan maklumat kepada kami supaya kami boleh menyediakannya kepada anda. Kami tidak kerap menyemak semua tapak luaran dan tidak dapat menjamin bahawa ia sentiasa tepat atau boleh dipercayai.\n"
+"\n"
+"4. Pasukan @global.app_name tidak bertanggungjawab untuk sebarang kerosakan atau kerugian, secara langsung atau tidak langsung, yang anda alami akibat menggunakan apl, atau timbul daripada sebarang pergantungan yang anda mungkin letakkan pada nasihat atau maklumat yang diberikan daripada apl. Anda hendaklah sentiasa menggunakan budi bicara dan pertimbangan anda sendiri yang sesuai dengan keadaan anda sendiri berhubung dengan sebarang nasihat atau maklumat yang diberikan daripada apl.\n"
+"\n"
+"5. Kami tidak bertanggungjawab untuk sebarang kejadian pepijat perisian, virus atau bahan berniat jahat lain yang dihantar oleh pihak ketiga melalui tapak kami adalah suatu penyesalan.\n"
+"\n"
+"6. Kemas kini kepada apl berlaku secara kerap untuk meningkatkan prestasi dan kandungan, untuk menyesuaikan diri dengan teknologi baharu, untuk mencegah penyalahgunaan atau bahaya, untuk menangani isu undang-undang, peraturan, keselamatan atau keselamatan atau untuk sebarang keperluan selanjutnya. apl tersedia pada Android dan Apple -- keperluan untuk sistem ini (dan untuk mana-mana sistem tambahan yang kami putuskan untuk melanjutkan ketersediaan apl itu) mungkin berubah. Adalah menjadi tanggungjawab anda untuk memuat turun kemas kini apl untuk terus menggunakan apl tersebut. Pasukan @global.app_name tidak berjanji bahawa ia akan sentiasa mengemas kini apl supaya ia berkaitan dengan anda dan/atau berfungsi dengan sistem pengendalian yang telah anda pasang pada peranti anda. Walau bagaimanapun, anda bersetuju untuk sentiasa menerima kemas kini aplikasi apabila ditawarkan kepada anda.\n"
+"\n"
+"7. Apl mungkin tidak tersedia pada setiap masa atas sebab penyelenggaraan atau masalah dengan perisian atau perkakasan yang berkaitan. Kami tidak bertanggungjawab ke atas sebarang kerugian yang mungkin anda alami sekiranya tapak tersebut tidak boleh diakses atau ditarik balik. Begitu juga, kami mempunyai hak dan pilihan untuk menamatkan akses dan penggunaan anda apl (termasuk ketersediaan data yang ditangkap) pada bila-bila masa. Melainkan kami memberitahu anda sebaliknya, selepas sebarang penamatan, (a) hak dan lesen yang diberikan kepada anda dalam syarat ini akan tamat; (b) anda mesti berhenti menggunakan apl, dan (jika perlu) padamkannya daripada peranti anda.\n"
+"\n"
+"8. Anda bersetuju untuk menanggung rugi, atas perbelanjaan anda sendiri, PLH, pegawai, pekerja, perunding dan ejennya, terhadap sebarang tuntutan, termasuk kos dan perbelanjaan anda, oleh mana-mana pihak ketiga, akibat daripada penggunaan anda apl.\n"
+"\n"
+"9. Syarikat atau produk yang berkaitan dengan apl tidak boleh ditafsirkan sebagai pengesahan oleh apl atau yang pasukan @global.app_name atau menunjukkan niat untuk melanggar hak proprietari."
+
+#. type=data_list
 #. The string @global.terms_and_conditions should not be translated.
 msgctxt "data_list"
 msgid "Changes to the @global.terms_and_conditions"
 msgstr "Perubahan yang dibuat pada @global.terms_and_conditions"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We may update our terms and conditions from time to time and we will inform you in advance of any substantial change will occur. Your continued use of the app suggests you agree to subsequent revisions of the terms and conditions. Please review this page periodically for any updates."
+msgstr "Kami mungkin mengemaskini terma dan syarat kami dari semasa ke semasa dan kami akan memaklumkan anda lebih awal tentang sebarang perubahan besar akan berlaku. Penggunaan berterusan anda apl mencadangkan anda bersetuju dengan semakan terma dan syarat yang berikutnya. Sila semak halaman ini secara berkala untuk sebarang kemas kini."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Applicable Law and Jurisdiction"
+msgstr "Undang-undang dan Bidang Kuasa yang Terpakai"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Unless differently provided by applicable mandatory local laws, these Terms and Conditions are governed by the laws of the United Kingdom, and the London courts will have exclusive jurisdiction over any possible disputes related to these Terms and Conditions."
+msgstr "Melainkan jika diperuntukkan secara berbeza oleh undang-undang tempatan mandatori yang terpakai, Terma dan Syarat ini dikawal oleh undang-undang United Kingdom, dan mahkamah London akan mempunyai bidang kuasa eksklusif ke atas sebarang kemungkinan pertikaian yang berkaitan dengan Terma dan Syarat ini."
 
 #. type=data_list
 msgctxt "data_list"
@@ -367,7 +526,7 @@ msgid ""
 "3. By using the app you are helping to make the app better for you and others.\n"
 "4. Your anonymised data may be used for research purposes by our @global.app_name team."
 msgstr ""
-"Anda mengakui bahawa anda telah membaca dan menerima @global.terms_and_conditions and @global.privacy_policy dengan memberikan persetujuan anda di bawah. Komitmen yang paling penting adalah:\n"
+"Anda mengakui bahawa anda telah membaca dan menerima @global.terms_and_conditions dan @global.privacy_policy dengan memberikan persetujuan anda di bawah. Komitmen yang paling penting adalah:\n"
 "1. Ini merupakan aplikasi percuma sepenuhnya sampai bila-bila.\n"
 "2. Kami merupakan organisasi bukan untung, oleh itu data anda tidak akan dijual.\n"
 "3. Anda membantu menjadikan aplikasi ini lebih baik untuk anda serta orang lain dengan menggunakan aplikasi ini.\n"

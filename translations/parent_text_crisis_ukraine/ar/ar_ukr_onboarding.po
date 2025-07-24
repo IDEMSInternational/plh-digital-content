@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Crowdin-Project: 652eb1a39a0f8681c408f40296bb88b4\n"
+"X-Crowdin-Project-ID: 3\n"
+"X-Crowdin-Language: ar\n"
+"X-Crowdin-File: /main/translations/parent_text_crisis_ukraine/en/ukr_onboarding.pot\n"
+"X-Crowdin-File-ID: 826\n"
+"Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
+"Language-Team: Arabic\n"
+"\n"
+"Language: ar_SA\n"
+"PO-Revision-Date: 2025-07-23 15:55\n"
+
+#. type=text
+msgctxt "text"
+msgid "❌You can stop when you want. Just type {STOP}"
+msgstr "❌يمكنك التوقف عندما تريد. فقط اكتب {STOP}"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "عذراً، أنا لا أفهم ما تقصد."
+
+#. type=text
+msgctxt "text"
+msgid "❔Before we get started, we have a few questions to make this journey personalised:"
+msgstr "❔قبل أن نبدأ، لدينا بعض الأسئلة لجعل هذه الرحلة شخصية:"
+
+#. type=text
+msgctxt "text"
+msgid "How old are you?"
+msgstr "كم عمرك؟"
+
+#. type=text
+msgctxt "text"
+msgid "Are you a WOMAN or MAN?"
+msgstr "اخبرتنا انك انثى؟"
+
+#. type=text
+msgctxt "text"
+msgid "How many children do you take care of?"
+msgstr "كم عدد الأطفال الذين تعتني بهم؟"
+
+#. type=text
+msgctxt "text"
+msgid "📍 Where are you located?"
+msgstr "ماهو موقعك؟"
+
+#. type=text
+msgctxt "text"
+msgid "What is your current living situation?"
+msgstr "ماهو وضعك المعيشي الحالي؟"
+
+#. type=text
+msgctxt "text"
+msgid "Thanks for answering our questions. We're ready to get started. 💚"
+msgstr "شكرًا لك على الإجابة على أسئلتنا. نحن مستعدون للبدء. 💚"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Woman"
+msgstr "أنثى"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Man"
+msgstr "ذكر"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Prefer not to say"
+msgstr "أفضل ألا أقول"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I want the tips"
+msgstr "أريد النصائح"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I do not want the tips"
+msgstr "لا أريد النصائح"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Living in a camp or shelter"
+msgstr "أعيش في مخيم أو مأوى مؤقّت"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Living in a house or apartment"
+msgstr "أعيش في منزل"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Moving around often"
+msgstr "أتنقّل بين أماكن كثيرة"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Video"
+msgstr "الفيديو"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Text / Images"
+msgstr "نص / صور"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "التالي"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "woman"
+msgstr "أنثى"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "man"
+msgstr "ذكر"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "prefer not to say"
+msgstr "يفضل عدم قول ذلك"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i want the tips"
+msgstr "أريد النصائح"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i do not want the tips"
+msgstr "لا أريد النصائح"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "living in a camp or shelter"
+msgstr "أعيش في مخيم أو مأوى مؤقّت"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "living in a house or apartment"
+msgstr "أعيش في منزل"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "moving around often"
+msgstr "أتنقّل بين أماكن كثيرة"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "video"
+msgstr "فيديو"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "text / images"
+msgstr "نص / صور"
+
