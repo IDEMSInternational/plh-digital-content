@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-07-24 09:36\n"
+"PO-Revision-Date: 2025-07-25 10:37\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -49,8 +49,8 @@ msgstr "Anda dapat melihat ID fasilitator anda dan juga anda dapat menyunting se
 #. type=data_list
 #. The string @global.app_name should not be translated.
 msgctxt "data_list"
-msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
-msgstr "@global.app_name ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong peningkatan Naungan Kasih di Malaysia. Kandungan di sini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan dengan kerjasama rakan kongsi utama:"
+msgid "@global.app_name FaciNK is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners below. You can learn more about this programme and the team behind it at"
+msgstr "@global.app_name FaciNK ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong pelaksanaan berskala besar program Naungan Kasih di Malaysia. Kandungan dalam aplikasi ini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan bersama dengan rakan-rakan kerjasama utama seperti disenaraikan di bawah. Untuk maklumat lanjut tentang program ini dan pasukan di sebaliknya, sila layari:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4037,6 +4037,61 @@ msgctxt "global"
 msgid "your supervisor"
 msgstr "penyelia anda"
 
+#. type=global
+msgctxt "global"
+msgid "Parent's First Name*"
+msgstr "Nama pertama Ibu atau Bapa*"
+
+#. type=global
+msgctxt "global"
+msgid "Parent's Last Name*"
+msgstr "Nama Keluarga atau Akhir*"
+
+#. type=global
+msgctxt "global"
+msgid "NKText Name"
+msgstr "Nama NKText"
+
+#. type=global
+msgctxt "global"
+msgid "NKText ID"
+msgstr "ID NKText"
+
+#. type=global
+msgctxt "global"
+msgid "Gender"
+msgstr "Jantina"
+
+#. type=global
+msgctxt "global"
+msgid "Enter parent's first name"
+msgstr "Masukkan nama ibu atau bapa"
+
+#. type=global
+msgctxt "global"
+msgid "Enter parent's last name"
+msgstr "Masukkan nama keluarga atau nama akhir"
+
+#. type=global
+msgctxt "global"
+msgid "Please enter a valid name using only letters. It must be at least 2 characters long."
+msgstr "Sila masukkan nama yang sah menggunakan hanya huruf. Nama tersebut mesti panjang sekurang-kurangnya 2 aksara."
+
+#. type=global
+msgctxt "global"
+msgid "Add Parent to Group"
+msgstr "Tambah Ibu Bapa ke Kumpulan"
+
+#. type=global
+msgctxt "global"
+msgid "Share Group ID with parents"
+msgstr "Kongsi ID Kumpulan dengan ibu bapa"
+
+#. type=global
+msgctxt "global"
+msgid "Please enter this Group ID into the onboarding in NKText:"
+msgstr "Sila masukkan ID Kumpulan ini semasa sesi pengenalan dalam NKText:"
+
 #. type=template
 msgctxt "template"
 msgid "pdf"
@@ -4286,6 +4341,11 @@ msgstr "Sila pilih semua aktiviti yang anda selesaikan semasa sesi ini:"
 
 #. type=template
 msgctxt "template"
+msgid "Save"
+msgstr "Simpan"
+
+#. type=template
+msgctxt "template"
 msgid "Settings"
 msgstr "Tetapan"
 
@@ -4336,23 +4396,13 @@ msgstr "Kemaskini Kumpulan Ibu Bapa"
 
 #. type=template
 msgctxt "template"
-msgid "Access Code"
-msgstr "Kod Akses"
+msgid "Group ID"
+msgstr "ID Kumpulan"
 
 #. type=template
 msgctxt "template"
-msgid "First Name"
-msgstr "Nama Pertama"
-
-#. type=template
-msgctxt "template"
-msgid "Last Name"
-msgstr "Nama Akhir"
-
-#. type=template
-msgctxt "template"
-msgid "Save"
-msgstr "Simpan"
+msgid "Save Profile"
+msgstr "Simpan Profil"
 
 #. type=template
 #. The string @fields.current_parent_name should not be translated.
@@ -4375,17 +4425,6 @@ msgstr "Kumpulan Ibu Bapa Baru"
 msgctxt "template"
 msgid "Group Name"
 msgstr "Nama Kumpulan"
-
-#. type=template
-msgctxt "template"
-msgid "Share access code with parents"
-msgstr "Kongsi kod akses bersama ibu bapa"
-
-#. type=template
-#. The string @local.access_code should not be translated.
-msgctxt "template"
-msgid "Please enter this access code into the onboarding in ParentText: @local.access_code"
-msgstr "Sila masukkan kod akses ini semasa sesi pengenalan dalam NKText: @local.access_code"
 
 #. type=template
 msgctxt "template"
