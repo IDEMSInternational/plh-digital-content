@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-07-25 06:10\n"
+"PO-Revision-Date: 2025-07-25 10:37\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4039,13 +4039,58 @@ msgstr "penyelia anda"
 
 #. type=global
 msgctxt "global"
+msgid "Parent's First Name*"
+msgstr "Nama pertama Ibu atau Bapa*"
+
+#. type=global
+msgctxt "global"
+msgid "Parent's Last Name*"
+msgstr "Nama Keluarga atau Akhir*"
+
+#. type=global
+msgctxt "global"
+msgid "NKText Name"
+msgstr "Nama NKText"
+
+#. type=global
+msgctxt "global"
+msgid "NKText ID"
+msgstr "ID NKText"
+
+#. type=global
+msgctxt "global"
 msgid "Gender"
 msgstr "Jantina"
 
 #. type=global
 msgctxt "global"
+msgid "Enter parent's first name"
+msgstr "Masukkan nama ibu atau bapa"
+
+#. type=global
+msgctxt "global"
+msgid "Enter parent's last name"
+msgstr "Masukkan nama keluarga atau nama akhir"
+
+#. type=global
+msgctxt "global"
+msgid "Please enter a valid name using only letters. It must be at least 2 characters long."
+msgstr "Sila masukkan nama yang sah menggunakan hanya huruf. Nama tersebut mesti panjang sekurang-kurangnya 2 aksara."
+
+#. type=global
+msgctxt "global"
 msgid "Add Parent to Group"
 msgstr "Tambah Ibu Bapa ke Kumpulan"
+
+#. type=global
+msgctxt "global"
+msgid "Share Group ID with parents"
+msgstr "Kongsi ID Kumpulan dengan ibu bapa"
+
+#. type=global
+msgctxt "global"
+msgid "Please enter this Group ID into the onboarding in NKText:"
+msgstr "Sila masukkan ID Kumpulan ini semasa sesi pengenalan dalam NKText:"
 
 #. type=template
 msgctxt "template"
@@ -4348,6 +4393,11 @@ msgstr "Teruskan"
 msgctxt "template"
 msgid "Edit Parent Group"
 msgstr "Kemaskini Kumpulan Ibu Bapa"
+
+#. type=template
+msgctxt "template"
+msgid "Group ID"
+msgstr "ID Kumpulan"
 
 #. type=template
 msgctxt "template"
