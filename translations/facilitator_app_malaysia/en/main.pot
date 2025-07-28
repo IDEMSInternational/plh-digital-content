@@ -38,7 +38,7 @@ msgstr ""
 #. type=data_list
 #. The string @global.app_name should not be translated.
 msgctxt "data_list"
-msgid "@global.app_name FaciNK is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners below. You can learn more about this programme and the team behind it at"
+msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners below. You can learn more about this programme and the team behind it at"
 msgstr ""
 
 #. type=data_list
@@ -118,7 +118,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Identifying the Next Goal in ParentText"
+msgid "Identifying the Next Goal in NKText"
 msgstr ""
 
 #. type=data_list
@@ -2853,6 +2853,51 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
+msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Sign in with Apple"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "You are logged in."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Account"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Delete account"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Are you sure you want to delete your account?"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "This action is permanent and cannot be undone. You will lose all your progress."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Yes"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "No"
+msgstr ""
+
+#. type=global
+msgctxt "global"
 msgid "You've reached the end of this session. What would you like to do next?"
 msgstr ""
 
@@ -2932,12 +2977,6 @@ msgid "Tap and select"
 msgstr ""
 
 #. type=global
-#. The string @global.app_name should not be translated.
-msgctxt "global"
-msgid "About @global.app_name"
-msgstr ""
-
-#. type=global
 msgctxt "global"
 msgid "WhatsApp"
 msgstr ""
@@ -2979,11 +3018,6 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Skip"
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "Continue without an account"
 msgstr ""
 
@@ -3019,6 +3053,22 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Welcome"
+msgstr ""
+
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "About @global.app_name"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "User ID"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Skip"
 msgstr ""
 
 #. type=global
@@ -3221,24 +3271,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "images/icons/task_"
-msgstr ""
-
-#. type=template
-#. The string @fields.current_group_no should not be translated.
-msgctxt "template"
-msgid "currentgroup: @fields.current_group_no"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Add Parent to Group"
-msgstr ""
-
-#. type=template
-#. The string @item.co_parent_name should not be translated.
-msgctxt "template"
-msgid "Co-parent: @item.co_parent_name"
 msgstr ""
 
 #. type=template
@@ -3383,6 +3416,11 @@ msgid "If you had set a user name on your old account and the data was imported 
 msgstr ""
 
 #. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr ""
+
+#. type=template
 #. The string @fields.current_group_name should not be translated.
 msgctxt "template"
 msgid "Are you sure you want to delete @fields.current_group_name?"
@@ -3392,6 +3430,11 @@ msgstr ""
 #. The string @fields.current_group_name should not be translated.
 msgctxt "template"
 msgid "This will delete all of @fields.current_group_name group data. The action cannot be undone."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Create New Group"
 msgstr ""
 
 #. type=template
@@ -3442,11 +3485,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Save"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Settings"
 msgstr ""
 
@@ -3487,7 +3525,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Continue"
+msgid "Save"
 msgstr ""
 
 #. type=template
