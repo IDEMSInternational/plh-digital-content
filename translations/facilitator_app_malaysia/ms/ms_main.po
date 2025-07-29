@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-07-29 14:55\n"
+"PO-Revision-Date: 2025-07-29 21:42\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -50,7 +50,7 @@ msgstr "Anda dapat melihat ID fasilitator anda dan juga anda dapat menyunting se
 #. The string @global.app_name should not be translated.
 msgctxt "data_list"
 msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Naungan Kasih in Malaysia. The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners below. You can learn more about this programme and the team behind it at"
-msgstr "@global.app_name FaciNK ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong pelaksanaan berskala besar program Naungan Kasih di Malaysia. Kandungan dalam aplikasi ini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan bersama dengan rakan-rakan kerjasama utama seperti disenaraikan di bawah. Untuk maklumat lanjut tentang program ini dan pasukan di sebaliknya, sila layari"
+msgstr "@global.app_name ialah aplikasi yang direka oleh IDEMS International dan Parenting for Lifelong Health untuk menyokong pelaksanaan berskala besar program Naungan Kasih di Malaysia. Kandungan dalam aplikasi ini tersedia di bawah lesen sumber terbuka Creative Commons International 4.0. Ia dibangunkan bersama dengan rakan-rakan kerjasama utama seperti disenaraikan di bawah. Untuk maklumat lanjut tentang program ini dan pasukan di sebaliknya, sila layari"
 
 #. type=data_list
 msgctxt "data_list"
@@ -695,6 +695,11 @@ msgstr ""
 msgctxt "data_list"
 msgid "Overview of the Naungan Kasih programme."
 msgstr "Gambaran Keseluruhan Program Naungan Kasih."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Companion Guide"
+msgstr "Panduan Rujukan"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4142,9 +4147,61 @@ msgid "Please enter this Group ID into the onboarding in NKText:"
 msgstr "Sila masukkan ID Kumpulan ini semasa sesi pengenalan dalam NKText:"
 
 #. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid ""
+"Welcome to the Naungan Kasih Parenting programme for families with children aged 2–6!\n"
+"\n"
+"@global.app_name is your digital companion, designed to help you deliver the programme and simplify your efforts in providing online support to parents. With this app, you can efficiently deliver weekly content and gather the necessary data easily."
+msgstr ""
+"Selamat datang ke program Keibubapaan Naungan Kasih untuk keluarga yang mempunyai anak berumur 2–6 tahun!\n"
+"\n"
+"@global.app_name adalah teman digital anda, direka untuk membantu anda menyampaikan program ini dan mempermudah usaha anda dalam menyediakan sokongan dalam talian kepada ibu bapa. Dengan aplikasi ini, anda boleh menyampaikan kandungan mingguan dengan cekap dan mengumpul data yang diperlukan dengan mudah."
+
+#. type=global
+msgctxt "global"
+msgid "Before we begin, let’s get you started with a few questions."
+msgstr "Sebelum bermula, jom kita jawab beberapa soalan dahulu."
+
+#. type=global
+msgctxt "global"
+msgid "Your Content"
+msgstr "Kandungan Anda"
+
+#. type=global
+msgctxt "global"
+msgid "Choose your content package"
+msgstr "Sila pilih pakej kandungan anda"
+
+#. type=global
+msgctxt "global"
+msgid "Your Role"
+msgstr "Peranan Anda"
+
+#. type=global
+msgctxt "global"
+msgid "Choose your role"
+msgstr "Sila pilih peranan anda"
+
+#. type=global
+msgctxt "global"
+msgid "Select role"
+msgstr "Pilih peranan"
+
+#. type=global
 msgctxt "global"
 msgid "Skip"
 msgstr "Langkau"
+
+#. type=global
+#. The string @global.app_name! should not be translated.
+msgctxt "global"
+msgid ""
+"Welcome to \n"
+"@global.app_name!"
+msgstr ""
+"Selamat datang ke \n"
+"@global.app_name!"
 
 #. type=global
 msgctxt "global"
@@ -4158,8 +4215,23 @@ msgstr "Membuat akaun membolehkan anda menyimpan kemajuan anda merentasi peranti
 
 #. type=global
 msgctxt "global"
+msgid "Continue with Apple"
+msgstr "Teruskan dengan Apple"
+
+#. type=global
+msgctxt "global"
+msgid "Continue with Google"
+msgstr "Teruskan dengan Google"
+
+#. type=global
+msgctxt "global"
 msgid "Continue without an account"
 msgstr "Teruskan tanpa akaun"
+
+#. type=global
+msgctxt "global"
+msgid "By continuing, you agree to our:"
+msgstr "Dengan meneruskan, anda bersetuju dengan:"
 
 #. type=global
 msgctxt "global"
@@ -4167,14 +4239,41 @@ msgid "Sign out"
 msgstr "Log keluar"
 
 #. type=global
+#. The string @fields._auth_user_given_name! should not be translated.
+msgctxt "global"
+msgid "Welcome back, @fields._auth_user_given_name!"
+msgstr "Selamat kembali, @fields._auth_user_given_name!"
+
+#. type=global
 msgctxt "global"
 msgid "Welcome back!"
 msgstr "Selamat Kembali!"
 
 #. type=global
+#. The string @fields._auth_user_given_name! should not be translated.
+msgctxt "global"
+msgid "Welcome, @fields._auth_user_given_name!"
+msgstr "Selamat datang, @fields._auth_user_given_name!"
+
+#. type=global
+msgctxt "global"
+msgid "Welcome!"
+msgstr "Selamat datang!"
+
+#. type=global
 msgctxt "global"
 msgid "Continue"
 msgstr "Teruskan"
+
+#. type=global
+msgctxt "global"
+msgid "You’re all set!"
+msgstr "Anda sudah sedia!"
+
+#. type=global
+msgctxt "global"
+msgid "Your profile is complete, and you’re ready to begin!"
+msgstr "Profil anda sudah siap, anda sedia untuk bermula!"
 
 #. type=template
 msgctxt "template"
