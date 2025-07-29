@@ -11,7 +11,56 @@ msgstr ""
 "Language-Team: Papiamento\n"
 "\n"
 "Language: pap_PAP\n"
-"PO-Revision-Date: 2025-07-29 13:36\n"
+"PO-Revision-Date: 2025-07-29 21:56\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sessions"
+msgstr "Seshonnan"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.app_name.
+#.      @global.share_groups,
+msgctxt "data_list"
+msgid "Welcome to the @global.app_name. Each week you should select your weekly topic, share the message to your @global.share_groups, and report attendance."
+msgstr "Bon biní na e @global.app_name. Tur siman bo mester selektá bo tópiko semanal, kompartí e mensahe ku bo @global.share_groups, i raportá asistensia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Report"
+msgstr "Raportá"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Library"
+msgstr "Biblioteka"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Settings"
+msgstr "Konfigurashonnan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your profile provides your facilitator ID and is also where you can edit the list of parents attending your groups."
+msgstr "Bo profil ta proveé bo ID di fasilitadó i ta tambe kaminda bo por editá e lista di mayornan ku ta asistí na bo gruponan."
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "About @global.app_name"
+msgstr "Tokante @global.app_name"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Illustrations"
+msgstr "Ilustrashonnan"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Welcome"
+msgstr "Bon biní"
 
 #. type=template
 msgctxt "template"
@@ -28,4 +77,9 @@ msgstr "images/icons/task_"
 msgctxt "template"
 msgid "currentgroup: @fields.current_group_no"
 msgstr "currentgroup: @fields.current_group_no"
+
+#. type=template
+msgctxt "template"
+msgid "Library"
+msgstr "Biblioteka"
 
