@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2025-07-02 14:15\n"
+"PO-Revision-Date: 2025-07-30 10:04\n"
 
 #. type=text
 msgctxt "text"
@@ -255,63 +255,6 @@ msgstr "Dis oukei! Jy kan maklik toegang tot die Kinderveiligheidskursus enige t
 msgctxt "text"
 msgid "Sorry. You are not eligible to participate in this programme. You might want to try another WhatsApp programme, ParentLine, by sending a WhatsApp to {parentline number}."
 msgstr "Jammer. Jy voldoen nie aan die vereistes om aan hierdie program deel te neem nie. Jy sal dalk 'n ander WhatsApp-program, ParentLine, wil probeer deur 'n WhatsApp te stuur na {parentline number}."
-
-#. type=text
-msgctxt "text"
-msgid "Welcome back!"
-msgstr "Welkom terug!"
-
-#. type=text
-msgctxt "text"
-msgid "Would you also like a member of our team to contact you for support?"
-msgstr "Wil jy ook hê dat 'n lid van ons span jou moet kontak vir ondersteuning?"
-
-#. type=text
-msgctxt "text"
-msgid "That's okay. Press NEXT to continue with the survey."
-msgstr "Dis oukei. Druk VOLGENDE om om voort te gaan met die opname."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Great! Can we use @(text_slice(contact.urn,11)) to contact you?"
-msgstr "Wonderlik! Kan ons @(text_slice(contact.urn,11)) gebruik om jou te kontak?"
-
-#. type=text
-msgctxt "text"
-msgid "Thank you. Someone from the ParentText team will contact you in the next week."
-msgstr "Dankie. Iemand van die ParentText span sal jou in die week kontak."
-
-#. type=text
-msgctxt "text"
-msgid "Press NEXT to continue with the survey."
-msgstr "Druk VOLGENDE om voort te gaan met die opname."
-
-#. type=text
-msgctxt "text"
-msgid "No problem. Please enter a 10 digit South African phone number, beginning with the number 0, where we can reach you."
-msgstr "Geen probleem. Voer asseblief 'n 10-syfer Suid-Afrikaanse telefoonnommer in, wat met die nommer 0 begin, waar ons jou kan bereik."
-
-#. type=text
-msgctxt "text"
-msgid "That phone number is invalid. South African phone numbers should begin with the number zero, please enter a ten-digit phone number beginning with the number zero. Or press 1 if you no longer wish to be contacted."
-msgstr "Daardie foonnommer is ongeldig. Suid-Afrikaanse foonnommers moet met die nommer nul begin, voer asseblief 'n tien-syfer telefoonnommer in wat met die nommer nul begin. Of druk 1 as jy nie meer gekontak wil word nie."
-
-#. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
-msgctxt "text"
-msgid "Your answer means that @fields.child_nickname might have experienced something difficult. *Childline* can help: call free on *116*."
-msgstr "Jou antwoord beteken dat @fields.child_nickname dalk iets moeilik ervaar het. *Childline* kan help: bel gratis op *116*."
-
-#. type=text
-msgctxt "text"
-msgid "Your answer means that your teen might have experienced something difficult. *Childline* can help: call free on *116*."
-msgstr "Jou antwoord beteken dat jou tiener dalk iets moeilik ervaar het. *Childline* kan help: bel gratis op *116*."
-
-#. type=text
-msgctxt "text"
-msgid "Your answer means that your child might have experienced something difficult. *Childline* can help: call free on *116*."
-msgstr "Jou antwoord beteken dat jou kind dalk iets moeilik ervaar het. *Childline* kan help: bel gratis op *116*."
 
 #. type=text
 msgctxt "text"
@@ -1490,24 +1433,6 @@ msgstr "2"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Yes"
-msgstr "Ja"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "No"
-msgstr "Nee"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "NEXT"
-msgstr "VOLGENDE"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "English"
 msgstr "Engels"
 
@@ -1526,6 +1451,12 @@ msgstr "Afrikaans"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "VOLGENDE"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Yes, I am 18 years old or older"
 msgstr "Ja, ek is 18 jaar oud of ouer"
 
@@ -1534,6 +1465,18 @@ msgstr "Ja, ek is 18 jaar oud of ouer"
 msgctxt "quick_replies"
 msgid "No, I am under 18"
 msgstr "Nee, ek is jonger as 18"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr "Ja"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr "Nee"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
