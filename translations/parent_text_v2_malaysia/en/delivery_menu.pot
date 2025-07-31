@@ -1176,7 +1176,12 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Thanks for participating in @fields.prog_name! Parenting is better with family and friends, and you can send {share_link} to share @fields.prog_name with them. Remember you can always review courses by typing {MENU}."
+msgid "Thanks for participating in @fields.prog_name! Parenting is better with family and friends. To invite them to join, send this link to share @fields.prog_name and ask them to type {READY} to join! {share_link}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Remember you can always review courses by typing {MENU}."
 msgstr ""
 
 #. type=text
@@ -1614,22 +1619,7 @@ msgstr ""
 
 #. type=variables
 msgctxt "variables"
-msgid "You only have one unfinished skill."
-msgstr ""
-
-#. type=variables
-msgctxt "variables"
-msgid "Finish this skill and earn my badge"
-msgstr ""
-
-#. type=variables
-msgctxt "variables"
-msgid "You have @fields.c_n_mod_started unfinished skills."
-msgstr ""
-
-#. type=variables
-msgctxt "variables"
-msgid "Complete unfinished skills to earn my badge"
+msgid "@fields.c_n_mod_started"
 msgstr ""
 
 #. type=arguments
