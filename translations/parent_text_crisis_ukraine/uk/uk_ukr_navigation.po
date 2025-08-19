@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2025-08-04 16:23\n"
+"PO-Revision-Date: 2025-08-19 08:03\n"
 
 #. type=text
 msgctxt "text"
@@ -67,4 +67,149 @@ msgstr "Бажаєте отримати інформацію про місцев
 msgctxt "text"
 msgid "Do you need some support with an emotional issue?"
 msgstr "Потрібна допомога з емоційними труднощами?"
+
+#. type=text
+msgctxt "text"
+msgid "Are you currently experiencing a health issue?"
+msgstr "Чи маєте ви наразі якісь проблеми зі здоров’ям?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you have an emergency?"
+msgstr "Чи маєте ви зараз невідкладну потребу в допомозі?"
+
+#. type=text
+msgctxt "text"
+msgid "It looks like you are facing an emergency. Can you please tell us what kind of assistance you need?"
+msgstr "Схоже, ви зіткнулися з чимось невідкладним. Будь ласка, повідомте, яка саме підтримка вам потрібна."
+
+#. type=text
+msgctxt "text"
+msgid "{family_referrals}"
+msgstr "{family_referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "{child_protection_referrals}"
+msgstr "{child_protection_referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do?"
+msgstr "Що ви плануєте робити далі?"
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful. You can access this information at any time by typing {HELP}."
+msgstr "Сподіваємося, це було корисно для вас. Ви можете отримати доступ до цієї інформації у будь-який час, ввівши:{HELP}."
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back!"
+msgstr "Дякуємо, що знову з нами!"
+
+#. type=text
+msgctxt "text"
+msgid "You are already part of {prog_name}"
+msgstr "Ви вже є учасником {prog_name}"
+
+#. type=text
+msgctxt "text"
+msgid "Please type {MENU} to access resources and review previous tips, {PLAY} to receive a playful activity you can complete with your child, {PAUSE} to take a pause with us, or {HELP} to access additional support resources."
+msgstr ""
+"Щоб отримати доступ до ресурсів і переглянути попередні поради, наберіть {MENU}. Хочете весело провести час із дитиною — введіть {PLAY}. Потрібна хвилинка перепочинку — оберіть {PAUSE}.\n"
+"А якщо шукаєте додаткову підтримку — натисніть {HELP}."
+
+#. type=text
+msgctxt "text"
+msgid "You have already received all of the avilable tips. Type {MENU} to review previous tips."
+msgstr "Ви вже отримали всі доступні поради. Наберіть {MENU}, щоб переглянути попередні."
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you want to stop receiving tips?"
+msgstr "Ви впевнені, що хочете припинити отримувати поради?"
+
+#. type=text
+msgctxt "text"
+msgid "If you do not want to receive any more messages, please type \"EXIT\"."
+msgstr "Якщо ви більше не хочете отримувати повідомлення, будь ласка, введіть «ВИХІД»."
+
+#. type=text
+msgctxt "text"
+msgid "If you made a mistake, please type \"BACK\"."
+msgstr "Якщо ви помилилися, будь ласка, введіть «НАЗАД»."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for participating. If you want to return to continue receiving tips, type HELLO. "
+msgstr "Дякуємо за участь! Якщо ви хочете повернутися й знову отримувати поради, введіть «ПРИВІТ». \n"
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon."
+msgstr "Сподіваємося скоро знову вас побачити!"
+
+#. type=text
+msgctxt "text"
+msgid "We are so glad you want to stick around! We will resume your progress tomorrow."
+msgstr "Раді, що ви вирішили залишитися з нами! Продовжимо завтра."
+
+#. type=text
+msgctxt "text"
+msgid "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgstr "Ця функція стане доступною, щойно ви завершите реєстрацію. Це не займе багато часу. Будь ласка, продовжуйте!"
+
+#. type=text
+msgctxt "text"
+msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgstr "Меню стане доступним після завершення реєстрації. Це не займе багато часу. Будь ласка, продовжуйте!"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for taking a pause with me today."
+msgstr "Дякуємо, що виділили час на перепочинок."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "In this program, you will receive @fields.c_n_mod tips. Your first tip is \"@results.name\"."
+msgstr "У цій програмі ви отримаєте @fields.c_n_mod поради. Ваша перша порада —  \"@results.name\"."
+
+#. type=text
+msgctxt "text"
+msgid "fail"
+msgstr "помилка"
+
+#. type=text
+msgctxt "text"
+msgid "Let’s get started. Press NEXT to begin."
+msgstr "Почнемо! Натисніть «ДАЛІ», щоб розпочати."
+
+#. type=text
+msgctxt "text"
+msgid "NA"
+msgstr "NA"
+
+#. type=text
+msgctxt "text"
+msgid "The tips you haven't finished are:"
+msgstr "Уроки, які ви ще не завершили:"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@(text_slice(results.message_options,3))."
+msgstr "@(text_slice(results.message_options,3))."
+
+#. type=text
+msgctxt "text"
+msgid "Which tip would you like to receive?"
+msgstr "Яку пораду ви хотіли б отримати?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@results.message_options"
+msgstr "@results.message_options"
 
