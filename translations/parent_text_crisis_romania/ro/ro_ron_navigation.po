@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Romanian\n"
 "\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2025-08-13 17:24\n"
+"PO-Revision-Date: 2025-08-20 14:04\n"
 
 #. type=text
 msgctxt "text"
@@ -471,6 +471,16 @@ msgstr "Ce ai dori să schimbi?"
 
 #. type=text
 msgctxt "text"
+msgid "Are you sure you want to DELETE all your info? This will delete your contact and all messages associated with your account. To access this service again you will need to rejoin and start from the beginning."
+msgstr "Ești sigur că vrei să ȘTERGI toate informațiile asociate contului tău? Acest lucru va șterge numărul tău de contact și toate mesajele asociate contului tău. Pentru a accesa din nou acest serviciu, va trebui să te reînscrii și să reiei lecțiile de la început."
+
+#. type=text
+msgctxt "text"
+msgid "Please contact {gdpr_contact} for account deletion, for a copy of all of your data we have, or to update any data we have."
+msgstr "Te rugăm să contactezi {gdpr_contact} pentru ștergerea contului, pentru o copie a tuturor datelor tale pe care le deținem sau pentru a actualiza orice date pe care le deținem."
+
+#. type=text
+msgctxt "text"
 msgid "Your current media setting is Text / Images."
 msgstr "Setarea actuală pentru conținutul media este Text / Imagini."
 
@@ -820,6 +830,24 @@ msgstr "Oprește primirea mesajelor"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Request Account Deletion"
+msgstr "Solicită Ștergerea Contului"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Request User Data"
+msgstr "Solicită Datele de Utilizator"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Request Account Data Rectification"
+msgstr "Solicită Rectificarea Datelor Asociate Contului"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Return to Main Menu"
 msgstr "Înapoi la Meniul Principal"
 
@@ -834,6 +862,18 @@ msgstr "Schimbă modul în care primesc conținutul"
 msgctxt "quick_replies"
 msgid "Change my gender"
 msgstr "Schimbă genul"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "YES - Delete my account"
+msgstr "DA - Ștergeți-mi contul"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NO - I want to keep using {prog_name}"
+msgstr "NU - Vreau să folosesc în continuare {prog_name}"
 
 #. type=variables
 msgctxt "variables"
@@ -1161,6 +1201,24 @@ msgstr "oprește primirea mesajelor"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "request account deletion"
+msgstr "solicită ștergerea contului"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "request user data"
+msgstr "solicită datele de utilizator"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "request account data rectification"
+msgstr "solicită rectificarea datelor asociate contului"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "return to main menu"
 msgstr "înapoi la meniul principal"
 
@@ -1175,6 +1233,18 @@ msgstr "schimbă modul în care primesc conținutul"
 msgctxt "arguments"
 msgid "change my gender"
 msgstr "schimbă genul"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes - delete my account"
+msgstr "da - ștergeți-mi contul"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no - i want to keep using {prog_name}"
+msgstr "nu - vreau să folosesc în continuare {prog_name}"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
