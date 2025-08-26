@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2025-08-25 12:05\n"
+"PO-Revision-Date: 2025-08-25 18:15\n"
 
 #. type=text
 msgctxt "text"
@@ -87,6 +87,11 @@ msgstr "Схоже, ви зіткнулися з чимось невідклад
 msgctxt "text"
 msgid "{family_referrals}"
 msgstr "{family_referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "{child_protection_referrals}"
+msgstr "{child_protection_referrals}"
 
 #. type=text
 msgctxt "text"
@@ -621,6 +626,12 @@ msgstr "Стихійні лиха"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Child Protection"
+msgstr "Захист дітей"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Get other emergency contacts"
 msgstr "Отримати інші екстрені контакти"
 
@@ -934,6 +945,12 @@ msgstr "сімейна консультація"
 msgctxt "arguments"
 msgid "natural disasters"
 msgstr "стихійні лиха"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "child protection"
+msgstr "захист дітей"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
