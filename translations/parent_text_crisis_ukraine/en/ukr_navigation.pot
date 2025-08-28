@@ -180,7 +180,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "The tips you haven't finished are:"
+msgid "The tip you haven't finished is:"
 msgstr ""
 
 #. type=text
@@ -229,7 +229,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
 msgctxt "text"
-msgid "@(word_count(fields.s_modules_compl) +1). Return to Main Menu"
+msgid "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Return to Main Menu"
 msgstr ""
 
 #. type=text
@@ -270,11 +270,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "We’ll check in with you in a month to see how you’re doing. Your feedback helps us make sure these tips truly support families like yours 🙂"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Was {prog_name} helpful? If so, share it with a friend. Just send this link: {share link}"
 msgstr ""
 
 #. type=text
@@ -400,7 +395,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "💛 Keeping kids safe can feel overwhelming, but a clear plan helps. Today's tip shows you imple ways to help your child feel safe and supported in uncertain times. "
+msgid "💛 Keeping kids safe can feel overwhelming, but a clear plan helps. Today's tip shows you simple ways to help your child feel safe and supported in uncertain times. "
 msgstr ""
 
 #. type=text
@@ -465,17 +460,22 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Your current media setting is Text / Images."
+msgid "You are receiving content with text and images."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Your current media setting is Audio."
+msgid "You are receiving content with audio guides."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Your current media setting is"
+msgid "You are receiving content with video guides."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are receiving content with"
 msgstr ""
 
 #. type=text
@@ -537,12 +537,17 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "You’ve completed the {prog_name} – well done! There are no new tips available, but you can always review any of the completed tips by selecting option 1 in the {MENU}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "Thanks for reaching out 🤍 It really shows how much you care about your children. Right now, the programme is full, but we’ve added you to the waiting list. As soon as a spot opens up, we’ll let you know."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Variables have been reset"
+msgid "Here is a video about {prog_name}."
 msgstr ""
 
 #. type=text
