@@ -11,12 +11,17 @@ msgstr ""
 "Language-Team: Dari\n"
 "\n"
 "Language: fa_AF\n"
-"PO-Revision-Date: 2025-08-26 00:00\n"
+"PO-Revision-Date: 2025-08-28 12:18\n"
 
 #. type=text
 msgctxt "text"
 msgid "variables have been reset"
 msgstr "تنظیمات به حالت اولیه برگشته اند"
+
+#. type=text
+msgctxt "text"
+msgid "Variables have been reset"
+msgstr "متغییرها مجدداً تنظیم شدند"
 
 #. type=text
 msgctxt "text"
@@ -29,11 +34,6 @@ msgid "Please select your language:"
 msgstr ""
 ":Please select your language\n"
 "لطفاً زبان خود را انتخاب کنید:"
-
-#. type=text
-msgctxt "text"
-msgid "[Other language: please select your language]"
-msgstr "[Other language: please select your language]"
 
 #. type=text
 msgctxt "text"
@@ -193,8 +193,20 @@ msgstr "بازگشت"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "NEXT"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Female Name Placeholder"
 msgstr "نام پیش فرض زنانه"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Male Name Placeholder"
+msgstr "نام پیش فرض مردانه"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -283,8 +295,8 @@ msgstr "توصیه ها را نمیخواهم"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Sarbaland Village"
-msgstr "قریه *سربلند*"
+msgid "Sarboland Village"
+msgstr "قریه سربلند"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -303,12 +315,6 @@ msgstr "صوتی"
 msgctxt "quick_replies"
 msgid "Text / Images"
 msgstr "متن/تصاویر"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "NEXT"
-msgstr "NEXT"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -351,6 +357,12 @@ msgstr "نخیر"
 msgctxt "arguments"
 msgid "female name placeholder"
 msgstr "نام پش فرض زنانه"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "male name placeholder"
+msgstr "نام پیش فرض مردانه"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
