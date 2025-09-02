@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Romanian\n"
 "\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2025-08-28 12:18\n"
+"PO-Revision-Date: 2025-09-02 12:53\n"
 
 #. type=text
 msgctxt "text"
@@ -243,12 +243,6 @@ msgid "You have completed @fields.n_s_modules_compl out of @fields.n_s_modules t
 msgstr "Ai completat @fields.n_s_modules_compl din @fields.n_s_modules sfaturi. Care dintre următoarele sfaturi ai dori să le revezi?"
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
-msgctxt "text"
-msgid "@(word_count(fields.s_modules_compl) +1). Return to Main Menu"
-msgstr "@(word_count(fields.s_modules_compl) +1). Întoarce-te la Meniul Principal"
-
-#. type=text
 msgctxt "text"
 msgid "What would you like now?"
 msgstr "Ce ai dori acum?"
@@ -287,11 +281,6 @@ msgstr "Reține, poți reveni oricând la {prog_name} pentru a consulta oricare 
 msgctxt "text"
 msgid "We’ll check in with you in a month to see how you’re doing. Your feedback helps us make sure these tips truly support families like yours 🙂"
 msgstr "Vom lua legătura cu tine peste o lună pentru a afla cum te simți. Feedback-ul tău ne ajută să ne asigurăm că aceste sfaturi sunt cu adevărat utile pentru familii ca a ta 🙂"
-
-#. type=text
-msgctxt "text"
-msgid "Was {prog_name} helpful? If so, share it with a friend. Just send this link: {share link}"
-msgstr "A fost {prog_name} utilă? Dacă da, distribuie unui prieten. Trebuie doar să trimiți acest link: {share link}"
 
 #. type=text
 msgctxt "text"
@@ -406,11 +395,6 @@ msgstr "🧡 Plănuiești să călătorești împreună cu copilul tău?"
 
 #. type=text
 msgctxt "text"
-msgid "Today’s tips can help you prepare to stay safe— Would you like to learn more?"
-msgstr "Sfaturile de azi te pot ajuta să fii pregătit pentru a rămâne în siguranță. Vrei să afli mai multe?"
-
-#. type=text
-msgctxt "text"
 msgid "💛 In stressful moments, even simple actions can help keep your child safe and close. Today’s tips share how to stay connected and calm when traveling."
 msgstr "💛 În momentele stresante, chiar și acțiunile simple te pot ajuta să-ți protejezi copilul și să-l ții aproape. Sfaturile de azi îți arată cum să rămâi conectat și calm în timpul deplasărilor."
 
@@ -423,11 +407,6 @@ msgstr "Dorești să le primiți?"
 msgctxt "text"
 msgid "💡 Many parents are having quiet talks with their children about staying safe. Today’s tips explain how to keep your child safe from harassment in a calm, age-appropriate way."
 msgstr "💡 Mulți părinți discută în liniște cu copiii lor despre siguranță. Sfaturile de astăzi îți explică modul în care îți poți proteja copilul de hărțuire, într-un stil calm și adecvat vârstei sale."
-
-#. type=text
-msgctxt "text"
-msgid "🕊️ In war and other tough times, children notice more than we think. Today’s tips help you talk to your child about death so they can feel safer, less confused, and more supported. Would you like to receive the tips?"
-msgstr "🕊️ În timpul unui conflict armat sau al altor perioade dificile, copiii observă mai multe lucruri decât credem noi. Sfaturile de astăzi te ajută să discuți cu copilul tău despre moarte, astfel încât acesta să se simtă mai în siguranță, mai puțin confuz și mai susținut. Dorești să primești sfaturile?"
 
 #. type=text
 msgctxt "text"
@@ -468,21 +447,6 @@ msgstr "Ești sigur că vrei să ȘTERGI toate informațiile asociate contului t
 msgctxt "text"
 msgid "Please contact {gdpr_contact} for account deletion, for a copy of all of your data we have, or to update any data we have."
 msgstr "Te rugăm să contactezi {gdpr_contact} pentru ștergerea contului, pentru o copie a tuturor datelor tale pe care le deținem sau pentru a actualiza orice date pe care le deținem."
-
-#. type=text
-msgctxt "text"
-msgid "Your current media setting is Text / Images."
-msgstr "Setarea actuală pentru conținutul media este Text / Imagini."
-
-#. type=text
-msgctxt "text"
-msgid "Your current media setting is Audio."
-msgstr "Setarea actuală pentru conținutul media este Audio."
-
-#. type=text
-msgctxt "text"
-msgid "Your current media setting is"
-msgstr "Setarea actuală pentru conținutul media este"
 
 #. type=text
 msgctxt "text"
@@ -666,12 +630,6 @@ msgstr "URMĂTORUL"
 msgctxt "quick_replies"
 msgid "A fun activity I can do with my child"
 msgstr "O activitate distractivă pe care o pot face alături de copilul meu"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Proceed to the next tip"
-msgstr "Treci la următorul sfat"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1037,12 +995,6 @@ msgstr "nimic. să continuăm mâine."
 msgctxt "arguments"
 msgid "a fun activity i can do with my child"
 msgstr "o activitate distractivă pe care o pot face alături de copilul meu"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "proceed to the next tip"
-msgstr "treci la următorul sfat"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
