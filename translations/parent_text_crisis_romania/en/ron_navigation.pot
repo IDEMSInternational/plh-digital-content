@@ -234,7 +234,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
 msgctxt "text"
-msgid "@(word_count(fields.s_modules_compl) +1). Return to Main Menu"
+msgid "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Return to Main Menu"
 msgstr ""
 
 #. type=text
@@ -275,11 +275,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "We’ll check in with you in a month to see how you’re doing. Your feedback helps us make sure these tips truly support families like yours 🙂"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Was {prog_name} helpful? If so, share it with a friend. Just send this link: {share link}"
 msgstr ""
 
 #. type=text
@@ -395,7 +390,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Today’s tips can help you prepare to stay safe— Would you like to learn more?"
+msgid "Today’s tips can help you prepare to stay safe. Would you like to learn more?"
 msgstr ""
 
 #. type=text
@@ -415,12 +410,12 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "🕊️ In war and other tough times, children notice more than we think. Today’s tips help you talk to your child about death so they can feel safer, less confused, and more supported. Would you like to receive the tips?"
+msgid "🕊️ In tough times, children notice more than we think. Today’s tips help you talk to your child about death so they can feel safer, less confused, and more supported. Would you like to receive the tips?"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "💛 Keeping kids safe can feel overwhelming, but a clear plan helps. Today's tip shows you imple ways to help your child feel safe and supported in uncertain times. "
+msgid "💛 Keeping kids safe can feel overwhelming, but a clear plan helps. Today's tip shows you simple ways to help your child feel safe and supported in uncertain times. "
 msgstr ""
 
 #. type=text
@@ -480,17 +475,17 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Your current media setting is Text / Images."
+msgid "You are receiving content with text and images."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Your current media setting is Audio."
+msgid "You are receiving content with Audio."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Your current media setting is"
+msgid "You are receiving content with"
 msgstr ""
 
 #. type=text
@@ -552,12 +547,17 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "You’ve completed the {prog_name} – well done! There are no new tips available, but you can always review any of the completed tips by selecting option 1 in the {MENU}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "Thanks for reaching out 🤍 It really shows how much you care about your children. Right now, the programme is full, but we’ve added you to the waiting list. As soon as a spot opens up, we’ll let you know."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Variables have been reset"
+msgid "Here is a video about {prog_name}."
 msgstr ""
 
 #. type=text
@@ -679,12 +679,6 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "A fun activity I can do with my child"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Proceed to the next tip"
 msgstr ""
 
 #. type=quick_replies
@@ -1061,12 +1055,6 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "proceed to the next tip"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "na"
 msgstr ""
 
@@ -1284,4 +1272,16 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "sfat"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "compass"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "busola"
 msgstr ""
