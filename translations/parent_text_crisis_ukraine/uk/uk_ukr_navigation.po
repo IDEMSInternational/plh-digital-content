@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2025-08-29 08:13\n"
+"PO-Revision-Date: 2025-09-02 06:59\n"
 
 #. type=text
 msgctxt "text"
@@ -192,6 +192,11 @@ msgid "NA"
 msgstr "NA"
 
 #. type=text
+msgctxt "text"
+msgid "The tip you haven't finished is:"
+msgstr "Порада, яку ви ще не переглянули:"
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "@(text_slice(results.message_options,3))."
@@ -233,6 +238,12 @@ msgstr "Все гаразд. Ви можете повернутися сюди �
 msgctxt "text"
 msgid "You have completed @fields.n_s_modules_compl out of @fields.n_s_modules tips. Which of the following tips would you like to review?"
 msgstr "Ви пройшли @fields.n_s_modules_compl із @fields.n_s_modules порад. Яку з наступних порад ви хочете переглянути?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Return to Main Menu"
+msgstr "@(word_count(join(reverse(split(fields.s_modules_compl,\" \")), \" \")) +1). Повернутись до Основного Меню"
 
 #. type=text
 msgctxt "text"
@@ -399,8 +410,38 @@ msgstr "Бажаєте їх отримати?"
 
 #. type=text
 msgctxt "text"
+msgid "💛 Keeping kids safe can feel overwhelming, but a clear plan helps. Today's tip shows you simple ways to help your child feel safe and supported in uncertain times. "
+msgstr "💛Дбати про безпеку дітей буває непросто, але чіткий план справді допомагає. Сьогоднішня порада — як простими кроками допомогти дитині відчувати себе в безпеці та знати, що вона не одна, навіть у непрості часи. "
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to continue now?"
+msgstr "Хочете продовжити зараз?"
+
+#. type=text
+msgctxt "text"
 msgid "💛 In stressful moments, even simple actions can help keep your child safe and close. Today’s tips share how to stay connected and calm when traveling."
 msgstr "💛 У стресові моменти навіть прості дії можуть допомогти зберегти дитину в безпеці та поруч. Сьогоднішні поради розкажуть, як залишатися спокійними й зберігати зв’язок із дитиною під час подорожей."
+
+#. type=text
+msgctxt "text"
+msgid "💛 It can be frightening to think about traffickers, but talking with your child helps protect them. Today’s tip shows you simple ways to keep your child safe and aware."
+msgstr "💛 Тема експлуатації може викликати тривогу, але відверта розмова з дитиною — важливий крок до її безпеки. Сьогоднішня порада — прості способи, як допомогти дитині бути уважною й почуватися захищеною."
+
+#. type=text
+msgctxt "text"
+msgid "💛 Sometimes families need to stay in a shelter during emergencies or unsafe times. Today’s tip shares simple ways to help your child feel safe and cared for there."
+msgstr "💛 Іноді сім’ї змушені тимчасово перебувати в укритті через небезпеку. Сьогоднішня порада — прості способи, як допомогти дитині почуватися в безпеці та відчувати турботу навіть там."
+
+#. type=text
+msgctxt "text"
+msgid "🕊️ In times of crisis, some children may hurt others with words or actions because of fear or stress. Today’s tip shows you how to recognize bullying and protect your child. "
+msgstr "🕊️ У складні часи деякі діти можуть ображати інших словами чи вчинками через страх або стрес. Сьогоднішня порада — як розпізнати булінг і захистити свою дитину. "
+
+#. type=text
+msgctxt "text"
+msgid "💛 Children often turn to phones and the internet to learn, play, and connect, but sometimes they can also be bullied online. Today’s tip helps you notice the signs and keep your child safe and supported. "
+msgstr "💛 Діти часто використовують інтернет, щоб навчатися, грати й спілкуватися, але іноді там вони можуть стикатися з онлайн-булінгом. Сьогоднішня порада допоможе помітити ознаки та підтримати дитину, щоб вона почувалася в безпеці. "
 
 #. type=text
 msgctxt "text"
@@ -431,6 +472,26 @@ msgstr "Ви завершили сьогоднішню пораду. Ваша т
 msgctxt "text"
 msgid "What would you like change?"
 msgstr "Що б ви хотіли змінити?"
+
+#. type=text
+msgctxt "text"
+msgid "You are receiving content with text and images."
+msgstr "Ви отримуєте контент із текстом і зображеннями."
+
+#. type=text
+msgctxt "text"
+msgid "You are receiving content with audio guides."
+msgstr "Ви отримуєте контент з аудіосупроводом."
+
+#. type=text
+msgctxt "text"
+msgid "You are receiving content with video guides."
+msgstr "Ви отримуєте інформацію з відео."
+
+#. type=text
+msgctxt "text"
+msgid "You are receiving content with"
+msgstr "Ви отримуєте інформацію з"
 
 #. type=text
 msgctxt "text"
@@ -722,6 +783,12 @@ msgstr "Отримати наступну пораду"
 msgctxt "quick_replies"
 msgid "Get more help"
 msgstr "Отримати більше допомоги"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Watch chatbot intro video"
+msgstr "Перегляньте коротке відео про чат-бот"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1045,6 +1112,12 @@ msgstr "отримати наступну пораду"
 msgctxt "arguments"
 msgid "get more help"
 msgstr "отримати більше допомоги"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "watch chatbot intro video"
+msgstr "перегляньте коротке відео про чат-бот"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
