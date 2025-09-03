@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2025-09-02 11:35\n"
+"PO-Revision-Date: 2025-09-02 16:41\n"
 
 #. type=text
 msgctxt "text"
@@ -127,11 +127,6 @@ msgstr "Ви - ЖІНКА чи ЧОЛОВІК?"
 
 #. type=text
 msgctxt "text"
-msgid "What is your current family situation?"
-msgstr "У якій сімейній ситуації ви зараз перебуваєте?"
-
-#. type=text
-msgctxt "text"
 msgid "How many children do you take care of?"
 msgstr "Скільки дітей ви зараз виховуєте?"
 
@@ -139,6 +134,11 @@ msgstr "Скільки дітей ви зараз виховуєте?"
 msgctxt "text"
 msgid "These tips are designed for those who look after children. Would you still like to receive the tips so you can share the advice with friends and family?"
 msgstr "Ці поради для тих, хто піклується про дітей. Ви хочете їх отримувати, щоб ділитися з друзями чи рідними?"
+
+#. type=text
+msgctxt "text"
+msgid "What is your current family situation?"
+msgstr "У якій сімейній ситуації ви зараз перебуваєте?"
 
 #. type=text
 msgctxt "text"
@@ -252,24 +252,6 @@ msgstr "Чоловік"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "I’m the child’s parent, and I’m raising them with a partner"
-msgstr "Я батько (або мати) і виховую дитину разом із партнером."
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I’m the child’s parent, and I’m raising them on my own"
-msgstr "Я мати (або батько) і виховую дитину сам(а)"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "I’m a grandparent, relative, or other caregiver, raising the child"
-msgstr "Я дідусь (або бабуся), родич або інша людина, яка піклується про дитину"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Prefer not to say"
 msgstr "Надаю перевагу не казати"
 
@@ -302,6 +284,24 @@ msgstr "Я хочу отримувати поради"
 msgctxt "quick_replies"
 msgid "I do not want the tips"
 msgstr "Я не хочу отримувати поради"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I’m the child’s parent, and I’m raising them with a partner"
+msgstr "Я батько (або мати) і виховую дитину разом із партнером."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I’m the child’s parent, and I’m raising them on my own"
+msgstr "Я мати (або батько) і виховую дитину сам(а)"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I’m a grandparent, relative, or other caregiver, raising the child"
+msgstr "Я дідусь (або бабуся), родич або інша людина, яка піклується про дитину"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -432,24 +432,6 @@ msgstr "чоловік"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "i’m the child’s parent, and i’m raising them with a partner"
-msgstr "Я мати (або батько) і виховую дитину разом з партнером"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i’m the child’s parent, and i’m raising them on my own"
-msgstr "я мати (або батько) і виховую дитину сам(а)."
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "i’m a grandparent, relative, or other caregiver, raising the child"
-msgstr "я дідусь (або бабуся), родич або інша людина, яка піклується про дитину."
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "prefer not to say"
 msgstr "надаю перевагу не казати"
 
@@ -482,6 +464,24 @@ msgstr "я хочу отримувати поради"
 msgctxt "arguments"
 msgid "i do not want the tips"
 msgstr "я не хочу отримувати поради"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i’m the child’s parent, and i’m raising them with a partner"
+msgstr "Я мати (або батько) і виховую дитину разом з партнером"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i’m the child’s parent, and i’m raising them on my own"
+msgstr "я мати (або батько) і виховую дитину сам(а)."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i’m a grandparent, relative, or other caregiver, raising the child"
+msgstr "я дідусь (або бабуся), родич або інша людина, яка піклується про дитину."
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply

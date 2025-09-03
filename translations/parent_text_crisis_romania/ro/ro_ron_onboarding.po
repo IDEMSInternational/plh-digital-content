@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Romanian\n"
 "\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2025-09-02 12:53\n"
+"PO-Revision-Date: 2025-09-03 07:12\n"
 
 #. type=text
 msgctxt "text"
@@ -122,6 +122,11 @@ msgstr "Aceste sfaturi sunt destinate celor care au grijă de copii. Ai dori să
 
 #. type=text
 msgctxt "text"
+msgid "📍 Do you live in a rural or urban area?"
+msgstr "📍Locuiești într-o zonă rurală sau urbană?"
+
+#. type=text
+msgctxt "text"
 msgid "What is the highest level of education you have completed?"
 msgstr "Care este ultimul nivel de educație pe care l-ai absolvit?"
 
@@ -175,6 +180,18 @@ msgstr "ÎNAPOI"
 msgctxt "quick_replies"
 msgid "NEXT"
 msgstr "URMĂTORUL"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Maria"
+msgstr "Maria"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Dan"
+msgstr "Dan"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -341,6 +358,18 @@ msgstr "nu"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "maria"
+msgstr "maria"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "dan"
+msgstr "dan"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "woman"
 msgstr "femeie"
 
@@ -415,6 +444,18 @@ msgstr "vreau sfaturile"
 msgctxt "arguments"
 msgid "i do not want the tips"
 msgstr "nu vreau sfaturile"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "rural"
+msgstr "rural"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "urban"
+msgstr "urban"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
