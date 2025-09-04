@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-09-04 15:21\n"
+"PO-Revision-Date: 2025-09-04 21:19\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -976,6 +976,42 @@ msgstr "En tu perfil podrás ver tu identificación de persona facilitadora y ta
 
 #. type=data_list
 msgctxt "data_list"
+msgid "SNDIF"
+msgstr "SNDIF"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "SEP"
+msgstr "SEP"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Secretaría de las Mujeres"
+msgstr "Secretaría de las Mujeres"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Secretaría de Salud"
+msgstr "Secretaría de Salud"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Fiscalía General de la República"
+msgstr "Fiscalía General de la República"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Juconi"
+msgstr "Fundación JUCONI"
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support the scale up of Crianza con Conciencia + in Mexico. Illustrations are adaptations of original work by Orli Setton, created by Nicole Colixto for Parenting for Lifelong Health. The content herein is shared under a CC BY-SA 4.0 International licence. It was developed in collaboration with key partners:"
+msgstr "@global.app_name es una aplicación diseñada por IDEMS Internacional y Parenting for Lifelong Health para apoyar la implementación de Crianza con Conciencia + en México. Las ilustraciones son adaptaciones de la obra original de Orli Setton, creada por Nicole Calixto para Parenting for Lifelong Health. El contenido se comparte bajo la licencia internacional CC BY-SA 4.0. Se ha desarrollado en colaboración con socios clave:"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "After Onboarding Session"
 msgstr "Después de la Sesión de Integración al programa"
 
@@ -998,6 +1034,16 @@ msgstr "Descripción General del Programa Crianza con Conciencia+"
 msgctxt "data_list"
 msgid "Programme Details"
 msgstr "Detalles del Programa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Female"
+msgstr "Femenino"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Male"
+msgstr "Masculino"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1187,6 +1233,11 @@ msgstr "Reporte Opcional:Crianza en Contextos de Crisis"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Coach"
+msgstr "Persona Asesora"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Facilitator"
 msgstr "Persona Facilitadora"
 
@@ -1194,6 +1245,21 @@ msgstr "Persona Facilitadora"
 msgctxt "data_list"
 msgid "System tester"
 msgstr "Evaluador de Sistema"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Social worker"
+msgstr "Trabajadora o Trabajador Social"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Psychologist"
+msgstr "Psicóloga o Psicólogo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Educator"
+msgstr "Educadora o Educador"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4351,6 +4417,21 @@ msgstr ""
 "\n"
 "🔑 Responde con sinceridad a cualquier pregunta que tu niña o niño te haga. ¡Tú puedes! ¡Esto ayuda a mantener a nuestras niñas y a nuestros niños a salvo! 🌷"
 
+#. type=data_list
+msgctxt "data_list"
+msgid "Crianza con Conciencia +"
+msgstr "Crianza con Conciencia +"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Crianza Afectiva"
+msgstr "Crianza Afectiva"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Demo"
+msgstr "Demo"
+
 #. type=global
 msgctxt "global"
 msgid "Your name"
@@ -4371,6 +4452,11 @@ msgstr "¿En qué estado vives?"
 msgctxt "global"
 msgid "Which region of @global.deployment_country do you live in?"
 msgstr "¿En qué región de @global.deployment_country vives?"
+
+#. type=global
+msgctxt "global"
+msgid "User ID"
+msgstr "ID de usuario"
 
 #. type=global
 msgctxt "global"
@@ -4436,8 +4522,33 @@ msgstr "Grupo de madres, padres y personas cuidadoras"
 
 #. type=global
 msgctxt "global"
+msgid "Parent Text ID"
+msgstr "ID de Parent Text"
+
+#. type=global
+msgctxt "global"
 msgid "Language"
 msgstr "Idioma"
+
+#. type=global
+msgctxt "global"
+msgid "Copied to clipboard"
+msgstr "Copiado en el portapapeles"
+
+#. type=global
+msgctxt "global"
+msgid "This profile is incomplete. Open to complete the missing details."
+msgstr "Este perfil está incompleto. Abre para completar los datos que faltan."
+
+#. type=global
+msgctxt "global"
+msgid "Embedded PDFs are not supported in this browser, please use an up-to-date version of Google Chrome to view or open in external app"
+msgstr "Los PDF incorporados no son compatibles con este navegador; utiliza una versión actualizada de Google Chrome para verlos o abrirlos en una aplicación externa."
+
+#. type=global
+msgctxt "global"
+msgid "Open with..."
+msgstr "Abrir con..."
 
 #. type=global
 msgctxt "global"
@@ -4521,8 +4632,43 @@ msgstr "tu supervisor"
 
 #. type=global
 msgctxt "global"
+msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
+msgstr "¿Quieres crear una cuenta? Esto te permitirá recuperar tus datos si cambias de dispositivo."
+
+#. type=global
+msgctxt "global"
+msgid "Sign in with Apple"
+msgstr "Iniciar sesión con Apple"
+
+#. type=global
+msgctxt "global"
 msgid "Sign in with Google"
 msgstr "Acceder con una cuenta de Google"
+
+#. type=global
+msgctxt "global"
+msgid "You are logged in."
+msgstr "Sesión iniciada."
+
+#. type=global
+msgctxt "global"
+msgid "Account"
+msgstr "Cuenta"
+
+#. type=global
+msgctxt "global"
+msgid "Delete account"
+msgstr "Eliminar cuenta"
+
+#. type=global
+msgctxt "global"
+msgid "Are you sure you want to delete your account?"
+msgstr "¿Confirmas que deseas eliminar tu cuenta?"
+
+#. type=global
+msgctxt "global"
+msgid "This action is permanent and cannot be undone. You will lose all your progress."
+msgstr "Esta acción es permanente y no puede deshacerse. Perderás todo tu progreso."
 
 #. type=global
 msgctxt "global"
@@ -4557,6 +4703,31 @@ msgstr "Preguntas Frecuentes"
 
 #. type=global
 msgctxt "global"
+msgid "View Module from Start"
+msgstr "Ver módulo desde el inicio"
+
+#. type=global
+msgctxt "global"
+msgid "Please make sure messages have been shared before completing session"
+msgstr "Asegúrate de que se han compartido los mensajes antes de finalizar la sesión"
+
+#. type=global
+msgctxt "global"
+msgid "Mark Session as Delivered"
+msgstr "Marcar Sesión como Realizada"
+
+#. type=global
+msgctxt "global"
+msgid "You successfully completed this session! Please complete the report"
+msgstr "¡Has completado con éxito esta sesión! Por favor, completa el reporte"
+
+#. type=global
+msgctxt "global"
+msgid "Add Report"
+msgstr "Agregar reporte"
+
+#. type=global
+msgctxt "global"
 msgid "You successfully completed the report for this session!"
 msgstr "¡Completaste con éxito el reporte de esta sesión!"
 
@@ -4572,6 +4743,16 @@ msgstr "¡Completaste esta sesión!"
 
 #. type=global
 msgctxt "global"
+msgid "Mark Session as Delivered and add report"
+msgstr "Marcar sesión como realizada y agregar reporte"
+
+#. type=global
+msgctxt "global"
+msgid "Please share your message with the parent group before marking this module as delivered."
+msgstr "Por favor, comparte tu mensaje con tu Grupo de Reflexión antes de marcar este módulo como realizado."
+
+#. type=global
+msgctxt "global"
 msgid "Share"
 msgstr "Compartir"
 
@@ -4579,6 +4760,16 @@ msgstr "Compartir"
 msgctxt "global"
 msgid "Skip"
 msgstr "Saltar"
+
+#. type=global
+#. The string @global.app_name! should not be translated.
+msgctxt "global"
+msgid ""
+"Welcome to \n"
+"@global.app_name!"
+msgstr ""
+"¡Bienvenido a \n"
+"@global.app_name!"
 
 #. type=global
 msgctxt "global"
@@ -4592,8 +4783,23 @@ msgstr "Crear una cuenta te permite guardar tu progreso en diferentes equipos. E
 
 #. type=global
 msgctxt "global"
+msgid "Continue with Apple"
+msgstr "Continuar con Apple"
+
+#. type=global
+msgctxt "global"
+msgid "Continue with Google"
+msgstr "Continuar con Google"
+
+#. type=global
+msgctxt "global"
 msgid "Continue without an account"
 msgstr "Continuar sin una cuenta"
+
+#. type=global
+msgctxt "global"
+msgid "By continuing, you agree to our:"
+msgstr "Al continuar, aceptas:"
 
 #. type=global
 msgctxt "global"
@@ -4601,14 +4807,96 @@ msgid "Sign out"
 msgstr "Cerrar sesión"
 
 #. type=global
+#. The string @fields._auth_user_given_name! should not be translated.
+msgctxt "global"
+msgid "Welcome back, @fields._auth_user_given_name!"
+msgstr "¡Te damos la bienvenida de nuevo, @fields._auth_user_given_name!"
+
+#. type=global
 msgctxt "global"
 msgid "Welcome back!"
 msgstr "¡Te damos la bienvenida una vez más!"
 
 #. type=global
+#. The string @fields._auth_user_given_name! should not be translated.
+msgctxt "global"
+msgid "Welcome, @fields._auth_user_given_name!"
+msgstr "¡Te damos la bienvenida, @fields._auth_user_given_name!"
+
+#. type=global
+msgctxt "global"
+msgid "Welcome!"
+msgstr "¡Te damos la bienvenida!"
+
+#. type=global
 msgctxt "global"
 msgid "Continue"
 msgstr "Continúa"
+
+#. type=global
+msgctxt "global"
+msgid "You’re all set!"
+msgstr "¡Todo listo!"
+
+#. type=global
+msgctxt "global"
+msgid "Your profile is complete, and you’re ready to begin!"
+msgstr "Tu perfil está completo, ¡todo está listo para comenzar!"
+
+#. type=global
+msgctxt "global"
+msgid "Name"
+msgstr "Nombre"
+
+#. type=global
+msgctxt "global"
+msgid "Enter your name"
+msgstr "Introduce tu nombre"
+
+#. type=global
+msgctxt "global"
+msgid "Gender"
+msgstr "Género"
+
+#. type=global
+msgctxt "global"
+msgid "Select your gender"
+msgstr "Selecciona tu sexo"
+
+#. type=global
+msgctxt "global"
+msgid "Select your role"
+msgstr "Selecciona tu papel"
+
+#. type=global
+msgctxt "global"
+msgid "Profession"
+msgstr "Profesión"
+
+#. type=global
+msgctxt "global"
+msgid "Select your profession"
+msgstr "Selecciona tu profesión"
+
+#. type=global
+msgctxt "global"
+msgid "Organisation"
+msgstr "Organización"
+
+#. type=global
+msgctxt "global"
+msgid "Select your organisation"
+msgstr "Selecciona tu organización"
+
+#. type=global
+msgctxt "global"
+msgid "State"
+msgstr "Estado"
+
+#. type=global
+msgctxt "global"
+msgid "Select your state"
+msgstr "Selecciona tu Estado"
 
 #. type=template
 msgctxt "template"
@@ -4759,6 +5047,12 @@ msgid "Very Poorly"
 msgstr "Muy Mal"
 
 #. type=template
+#. The string @global.virtual_session_platform should not be translated.
+msgctxt "template"
+msgid "Which of the parents in this group attended your @global.virtual_session_platform group session?"
+msgstr "¿Quiénes de las personas cuidadoras de este grupo asistieron a la sesión @global.virtual_session_platform?"
+
+#. type=template
 #. The string @fields.current_group_name should not be translated.
 msgctxt "template"
 msgid "Are you sure you want to delete @fields.current_group_name?"
@@ -4769,6 +5063,21 @@ msgstr "¿Quieres eliminar al grupo @fields.current_group_name? Esto borrará to
 msgctxt "template"
 msgid "This will delete all of @fields.current_group_name group data. The action cannot be undone."
 msgstr "Esto eliminará todos los datos del grupo de @fields.current_group_name . La acción no se podrá deshacer."
+
+#. type=template
+msgctxt "template"
+msgid "Unsaved values"
+msgstr "Valores no guardados"
+
+#. type=template
+msgctxt "template"
+msgid "Are you sure you want to exit without saving?"
+msgstr "¿Confirmas que quieres salir sin guardar?"
+
+#. type=template
+msgctxt "template"
+msgid "Exit without saving"
+msgstr "Salir sin guardar"
 
 #. type=template
 msgctxt "template"
@@ -4804,6 +5113,11 @@ msgstr "Acciones de las madres, padres y personas cuidadoras"
 msgctxt "template"
 msgid "Your Parent Groups"
 msgstr "Tus Grupos"
+
+#. type=template
+msgctxt "template"
+msgid "App Details & Terms"
+msgstr "Detalles y condiciones de la aplicación"
 
 #. type=template
 msgctxt "template"
@@ -4862,6 +5176,15 @@ msgstr "Este número de Identificación del Programa Crianza con Conciencia + (C
 msgctxt "template"
 msgid "Are you sure you want to archive @fields.current_group_name?"
 msgstr "¿Estás seguro de que quieres archivar el grupo @fields.current_group_name?"
+
+#. type=template
+msgctxt "template"
+msgid ""
+"Archiving this group will remove it from your active list.\n"
+"You can still view its data later if needed."
+msgstr ""
+"Archivar este grupo lo eliminará de tu lista activa.\n"
+"Si lo necesitas, podrás seguir viendo sus datos más adelante."
 
 #. type=template
 msgctxt "template"
@@ -4968,6 +5291,11 @@ msgstr "Selecciona todas las actividades que hayas completado durante esta sesi�
 msgctxt "template"
 msgid "Templates"
 msgstr "Plantillas"
+
+#. type=template
+msgctxt "template"
+msgid "Dynamic data"
+msgstr "Datos dinámicos"
 
 #. type=template
 msgctxt "template"
