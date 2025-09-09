@@ -578,6 +578,11 @@ msgid "Tap and type"
 msgstr ""
 
 #. type=global
+msgctxt "global"
+msgid "Let's check in on"
+msgstr ""
+
+#. type=global
 #. The string @global.app_name should not be translated.
 msgctxt "global"
 msgid "Welcome to @global.app_name"
@@ -889,33 +894,6 @@ msgid "Continue"
 msgstr ""
 
 #. type=template
-#. The string @item.id should not be translated.
-msgctxt "template"
-msgid "Activity ID: @item.id"
-msgstr ""
-
-#. type=template
-#. The string @item.child_age_list should not be translated.
-msgctxt "template"
-msgid "Child_age_list: @item.child_age_list"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @item.locked
-#.      !@item.child_age_list
-#.      @item.child_age_list.includes
-#.      @fields.child_age
-msgctxt "template"
-msgid "@item.locked && (!@item.child_age_list || @item.child_age_list.includes(@fields.child_age))"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Randomise"
-msgstr ""
-
-#. type=template
 #. The string @local.countdown_days should not be translated.
 msgctxt "template"
 msgid "Countdown days: @local.countdown_days"
@@ -929,6 +907,21 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Save"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.hp_unlocked_ids
+#.      @local.hp_completed_ids
+#.      @calc((@local.hp_unlocked_ids || []).find(x => !(@local.hp_completed_ids || []).includes(x)))
+msgctxt "template"
+msgid "@calc((@local.hp_unlocked_ids || []).find(x => !(@local.hp_completed_ids || []).includes(x)))"
+msgstr ""
+
+#. type=template
+#. The string @local.find_hp_id should not be translated.
+msgctxt "template"
+msgid "HP id: @local.find_hp_id"
 msgstr ""
 
 #. type=template
