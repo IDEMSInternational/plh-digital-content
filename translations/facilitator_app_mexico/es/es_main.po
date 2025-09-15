@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-09-15 13:46\n"
+"PO-Revision-Date: 2025-09-15 19:43\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5121,6 +5121,11 @@ msgstr "Escoge qué contenido quieres ver."
 
 #. type=template
 msgctxt "template"
+msgid "Add Parent"
+msgstr "Agregar persona cuidadora"
+
+#. type=template
+msgctxt "template"
 msgid "Save Profile"
 msgstr "Guardar perfil"
 
@@ -5140,6 +5145,11 @@ msgstr "¿Quieres eliminar a @fields.current_parent_name? Esto borrará toda su 
 msgctxt "template"
 msgid "This will delete all of @fields.current_parent_name parent data. The action cannot be undone."
 msgstr "Esto borrará todos los datos de la persona cuidadora @fields.current_parent_name. La acción no se podrá deshacer."
+
+#. type=template
+msgctxt "template"
+msgid "Edit Parent"
+msgstr "Editar persona cuidadora"
 
 #. type=template
 msgctxt "template"
