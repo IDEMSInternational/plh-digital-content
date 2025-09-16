@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Spanish\n"
 "\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-09-09 16:39\n"
+"PO-Revision-Date: 2025-09-16 08:02\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4612,11 +4612,6 @@ msgstr "Tus grupos archivados"
 
 #. type=global
 msgctxt "global"
-msgid "Submit Report"
-msgstr "Enviar informe "
-
-#. type=global
-msgctxt "global"
 msgid "GUIDE"
 msgstr "GUÍA"
 
@@ -5126,6 +5121,11 @@ msgstr "Escoge qué contenido quieres ver."
 
 #. type=template
 msgctxt "template"
+msgid "Add Parent"
+msgstr "Agregar persona cuidadora"
+
+#. type=template
+msgctxt "template"
 msgid "Save Profile"
 msgstr "Guardar perfil"
 
@@ -5145,6 +5145,11 @@ msgstr "¿Quieres eliminar a @fields.current_parent_name? Esto borrará toda su 
 msgctxt "template"
 msgid "This will delete all of @fields.current_parent_name parent data. The action cannot be undone."
 msgstr "Esto borrará todos los datos de la persona cuidadora @fields.current_parent_name. La acción no se podrá deshacer."
+
+#. type=template
+msgctxt "template"
+msgid "Edit Parent"
+msgstr "Editar persona cuidadora"
 
 #. type=template
 msgctxt "template"
@@ -5190,6 +5195,11 @@ msgstr ""
 msgctxt "template"
 msgid "Archive"
 msgstr "Archivo"
+
+#. type=template
+msgctxt "template"
+msgid "Create New Group"
+msgstr "Crea un nuevo grupo"
 
 #. type=template
 msgctxt "template"
