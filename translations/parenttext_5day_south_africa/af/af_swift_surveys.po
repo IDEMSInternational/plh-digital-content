@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Afrikaans\n"
 "\n"
 "Language: af_ZA\n"
-"PO-Revision-Date: 2025-09-11 19:41\n"
+"PO-Revision-Date: 2025-09-18 13:57\n"
 
 #. type=text
 msgctxt "text"
@@ -208,8 +208,8 @@ msgstr "Jy het alreeds begin om jou verhouding met jou kind te verbeter! Kom lee
 
 #. type=text
 msgctxt "text"
-msgid "That's okay! You can easily access the Child Safety course any time you want via the main menu. Just type {MENU} to access it."
-msgstr "Dis oukei! Jy kan maklik toegang tot die Kinderveiligheidskursus enige tyd kry wanneer jy wil via die hoofkieslys. Tik net {MENU} om toegang daartoe te kry."
+msgid "It looks like you’re not interested in the Child Safety course right now. If you want to join the Child Safety course later, just press 1. 📚"
+msgstr "Dit lyk of jy nie op die oomblik in die Kinderveiligheidskursus belangstel nie. As jy later by die Kinderveiligheidskursus wil aansluit, druk net 1. 📚"
 
 #. type=text
 msgctxt "text"
@@ -331,6 +331,11 @@ msgstr "'n Papierpamflet van die kliniek of saam met jou medikasie gekry?"
 msgctxt "text"
 msgid "See something on social media (e.g. Facebook, WhatsApp)?"
 msgstr "Iets op sosiale media gesien (bv. Facebook, WhatsApp)?"
+
+#. type=text
+msgctxt "text"
+msgid "Which clinic were you at when you found out about ParentText?"
+msgstr "By watter kliniek was jy toe jy van ParentText uitgevind het?"
 
 #. type=text
 msgctxt "text"
@@ -1467,6 +1472,54 @@ msgstr "Nee"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Wolseley Clinic"
+msgstr "Wolseley Kliniek"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Ceres Clinic"
+msgstr "Ceres Kliniek"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Nduli Clinic"
+msgstr "Nduli Kliniek"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Bella Vista Clinic"
+msgstr "Bella Vista Kliniek"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Delft South Clinic"
+msgstr "Delft South Kliniek"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Symphony Way Clinic"
+msgstr "Symphony Way Kliniek"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Delft CHC"
+msgstr "Delft CHC"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I was not at a clinic"
+msgstr "Ek was nie by 'n kliniek nie"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Eastern Cape"
 msgstr "Oos-Kaap"
 
@@ -1895,6 +1948,54 @@ msgstr "ja, ek is 18 jaar oud of ouer"
 msgctxt "arguments"
 msgid "no, i am under 18"
 msgstr "nee, ek is onder 18"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "wolseley clinic"
+msgstr "wolseley kliniek"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "ceres clinic"
+msgstr "ceres kliniek"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "nduli clinic"
+msgstr "nduli kliniek"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "bella vista clinic"
+msgstr "bella vista kliniek"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "delft south clinic"
+msgstr "delft south kliniek"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "symphony way clinic"
+msgstr "symphony way kliniek"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "delft chc"
+msgstr "delft gemeenskapsgesondheidssentrum"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i was not at a clinic"
+msgstr "ek was nie by 'n kliniek nie"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
