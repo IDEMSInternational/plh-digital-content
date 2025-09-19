@@ -11,7 +11,12 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-09-19 11:58\n"
+"PO-Revision-Date: 2025-09-19 17:44\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "⚠️ Sensitive Content"
+msgstr "Maudhui Nyeti"
 
 #. type=data_list
 msgctxt "data_list"
@@ -20,8 +25,8 @@ msgid ""
 "\n"
 "If you need support, see the “Support Contacts” section in your Library for help."
 msgstr ""
-"Sehemu hii inajumuisha maudhui ambayo yanaweza kuwa nyeti. Unaweza kuiangalia peke yako kwanza. Hii itakutayarisha vema kwa kushiriki maudhui haya na kijana wako na wengine baadaye.\n"
-"Ikiwa unahitaji usaidizi, angalia sehemu ya \"Mawasiliano kwa Usaidizi\" kwenye Maktaba yako ya usaidizi."
+"Sehemu hii inajumuisha maudhui ambayo yanaweza kuwa nyeti. Unaweza kuiangalia peke yako kwanza. Hii itakutayarisha vyema kwa kushiriki maudhui na kijana wako na wengine baadaye.\n"
+"Ikiwa unahitaji usaidizi, angalia sehemu ya \"Mawasiliano kwa Usaidizi\" kwenye Maktaba yako kwa usaidizi."
 
 #. type=data_list
 msgctxt "data_list"
@@ -36,6 +41,41 @@ msgstr ""
 "\n"
 "Majonzi hutuathiri sis sote kwa namna tofauti.\n"
 "Vyoyote unavojisikia, unahuzunika kwa namna yako mwenyewew, na hiyo ni sawa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What techniques can you use to cope with grief? Tap play to find out"
+msgstr "Ni mbinu gani unazotumia kukabiliana na majonzi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Greetings.\n"
+"\n"
+"Today's topic is coping with grief.\n"
+"\n"
+"Taking care of ourselves is important, especially when we are facing challenging and difficult times such as coping with grief. We need to stay calm in order to think and act positively whenever we find ourselves overwhelmed. We may use techniques such as taking a pause to calm ourselves down."
+msgstr ""
+"Salamu\n"
+"\n"
+"Mada ya leo ni kukabiliana na majonzi.\n"
+"\n"
+"Kujitunza ni muhimu, hasa tunapokabiliana na changamoto na nyakati ngumu kama kukabiliana na majonzi. Tunahitaji kukaa kwa utulivu ili kufikiri na kuchukua hatua chanya wakati tunapojikuta tumeelemewa. Tunaweza kutumia mbinu kama vile kupumzika ili kupata utulivu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Taking care of ourselves during grief helps us stay calm and present for our children. \n"
+"When we share and name our feelings openly, it can help the whole family feel less alone and more supported."
+msgstr ""
+"Kujitunza wakati wa huzuni hutusaidia kuwa watulivu na kuwepo kwajili ya watoto wetu.\n"
+"Tunaposhirikishana na kutaja hisia zetu kwa uwazi, inaweza kusaidia familia nzima kuhisi kutokuwa na upweke na kuungwa mkono zaidi."
+
+#. type=data_list
+#. The string @data.characters.media_female_12.name should not be translated.
+msgctxt "data_list"
+msgid "Hear how naming feelings helped @data.characters.media_female_12.name feel closer to family while grieving"
+msgstr "Sikiliza jinsi kutaja hisia ilivyosaidia na kutuweka karibu kama familia wakati wa majonzi"
 
 #. type=data_list
 msgctxt "data_list"
@@ -58,6 +98,38 @@ msgid ""
 msgstr "Hisia ngumu zinaweza kusababisha tabia ngumu hasa kwa watoto. Kumpoteza mlezi au mpendwa wako kunaweza kumfanya kijana wako ahisi kuwa na wasiwasi, kukosa usalama au hasira na wakati mwingine kumfanya aigize.:"
 
 #. type=data_list
+#. The string @data.characters.f1_mother.role_name should not be translated.
+msgctxt "data_list"
+msgid "I miss @data.characters.f1_mother.role_name so much..."
+msgstr "Nimemkumbuka sana @data.characters.f1_mother.role_name sana..."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_daughter_13.name,
+#.      @data.characters.f1_mother.role_name
+msgctxt "data_list"
+msgid "@data.characters.f4_daughter_13.name, you need to stop crying. It has been months already! This crying will not bring your @data.characters.f1_mother.role_name back and you are doing worse and worse in school!"
+msgstr "@data.characters.f4_daughter_13.name, unahitaji kuacha kulia. Imekuwa miezi tayari. Kulia huku hakutamrudisha @data.characters.f1_mother.role_name na unafanya vibaya na vibaya zaidi shuleni!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You just don't understand how I feel! You never listen!"
+msgstr "Huelewi tu jinsi ninavyohisi. Huwa husikilizi kamwe!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Stop being so dramatic! Your behaviour is unacceptable!"
+msgstr "Acha vituko! Tabia yako haikubaliki!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_father.name’s
+#.      @data.characters.f4_daughter_13.name,
+msgctxt "data_list"
+msgid "How did @data.characters.f4_father.name’s response make his daughter, @data.characters.f4_daughter_13.name, feel?"
+msgstr "Majibu ya @data.characters.f4_father.name’s yalimfanya binti yake @data.characters.f4_daughter_13.name ajisikie vipi?"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Confused"
 msgstr "Kuchanganyikiwa"
@@ -68,12 +140,84 @@ msgid "Yes, telling someone to stop crying can make them feel even more sad, ang
 msgstr "Ndiyo, kumwambia mtu aache kulia kunaweza kumfanya ahisi huzuni zaidi, hasira au kuchanganyikiwa."
 
 #. type=data_list
+#. The string @data.characters.f4_father.name should not be translated.
+msgctxt "data_list"
+msgid "What could @data.characters.f4_father.name have done differently?"
+msgstr "Kipi angeweza @data.characters.f4_father.name kufanya tofauti?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a pause before responding and notice his own emotions"
+msgstr "Tulia kabla ya kujibu na utambue hisia zake mwenyewe"
+
+#. type=data_list
+#. The string @data.characters.f4_daughter_13.name should not be translated.
+msgctxt "data_list"
+msgid "Ask @data.characters.f4_daughter_13.name to share more about how she feels"
+msgstr "Uliza, @data.characters.f4_daughter_13.name ili akushirikishe zaidi kuhusu anavyohisi"
+
+#. type=data_list
+#. The string @data.characters.f4_daughter_13.name should not be translated.
+msgctxt "data_list"
+msgid "Give @data.characters.f4_daughter_13.name a hug and tell her she can talk to him"
+msgstr "Mkumbatie @data.characters.f4_daughter_13.name na umwambie anaweza kuzungumza naye"
+
+#. type=data_list
+#. The string @data.characters.f4_daughter_13.name should not be translated.
+msgctxt "data_list"
+msgid "Ask @data.characters.f4_daughter_13.name what would help her feel better"
+msgstr "Muulize @data.characters.f4_daughter_13.name nini kinaweza kumsaidia ajisikie vizuri"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Yes, all these options are correct.\n"
+"\n"
+"When we lose someone we love, it helps to recognise and share our feelings as a family."
+msgstr ""
+"Ndiyo, chaguzi zote hizi ni sawa.\n"
+"\n"
+"Tunapompoteza mtu tunayempenda, inatusaidia kutambua na kushirikishana hisia zetu kama familia."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_father.name
+#.      @data.characters.f4_daughter_13.name:
+msgctxt "data_list"
+msgid ""
+"Thank you for thinking along!\n"
+"\n"
+"Let’s see what happens if @data.characters.f4_father.name tries to support @data.characters.f4_daughter_13.name:"
+msgstr ""
+"Asante kwa kufikiri pamoja!\n"
+"\n"
+"Acha tuone kitakachotokea ikiwa @data.characters.f4_father.name atajaribu kumsaidia @data.characters.f4_daughter_13.name:"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_daughter_13.name.
+#.      @data.characters.f1_mother.role_name.
+msgctxt "data_list"
+msgid "I know you are sad, @data.characters.f4_daughter_13.name. I also miss @data.characters.f1_mother.role_name. What do you think we can do to help you feel better?"
+msgstr "Ninajua una huzuni, @data.characters.f4_daughter_13.name pia namkumbuka @data.characters.f1_mother.role_name. Unafikiri tunaweza kufanya nini ili tuweze kukusaidia kujisikia vizuri?"
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @data.characters.f4_aunt.name,
 #.      @data.characters.f1_mother.role_name?
 msgctxt "data_list"
 msgid "Maybe we can visit @data.characters.f4_aunt.name, so we can share stories about @data.characters.f1_mother.role_name?"
 msgstr "Labda tunaweza kumtembelea @data.characters.f4_aunt.name, ili tuweze kumshirikisha hadithi kuhusu @data.characters.f1_mother.role_name?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I like that idea, let’s go see her on Saturday. Do you already want to tell me more about how you feel now?"
+msgstr "Nimependa wazo hilo, twende tukamwone Jumamosi. Je, tayari unataka kuniambia zaidi kuhusu jinsi unavyohisi sasa?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I honestly feel angry that she left. Is it okay to say that?"
+msgstr "Kwa kweli nimeshikwa na hasira kwa sababu aliondoka. Je, ni sawa kusema hivyo?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -86,9 +230,31 @@ msgid "Let's think about what happened in this story."
 msgstr "Hebu tufikirie kuhusu kilichotokea kwenye Hadithi hii."
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_daughter_13.name
+#.      @data.characters.f4_father.name?
+msgctxt "data_list"
+msgid "How did @data.characters.f4_daughter_13.name feel after talking to her father, @data.characters.f4_father.name?"
+msgstr "Je, @data.characters.f4_daughter_13.name alijisikiaje baada ya kuongea na baba yake @data.characters.f4_father.name?"
+
+#. type=data_list
+#. The string @data.characters.f4_daughter_13.name should not be translated.
+msgctxt "data_list"
+msgid "That’s right. Talking about her feelings helped @data.characters.f4_daughter_13.name feel lighter and less alone inside."
+msgstr "Hii ni sawa. Kuzungumza kuhusu hisia zake kulimsaidia kujihisi mwepesi na kutokuwa mpweke ndani yake."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Supported"
 msgstr "Kuungwa mkono"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_father.role_name
+#.      @data.characters.f4_daughter_13.name
+msgctxt "data_list"
+msgid "Yes, knowing that her @data.characters.f4_father.role_name understood and accepted her feelings made @data.characters.f4_daughter_13.name feel cared for and supported."
+msgstr "Ndiyo, kujua kwamba @data.characters.f4_father.role_name alimuelewa na kukubali hisia zake kulifanya @data.characters.f4_daughter_13.name kuhisi anajali na kuungwa mkono."
 
 #. type=data_list
 msgctxt "data_list"
@@ -104,6 +270,36 @@ msgid "Exactly. Sharing her sadness and anger openly made @data.characters.f4_da
 msgstr "."
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_father.name
+#.      @data.characters.f4_daughter_13.name,
+msgctxt "data_list"
+msgid "What could have happened if @data.characters.f4_father.name got angry at his daughter, @data.characters.f4_daughter_13.name, when she shared that she was feeling angry?"
+msgstr "Nini kingetokea kama @data.characters.f4_father.name angepatwa na hasira juu ya binti yake @data.characters.f4_daughter_13.name, wakati anamshirikisha hisia zake kuwa alikuwa na hasira?"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_daughter_13.name
+#.      @data.characters.f4_father.role_name
+msgctxt "data_list"
+msgid "@data.characters.f4_daughter_13.name might not trust her @data.characters.f4_father.role_name"
+msgstr "@data.characters.f4_daughter_13.name huenda asimuamini"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_daughter_13.name
+#.      @data.characters.f4_father.role_name
+msgctxt "data_list"
+msgid "@data.characters.f4_daughter_13.name and her @data.characters.f4_father.role_name might talk less and feel more alone"
+msgstr "@data.characters.f4_daughter_13.name na @data.characters.f4_father.role_name huenda wangezungumza kidogo na kuhisi upweke zaidi"
+
+#. type=data_list
+#. The string @data.characters.f4_daughter_13.name should not be translated.
+msgctxt "data_list"
+msgid "@data.characters.f4_daughter_13.name might show more challenging behaviour"
+msgstr "@data.characters.f4_daughter_13.name huenda ikaonesha tabia yenye changamoto zaidi"
+
+#. type=data_list
 msgctxt "data_list"
 msgid ""
 "All these options are correct.\n"
@@ -116,8 +312,23 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Here are some tips to help you and your family through times of grief:"
+msgstr "Hapa kuna vidokezo vya kukusaidia wewe na familia yako wakati wa majonzi:"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "ACCEPT"
 msgstr "KUBALI"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Losing someone we love can affect us for weeks, months or years. There’s no right way to feel, and no need to feel better quickly.\n"
+"\n"
+"Your teen may feel sad, angry, confused, or unwell. They may have nightmares, pain, or school problems. Even if they seem happy, they might still feel sad. This is all normal."
+msgstr ""
+"Kumpoteza mtu tunayempenda kunaweza kutuathiri kwa majuma, miezi au mwaka. Hakuna njia sahihi ya kujihisi na hakuna haja ya kujisikia vizuri haraka.\n"
+"Kijana wako anaweza kuhisi huzuni, hasira, kuchanganyikiwa, au vibaya. Wanaweza kuwa na ndoto mbaya, maumivu, au matatizo ya shule. Hata kama wanaonekana kuwa na furaha, bado wanaweza kuwa na huzuni. Haya yote ni ya kawaida."
 
 #. type=data_list
 msgctxt "data_list"
@@ -139,6 +350,32 @@ msgstr ""
 msgctxt "data_list"
 msgid "TALK"
 msgstr "ZUNGUMZA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Talking or writing about the person can help bring comfort. Gently share your memories—both the happy ones and the hard ones.\n"
+"\n"
+"Teens may sometimes feel the death was their fault. Kindly remind them it was not. Let them know they can always talk to you about their feelings, and show them it’s okay by sharing yours too."
+msgstr ""
+"Kuzungumza au kuandika juu ya mtu huyo kunaweza kuleta faraja. Washirikishe kumbukumbu zako kwa upole zile zote zenye furaha na zile ngumu.\n"
+"Wakati fulani vijana wanaweza kuhisi kifo kilikuwa kosa lao. Tafadhali wakumbushe haikuwa hivyo. Wajulishe kuwa wanaweza kuzungumza nawe kila wakati kuhusu hisia zao, na uwaonyeshe kuwa ni sawa kwa kuwakushirikisha zako pia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"When we are going through a difficult time, it can help to talk about or write down how we feel.\n"
+"\n"
+"Let’s practise naming feelings. How do you feel now?"
+msgstr ""
+"Tunapopitia wakati mgumu, inaweza kusaidia kuzungumzia au kuandika jinsi tunavyohisi.\n"
+"\n"
+"Wacha tujizoeze kutaja hisia?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "How could a person feel when someone they love passes away?"
+msgstr "Je, mtu anaweza kuhisije mtu anayempenda anapoaga dunia?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -172,13 +409,65 @@ msgstr "Jasiri"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Someone who is grieving can feel many different emotions. They might also feel lost, shocked, numb, guilty, lonely, or even hopeful — all of these are normal."
+msgstr "Mtu anayehuzunika anaweza kuhisi hisia nyingi tofauti. Wanaweza pia kuhisi kupotea, kushtushwa, kufa ganzi, hatia, upweke, au hata kuwa na matumaini - yote haya ni ya kawaida."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This week's home activity is to share with your teen how you feel, and ask them to also name their feelings.\n"
+"\n"
+"You can remind your teen of some emotions they might feel - like happy, sad, scared, hopeful, angry, or lonely. There is no right or wrong feeling. Sharing emotions helps you both feel less alone."
+msgstr ""
+"Shughuli ya nyumbani ya wiki hii ni kushiriki na kijana wako jinsi unavyohisi, na kuwauliza pia wataje hisia zao.\n"
+"\n"
+"Unaweza kumkumbusha kijana wako baadhi ya hisia anazoweza kuhisi - kama furaha, huzuni, hofu, matumaini, hasira, au upweke. Hakuna hisia sahihi au si sahihi. Kushiriki hisia kunawasaidia nyinyi wawili kuhisi kutokuwa peke yako."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Can you share how you are feeling with your teen this week and invite them to name their feelings too?"
+msgstr "Je, unaweza kumshirikisha jinsi unavyohisi na kijana wako wiki hii na kuwaalika kutaja hisia zao pia?"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Yes"
 msgstr "Ndiyo"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "That’s wonderful. Talking about emotions helps you and your teen cope and connect during difficult times."
+msgstr "Hiyo ni ajabu. Kuzungumza kuhusu hisia hukusaidia wewe na kijana wako kustahimili na kuungana katika nyakati ngumu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I think so"
+msgstr "Ninafikiri hivyo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That’s a good start. Even trying to open a conversation about feelings can help your teen feel supported. Keep going - you are doing something very important."
+msgstr "Huo ni mwanzo mzuri. Hata kujaribu kufungua mazungumzo kuhusu hisia kunaweza kumsaidia kijana wako kuhisi kuungwa mkono. Endelea - unafanya jambo muhimu sana."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "No"
 msgstr "Hapana"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That's okay. Talking about feelings can be hard, especially during grief. Try again when the time feels right - every small step towards openness helps."
+msgstr "Hiyo ni sawa. Kuzungumza juu ya hisia inaweza kuwa ngumu, haswa wakati wa majonzi. Jaribu tena wakati unahisi kuwa sawa - kila hatua ndogo kuelekea uwazi husaidia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Grief can make both parents and teens feel alone - but talking about your feelings can help you cope together. Even small steps like checking in and sharing emotions can rebuild trust and connection."
+msgstr "Huzuni inaweza kuwafanya wazazi na vijana wajisikie peke yao - lakini kuzungumza kuhusu hisia zako kunaweza kukusaidia kukabiliana pamoja. Hata hatua ndogo kama kuangalia na kushirikishana hisia zinaweza kujenga uaminifu na muunganisho upya."
+
+#. type=data_list
+#. The string @data.characters.media_daughter_10.name should not be translated.
+msgctxt "data_list"
+msgid "Hear how @data.characters.media_daughter_10.name and her father learned to support each other"
+msgstr "Sikia jinsi @data.characters.media_daughter_10.name na baba yake walivyojifunza kusaidiana"
 
 #. type=data_list
 msgctxt "data_list"
