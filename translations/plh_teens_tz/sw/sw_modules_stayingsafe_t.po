@@ -11,7 +11,12 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-09-20 11:42\n"
+"PO-Revision-Date: 2025-09-21 17:43\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "⚠️ Sensitive Content"
+msgstr "⚠️ Maudhui Nyeti"
 
 #. type=data_list
 msgctxt "data_list"
@@ -20,9 +25,9 @@ msgid ""
 "\n"
 "If you need support, see the “Support Contacts” section in your Library for help."
 msgstr ""
-"Hii mada inahusisha maudhui ambayo yanaweza kuwa nyeti. Unaweza kuyaangalia wewe mwenyewe kwanza. Hii inaweza kukuandaa wewe vizuri unapomshirikisha maudhui kijana wako na wengine baadae.\n"
+"Mada hii inajumuisha maudhui ambayo huenda yakawa nyeti. Unaweza kuyapitia wewe mwenyewe kwanza. Hii itakuandaa vyema kwa ajili ya kushiriki maudhui haya na kijana wako na wengine baadaye.\n"
 "\n"
-"kama unahitaji msaada,'' angalia namba '' za usaidizi kwenye maktaba yako kwa usaidizi."
+"Kama unahitaji msaada, angalia sehemu ya \"Wasiliana kwa Msaada\" katika Maktaba yako kwa usaidizi."
 
 #. type=data_list
 msgctxt "data_list"
@@ -33,15 +38,15 @@ msgid ""
 "\n"
 "We can help our teens know how to use their thoughts, voice, AND body in dangerous situations. It makes a big difference!"
 msgstr ""
-"Mada yetu ya leo ni kukaa salama.\n"
-"kuwaweka vijana wetu salama, tunahitaji kufahamu uhalisia wao na hali ya hatari ambayo wanaweza kujikuta katika.\n"
+"Mada yetu ya leo ni kubaki salama.\n"
+"Ili kuwalinda vijana wetu, tunahitaji kuelewa hali halisi ya maisha yao na hali hatari wanazoweza kujikuta ndani yake.\n"
 "\n"
 "Tunaweza kuwasaidia vijana wetu kufahamu jinsi ya kutumia mawazo yao, sauti NA mwili wao katika hali ya hatari. Itafanya mabadiliko makubwa!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Why is discussing safety with your teen important? Click play to find out"
-msgstr "Kwa nini kujadili usalama na vijana wetu ni muhimu? Bonyeza cheza ili uweze kuelewa"
+msgstr "Kwa nini kujadili usalama na kijana wako ni muhimu? Bofya kitufe cha kucheza ili kujua"
 
 #. type=data_list
 msgctxt "data_list"
@@ -52,8 +57,8 @@ msgid ""
 "\n"
 "As parents it is important to ensure that our teens are safe at all times. Our safety and our children’s safety is important. We may need to have discussions with our children about their safety, and how they can keep themselves safe always."
 msgstr ""
-"Habari zenu kila mmoja.\n"
-"Mada yetu leo ni kukaa salama.\n"
+"Habari zenu.\n"
+"Mada yetu ya leo ni kubaki salama.\n"
 "\n"
 "\n"
 "kama wazazi ni muhimu kuhakikisha vijana wetu wako salama muda wote. Usalama wetu na usalama wa watoto wetu ni muhimu. Tunaweza kuhitaji kuwa na mjadala na watoto wetu juu ya usalama wao, na ni kwa namna gani wanaweza kujiweka salama muda wote."
@@ -61,15 +66,18 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Practising how to recognise warning signs and how to respond can help teens feel confident to protect themselves when it matters most."
-msgstr "Kufanya mazoezi ya jinsi ya kutambua alama za tahadhari na namna ya kukabiliana nazo kunaweza kuwasaidia vijana wetu kujiamini katika kujilinda wenyewe panapo hitajika."
+msgstr "Kufanya mazoezi ya kutambua ishara za onyo na jinsi ya kujibu kunaweza kuwasaidia vijana kujisikia na kujiamini katika kujilinda pale inapohitajika zaidi."
 
 #. type=data_list
 #. The string @data.characters.media_female_11.name's should not be translated.
 msgctxt "data_list"
 msgid "Hear how learning warning signs kept @data.characters.media_female_11.name's teen safe"
 msgstr ""
-"Sikia jinsi ishara za onyo za kujifunza zilivyotunzwa\n"
-"@data.characters.media_female_11.name usalama wa kijana"
+"Sikiliza jinsi kujifunza ishara za onyo kulivyomsaidia kijana wa @data.characters.media_female_11.name kubaki salama.\n"
+"\n"
+"\n"
+"\n"
+"\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -92,7 +100,7 @@ msgid ""
 "Let’s look at some examples."
 msgstr ""
 "Watu wanaweza fanya tujisikie salama na furaha-lakini muda mwingine kutushinikiza au kutufanya tuwe na wasiwasi. hii inaweza kutokea kwa wote vijana na watu wazima.\n"
-"Kujua alama za tahadhari kumetusaidia kukaa salama.\n"
+"Kujua dalili za onyo kumetusaidia kukaa salama.\n"
 "\n"
 "Tuangalie baadhi ya mifano."
 
@@ -113,6 +121,42 @@ msgid "Oh come on... We are ready for the next step. We see each other all the t
 msgstr "Oh jaman...tuko tayari kwa hatua inayofuata.Tunaonana kila wakati na hatufanyi chochote zaidi...Unajua ninakupenda, kweli!"
 
 #. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Does not listen to @data.characters.f1_daughter_16.name or ask what she wants"
+msgstr "Hamsikilizi @data.characters.f1_daughter_16.name wala kumuuliza anachotaka."
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name's should not be translated.
+msgctxt "data_list"
+msgid "Does not respect @data.characters.f1_daughter_16.name's feelings/opinion"
+msgstr "Haeshimu @data.characters.f1_daughter_16.name hisia/maoni"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Yes, these are clear warning signs.\n"
+"\n"
+"No one should push or convince you to do something you don’t want to do or feel unsure about. Even if you did it once, you can always change your mind—anytime, even during an intimate moment.\n"
+"\n"
+"A partner who really loves and respects you will ask if you’re okay, listen to you, and stop if you say no."
+msgstr ""
+"Ndio, kuna alama za tahadhari bayana.\n"
+"Hakuna mtu anapaswa kukusukuma au kukushawishi kufanya kitu ambacho hautaki kukifanya au hauna uhakika nacho.Hata kama ulishakifanya mara moja,unaweza muda wote kubadilisha mawazo yako-wakati wowote,hata wakati wa urafiki.\n"
+"Rafiki ambaye kweli anakupenda na kukuheshimu atakuuliza kama uko vizuri, anakusikiliza, na kuacha ikiwa utasema hapana."
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Boyfriend stops @data.characters.f1_daughter_16.name from meeting friends"
+msgstr "Mpenzi ataacha@data.characters.f1_daughter_16.namekukutana na marafiki"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I just wanted to…"
+msgstr "Nilitaka tu..."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "No, you are staying here. You always leave me alone to go see your friends. Don’t you love me? Or are you meeting your other boyfriend?!"
 msgstr "Hapana, unakaa hapa.Kila mara unaniacha peke yangu na unaenda kuonana na marafiki zako. Haunipendi?Au unakutana na wapenzi wako wengine?!"
@@ -129,9 +173,44 @@ msgstr ""
 "Mvulana:"
 
 #. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Tries to control @data.characters.f1_daughter_16.name"
+msgstr "amejaribu Kudhibiti@data.characters.f1_daughter_16.name"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Stops @data.characters.f1_daughter_16.name from seeing friends"
+msgstr "Acha@data.characters.f1_daughter_16.namekuonana na marafiki"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Makes @data.characters.f1_daughter_16.name feel bad about how she acts"
+msgstr "Hufanya@data.characters.f1_daughter_16.name kujisikia vibaya kuhusu namna anavyofanya"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Is possessive and very jealous"
 msgstr "Ni mwenye kuonyesha umiliki na mwenye wivu sana"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name’s should not be translated.
+msgctxt "data_list"
+msgid ""
+"Yes, all of these are warning signs! When we are in love, it can be hard to recognise something is wrong in our relationship.\n"
+"\n"
+"If you have a friend in @data.characters.f1_daughter_16.name’s situation, try to help them see that jealous, possessive or controlling behaviour is not healthy or loving."
+msgstr ""
+"Ndio, hizi zote ni alama za tahadhari! Tunapokua kwenye upendo, inaweza kuwa ngumu kutambua jambo lisilosahihi kwenye mahusiano yetu.\n"
+"kama una rafiki kwenye@data.characters.f1_daughter_16.name hali,jaribu kuwasaidia kuona wivu huo,kumiliki au tabia ya kumiliki si afya au upendo."
+
+#. type=data_list
+#. The string @data.characters.f1_son_18.name’s should not be translated.
+msgctxt "data_list"
+msgid "@data.characters.f1_son_18.name’s friend shouts sexual comment at a girl"
+msgstr "@data.characters.f1_son_18.namemarafiki hupiga kelele maoni ya ngono kwa msichana"
 
 #. type=data_list
 msgctxt "data_list"
@@ -165,14 +244,85 @@ msgid "Acts disrespectfully"
 msgstr "Anakuwa na matendo yasiyo na heshima"
 
 #. type=data_list
+#. The string @data.characters.f1_son_18.name should not be translated.
+msgctxt "data_list"
+msgid ""
+"Yes, all of these are warning signs!\n"
+"\n"
+"Shouting sexual comments, whistling, or making kissing sounds at someone is sexual harassment and a type of abuse.\n"
+"\n"
+"If @data.characters.f1_son_18.name stays quiet, his friend may keep doing it. He can help his friend understand that this behaviour is not okay and can make girls feel scared, angry, or sad."
+msgstr ""
+"Ndio, hizi zote ni alama za tahadhari\n"
+"\n"
+"Kutamka maneno ya kingono,kupiga miluzi, au kutoa sauti za kumbusu kwa mtu ni unyanyasaji wa kijinsia na aina ya unyanyasaji.\n"
+"Kama @data.characters.f1_son_18.namekukaa kimya,marafiki zake wanaweza  kuendelea kufanya hivo.Anaweza kuwasaidia marafiki zake kuelewa kwamba hiyo tabia sio nzuri na inaweza kumfanya msichana kuwa na hofu, hasira au huzuni."
+
+#. type=data_list
+#. The string @data.characters.f2_daughter_19.name should not be translated.
+msgctxt "data_list"
+msgid "Friend pushes @data.characters.f2_daughter_19.name to accept food"
+msgstr "Marafiki wanalazimisha@data.characters.f2_daughter_19.nameakubali chakula"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Hi beautiful, can I buy you a snack?"
 msgstr "Habari mrembo, naweza kukununulia vitafunio?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Uhmmm... I don’t…"
+msgstr "Uhmmm...sitaki..."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yes, she’ll have it!"
+msgstr "Ndio, atakuanavyo!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "What warning signs do you see here?"
 msgstr "Je, ni alama gani za onyo unaziona hapa?"
+
+#. type=data_list
+#. The string @data.characters.f2_daughter_19.name should not be translated.
+msgctxt "data_list"
+msgid "The friend pressures and manipulates @data.characters.f2_daughter_19.name"
+msgstr "Marafiki wanajaribu kumshinikiza na kumrubuni@data.characters.f2_daughter_19.name"
+
+#. type=data_list
+#. The string @data.characters.f2_daughter_19.name should not be translated.
+msgctxt "data_list"
+msgid "The friend does not listen to @data.characters.f2_daughter_19.name"
+msgstr "Marafiki hawamsikilizi@data.characters.f2_daughter_19.name"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "The man abuses his status"
+msgstr "Mwanaume anadhurumu hadhi yake"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Yes, all of these are warning signs! It is common for young women to be pressured into sex when men offer food, gifts, or money.\n"
+"\n"
+"Whenever you do not get the space to make your own decisions, that can be dangerous. Your friends, and others, should respect your choices."
+msgstr ""
+"Ndio, hizi zote ni alama za tahadhari!ni kawaida kwa wasichana wadogo kushinikizwa kufanya ngono pale wanaume wanapowapatia chakula, zawadi au pesa.\n"
+"\n"
+"wakati wowote usipopata nafasi nafasi ya kufanya maamuzi yako mwenyewe,hiyo inaweza kuwa hatari.Marafiki zako, na wengineo wanapaswa kuheshimu machaguzi yako."
+
+#. type=data_list
+#. The string @data.characters.friend_female_2.name's should not be translated.
+msgctxt "data_list"
+msgid "@data.characters.friend_female_2.name's nude picture is shared"
+msgstr "@data.characters.friend_female_2.name picha za utupu zinatumwa"
+
+#. type=data_list
+#. The string @data.characters.friend_female_2.name should not be translated.
+msgctxt "data_list"
+msgid "Look, I still have this sexy picture that @data.characters.friend_female_2.name sent me! I will post it online, that should teach her not to break up with me."
+msgstr "Tazama, bado nina hizi picha za ngono ambazo@data.characters.friend_female_2.name nitumie! nitazituma mtandaoni, ili kumfundisha kwamba hawezi kuachana na mimi."
 
 #. type=data_list
 msgctxt "data_list"
@@ -186,9 +336,54 @@ msgstr ""
 "Mpenzi wa zamani:"
 
 #. type=data_list
+#. The string @data.characters.friend_female_2.name's should not be translated.
+msgctxt "data_list"
+msgid "Breaks @data.characters.friend_female_2.name's trust"
+msgstr "Kuachana@data.characters.friend_female_2.nameuaminifu"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Breaks the law"
 msgstr "Amevunja sheria"
+
+#. type=data_list
+#. The string @data.characters.friend_female_2.name should not be translated.
+msgctxt "data_list"
+msgid ""
+"Yes, these are important warning signs!\n"
+"\n"
+"Sharing sexual images without permission is wrong and often a crime—especially if someone is under 18.\n"
+"\n"
+"@data.characters.friend_female_2.name may feel ashamed and confused. She needs to know it’s not her fault and talk to someone she trusts.\n"
+"\n"
+"Talk as a family about social media to help everyone stay safe."
+msgstr ""
+"Ndio, hizi ni alama za tahadhari muhimu!\n"
+"Kutuma picha za ngono bila ridhaa ni makosa na mara nyingi ni uharifu-hasa kwa mtu alie chini ya umri wa miaka 18.\n"
+"@data.characters.friend_female_2.name atahisi aibu na kuchanganyikiwa. Anahitaji kufahamu kwamba sio kosa lake na aongee na mtu anayemuamini.\n"
+"Kuongea kama familia kuhusu mitandao ya kijamii ili kumsaidia kila mmoja kukaa salama."
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Teacher asks @data.characters.f1_daughter_16.name to stay after school"
+msgstr "Mwalimu amesema@data.characters.f1_daughter_16.name kubaki baada ya  shule\n"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name, should not be translated.
+msgctxt "data_list"
+msgid "@data.characters.f1_daughter_16.name, if you want to get good grades this year you need to stay after school when everyone is gone so I can tutor you."
+msgstr "@data.characters.f1_daughter_16.namekama unahitaji kupata maksi nzuri mwaka huu inabidi kubaki baada ya shule ambapo kila mmoja ameondoka ili nikufundishe."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "My friend also needs support. Can I invite her too?"
+msgstr "Rafiki yangu pia anahitaji msaada.Ninaweza kumuarika pia?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "No, this will be our secret. You don't want people to think you are stupid, right?"
+msgstr "Hapana, hii itakua siri yetu. unataka kufanya watu wajue kuwa hauna akili,si ndio?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -205,6 +400,24 @@ msgstr ""
 msgctxt "data_list"
 msgid "Abuses his power"
 msgstr "Anatumia vibaya madaraka yake"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Pressures and manipulates @data.characters.f1_daughter_16.name"
+msgstr "Shinikizo na kurubuniwa@data.characters.f1_daughter_16.name"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Does not listen to @data.characters.f1_daughter_16.name"
+msgstr "Hakumsikiliza@data.characters.f1_daughter_16.name"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Makes @data.characters.f1_daughter_16.name feel unsafe"
+msgstr "Imefanya@data.characters.f1_daughter_16.name kujihisi sio salama"
 
 #. type=data_list
 msgctxt "data_list"
@@ -273,6 +486,12 @@ msgstr "Ninaweza kukugusa@data.characters.f2_daughter_19.name Bila ridhaa"
 msgctxt "data_list"
 msgid "Pressures @data.characters.f2_daughter_19.name"
 msgstr "Shinikizo@data.characters.f2_daughter_19.name"
+
+#. type=data_list
+#. The string @data.characters.f2_daughter_19.name should not be translated.
+msgctxt "data_list"
+msgid "Makes @data.characters.f2_daughter_19.name feel unsafe"
+msgstr "Humfanya @data.characters.f2_daughter_19.name ajisikie kutokuwa salama.\" "
 
 #. type=data_list
 msgctxt "data_list"
@@ -408,7 +627,7 @@ msgstr "Hii hapa ni baadhi ya mifano ya jinsi unavyoweza kutumia maeneo dhaifu a
 #. type=data_list
 msgctxt "data_list"
 msgid "Learn how to protect yourself by knowing weak spots on an attacker’s body:"
-msgstr "JIfunze namna ya kujilinda mwenyewe kwa kujua maeneo dhaifu ya mvanizi wako:"
+msgstr "JIfunze namna ya kujilinda mwenyewe kwa kujua maeneo dhaifu ya mvamizi wako:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -457,6 +676,19 @@ msgstr "Hizi hapa ni baadhi ya mbinu zitakazomsaidia kijana wako kukaa salama!"
 msgctxt "data_list"
 msgid "KNOW IT"
 msgstr "FAHAMU"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Know the difference between healthy and unhealthy relationships. If someone hurts you, it is never your fault.\n"
+"\n"
+"You are allowed to say and do what is needed to stay safe and get away—don’t worry about what others think.\n"
+"\n"
+"You are worth defending. You are strong and powerful."
+msgstr ""
+"Fahamu tofauti kati ya mahusiano yenye afya na yasiyofaa. Ukishashambuliwa ujue kuwa sio kosa lako kamwe. Unaruhusiwa kusema na kufanya kile kinachohitajika ili kuwa salama na kuondoka - usijali kuhusu kile ambacho wengine wanaweza kufikiria.\n"
+"\n"
+"Unastahili kujitetea. Una uwezo na nguvu."
 
 #. type=data_list
 msgctxt "data_list"
@@ -594,6 +826,12 @@ msgid ""
 msgstr ""
 "Kumzaidis kinana wako kujifunza kutambua hatari, kuongea, na kujilinda mwenyewe inamjengea hasa kujiamini.\n"
 "kufanya mazoezi ya pamoja hufanya iwezekane zaidi kutenda hasa pale wanapohisi jambo halipo sawa."
+
+#. type=data_list
+#. The string @data.characters.media_daughter_9.name should not be translated.
+msgctxt "data_list"
+msgid "Hear how @data.characters.media_daughter_9.name used her voice to stay safe"
+msgstr "Sikia jinsi@data.characters.media_daughter_9.name alivotumia sauti yake kukaa salama"
 
 #. type=data_list
 msgctxt "data_list"
