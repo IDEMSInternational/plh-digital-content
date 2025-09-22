@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-09-19 11:58\n"
+"PO-Revision-Date: 2025-09-21 17:42\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -179,13 +179,147 @@ msgstr "Tunaweza kusasisha @global.vigezo_na_masharti yetu muda hadi muda na tut
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Applicable Law and Jurisdiction"
+msgstr "Sheria zinazotumika na mamlaka za kisheria"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.terms_and_conditions
+#.      @global.terms_and_conditions
+msgctxt "data_list"
+msgid "Unless differently provided by applicable mandatory local laws, these @global.terms_and_conditions are governed by the laws of the United Kingdom, and the London courts will have exclusive jurisdiction over any possible disputes related to these @global.terms_and_conditions  ."
+msgstr "Isipokua sheria za lazima za ndani zinazotumika zimeeleza vinginevyo hizi @global.terms_and_conditions zinasimamiwa na sheria za United Kingdom, na the London courts zitakua na mamlaka ya kusikiliza migogoro inayptokana nazo @global.terms_and_conditions ."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.privacy_policy
+#.      @global.app_name_full.
+#.      @global.privacy_policy
+#.      @global.privacy_policy.
+#.      @global.privacy_policy
+#.      @global.terms_and_conditions,
+#.      @global.privacy_policy.
+msgctxt "data_list"
+msgid ""
+"Your data is important to us. This @global.privacy_policy sets out our policies for the collection, use, and disclosure of personal data in the use of @global.app_name_full.\n"
+"\n"
+"Please read this @global.privacy_policy carefully. By downloading or using the app, you confirm to be informed concerning the collection and use of personal data in relation to this policy. We will not use or share your personal data with anyone except as described in this @global.privacy_policy.\n"
+"\n"
+"The terms used in this @global.privacy_policy have the same meanings as in our @global.terms_and_conditions, which are accessible within the app, unless otherwise defined in this @global.privacy_policy."
+msgstr ""
+"Taarifa zako ni muhimu kwetu. Hii @global.privacy_policy inaeleza  kuhusu sera zetu katika ukusanyaji, matumizi, na uchakataji wa data binafsi wakati wa kutumia @global.app_name_full.\n"
+"\n"
+"Tafadhari soma hii @global.privacy_policy kwa umakini. Kwa kupakua na kutumia programu hii unathibitisha kua umejulishwa kuhusu ukusanyaji na matumizi ya data binafsi. hatutashirikisha au kutuma data zako binafsi kwa mtu yoyote isipokua kama ilivyoelezwa katika @global.privacy_policy. \n"
+"\n"
+"masharti yaliotumika katika @global.privacy_policy yanamaana sawa na yaliopo kwenye @global.terms_and_conditions, ambayo yanapatikana ndani ya programu, isipokua yamefafanuliwa vinginevyo katika @global.privacy_policy."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Data Controller"
+msgstr "Mdhibiti wa Data"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"The data controller responsible for processing your information is \n"
+"Parenting for Lifelong Health, \n"
+"Barnett House, 32 Wellington Square, Oxford, OX1 2ER, United Kingdom"
+msgstr ""
+"Mdhibiti wa data anayehusika na uchakataji wa taarifa zako katika Parenting for Lifelong Health,\n"
+"Barnett House, 32 Wellington Square, Oxford, OX1 2ER, United Kingdom"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "What personal data does the app collect about you and how do we use it?"
+msgstr "Ni data gani binafsi programu hukusanya kukuhusu wewe na tunaitumiaje?"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @global.privacy_policy,
+#.      @global.app_name
+#.      @global.app_name_full
+msgctxt "data_list"
+msgid ""
+"For the purpose of this @global.privacy_policy, 'personal data' means any information that enables us to identify an individual, directly or indirectly. We collect data as follows:\n"
+"- Personal details (name; surname, gender, nationality, current country of residence);\n"
+"- Contact data (phone number);\n"
+"- Log data (IP address, device name, operating system version, configuration of the App when utilising our App, the time, date and your intentions within the App - which include but are not limited to any App buttons clicked or pages visited.)\n"
+"We also collect information about the number and age of your children that, however, is not personal data.\n"
+"\n"
+"All data collected is linked to your unique @global.app_name identification number. The ParentApp identification number produced within the app may also be used to link with any out-of-app surveys you may consent to as part of a @global.app_name_full research trial. If you are participating in a facilitated programme, your ParentApp identification number and app engagement data may also be shared with programme facilitators through an API for follow-up and support but will not be accompanied with personally identifiable information. \n"
+"\n"
+"\n"
+"1. **Categories of personal data processed**:\n"
+"-   Personal data\n"
+"-   Contact data\n"
+"-   Log data\n"
+"-   or any further personal data necessary to assert or defend one's rights in civil, administrative or criminal proceedings\n"
+"\n"
+"2. **Purposes of processing**:\n"
+"-   Providing the service (to provide parenting support including by communicating with you when you contact us)\n"
+"-   Protecting our rights and interests in case of litigation\n"
+"-   Feedback processing – you may provide us with feedback on the App. We always anonymise your personal information when sharing and publishing your feedback.\n"
+"\n"
+"3. **Legal Basis**:\n"
+"-   Performance of a contract \n"
+"-   Legitimate interests to protect our rights and interests\n"
+"\n"
+"4. **Data retention period**:\n"
+"-   We will retain your personal information for as long as you continue to use the App and for the period strictly necessary to achieve the relevant purposes. In any case, we will not process your data over 4 years after your last use of the App.\n"
+"-   We will retain your personal information for as long as for the period strictly necessary to achieve the relevant purposes."
+msgstr ""
+"Kwa madhumuni ya hii @global.privacy_policy, 'data binafsi' ikimaanisha taarifa yoyote inayoweza kutuwezesha kumtambua mtu, moja kwa moja au kwa njia isiyo ya moja kwa moja. Tunaikusanya kama ifuatavyo:\n"
+"- Taarifa binafsi (jina; jina la ukoo, jinsia, utaifa, nchi ya makazi ya sasa);\n"
+"- Taarifa za mawasiliano (namba ya simu);\n"
+"- Taarifa za kumbukumbu (anwani ya IP, jina la kifaa, toleo la mfumo wa uendeshaji, mpangilio wa Programu wakati unapotumia Programu yetu, muda, tarehe na matumizi yako ndani ya Programu – hii inajumuisha vitufe vyote ulivyobonyeza au kurasa ulizotembelea).\n"
+"Tunakusanya pia taarifa kuhusu idadi na umri wa watoto wako, na sio taarifa binafsi.\n"
+" \n"
+"Data yote inayokusanywa itaunganishwa na namba yako ya kipekee ya utambulisho ya @global.app_name. Namba yako ya utambulisho ya ParentApp inayotengenezwa ndani ya programu inaweza pia kutumika katika tafiti za nje ya programu utakazokubali kushiriki na kuwa sehemu ya utafiti wa @global.app_name_full.\n"
+"\n"
+"1. ** Makundi ya data binafsi zinazochakatwa**:\n"
+"-  Data binafsi\n"
+"-  Mawasiliano\n"
+"-  taarifa za kumbukumbu\n"
+"-  au taarifa binafsi nyingine  ambayo ni muhimu kwa ajili ya madai au kutetea haki katika mashauri ya kiraia, kitawala au ya jinai\n"
+"\n"
+"2. **Madhumuni ya uchakataji**:\n"
+"-  Kutoa huduma (kutoa msaada wa malezi ikiwemo kuwasiliana  nawe)\n"
+"-  Kulinda haki na maslahi yetu endapo endapo kutakua na  changamoto za kisheria\n"
+"- Kushughurikia maoni – unaweza kutupatia maoni kuhusu programu.Kumbuka taarifa zako binafsi ni siri wakati wote wa kushiriki na kuchapisha maoni yako.\n"
+"\n"
+"3. **Msingi wa sheria**:\n"
+"- Utekelezaji wa mikataba\n"
+"- Uhalali wa kulinda haki na maslahi yetu\n"
+"\n"
+"4. **Muda wa kuhifadhi data**:\n"
+"- Tutahifadhi taarifa zako binafsi kwa muda wote unapotumia Programu na kwa kipindi kilichohitajika kikamilifu kufanikisha madhumuni husika. Hata hivyo, hatutachakata dtaarifa zako zaidi ya miaka 4 baada ya matumizi yako ya mwisho ya Programu.\n"
+"- Tutahifadhi taarifa zako binafsi mda wote unaohusika kikamilifu kufanikisha madhumuhi husika."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Information Sharing and Third Party Service Providers and Websites"
+msgstr "Ushirikishaji wa taarifa na watoa huduma wengine na tovuti"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How long do we keep your data?"
 msgstr "Je, tunahifadhi taarifa yako kwa muda gani?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "We will retain your personal information for as long as you continue to use the app and keep the app installed on your phone as long as we need it to fulfill our purposes, including any relating to app services as well as legal, accounting, or reporting requirements. In any case, we will not process your data over 4 years after your last use of the app."
+msgstr "Tutahifadhi taarifa zako binafsi mda wote utakao kua unatumia programu na mda ambao program bado ipo kwenye simu yako ili kukamilisha madhumuni yetu, hii ni pamoja na huduma zote za programu na mahitaji yote ya kisheria, uhasibu, au ripoti. Hata hivyo, hatutachakata data zako zaidi ya miaka 4 baada ya matumizi yako ya mwisho ya programu."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "How do we keep your data secure?"
 msgstr "Je, tunawekaje taarifa zako salama?"
+
+#. type=data_list
+#. The string @global.app_name_full should not be translated.
+msgctxt "data_list"
+msgid "We value your trust in providing us your personal information, thus we are striving to use commercially acceptable means of protecting it. We reserve the right to the storage of your data on third party servers or databases outside of the listed @global.app_name_full team (refer to the section on Third Party Service Providers and Websites) that provide security measures compliant with applicable privacy laws and regulations."
+msgstr "Tunakuthamini na tunakuamini katika kutupa taarifa zako binafsi, hivyo tunahitaji kutumia njia zinazokubalika ili kukulinda. hivyo taarifa zako zote zitaifadhiwa na haki yake kwa kutunzwa hata kwa watoa huduma wengine wa tovuti kama ilivyo hainishwa na @global.app_name_full ambazo hutoa hatua za usalama zinazokidhi sheria na kanunu za usiri/ faragha."
 
 #. type=data_list
 msgctxt "data_list"
@@ -194,8 +328,18 @@ msgstr "Faragha ya Watoto"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "If you are under the age of 18 you are not allowed to use this app. We do not knowingly collect personally identifiable information from individuals under 18. If we become aware that a user under 18 has submitted personal data without verifiable parental consent, we will delete such information as quickly as possible."
+msgstr "Iwapo upo chini ya miaka 18 hauruhusiwi kutumia programu hii. hatutakusanya taarifa binafsi kutoka kwa mtu alie chini ya miaka 18, na ikatokea tukatambua mtu chini ya miaka 18 ametoa taarifa binafsi bila idhini ya wazazi, tutafuta taarifa hiyo haraka iwezekanavyo."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Your data protection rights"
 msgstr "Haki zako za ulinzi wa taarifa"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Removing the App"
+msgstr "Kuondoa programu"
 
 #. type=data_list
 msgctxt "data_list"
@@ -207,6 +351,16 @@ msgstr "Samahani ikiwa unaona programu tumishi yetu haina maana tena. Iwapo utaa
 msgctxt "data_list"
 msgid "Changes to the @global.privacy_policy"
 msgstr "Mabadiliko ya @global.privacy_policy"
+
+#. type=data_list
+#. The string @global.privacy_policy should not be translated.
+msgctxt "data_list"
+msgid ""
+"We may update our @global.privacy_policy from time to time. We will notify you in advance if any substantial changes will occur. \n"
+"Please review this page periodically for any updates."
+msgstr ""
+"Tunaweza kuboresha@global.privacy_policy mara kwa mara. Tutakutaarifu mapema ikiwa mabadiliko yoyote yatatokea.\n"
+"Tafadhali angalia ukurasa huu mara kwa mara ikiwa kuna maboresho yoyote."
 
 #. type=data_list
 msgctxt "data_list"
