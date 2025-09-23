@@ -11,7 +11,13 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-09-23 10:37\n"
+"PO-Revision-Date: 2025-09-23 15:29\n"
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
+msgstr "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 2 hadi 9. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu."
 
 #. type=data_list
 msgctxt "data_list"
@@ -60,8 +66,28 @@ msgstr "Hakuna kati ya zilizo hapo juu"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Bibi"
+msgstr "Grandmother"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Babu"
+msgstr "Greangfather"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Mama"
 msgstr "Mama"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mjomba"
+msgstr "Uncle"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Baba"
+msgstr "Father"
 
 #. type=data_list
 msgctxt "data_list"
@@ -72,6 +98,11 @@ msgstr "Pata muda wa kupumzika"
 msgctxt "data_list"
 msgid "Check-in"
 msgstr "Ukaguzi wa kihisia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Today's Topic"
+msgstr "Mada ya leo"
 
 #. type=data_list
 msgctxt "data_list"
@@ -498,6 +529,11 @@ msgstr "Asante kwa kushirikisha changamoto zako. Tutatumia mrjesho huu @local.ap
 msgctxt "global"
 msgid "Tap and type"
 msgstr "Bofya na uandike"
+
+#. type=global
+msgctxt "global"
+msgid "FurahaApp"
+msgstr "FurahaApp"
 
 #. type=global
 msgctxt "global"
