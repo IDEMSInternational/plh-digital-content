@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-09-23 21:41\n"
+"PO-Revision-Date: 2025-09-24 16:27\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -169,6 +169,11 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
+msgid "How old is your child?"
+msgstr "Mtoto wako ana umri gani?"
+
+#. type=global
+msgctxt "global"
 msgid "Enter age"
 msgstr "Ingiza umri"
 
@@ -177,6 +182,18 @@ msgstr "Ingiza umri"
 msgctxt "global"
 msgid "@global.app_name only supports parents of children between 10 and 17."
 msgstr "@global.app_name inawaunga mkono tu wazazi wa watoto wenye umri kati ya miaka 10 na 17."
+
+#. type=global
+#. The string @fields.user_name.** should not be translated.
+msgctxt "global"
+msgid ""
+"**Thanks @fields.user_name.**\n"
+"\n"
+"Can you tell me more about your child?"
+msgstr ""
+"**Asante @fields.user_name.**\n"
+"\n"
+"Unaweza kuniambia zaidi kuhusu mtoto wako?"
 
 #. type=global
 msgctxt "global"
