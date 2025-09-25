@@ -7,9 +7,12 @@ msgstr ""
 #.      @global.app_name
 #.      @global.app_name
 #.      @global.app_name
+#.      @global.app_name
 msgctxt "data_list"
 msgid ""
 "@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years. @global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n"
+"\n"
+"Illustrations in @global.app_name help explain parenting skills. They are original works by Orli Setton created for Parenting for Lifelong Health, and shared under a CC BY-SA 4.0 International licence.\n"
 "\n"
 "The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
 msgstr ""
@@ -27,26 +30,6 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "IDEMS"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Partners"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Woman"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Man"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Prefer not to say"
 msgstr ""
 
 #. type=data_list
@@ -69,6 +52,42 @@ msgctxt "data_list"
 msgid "None of the above"
 msgstr ""
 
+#. type=data_list
+msgctxt "data_list"
+msgid "Woman"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Man"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Prefer not to say"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Partners"
+msgstr ""
+
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "Welcome to @global.app_name"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Please select your gender"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "I am a..."
+msgstr ""
+
 #. type=global
 #. The string @global.app_name should not be translated.
 msgctxt "global"
@@ -78,26 +97,6 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "User ID"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Login"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Logout"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "You are logged in."
 msgstr ""
 
 #. type=global
@@ -113,6 +112,41 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Tap and choose"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "You are logged in."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Delete account"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Are you sure you want to delete your account?"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "This action is permanent and cannot be undone. You will lose all your progress."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Yes"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "No"
 msgstr ""
 
 #. type=global
@@ -499,6 +533,11 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
+msgid "Sign in with Apple"
+msgstr ""
+
+#. type=global
+msgctxt "global"
 msgid "Sign out"
 msgstr ""
 
@@ -556,87 +595,69 @@ msgctxt "global"
 msgid "Load saved progress"
 msgstr ""
 
-#. type=global
-#. The string @global.app_name should not be translated.
-msgctxt "global"
-msgid "Welcome to @global.app_name"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Please select your gender"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "I am a..."
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.current_module_id
+#.      @local.completed_count
+msgctxt "template"
+msgid ""
+"Current Module: @local.current_module_id\n"
+"Completed Count: @local.completed_count"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Templates"
+msgid "Debug"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.id
+#.      @local.current_module_id
+#.      @item.completed
+msgctxt "template"
+msgid "@item.id == @local.current_module_id || @item.completed"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Dynamic data"
+msgid "🟢Unlocked"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Reset app"
+msgid "🔒Locked"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Open feedback"
+msgid "Copy code"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Close feedback"
+msgid "Copied!"
+msgstr ""
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Developer mode"
+msgid "This device has never been synced. Sync to reveal your code."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Exit developer mode"
-msgstr ""
-
-#. type=template
-#. The string @global.app_name should not be translated.
-msgctxt "template"
-msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
+msgid "Sync now"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Restart"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Change countdown days"
-msgstr ""
-
-#. type=template
-#. The string @local.countdown_days should not be translated.
-msgctxt "template"
-msgid "Countdown days: @local.countdown_days"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Choose a number of days to count down"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Save"
+msgid "Syncing..."
 msgstr ""
 
 #. type=template
@@ -671,24 +692,30 @@ msgid "Enter developer mode"
 msgstr ""
 
 #. type=template
+#. The string @global.app_name should not be translated.
 msgctxt "template"
-msgid "Import user"
+msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "User ID"
+msgid "Restart"
 msgstr ""
 
 #. type=template
-#. The string @local.user_id_name should not be translated.
+#. The string @local.countdown_days should not be translated.
 msgctxt "template"
-msgid "Paste the @local.user_id_name to import their account data."
+msgid "Countdown days: @local.countdown_days"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Import data"
+msgid "Choose a number of days to count down"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Save"
 msgstr ""
 
 #. type=template
@@ -698,31 +725,45 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Copy code"
+msgid "Change countdown days"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Copied!"
-msgstr ""
-
-#. type=template
-#. The string @local.sync_latest should not be translated.
-msgctxt "template"
-msgid "Last sync at: @local.sync_latest"
+msgid "Templates"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "This device has never been synced. Sync to reveal your code."
+msgid "Dynamic data"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Sync now"
+msgid "Reset app"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Syncing..."
+msgid "Open feedback"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Close feedback"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Import user"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Developer mode"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Exit developer mode"
 msgstr ""
