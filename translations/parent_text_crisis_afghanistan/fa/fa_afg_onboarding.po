@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Dari\n"
 "\n"
 "Language: fa_AF\n"
-"PO-Revision-Date: 2025-09-10 10:42\n"
+"PO-Revision-Date: 2025-09-29 10:56\n"
 
 #. type=text
 msgctxt "text"
@@ -74,11 +74,6 @@ msgstr "✅ معلومات ناشناس شما ممکن است با دیگران
 msgctxt "text"
 msgid "❌You can stop when you want. Just type {STOP}"
 msgstr "❌ هر زمان که خواستید، می‌توانید متوقف کنید. فقط کلمه {STOP} را بنویسید"
-
-#. type=text
-msgctxt "text"
-msgid "✅ To read our privacy policy, visit {consent}. If you are over 18 and consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate."
-msgstr "✅ برای خواندن پالیسی محرمیت ما، به {consent} مراجعه نمایید. اگر بالاتر از ۱۸ سال سن دارید و با پالیسی محرمیت ما موافق هستید، گزینه \"بلی\" را انتخاب کنید. اگر نمی‌خواهید در برنامه اشتراک کنید، کلمه\"خروج\" را بنویسید."
 
 #. type=text
 msgctxt "text"
@@ -245,6 +240,12 @@ msgstr "بالای 55 سال سن"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Prefer not to say"
+msgstr "ترجیع میدهم جواب ندهم"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Woman"
 msgstr "زن"
 
@@ -253,12 +254,6 @@ msgstr "زن"
 msgctxt "quick_replies"
 msgid "Man"
 msgstr "مرد"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Prefer not to say"
-msgstr "ترجیع میدهم جواب ندهم"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -401,6 +396,12 @@ msgstr "بالای 55 سال سن"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "prefer not to say"
+msgstr "ترجیع میدهم پاسخ ندهم"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "woman"
 msgstr "زن"
 
@@ -409,12 +410,6 @@ msgstr "زن"
 msgctxt "arguments"
 msgid "man"
 msgstr "مرد"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "prefer not to say"
-msgstr "ترجیع میدهم پاسخ ندهم"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
