@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2025-09-24 10:24\n"
+"PO-Revision-Date: 2025-09-29 10:56\n"
 
 #. type=text
 msgctxt "text"
@@ -127,33 +127,8 @@ msgstr "Приємно бачити вас знову в {prog_name}."
 
 #. type=text
 msgctxt "text"
-msgid "Are you sure you want to stop receiving tips?"
-msgstr "Ви впевнені, що хочете припинити отримувати поради?"
-
-#. type=text
-msgctxt "text"
-msgid "If you do not want to receive any more messages, please type \"EXIT\"."
-msgstr "Якщо ви більше не хочете отримувати повідомлення, будь ласка, введіть «ВИХІД»."
-
-#. type=text
-msgctxt "text"
-msgid "If you made a mistake, please type \"BACK\"."
-msgstr "Якщо ви помилилися, будь ласка, введіть «НАЗАД»."
-
-#. type=text
-msgctxt "text"
-msgid "Thank you for participating. If you want to return to continue receiving tips, type HELLO. "
-msgstr "Дякуємо за участь! Якщо ви хочете повернутися й знову отримувати поради, введіть «ПРИВІТ». "
-
-#. type=text
-msgctxt "text"
 msgid "We hope to see you again soon."
 msgstr "Сподіваємося скоро знову вас побачити."
-
-#. type=text
-msgctxt "text"
-msgid "We are so glad you want to stick around! We will resume your progress tomorrow."
-msgstr "Раді, що ви вирішили залишитися з нами! Продовжимо завтра."
 
 #. type=text
 msgctxt "text"
@@ -493,18 +468,8 @@ msgstr "Ви отримуєте інформацію з"
 
 #. type=text
 msgctxt "text"
-msgid "You didn't provide this info."
-msgstr "Ви не надали цю інформацію."
-
-#. type=text
-msgctxt "text"
 msgid "Would you like to change it?"
 msgstr "Бажаєте це змінити?"
-
-#. type=text
-msgctxt "text"
-msgid "Great! Your media guide is now updated 🎉"
-msgstr "Чудово! Медіа оновлено 🎉"
 
 #. type=text
 msgctxt "text"
@@ -535,6 +500,16 @@ msgstr "Бажаєте оновити інформацію про вашу ст�
 msgctxt "text"
 msgid "Done! Your gender is now updated."
 msgstr "Готово! Інформація про стать оновлена."
+
+#. type=text
+msgctxt "text"
+msgid "Great! Your media guide is now updated 🎉"
+msgstr "Чудово! Медіа оновлено 🎉"
+
+#. type=text
+msgctxt "text"
+msgid "You didn't provide this info."
+msgstr "Ви не надали цю інформацію."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -671,12 +646,6 @@ msgstr "Перейти до Головного Меню"
 msgctxt "quick_replies"
 msgid "Exit menu"
 msgstr "Вийти з Меню"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "BACK"
-msgstr "НАЗАД"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -983,18 +952,6 @@ msgstr "отримати ще одну пораду"
 msgctxt "arguments"
 msgid "exit menu"
 msgstr "вийти з меню"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "exit"
-msgstr "вихід"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "back"
-msgstr "назад"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
