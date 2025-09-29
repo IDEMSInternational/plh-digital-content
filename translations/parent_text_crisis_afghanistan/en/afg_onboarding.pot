@@ -39,6 +39,21 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "Before we begin, {prog_name} is only for people 18 years and older. Are you 18 years or above?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Do you confirm that you are under the age of 18?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for being honest 💛 {prog_name} is only for people 18+. Please talk to a trusted adult who can support you. If they’d like to join, they can type {joining_trigger}.  🌸"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "🧡 You are a great parent. Thank you for joining us. "
 msgstr ""
 
@@ -64,7 +79,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "✅ To read our privacy policy, visit {consent}. If you are over 18 and consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate."
+msgid "✅ To read our privacy policy, visit {consent}. If you consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate."
 msgstr ""
 
 #. type=text
@@ -172,6 +187,30 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Yes, I am 18 years old or older"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, I am under 18"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, I am under 18"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, take me back to the question"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "YES"
 msgstr ""
 
@@ -226,7 +265,19 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "45-54 years old"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Over 55 years old"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Prefer not to say"
 msgstr ""
 
 #. type=quick_replies
@@ -239,12 +290,6 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Man"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Prefer not to say"
 msgstr ""
 
 #. type=quick_replies
@@ -328,6 +373,30 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "yes, i am 18 years old or older"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, i am under 18"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, take me back to the question"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes, i am under 18"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "yes"
 msgstr ""
 
@@ -382,7 +451,19 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "45-54 years old"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "over 55 years old"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "prefer not to say"
 msgstr ""
 
 #. type=arguments
@@ -395,12 +476,6 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "man"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "prefer not to say"
 msgstr ""
 
 #. type=arguments
