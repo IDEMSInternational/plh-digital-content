@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Romanian\n"
 "\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2025-09-17 14:55\n"
+"PO-Revision-Date: 2025-09-29 16:55\n"
 
 #. type=text
 msgctxt "text"
@@ -74,11 +74,6 @@ msgstr "✅Informațiile tale anonime pot fi, de asemenea, partajate cu alte per
 msgctxt "text"
 msgid "❌You can stop when you want. Just type {STOP}"
 msgstr "❌Poți opri când dorești. Doar tastează {STOP}"
-
-#. type=text
-msgctxt "text"
-msgid "✅ To read our privacy policy, visit {consent}. If you are over 18 and consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate."
-msgstr "✅ Pentru a citi politica noastră de confidențialitate, accesează {consent}. Dacă ai peste 18 ani și ești de acord cu politica noastră de confidențialitate, selectează DA. Tastează \"IEȘIRE\" dacă nu vrei să participi."
 
 #. type=text
 msgctxt "text"
@@ -261,6 +256,12 @@ msgstr "Peste 55 ani"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Prefer not to say"
+msgstr "Prefer să nu răspund"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Woman"
 msgstr "Femeie"
 
@@ -269,12 +270,6 @@ msgstr "Femeie"
 msgctxt "quick_replies"
 msgid "Man"
 msgstr "Bărbat"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Prefer not to say"
-msgstr "Prefer să nu răspund"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -375,12 +370,6 @@ msgstr "Studii superioare"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Prefer not to answer"
-msgstr "Prefer să nu răspund"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Video"
 msgstr "Video"
 
@@ -477,6 +466,12 @@ msgstr "peste 55 ani"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "prefer not to say"
+msgstr "prefer să nu răspund"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "woman"
 msgstr "femeie"
 
@@ -485,12 +480,6 @@ msgstr "femeie"
 msgctxt "arguments"
 msgid "man"
 msgstr "bărbat"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "prefer not to say"
-msgstr "prefer să nu răspund"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -587,12 +576,6 @@ msgstr "liceul/școala profesională"
 msgctxt "arguments"
 msgid "higher education"
 msgstr "studii superioare"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "prefer not to answer"
-msgstr "prefer să nu răspund"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
