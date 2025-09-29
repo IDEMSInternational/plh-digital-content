@@ -11,22 +11,7 @@ msgstr ""
 "Language-Team: Arabic\n"
 "\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-02-19 23:09\n"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @global.app_name
-#.      @global.app_name
-#.      @global.app_name
-msgctxt "data_list"
-msgid ""
-"@global.app_name is a free app version of the Parenting for Lifelong Health for Young Children programme and designed for parents and caregivers of children aged 2 to 9 years. @global.app_name is brought to you by the collaboration of partners including Parenting for Lifelong Health, University of Oxford, IDEMS International, INNODEMS, and the Child Protection Office in the Ministry of Health - State of Kuwait (‘the @global.app_name team’).\n"
-"\n"
-"The content herein is available under an open source Creative Commons International 4.0 license. It was developed in collaboration with key partners:"
-msgstr ""
-"إن @global.app_name نسخة مجانية من برنامج الوالدية من أجل صحة مدى الحياة للأطفال الصغار وهو مصمم للوالدين ومقدمي الرعاية للأطفال الذين تتراوح أعمارهم بين 2 إلى 9 سنوات. قُدم @global.app_name إليكم من خلال التعاون بين الشركاء بما في ذلك منظمة الوالدية من أجل صحة مدى الحياة وجامعة أكسفورد و INNODEMS ومكتب حماية الطفل في وزارة الصحة – دولة الكويت (فريق @global.app_name)\n"
-"\n"
-"إن المحتوى الموجود متاح بموجب رخصة Creative Commons International 4.0. تم تطويره بالتعاون مع شركاء رئيسيين:"
+"PO-Revision-Date: 2025-09-29 09:40\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -42,26 +27,6 @@ msgstr "منظمة الوالدية من أجل صحة مدى الحياة"
 msgctxt "data_list"
 msgid "IDEMS"
 msgstr "IDEMS"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Partners"
-msgstr "الشركاء"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Woman"
-msgstr "أنثى"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Man"
-msgstr "ذكر"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Prefer not to say"
-msgstr "أفضل ألا أقول"
 
 #. type=data_list
 msgctxt "data_list"
@@ -83,6 +48,42 @@ msgctxt "data_list"
 msgid "None of the above"
 msgstr "لا شيء مما سبق"
 
+#. type=data_list
+msgctxt "data_list"
+msgid "Woman"
+msgstr "أنثى"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Man"
+msgstr "ذكر"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Prefer not to say"
+msgstr "أفضل ألا أقول"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Partners"
+msgstr "الشركاء"
+
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "Welcome to @global.app_name"
+msgstr "مرحباً بك في تطبيق @global.app_name"
+
+#. type=global
+msgctxt "global"
+msgid "Please select your gender"
+msgstr "الجنس"
+
+#. type=global
+msgctxt "global"
+msgid "I am a..."
+msgstr "أنا..."
+
 #. type=global
 #. The string @global.app_name should not be translated.
 msgctxt "global"
@@ -93,26 +94,6 @@ msgstr "نبذة عن @global.app_name"
 msgctxt "global"
 msgid "User ID"
 msgstr "معرف المستخدم"
-
-#. type=global
-msgctxt "global"
-msgid "Login"
-msgstr "تسجيل الدخول"
-
-#. type=global
-msgctxt "global"
-msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
-msgstr "هل ترغب في إنشاء حساب؟ سيسمح لك هذا الخيار باستعادة بياناتك في حالة فقدان جهازك."
-
-#. type=global
-msgctxt "global"
-msgid "Logout"
-msgstr "تسجيل الخروج"
-
-#. type=global
-msgctxt "global"
-msgid "You are logged in."
-msgstr "لقد قمت بتسجيل الدخول."
 
 #. type=global
 msgctxt "global"
@@ -128,6 +109,26 @@ msgstr "٥ ديسمبر ٢٠٢٤"
 msgctxt "global"
 msgid "Tap and choose"
 msgstr "اضغط واختر"
+
+#. type=global
+msgctxt "global"
+msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
+msgstr "هل ترغب في إنشاء حساب؟ سيسمح لك هذا الخيار باستعادة بياناتك في حالة فقدان جهازك."
+
+#. type=global
+msgctxt "global"
+msgid "You are logged in."
+msgstr "لقد قمت بتسجيل الدخول."
+
+#. type=global
+msgctxt "global"
+msgid "Yes"
+msgstr "نعم"
+
+#. type=global
+msgctxt "global"
+msgid "No"
+msgstr "لا"
 
 #. type=global
 msgctxt "global"
@@ -575,88 +576,36 @@ msgctxt "global"
 msgid "Load saved progress"
 msgstr "تحميل التقدم المحفوظ سابقاً"
 
-#. type=global
-#. The string @global.app_name should not be translated.
-msgctxt "global"
-msgid "Welcome to @global.app_name"
-msgstr "مرحباً بك في تطبيق @global.app_name"
-
-#. type=global
-msgctxt "global"
-msgid "Please select your gender"
-msgstr "الجنس"
-
-#. type=global
-msgctxt "global"
-msgid "I am a..."
-msgstr "أنا..."
+#. type=template
+msgctxt "template"
+msgid "Copy code"
+msgstr "نسخ الرمز"
 
 #. type=template
 msgctxt "template"
-msgid "Templates"
-msgstr "القوالب"
+msgid "Copied!"
+msgstr "منسوخ"
+
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "آخر مزامنة في: @local.sync_latest"
 
 #. type=template
 msgctxt "template"
-msgid "Dynamic data"
-msgstr "البيانات المتغيرة"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "لم تتم مزامنة هذا الجهاز مطلقًا. قم بالمزامنة للكشف عن الرمز الخاص بك."
 
 #. type=template
 msgctxt "template"
-msgid "Reset app"
-msgstr "إعادة ضبط التطبيق"
+msgid "Sync now"
+msgstr "ابدأ المزامنة الآن"
 
 #. type=template
 msgctxt "template"
-msgid "Open feedback"
-msgstr "فتح الملاحظات"
-
-#. type=template
-msgctxt "template"
-msgid "Close feedback"
-msgstr "إغلاق الملاحظات"
-
-#. type=template
-msgctxt "template"
-msgid "Developer mode"
-msgstr "وضع المبرمج"
-
-#. type=template
-msgctxt "template"
-msgid "Exit developer mode"
-msgstr "الخروج من وضع المبرمج"
-
-#. type=template
-#. The string @global.app_name should not be translated.
-msgctxt "template"
-msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
-msgstr "قام @global.app_name بتنزيل تحديث. يرجى إعادة تشغيل التطبيق لإكمال التثبيت."
-
-#. type=template
-msgctxt "template"
-msgid "Restart"
-msgstr "إعادة تشغيل"
-
-#. type=template
-msgctxt "template"
-msgid "Change countdown days"
-msgstr "تغيير أيام العد التنازلي"
-
-#. type=template
-#. The string @local.countdown_days should not be translated.
-msgctxt "template"
-msgid "Countdown days: @local.countdown_days"
-msgstr "أيام العد التنازلي: @local.countdown_days"
-
-#. type=template
-msgctxt "template"
-msgid "Choose a number of days to count down"
-msgstr "اختر عدد الأيام للعد التنازلي"
-
-#. type=template
-msgctxt "template"
-msgid "Save"
-msgstr "حفظ"
+msgid "Syncing..."
+msgstr "المزامنة..."
 
 #. type=template
 msgctxt "template"
@@ -690,25 +639,31 @@ msgid "Enter developer mode"
 msgstr "ادخل إلى وضع المبرمج"
 
 #. type=template
+#. The string @global.app_name should not be translated.
 msgctxt "template"
-msgid "Import user"
-msgstr "استيراد المستخدم"
+msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
+msgstr "قام @global.app_name بتنزيل تحديث. يرجى إعادة تشغيل التطبيق لإكمال التثبيت."
 
 #. type=template
 msgctxt "template"
-msgid "User ID"
-msgstr "رقم المستخدم"
+msgid "Restart"
+msgstr "إعادة تشغيل"
 
 #. type=template
-#. The string @local.user_id_name should not be translated.
+#. The string @local.countdown_days should not be translated.
 msgctxt "template"
-msgid "Paste the @local.user_id_name to import their account data."
-msgstr "قم بلصق @local.user_id_name لاستيراد بيانات الحساب."
+msgid "Countdown days: @local.countdown_days"
+msgstr "أيام العد التنازلي: @local.countdown_days"
 
 #. type=template
 msgctxt "template"
-msgid "Import data"
-msgstr "استيراد البيانات"
+msgid "Choose a number of days to count down"
+msgstr "اختر عدد الأيام للعد التنازلي"
+
+#. type=template
+msgctxt "template"
+msgid "Save"
+msgstr "حفظ"
 
 #. type=template
 msgctxt "template"
@@ -717,32 +672,46 @@ msgstr "استمرار"
 
 #. type=template
 msgctxt "template"
-msgid "Copy code"
-msgstr "نسخ الرمز"
+msgid "Change countdown days"
+msgstr "تغيير أيام العد التنازلي"
 
 #. type=template
 msgctxt "template"
-msgid "Copied!"
-msgstr "منسوخ"
-
-#. type=template
-#. The string @local.sync_latest should not be translated.
-msgctxt "template"
-msgid "Last sync at: @local.sync_latest"
-msgstr "آخر مزامنة في: @local.sync_latest"
+msgid "Templates"
+msgstr "القوالب"
 
 #. type=template
 msgctxt "template"
-msgid "This device has never been synced. Sync to reveal your code."
-msgstr "لم تتم مزامنة هذا الجهاز مطلقًا. قم بالمزامنة للكشف عن الرمز الخاص بك."
+msgid "Dynamic data"
+msgstr "البيانات المتغيرة"
 
 #. type=template
 msgctxt "template"
-msgid "Sync now"
-msgstr "ابدأ المزامنة الآن"
+msgid "Reset app"
+msgstr "إعادة ضبط التطبيق"
 
 #. type=template
 msgctxt "template"
-msgid "Syncing..."
-msgstr "المزامنة..."
+msgid "Open feedback"
+msgstr "فتح الملاحظات"
+
+#. type=template
+msgctxt "template"
+msgid "Close feedback"
+msgstr "إغلاق الملاحظات"
+
+#. type=template
+msgctxt "template"
+msgid "Import user"
+msgstr "استيراد المستخدم"
+
+#. type=template
+msgctxt "template"
+msgid "Developer mode"
+msgstr "وضع المبرمج"
+
+#. type=template
+msgctxt "template"
+msgid "Exit developer mode"
+msgstr "الخروج من وضع المبرمج"
 
