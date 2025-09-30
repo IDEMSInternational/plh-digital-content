@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2025-09-16 08:17\n"
+"PO-Revision-Date: 2025-09-29 16:56\n"
 
 #. type=text
 msgctxt "text"
@@ -69,11 +69,6 @@ msgstr "✅ Вашу анонімну інформацію можуть вико
 msgctxt "text"
 msgid "❌You can stop when you want. Just type {STOP}"
 msgstr "❌ Ви можете зупинитися в будь-який момент. Просто надішліть {STOP}"
-
-#. type=text
-msgctxt "text"
-msgid "✅ To read our privacy policy, visit {consent}. If you are over 18 and consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate."
-msgstr "✅ Щоб ознайомитися з нашою політикою конфіденційності, перейдіть за посиланням: {consent}. Якщо вам понад 18 років і ви погоджуєтеся з політикою конфіденційності, оберіть «ТАК». Якщо не бажаєте брати участь, наберіть «ВИХІД»."
 
 #. type=text
 msgctxt "text"
@@ -250,6 +245,12 @@ msgstr "Більше 55 років"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Prefer not to say"
+msgstr "Надаю перевагу не казати"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Woman"
 msgstr "Жінка"
 
@@ -258,12 +259,6 @@ msgstr "Жінка"
 msgctxt "quick_replies"
 msgid "Man"
 msgstr "Чоловік"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Prefer not to say"
-msgstr "Надаю перевагу не казати"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -430,6 +425,12 @@ msgstr "понад 55 років"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "prefer not to say"
+msgstr "надаю перевагу не казати"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "woman"
 msgstr "жінка"
 
@@ -438,12 +439,6 @@ msgstr "жінка"
 msgctxt "arguments"
 msgid "man"
 msgstr "чоловік"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "prefer not to say"
-msgstr "надаю перевагу не казати"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
