@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Romanian\n"
 "\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2025-09-29 16:55\n"
+"PO-Revision-Date: 2025-09-30 11:45\n"
 
 #. type=text
 msgctxt "text"
@@ -52,6 +52,21 @@ msgstr "✅ În {prog_name} vei primi lecții care să te ajute să-ți susții 
 
 #. type=text
 msgctxt "text"
+msgid "Before we begin, {prog_name} is only for people 18 years and older. Are you 18 years or above?"
+msgstr "Înainte de a începe, {prog_name} este destinat numai persoanelor cu vârsta de peste 18 ani. Ai peste 18 ani?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you confirm that you are under the age of 18?"
+msgstr "Confirmi că ai sub 18 ani?"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for being honest 💛 {prog_name} is only for people 18+. Please talk to a trusted adult who can support you. If they’d like to join, they can type {joining_trigger}.  🌸"
+msgstr "Îți mulțumim pentru sinceritate 💛 {prog_name} este destinată numai persoanelor cu vârsta peste 18 ani. Te rugăm să discuți cu un adult de încredere care te poate sprijini. Dacă dorește să se alăture, poate tasta {joining_trigger}.  🌸"
+
+#. type=text
+msgctxt "text"
 msgid "🧡 You are a great parent. Thank you for joining us. "
 msgstr "🧡 Ești un părinte minunat. Îți mulțumim că ni te-ai alăturat. "
 
@@ -74,6 +89,11 @@ msgstr "✅Informațiile tale anonime pot fi, de asemenea, partajate cu alte per
 msgctxt "text"
 msgid "❌You can stop when you want. Just type {STOP}"
 msgstr "❌Poți opri când dorești. Doar tastează {STOP}"
+
+#. type=text
+msgctxt "text"
+msgid "✅ To read our privacy policy, visit {consent}. If you consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate."
+msgstr "✅ Pentru a citi politica noastră de confidențialitate, accesează {consent}. Dacă ești de acord cu politica noastră de confidențialitate, selectează DA. Tastează „IEȘIRE” dacă nu dorești să participi."
 
 #. type=text
 msgctxt "text"
@@ -186,6 +206,30 @@ msgstr "English"
 msgctxt "quick_replies"
 msgid "Romanian"
 msgstr "Română"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, I am 18 years old or older"
+msgstr "Da, am 18 ani sau mai mult"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, I am under 18"
+msgstr "Nu, am sub 18 ani"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, I am under 18"
+msgstr "Da, am sub 18 ani"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, take me back to the question"
+msgstr "Nu, du-mă înapoi la întrebare"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -400,6 +444,30 @@ msgstr "română"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "yes, i am 18 years old or older"
+msgstr "da, am 18 ani sau mai mult"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, i am under 18"
+msgstr "nu, am sub 18 ani"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, take me back to the question"
+msgstr "nu, du-mă înapoi la întrebare"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes, i am under 18"
+msgstr "da, am sub 18 ani"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "yes"
 msgstr "da"
 
@@ -407,6 +475,12 @@ msgstr "da"
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "exit"
+msgstr "ieșire"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exti"
 msgstr "ieșire"
 
 #. type=arguments
