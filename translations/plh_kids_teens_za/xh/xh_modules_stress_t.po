@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-09-05 08:32\n"
+"PO-Revision-Date: 2025-10-01 18:22\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -325,9 +325,10 @@ msgstr ""
 "Singasebenzisa umfanekiso ongengowenyani ka 'kaAunty Cecilia' njengeGama loKhuseleko? Itsho nje into malunga noAunt Cecilia, Ndiyathembisa into yokuba ndizakuzama kangangoko ndinako ukunceda kwaye andizukhathazeka -- noba wenza into ongamelanga ukuba uyayenza."
 
 #. type=data_list
+#. The string @data.characters.f1_father.role_name, should not be translated.
 msgctxt "data_list"
-msgid "Hey father, how is Aunty Cecilia doing now?"
-msgstr "Hey tata, unjani uAunty Cecilia ngoku?"
+msgid "Hey @data.characters.f1_father.role_name, how is Aunty Cecilia doing now?"
+msgstr "Hey @data.characters.f1_father.role_name, unjani uAunty Cecilia ngoku?"
 
 #. type=data_list
 msgctxt "data_list"
