@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2025-09-29 16:56\n"
+"PO-Revision-Date: 2025-10-02 00:41\n"
 
 #. type=text
 msgctxt "text"
@@ -47,6 +47,21 @@ msgstr "✅ У {prog_name} ви отримуватимете короткі ур
 
 #. type=text
 msgctxt "text"
+msgid "Before we begin, {prog_name} is only for people 18 years and older. Are you 18 years or above?"
+msgstr "Перед тим, як почати, {prog_name} призначений лише для осіб від 18 років. Вам 18 років або більше?"
+
+#. type=text
+msgctxt "text"
+msgid "Do you confirm that you are under the age of 18?"
+msgstr "Чи підтверджуєте ви, що вам менше 18 років?"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for being honest 💛 {prog_name} is only for people 18+. Please talk to a trusted adult who can support you. If they’d like to join, they can type {joining_trigger}.  🌸"
+msgstr "Дякуємо за чесність 💛 {prog_name} призначений лише для людей від 18 років. Будь ласка, поговоріть з дорослим, якому ви довіряєте і хто може вас підтримати. Якщо вони хочуть приєднатися, нехай надішлють слово {joining_trigger}. 🌸"
+
+#. type=text
+msgctxt "text"
 msgid "🧡 You are a great parent. Thank you for joining us. "
 msgstr "🧡 Ви — турботливі батьки. Дякуємо, що ви з нами. "
 
@@ -69,6 +84,11 @@ msgstr "✅ Вашу анонімну інформацію можуть вико
 msgctxt "text"
 msgid "❌You can stop when you want. Just type {STOP}"
 msgstr "❌ Ви можете зупинитися в будь-який момент. Просто надішліть {STOP}"
+
+#. type=text
+msgctxt "text"
+msgid "✅ To read our privacy policy, visit {consent}. If you consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate."
+msgstr "✅ Щоб ознайомитися з нашою політикою конфіденційності, відкрийте {consent}. Якщо ви погоджуєтеся з нашою політикою, оберіть \"ТАК\". Введіть \"ВИХІД\", якщо не хочете брати участь."
 
 #. type=text
 msgctxt "text"
@@ -185,6 +205,30 @@ msgstr "Українська"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Yes, I am 18 years old or older"
+msgstr "Так, мені 18 років або більше"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, I am under 18"
+msgstr "Ні, мені менше 18 років"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, I am under 18"
+msgstr "Так, мені менше 18 років"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, take me back to the question"
+msgstr "Ні, повернутись до питання"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "YES"
 msgstr "ТАК"
 
@@ -235,6 +279,12 @@ msgstr "25-34 роки"
 msgctxt "quick_replies"
 msgid "35-44 years old"
 msgstr "35-44 "
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "45-54 years old"
+msgstr "45-54 років"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -365,6 +415,30 @@ msgstr "українська"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "yes, i am 18 years old or older"
+msgstr "так, мені 18 років або більше"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, i am under 18"
+msgstr "ні, мені менше 18-ти років"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, take me back to the question"
+msgstr "ні, повернутись до питання"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes, i am under 18"
+msgstr "так, мені більше 18 років"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "yes"
 msgstr "так"
 
@@ -415,6 +489,12 @@ msgstr "25-34"
 msgctxt "arguments"
 msgid "35-44 years old"
 msgstr "35-44 роки"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "45-54 years old"
+msgstr "45-55 років"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
