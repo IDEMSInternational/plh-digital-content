@@ -11,13 +11,33 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-10-01 11:56\n"
+"PO-Revision-Date: 2025-10-02 14:11\n"
 
 #. type=data_list
 #. The string @global.app_name should not be translated.
 msgctxt "data_list"
 msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
 msgstr "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 2 hadi 9. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Parent or caregiver"
+msgstr "Mzazi au mlezi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Facilitator"
+msgstr "Mwezeshaji"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "System tester"
+msgstr "Mjaribu mfumo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "None of the above"
+msgstr "Hakuna kati ya zilizo hapo juu"
 
 #. type=data_list
 msgctxt "data_list"
@@ -43,96 +63,6 @@ msgstr "Washirika"
 msgctxt "data_list"
 msgid "Donors"
 msgstr "Wafadhili"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Parent or caregiver"
-msgstr "Mzazi au mlezi"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Facilitator"
-msgstr "Mwezeshaji"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "System tester"
-msgstr "Mjaribu mfumo"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "None of the above"
-msgstr "Hakuna kati ya zilizo hapo juu"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Bibi"
-msgstr "Grandmother"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Babu"
-msgstr "Grandfather"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Mama"
-msgstr "Mama"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Mjomba"
-msgstr "Uncle"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Baba"
-msgstr "Father"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Relax"
-msgstr "Kupumzika"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Check-in"
-msgstr "Utambuzi wa hisia"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Today's Topic"
-msgstr "Mada ya leo"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Explore"
-msgstr "Chunguza"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Review"
-msgstr "Pitia"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Practise"
-msgstr "Mazoezi"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Home Activity"
-msgstr "Zoezi la nyumbani"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Teen Testimonial"
-msgstr "Ushuhuda wa kijana"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Content Notice"
-msgstr "Maelezo ya maudhui"
 
 #. type=data_list
 msgctxt "data_list"
@@ -214,6 +144,67 @@ msgctxt "data_list"
 msgid "Celebration"
 msgstr "Kusherehekea"
 
+#. type=data_list
+msgctxt "data_list"
+msgid "Relax"
+msgstr "Kupumzika"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Check-in"
+msgstr "Utambuzi wa hisia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Today's Topic"
+msgstr "Mada ya leo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Explore"
+msgstr "Chunguza"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Review"
+msgstr "Pitia"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Practise"
+msgstr "Mazoezi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Home Activity"
+msgstr "Zoezi la nyumbani"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Teen Testimonial"
+msgstr "Ushuhuda wa kijana"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Content Notice"
+msgstr "Maelezo ya maudhui"
+
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "Welcome to @global.app_name"
+msgstr "Karibu kwenye @global.app_name"
+
+#. type=global
+msgctxt "global"
+msgid "Please select your gender"
+msgstr "Tafadhali chagua jinsia yako"
+
+#. type=global
+msgctxt "global"
+msgid "I am a..."
+msgstr "Mimi ni..."
+
 #. type=global
 msgctxt "global"
 msgid "User ID"
@@ -223,6 +214,91 @@ msgstr "Kitambulisho cha mtumiaji"
 msgctxt "global"
 msgid "Skip"
 msgstr "Ruka"
+
+#. type=global
+msgctxt "global"
+msgid "ParentApp"
+msgstr "ParentApp"
+
+#. type=global
+msgctxt "global"
+msgid "5 December 2024"
+msgstr "5 Desemba 2024"
+
+#. type=global
+msgctxt "global"
+msgid "Tap and choose"
+msgstr "Bofya na uchague"
+
+#. type=global
+msgctxt "global"
+msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
+msgstr "Je ungependa kufungua akaunti? hii itakufanya upate taarifa zako pale kifaa chako ikiwa kitapotea."
+
+#. type=global
+msgctxt "global"
+msgid "Sign in"
+msgstr "Sajili"
+
+#. type=global
+msgctxt "global"
+msgid "Sign in with Apple"
+msgstr "Ingia kwa kutumia Apple"
+
+#. type=global
+msgctxt "global"
+msgid "Sign in with Google"
+msgstr "Ingia kwa kutumia Google"
+
+#. type=global
+msgctxt "global"
+msgid "Sign out"
+msgstr "Ondoka"
+
+#. type=global
+msgctxt "global"
+msgid "You are logged in."
+msgstr "Umeingia."
+
+#. type=global
+msgctxt "global"
+msgid "Delete account"
+msgstr "Futa akaunti"
+
+#. type=global
+msgctxt "global"
+msgid "Are you sure you want to delete your account?"
+msgstr "Una uhakika unataka kufuta akaunti?"
+
+#. type=global
+msgctxt "global"
+msgid "This action is permanent and cannot be undone. You will lose all your progress."
+msgstr "Hiki kitendo ni cha kudumu na hakiwezi kutenduliwa. Utapoteza hatua zote."
+
+#. type=global
+msgctxt "global"
+msgid "Yes"
+msgstr "Ndiyo"
+
+#. type=global
+msgctxt "global"
+msgid "No"
+msgstr "Hapana"
+
+#. type=global
+msgctxt "global"
+msgid ""
+"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
+"\n"
+"If you do, any progress made on this device will be lost."
+msgstr ""
+"Inaonekana uliingia kwenye kifaa kingine zamani, Unapenda kuendelea pale ulipo ishia!\n"
+"Kama unataka, hatua zozote ulizofanya kwenye kifaa hiki zitapotea."
+
+#. type=global
+msgctxt "global"
+msgid "Load saved progress"
+msgstr "Pakia maendeleo yaliyohifadhiwa"
 
 #. type=global
 msgctxt "global"
@@ -485,6 +561,11 @@ msgstr "Kanuni yako ya Parent App"
 
 #. type=global
 msgctxt "global"
+msgid "Account"
+msgstr "Akaunti"
+
+#. type=global
+msgctxt "global"
 msgid "General"
 msgstr "Kwa ujumla"
 
@@ -555,111 +636,36 @@ msgctxt "global"
 msgid "Tap and type"
 msgstr "Bofya na uandike"
 
-#. type=global
-msgctxt "global"
-msgid "FurahaApp"
-msgstr "FurahaApp"
+#. type=template
+msgctxt "template"
+msgid "Copy code"
+msgstr "Nakili msimbo"
 
-#. type=global
-msgctxt "global"
-msgid "5 December 2024"
-msgstr "5 Desemba 2024"
+#. type=template
+msgctxt "template"
+msgid "Copied!"
+msgstr "Imenakiliwa!"
 
-#. type=global
-msgctxt "global"
-msgid "Tap and choose"
-msgstr "Bofya na uchague"
+#. type=template
+#. The string @local.sync_latest should not be translated.
+msgctxt "template"
+msgid "Last sync at: @local.sync_latest"
+msgstr "Imelandanishwa mara ya mwisho saa: @local.sync_latest"
 
-#. type=global
-#. The string @global.app_name should not be translated.
-msgctxt "global"
-msgid "Welcome to @global.app_name"
-msgstr "Karibu kwenye @global.app_name"
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced. Sync to reveal your code."
+msgstr "Kifaa hiki hakijawahi kulandanishwa. Landanisha kuonesha msimbo wako."
 
-#. type=global
-msgctxt "global"
-msgid "Please select your gender"
-msgstr "Tafadhali chagua jinsia yako"
+#. type=template
+msgctxt "template"
+msgid "Sync now"
+msgstr "Landanisha sasa"
 
-#. type=global
-msgctxt "global"
-msgid "I am a..."
-msgstr "Mimi ni..."
-
-#. type=global
-msgctxt "global"
-msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
-msgstr "Je ungependa kufungua akaunti? hii itakufanya upate taarifa zako pale kifaa chako ikiwa kitapotea."
-
-#. type=global
-msgctxt "global"
-msgid "Sign in"
-msgstr "Sajili"
-
-#. type=global
-msgctxt "global"
-msgid "Sign in with Apple"
-msgstr "Ingia kwa kutumia Apple"
-
-#. type=global
-msgctxt "global"
-msgid "Sign in with Google"
-msgstr "Ingia kwa kutumia Google"
-
-#. type=global
-msgctxt "global"
-msgid "Sign out"
-msgstr "Ondoka"
-
-#. type=global
-msgctxt "global"
-msgid "You are logged in."
-msgstr "Umeingia."
-
-#. type=global
-msgctxt "global"
-msgid "Account"
-msgstr "Akaunti"
-
-#. type=global
-msgctxt "global"
-msgid "Delete account"
-msgstr "Futa akaunti"
-
-#. type=global
-msgctxt "global"
-msgid "Are you sure you want to delete your account?"
-msgstr "Una uhakika unataka kufuta akaunti?"
-
-#. type=global
-msgctxt "global"
-msgid "This action is permanent and cannot be undone. You will lose all your progress."
-msgstr "Hiki kitendo ni cha kudumu na hakiwezi kutenduliwa. Utapoteza hatua zote."
-
-#. type=global
-msgctxt "global"
-msgid "Yes"
-msgstr "Ndiyo"
-
-#. type=global
-msgctxt "global"
-msgid "No"
-msgstr "Hapana"
-
-#. type=global
-msgctxt "global"
-msgid ""
-"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
-"\n"
-"If you do, any progress made on this device will be lost."
-msgstr ""
-"Inaonekana uliingia kwenye kifaa kingine zamani, Unapenda kuendelea pale ulipo ishia!\n"
-"Kama unataka, hatua zozote ulizofanya kwenye kifaa hiki zitapotea."
-
-#. type=global
-msgctxt "global"
-msgid "Load saved progress"
-msgstr "Pakia maendeleo yaliyohifadhiwa"
+#. type=template
+msgctxt "template"
+msgid "Syncing..."
+msgstr "Landanisha..."
 
 #. type=template
 msgctxt "template"
@@ -724,11 +730,6 @@ msgid "Try also"
 msgstr "Jaribu pia"
 
 #. type=template
-msgctxt "template"
-msgid "Continue"
-msgstr "Endelea"
-
-#. type=template
 #. The string @local.countdown_days should not be translated.
 msgctxt "template"
 msgid "Countdown days: @local.countdown_days"
@@ -743,6 +744,11 @@ msgstr "Chagua namba za siku kuhesabu"
 msgctxt "template"
 msgid "Save"
 msgstr "Tunza"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Endelea"
 
 #. type=template
 msgctxt "template"
@@ -788,35 +794,4 @@ msgstr "Mtengenezaji wa programu"
 msgctxt "template"
 msgid "Exit developer mode"
 msgstr "Unatoka kwenye ukurasa wa mtengenezaji"
-
-#. type=template
-msgctxt "template"
-msgid "Copy code"
-msgstr "Nakili msimbo"
-
-#. type=template
-msgctxt "template"
-msgid "Copied!"
-msgstr "Imenakiliwa!"
-
-#. type=template
-#. The string @local.sync_latest should not be translated.
-msgctxt "template"
-msgid "Last sync at: @local.sync_latest"
-msgstr "Imelandanishwa mara ya mwisho saa: @local.sync_latest"
-
-#. type=template
-msgctxt "template"
-msgid "This device has never been synced. Sync to reveal your code."
-msgstr "Kifaa hiki hakijawahi kulandanishwa. Landanisha kuonesha msimbo wako."
-
-#. type=template
-msgctxt "template"
-msgid "Sync now"
-msgstr "Landanisha sasa"
-
-#. type=template
-msgctxt "template"
-msgid "Syncing..."
-msgstr "Landanisha..."
 
