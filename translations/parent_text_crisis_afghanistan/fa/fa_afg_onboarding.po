@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Dari\n"
 "\n"
 "Language: fa_AF\n"
-"PO-Revision-Date: 2025-09-29 16:55\n"
+"PO-Revision-Date: 2025-10-06 09:15\n"
 
 #. type=text
 msgctxt "text"
@@ -52,6 +52,21 @@ msgstr "✅ در {prog_name}، توصیه‌هایی دریافت خواهید �
 
 #. type=text
 msgctxt "text"
+msgid "Before we begin, {prog_name} is only for people 18 years and older. Are you 18 years or above?"
+msgstr "قبل از شروع، {prog_name} فقط برای افرادی است که ۱۸ سال به بالا دارند. آیا شما ۱۸ سال یا بیشتر سن دارید؟"
+
+#. type=text
+msgctxt "text"
+msgid "Do you confirm that you are under the age of 18?"
+msgstr "آیا تأیید می‌کنید که کمتر از ۱۸ سال سن دارید؟"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for being honest 💛 {prog_name} is only for people 18+. Please talk to a trusted adult who can support you. If they’d like to join, they can type {joining_trigger}.  🌸"
+msgstr "از صادق بودن شما سپاسگزاریم 💛 {prog_name} فقط برای افراد ۱۸ سال به بالا است. لطفاً با یک بزرگسال مورد اعتماد صحبت کنید که بتواند شما را حمایت کند. اگر آن‌ها بخواهند بپیوندند، می‌توانند کلمه‌ی {joining_trigger} را بنویسند. 🌸"
+
+#. type=text
+msgctxt "text"
 msgid "🧡 You are a great parent. Thank you for joining us. "
 msgstr "🧡 شما یک والد فوق‌العاده هستید. تشکر که به ما پیوستید. "
 
@@ -74,6 +89,11 @@ msgstr "✅ معلومات ناشناس شما ممکن است با دیگران
 msgctxt "text"
 msgid "❌You can stop when you want. Just type {STOP}"
 msgstr "❌ هر زمان که خواستید، می‌توانید متوقف کنید. فقط کلمه {STOP} را بنویسید"
+
+#. type=text
+msgctxt "text"
+msgid "✅ To read our privacy policy, visit {consent}. If you consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate."
+msgstr "✅ برای مطالعهٔ سیاست حفظ حریم خصوصی ما، به {consent} مراجعه کنید. اگر با سیاست حفظ حریم خصوصی ما موافق هستید، گزینهٔ بله را انتخاب کنید. اگر نمی‌خواهید مشارکت کنید، کلمهٔ \"خروج\" را بنویسید."
 
 #. type=text
 msgctxt "text"
@@ -180,6 +200,30 @@ msgstr "دری"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Yes, I am 18 years old or older"
+msgstr "بلی، من ۱۸ سال یا بیشتر سن دارم"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, I am under 18"
+msgstr "نخیر، من کمتر 18 سال سن دارم"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, I am under 18"
+msgstr "بلی، من کمتر 18 سال سن دارم"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, take me back to the question"
+msgstr "خیر، من را به سؤال قبلی بازگردانید"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "YES"
 msgstr "بلی"
 
@@ -230,6 +274,12 @@ msgstr "بین 25-34 سال سن"
 msgctxt "quick_replies"
 msgid "35-44 years old"
 msgstr "بین 35-44 سال سن"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "45-54 years old"
+msgstr "45-54 ساله"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -336,6 +386,30 @@ msgstr "دری"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "yes, i am 18 years old or older"
+msgstr "بله، من ۱۸ سال یا بیشتر سن دارم"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, i am under 18"
+msgstr "خیر، من کمتر از ۱۸ سال سن دارم"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, take me back to the question"
+msgstr "خیر، من را به سؤال قبلی بازگردانید"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes, i am under 18"
+msgstr "بلی، من کمتر از 18 سال سن دارم"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "yes"
 msgstr "بلی"
 
@@ -386,6 +460,12 @@ msgstr "بین 25-34 سال سن"
 msgctxt "arguments"
 msgid "35-44 years old"
 msgstr "بین 35-44 سال سن"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "45-54 years old"
+msgstr "45-54 ساله"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
