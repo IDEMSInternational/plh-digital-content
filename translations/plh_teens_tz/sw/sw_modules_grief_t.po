@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-10-07 17:37\n"
+"PO-Revision-Date: 2025-10-08 21:52\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -56,11 +56,9 @@ msgid ""
 "\n"
 "Taking care of ourselves is important, especially when we are facing challenging and difficult times such as coping with grief. We need to stay calm in order to think and act positively whenever we find ourselves overwhelmed. We may use techniques such as taking a pause to calm ourselves down."
 msgstr ""
-"Salamu\n"
+"Mada ya leo ni kukabiliana na huzuni.\n"
 "\n"
-"Mada ya leo ni kukabiliana na majonzi.\n"
-"\n"
-"Kujitunza ni muhimu, hasa tunapokabiliana na changamoto na nyakati ngumu kama kukabiliana na majonzi. Tunahitaji kukaa kwa utulivu ili kufikiri na kuchukua hatua chanya wakati tunapojikuta tumeelemewa. Tunaweza kutumia mbinu kama vile kupumzika ili kupata utulivu."
+"Kujitunza ni muhimu, hasa tunapokabiliana na nyakati ngumu kama vile kukabiliana na huzuni. Tunatakiwa kuwa watuliviu ili kufikiri kutenda vema kila tunapojikuta tumeelemewa. Tunaweza kutumia mbinu kama vile kutulia ili kujituliza."
 
 #. type=data_list
 msgctxt "data_list"
@@ -205,6 +203,14 @@ msgid "I know you are sad, @data.characters.f4_daughter_13.name. I also miss @da
 msgstr "Ninajua una huzuni, @data.characters.f4_daughter_13.name pia namkumbuka @data.characters.f1_mother.role_name. Unafikiri tunaweza kufanya nini ili tuweze kukusaidia kujisikia vizuri?"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_aunt.role_name,
+#.      @data.characters.f1_mother.role_name?
+msgctxt "data_list"
+msgid "Maybe we can visit @data.characters.f4_aunt.role_name, so we can share stories about @data.characters.f1_mother.role_name?"
+msgstr "Labda tunaweza kumtembelea @data.characters.f4_aunt.role_name, ili tushirikishane hadithi kuhusu @data.characters.f1_mother.role_name?"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "I like that idea, let’s go see her on Saturday. Do you already want to tell me more about how you feel now?"
 msgstr "Nimependa wazo hilo, twende tukamwone Jumamosi. Je, tayari unataka kuniambia zaidi kuhusu jinsi unavyohisi sasa?"
@@ -257,6 +263,12 @@ msgid "Comforted"
 msgstr ""
 "\n"
 "Kufarijiwa"
+
+#. type=data_list
+#. The string @data.characters.f4_daughter_13.name should not be translated.
+msgctxt "data_list"
+msgid "Exactly. Sharing her sadness and anger openly made @data.characters.f4_daughter_13.name feel comforted and closer to her father."
+msgstr "Sahihi. Kushirikisha huzuni na hasira yake kwa uwazi kulimfanya @data.characters.f4_daughter_13.name ajisikie ametulizwa na kuwa karibu zaidi na baba yake."
 
 #. type=data_list
 #. The following strings should not be translated: 
