@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-10-07 17:35\n"
+"PO-Revision-Date: 2025-10-16 13:23\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -116,6 +116,20 @@ msgid "Your profile is complete, and you’re ready to begin!"
 msgstr "Inkcukacha zakho zigqibekile, kwaye ukulungele ukuqala!"
 
 #. type=global
+#. The following strings should not be translated: 
+#.      @fields.facilitator_name.
+#.      @global.app_name!
+msgctxt "global"
+msgid ""
+"**Hello! My name is @fields.facilitator_name. I’m so glad you’re here!**\n"
+"\n"
+"I’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!"
+msgstr ""
+"**Molo! Igama lam ndingu @fields.facilitator_name. Ndiyavuya kakhulu ulapha!**\n"
+"\n"
+"Ndizakunceda ukufunda usebenzisa @global.app_name! Kulamanyathelo ambalwa alandelayo, ndizakubuza imibuzo embalwa, ngoko ndikwazi ukwenza amava akho okufunda alungele kanye wena!"
+
+#. type=global
 msgctxt "global"
 msgid "What is your name?"
 msgstr "Ungubani igama lakho?"
@@ -216,4 +230,33 @@ msgstr ""
 msgctxt "global"
 msgid "How old is the child you will focus on in @global.app_name?"
 msgstr "Unangaphi umntwana wakho ojongene naye kwi @global.app_name?"
+
+#. type=global
+#. The string @global.app_name! should not be translated.
+msgctxt "global"
+msgid "Welcome to @global.app_name! To participate, you'll need a partner in parenting. There are 2 parenting experts to choose from:"
+msgstr "Wamnkelekile e @global.app_name! ukuthatha inxaxheba, uzakudinag iqabane ekubeni ngumzali. Kukho ingcali ezimbini zobuzali onokukhetha kuzo:"
+
+#. type=global
+#. The string @global.app_name! should not be translated.
+msgctxt "global"
+msgid "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting. Who would you like to learn with?"
+msgstr "Wamnkelekile e @global.app_name! Siyavuya ulapha! Masifumane isikhokelo esilungileyo sokuxhasa wena ebuzalini. Ungathanda ukufunda nabani?"
+
+#. type=global
+#. The string @fields.facilitator_name! should not be translated.
+msgctxt "global"
+msgid "Hi, I am @fields.facilitator_name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect."
+msgstr "Molo ngingu @fields.facilitator_name! Ndingumakhulu wabathathu kwaye ndingunontlalontle odla umhlala phantsi. Ndiyathatha ukwabelana ngezixhobo zobuzali ngothando nangentlonipho."
+
+#. type=global
+#. The string @fields.facilitator_name! should not be translated.
+msgctxt "global"
+msgid "Hi, I am @fields.facilitator_name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care."
+msgstr "Molo, Ndingu @fields.facilitator_name! Ndingu titshala odla umhlala phantsi kwaye ndingu tatomkhulu wababini. I Ndikhokela abazali ngemfudumalo, ngogxininiso, kunye nenkathalo."
+
+#. type=global
+msgctxt "global"
+msgid "Who would you like to be your guide?"
+msgstr "Ungathanda ukuba ibengubani inkokheli yakho?"
 
