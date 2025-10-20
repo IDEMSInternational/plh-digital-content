@@ -11,7 +11,58 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-10-08 07:06\n"
+"PO-Revision-Date: 2025-10-20 15:30\n"
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
+msgstr "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 2 hadi 9. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Partners"
+msgstr "Washirika"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Donors"
+msgstr "Wafadhili"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Man"
+msgstr "Mwanaume"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Woman"
+msgstr "Mwanamke"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Prefer not to say"
+msgstr "Ningependa nisiseme"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Parent or caregiver"
+msgstr "Mzazi au mlezi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Facilitator"
+msgstr "Mwezeshaji"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "System tester"
+msgstr "Mjaribu mfumo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "None of the above"
+msgstr "Hakuna kati ya zilizo hapo juu"
 
 #. type=data_list
 msgctxt "data_list"
@@ -42,57 +93,6 @@ msgstr "Baba"
 msgctxt "data_list"
 msgid "Aunty Esta"
 msgstr "Shangazi Esta"
-
-#. type=data_list
-#. The string @global.app_name should not be translated.
-msgctxt "data_list"
-msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 2 to 9 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
-msgstr "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 2 hadi 9. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Parent or caregiver"
-msgstr "Mzazi au mlezi"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Facilitator"
-msgstr "Mwezeshaji"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "System tester"
-msgstr "Mjaribu mfumo"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "None of the above"
-msgstr "Hakuna kati ya zilizo hapo juu"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Man"
-msgstr "Mwanaume"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Woman"
-msgstr "Mwanamke"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Prefer not to say"
-msgstr "Ningependa nisiseme"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Partners"
-msgstr "Washirika"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Donors"
-msgstr "Wafadhili"
 
 #. type=data_list
 msgctxt "data_list"
@@ -220,47 +220,6 @@ msgid "Content Notice"
 msgstr "Maelezo ya maudhui"
 
 #. type=global
-#. The string @global.app_name should not be translated.
-msgctxt "global"
-msgid "Welcome to @global.app_name"
-msgstr "Karibu kwenye @global.app_name"
-
-#. type=global
-msgctxt "global"
-msgid "Please select your gender"
-msgstr "Tafadhali chagua jinsia yako"
-
-#. type=global
-msgctxt "global"
-msgid "I am a..."
-msgstr "Mimi ni..."
-
-#. type=global
-msgctxt "global"
-msgid "User ID"
-msgstr "Kitambulisho cha mtumiaji"
-
-#. type=global
-msgctxt "global"
-msgid "Skip"
-msgstr "Ruka"
-
-#. type=global
-msgctxt "global"
-msgid "ParentApp Teens"
-msgstr "Programu Tumishi ya Malezi kwa Vijana"
-
-#. type=global
-msgctxt "global"
-msgid "5 December 2024"
-msgstr "5 Desemba 2024"
-
-#. type=global
-msgctxt "global"
-msgid "Tap and choose"
-msgstr "Bofya na uchague"
-
-#. type=global
 msgctxt "global"
 msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
 msgstr "Je ungependa kufungua akaunti? hii itakufanya upate taarifa zako pale kifaa chako ikiwa kitapotea."
@@ -331,6 +290,37 @@ msgid "Load saved progress"
 msgstr "Pakia maendeleo yaliyohifadhiwa"
 
 #. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "Welcome to @global.app_name"
+msgstr "Karibu kwenye @global.app_name"
+
+#. type=global
+msgctxt "global"
+msgid "Please select your gender"
+msgstr "Tafadhali chagua jinsia yako"
+
+#. type=global
+msgctxt "global"
+msgid "I am a..."
+msgstr "Mimi ni..."
+
+#. type=global
+msgctxt "global"
+msgid "ParentApp Teens"
+msgstr "Programu Tumishi ya Malezi kwa Vijana"
+
+#. type=global
+msgctxt "global"
+msgid "5 December 2024"
+msgstr "5 Desemba 2024"
+
+#. type=global
+msgctxt "global"
+msgid "Tap and choose"
+msgstr "Bofya na uchague"
+
+#. type=global
 msgctxt "global"
 msgid "List"
 msgstr "Orodha"
@@ -384,11 +374,6 @@ msgstr "Ukaguzi wa kihisia"
 msgctxt "global"
 msgid "Let’s Begin"
 msgstr "Hebu tuanze"
-
-#. type=global
-msgctxt "global"
-msgid "Continue"
-msgstr "Endelea"
 
 #. type=global
 msgctxt "global"
@@ -605,12 +590,6 @@ msgid "Feedback"
 msgstr "Mrejesho"
 
 #. type=global
-#. The string @global.app_name should not be translated.
-msgctxt "global"
-msgid "About @global.app_name"
-msgstr "Kuhusu @global.app_name"
-
-#. type=global
 msgctxt "global"
 msgid "Developer Mode"
 msgstr "Mtengenezaji wa programu"
@@ -629,11 +608,6 @@ msgstr "Tuma"
 msgctxt "global"
 msgid "Save"
 msgstr "Tunza"
-
-#. type=global
-msgctxt "global"
-msgid "Language"
-msgstr "Lugha"
 
 #. type=global
 msgctxt "global"
@@ -665,6 +639,48 @@ msgstr "Asante kwa kushirikisha changamoto zako. Tutatumia mrjesho huu @local.ap
 msgctxt "global"
 msgid "Tap and type"
 msgstr "Bofya na uandike"
+
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "About @global.app_name"
+msgstr "Kuhusu @global.app_name"
+
+#. type=global
+msgctxt "global"
+msgid "Language"
+msgstr "Lugha"
+
+#. type=global
+msgctxt "global"
+msgid "User ID"
+msgstr "Kitambulisho cha mtumiaji"
+
+#. type=global
+msgctxt "global"
+msgid "Skip"
+msgstr "Ruka"
+
+#. type=global
+msgctxt "global"
+msgid "Continue"
+msgstr "Endelea"
+
+#. type=template
+#. The string @local.countdown_days should not be translated.
+msgctxt "template"
+msgid "Countdown days: @local.countdown_days"
+msgstr "Hesabu siku: @local.countdown_days"
+
+#. type=template
+msgctxt "template"
+msgid "Choose a number of days to count down"
+msgstr "Chagua namba za siku kuhesabu"
+
+#. type=template
+msgctxt "template"
+msgid "Save"
+msgstr "Tunza"
 
 #. type=template
 msgctxt "template"
@@ -729,6 +745,11 @@ msgid "Enter developer mode"
 msgstr "Unaingia kwenye ukurasa wa mtengenezaji"
 
 #. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Endelea"
+
+#. type=template
 #. The string @global.app_name should not be translated.
 msgctxt "template"
 msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
@@ -738,47 +759,6 @@ msgstr "@global.app_name imepakua taarifa za wakati huu. Tafadhali anzisha tena 
 msgctxt "template"
 msgid "Restart"
 msgstr "Anzisha upya tena"
-
-#. type=template
-msgctxt "template"
-msgid "What you need"
-msgstr "Unachohitaji"
-
-#. type=template
-msgctxt "template"
-msgid "Steps"
-msgstr "Hatua"
-
-#. type=template
-msgctxt "template"
-msgid "More tips"
-msgstr "Dondoo zaidi"
-
-#. type=template
-msgctxt "template"
-msgid "Try also"
-msgstr "Jaribu pia"
-
-#. type=template
-#. The string @local.countdown_days should not be translated.
-msgctxt "template"
-msgid "Countdown days: @local.countdown_days"
-msgstr "Hesabu siku: @local.countdown_days"
-
-#. type=template
-msgctxt "template"
-msgid "Choose a number of days to count down"
-msgstr "Chagua namba za siku kuhesabu"
-
-#. type=template
-msgctxt "template"
-msgid "Save"
-msgstr "Tunza"
-
-#. type=template
-msgctxt "template"
-msgid "Continue"
-msgstr "Endelea"
 
 #. type=template
 msgctxt "template"
@@ -824,4 +804,24 @@ msgstr "Mtengenezaji wa programu"
 msgctxt "template"
 msgid "Exit developer mode"
 msgstr "Unatoka kwenye ukurasa wa mtengenezaji"
+
+#. type=template
+msgctxt "template"
+msgid "What you need"
+msgstr "Unachohitaji"
+
+#. type=template
+msgctxt "template"
+msgid "Steps"
+msgstr "Hatua"
+
+#. type=template
+msgctxt "template"
+msgid "More tips"
+msgstr "Dondoo zaidi"
+
+#. type=template
+msgctxt "template"
+msgid "Try also"
+msgstr "Jaribu pia"
 
