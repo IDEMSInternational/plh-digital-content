@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-10-21 04:50\n"
+"PO-Revision-Date: 2025-10-21 09:08\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -193,9 +193,7 @@ msgstr ""
 "\n"
 "🤢 Zonda: Bhekela kwinto ongayithandiyo.\n"
 "\n"
-"\n"
 "😯 Ndimangalisiwe: Yima kwaye unikele ingqalelo okomzuzwana.\n"
-"\n"
 "\n"
 "😨 Ukoyika: Balekela kude kwingozi.\n"
 "\n"
@@ -1293,7 +1291,7 @@ msgid ""
 "How much does each item cost? \n"
 "How much money do you need in total?"
 msgstr ""
-"** Sicitha entweni ngoku?**\n"
+"**Sicitha entweni ngoku?**\n"
 "\n"
 "Bhala phantsi okanye uzobe ukuba niyichitha entweni imali nilusapho nyanga nganye.\n"
 "\n"
@@ -1316,7 +1314,8 @@ msgid ""
 "\n"
 "When we explain and listen to each other carefully, we can make good money choices together as a family."
 msgstr ""
-"** Thetani kunye ngezidingo kunye neemfuno.**\n"
+"**Thetani kunye ngezidingo kunye neemfuno.**\n"
+"\n"
 "Zeziphi iindleko ezizidingo eningakwazi ukuphila ngaphandle kwazo?\n"
 "Zeziphi iindleko ezifunwayo ezingeyomfuneko ukubanazo kodwa ezingabalulekanga?\n"
 "Zephi izinto eningazama ukuchitha kancinci kuzo?\n"
@@ -1966,7 +1965,7 @@ msgstr "Ewe, Masijonge kunye,enkosi @data.characters.f1_mother.role_name"
 #. type=data_list
 msgctxt "data_list"
 msgid "Mother, guess what happened at school. My classmate Sima shared a sexy picture of herself with her boyfriend to prove that she loves him, and his friends told him to post it online. Now it is everywhere."
-msgstr "Mama, qikelela kwenzeke ntoni esikolweni. Umntwana ofunda nam uSima wabelene ngemifanekiso yakhe enomtsalane kwinkwenkwe yakhe uqinisekisa ukuba uyayithanda, kwaye abahlobo bakhe bamxelele ukuba azipowuste kwi-internet. Ngoku ikuyo yonke indawo. "
+msgstr "Mama, qikelela kwenzeke ntoni esikolweni. Umntwana ofunda nam uSima wabelene ngemifanekiso yakhe enomtsalane kwinkwenkwe yakhe uqinisekisa ukuba uyayithanda, kwaye abahlobo bakhe bamxelele ukuba azipowuste kwi-internet. Ngoku ikuyo yonke indawo."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2383,6 +2382,39 @@ msgstr "Ewe, ngumbono omhle."
 
 #. type=data_list
 msgctxt "data_list"
+msgid "(_enters the room_) I am so sorry this happened to you, my child. We are here to support you. What you shared is important. We will find a way to get the help we need."
+msgstr "(_engena egumbini_) Ndiyaxolisa ngento eyenzekileyo kuwe, mntwana wam. Silapha ukuba sizokuxhasa. Lento wabelane ngayo ibalulekile. Sizakufumana indlela yokufumana uncedo esiludingayo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I think it would be a good idea to go to the clinic, so they can do a check-up to make sure you are okay. What do you think about that?"
+msgstr "Ndiyacinga iyakuba ngumbono omhle ukuba uye ekliniki, bazokwenza uhlolo baqinisekise ukuba uphilile. Ucinga ntoni ngalonto?"
+
+#. type=data_list
+#. The string @data.characters.f2_grandmother.role_name? should not be translated.
+msgctxt "data_list"
+msgid "Yes… Okay… But will you come with me @data.characters.f2_grandmother.role_name?"
+msgstr "Ewe... Kulungile... Kodwa ingaba uzakukwazi ukuhamba nam @data.characters.f2_grandmother.role_name?"
+
+#. type=data_list
+#. The string @data.characters.f2_daughter_19.name? should not be translated.
+msgctxt "data_list"
+msgid "Of course I will. And @data.characters.f2_daughter_19.name? Remember this is not your fault. We love you. You are a good person. We will get through this."
+msgstr "Ngokuqinisekileyo ndiya kwenza njalo. Kwaye @data.characters.f2_daughter_19.name? Khumbula ukuba ayilotyala lakho eli. Siyakuthanda. Ungumntu olungileyo. Siza kudlula kulento."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I am glad we could handle this together. I was so scared you would think this is my fault."
+msgstr "Ndiyavuya sikwazile ukubambisana ngalento kunye. Ndandisoyika kakhulu ukuba uzakucinga lityala lam eli."
+
+#. type=data_list
+#. The string @data.characters.f2_daughter_19.name should not be translated.
+msgctxt "data_list"
+msgid "Of course not. A crisis can happen to any family. It is important that @data.characters.f2_daughter_19.name trusts us and we can support her. We can also look online at what support and information is available to help us."
+msgstr "Hayi ngokuqinisekileyo. Ingxaki iyenzeka nakweliphi na usapho. Kubalulekile ukuba u@data.characters.f2_daughter_19.name asithembe kwaye singamxhasa. Singajonga kananjalo kwi-intanethi inkxso kunye nenkcukacha ekhoyo enokusinceda."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "I have never done this before. And now they will expel me."
 msgstr "Andizange ndiyenze le nto ngaphambili. Yaye ngoku baza kundigxotha."
 
@@ -2591,17 +2623,22 @@ msgstr "(_ecinga_) Ndikhathazekile kakhulu ngoLerato. Wenza ngokwahlukileyo mva 
 #. The string @data.characters.friend_female_5.name should not be translated.
 msgctxt "data_list"
 msgid "Mother, guess what happened at school. My classmate @data.characters.friend_female_5.name shared a sexy picture of herself with her boyfriend to prove that she loves him, and his friends told him to post it online. Now it is everywhere."
-msgstr "Mama, qikelela kwenzeke ntoni esikolweni. Umntwana ofunda nam uSima wabelene ngemifanekiso yakhe enomtsalane kwinkwenkwe yakhe uqinisekisa ukuba uyayithanda, kwaye abahlobo bakhe bamxelele ukuba azipowuste kwi-internet. Ngoku ikuyo yonke indawo.."
+msgstr "Mama, qikelela kwenzeke ntoni esikolweni. Umntwana ofunda nam u@data.characters.friend_female_5.name wabelene ngemifanekiso yakhe enomtsalane kwinkwenkwe yakhe uqinisekisa ukuba uyayithanda, kwaye abahlobo bakhe bamxelele ukuba azipowuste kwi-internet. Ngoku ikuyo yonke indawo."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Send me another picture or I’ll share the last one with your family and friends…"
-msgstr "Ndithumelele omnye umfanekiso okanye ndizakwabelana nale yokugqibela nosapho lwakho kunye nabahlobo..."
+msgstr "Ndithumelele omnye umfanekiso okanye ndizakwabelana nale yokugqibela nosapho lwakho kunye nabahlobo…"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "(_thinking_): What if my friends and family see those other pictures I sent… I don’t know what to do! Maybe I should talk to my father."
 msgstr "(_ecinga_): Kungathini ukuba abahlobo kunye noswapho lwam babone eminye yemifanekisa endayithumelayo... Andiyazi ukuba mandenze ntoni! Mhlawumbi kufanele ndithethe notata wam."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Why is your grandson showing my daughter those pictures at school!"
+msgstr "Kutheni umzukulwana wakho ebonisa intombi yam lo mifanekiso esikolweni!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2820,7 +2857,7 @@ msgstr "Molo nobuhle, ndingakuthengela izinto ezimnandi?"
 #. type=data_list
 msgctxt "data_list"
 msgid "Uhmmm... I don’t…"
-msgstr "Uhmmm... Andi..."
+msgstr "Uhmmm... Andi…"
 
 #. type=data_list
 msgctxt "data_list"
@@ -2831,6 +2868,12 @@ msgstr "Ewe, uzakusithatha!"
 msgctxt "data_list"
 msgid "Hey pretty, why are you walking so fast! Don’t you want to come show us what is under that skirt?"
 msgstr "Yhee nobuhle, kutheni uhamba ngokukhawuleza! Awufuni ukuza uzosibonisa uba yintoni ephantsi kweso siketi?"
+
+#. type=data_list
+#. The string @data.characters.friend_female_4.name, should not be translated.
+msgctxt "data_list"
+msgid "@data.characters.friend_female_4.name, if you want to get good grades this year you need to stay after school when everyone is gone so I can tutor you."
+msgstr "@data.characters.friend_female_4.name**:, ukuba ufuna ukufumana amanqaku amahle kulo nyaka, kufuneka uhlale emveni kokuphuma kwesikolo xa wonke umntu emkile ukuze ndikufundise."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2851,12 +2894,12 @@ msgstr "Jonga, ndisenawo lomfanekiso onomtsalane ka @data.characters.friend_fema
 #. type=data_list
 msgctxt "data_list"
 msgid "I just wanted to…"
-msgstr "Bendifuna uku..."
+msgstr "Bendifuna uku…"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "No, you are staying here. You always leave me alone to go see your friends. Don’t you love me? Or are you meeting your other boyfriend?!"
-msgstr "Hayi, uyahlala apha. Usoloko undishiya ndodwa uyokubona abahlobo bakho. Awundithandi? Okanye uyokudibana nelinye iqabane lakho?! "
+msgstr "Hayi, uyahlala apha. Usoloko undishiya ndodwa uyokubona abahlobo bakho. Awundithandi? Okanye uyokudibana nelinye iqabane lakho?!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3234,7 +3277,7 @@ msgstr "Zama kwakhona! unike u@data.characters.f1_daughter_2.name umyalelo olung
 #.      “@data.characters.f1_daughter_2.name,
 msgctxt "data_list"
 msgid "What would have happened if @data.characters.f1_father.name had said: “@data.characters.f1_daughter_2.name, stop playing with your blocks, and don’t go to bed with dirty teeth!”"
-msgstr "Yintoni ibinokwenzeka ukuba u@data.characters.f1_father.name ebethe: \"@data.characters.f1_daughter_2.name, yeka ukudlala ngebhokisi zakho, kwaye ungalali unamaziyo amdaka!''"
+msgstr "Yintoni ibinokwenzeka ukuba u@data.characters.f1_father.name ebethe: \"@data.characters.f1_daughter_2.name, yeka ukudlala ngebhokisi zakho, kwaye ungalali unamaziyo amdaka!\""
 
 #. type=data_list
 #. The string @data.characters.f1_daughter_2.name should not be translated.
@@ -3910,7 +3953,7 @@ msgid ""
 "\n"
 "@data.characters.f1_son_5.name would learn:"
 msgstr ""
-"Ingaba yintoni u @data.characters.f1_son_5.name azakuyifunda ku @data.characters.f1_son_5.name ukuba uyakunikezela okanye akaniki iziphumo?\n"
+"Ingaba yintoni u @data.characters.f1_son_5.name azakuyifunda ku @data.characters.f1_father.name ukuba uyakunikezela okanye akaniki iziphumo?\n"
 "\n"
 "@data.characters.f1_son_5.name baya kufunda:"
 
@@ -4629,7 +4672,7 @@ msgstr "Ukulala"
 #. type=data_list
 msgctxt "data_list"
 msgid "Talking with a friend"
-msgstr "Ukuthetha nomhlobo "
+msgstr "Ukuthetha nomhlobo"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5570,7 +5613,9 @@ msgctxt "data_list"
 msgid ""
 "It might seem like a good lesson, but it can make your teen feel cut off from friends and support.\n"
 "Instead, use fair and related consequences — like reducing screen time or earning it back through positive actions."
-msgstr "Ingabonakala isisifundo esilungileyo, kodwa ingenza umntwana wakho ofikisayo azive esusiwe kubahlobo kunye nenkxaso. Endaweni yoko sebenzisa iziphumo ezifanelekileyo nezinxullumeneyo - njengokunciphiphisa ixesha le fowuni okanye ukulifumana kamva ngezenzo ezilungileyo."
+msgstr ""
+"Ingabonakala isisifundo esilungileyo, kodwa ingenza umntwana wakho ofikisayo azive esusiwe kubahlobo kunye nenkxaso. \n"
+"Endaweni yoko sebenzisa iziphumo ezifanelekileyo nezinxullumeneyo — njengokunciphiphisa ixesha le fowuni okanye ukulifumana kamva ngezenzo ezilungileyo."
 
 #. type=data_list
 msgctxt "data_list"
@@ -6067,7 +6112,9 @@ msgctxt "data_list"
 msgid ""
 "Yes, these are all good responses. By thanking teens and responding supportively, they are more likely to share their own problems. \n"
 "Remind them to only share photos with permission, think about consequences, and that bullying and sharing private content is harmful. Support them to take safe steps, like reporting and deleting."
-msgstr "Ewe, ezi zimpendulo ezilungileyo zonke. Ngokubulela abantwana abafikisayo kwaye nangokuphendula ngenxaso, banamathuba amaninzi okwabelana nengxaki zabo. Bakhumbuze ukuba babelane ngeefotos xa kunemvume kuphela, cinga ngemiphumela, kwaye nango kuhlukunyezwa kwaye ukwabelana nomxholo wabucala kuyingozi. Baxhase bathathe amanyathelo akhuselekileyo, njengokuxela kunye nokucima."
+msgstr ""
+"Ewe, ezi zimpendulo ezilungileyo zonke. Ngokubulela abantwana abafikisayo kwaye nangokuphendula ngenxaso, banamathuba amaninzi okwabelana nengxaki zabo.\n"
+"Bakhumbuze ukuba babelane ngeefotos xa kunemvume kuphela, cinga ngemiphumela, kwaye nango kuhlukunyezwa kwaye ukwabelana nomxholo wabucala kuyingozi. Baxhase bathathe amanyathelo akhuselekileyo, njengokuxela kunye nokucima."
 
 #. type=data_list
 msgctxt "data_list"
@@ -6107,6 +6154,12 @@ msgstr "Ukusolana kuqhawula ukuthembana. abantwana abafikisayo bayawenza amaphut
 msgctxt "data_list"
 msgid "Support and solve together"
 msgstr "Xhasa kwaye nisombulule kunye"
+
+#. type=data_list
+#. The string @data.characters.f1_son_18.name should not be translated.
+msgctxt "data_list"
+msgid "Yes! Stay calm and listen. Tell @data.characters.f1_son_18.name it’s not his fault. Block and report if you can, and plan together what to do if photos are shared. If there’s anyone you both trust, ask them for help."
+msgstr "Ewe! Hlala uzolile kwaye umamele. Xelela u@data.characters.f1_son_18.name ayilotyala lakhe. Mvale kwaye uxele ukuba unako, kwaye nicwangcise kunye ukuba nenze nton ngemifanekiso ekwabelwane ngazo. Ukuba ukhona umntu enimthembileyo nobabini, mceleni ukuba anincede."
 
 #. type=data_list
 msgctxt "data_list"
@@ -6162,6 +6215,16 @@ msgstr "Ukubanomsindo kakhulu kungahlaza umntwana wakho ofikisayo kwaye kuvale i
 msgctxt "data_list"
 msgid "Pause, listen, and understand"
 msgstr "Yima, mamela, kwaye uqonde"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Correct. By staying calm and listening, you help your teen feel safe to talk. This gives you a chance to explain why sharing sexual pictures or videos is harmful and guide him to make better choices in the future."
+msgstr "Ichanekile. Ngokuhlala uzolile kwaye umamele, unceda umntwana wakho ofikisayo azive ekhuselekile ukuba athethe. Lento ikunika ithuba lokucacisa ukuba kutheni ukwabelana ngemifanekiso yamanyala kuyingozi, kwaye mkhokele ukuba enze ukhetho olungcono kwixesha elizayo."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Are sexual pictures or videos only shared by boys?"
+msgstr "Ingaba imifanekiso yezesondo okanye ividiyo zabelwana kuphela ngamakhwenkwe?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -6231,6 +6294,11 @@ msgstr "Ukunyanzela kungavakala ngathi ukhusela u@data.characters.f2_son_15.name
 msgctxt "data_list"
 msgid "Talk about risks"
 msgstr "Thethani ngemingcipheko"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That’s right! Use this as a chance to explain why accepting gifts or sharing personal details (like school or uniform) online is unsafe. Explore together how to block and report strangers, and remind your teen they can always come to you if something feels wrong."
+msgstr "Ilungile lonto. Sebenzisa lento njengethuba lokuchaza ukuba kutheni ukwamkela izipho okanye ukwabelana ngenkcukacha zakhe (ezifana nesikolo okanye iyunifomu) kwi-intanethi kuyingozi. Phononongani kunye indlela yokunqanda kwaye nichaze abantu abangaziwayo, kwaye khumbuza umntwana wakho ofikisayo ukuba angeza kuwe ngalo lonke ixesha ukuba kukho into evakala ingalunganga."
 
 #. type=data_list
 msgctxt "data_list"
@@ -6422,6 +6490,18 @@ msgid "That's okay. Just remember that when a situation feels overwhelming, it c
 msgstr "Kulungile. Ukhumbule ke xa imeko ibonakala ikongamele, kungakunceda ukusebenzisa indlela ezine zokusombulula ingxaki nomntwana wakho ofikisayo ukohlulahlula ingxaki."
 
 #. type=data_list
+#. The string @data.characters.friend_female_4.name should not be translated.
+msgctxt "data_list"
+msgid "Does not listen to @data.characters.friend_female_4.name or ask what she wants"
+msgstr "Akammameli u @data.characters.friend_female_4.name okanye ambuze into ayifunayo"
+
+#. type=data_list
+#. The string @data.characters.friend_female_4.name's should not be translated.
+msgctxt "data_list"
+msgid "Does not respect @data.characters.friend_female_4.name's feelings/opinion"
+msgstr "Akazihloniphi iimvakalelo/ izimvo zika @data.characters.friend_female_4.name"
+
+#. type=data_list
 msgctxt "data_list"
 msgid ""
 "Yes, these are clear warning signs.\n"
@@ -6529,9 +6609,34 @@ msgid "Abuses his power"
 msgstr "Uhlukumeza amagunya akhe"
 
 #. type=data_list
+#. The string @data.characters.friend_female_4.name should not be translated.
+msgctxt "data_list"
+msgid "Pressures and manipulates @data.characters.friend_female_4.name"
+msgstr "Ufaka uxinizelelo kwaye uyamkhohlisa u @data.characters.friend_female_4.name"
+
+#. type=data_list
+#. The string @data.characters.friend_female_4.name should not be translated.
+msgctxt "data_list"
+msgid "Makes @data.characters.friend_female_4.name feel unsafe"
+msgstr "Imenze @data.characters.friend_female_4.name azive engakhuselekanga"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Lies and acts disrespectfully"
 msgstr "Uyaxoka kwaye enze ngokungahloniphekanga"
+
+#. type=data_list
+#. The string @data.characters.friend_female_4.name should not be translated.
+msgctxt "data_list"
+msgid ""
+"Yes, all of these are warning signs! Schools have rules to keep students safe. The teacher is abusing his power and knows it’s wrong.\n"
+"\n"
+"He may have done this before and could do it again. @data.characters.friend_female_4.name can try to find others with the same experience to help report him to a trusted adult."
+msgstr ""
+"Ewe, zonke ezi ziimpawu zesilumkiso! Izikolo zinemithetho ukugcina abafundi bekhuselekile. Utishala uxhaphaza isikhundla sakhe kwaye uyayazi uba ayilunganga. \n"
+"\n"
+"Kusenokwenzeka wayeke wayenza lento ngaphambili kwaye angayenza kwakhona.\n"
+"@data.characters.friend_female_4.name angazama ukufumana abanye abanalamava afanayo ukunceda ukumxela kumntu omdala othembekileyo."
 
 #. type=data_list
 msgctxt "data_list"
@@ -7039,8 +7144,7 @@ msgid ""
 "\n"
 "We agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now."
 msgstr ""
-"Bendingenabo ubudlelwana obulungileyo nentombi yam. Bendisoloko ndimngxolisa kwaye ebengafuni\n"
-"ukuya esikolweni. \n"
+"Bendingenabo ubudlelwana obulungileyo nentombi yam. Bendisoloko ndimngxolisa kwaye ebengafuni ukuya esikolweni. \n"
 "\n"
 "Xa ndandiqala ukuchitha ixesha naye lomnye nomnye, ndafumanisa ukuba akafuni ukuya esikolweni kuba exhatshazwa esikolweni. Sihleli phantsi sasebenzisa amanyathelo ayi 6 wokusombulula ingxaki. Siyibonile ingxaki, kwaye sakhangela isisombululo sisonke. \"Ndingenza ntoni njengomzali ukuze ukwazi ukuya esikolweni kwaye uzive ukhuselekile?\"\n"
 "\n"
@@ -7142,8 +7246,7 @@ msgstr ""
 "\n"
 "Ingaba ninawo amaxesha ngosuku nomntwana wakho apho niziva ninoxinzelelo? Ingaba lixesha lokudlala okanye elokulungiselela isikolo? \n"
 "\n"
-"Imithetho inganceda! Ukuba nemithetho ecacileyo kunye nenkqubo zesiqhelo kuye kuncede abantwana bayazi okulindelekileyo kubo, yinto leyo enceda\n"
-"ukunciphisa ubunzima ngexesha loxinzelelo olungamandla ngosuku."
+"Imithetho inganceda! Ukuba nemithetho ecacileyo kunye nenkqubo zesiqhelo kuye kuncede abantwana bayazi okulindelekileyo kubo, yinto leyo enceda ukunciphisa ubunzima ngexesha loxinzelelo olungamandla ngosuku."
 
 #. type=data_list
 #. The string @data.characters.media_female_7.name should not be translated.
@@ -7159,8 +7262,7 @@ msgid ""
 "\n"
 "When we learned in @global.app_name about rules, I learned that it is important to be consistent. I discussed with my children why watching TV till late is a problem, and we came up with a rule together to switch off the TV at 8 and be ready for bed by 8.30. Now everyone knows what is expected of them, and we can end the day peacefully."
 msgstr ""
-"Ixesha lokulala lalisoloko linzima endlwini yethu. Abantwana\n"
-"bam babefuna ukuzigcina bebukele umabonakude kwaye. Ndandiphela ndibangxolisa oko: \"Hamba uyolala ngoku! Uyayazi ukuba kufuneka ulungele ukuya esikolweni kwangethuba kusasa!\". Ngezinye iintsuku ndiye ndidinwe kakhulu, kwaye bendibavumela babukele u mabonakude ngakumbi.\n"
+"Ixesha lokulala lalisoloko linzima endlwini yethu. Abantwana bam babefuna ukuzigcina bebukele umabonakude kwaye. Ndandiphela ndibangxolisa oko: \"Hamba uyolala ngoku! Uyayazi ukuba kufuneka ulungele ukuya esikolweni kwangethuba kusasa!\". Ngezinye iintsuku ndiye ndidinwe kakhulu, kwaye bendibavumela babukele u mabonakude ngakumbi.\n"
 "\n"
 "X besifunda kwi @global.app_name malunga nemithetho, Ndifundile ukuba kubalulekile ukungaguquguquki. Ndixoxile kunye nabantwana bam kukuba kutheni ukubukela umabonakude. kude kude kudlule ixesha kuyingxaki, kwaye siye saza nomthetho kunye wokucima mabonakude ngentsimbi yesi 8 kwaye silungele ukuyolala ngentsimbi 8.30. Ngoku wonke umntu uyayazi okulindelekileyo kubo, kwaye singakwazi ukuligqiba usuku ngoxolo."
 
@@ -7949,6 +8051,10 @@ msgid ""
 "\n"
 "Therefore, it is important that when we are facing problems we take a pause, we breathe, keep calm and think of problem-solving skills that we may use."
 msgstr ""
+"Molweni, nonke. \n"
+"\n"
+"Isihloko sanamhlanje singokusombulula ingxaki.\n"
+"\n"
 "Sonke siyayazi ebomini kunamaxesha apho sidibana neengxaki, kwaye sonke siyayazi ngendlela yokuba xa sizifumna sikwezimeko, kunzima ukucinga ngokukhawuleza ngezisombululo ezilungileyo.\n"
 "\n"
 "Ngoko ke, kubalulekile ukuba xa sidibana neengxaki sime, siphefumle, sihlale sizolile kwaye sicinge ngezakhono esinokuzisebenzisa zokusombulula iingxaki."
@@ -7968,13 +8074,11 @@ msgid ""
 "\n"
 "We agreed I would go talk to the teacher to find a way forward. We really found the solutions together, and we are closer now."
 msgstr ""
-"Bendingenabo ubudlelwane ubuhle kunye nentombi yam. Bendisoloko ngalo lonke ixesha ndimngxolisa, kwaye \n"
-"bengafuni ukuya ukuya esikolweni. \n"
+"Bendingenabo ubudlelwane ubuhle kunye nentombi yam. Bendisoloko ngalo lonke ixesha ndimngxolisa, kwaye bengafuni ukuya ukuya esikolweni. \n"
 "\n"
-"Kuphela xa ndaqalisa ukuchitha ixesha Lomnye Nomnye kunye naye, ndaye ndaqonda ukuba engafuni nje ukuya esikolweni uyaxhatshazwa esikolweni. Siye sahlala phantsi sasebenzisa amanyathelo ama 6 okusombulula ingxaki. Siyibonile ingxaki, kwaye sakhangela izisombululo kunye:\"Yintoni endingayenza njengomzali ukwenzela ukwazi ukuya esikolweni kwaye uzive ukhuselekile?\"\n"
+"Kuphela xa ndaqalisa ukuchitha ixesha Lomnye Nomnye kunye naye, ndaye ndaqonda ukuba engafuni nje ukuya esikolweni uyaxhatshazwa esikolweni. Siye sahlala phantsi sasebenzisa amanyathelo ama 6 okusombulula ingxaki. Siyibonile ingxaki, kwaye sakhangela izisombululo kunye: \"Yintoni endingayenza njengomzali ukwenzela ukwazi ukuya esikolweni kwaye uzive ukhuselekile?\"\n"
 "\n"
-"Sivumelene ukuba ndizakuya ku titshala ukufumana indlela eya phambili. Siye sazifumana ngokwenene izisombululo kunye,\n"
-"kwaye sisondelene ngoku.."
+"Sivumelene ukuba ndizakuya ku titshala ukufumana indlela eya phambili. Siye sazifumana ngokwenene izisombululo kunye, kwaye sisondelene ngoku."
 
 #. type=data_list
 #. The string @data.characters.media_son_2.name's should not be translated.
@@ -8245,7 +8349,9 @@ msgctxt "data_list"
 msgid ""
 "Your home activity this week is to take a moment each day to talk about feelings – yours and your child’s. \n"
 "You can even try it out during one-on-one time today!"
-msgstr "Umsebenzi wakho wasekhaya waleveki kukuthatha ithuba ngosuku ngalunye uthethe ngemvakalelo- zakho kunye nozomntwana wakho. Ungayizama ngexesha lenu ninedwa namhlanje!"
+msgstr ""
+"Umsebenzi wakho wasekhaya waleveki kukuthatha ithuba ngosuku ngalunye uthethe ngemvakalelo- zakho kunye nozomntwana wakho.\n"
+"Ungayizama ngexesha lenu ninedwa namhlanje!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8980,7 +9086,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "**Warning Sign 3: Sizwe is being threatened online — fear and threats are warning signs of sextortion or blackmail.**"
-msgstr "** Impawu zesilumkiso 3: Sizwe uyagrogriswa kwi intanethi- uloyiko kunye nezisongelo ziimpawu zesilumkiso zokurhwaphiliza okanye ukutyholwa **"
+msgstr "**Impawu zesilumkiso 3: Sizwe uyagrogriswa kwi intanethi- uloyiko kunye nezisongelo ziimpawu zesilumkiso zokurhwaphiliza okanye ukutyholwa **"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9017,9 +9123,9 @@ msgid ""
 msgstr ""
 "**Hlala nomntwana wakho ofikisayo kwaye wenze imigaqo emi-5 yokhuseleko kunye nexesha elimnandi kwi-intanethi. \n"
 "Zincamathelise edongeni xa nigqibile!**\n"
-"👩‍👩‍👦Xa bobabini umama notata bengenelela, umntwana ofikisayo uyabona ukuba wonke umntu uyancedisa ukugcina usapho lukhuselekile ❤️.\n"
+"👩‍👩‍👦 Xa bobabini umama notata bengenelela, umntwana ofikisayo uyabona ukuba wonke umntu uyancedisa ukugcina usapho lukhuselekile ❤️.\n"
 "\n"
-"** Isampuli yesivumelwano sosapho kwi-intanethi**\n"
+"**Isampuli yesivumelwano sosapho kwi-intanethi**\n"
 "\n"
 "Usapho lwethu luyavumelana nalemigaqo ngexesha elikhuselekileyo nelolonwabo kwi-intanethi:\n"
 "🔑 Gcina ii-akhawunti ziyimfihlo\n"
@@ -9029,7 +9135,11 @@ msgstr ""
 "☀️ Yiba nobubele kunye netlonipho kwabanye kwi-intanethi\n"
 "😃 Yabelana ngento ibenye elungileyo, okanye uxhome okuhlekisayo okanye ividiyo kunye nosapho lwakho veki nganye\n"
 "💛 Abantwana abafikisayo: Ndizakuthetha nomntu omdala ukuba kukho into engalunganga okanye engakhululekanga kwi-intanethi\n"
-"✨ Abazali: Ndizakubamamela kwaye ndibaxhase abantwana bam abafikisayo ngaphandle ngokugxeka okanye ukusola"
+"✨ Abazali: Ndizakubamamela kwaye ndibaxhase abantwana bam abafikisayo ngaphandle kokugxeka okanye ukusola\n"
+"\n"
+"Ityikitywe ngu:\n"
+"🔶 Umzali / umnakekeli __________\n"
+"🔷 Umntwana ofikisayo __________"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -9409,7 +9519,8 @@ msgstr ""
 "**Khumbula ukusebenzisa izakhono zakho ezintsha.** \n"
 "📅 **IMINI**: zama ukuyenza intsuku zonke,\n"
 "⚽ **DLALA**: Yeka umntwana wakho ofikisayo akhethe ukuba kunjani ukuchitha ixesha omnye nomnye, kwaye\n"
-"🎯 **HLALA**: Iba nengqwalasela kumntwana wakho ofikisayo!!"
+"🎯 **HLALA**: Iba nengqwalasela kumntwana wakho ofikisayo!\n"
+"📓 FUNDA: Nxibelelana nomntwana wakho ofikisayo — oku kuyamnceda afunde!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9516,7 +9627,7 @@ msgstr ""
 #.      @data.characters.f2_daughter_19.name
 msgctxt "data_list"
 msgid "Let’s see what happens if @data.characters.f2_grandmother.name tells @data.characters.f2_daughter_19.name \"DON'T\":"
-msgstr "Masibone ukuba kwenzeka ntoni ukuba @data.characters.f2_grandmother.namesixelela@data.characters.f2_daughter_19.name''SUKWENZA'':"
+msgstr "Masibone ukuba kwenzeka ntoni ukuba @data.characters.f2_grandmother.name sixelela @data.characters.f2_daughter_19.name “SUKWENZA”:"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -9631,7 +9742,7 @@ msgstr "Nazi ingcebiso zokunceda uqhubeke ufunda kwaye uxhase ekuhlaleni!"
 #. type=data_list
 msgctxt "data_list"
 msgid "**Here are some ideas on how you can support each other:**"
-msgstr "Nazi ezinye imbono eninokuxhasana ngazo"
+msgstr "**Nazi ezinye imbono eninokuxhasana ngazo:**"
 
 #. type=data_list
 msgctxt "data_list"
@@ -9642,8 +9753,7 @@ msgid ""
 msgstr ""
 "Wenze kakukhle!\n"
 "\n"
-"Siyazidla ngawe. Ubonise amandla, inkuthazo, kunye nothando kusapho lwakho. Abazali bayamangalisa.\n"
-"Uyamangalisa."
+"Siyazidla ngawe. Ubonise amandla, inkuthazo, kunye nothando kusapho lwakho. Abazali bayamangalisa. Uyamangalisa."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10134,6 +10244,7 @@ msgstr ""
 "Lento ingangasebenzi.\n"
 "\n"
 "Abantwana abasafikisayo bafumana uxinzelelo kwaye nolwazi olusuka kwindawo ezininzi esingenakuzilawula.\n"
+"\n"
 "Nje ngabazali singaba nqwanqwada kwaye sibalungise bakwazi okulungileyo nokungalunganga.-Sibancede bazive benokuzithemba ekwenzeni izigqibo ezilungileyo kubomi babo bemihla ngemihla nakwi intanethi."
 
 #. type=data_list
@@ -10168,7 +10279,7 @@ msgstr ""
 "\n"
 "Umceli mngeni ngamnye lithuba lokufundisa umntwana wakho ofikisayo ukuba zonke izenzo zinezi phumo kwaye funeka nijongane nazo niliqembu.\n"
 "\n"
-"Khumbula ukuncomana omnye nomnye ngokusebenzisana kwimeko ezinzima kunye.."
+"Khumbula ukuncomana omnye nomnye ngokusebenzisana kwimeko ezinzima kunye."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10311,8 +10422,8 @@ msgid ""
 "As parents, we don’t need to know every new app — what matters most is trust. When we listen and guide with care, our teens feel safe to share. \n"
 "Let’s keep them safe together!"
 msgstr ""
-"Abantwana abafikisayo bachitha ixesha elininzi ukufunda kwi intanethi, bonwabe, kwaye banxulumane nabahlobo babo. Ingabanceda bakhule , kodwa kananjalo ize nemingcipheko.\n"
-"Njengabazali, asidingiukwazi zonke ii-app ezintsha - eyonanto ebalulekileyo kukuthemba. Xa simamela kwaye sikhokhela ngenkathalo, abantwana bethu abafikisayo baziva bekhuselekile ngokwabelana.\n"
+"Abantwana abafikisayo bachitha ixesha elininzi ukufunda kwi intanethi, bonwabe, kwaye banxulumane nabahlobo babo. Ingabanceda bakhule, kodwa kananjalo ize nemingcipheko.\n"
+"Njengabazali, asidingiukwazi zonke ii-app ezintsha — eyonanto ebalulekileyo kukuthemba. Xa simamela kwaye sikhokhela ngenkathalo, abantwana bethu abafikisayo baziva bekhuselekile ngokwabelana.\n"
 "Masibagcine bekhuselekile kunye!"
 
 #. type=data_list
@@ -10322,7 +10433,7 @@ msgid ""
 "Learning simple steps as a family builds confidence and helps teens make good choices."
 msgstr ""
 "Xa siphonononga ilizwe le-intaneti kunye, siyabaqonda ngcono abantwana bethu abafikisayo. Ibabonisa ukuba ukhuseleko lwe-intanethi limalunga nokuthemba nenkxaso, hayi ulawulo.\n"
-"Ukufunda amanyathelo alula njengo sapho kwakha ukuzithemba kwaye ibancedisa abantwana abafikisayo  benze ukhetho olulungileyo."
+"Ukufunda amanyathelo alula njengo sapho kwakha ukuzithemba kwaye ibancedisa abantwana abafikisayo benze ukhetho olulungileyo."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10333,7 +10444,7 @@ msgstr "Kubantwana abafikisayo, ilizwe le-intanethi libenza bazive liyinyani kwa
 #. The string @data.characters.f1_son_14.name’s should not be translated.
 msgctxt "data_list"
 msgid "Talking about online safety can feel hard. Many parents don’t know how to begin. A good start is to show interest in what your teen enjoys online. Let’s see how @data.characters.f1_son_14.name’s mother does this…"
-msgstr "Ukuthetha ngokhuseleko lwe-intanethi lungavakala kunzima. Abazali abaninzi abayazi mabaqale njani. Isiqalo esilungileyo kukubonisa umdla kwinto umntana wakho ofikisayo ayonwabelayo kwi-intanethi. Masibone ukuba uyenza njani umama ka @data.characters.f1_son_14.name lento."
+msgstr "Ukuthetha ngokhuseleko lwe-intanethi lungavakala kunzima. Abazali abaninzi abayazi mabaqale njani. Isiqalo esilungileyo kukubonisa umdla kwinto umntana wakho ofikisayo ayonwabelayo kwi-intanethi. Masibone ukuba uyenza njani umama ka @data.characters.f1_son_14.name lento…"
 
 #. type=data_list
 #. The string @data.characters.f1_son_14.name should not be translated.
@@ -10342,13 +10453,13 @@ msgid ""
 "We saw how @data.characters.f1_son_14.name and his mother talked openly about his time online.\n"
 "Being online can help teens learn, create, and connect — but we also need to guide them to stay safe and use it wisely."
 msgstr ""
-"Simbonile u @data.characters.f1_son_14.name kunye  nomama wakhe bethetha  njani kunye ngexesha lakhe lokuba kwi-intanethi.\n"
-"Ukuba kwi-intanethi kunganceda abantwana abafikisayo bafunde, benze, kwaye banxulumane --- kodwa kukwadinga nathi sibakhokhele ukuhlala bekhuselekile kwaye beyisebenzisa ngobulumko."
+"Simbonile u @data.characters.f1_son_14.name kunye nomama wakhe bethetha njani kunye ngexesha lakhe lokuba kwi-intanethi.\n"
+"Ukuba kwi-intanethi kunganceda abantwana abafikisayo bafunde, benze, kwaye banxulumane — kodwa kukwadinga nathi sibakhokhele ukuhlala bekhuselekile kwaye beyisebenzisa ngobulumko."
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Here are 4 things you can discuss with your teen about online safety:"
-msgstr "Nazi izinto eziyi4 ongaxoxa ngazo kunye nomntwana wakho ofikisayo malunga nokhuseleko lwe-intanethi."
+msgstr "Nazi izinto eziyi4 ongaxoxa ngazo kunye nomntwana wakho ofikisayo malunga nokhuseleko lwe-intanethi:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10359,7 +10470,7 @@ msgid ""
 msgstr ""
 "Ngamanye amaxesha abantwana abafikisayo bagaxeleka kwimeko ezikhohlasiyo okanye neziyi ngozi kwi-intanethi, kwaye njengabazali akusoloko kulula ukuyazi ukuba mawenze ntoni.\n"
 "\n"
-"Masijonge imizekelo eyi5 yeempawu  zezilumkiso ze-intanethi kwaye singabaxhasa njani abantwana bethu abafikisayo."
+"Masijonge imizekelo eyi5 yeempawu zezilumkiso ze-intanethi kwaye singabaxhasa njani abantwana bethu abafikisayo."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10370,7 +10481,7 @@ msgstr "**Uphawu lwesilumkiso 1: u-Lerato uthule kwaye urhoxile - ukutshintsha k
 #. The string @data.characters.f3_daughter_12.name should not be translated.
 msgctxt "data_list"
 msgid "**Warning Sign 2: @data.characters.f3_daughter_12.name hears about a classmate sharing private photos — hearing such stories is a warning sign to talk with your teen about pressure and safety online.**"
-msgstr "** Impawu zesilumkiso 2: U@data.characters.f3_daughter_12.name uve ngomntana afunda naye oye wabelana ngeefoto zabucala - ukuva amabali anjalo zimpawu zesilumkiso ukuba uthethe nomntana wakho ofikisayo kunye nokhuseleko lwe-intanethi**"
+msgstr "**Impawu zesilumkiso 2: U@data.characters.f3_daughter_12.name uve ngomntana afunda naye oye wabelana ngeefoto zabucala - ukuva amabali anjalo zimpawu zesilumkiso ukuba uthethe nomntana wakho ofikisayo kunye nokhuseleko lwe-intanethi**"
 
 #. type=data_list
 #. The string @data.characters.f1_son_18.name should not be translated.
@@ -10382,7 +10493,7 @@ msgstr "Uphawu lwesilumkiso 3: u @data.characters.f1_son_18.name uyagrogriswa kw
 #. The string @data.characters.friend_male_4.name should not be translated.
 msgctxt "data_list"
 msgid "**Warning Sign 4: @data.characters.friend_male_4.name shared private pictures at school — sharing or showing harmful images is a warning sign that teens need clear guidance.**"
-msgstr "Uphawu lwesilumkiso 4: u@data.characters.friend_male_4.name wabelene ngemifanekiso yabucala esikolweni - ukwabelana okanye ukubonisa imifanekiso eyonzakalisayo zimpawu zesilumkiso ezibonisa ukuba abantwana abafikisayo badinga isikhokhelo esicacileyo.**"
+msgstr "**Uphawu lwesilumkiso 4: u@data.characters.friend_male_4.name wabelene ngemifanekiso yabucala esikolweni - ukwabelana okanye ukubonisa imifanekiso eyonzakalisayo zimpawu zesilumkiso ezibonisa ukuba abantwana abafikisayo badinga isikhokhelo esicacileyo.**"
 
 #. type=data_list
 #. The string @data.characters.f2_son_15.name should not be translated.
@@ -10406,7 +10517,8 @@ msgid ""
 "💬 Ask “Did you see anything fun or interesting online today?” \n"
 "📓 Help with research or homework online"
 msgstr ""
-"** Nantsi eminye imizekelo yamaxesha okwabelana kwi-intanethi:**\n"
+"**Nantsi eminye imizekelo yamaxesha okwabelana kwi-intanethi:**\n"
+"\n"
 "🖥️ Bukelani ividiyo emfutshane okanye ingoma kunye\n"
 "💜 Yabelana ngeememes kunye neeklip ezihlekisayo\n"
 "😊 Cela umntana wakho ofikisayo akufundise into kwi-intanethi ( njengokufaka ifoto yosapho)\n"
@@ -10456,7 +10568,7 @@ msgstr ""
 "Zincamathelise edongeni xa nigqibile!**\n"
 "👩‍👩‍👦Xa bobabini umama notata bengenelela, umntwana wakho ofikisayo uyabona ukuba wonke umntu uyancedisa ukugcina usapho lukhuselekile ❤️.\n"
 "\n"
-"** Isampuli yesivumelwano sosapho kwi-intanethi**\n"
+"**Isampuli yesivumelwano sosapho kwi-intanethi**\n"
 "\n"
 "Usapho lwethu luyavumelana nalemigaqo ngexesha elikhuselekileyo nelolonwabo kwi-intanethi:\n"
 "🔑 Gcina ii-akhawunti ziyimfihlo\n"
@@ -10466,7 +10578,11 @@ msgstr ""
 "☀️ Yiba nobubele kunye netlonipho kwabanye kwi-intanethi\n"
 "😃 Yabelana ngento ibenye elungileyo, okanye uxhome okuhlekisayo okanye ividiyo kunye nosapho lwakho veki nganye\n"
 "💛 Abantwana abafikisayo: Ndizakuthetha nomntu omdala ukuba kukho into engalunganga okanye engakhululekanga kwi-intanethi\n"
-"✨ Abazali: Ndizakubamamela kwaye ndibaxhase abantwana bam abafikisayo ngaphandle ngokugxeka okanye ukusola"
+"✨ Abazali: Ndizakubamamela kwaye ndibaxhase abantwana bam abafikisayo ngaphandle ngokugxeka okanye ukusola\n"
+"\n"
+"Ityikitywe ngu:\n"
+"🔶 Umzali / umnakekeli __________\n"
+"🔷 Umntwana ofikisayo __________"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10497,9 +10613,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "When we involve our teens in budgeting, they learn to be responsible with money and work towards goals. That is something we all want for our teens, right?"
-msgstr ""
-"Xa siba bandakanya abantwana bethu abafikisayo kuhlahlo lwabiwo mali, bafunda ukuthatha uxanduva ngemali kwaye basebenzele amaphupha.\n"
-"Yinto leyo esiyifuna sonke ngabantwana bethu abafikisayo, akunjalo?"
+msgstr "Xa siba bandakanya abantwana bethu abafikisayo kuhlahlo lwabiwo mali, bafunda ukuthatha uxanduva ngemali kwaye basebenzele amaphupha. Yinto leyo esiyifuna sonke ngabantwana bethu abafikisayo, akunjalo?"
 
 #. type=data_list
 #. The string @data.characters.f2_grandmother.name should not be translated.
@@ -10611,8 +10725,7 @@ msgid ""
 "Not sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice."
 msgstr ""
 "- Bhala phantsi ukuba uyimalini umvuzo wakho wenyanga.\n"
-"- Thathani amatye athile okanye iimbotyi okanye nantoni na enamasuntswana amaninzi - lo ngumvuzo wakho wenyanga. \n"
-"umzekelo: Ukuba umvuzo wakho yi-R2000, yaye uneembotyi ezingama 20, mbotyi nganye yi-R100. \n"
+"- Thathani amatye athile okanye iimbotyi okanye nantoni na enamasuntswana amaninzi - lo ngumvuzo wakho wenyanga. Umzekelo: Ukuba umvuzo wakho yi-R2000, yaye uneembotyi ezingama 20, mbotyi nganye yi-R100. \n"
 "- Gqibani ukuba niza kuthenga ntoni ngemali, uze ubeke amatye/ izinto kuloo mfanekiso. \n"
 "\n"
 "Aniqinisekanga ngezigqibo zenu? Ninengxaki ukwahlula phakathi “kwezidingo” “neemfuno”? Akukho ngxaki konke konke! Lomsebenzi uyakuba lula ngokuziqhelanisa."
@@ -10817,7 +10930,7 @@ msgid ""
 msgstr ""
 "Yindlela elungileyo kakhulu!\n"
 "\n"
-"Ukuba ngumzali ebantwaneni abafikisayo kunzima nyhani. Kusoloko kungekho sisombululo sicacileyo nesilula, kodwa ngoku u@data.characters.f1_mother.name ufunde ukuba angathetha nentombi yakhe ngezizinto.."
+"Ukuba ngumzali ebantwaneni abafikisayo kunzima nyhani. Kusoloko kungekho sisombululo sicacileyo nesilula, kodwa ngoku u@data.characters.f1_mother.name ufunde ukuba angathetha nentombi yakhe ngezizinto."
 
 #. type=data_list
 #. The string @data.characters.f1_mother.name should not be translated.
@@ -10866,11 +10979,10 @@ msgstr ""
 "**Nantsi eminye imizekelo yeengxaki ezisonjululwa ngabanye abazali nabantwana babo abafikisayo:**\n"
 "\n"
 "- Umntwana wam ofikisayo akafuni ukuya esikolweni\n"
-"- Umntwana wam ofikisayo ubasefowunini kakhulu.\n"
+"- Umntwana wam ofikisayo ubasefowunini kakhulu\n"
 "- Ndinexhala lokuba umntwana wam ofikisayo angakhulelwa okanye akhulelise umntu\n"
 "- Ndinexhala ngezinto ezenziwa ngumntwana wam ofikisayo kwi-intanethi\n"
 "- Umntwana wam ofikisayo uhlala nabahlobo abangalunganga\n"
-"- Umntwana wam ofikisayo uyonqena\n"
 "- Umntwana wam ofikisayo akawenzi umsebenzi wakhe wesikolo\n"
 "- Umntwana wam ofikisayo kusenokwenzeka usebenzisa iziyobisi"
 
@@ -10916,7 +11028,7 @@ msgstr ""
 "\n"
 "Abantwana bafikisayo banokuchitha ixesha elinzi ngaphandle kwekhaya okanye kwi-intanethi, apho kuzima khona kuthi ukuba sibagcine bekhuselekile. Ukuthetha kunye ngokhuseleko kunye nendawo ezingakhuselekanga - kunye nendlela zokunqanda iingxaki - kuyanceda kakhulu.\n"
 "\n"
-"Esi sikhokelo sibalulekile kumantobazana kunye nakumakhwenkwe ukuze afunde ukwenza ukhetho olufanelekileyo olukhuselayo kunye nabanye.."
+"Esi sikhokelo sibalulekile kumantobazana kunye nakumakhwenkwe ukuze afunde ukwenza ukhetho olufanelekileyo olukhuselayo kunye nabanye."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10925,7 +11037,7 @@ msgid ""
 "\n"
 "With our support, they can learn to stay safe and make good decisions."
 msgstr ""
-"Ngamanye amaxesha abantwana bethu abafikisayo baqaphela izinto ezisingqongileyo thina esingaziboniyo. Ngokuthetha nangokumamela , singaliqonda ngcono ihlabathi labo kwaye sibakhokhele kwimiceli mngeni - kuquka imingcipheko abajongene nayo kwi intanethi.\n"
+"Ngamanye amaxesha abantwana bethu abafikisayo baqaphela izinto ezisingqongileyo thina esingaziboniyo. Ngokuthetha nangokumamela, singaliqonda ngcono ihlabathi labo kwaye sibakhokhele kwimiceli mngeni – kuquka imingcipheko abajongene nayo kwi intanethi.\n"
 "\n"
 "Ngenxaso yethu, bangafunda ukuhlala bekhuselekile kwaye benze izigqibo ezifanelekileyo."
 
@@ -10949,10 +11061,30 @@ msgstr ""
 "Masijonge imizekelo yeemeko ezinomngcipheko ukukunceda ubone iimpawu ezilumkisayo."
 
 #. type=data_list
+#. The string @data.characters.friend_female_4.name should not be translated.
+msgctxt "data_list"
+msgid "Boyfriend pressures @data.characters.friend_female_4.name to go beyond kissing"
+msgstr "Iqabane lixinzelela u @data.characters.friend_female_4.name ukuba baye ngaphaya kokuphuzana"
+
+#. type=data_list
 #. The string @data.characters.f2_daughter_19.name should not be translated.
 msgctxt "data_list"
 msgid "Friend pushes @data.characters.f2_daughter_19.name to accept food"
 msgstr "Umhlobo unyanzela u @data.characters.f2_daughter_19.name ukuba amkele ukutya"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_son_18.name’s
+#.      @data.characters.friend_male_1.name,
+msgctxt "data_list"
+msgid "@data.characters.f1_son_18.name’s friend, @data.characters.friend_male_1.name, shouts sexual comment at a girl"
+msgstr "Umhlobo ka @data.characters.f1_son_18.name, u @data.characters.friend_male_1.name, iyayikhwaza intombazana ngesondo"
+
+#. type=data_list
+#. The string @data.characters.friend_female_4.name should not be translated.
+msgctxt "data_list"
+msgid "Teacher asks @data.characters.friend_female_4.name to stay after school"
+msgstr "Utishala ucela u @data.characters.friend_female_4.name ahlale emva kwesikolo"
 
 #. type=data_list
 #. The string @data.characters.friend_female_2.name's should not be translated.
@@ -10964,7 +11096,7 @@ msgstr "Imifanekiso ka @data.characters.friend_female_2.name ehamba ngaze kwabel
 #. The string @data.characters.friend_female_4.name should not be translated.
 msgctxt "data_list"
 msgid "Boyfriend stops @data.characters.friend_female_4.name from meeting friends"
-msgstr "Iqabane lika @data.characters.friend_female_4.name liyamnqanda ukuba adibane nabahlobo."
+msgstr "Iqabane lika @data.characters.friend_female_4.name liyamnqanda ukuba adibane nabahlobo"
 
 #. type=data_list
 #. The string @data.characters.f2_daughter_19.name should not be translated.
@@ -11036,9 +11168,8 @@ msgid ""
 msgstr ""
 "Ngamanye amaxesha, singazifumana sisengxakini.\n"
 "\n"
-"- Wena nomntwana wakho ofikisayo ningayifumana phi inkxaso xa nijamelene negxaki? \n"
-" PHAWULA ezo ndawo ngento encinci enjengelitye okanye iphephatshana.\n"
-"- Khumbula ifowuni yakho kunye nezinye izixhobo zeinternet. Kukho inxaso eninzi ekhoyo kwiinternet!!"
+"- Wena nomntwana wakho ofikisayo ningayifumana phi inkxaso xa nijamelene negxaki? PHAWULA ezo ndawo ngento encinci enjengelitye okanye iphephatshana.\n"
+"- Khumbula ifowuni yakho kunye nezinye izixhobo zeinternet. Kukho inxaso eninzi ekhoyo kwiinternet!"
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -11082,12 +11213,11 @@ msgid ""
 "Make sure you are both happy with the safety plan. What really matters is that you talk with your teen as you do this – often teens know much more than we do about where it is safe and unsafe!"
 msgstr ""
 "Ukuba anikayenzi kunye okwangoku, umsebenzi wasekhaya waleveki kukwenza imephu ezimbini kunye nomntwana wakho ofikisayo ngendawo ezikhuselekileyo nezingakhuselekanga.\n"
+"\n"
 "1) 🗺️ Imephu yendawo ohlala kuyo\n"
 "2) 🌐 Imephu yee-app neewebhsayithi ezisetyenziswa ngumntwana wakho ofikisayo \n"
 "\n"
-"Qinisekisa ukuba nobabini nonwabile ngesicwangciso sokhuseleko. \n"
-"\n"
-"Eyona nto ibalulekileyo ngokwenene kukuba uthethe nomntwana wakho ofikisayo njengoko usenza lento – abantwana abafikisayo basoloko besazi kakhulu ngendawo ekhuselekileyo nengakhuselekanga!"
+"Qinisekisa ukuba nobabini nonwabile ngesicwangciso sokhuseleko. Eyona nto ibalulekileyo ngokwenene kukuba uthethe nomntwana wakho ofikisayo njengoko usenza lento – abantwana abafikisayo basoloko besazi kakhulu ngendawo ekhuselekileyo nengakhuselekanga!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -12175,11 +12305,6 @@ msgstr "Indlela yomphuhlisi"
 msgctxt "template"
 msgid "Exit developer mode"
 msgstr "Phuma kwindlela yomphuhlisi"
-
-#. type=template
-msgctxt "template"
-msgid "facilitator"
-msgstr "umbhexeshi"
 
 #. type=template
 msgctxt "template"
