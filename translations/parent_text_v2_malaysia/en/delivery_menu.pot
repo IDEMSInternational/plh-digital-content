@@ -298,6 +298,11 @@ msgid "🎉Yahoo!🎉 Great work, @fields.first_user_name. Here's your certifica
 msgstr ""
 
 #. type=text
+msgctxt "text"
+msgid "If you ever need to reprint this certificate, send {PRINT}."
+msgstr ""
+
+#. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "🎉CONGRATULATIONS!🎉 You have earned a badge and completed the goal @results.name. Well done!"
@@ -1210,6 +1215,44 @@ msgid "Please select your language:"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This feature will be available once you complete @fields.prog_name and receive your certificate."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sorry, it looks like you've reached your limit of @fields.max_reprints reprints for your certificate."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "It looks like we don’t have a name for your certificate yet."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "I'll prepare your certificate with the name @fields.certificate_name."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Is that right?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Here's your certificate!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Oops, something went wrong."
+msgstr ""
+
+#. type=text
 msgctxt "text"
 msgid "I'm really proud of your effort today. Let’s build on it tomorrow!"
 msgstr ""
@@ -1638,6 +1681,18 @@ msgctxt "quick_replies"
 msgid "Bahasa Melayu"
 msgstr ""
 
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, change my name."
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, that's right!"
+msgstr ""
+
 #. type=variables
 msgctxt "variables"
 msgid "@results.name"
@@ -1982,4 +2037,16 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "bahasa melayu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, change my name."
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes, that's right!"
 msgstr ""
