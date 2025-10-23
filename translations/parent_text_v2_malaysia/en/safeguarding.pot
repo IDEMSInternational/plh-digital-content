@@ -165,12 +165,28 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You are already part of ParentText!"
+msgid "You are already part of NKText!"
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "You have already completed ParentText!"
+msgid "Please type {MENU} to access resources and review your progress, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Type {NEWCONV} and then @inut.text if you'd like to reset all your progress and start NKText from the beginning."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have already completed NKText!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back to NKText!"
 msgstr ""
 
 #. type=text
@@ -318,6 +334,12 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "BACK"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "facilitator"
 msgstr ""
 
 #. type=arguments
@@ -581,5 +603,23 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "ibubapa"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mpms"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "training"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "demo"
 msgstr ""
