@@ -123,8 +123,9 @@ msgid "We hope this was helpful! You can access this information at any time by 
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Welcome back to ParentText!"
+msgid "Welcome back to @fields.prog_name!"
 msgstr ""
 
 #. type=text
@@ -155,7 +156,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Parenting is hard. ParentText may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
+msgid "Parenting is hard. @fields.prog_name may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
 msgstr ""
 
 #. type=text
@@ -164,8 +165,9 @@ msgid "That's okay. If you ever decide to come back, type HELLO. "
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You are already part of NKText!"
+msgid "You are already part of @fields.prog_name!"
 msgstr ""
 
 #. type=text
@@ -176,22 +178,19 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Type {NEWCONV} and then @inut.text if you'd like to reset all your progress and start NKText from the beginning."
+msgid "Type {NEWCONV} and then @inut.text if you'd like to reset all your progress and start @fields.prog_name from the beginning."
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You have already completed NKText!"
+msgid "You have already completed @fields.prog_name!"
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Welcome back to NKText!"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?"
+msgid "Staying in @fields.prog_name helps you and your child. Are you sure you want to exit the programme?"
 msgstr ""
 
 #. type=text
