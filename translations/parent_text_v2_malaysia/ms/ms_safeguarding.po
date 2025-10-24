@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-07-23 15:41\n"
+"PO-Revision-Date: 2025-10-24 05:57\n"
 
 #. type=text
 msgctxt "text"
@@ -134,9 +134,10 @@ msgid "We hope this was helpful! You can access this information at any time by 
 msgstr "Kami berharap ini dapat membantu anda! Anda boleh mengakses semula maklumat ini pada bila-bila masa dengan menaip {HELP}."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Welcome back to ParentText!"
-msgstr "Selamat kembali ke NKText!"
+msgid "Welcome back to @fields.prog_name!"
+msgstr "Selamat kembali ke @fields.prog_name!"
 
 #. type=text
 msgctxt "text"
@@ -166,8 +167,8 @@ msgstr "Semoga berjumpa lagi! Selamat sejahtera!"
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Parenting is hard. ParentText may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
-msgstr "Saya faham, memang sukar untuk menjadi ibu bapa yang hebat. NKText mungkin boleh membantu anda. Anda telah melengkapkan @fields.n_goals_completed daripada matlamat keibubapaan @fields.n_goals_prog. Adakah anda ingin meneruskan kemajuan anda?"
+msgid "Parenting is hard. @fields.prog_name may help. You've completed @fields.n_goals_completed out of @fields.n_goals_prog parenting goals. Would you like to continue your progress?"
+msgstr "Keibubapaan bukanlah sesuatu yang mudah. @fields.prog_name mungkin dapat membantu anda. Anda telah menyiapkan @fields.n_goals_completed daripada @fields.n_goals_prog matlamat keibubapaan. Adakah anda ingin meneruskan kemajuan anda?"
 
 #. type=text
 msgctxt "text"
@@ -175,19 +176,33 @@ msgid "That's okay. If you ever decide to come back, type HELLO. "
 msgstr "Tidak mengapa. Taip HELO jika anda membuat keputusan untuk kembali."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "You are already part of ParentText!"
-msgstr "Anda sudah menyertai ParentText!"
+msgid "You are already part of @fields.prog_name!"
+msgstr "Anda sudah menjadi sebahagian daripada @fields.prog_name!"
 
 #. type=text
 msgctxt "text"
-msgid "You have already completed ParentText!"
-msgstr "Anda telah melengkapkan NKText!"
+msgid "Please type {MENU} to access resources and review your progress, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources."
+msgstr "Sila taip {MENU} untuk dapatkan sumber dan menyemak kemajuan anda, {PLAY} untuk menerima aktiviti menyeronokkan yang boleh anda lakukan bersama anak anda, atau {HELP} untuk mendapatkan sumber sokongan setempat."
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Staying in ParentText helps you and your child. Are you sure you want to exit the programme?"
-msgstr "Jika anda kekal berada dalam NKText, saya boleh membantu anda dan anak anda. Adakah anda pasti ingin keluar daripada program ini?"
+msgid "Type {NEWCONV} and then @inut.text if you'd like to reset all your progress and start @fields.prog_name from the beginning."
+msgstr "Taip {NEWCONV} dan kemudian @input.text jika anda ingin menetapkan semula semua kemajuan anda dan memulakan semula @fields.prog_name dari awal."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have already completed @fields.prog_name!"
+msgstr "Anda telah pun melengkapkan @fields.prog_name!"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Staying in @fields.prog_name helps you and your child. Are you sure you want to exit the programme?"
+msgstr "Terus kekal dalam @fields.prog_name dapat membantu anda dan anak anda. Adakah anda pasti ingin keluar daripada program ini?"
 
 #. type=text
 msgctxt "text"
@@ -330,6 +345,12 @@ msgstr "Keluar menu"
 msgctxt "quick_replies"
 msgid "BACK"
 msgstr "KEMBALI"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "facilitator"
+msgstr "fasilitator"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -592,6 +613,24 @@ msgstr "sedia"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "ibubapa"
+msgstr "ibubapa"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mpms"
+msgstr "mpms"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "training"
 msgstr "training"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "demo"
+msgstr "demo"
 
