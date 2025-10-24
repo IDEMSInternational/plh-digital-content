@@ -230,6 +230,12 @@ msgid "This feature will be available once you have completed registration. It w
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This feature will be available once you complete @fields.prog_name and receive your certificate. Please continue your progress!"
+msgstr ""
+
+#. type=text
 msgctxt "text"
 msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
 msgstr ""
@@ -339,6 +345,12 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "facilitator"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "print"
 msgstr ""
 
 #. type=arguments
