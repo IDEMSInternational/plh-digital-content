@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-10-24 05:57\n"
+"PO-Revision-Date: 2025-10-28 10:49\n"
 
 #. type=text
 msgctxt "text"
@@ -241,6 +241,12 @@ msgid "This feature will be available once you have completed registration. It w
 msgstr "Selepas anda melengkapkan pendaftaran, ciri ini akan sedia ada untuk anda. Ia tidak akan mengambil masa yang lama. Sila teruskan dengan pendaftaran!"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "This feature will be available once you complete @fields.prog_name and receive your certificate. Please continue your progress!"
+msgstr "Ciri ini akan tersedia selepas anda melengkapkan @fields.prog_name dan menerima sijil anda. Sila teruskan usaha anda!"
+
+#. type=text
 msgctxt "text"
 msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
 msgstr "Selepas anda melengkapkan pendaftaran, menu akan sedia ada untuk anda. Ia tidak akan mengambil masa yang lama. Sila maju!"
@@ -351,6 +357,12 @@ msgstr "KEMBALI"
 msgctxt "arguments"
 msgid "facilitator"
 msgstr "fasilitator"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "print"
+msgstr "cetak"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
