@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-10-30 12:44\n"
+"PO-Revision-Date: 2025-10-31 08:18\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1780,6 +1780,21 @@ msgstr "Tetapkan profil anda"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"- Go to Settings and click the Profile icon\n"
+"\n"
+"- Type your name under “Your name” \n"
+"\n"
+"- Tap Save"
+msgstr ""
+"- Pergi ke Tetapan dan klik ikon Profil\n"
+"\n"
+"- Taip nama anda di bawah “Nama anda”\n"
+"\n"
+"- Klik Simpan"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Add a Parent"
 msgstr "Tambah Ibu atau Bapa"
 
@@ -1895,6 +1910,25 @@ msgstr ""
 msgctxt "data_list"
 msgid "WhatsApp"
 msgstr "Kumpulan B"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"- Save the NKText phone number (+6-012-292-7434) as a contact.\n"
+"- Open WhatsApp, search for ‘NKText' and start a chat by typing the trigger word shared with you."
+msgstr ""
+"- Simpan nombor telefon NKText (+6-012-292-7434) sebagai kenalan\n"
+"- Buka WhatsApp, cari 'NKText' dan mulakan sembang dengan menaip kata kunci yang telah dikongsikan kepada anda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Telegram"
+msgstr "Telegram"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "- Open Telegram, search for ‘NKText_bot' and start a chat by typing the trigger word shared with you."
+msgstr "- Buka Telegram, cari ‘NKText_bot’ dan mulakan sembang dengan menaip kata kunci yang telah dikongsikan kepada anda."
 
 #. type=data_list
 msgctxt "data_list"
@@ -2256,6 +2290,11 @@ msgstr ""
 "Ibu bapa mungkin melihat anda sebagai sumber sokongan di luar sekolah dan Naungan Kasih, tetapi penting untuk memastikan keadaan seimbang.\n"
 "\n"
 "Kongsi mesej ini untuk membimbing ibu bapa dengan perlahan-lahan ke tempat lain untuk mendapatkan sokongan."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Choose if you would like to join on WhatsApp or Telegram and follow the instructions below."
+msgstr "Pilih sama ada anda ingin menyertai melalui WhatsApp atau Telegram, dan ikuti arahan di bawah."
 
 #. type=data_list
 #. The string @global.supervisor_name. should not be translated.
@@ -3530,6 +3569,11 @@ msgstr "Bagaimana saya boleh akses NKText?"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "To join on:"
+msgstr "Untuk menyertai melalui:"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "A parent needs support accessing NKText and I'm not sure how to answer their question."
 msgstr "Ada ibu bapa yang memerlukan sokongan untuk menggunakan NKText dan saya tidak pasti cara untuk menjawab soalan mereka."
 
@@ -4342,6 +4386,22 @@ msgstr "Laporan Anda"
 msgctxt "template"
 msgid "Parent Group"
 msgstr "Kumpulan Ibu Bapa"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.first_name
+#.      @item.first_name
+msgctxt "template"
+msgid "@item.first_name == \"\" || @item.first_name == undefined"
+msgstr "@item.first_name == \"\" || @item.first_name == undefined"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.last_name
+#.      @item.last_name
+msgctxt "template"
+msgid "@item.last_name == \"\" || @item.last_name == undefined"
+msgstr "@item.last_name == \"\" || @item.last_name == undefined"
 
 #. type=template
 msgctxt "template"
