@@ -4,6 +4,36 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Week 1"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 2"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 3"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 4"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 5"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 6"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "test"
 msgstr ""
 
@@ -333,17 +363,97 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Father"
+msgid "Angela"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Son 5"
+msgid "Roberto"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Son 17"
+msgid "Miguel"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Alina"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kimberly"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Thalia"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daisy"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Daniel"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Oma"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Opa"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Tania"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kevin"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Kendrick"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mia"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Zulayka"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bryan"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Amy"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Lisa"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Shawn"
 msgstr ""
 
 #. type=data_list
@@ -1813,10 +1923,12 @@ msgid "About @global.app_name"
 msgstr ""
 
 #. type=data_list
-#. The string @global.app_name should not be translated.
+#. The following strings should not be translated: 
+#.      @global.app_name
+#.      @global.programme_name
 msgctxt "data_list"
 msgid ""
-"@global.app_name is an app designed by IDEMS International, Parenting for Lifelong Health, Ministry of Social Development, Labour, and Welfare, UNICEF the Netherlands, to support the delivery of [Programme Name] in Curaçao. The content herein is available under an open source Creative Commons International 4.0 license. \n"
+"@global.app_name is an app designed by IDEMS International, Parenting for Lifelong Health, Ministry of Social Development, Labour, and Welfare, UNICEF the Netherlands, to support the delivery of @global.programme_name in Curaçao. The content herein is available under an open source Creative Commons International 4.0 license. \n"
 "\n"
 "All illustrations in this app are generated using AI, inspired by the works of illustrators Orli Setton & Natalia Calixto. The original and the AI generated artworks are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.\n"
 "\n"
@@ -1826,11 +1938,6 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "One-on-one time: Watch and try"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "One-on-one time: Watch  and try"
 msgstr ""
 
 #. type=data_list
@@ -2856,27 +2963,37 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "5 - Excellent"
+msgid "Profile"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "4 - Good"
+msgid "This is used as the title of the 'Profile' page"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "3 - OK"
+msgid "Excellent"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "2 - Bad"
+msgid "Good"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "1 - Very Bad"
+msgid "Okay"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Could be better"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Difficult"
 msgstr ""
 
 #. type=data_list
@@ -2995,9 +3112,8 @@ msgid "Please select a value"
 msgstr ""
 
 #. type=data_list
-#. The string @fields.current_module_name should not be translated.
 msgctxt "data_list"
-msgid "What challenges did you face in delivering @fields.current_module_name Be specific."
+msgid "What challenges did you face in delivering the session? Be specific."
 msgstr ""
 
 #. type=data_list
@@ -3146,9 +3262,9 @@ msgid "6️⃣ Come prepared for each lesson"
 msgstr ""
 
 #. type=data_list
-#. The string @global_prog.name should not be translated.
+#. The string @global.prog_name should not be translated.
 msgctxt "data_list"
-msgid "7️⃣ Make @global_prog.name a happy place to learn"
+msgid "7️⃣ Make @global.prog_name a happy place to learn"
 msgstr ""
 
 #. type=data_list
@@ -3963,129 +4079,6 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Your Content Package"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "parent groups"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Tap and type"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Tap and select"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Your partner in delivering Mayor Konektá"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Create an account"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Excited to have you here! Let’s keep going."
-msgstr ""
-
-#. type=global
-#. The string @fields._auth_user_given_name! should not be translated.
-msgctxt "global"
-msgid "Excited to have you here @fields._auth_user_given_name! Let’s keep going."
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "You are signed in."
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Welcome"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Share"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Your name"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "[INSERT NAME]"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Which state do you live in?"
-msgstr ""
-
-#. type=global
-#. The string @global.deployment_country should not be translated.
-msgctxt "global"
-msgid "Which region of @global.deployment_country do you live in?"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Mayor Konektá"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "WhatsApp"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "No parent groups found. To create a parent group, click on groups"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Submit Report"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "GUIDE"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "You've reached the end of this session. What would you like to do next?"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Select Role"
-msgstr ""
-
-#. type=global
-#. The string @global.app_name should not be translated.
-msgctxt "global"
-msgid "About @global.app_name"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "User ID"
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "Active"
 msgstr ""
 
@@ -4171,7 +4164,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Contact Number*"
+msgid "Contact Number"
 msgstr ""
 
 #. type=global
@@ -4342,6 +4335,128 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Please enter a date."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Your Content Package"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "parent groups"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Tap and type"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Tap and select"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Welcome"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Share"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Your name"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "[INSERT NAME]"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Which state do you live in?"
+msgstr ""
+
+#. type=global
+#. The string @global.deployment_country should not be translated.
+msgctxt "global"
+msgid "Which region of @global.deployment_country do you live in?"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Mayor Konektá"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "WhatsApp"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "No parent groups found. To create a parent group, click on groups"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Submit Report"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "GUIDE"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "You've reached the end of this session. What would you like to do next?"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Select Role"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "your supervisor"
+msgstr ""
+
+#. type=global
+#. The string @global.app_name should not be translated.
+msgctxt "global"
+msgid "About @global.app_name"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "User ID"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "report pending"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "reports pending"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "follow up"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "follow ups"
 msgstr ""
 
 #. type=global
@@ -4635,22 +4750,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Select role"
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "Language"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "What is your municipality?"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Select municipality"
 msgstr ""
 
 #. type=global
@@ -4661,6 +4761,12 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Select organisation"
+msgstr ""
+
+#. type=global
+#. The string @global.programme_name should not be translated.
+msgctxt "global"
+msgid "Your partner in delivering @global.programme_name"
 msgstr ""
 
 #. type=template
@@ -4718,6 +4824,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Deliver"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Pending Reports"
 msgstr ""
 
@@ -4728,50 +4839,12 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "TO DO"
-msgstr ""
-
-#. type=template
-#. The string @local.number_pending_reports should not be translated.
-msgctxt "template"
-msgid "pending = @local.number_pending_reports"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "🚀 Your parents are waiting! Once you deliver your first session, your reports will appear here."
-msgstr ""
-
-#. type=template
-#. The string @local.number_pending_reports should not be translated.
-msgctxt "template"
-msgid "@local.number_pending_reports Pending Reports"
-msgstr ""
-
-#. type=template
-#. The string @local.number_pending_reports should not be translated.
-msgctxt "template"
-msgid "@local.number_pending_reports Pending Report"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Show All"
 msgstr ""
 
 #. type=template
 msgctxt "template"
 msgid "Show Less"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "🎉 No Pending Reports"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Great job! You’ve completed all reports!"
 msgstr ""
 
 #. type=template
@@ -4810,6 +4883,45 @@ msgid "App Details & Terms"
 msgstr ""
 
 #. type=template
+#. The string @local.number_delivered_sessions should not be translated.
+msgctxt "template"
+msgid "delivered = @local.number_delivered_sessions"
+msgstr ""
+
+#. type=template
+#. The string @local.number_pending_reports should not be translated.
+msgctxt "template"
+msgid "pending = @local.number_pending_reports"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "🚀 Your parents are waiting! Once you deliver your first session, your reports will appear here."
+msgstr ""
+
+#. type=template
+#. The string @local.number_pending_reports should not be translated.
+msgctxt "template"
+msgid "@local.number_pending_reports Pending Reports"
+msgstr ""
+
+#. type=template
+#. The string @local.number_pending_reports should not be translated.
+msgctxt "template"
+msgid "@local.number_pending_reports Pending Report"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "🎊 No Pending Reports"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Great job! You’ve completed all reports!"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Date of session"
 msgstr ""
@@ -4821,7 +4933,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Enter value"
+msgid "Select how your session went"
 msgstr ""
 
 #. type=template
@@ -4830,9 +4942,8 @@ msgid "How did your session go?"
 msgstr ""
 
 #. type=template
-#. The string @fields.current_module_name should not be translated.
 msgctxt "template"
-msgid "What challenges did you face in delivering @fields.current_module_name Be specific."
+msgid "What challenges did you face in delivering the session? Be specific."
 msgstr ""
 
 #. type=template
@@ -4856,11 +4967,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Submit"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "actions to do"
 msgstr ""
 
 #. type=template
@@ -4952,244 +5058,8 @@ msgid "co_parent_id: @local.co_parent_id"
 msgstr ""
 
 #. type=template
-#. The string @local.total_attendance should not be translated.
 msgctxt "template"
-msgid "Missed the last @local.total_attendance sessions"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "SHOULD HAVE BEEN LIKE THIS:"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "*0"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "*1"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.s1
-#.      @local.s2
-#.      @local.s3
-#.      @local.s4
-#.      @local.s5
-#.      @local.s6
-msgctxt "template"
-msgid "attendance_view = (((((0 @local.s1) @local.s2) @local.s3) @local.s4) @local.s5) @local.s6"
-msgstr ""
-
-#. type=template
-#. The string @local.attendance should not be translated.
-msgctxt "template"
-msgid "attendance = @local.attendance"
-msgstr ""
-
-#. type=template
-#. The string @calc((((((0 *0) *0) +1) +1) *1) *1) should not be translated.
-msgctxt "template"
-msgid "@calc((((((0 *0) *0) +1) +1) *1) *1)"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Co-parenting with"
-msgstr ""
-
-#. type=template
-#. The string @local.group_count should not be translated.
-msgctxt "template"
-msgid "test: @local.group_count"
-msgstr ""
-
-#. type=template
-#. The string @local.co_parent_id should not be translated.
-msgctxt "template"
-msgid "co_parent: @local.co_parent_id"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Choose which content you want to see."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Create New Group"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Are you sure you want to delete this report?"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "This will delete all of your report data and entries. The action cannot be undone!"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Parents"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Edit Parent"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "to do"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Delete parent to permanently delete all their data. This action cannot be undone."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Delete Parent"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Facilitator ID"
-msgstr ""
-
-#. type=template
-#. The string @local.facilitator_id should not be translated.
-msgctxt "template"
-msgid "Paste the @local.facilitator_id of a user to import their account data."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Import data"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Validation"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "User name (on the current account)"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Clear user name"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "If you had set a user name on your old account and the data was imported succesfully, the user name above should update."
-msgstr ""
-
-#. type=template
-#. The string @fields.current_group_name should not be translated.
-msgctxt "template"
-msgid "Are you sure you want to delete @fields.current_group_name?"
-msgstr ""
-
-#. type=template
-#. The string @fields.current_group_name should not be translated.
-msgctxt "template"
-msgid "This will delete all of @fields.current_group_name group data. The action cannot be undone."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Group Name"
-msgstr ""
-
-#. type=template
-#. The string @fields.current_parent_name should not be translated.
-msgctxt "template"
-msgid "Are you sure you want to delete @fields.current_parent_name?"
-msgstr ""
-
-#. type=template
-#. The string @fields.current_parent_name should not be translated.
-msgctxt "template"
-msgid "This will delete all of @fields.current_parent_name parent data. The action cannot be undone."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Delete"
-msgstr ""
-
-#. type=template
-#. The string @local.number_delivered_sessions should not be translated.
-msgctxt "template"
-msgid "delivered = @local.number_delivered_sessions"
-msgstr ""
-
-#. type=template
-#. The string @local.number_parent_groups should not be translated.
-msgctxt "template"
-msgid "parent_groups = @local.number_parent_groups"
-msgstr ""
-
-#. type=template
-#. The string @local.number_parents should not be translated.
-msgctxt "template"
-msgid "parents = @local.number_parents"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "true delivered condition"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "true parent_groups condition"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "true parents condition"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "true condition"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "This is where you'll see parents who need follow-up."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "No Follow ups"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "All your parents are engaged–keep it up!"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "modules.module_1_reminder_1.image_asset"
-msgstr ""
-
-#. type=template
-#. The string @local.test_string should not be translated.
-msgctxt "template"
-msgid "will it work? @data.@local.test_string"
+msgid "Missed the last 2 group sessions"
 msgstr ""
 
 #. type=template
@@ -5427,207 +5297,167 @@ msgid "attendance_8 = @local.attendance_8"
 msgstr ""
 
 #. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_8
-#.      @calc(@local.attendance_8 *0)
 msgctxt "template"
-msgid "@calc(@local.attendance_8 *0)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_8
-#.      @calc(@local.attendance_8 +1)
-msgctxt "template"
-msgid "@calc(@local.attendance_8 +1)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_8
-#.      @calc(@local.attendance_8 *1)
-msgctxt "template"
-msgid "@calc(@local.attendance_8 *1)"
-msgstr ""
-
-#. type=template
-#. The string @local.attendance_9 should not be translated.
-msgctxt "template"
-msgid "attendance_9 = @local.attendance_9"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_9
-#.      @calc(@local.attendance_9 *0)
-msgctxt "template"
-msgid "@calc(@local.attendance_9 *0)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_9
-#.      @calc(@local.attendance_9 +1)
-msgctxt "template"
-msgid "@calc(@local.attendance_9 +1)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_9
-#.      @calc(@local.attendance_9 *1)
-msgctxt "template"
-msgid "@calc(@local.attendance_9 *1)"
-msgstr ""
-
-#. type=template
-#. The string @local.attendance_10 should not be translated.
-msgctxt "template"
-msgid "attendance_10 = @local.attendance_10"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_10
-#.      @calc(@local.attendance_10 *0)
-msgctxt "template"
-msgid "@calc(@local.attendance_10 *0)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_10
-#.      @calc(@local.attendance_10 +1)
-msgctxt "template"
-msgid "@calc(@local.attendance_10 +1)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_10
-#.      @calc(@local.attendance_10 *1)
-msgctxt "template"
-msgid "@calc(@local.attendance_10 *1)"
-msgstr ""
-
-#. type=template
-#. The string @local.attendance_11 should not be translated.
-msgctxt "template"
-msgid "attendance_11 = @local.attendance_11"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_11
-#.      @calc(@local.attendance_11 *0)
-msgctxt "template"
-msgid "@calc(@local.attendance_11 *0)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_11
-#.      @calc(@local.attendance_11 +1)
-msgctxt "template"
-msgid "@calc(@local.attendance_11 +1)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_11
-#.      @calc(@local.attendance_11 *1)
-msgctxt "template"
-msgid "@calc(@local.attendance_11 *1)"
-msgstr ""
-
-#. type=template
-#. The string @local.attendance_12 should not be translated.
-msgctxt "template"
-msgid "attendance_12 = @local.attendance_12"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_12
-#.      @calc(@local.attendance_12 *0)
-msgctxt "template"
-msgid "@calc(@local.attendance_12 *0)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_12
-#.      @calc(@local.attendance_12 +1)
-msgctxt "template"
-msgid "@calc(@local.attendance_12 +1)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_12
-#.      @calc(@local.attendance_12 *1)
-msgctxt "template"
-msgid "@calc(@local.attendance_12 *1)"
-msgstr ""
-
-#. type=template
-#. The string @local.attendance_13 should not be translated.
-msgctxt "template"
-msgid "attendance_13 = @local.attendance_13"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_13
-#.      @calc(@local.attendance_13 *0)
-msgctxt "template"
-msgid "@calc(@local.attendance_13 *0)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_13
-#.      @calc(@local.attendance_13 +1)
-msgctxt "template"
-msgid "@calc(@local.attendance_13 +1)"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attendance_13
-#.      @calc(@local.attendance_13 *1)
-msgctxt "template"
-msgid "@calc(@local.attendance_13 *1)"
-msgstr ""
-
-#. type=template
-#. The string @local.attendance_14 should not be translated.
-msgctxt "template"
-msgid "attendance_14 = @local.attendance_14"
+msgid "Follow Up"
 msgstr ""
 
 #. type=template
 #. The string @local.total_attendance should not be translated.
 msgctxt "template"
-msgid "attendance = @local.total_attendance"
+msgid "Missed the last @local.total_attendance sessions"
 msgstr ""
 
 #. type=template
-#. The string @item._index should not be translated.
 msgctxt "template"
-msgid "index = @item._index"
+msgid "Caregiving with"
 msgstr ""
 
 #. type=template
-#. The string @local.first should not be translated.
+#. The string @global.maximum_coparents should not be translated.
 msgctxt "template"
-msgid "first= @local.first"
+msgid "Select other caregivers in the family (maximum @global.maximum_coparents)"
 msgstr ""
 
 #. type=template
-#. The string @local.total_attendance should not be translated.
 msgctxt "template"
-msgid "Missed the last **@local.total_attendance** reported sessions"
+msgid "Choose which content you want to see."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Create New Group"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Are you sure you want to delete this report?"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "This will delete all of your report data and entries. The action cannot be undone!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Parents"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Edit Parent"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "to do"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Delete parent to permanently delete all their data. This action cannot be undone."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Delete Parent"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Facilitator ID"
+msgstr ""
+
+#. type=template
+#. The string @local.facilitator_id should not be translated.
+msgctxt "template"
+msgid "Paste the @local.facilitator_id of a user to import their account data."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Import data"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Validation"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "User name (on the current account)"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Clear user name"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "If you had set a user name on your old account and the data was imported succesfully, the user name above should update."
+msgstr ""
+
+#. type=template
+#. The string @fields.current_group_name should not be translated.
+msgctxt "template"
+msgid "Are you sure you want to delete @fields.current_group_name?"
+msgstr ""
+
+#. type=template
+#. The string @fields.current_group_name should not be translated.
+msgctxt "template"
+msgid "This will delete all of @fields.current_group_name group data. The action cannot be undone."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Group Name"
+msgstr ""
+
+#. type=template
+#. The string @fields.current_parent_name should not be translated.
+msgctxt "template"
+msgid "Are you sure you want to delete @fields.current_parent_name?"
+msgstr ""
+
+#. type=template
+#. The string @fields.current_parent_name should not be translated.
+msgctxt "template"
+msgid "This will delete all of @fields.current_parent_name parent data. The action cannot be undone."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Delete"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "👏 No Follow ups"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "All your parents are engaged - keep it up!"
+msgstr ""
+
+#. type=template
+#. The string @local.no_of_parents should not be translated.
+msgctxt "template"
+msgid "@local.no_of_parents Follow up"
+msgstr ""
+
+#. type=template
+#. The string @local.no_of_parents should not be translated.
+msgctxt "template"
+msgid "@local.no_of_parents Follow ups"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Show all"
 msgstr ""
 
 #. type=template
@@ -5786,6 +5616,25 @@ msgid "Settings"
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @local.fn
+#.      @local.ln
+msgctxt "template"
+msgid "Caregiving with @local.fn @local.ln"
+msgstr ""
+
+#. type=template
+#. The string @local.number_of_coparents should not be translated.
+msgctxt "template"
+msgid "Caregiving with @local.number_of_coparents others"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "empty"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Add Parent"
 msgstr ""
@@ -5810,7 +5659,12 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "All parents are engaged"
+msgid "No Follow ups"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "All your parents are engaged–keep it up!"
 msgstr ""
 
 #. type=template
@@ -5827,7 +5681,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Follow Up"
+msgid "Show More"
 msgstr ""
 
 #. type=template
