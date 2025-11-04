@@ -11,7 +11,37 @@ msgstr ""
 "Language-Team: Papiamento\n"
 "\n"
 "Language: pap_PAP\n"
-"PO-Revision-Date: 2025-11-03 12:51\n"
+"PO-Revision-Date: 2025-11-04 15:03\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 1"
+msgstr "Siman 1"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 2"
+msgstr "Siman 2"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 3"
+msgstr "Siman 3"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 4"
+msgstr "Siman 4"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 5"
+msgstr "Siman 5"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Week 6"
+msgstr "Siman 6"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4173,6 +4203,11 @@ msgstr "Por fabor selektá un balor"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "What challenges did you face in delivering the session? Be specific."
+msgstr "Kua retonan bo a enfrentá den fasilitashon di e seshon? Sea spesífiko."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "challenges"
 msgstr "retonan"
 
@@ -5424,9 +5459,9 @@ msgid ""
 "\n"
 "See how each group is doing and support those who need it, all in just a few taps."
 msgstr ""
-"**Kompartí rapòrtnan & 'follow up'**\n"
+"**Kompartí rapòrtnan & kontrolá progreso'**\n"
 "\n"
-"Sigui seshonnan, kompartí rapòrtnan, i 'follow up'—rápido i fásil.\n"
+"Sigui seshonnan, kompartí rapòrtnan, i kontrolá progreso—rápido i fásil.\n"
 "\n"
 "Wak kon kada grupo ta baiendo i sostené esnan ku mester di dje, tur esaki ku solamente algun tap."
 
@@ -5805,6 +5840,26 @@ msgstr "ID di usuario"
 
 #. type=global
 msgctxt "global"
+msgid "report pending"
+msgstr "rapòrt pendiente"
+
+#. type=global
+msgctxt "global"
+msgid "reports pending"
+msgstr "rapòrtnan pendiente"
+
+#. type=global
+msgctxt "global"
+msgid "follow up"
+msgstr "kontrolá progreso"
+
+#. type=global
+msgctxt "global"
+msgid "follow ups"
+msgstr "kòntròlnan di progreso"
+
+#. type=global
+msgctxt "global"
 msgid "Frequently Asked Questions"
 msgstr "Preguntanan Frekuente"
 
@@ -6112,6 +6167,12 @@ msgctxt "global"
 msgid "Select organisation"
 msgstr "Selektá organisashon"
 
+#. type=global
+#. The string @global.programme_name should not be translated.
+msgctxt "global"
+msgid "Your partner in delivering @global.programme_name"
+msgstr "Bo partner den fasilitá @global.programme_name"
+
 #. type=template
 msgctxt "template"
 msgid "Edit Parent Group"
@@ -6169,13 +6230,18 @@ msgstr "Siguiente Seshon"
 
 #. type=template
 msgctxt "template"
+msgid "Deliver"
+msgstr "Fasilitá"
+
+#. type=template
+msgctxt "template"
 msgid "Pending Reports"
 msgstr "Rapòrtnan pendiente"
 
 #. type=template
 msgctxt "template"
 msgid "Follow ups"
-msgstr "'Follow up'nan"
+msgstr "Kòntròlnan di progreso"
 
 #. type=template
 msgctxt "template"
@@ -6261,8 +6327,18 @@ msgstr "Asistensia di Mayor"
 
 #. type=template
 msgctxt "template"
+msgid "Select how your session went"
+msgstr "Selektá kon bo seshon a bai"
+
+#. type=template
+msgctxt "template"
 msgid "How did your session go?"
 msgstr "Kon bo seshon a bai?"
+
+#. type=template
+msgctxt "template"
+msgid "What challenges did you face in delivering the session? Be specific."
+msgstr "Kua retonan bo a enfrentá den fasilitashon di e seshon? Sea spesífiko."
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6374,6 +6450,11 @@ msgstr "seshonnan"
 msgctxt "template"
 msgid "co_parent_id: @local.co_parent_id"
 msgstr "co_parent_id: @local.co_parent_id"
+
+#. type=template
+msgctxt "template"
+msgid "Missed the last 2 group sessions"
+msgstr "A falta e último 2 seshonnan di grupo"
 
 #. type=template
 #. The string @calc(0 *0) should not be translated.
@@ -6612,13 +6693,24 @@ msgstr "asistensia_8 = @local.attendance_8"
 #. type=template
 msgctxt "template"
 msgid "Follow Up"
-msgstr "'Follow up'"
+msgstr "Kontrolá progreso"
 
 #. type=template
 #. The string @local.total_attendance should not be translated.
 msgctxt "template"
 msgid "Missed the last @local.total_attendance sessions"
-msgstr "A pèrdè e último seshonnan di @local.total_attendance"
+msgstr "A falta e último seshonnan di @local.total_attendance"
+
+#. type=template
+msgctxt "template"
+msgid "Caregiving with"
+msgstr "Kuido huntu ku"
+
+#. type=template
+#. The string @global.maximum_coparents should not be translated.
+msgctxt "template"
+msgid "Select other caregivers in the family (maximum @global.maximum_coparents)"
+msgstr "Selektá otro dunadónan di kuido den e famia (máksimo @global.maximum_coparents)"
 
 #. type=template
 msgctxt "template"
@@ -6737,8 +6829,30 @@ msgstr "Eliminá"
 
 #. type=template
 msgctxt "template"
+msgid "👏 No Follow ups"
+msgstr "👏 No tin kòntròlnan di progreso"
+
+#. type=template
+msgctxt "template"
 msgid "All your parents are engaged - keep it up!"
 msgstr "Tur bo mayornan ta komprometí–sigui asina!"
+
+#. type=template
+#. The string @local.no_of_parents should not be translated.
+msgctxt "template"
+msgid "@local.no_of_parents Follow up"
+msgstr "@local.no_of_parents Kontrolá progreso"
+
+#. type=template
+#. The string @local.no_of_parents should not be translated.
+msgctxt "template"
+msgid "@local.no_of_parents Follow ups"
+msgstr "@local.no_of_parents Kòntròlnan progreso"
+
+#. type=template
+msgctxt "template"
+msgid "Show all"
+msgstr "Mustra tur"
 
 #. type=template
 #. The string @fields.current_group_name should not be translated.
@@ -6898,6 +7012,25 @@ msgid "Settings"
 msgstr "Konfigurashonnan"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @local.fn
+#.      @local.ln
+msgctxt "template"
+msgid "Caregiving with @local.fn @local.ln"
+msgstr "Duna kuido huntu @local.fn @local.ln"
+
+#. type=template
+#. The string @local.number_of_coparents should not be translated.
+msgctxt "template"
+msgid "Caregiving with @local.number_of_coparents others"
+msgstr "Duna kuido huntu @local.number_of_coparents otronan"
+
+#. type=template
+msgctxt "template"
+msgid "empty"
+msgstr "bashí"
+
+#. type=template
 msgctxt "template"
 msgid "Add Parent"
 msgstr "Agregá Mayor"
@@ -6923,7 +7056,7 @@ msgstr "@calc(Number(@field.current_follow_ups_number) +1)"
 #. type=template
 msgctxt "template"
 msgid "No Follow ups"
-msgstr "No tin 'Follow up'"
+msgstr "No tin Kòntròlnan di progreso"
 
 #. type=template
 msgctxt "template"
@@ -6934,13 +7067,18 @@ msgstr "Tur bo mayornan ta komprometí–sigui asina!"
 #. The string @field.current_follow_ups_number should not be translated.
 msgctxt "template"
 msgid "@field.current_follow_ups_number Follow up"
-msgstr "@field.current_follow_ups_number 'Follow up'"
+msgstr "@field.current_follow_ups_number Kòntrolá progreso"
 
 #. type=template
 #. The string @field.current_follow_ups_number should not be translated.
 msgctxt "template"
 msgid "@field.current_follow_ups_number Follow ups"
-msgstr "@field.current_follow_ups_number 'Follow up'nan"
+msgstr "@field.current_follow_ups_number Kòntròlnan di progreso"
+
+#. type=template
+msgctxt "template"
+msgid "Show More"
+msgstr "Mustra mas"
 
 #. type=template
 msgctxt "template"
