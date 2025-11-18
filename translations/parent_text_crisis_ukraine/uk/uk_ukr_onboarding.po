@@ -11,12 +11,17 @@ msgstr ""
 "Language-Team: Ukrainian\n"
 "\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2025-11-14 12:05\n"
+"PO-Revision-Date: 2025-11-18 10:29\n"
 
 #. type=text
 msgctxt "text"
 msgid "Variables have been reset"
 msgstr "Зміни було скинуто"
+
+#. type=text
+msgctxt "text"
+msgid "Press NEXT to continue"
+msgstr "Натисніть ДАЛІ, щоб продовжити"
 
 #. type=text
 msgctxt "text"
@@ -77,18 +82,28 @@ msgstr "✅ Ми ніколи не запитуватимемо ваше ім’
 
 #. type=text
 msgctxt "text"
-msgid "✅Your anonymous information may also be shared with others working to help families like yours build strength and hope in tough times. All your information will be private and can’t be linked back to you."
-msgstr "✅ Вашу анонімну інформацію можуть використати, щоб допомогти іншим сім’ям у складні часи. Вона залишиться приватною і не буде пов’язана з вами."
-
-#. type=text
-msgctxt "text"
 msgid "❌You can stop when you want. Just type {STOP}"
 msgstr "❌ Ви можете зупинитися в будь-який момент. Просто надішліть {STOP}"
 
 #. type=text
 msgctxt "text"
-msgid "✅ To read our privacy policy, visit {consent}. If you consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate."
-msgstr "✅ Щоб ознайомитися з нашою політикою конфіденційності, відкрийте {consent}. Якщо ви погоджуєтеся з нашою політикою, оберіть \"ТАК\". Введіть \"ВИХІД\", якщо не хочете брати участь."
+msgid "Before we start, we need to share some important information."
+msgstr "Перш ніж почати, нам потрібно поділитися важливою інформацією."
+
+#. type=text
+msgctxt "text"
+msgid "📘 Please read our Terms & Conditions here: {tnc_link}."
+msgstr "📘Please read our Terms & Conditions here: {tnc_link}."
+
+#. type=text
+msgctxt "text"
+msgid "If you have read and accept the Terms & Conditions, please select YES."
+msgstr "Якщо ви ознайомилися з Умовами та Положеннями та погоджуєтеся з ними, оберіть «Так»."
+
+#. type=text
+msgctxt "text"
+msgid "If you do not accept, type \"EXIT\" to stop now."
+msgstr "Якщо ви не погоджуєтесь, введіть «ВИЙТИ», щоб завершити зараз."
 
 #. type=text
 msgctxt "text"
@@ -104,6 +119,46 @@ msgstr "Якщо колись захочете знову отримати ці 
 msgctxt "text"
 msgid "We hope to see you again soon."
 msgstr "Сподіваємося скоро знову вас побачити."
+
+#. type=text
+msgctxt "text"
+msgid "Now a quick note about your privacy."
+msgstr "Ознайомтесь з інформацією про вашу конфіденційність."
+
+#. type=text
+msgctxt "text"
+msgid "✅ Your personal information is safe and private. "
+msgstr "✅ Ваші дані залишаються конфіденційними та захищеними. "
+
+#. type=text
+msgctxt "text"
+msgid "✅ Your name and information will not be public, but your responses will be used by researchers to learn how to support families like yours. "
+msgstr "✅ Ваше ім’я та особисті дані залишаються приватними, але ваші відповіді використовуватимуться дослідниками, щоб дізнатися, як краще підтримувати родини. "
+
+#. type=text
+msgctxt "text"
+msgid "✅ The information you share may also be combined with other families’ experiences so that we can understand how these programmes work across the world."
+msgstr "✅ Інформація, яку ви надаєте, може бути об’єднана з даними інших сімей, щоб ми могли зрозуміти, як ця програма (чат) працює у різних країнах."
+
+#. type=text
+msgctxt "text"
+msgid "🤐 If there are any questions that you feel uncomfortable answering, you do not have to answer them."
+msgstr "🤐 Ви можете пропустити будь-які питання, на які не хочете відповідати."
+
+#. type=text
+msgctxt "text"
+msgid "Please read this information carefully: {consent}"
+msgstr "Будь ласка, уважно ознайомтеся з цією інформацією: {consent}"
+
+#. type=text
+msgctxt "text"
+msgid "If you have read it and agree, please select YES."
+msgstr "Якщо ви ознайомилися з інформацією та погоджуєтеся, оберіть «Так»."
+
+#. type=text
+msgctxt "text"
+msgid "If you do not want to participate, type \"EXIT\" to stop now."
+msgstr "Якщо ви не хочете користуватись чатом, введіть «ВИХІД», щоб завершити зараз."
 
 #. type=text
 msgctxt "text"
@@ -193,6 +248,12 @@ msgstr "Для початку перегляньте це відео, щоб д�
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "NEXT"
+msgstr "ДАЛІ"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "English"
 msgstr "English"
 
@@ -243,12 +304,6 @@ msgstr "НІ"
 msgctxt "quick_replies"
 msgid "BACK"
 msgstr "НАЗАД"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "NEXT"
-msgstr "ДАЛІ"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument

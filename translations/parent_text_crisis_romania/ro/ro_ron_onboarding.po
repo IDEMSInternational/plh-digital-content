@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Romanian\n"
 "\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2025-11-10 14:12\n"
+"PO-Revision-Date: 2025-11-18 10:28\n"
 
 #. type=text
 msgctxt "text"
@@ -87,18 +87,28 @@ msgstr "✅ Nu îți vom cere niciodată numele. Tot ceea ce împărtășești e
 
 #. type=text
 msgctxt "text"
-msgid "✅Your anonymous information may also be shared with others working to help families like yours build strength and hope in tough times. All your information will be private and can’t be linked back to you."
-msgstr "✅Informațiile tale anonime pot fi, de asemenea, partajate cu alte persoane care lucrează pentru a ajuta familii ca a ta să-și recâștige puterea și speranța în momente dificile. Toate informațiile tale vor rămâne confidențiale și nu vor putea fi asociate cu tine."
-
-#. type=text
-msgctxt "text"
 msgid "❌You can stop when you want. Just type {STOP}"
 msgstr "❌Poți opri când dorești. Doar tastează {STOP}"
 
 #. type=text
 msgctxt "text"
-msgid "✅ To read our privacy policy, visit {consent}. If you consent to our privacy policy, select YES. Type \"EXIT\" if you do not want to participate."
-msgstr "✅ Pentru a citi politica noastră de confidențialitate, accesează {consent}. Dacă ești de acord cu politica noastră de confidențialitate, selectează DA. Tastează „IEȘIRE” dacă nu dorești să participi."
+msgid "Before we start, we need to share some important information."
+msgstr "Înainte de a începe, este important să îți comunicăm câteva informații importante."
+
+#. type=text
+msgctxt "text"
+msgid "📘 Please read our Terms & Conditions here: {tnc_link}."
+msgstr "📘 Te rugăm să citești Termenii și Condițiile aici: {tnc_link}."
+
+#. type=text
+msgctxt "text"
+msgid "If you have read and accept the Terms & Conditions, please select YES."
+msgstr "Dacă ai citit și accepți Termenii și Condițiile, selectează DA."
+
+#. type=text
+msgctxt "text"
+msgid "If you do not accept, type \"EXIT\" to stop now."
+msgstr "Dacă nu accepți, tastează „IEȘIRE” pentru a încheia acum interacțiunea cu chatbotul Busola Părintelui."
 
 #. type=text
 msgctxt "text"
@@ -114,6 +124,46 @@ msgstr "Dacă vei dori vreodată să primești aceste sfaturi, în viitor, pur �
 msgctxt "text"
 msgid "We hope to see you again soon."
 msgstr "Sperăm să ne revedem curând."
+
+#. type=text
+msgctxt "text"
+msgid "Now a quick note about your privacy."
+msgstr "Acum, o scurtă precizare privind confidențialitatea datelor tale."
+
+#. type=text
+msgctxt "text"
+msgid "✅ Your personal information is safe and private. "
+msgstr "✅Informațiile tale personale sunt în siguranță și confidențiale. "
+
+#. type=text
+msgctxt "text"
+msgid "✅ Your name and information will not be public, but your responses will be used by researchers to learn how to support families like yours. "
+msgstr "✅ Numele și informațiile furnizate de tine nu vor fi făcute publice, dar răspunsurile tale vor fi utilizate de cercetători pentru a înțelege cum pot sprijini familii ca a ta. "
+
+#. type=text
+msgctxt "text"
+msgid "✅ The information you share may also be combined with other families’ experiences so that we can understand how these programmes work across the world."
+msgstr "✅ Informațiile pe care le împărtășești pot fi cumulate cu experiențele altor familii, ca să putem înțelege cum funcționează aceste programe în întreaga lume."
+
+#. type=text
+msgctxt "text"
+msgid "🤐 If there are any questions that you feel uncomfortable answering, you do not have to answer them."
+msgstr "🤐 Dacă există întrebări la care te simți incomod să răspunzi, nu trebuie să răspunzi la ele."
+
+#. type=text
+msgctxt "text"
+msgid "Please read this information carefully: {consent}"
+msgstr "Te rugăm să citești cu atenție aceste informații: {consimțământ}"
+
+#. type=text
+msgctxt "text"
+msgid "If you have read it and agree, please select YES."
+msgstr "Dacă ai citit documentul și ești de acord, selectează DA."
+
+#. type=text
+msgctxt "text"
+msgid "If you do not want to participate, type \"EXIT\" to stop now."
+msgstr "Dacă nu dorești să participi, tastează „IEȘIRE” pentru a încheia acum interacțiunea cu chatbotul Busola Părintelui."
 
 #. type=text
 msgctxt "text"
@@ -177,6 +227,11 @@ msgstr "În ce localitatea locuiești?"
 
 #. type=text
 msgctxt "text"
+msgid "What is the highest level of education you have completed?"
+msgstr "Care este ultimul nivel de educație pe care l-ai absolvit?"
+
+#. type=text
+msgctxt "text"
 msgid "Please enter the first letter of your county."
 msgstr "Te rugăm să introduci prima literă a județului tău."
 
@@ -194,11 +249,6 @@ msgstr "Hmm. Nu cunosc niciun județ care să înceapă cu litera respectivă. P
 msgctxt "text"
 msgid "📍 Do you live in a rural or urban area?"
 msgstr "📍Locuiești într-o zonă rurală sau urbană?"
-
-#. type=text
-msgctxt "text"
-msgid "What is the highest level of education you have completed?"
-msgstr "Care este ultimul nivel de educație pe care l-ai absolvit?"
 
 #. type=text
 msgctxt "text"
@@ -618,6 +668,30 @@ msgstr "Pogonești"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Primary school"
+msgstr "Școala Primară"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Secondary school"
+msgstr "Școală Gimnazială"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "High school/Vocational school"
+msgstr "Liceul/Școala Profesională"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Higher education"
+msgstr "Studii superioare"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Alba"
 msgstr "Alba"
 
@@ -824,30 +898,6 @@ msgstr "Rural"
 msgctxt "quick_replies"
 msgid "Urban"
 msgstr "Urban"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Primary school"
-msgstr "Școala Primară"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Secondary school"
-msgstr "Școală Gimnazială"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "High school/Vocational school"
-msgstr "Liceul/Școala Profesională"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Higher education"
-msgstr "Studii superioare"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1266,6 +1316,30 @@ msgstr "pogonești"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "primary school"
+msgstr "școala primară"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "secondary school"
+msgstr "școală gimnazială"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "high school/vocational school"
+msgstr "liceul/școala profesională"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "higher education"
+msgstr "studii superioare"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "alba"
 msgstr "alba"
 
@@ -1466,30 +1540,6 @@ msgstr "rural"
 msgctxt "arguments"
 msgid "urban"
 msgstr "urban"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "primary school"
-msgstr "școala primară"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "secondary school"
-msgstr "școală gimnazială"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "high school/vocational school"
-msgstr "liceul/școala profesională"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "higher education"
-msgstr "studii superioare"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
