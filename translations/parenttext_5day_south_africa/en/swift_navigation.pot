@@ -387,7 +387,7 @@ msgstr ""
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "🎉You did it!🎉 You have completed the course @results.name. Here's your course certificate. Congratulations!"
+msgid "Here's your certificate for the course @results.name. 🎉Congratulations!🎉"
 msgstr ""
 
 #. type=text
@@ -1244,8 +1244,94 @@ msgid "It looks like you’re not interested in the Child Safety course right no
 msgstr ""
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "Illustrations in ParentText help explain parenting skills. They are original works by Orli Setton created for Parenting for Lifelong Health and the Global Parenting Initiative, and shared under a CC BY-SA 4.0 International licence."
+msgid "Sorry, but you can only reprint your certificate for the course @results.name twice."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Here's your certificate for the course @results.name!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Oops something went wrong."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any course yet."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have received the following certificate:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like me to print it again?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can come back here anytime to get it."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Which certificate should I re-print for you?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.goals_compl) +1). None, return to the main menu"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "I'll make your certificate with the name @fields.certificate_name."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us which name you'd like on your certificate."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Is that right?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🎉You did it!🎉 You have completed the course @fields.print_goal_name and earned yourself a certificate. Congratulations!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "How should I print your name on the certificate?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "This name is too long. Please enter a shorter name."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "The name you would like to have on you certificate is @fields.sq_cert_name. Is that correct?"
 msgstr ""
 
 #. type=quick_replies
@@ -1479,6 +1565,12 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Reprint my Certificates"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Retake completed lessons"
 msgstr ""
 
@@ -1660,6 +1752,24 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Exit"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, return to the main menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, change my name"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, that's right"
 msgstr ""
 
 #. type=variables
@@ -1987,6 +2097,12 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "reprint my certificates"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "retake completed lessons"
 msgstr ""
 
@@ -2168,4 +2284,22 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "get additional help"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, return to the main menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, change my name"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes, that's right"
 msgstr ""
