@@ -2036,7 +2036,7 @@ msgstr ""
 #.      @global.programme_name
 msgctxt "data_list"
 msgid ""
-"@global.app_name is an app designed by Ministry of Social Development, Labour, and Welfare, UNICEF the Netherlands, Parenting for Lifelong Health, and IDEMS International to support the delivery of @global.programme_name in Curaçao. The content herein is available under an open source Creative Commons International 4.0 license. \n"
+"@global.app_name is an app designed by IDEMS International, Parenting for Lifelong Health, Ministry of Social Development, Labour, and Welfare, UNICEF the Netherlands, to support the delivery of @global.programme_name in Curaçao. The content herein is available under an open source Creative Commons International 4.0 license. \n"
 "\n"
 "All illustrations in this app are generated using AI, inspired by the works of illustrators Orli Setton & Natalia Calixto. The original and the AI generated artworks are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.\n"
 "\n"
@@ -3855,6 +3855,22 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "**Preparation**"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"1️⃣ Ensure attendance register, name tags, temporary adhesive, pens, paper, flipchart, markers, toys and props, stickers, and refreshments for the break are ready. \n"
+"2️⃣ Set up the room with chairs in a circle. \n"
+"\n"
+"3️⃣ List all participant goals on flipchart paper ahead of time.\n"
+"\n"
+"4️⃣ Prepare the laptop, LCD projector, and screen for showing the video stories."
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "**WELCOME (15 minutes)**\n"
 "- Begin by welcoming the participants.\n"
@@ -4268,27 +4284,17 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Create Caregiver Group"
+msgid "Create Parent Group"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Caregivers"
+msgid "Parents"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Caregiver Details"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Add Caregiver"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Caregiver Profile"
+msgid "Add Parent"
 msgstr ""
 
 #. type=global
@@ -4468,11 +4474,6 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Please enter a valid name. It must be at least 2 characters long."
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "Please enter a valid name using only letters. It must be at least 2 characters long."
 msgstr ""
 
@@ -4493,7 +4494,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Please enter an consistent with the range of this group."
+msgid "Please enter an age between in the proper age group."
 msgstr ""
 
 #. type=global
@@ -4960,7 +4961,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Edit Caregiver Group"
+msgid "Edit Parent Group"
 msgstr ""
 
 #. type=template
@@ -4983,36 +4984,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Very poorly"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "test 2"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "test 3"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "test 4"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "test 5"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "test 6"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "test 7"
 msgstr ""
 
 #. type=template
@@ -5204,17 +5175,17 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Before you go"
+msgid "Unsaved values"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "If you leave now, your changes will not be saved."
+msgid "Are you sure you want to exit without saving?"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Leave without saving"
+msgid "Exit without saving"
 msgstr ""
 
 #. type=template
@@ -5265,26 +5236,8 @@ msgid "co_parent_id: @local.co_parent_id"
 msgstr ""
 
 #. type=template
-#. The following strings should not be translated: 
-#.      @local.no_follow_up
-#.      @calc(@local.no_follow_up + 1)
-msgctxt "template"
-msgid "@calc(@local.no_follow_up + 1)"
-msgstr ""
-
-#. type=template
 msgctxt "template"
 msgid "Missed the last 2 group sessions"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Followed up"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "<u>How to follow up</u>"
 msgstr ""
 
 #. type=template
@@ -5561,7 +5514,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Create a Caregiver Group"
+msgid "Create New Group"
 msgstr ""
 
 #. type=template
@@ -5586,84 +5539,17 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid ".text"
-msgstr ""
-
-#. type=template
-#. The string @local.current_age_group_text should not be translated.
-msgctxt "template"
-msgid "Age group: @local.current_age_group_text"
-msgstr ""
-
-#. type=template
-#. The string @local.current_content_package_text should not be translated.
-msgctxt "template"
-msgid "Delivery type: @local.current_content_package_text"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Parents"
 msgstr ""
 
 #. type=template
-#. The string @local.number_of_coparents should not be translated.
 msgctxt "template"
-msgid "Caregiving with @local.number_of_coparents other:"
-msgstr ""
-
-#. type=template
-#. The string @local.number_of_coparents should not be translated.
-msgctxt "template"
-msgid "Caregiving with @local.number_of_coparents others:"
+msgid "Edit Parent"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "No other current caregiver"
-msgstr ""
-
-#. type=template
-#. The string @local.attended_1 should not be translated.
-msgctxt "template"
-msgid "@local.attended_1 +1"
-msgstr ""
-
-#. type=template
-#. The string @local.attended_2 should not be translated.
-msgctxt "template"
-msgid "@local.attended_2 +1"
-msgstr ""
-
-#. type=template
-#. The string @local.attended_3 should not be translated.
-msgctxt "template"
-msgid "@local.attended_3 +1"
-msgstr ""
-
-#. type=template
-#. The string @local.attended_4 should not be translated.
-msgctxt "template"
-msgid "@local.attended_4 +1"
-msgstr ""
-
-#. type=template
-#. The string @local.attended_5 should not be translated.
-msgctxt "template"
-msgid "@local.attended_5 +1"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.attended_6
-#.      @local.number_reported_sessions
-msgctxt "template"
-msgid "Attended @local.attended_6 / @local.number_reported_sessions reported sessions"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Details from Individual Consultation"
+msgid "to do"
 msgstr ""
 
 #. type=template
@@ -5949,6 +5835,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Add Parent"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Save Profile"
 msgstr ""
 
@@ -6035,4 +5926,9 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "test"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "This is a test"
 msgstr ""
