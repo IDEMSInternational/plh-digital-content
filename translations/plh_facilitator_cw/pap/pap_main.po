@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Papiamento\n"
 "\n"
 "Language: pap_PAP\n"
-"PO-Revision-Date: 2025-11-24 23:23\n"
+"PO-Revision-Date: 2025-11-25 15:48\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5890,8 +5890,13 @@ msgstr "Hinka fecha di konsulta"
 
 #. type=global
 msgctxt "global"
+msgid "Please enter a valid name. It must be at least 2 characters long."
+msgstr "Po fabor hinka un nòmber balido. E mester ta konsistí di por lo ménos 2 lèter, number òf símbolo."
+
+#. type=global
+msgctxt "global"
 msgid "Please enter a valid name using only letters. It must be at least 2 characters long."
-msgstr "Por fabor hinka un nòmber bálido usando solamente lèter. E mester ta por lo ménos 2 karakter largu."
+msgstr "Por fabor hinka un nòmber bálido usa solamente lèter. E mester ta konsistí di por lo ménos 2 lèter."
 
 #. type=global
 msgctxt "global"
@@ -5936,7 +5941,7 @@ msgstr "Por fabor hinka un fecha."
 #. type=global
 msgctxt "global"
 msgid "Mark Session as Delivered and Submit Report"
-msgstr "Marka Seshon komo Duná i Agregá Rapòrt"
+msgstr "Marka Seshon komo Duná i Entregá Rapòrt"
 
 #. type=global
 msgctxt "global"
@@ -6002,7 +6007,7 @@ msgstr "Whatsapp"
 #. type=global
 msgctxt "global"
 msgid "No parent groups found. To create a parent group, click on:"
-msgstr "No a haña gruponan di mayor. Pa krea un grupo di mayor, klek riba:"
+msgstr "No a haña niun grupo di mayor. Pa forma un grupo di mayor, klek riba:"
 
 #. type=global
 msgctxt "global"
@@ -6138,7 +6143,7 @@ msgstr "No tin Grupo di Mayor"
 #. type=global
 msgctxt "global"
 msgid "Chat Sessions will load after you select a parent group"
-msgstr "Seshon di kombersashon lo karga despues ku bo selektá e grupo di mayor"
+msgstr "Seshon di 'chat' lo habri despues ku bo selektá e grupo di mayor"
 
 #. type=global
 msgctxt "global"
@@ -6183,7 +6188,7 @@ msgstr "E profil akí ta inkompleto. Habri pa kompletá e detayenan ku falta."
 #. type=global
 msgctxt "global"
 msgid "Embedded PDFs are not supported in this browser, please use an up-to-date version of Google Chrome to view or open in external app"
-msgstr "PDFnan inkorporá no ta wòrdu sostené den e 'browser' akí, por fabor usa un vershon aktualisá di Google Chrome pa wak òf habri den un aplikashon eksterno"
+msgstr "E 'browser' akí no ta sostené e PDFnan inkorporá , por fabor usa un vershon aktualisá di Google Chrome pa wak òf habri den un aplikashon eksterno"
 
 #. type=global
 msgctxt "global"
@@ -6193,7 +6198,7 @@ msgstr "Habri ku..."
 #. type=global
 msgctxt "global"
 msgid "Would you like to create an account? This will allow you to retrieve your data if you lose your device."
-msgstr "Bo ke krea un kuenta? Esaki lo permití bo pa rekuperá bo datonan si bo pèrdè bo aparato."
+msgstr "Bo ke traha un 'account'? Esaki lo permití bo pa rekuperá bo datonan si bo pèrdè bo aparato."
 
 #. type=global
 msgctxt "global"
@@ -6213,17 +6218,17 @@ msgstr "Bo ta konektá."
 #. type=global
 msgctxt "global"
 msgid "Account"
-msgstr "Kuenta"
+msgstr "'Account\""
 
 #. type=global
 msgctxt "global"
 msgid "Delete account"
-msgstr "Elimina kuenta"
+msgstr "Elimina 'account'"
 
 #. type=global
 msgctxt "global"
 msgid "Are you sure you want to delete your account?"
-msgstr "Bo ta sigur ku bo ke eliminá bo kuenta?"
+msgstr "Bo ta sigur ku bo ke eliminá bo 'account'?"
 
 #. type=global
 msgctxt "global"
@@ -6254,7 +6259,7 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "Load saved progress"
-msgstr "Subi e progreso wardá"
+msgstr "Subi e progreso ku bo a seif"
 
 #. type=global
 msgctxt "global"
@@ -6279,7 +6284,7 @@ msgstr "Inisiá Seshon"
 #. type=global
 msgctxt "global"
 msgid "Creating an account allows you to save your progress across devices. It is optional."
-msgstr "Kreando un kuenta ta permití bo warda bo progreso riba tur aparato. E ta opshonal."
+msgstr "Si bo traha un 'account' bo por seif bo progreso riba tur aparato. E ta opshonal."
 
 #. type=global
 msgctxt "global"
@@ -6294,7 +6299,7 @@ msgstr "Sigui ku Google"
 #. type=global
 msgctxt "global"
 msgid "Continue without an account"
-msgstr "Sigui sin un kuenta"
+msgstr "Sigui sin un 'account'"
 
 #. type=global
 msgctxt "global"
@@ -6377,6 +6382,11 @@ msgstr "Bo partner den fasilitá @global.programme_name"
 
 #. type=template
 msgctxt "template"
+msgid "Edit Caregiver Group"
+msgstr "Editá grupo di edukadó"
+
+#. type=template
+msgctxt "template"
 msgid "minutes"
 msgstr "minütnan"
 
@@ -6387,7 +6397,7 @@ msgid ""
 "*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*"
 msgstr ""
 "**Kua di e mayornan den bo grupo a partisipá?**\n"
-"*Ta definí partisipashon komo kualke mayor ku ta pone un komentario, pregunta, kontesta òf reakshon (manera un dùim ariba) den e kòmbersashon desde ku bo a kompartí e promé mensahe di e diskushon semanal.*"
+"*Ta definí partisipashon komo kualke mayor ku ta pone un komentario, pregunta, kontesta òf reakshon (manera un dùim ariba) den e kòmbersashon, for di momentu ku bo a kompartí e promé 'chat' di e diskushon semanal.*"
 
 #. type=template
 msgctxt "template"
@@ -6401,19 +6411,49 @@ msgstr "Hopi malu"
 
 #. type=template
 msgctxt "template"
+msgid "test 2"
+msgstr "di 2 tèst"
+
+#. type=template
+msgctxt "template"
+msgid "test 3"
+msgstr "di 3 tèst"
+
+#. type=template
+msgctxt "template"
+msgid "test 4"
+msgstr "di 4 tèst"
+
+#. type=template
+msgctxt "template"
+msgid "test 5"
+msgstr "di 5 tèst"
+
+#. type=template
+msgctxt "template"
+msgid "test 6"
+msgstr "di 6 tèst"
+
+#. type=template
+msgctxt "template"
+msgid "test 7"
+msgstr "di 7 tèst"
+
+#. type=template
+msgctxt "template"
 msgid "Enter developer mode"
-msgstr "Hinka modo di desaroyadó"
+msgstr "Hinka 'modus' di desaroyadó"
 
 #. type=template
 #. The string @local.submit should not be translated.
 msgctxt "template"
 msgid "To launch the app in developer mode, enter your developer code in the box below and press @local.submit."
-msgstr "Pa inisiá e aplikashon den modo di desaroyadó, introdusí bo kódigo di desaroyadó den e kuadro akí bou i primi @local.submit."
+msgstr "Pa inisiá e aplikashon den 'modus' di desaroyadó, introdusí bo kódigo di desaroyadó den e kuadro akí bou i primi @local.submit."
 
 #. type=template
 msgctxt "template"
 msgid "You have successfully entered developer mode."
-msgstr "Bo a drenta e modo di desaroyadó ku éksito."
+msgstr "Bo a drenta e 'modus' di desaroyadó ku éksito."
 
 #. type=template
 msgctxt "template"
@@ -6438,7 +6478,7 @@ msgstr "Rapòrtnan pendiente"
 #. type=template
 msgctxt "template"
 msgid "Follow ups"
-msgstr "Chèknan di progreso  "
+msgstr "Chèk progreso"
 
 #. type=template
 msgctxt "template"
@@ -6488,7 +6528,7 @@ msgstr "Detayenan i Kondishonnan di Aplikashon"
 #. type=template
 msgctxt "template"
 msgid "🚀 Your parents are waiting! Once you deliver your first session, your reports will appear here."
-msgstr "🚀 Bo mayornan ta warda! Unabes bo fasilitá bo promé seshon, bo rapòrtnan lo aparesé akí."
+msgstr "🚀 Bo mayornan ta warda! Despues ku bo fasilitá bo promé seshon, bo rapòrtnan lo aparesé akí."
 
 #. type=template
 #. The string @local.number_pending_reports should not be translated.
@@ -6535,7 +6575,7 @@ msgstr "Kon bo seshon a bai?"
 #. type=template
 msgctxt "template"
 msgid "What challenges did you face in delivering the session? Be specific."
-msgstr "Kua retonan bo a enfrentá den fasilitashon di e seshon? Sea spesífiko."
+msgstr "Kua retonan bo a topa den fasilitashon di e seshon? Sea spesífiko."
 
 #. type=template
 #. The following strings should not be translated: 
@@ -6588,6 +6628,21 @@ msgstr "Biblioteka"
 
 #. type=template
 msgctxt "template"
+msgid "Before you go"
+msgstr "Promé ku bo sali"
+
+#. type=template
+msgctxt "template"
+msgid "If you leave now, your changes will not be saved."
+msgstr "Si bo sali awor, lo no seif bo kambionan"
+
+#. type=template
+msgctxt "template"
+msgid "Leave without saving"
+msgstr "Sali sin anunsiá"
+
+#. type=template
+msgctxt "template"
 msgid "Syncing..."
 msgstr "Sinkronisando..."
 
@@ -6637,6 +6692,16 @@ msgstr "co_parent_id: @local.co_parent_id"
 msgctxt "template"
 msgid "Missed the last 2 group sessions"
 msgstr "A falta e último 2 seshonnan di grupo"
+
+#. type=template
+msgctxt "template"
+msgid "Followed up"
+msgstr "A chèk progreso"
+
+#. type=template
+msgctxt "template"
+msgid "<u>How to follow up</u>"
+msgstr "<u>Kon pa chèk progreso<u>"
 
 #. type=template
 #. The string @calc(0 *0) should not be translated.
@@ -6912,8 +6977,13 @@ msgstr "Skohe kua kontenido bo ke mira."
 
 #. type=template
 msgctxt "template"
+msgid "Create a Caregiver Group"
+msgstr "Traha un grupo di edukadó"
+
+#. type=template
+msgctxt "template"
 msgid "🚀 Once you create a parent group, it will appear here."
-msgstr "🚀 Unabes bo krea un grupo di mayor, e lo aparesé akí."
+msgstr "🚀 Despues ku bo a traha un grupo di mayor, e lo aparesé akí."
 
 #. type=template
 msgctxt "template"
@@ -6932,8 +7002,55 @@ msgstr "Bista General di Grupo"
 
 #. type=template
 msgctxt "template"
+msgid ".text"
+msgstr ".teksto"
+
+#. type=template
+#. The string @local.current_age_group_text should not be translated.
+msgctxt "template"
+msgid "Age group: @local.current_age_group_text"
+msgstr "Grupo di edat: @local.current_age_group_text"
+
+#. type=template
+#. The string @local.current_content_package_text should not be translated.
+msgctxt "template"
+msgid "Delivery type: @local.current_content_package_text"
+msgstr "Tipo di entrega: @local.current_content_package_text"
+
+#. type=template
+msgctxt "template"
 msgid "Parents"
 msgstr "Mayornan"
+
+#. type=template
+#. The string @local.number_of_coparents should not be translated.
+msgctxt "template"
+msgid "Caregiving with @local.number_of_coparents other:"
+msgstr "Eduká ku @local.number_of_coparents otro"
+
+#. type=template
+#. The string @local.number_of_coparents should not be translated.
+msgctxt "template"
+msgid "Caregiving with @local.number_of_coparents others:"
+msgstr "Eduká ku @local.number_of_coparents otronan:"
+
+#. type=template
+msgctxt "template"
+msgid "No other current caregiver"
+msgstr "No tin otro edukadó"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.attended_6
+#.      @local.number_reported_sessions
+msgctxt "template"
+msgid "Attended @local.attended_6 / @local.number_reported_sessions reported sessions"
+msgstr "A partisipá na @local.attended_6 / @local.number_reported_sessions  seshon"
+
+#. type=template
+msgctxt "template"
+msgid "Details from Individual Consultation"
+msgstr "Detayenan di Konsulta Individual"
 
 #. type=template
 msgctxt "template"
@@ -6974,12 +7091,12 @@ msgstr "Nòmber di usuario (riba e kuenta aktual)"
 #. type=template
 msgctxt "template"
 msgid "Clear user name"
-msgstr "Hasi nòmber di usuario bashí"
+msgstr "Saka nòmber di usuario"
 
 #. type=template
 msgctxt "template"
 msgid "If you had set a user name on your old account and the data was imported succesfully, the user name above should update."
-msgstr "Si bo a pone un nòmber di usuario riba bo kuenta bieu i a importá e datonan ku éksito, e nòmber di usuario ariba mester aktualisá."
+msgstr "Si bo a yena un nòmber di usuario riba bo kuenta bieu i a importá e datonan ku éksito, mester aktualisá e nòmber di usuario ariba yená."
 
 #. type=template
 #. The string @fields.current_group_name should not be translated.
@@ -7018,12 +7135,12 @@ msgstr "Eliminá"
 #. type=template
 msgctxt "template"
 msgid "This is where you’ll see parents who need follow-up."
-msgstr "Aki ta kaminda bo ta mira mayornan ku mester 'chèk' kuné."
+msgstr "Aki ta kaminda bo ta mira mayornan ku mester di èkstra atenshon."
 
 #. type=template
 msgctxt "template"
 msgid "👏 No Follow ups"
-msgstr "👏 No tin chèknan di progreso  "
+msgstr "👏 No tin chèkeo di progreso"
 
 #. type=template
 msgctxt "template"
@@ -7040,7 +7157,7 @@ msgstr "@local.no_of_parents Chèk progreso "
 #. The string @local.no_of_parents should not be translated.
 msgctxt "template"
 msgid "@local.no_of_parents Follow ups"
-msgstr "@local.no_of_parents Chèknan di progreso"
+msgstr "@local.no_of_parents Chèkeonan di progreso"
 
 #. type=template
 msgctxt "template"
@@ -7051,7 +7168,7 @@ msgstr "Mustra tur"
 #. The string @fields.current_group_name should not be translated.
 msgctxt "template"
 msgid "Are you sure you want to close @fields.current_group_name?"
-msgstr "Bo ta sigur ku bo ke eliminá @fields.current_group_name?"
+msgstr "Bo ta sigur ku bo ke sera @fields.current_group_name?"
 
 #. type=template
 msgctxt "template"
@@ -7059,7 +7176,7 @@ msgid ""
 "Closing this group will remove it from your active list.\n"
 "You can still view its data later if needed."
 msgstr ""
-"Si sera e grupo akí lo kita esaki for di bo lista aktivo.\n"
+"Ora sera e grupo akí e lo sali for di bo lista aktivo.\n"
 "Ainda bo por wak su datonan despues si ta nesesario."
 
 #. type=template
@@ -7172,12 +7289,12 @@ msgstr "Temanan"
 #. type=template
 msgctxt "template"
 msgid "Developer mode"
-msgstr "Modo di desaroyadó"
+msgstr "'Modus' di desaroyadó"
 
 #. type=template
 msgctxt "template"
 msgid "Exit developer mode"
-msgstr "Sali for di modo di desaroyadó"
+msgstr "Sali for di 'modus' di desaroyadó"
 
 #. type=template
 msgctxt "template"
@@ -7216,7 +7333,7 @@ msgstr "Eduká huntu @local.fn @local.ln"
 #. The string @local.number_of_coparents should not be translated.
 msgctxt "template"
 msgid "Caregiving with @local.number_of_coparents others"
-msgstr "Duna kuido huntu @local.number_of_coparents otronan"
+msgstr "Eduká huntu @local.number_of_coparents otronan"
 
 #. type=template
 msgctxt "template"
@@ -7239,7 +7356,7 @@ msgstr "@calc(Number(@field.current_follow_ups_number) +1)"
 #. type=template
 msgctxt "template"
 msgid "No Follow ups"
-msgstr "No tin Chèknan di progreso"
+msgstr "No tin Chèkeo di progreso"
 
 #. type=template
 msgctxt "template"
@@ -7250,13 +7367,13 @@ msgstr "Tur bo mayornan ta komprometí–sigui asina!"
 #. The string @field.current_follow_ups_number should not be translated.
 msgctxt "template"
 msgid "@field.current_follow_ups_number Follow up"
-msgstr "@field.current_follow_ups_number Chèk progreso"
+msgstr "@field.current_follow_ups_number Chèkeo di progreso"
 
 #. type=template
 #. The string @field.current_follow_ups_number should not be translated.
 msgctxt "template"
 msgid "@field.current_follow_ups_number Follow ups"
-msgstr "@field.current_follow_ups_number Chèknan di progreso"
+msgstr "@field.current_follow_ups_number Chèkeonan di progreso"
 
 #. type=template
 msgctxt "template"
