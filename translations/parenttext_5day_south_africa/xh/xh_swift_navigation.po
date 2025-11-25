@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-11-25 11:35\n"
+"PO-Revision-Date: 2025-11-25 22:59\n"
 
 #. type=text
 msgctxt "text"
@@ -394,6 +394,12 @@ msgstr "Ungathanda ukuqalisa ngoku okanye ngomso?"
 msgctxt "text"
 msgid "It takes only 5 days to complete this first course and earn your parenting certificate."
 msgstr "Ithatha nje kuphela iintsuku ezintlanu ukugqiba esisifundo sokuqala kwaye uzifumanele isatifikethi sakho sobuzali."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Here's your certificate for the course @results.name. 🎉Congratulations!🎉"
+msgstr "Nasi isatifiketi sesifundo i@results.name. 🎉Siyavuyisana nawe!🎉"
 
 #. type=text
 msgctxt "text"
@@ -1249,9 +1255,63 @@ msgid "It looks like you’re not interested in the Child Safety course right no
 msgstr "Kubonakala ngathi awunamdla kwisifundo soKhuseleko lwaBantwana okwangoku. Ukuba ufuna ukujoyina ikhosi yoKhuseleko loMntwana exesheni, vele ucinezele u-1"
 
 #. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Sorry, but you can only reprint your certificate for the course @results.name twice."
+msgstr "Uxolo, kodwa ungakwazi ukuphinda ushicilele isatifiketi sakho sesifundo i@results.name kabini."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Here's your certificate for the course @results.name!"
+msgstr "Nasi isatifiketi sakho sesifundo i@results.name!"
+
+#. type=text
 msgctxt "text"
 msgid "Oops something went wrong."
 msgstr "Oops! kukho into engahambanga kakuhle."
+
+#. type=text
+msgctxt "text"
+msgid "You haven't completed any course yet."
+msgstr "Awukagqibi nasiphi isifundo okwangoku."
+
+#. type=text
+msgctxt "text"
+msgid "You have received the following certificate:"
+msgstr "Ufumene ezi zatifiketi zilandelayo:"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like me to print it again?"
+msgstr "Ungathanda ukuba ndiphinde ndisishicilele?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can come back here anytime to get it."
+msgstr "Oko kulungile. Ungaphinde ubuye apha nanini na uzoyithatha."
+
+#. type=text
+msgctxt "text"
+msgid "Which certificate should I re-print for you?"
+msgstr "Sesiphi isatifiketi ekufuneka ndiphinde ndikushicilele sona?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.goals_compl) +1). None, return to the main menu"
+msgstr "@(word_count(fields.goals_compl) +1). Akukho nanye, buyela kwimenyu enkulu"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "I'll make your certificate with the name @fields.certificate_name."
+msgstr "Ndizakufaka eligama @fields.certificate_name kwisatifiketi sakho."
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us which name you'd like on your certificate."
+msgstr "Awusixelelanga leliphi igama ongalithanda kwisatifiketi sakho."
 
 #. type=text
 msgctxt "text"
