@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2025-11-24 17:16\n"
+"PO-Revision-Date: 2025-11-25 11:35\n"
 
 #. type=text
 msgctxt "text"
@@ -1250,8 +1250,40 @@ msgstr "Kubonakala ngathi awunamdla kwisifundo soKhuseleko lwaBantwana okwangoku
 
 #. type=text
 msgctxt "text"
+msgid "Oops something went wrong."
+msgstr "Oops! kukho into engahambanga kakuhle."
+
+#. type=text
+msgctxt "text"
+msgid "Is that right?"
+msgstr "Ingaba oko kulungile?"
+
+#. type=text
+msgctxt "text"
 msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
 msgstr "Kubonakala ngathi ayiloxesha elilungileyo eli. Nceda ucofe u-1 ukuba ungathanda ukuqhubeka."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "🎉You did it!🎉 You have completed the course @fields.print_goal_name and earned yourself a certificate. Congratulations!"
+msgstr "🎉Uyenzile!🎉 Usigqibile isifundo @fields.print_goal_name kwaye uzifumanele isatifiketi. Siyavuyisana nawe!"
+
+#. type=text
+msgctxt "text"
+msgid "How should I print your name on the certificate?"
+msgstr "Ndilishicilele njani igama lakho kwisatifiketi?"
+
+#. type=text
+msgctxt "text"
+msgid "This name is too long. Please enter a shorter name."
+msgstr "Eli gama lide kakhulu. Nceda ufake igama elifutshane."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "The name you would like to have on you certificate is @fields.sq_cert_name. Is that correct?"
+msgstr "Igama ofuna libekwi satifiketi sakho ngu@fields.sq_cert_name. Ingaba oku kuchanekile?"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1484,6 +1516,12 @@ msgstr "Landelela inkqubela phambili yam"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "Reprint my Certificates"
+msgstr "Phinda ushicilele izatifiketi zam"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "Retake completed lessons"
 msgstr "Thatha kwakhona izifundo ezigqityiweyo"
 
@@ -1670,8 +1708,20 @@ msgstr "Phuma"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
+msgid "No, return to the main menu"
+msgstr "Hayi, buyela kwimenyu enkulu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
 msgid "No, change my name"
 msgstr "Hayi, tshintsha igama lam"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes, that's right"
+msgstr "Ewe, oko kulungile"
 
 #. type=variables
 msgctxt "variables"
@@ -1998,6 +2048,12 @@ msgstr "landelela inkqubela phambili yam"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "reprint my certificates"
+msgstr "phinda ushicilele izatifiketi zam"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "retake completed lessons"
 msgstr "thatha kwakhona izifundo ezigqityiweyo"
 
@@ -2184,6 +2240,18 @@ msgstr "fumana uncedo olongezelweyo"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "no, return to the main menu"
+msgstr "hayi, buyela kwimenyu enkulu"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "no, change my name"
 msgstr "hayi, tshintsha igama lam"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes, that's right"
+msgstr "ewe, oko kulungile"
 
