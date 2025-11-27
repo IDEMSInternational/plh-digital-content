@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-11-26 04:53\n"
+"PO-Revision-Date: 2025-11-26 16:26\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -51,14 +51,6 @@ msgstr ""
 msgctxt "data_list"
 msgid "When we involve our teens in budgeting, they learn to be responsible with money and work towards goals. That is something we all want for our teens, right?"
 msgstr "Tunapowashirikisha vijana wetu katika kupanga bajeti, wanajifunza kuwajibika na pesa na kufanya kazi kwa malengo. Hilo ni jambo ambalo sote tunataka kwa vijana wetu, sivyo?"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f2_daughter_19.name
-#.      @data.characters.f2_son_15.name,
-msgctxt "data_list"
-msgid "I have been taking care of my grandchildren, @data.characters.f2_daughter_19.name and @data.characters.f2_son_15.name, since their parents died when they were young. We often struggle with money, as I only receive a small grant."
-msgstr "Nimekuwa nikiwatunza wajukuu zangu, @data.characters.f2_daughter_19.name na @data.characters.f2_son_15.name, tangu wazazi wao wafariki walipokuwa wadogo. Mara nyingi tunahangaika na pesa, kwani mimi hupokea ruzuku ndogo tu."
 
 #. type=data_list
 msgctxt "data_list"
@@ -173,13 +165,13 @@ msgid ""
 "- Take some stones or beans or anything with lots of bits - this is your income for the month. For example: If your income is TSh2000 and you have 20 beans, each bean is TSh100.\n"
 "- Decide what you will spend on, and put the stones/objects on that image.\n"
 "\n"
-"Not sure yet? That is okay. Deciding between “needs” and “wants” gets easier with practice."
+"Not sure about your decisions? Having trouble deciding between \"needs\" and \"wants\"? That’s totally fine! This exercise will get easier with practice."
 msgstr ""
 "- Andika mapato yako kwa mwezi.\n"
 "- Chukua mawe au maharagwe au kitu chochote chenye punje nyingi - haya ni mapato yako ya mwezi. Kwa mfano: Ikiwa mapato yako ni TSh2000 na una maharage 20, kila maharagwe ni TSh100.\n"
 "- Amua utatumia nini, na uweke mawe/vitu kwenye picha hiyo.\n"
 "\n"
-"Je, unapata shida kuamua kati ya \"mahitaji\" na \"matamanio\"? Hiyo ni sawa kabisa! Zoezi hili litakuwa rahisi kwa kufanya mazoezi."
+"Je, hauna uhakika na maamuzi yako? Je, unapata shida kuamua kati ya \"mahitaji\" na \"matamanio\"? Hiyo ni sawa kabisa! Zoezi hili litakuwa rahisi kwa kufanya mazoezi."
 
 #. type=data_list
 msgctxt "data_list"
@@ -211,6 +203,22 @@ msgid "*(A few years later)*"
 msgstr "*(Miaka michache baadae)*"
 
 #. type=data_list
+#. The string @data.characters.f2_grandmother.name should not be translated.
+msgctxt "data_list"
+msgid ""
+"Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n"
+"\n"
+"There are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a stokvel.\n"
+"\n"
+"Think of the advantages and disadvantages of each savings option."
+msgstr ""
+"Kuwa na mpango wa kuweka akiba kungemsaidia @data.characters.f2_grandmother.name kuwa tayari kwa aina hii ya dharura.\n"
+"\n"
+"Kuna njia tofauti tunaweza kuweka akiba: nyumbani, kwa kununua vitu tunaweza kuuza kwa faida, katika benki, au vikundi vya akiba.\n"
+"\n"
+"Fikiria faida na hasara za kila chaguo la kuweka akiba."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "One night there was a horrible storm that broke my roof. Everything was flooded. I suddenly had to find money to fix the roof. I just felt defeated."
 msgstr "Usiku mmoja kulikuwa na dhoruba ya kutisha ambayo ilivunja paa yangu. Kila kitu kiliharibika. Ghafla nililazimika kutafuta pesa za kurekebisha paa. Nilihisi tu kushindwa."
@@ -234,6 +242,36 @@ msgstr "Kununua vitu mnaweza kuviuza kwa faida"
 msgctxt "data_list"
 msgid "Save money at a bank"
 msgstr "Kutunza pesa katika benki"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here are this week’s takeaway skills to help you budget and save!"
+msgstr "Huu hapa ni ujuzi wa kuchukua wa wiki hii ili kukusaidia kupanga bajeti na kuweka akiba!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STEP 1: THINK"
+msgstr "HATUA YA 1: FIKIRIA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STEP 2: CHOOSE"
+msgstr "HATUA YA 2: CHAGUA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STEP 3: BUILD"
+msgstr "HATUA YA 3: JENGA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "STEP 4: PLAN"
+msgstr "HATUA YA 4: PANGA"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More tips"
+msgstr "Vidokezo zaidi"
 
 #. type=data_list
 msgctxt "data_list"
@@ -270,36 +308,6 @@ msgstr ""
 "Lengo kubwa kama hilo!\n"
 "\n"
 "Kwa kufanya bajeti nzuri na mpango wa kutunza, unaweza kufikia na kujivunia mwenyewe!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Here are this week’s takeaway skills to help you budget and save!"
-msgstr "Huu hapa ni ujuzi wa kuchukua wa wiki hii ili kukusaidia kupanga bajeti na kuweka akiba!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "STEP 1: THINK"
-msgstr "HATUA YA 1: FIKIRIA"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "STEP 2: CHOOSE"
-msgstr "HATUA YA 2: CHAGUA"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "STEP 3: BUILD"
-msgstr "HATUA YA 3: JENGA"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "STEP 4: PLAN"
-msgstr "HATUA YA 4: PANGA"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "More tips"
-msgstr "Vidokezo zaidi"
 
 #. type=data_list
 msgctxt "data_list"

@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-11-26 04:53\n"
+"PO-Revision-Date: 2025-11-27 04:20\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -136,14 +136,6 @@ msgstr ""
 "Kwa namna hii vijana watajisikia kuheshimiwa pia na watakuwa wasikivu."
 
 #. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_father.name
-#.      @data.characters.f2_daughter_19.name
-msgctxt "data_list"
-msgid "Let’s see what happens if @data.characters.f1_father.name tells @data.characters.f2_daughter_19.name \"DON'T\":"
-msgstr "Hebu tuone ni nini kitatokea kama @data.characters.f1_father.name atamwambia @data.characters.f2_daughter_19.name \"USIFANYE HIKI\":"
-
-#. type=data_list
 msgctxt "data_list"
 msgid "Don't you talk back to me!"
 msgstr "Usinijibu!"
@@ -161,10 +153,10 @@ msgstr "(🤔_kufikiri_) Huyu kijana mara zote analeta shida."
 #. type=data_list
 #. The following strings should not be translated: 
 #.      @data.characters.f2_daughter_19.name
-#.      @data.characters.f1_father.name
+#.      @data.characters.f2_grandfather.name
 msgctxt "data_list"
-msgid "How do you think @data.characters.f2_daughter_19.name felt about the way @data.characters.f1_father.name responded?"
-msgstr "Unaonaje @data.characters.f2_daughter_19.name anajisikia kuhusu namna @data.characters.f1_father.name alijibu?"
+msgid "How do you think @data.characters.f2_daughter_19.name felt about the way @data.characters.f2_grandfather.name responded?"
+msgstr "Unaonaje @data.characters.f2_daughter_19.name anajisikia kuhusu namna @data.characters.f2_grandfather.name alijibu?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -185,12 +177,6 @@ msgstr "Hasira"
 msgctxt "data_list"
 msgid "Yes. That's right! She could also feel sad or confused."
 msgstr "Ndiyo. Ni sawa! Anaweza kujihisi pia huzuni au kuchanganyikiwa."
-
-#. type=data_list
-#. The string @data.characters.f1_father.name should not be translated.
-msgctxt "data_list"
-msgid "What could @data.characters.f1_father.name have done differently?"
-msgstr "Je, @data.characters.f1_father.name anaweza kufanya nini cha tofauti?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -216,27 +202,21 @@ msgid "That's right! This would help @data.characters.f2_daughter_19.name unders
 msgstr "Ni sawa! Hii ingeweza kumsaidia @data.characters.f2_daughter_19.name kuelewa namna ya kuwa na heshima wakati ujao."
 
 #. type=data_list
-#. The string @data.characters.f1_father.name should not be translated.
+#. The string @data.characters.f2_grandfather.name should not be translated.
 msgctxt "data_list"
-msgid "Let’s go back in time and see what happens if @data.characters.f1_father.name gives a positive instruction:"
-msgstr "Hebu turudi nyuma tuone kinachoweza kutokea kama @data.characters.f1_father.name atatoa maelekezo chanya:"
+msgid "Let’s go back in time and see what happens if @data.characters.f2_grandfather.name gives a positive instruction:"
+msgstr "Hebu turudi nyuma tuone kinachoweza kutokea kama @data.characters.f2_grandfather.name atatoa maelekezo chanya:"
 
 #. type=data_list
-#. The string @data.characters.f1_father_role.name! should not be translated.
+#. The string @data.characters.f2_grandfather_role.name! should not be translated.
 msgctxt "data_list"
-msgid "Okay, @data.characters.f1_father_role.name!"
-msgstr "Sawa, @data.characters.f1_father_role.name!"
+msgid "Okay, @data.characters.f2_grandfather_role.name!"
+msgstr "Sawa, @data.characters.f2_grandfather_role.name!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Happy"
 msgstr "Furaha"
-
-#. type=data_list
-#. The string @data.characters.f1_father.name should not be translated.
-msgctxt "data_list"
-msgid "Yes! By giving positive instructions, @data.characters.f1_father.name was able to turn the situation into a positive one for everyone."
-msgstr "Ndiyo! kwa kutoa maelekezo chanya @data.characters.f1_father.name ameweza kugeuza hali kuwa chanya kwa kila mmoja."
 
 #. type=data_list
 msgctxt "data_list"
@@ -249,30 +229,30 @@ msgid "Sad"
 msgstr "Huzuni"
 
 #. type=data_list
-#. The string @data.characters.f1_father.name should not be translated.
+#. The string @data.characters.f2_grandfather.name should not be translated.
 msgctxt "data_list"
-msgid "Why do you think the situation went better for @data.characters.f1_father.name this time?"
-msgstr "Unafikiri kwa nini hali imeenda vizuri kwa @data.characters.f1_father.name wakati huu?"
+msgid "Why do you think the situation went better for @data.characters.f2_grandfather.name this time?"
+msgstr "Unafikiri kwa nini hali imeenda vizuri kwa @data.characters.f2_grandfather.name wakati huu?"
 
 #. type=data_list
 #. The following strings should not be translated: 
 #.      @data.characters.f2_daughter_19.name
-#.      @data.characters.f1_father_role.name
+#.      @data.characters.f2_grandfather_role.name
 msgctxt "data_list"
-msgid "@data.characters.f2_daughter_19.name felt respected and loved by her @data.characters.f1_father_role.name"
-msgstr "@data.characters.f2_daughter_19.name alihisi kuheshimiwa na kupendwa na @data.characters.f1_father_role.name"
+msgid "@data.characters.f2_daughter_19.name felt respected and loved by her @data.characters.f2_grandfather_role.name"
+msgstr "@data.characters.f2_daughter_19.name alihisi kuheshimiwa na kupendwa na @data.characters.f2_grandfather_role.name"
 
 #. type=data_list
-#. The string @data.characters.f1_father.name should not be translated.
+#. The string @data.characters.f2_grandfather.name should not be translated.
 msgctxt "data_list"
-msgid "@data.characters.f1_father.name was able to stay calm"
-msgstr "@data.characters.f1_father.name aliweza kuwa mtulivu"
+msgid "@data.characters.f2_grandfather.name was able to stay calm"
+msgstr "@data.characters.f2_grandfather.name aliweza kuwa mtulivu"
 
 #. type=data_list
-#. The string @data.characters.f1_father.name should not be translated.
+#. The string @data.characters.f2_grandfather.name should not be translated.
 msgctxt "data_list"
-msgid "@data.characters.f1_father.name kept a positive attitude"
-msgstr "@data.characters.f1_father.name aliweka mtazamo chanya"
+msgid "@data.characters.f2_grandfather.name kept a positive attitude"
+msgstr "@data.characters.f2_grandfather.name aliweka mtazamo chanya"
 
 #. type=data_list
 msgctxt "data_list"
