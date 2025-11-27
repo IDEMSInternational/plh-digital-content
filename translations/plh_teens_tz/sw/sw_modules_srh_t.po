@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-11-25 16:58\n"
+"PO-Revision-Date: 2025-11-27 14:02\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -166,6 +166,12 @@ msgid "No, no, no, @data.characters.f2_daughter_19.name! I will not have this di
 msgstr "Hapana, hapana, hapana @data.characters.f2_daughter_19.name! Sitakuwa na mjadala huu na wewe. Je, ndivyo unavyofanya shuleni? Je, unazungumza kuhusu mambo ambayo hayakufai kwa umri wako badala ya kuzingatia shule? Hautatoka tena na hao marafiki zako. Unataka kuleta aibu katika nyumba hii. Njoo hapa sasa! Mimi naenda kukupiga. Msichana mjinga!"
 
 #. type=data_list
+#. The string @data.characters.f2_grandmother_role.name, should not be translated.
+msgctxt "data_list"
+msgid "No @data.characters.f2_grandmother_role.name, please don’t hit me, it is not what you think!"
+msgstr "Hapana @data.characters.f2_grandmother_role.name, tafadhali usinipige, siyo unavyofikiri!"
+
+#. type=data_list
 #. The string @data.characters.f2_grandmother.name should not be translated.
 msgctxt "data_list"
 msgid "Why do you think @data.characters.f2_grandmother.name reacted the way she did?"
@@ -259,6 +265,12 @@ msgstr ""
 "Hebu tuangalie mfano wa namna mazungumzo haya yanaweza kuwa kwa utulivu."
 
 #. type=data_list
+#. The string @data.characters.f1_mother_role.name, should not be translated.
+msgctxt "data_list"
+msgid "@data.characters.f1_mother_role.name, can I talk to you about something?"
+msgstr "@data.characters.f1_mother_role.name, naweza kuongea na wewe kuhusu jambo?"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "(_calmly_) Sure, my darling. What is the matter?"
 msgstr "(_kwa utulivu_) Hakika, kipenzi changu. Nini shida?"
@@ -314,6 +326,14 @@ msgstr "Vipi kuhusu, tunaweza kutumia muda kwa pamoja kama mtu mzima yupo nasi?"
 msgctxt "data_list"
 msgid "That would be fine as long as his parents also know. I will chat with his mother when I see her later today. And after you get back, we can talk about how it went."
 msgstr "Hilo ni sawa kama wazazi wake pia wanajua. Nitazungumza na mama yake nitakapoonana naye baadae leo. Na utakaporudi, tunaweza kuzungumza jinsi ilivyokuwa."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_mother.name)_
+#.      @data.characters.f1_mother_role.name.
+msgctxt "data_list"
+msgid "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name."
+msgstr "_(anamkumbatia @data.characters.f1_mother.name)_ Sawa. Asante kwa kuja tupange kwa pamoja, @data.characters.f1_mother_role.name."
 
 #. type=data_list
 msgctxt "data_list"
