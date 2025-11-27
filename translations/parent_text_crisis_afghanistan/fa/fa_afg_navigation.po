@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Dari\n"
 "\n"
 "Language: fa_AF\n"
-"PO-Revision-Date: 2025-10-06 09:15\n"
+"PO-Revision-Date: 2025-11-27 11:00\n"
 
 #. type=text
 msgctxt "text"
@@ -82,16 +82,6 @@ msgstr "آیا با یک وضعیت اضطراری مواجه هستید؟"
 msgctxt "text"
 msgid "It looks like you are facing an emergency. Can you please tell us what kind of assistance you need?"
 msgstr "به نظر می‌رسد شما با یک وضعیت اضطراری مواجه هستید. لطفاً بگویید چه نوع کمکی نیاز دارید؟"
-
-#. type=text
-msgctxt "text"
-msgid "{family_referrals}"
-msgstr "{family_referrals}"
-
-#. type=text
-msgctxt "text"
-msgid "{child_protection_referrals}"
-msgstr "{child_protection_referrals}"
 
 #. type=text
 msgctxt "text"
@@ -292,21 +282,6 @@ msgstr "می خواهید از همین حالا شروع کنید یا از ف�
 msgctxt "text"
 msgid "Great, see you tomorrow!"
 msgstr "عالیست، فردا خواهیم دید شما را!"
-
-#. type=text
-msgctxt "text"
-msgid "You’ve completed the programme – well done!"
-msgstr "شما برنامه را کامل کردید – آفرین!"
-
-#. type=text
-msgctxt "text"
-msgid "Remember, you can always return to {prog_name} to review any of the tips. Just type {MENU}."
-msgstr "یاد‌تان باشد که همیشه می‌توانید به {prog_name} برگردید و هر کدام از توصیه ها را مرور کنید. فقط کافیست بنویسید {MENU}."
-
-#. type=text
-msgctxt "text"
-msgid "We’ll check in with you in a month to see how you’re doing. Your feedback helps us make sure these tips truly support families like yours 🙂"
-msgstr "ما در یک ماه آینده دوباره با شما تماس خواهیم گرفت تا ببینیم اوضاع چطور پیش می‌رود. نظر و معلومات شما به ما کمک می‌کند مطمئن شویم این توصیه ها واقعاً به خانواده‌هایی مثل شما کمک می‌کنند 🙂"
 
 #. type=text
 msgctxt "text"
@@ -724,6 +699,21 @@ msgstr "لطفاً برای درخواست به‌روزرسانی هر یک ا�
 
 #. type=text
 msgctxt "text"
+msgid "You’ve completed the programme – well done!"
+msgstr "شما برنامه را کامل کردید – آفرین!"
+
+#. type=text
+msgctxt "text"
+msgid "Remember, you can always return to {prog_name} to review any of the tips. Just type {MENU}."
+msgstr "یاد‌تان باشد که همیشه می‌توانید به {prog_name} برگردید و هر کدام از توصیه ها را مرور کنید. فقط کافیست بنویسید {MENU}."
+
+#. type=text
+msgctxt "text"
+msgid "We’ll check in with you in a month to see how you’re doing. Your feedback helps us make sure these tips truly support families like yours 🙂"
+msgstr "ما در یک ماه آینده دوباره با شما تماس خواهیم گرفت تا ببینیم اوضاع چطور پیش می‌رود. نظر و معلومات شما به ما کمک می‌کند مطمئن شویم این توصیه ها واقعاً به خانواده‌هایی مثل شما کمک می‌کنند 🙂"
+
+#. type=text
+msgctxt "text"
 msgid "Welcome back to ParentText!"
 msgstr "به ParentText باز خوش آمدید!"
 
@@ -786,20 +776,8 @@ msgstr "خدمات سلامت روان"
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Family counselling services"
-msgstr "خدمات مشاوره خانوادگی"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "Natural disasters"
 msgstr "بلایای طبیعی"
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Child Protection"
-msgstr "محافظت اطفال"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -860,6 +838,12 @@ msgstr "بعدی"
 msgctxt "quick_replies"
 msgid "A fun activity I can do with my child"
 msgstr "یک فعالیت سرگرم کننده ای که می توانم با طفل خود انجام دهم"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Proceed to the next tip"
+msgstr "ادامه، به توصیه بعدی"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1181,20 +1165,8 @@ msgstr "حمایت سلامت روان"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "family counselling services"
-msgstr "خدمات مشوره خانوادگی"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
 msgid "natural disasters"
 msgstr "بلایای طبیعی"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "child protection"
-msgstr "محافظت طفل"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
@@ -1267,6 +1239,12 @@ msgstr "فردا ادامه خواهیم داد."
 msgctxt "arguments"
 msgid "a fun activity i can do with my child"
 msgstr "یک فعالیت سرگرم کننده یی که می توانم با طفل خود انجام بدهم"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "proceed to the next tip"
+msgstr "ادامه، به توصیه بعدی"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
