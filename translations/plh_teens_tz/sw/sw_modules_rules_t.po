@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-11-29 18:40\n"
+"PO-Revision-Date: 2025-11-30 00:40\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -156,9 +156,24 @@ msgid "We are proud to see how responsible you are becoming."
 msgstr "Tunajivunia kuona jinsi unavyokuwa mtu mwenye kuwajibika."
 
 #. type=data_list
+#. The string @data.characters.f1_son_18.name should not be translated.
+msgctxt "data_list"
+msgid "What went well when @data.characters.f1_son_18.name and his parents made a rule together?"
+msgstr "Nini kilienda vizuri wakati @data.characters.f1_son_18.name na wazazi wake walipounda sheria pamoja?"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "They discussed the reasons behind the rule"
 msgstr "Walijadili sababu za kuwekwa kwa sheria hiyo"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_mother.name
+#.      @data.characters.f1_father.name
+#.      @data.characters.f1_son_18.name's
+msgctxt "data_list"
+msgid "@data.characters.f1_mother.name and @data.characters.f1_father.name listened to their son, @data.characters.f1_son_18.name's suggestions"
+msgstr "@data.characters.f1_mother.name na @data.characters.f1_father.name walisikiliza mapendekezo ya mtoto wao @data.characters.f1_son_18.name"
 
 #. type=data_list
 msgctxt "data_list"
@@ -180,8 +195,51 @@ msgstr "Hiyo ni kweli, kuweka sheria zilizo wazi kwa kushirikiana na kwa njia ya
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Both caregivers and their teen were involved"
+msgstr "Wote walezi wawili pamoja na kijana wao walihusika"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That’s right. When teens, fathers and mothers are involved in a calm and positive way, creating clear rules and following them becomes a shared responsibility for everyone"
+msgstr "Hiyo ni kweli. wakati vijana, baba na mama wanaposhiriki kwa utulivu na kwa mtazamo chanya, kuunda sheria wazi na kuzifuata kunakuwa jukumu la pamoja kwa wote"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "They praised him"
+msgstr "Walimsifu"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_mother.name
+#.      @data.characters.f1_father.name
+msgctxt "data_list"
+msgid "@data.characters.f1_mother.name and @data.characters.f1_father.name rewarded him when he followed the rule"
+msgstr "@data.characters.f1_mother.name na @data.characters.f1_father.name walimpa zawadi alipofuata sheria"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Exactly - a positive response makes all the difference!"
 msgstr "Sawasawa – mwitikio chanya huleta mabadiliko makubwa!"
+
+#. type=data_list
+#. The string @data.characters.f1_mother.name should not be translated.
+msgctxt "data_list"
+msgid ""
+"Setting rules together also helps teens manage friendships and relationships. Talking about boyfriends and girlfriends is not always easy – for parents or teens – but very important. Think back: Would clear, calm guidance have helped you as a teen?\n"
+"\n"
+"Let's see how @data.characters.f1_mother.name handles this conversation."
+msgstr ""
+"Kuweka sheria pamoja pia husaidia vijana kudhibiti urafiki na mahusiano. kuzungumza kuhusu wavulana na wasichana si rahisi kila wakati-kwa wazazi au vijana-lakini ni muhimu sana.fikiria tena:je, mwongozo wazi na mtulivu ungekusaidia wakati ulipo kuwa kijana?\n"
+"\n"
+"Hebu tuone jinsi@data.characters.f1_mother.name anavyo shughulikia mazungumzo haya."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_mother_role.name
+#.      @data.characters.f1_father_role.name.
+msgctxt "data_list"
+msgid "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name."
+msgstr "Sawa, @data.characters.f1_mother_role.name na @data.characters.f1_father_role.name."
 
 #. type=data_list
 msgctxt "data_list"
@@ -239,6 +297,14 @@ msgstr "Vipi kuhusu, tunaweza kutumia muda kwa pamoja kama mtu mzima yupo nasi?"
 msgctxt "data_list"
 msgid "That would be fine as long as his parents also know. I will chat with his mother when I see her later today. And after you get back, we can talk about how it went."
 msgstr "Hilo ni sawa kama wazazi wake pia wanajua. Nitazungumza na mama yake nitakapoonana naye baadae leo. Na utakaporudi, tunaweza kuzungumza jinsi ilivyokuwa."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_mother.name)_
+#.      @data.characters.f1_mother_role.name.
+msgctxt "data_list"
+msgid "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name."
+msgstr "_(anakumbatia @data.characters.f1_mother.name)_ sawa. asante kwa kutengeneza mpango pamoja, @data.characters.f1_mother_role.name."
 
 #. type=data_list
 msgctxt "data_list"
@@ -304,6 +370,11 @@ msgid "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_
 msgstr "Ni kivipi @data.characters.f1_mother.name na @data.characters.f1_daughter_16.name wanahisi baada ya mazungumzo yao?"
 
 #. type=data_list
+msgctxt "data_list"
+msgid "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
+msgstr "Tukipiga kelele au kutoa majibu kwa ukali, vijana wanaweza kuficha mambo wakati mwingine —tukibaki watulivu tunawafanya wawe salama zaidi."
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @data.characters.f1_mother.name
 #.      @data.characters.f1_daughter_16.name.
@@ -345,6 +416,11 @@ msgstr "Kijana"
 msgctxt "data_list"
 msgid "The parent"
 msgstr "Mzazi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Another trusted adult"
+msgstr "Mtu mzima mwingine anaye aminika"
 
 #. type=data_list
 msgctxt "data_list"
