@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-11-28 18:38\n"
+"PO-Revision-Date: 2025-11-30 18:49\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -213,6 +213,17 @@ msgstr "Kwasasa hali ni nzuri. Yule kijana ameacha kunipiga mateke, ila bado ana
 
 #. type=data_list
 msgctxt "data_list"
+msgid "I’m sorry he is still unkind. Let’s make a plan to help you stay safe. You can sit near your friends, stay close to the teacher during breaks, and walk home with someone you trust. I’ll also ask my friend who works at the school to quietly look out for you. We will keep checking what works."
+msgstr "Pole san bado sio mwema kwako. Ngoja tutengeneze mpango mwingine utakao kusaidia kuwa salama. Unaweza kukaa karibu na rafiki zako au walimu wakati wa mapumziko, na kutembea na mtu unae muamini wakati wakurudi nyumbani. Na meme pia nitawaomba rafiki zangu wanaofanya kazi hapo shuleni kukutizama kwa ukaribu.Tutaendelea kufatilia ni nini kimeleta matokeo mazuri."
+
+#. type=data_list
+#. The string @data.characters.f2_grandmother_role.name. should not be translated.
+msgctxt "data_list"
+msgid "Yes, thank you, @data.characters.f2_grandmother_role.name. At least I know you are on my side."
+msgstr "Ndio, nashuru sana, @data.characters.f2_grandmother_role.name. afadhari kwa sasa upo upande wangu."
+
+#. type=data_list
+msgctxt "data_list"
 msgid ""
 "When you face a problem, take a few deep breaths to help you stay calm. \n"
 "Then, try to handle the problem using these four steps!"
@@ -261,9 +272,63 @@ msgid "Did it work? Great! If it did not work, then try another solution."
 msgstr "Je, imefanikiwa? Safi sana! Kama haikufanikiwa, basi jaribu njia nyingine ya utatuzi."
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f2_grandmother.name
+#.      @data.characters.f2_son_15.name
+msgctxt "data_list"
+msgid ""
+"You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n"
+"\n"
+"These simple steps help families stay calm and find a way forward."
+msgstr "Utakuwa umegundua ni kwa namna gani @data.characters.f2_grandmother.name na @data.characters.f2_son_15.name walivyo tulia, kulielewa tatizo na kushirikiana kutafuta sulihisho."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_daughter_16.name
+#.      @data.characters.f1_mother.name
+msgctxt "data_list"
+msgid "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
+msgstr "Kwasasa, ngoja tujaribu kutatua tatizo kwa pamoja: Hashumu @data.characters.f1_daughter_16.name kapewa simu na mvulana kama zawadi, na @data.characters.f1_mother.name anapatwa wasiwasi juu ya hiyo simu."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_mother.name
+#.      @data.characters.f1_daughter_16.name
+msgctxt "data_list"
+msgid ""
+"What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \n"
+"Tap on each option to see if these solutions worked!"
+msgstr ""
+"Nini amabcho@data.characters.f1_mother.name atafanya kukabiliana na tatizo wakati @data.characters.f1_daughter_16.name kapewa simu na kijana wakiume?\n"
+"Gusa kila chaguo ili uone kama suluhisho hizi zilifanya kazi!"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Ground @data.characters.f1_daughter_16.name for a month"
+msgstr "Kumpa @data.characters.f1_daughter_16.name adhabu ya kutokutoka nje kwa muda wa mwezi mmoja"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Return the phone and save up together to buy a new one"
 msgstr "Rudisha simu na tuanze kuweka akiba pamoja ili kununua simu mpya"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Talk to @data.characters.f1_daughter_16.name about safe sex"
+msgstr "Kuzungumza na@data.characters.f1_daughter_16.name kuhusiana na ngono salama"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name's should not be translated.
+msgctxt "data_list"
+msgid "Listen to @data.characters.f1_daughter_16.name's side of the story"
+msgstr "Kusikiliza upande wapili wa hadhithi wa @data.characters.f1_daughter_16.name"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Take a deep breath before reacting"
+msgstr "Kuvuta pumzi ndefu kabla ya kutoa maamuzi"
 
 #. type=data_list
 msgctxt "data_list"
@@ -279,6 +344,77 @@ msgstr "Huwezi kwenda nje kwa mwezi mzima ujao"
 msgctxt "data_list"
 msgid "Uuugh… that’s so unfair, I did not do anything wrong!"
 msgstr "Uuugh… hiyo siyo sawa, sikufanya kosa lolote!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I am not trying to accuse your friend or be jealous. I am worried that when someone gives a gift it is hard to say 'no' when they ask something in return – like sex."
+msgstr "Me sijaribu kumseme rafiki yako vibaya au kuwa na mwenye wivu. Nilihofia kwamba kama mtu atakpa zawadi inaweza kuwa vigumu kusema 'Hapana' kama hataomba kitu kama fadhila mfana ngono."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If you want to have a phone, we will save up together so you can make your own decisions without owing him anything."
+msgstr "Kama unahitaji kumili simu, Tutaweka hakiba kwa pamoja ili uweze kufanya maamuzi yako binafsi bila kumlipa yeye chochote."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Thank you… I didn’t realise gifts could make things complicated."
+msgstr "Nashukuru… sikudhani kama zawadi zinaweza kufanya mambo kuwa magumu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "This makes me realise we should talk about boyfriends and protecting yourself. Many teens your age get pregnant or become HIV positive."
+msgstr "Hii imenifanya nitambue kwamba tunatakiwa kuzungumza kuhusiana marafiki wakiume na namna ya kujikinga mwenyewe. Vijana wengi wa lika lako wanapata mima au kuathirika na VVU."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I have an idea! Let’s go to the clinic so you can talk with the nurse to learn how you can stay safe."
+msgstr "Mimi nina wazo! Twende zahanati ili uweze kuzungumuza na muuguzi na kujifunza namna ya kuwa salama."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Okay, we can go. I also have questions."
+msgstr "Saw, tunaweza kwenda. Na mimi pia nina maswali."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Please tell us your side. We are here to listen."
+msgstr "Tafadhali tueleze upande wako. Tupo hapa kusikiliza."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "We won’t blame you. We just want to understand."
+msgstr "Hatuwezi kukulaumu. Tunachotaka ni kufahamu tu."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Okay… I can explain. He said it was just a gift."
+msgstr "Sawa… naweza elezea. alisema ni zawadi tu nasi kitu kingine."
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid ""
+"This is a great option! \n"
+"\n"
+"Before she worried alone, now they can come up with solutions together! \n"
+"\n"
+"Test all of the options to see how @data.characters.f1_daughter_16.name reacts"
+msgstr ""
+"Hili ni chaguo bora zaidi!\n"
+"\n"
+"Sasa wanaweza kuja na suluhisho kwa pamoja, Kabla hajawa na wasiwasi pekeyake!\n"
+"\n"
+"Jaribu machaguo yote ili uone maamuzi ya @data.characters.f1_daughter_16.name kwa kila chaguo"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Now that I have had a moment to calm down, let’s talk. How did you get this phone?"
+msgstr "Sasa kwakua nimepata muda wa kutuliza akili, ebu tuzungumze. Hulipataje hii simu?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "He gave it to me after school. I didn’t want to start a fight."
+msgstr "Aliniaptia baada ya kutoka shule. sikutaka kuanzisha ugomvi."
 
 #. type=data_list
 msgctxt "data_list"
