@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-12-01 06:53\n"
+"PO-Revision-Date: 2025-12-01 10:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -58,8 +58,8 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "When we make rules together, teens see that rules are not there to control them but to make sure everyone is safe and respected."
-msgstr "Tunapounda sheria pamoja, vijana wanaona kuwa sheria haziko ili kuwatawala bali kuhakikisha kila mtu yuko salama na anaheshimiwa."
+msgid "When we make rules together, it shows our teens that rules are there to keep everyone safe and respected - not just to control them. Setting rules as a family helps build trust and responsibility for both teens and parents."
+msgstr "Tunapotunga sheria pamoja, inaonyesha vijana wetu kwamba sheria zipo ili kuweka kila mtu salama na kuheshimiwa - si kudhibiti tu. Kuweka sheria kama familia husaidia kujenga uaminifu na uwajibikaji kwa vijana na wazazi."
 
 #. type=data_list
 #. The string @data.characters.media_male_6.name should not be translated.
@@ -79,13 +79,14 @@ msgstr ""
 "kwa sasa tumejifunza jinsi ya kuunda sheria za familia pamoja, mimi ni sehemu ya mazungumzo ya familia kutoka mwanzo. inanifanya nijisikie nipo karibu na watoto wangu na mke wangu."
 
 #. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_mother.name,
-#.      @data.characters.f1_father.name,
-#.      @data.characters.f1_son_18.name
 msgctxt "data_list"
-msgid "Let’s see how @data.characters.f1_mother.name, @data.characters.f1_father.name, and their son, @data.characters.f1_son_18.name created a new rule together."
-msgstr "Hebu tuone jinsi @data.characters.f1_mother.name, @data.characters.f1_father.name na mtoto wao, @data.characters.f1_son_18.name walivyounda sheria mpya pamoja."
+msgid "You always come home late!"
+msgstr "Daima unarudi nyumbani kwa kuchelewa!"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "No I don’t, I don’t even know what late means! Stop nagging me."
+msgstr "Hapana, hata sijui kuchelewa inamanisha nini! Acha kunisumbua."
 
 #. type=data_list
 #. The string @data.characters.f1_son_18.name, should not be translated.
@@ -134,10 +135,18 @@ msgid "But you will always make sure you walk home with a friend, okay?"
 msgstr "Lakini utahakikisha kila wakati unatembea na rafiki kurudi nyumbani. Sawa?"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_mother_role.name
+#.      @data.characters.f1_father_role.name.
+msgctxt "data_list"
+msgid "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name."
+msgstr "Sawa, @data.characters.f1_mother_role.name na @data.characters.f1_father_role.name."
+
+#. type=data_list
 #. The string @data.characters.f1_son_18.name, should not be translated.
 msgctxt "data_list"
 msgid "Thank you very much, @data.characters.f1_son_18.name, for helping to come up with a good rule together."
-msgstr "Asante sana, @data.characters.f1_son_18.name,kwa kusaidia kubuni sheria nzuri pamoja."
+msgstr "Asante sana, @data.characters.f1_son_18.name, kwa kusaidia kubuni sheria nzuri pamoja."
 
 #. type=data_list
 msgctxt "data_list"
@@ -154,6 +163,11 @@ msgstr "Asante, @data.characters.f1_son_18.name, kwa kufika nyumbani kwa wakati.
 msgctxt "data_list"
 msgid "We are proud to see how responsible you are becoming."
 msgstr "Tunajivunia kuona jinsi unavyokuwa mtu mwenye kuwajibika."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Let's think about what happened in this story."
+msgstr "Hebu tufikirie kuhusu kilichotokea kwenye hadithi hii."
 
 #. type=data_list
 #. The string @data.characters.f1_son_18.name should not be translated.
@@ -205,588 +219,8 @@ msgstr "Hiyo ni kweli. wakati vijana, baba na mama wanaposhiriki kwa utulivu na 
 
 #. type=data_list
 msgctxt "data_list"
-msgid "They praised him"
-msgstr "Walimsifu"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_mother.name
-#.      @data.characters.f1_father.name
-msgctxt "data_list"
-msgid "@data.characters.f1_mother.name and @data.characters.f1_father.name rewarded him when he followed the rule"
-msgstr "@data.characters.f1_mother.name na @data.characters.f1_father.name walimpa zawadi alipofuata sheria"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Exactly - a positive response makes all the difference!"
 msgstr "Sawasawa – mwitikio chanya huleta mabadiliko makubwa!"
-
-#. type=data_list
-#. The string @data.characters.f1_mother.name should not be translated.
-msgctxt "data_list"
-msgid ""
-"Setting rules together also helps teens manage friendships and relationships. Talking about boyfriends and girlfriends is not always easy – for parents or teens – but very important. Think back: Would clear, calm guidance have helped you as a teen?\n"
-"\n"
-"Let's see how @data.characters.f1_mother.name handles this conversation."
-msgstr ""
-"Kuweka sheria pamoja pia husaidia vijana kudhibiti urafiki na mahusiano. kuzungumza kuhusu wavulana na wasichana si rahisi kila wakati-kwa wazazi au vijana-lakini ni muhimu sana.fikiria tena:je, mwongozo wazi na mtulivu ungekusaidia wakati ulipo kuwa kijana?\n"
-"\n"
-"Hebu tuone jinsi@data.characters.f1_mother.name anavyo shughulikia mazungumzo haya."
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_mother_role.name
-#.      @data.characters.f1_father_role.name.
-msgctxt "data_list"
-msgid "Okay, @data.characters.f1_mother_role.name and @data.characters.f1_father_role.name."
-msgstr "Sawa, @data.characters.f1_mother_role.name na @data.characters.f1_father_role.name."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "(_calmly_) Sure, my darling. What is the matter?"
-msgstr "(_kwa utulivu_) Hakika, kipenzi changu. Nini shida?"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_daughter_16.name
-#.      @data.characters.f1_mother.name.
-msgctxt "data_list"
-msgid "@data.characters.f1_daughter_16.name sits down next to @data.characters.f1_mother.name."
-msgstr "@data.characters.f1_daughter_16.name anakaa chini na @data.characters.f1_mother.name."
-
-#. type=data_list
-#. The string @data.characters.boyfriend_1.name should not be translated.
-msgctxt "data_list"
-msgid "@data.characters.boyfriend_1.name wants us to study together tomorrow. I really like him but I am not sure what to do."
-msgstr "@data.characters.boyfriend_1.name anataka tusome pamoja kesho. Ninampenda sana lakini sijui nifanye nini."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "(🤔_thinking to herself_) How has my daughter grown up so fast? What now? Take a deep breath…"
-msgstr "(🤔_akijiwazia_) Imekuwaje binti yangu amekua haraka hivyo? nifanyaje sasa Vuta pumzi ndefu…"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_daughter_16.name.
-#.      @data.characters.boyfriend_1.name
-msgctxt "data_list"
-msgid ""
-"(_calmly_) Thank you for sharing this with me, @data.characters.f1_daughter_16.name. I know that you like @data.characters.boyfriend_1.name a lot, he is a charming boy and he does great at school, but you are only 16 and he is 18.\n"
-"\n"
-"I feel worried that it is not safe for you to be alone with him. He might pressure you into doing something that you are not prepared to do.\n"
-"\n"
-"I don’t want to tell you who you can see but we need to have some rules about how you spend time together."
-msgstr ""
-"(_kwa utulivu_) Asante kwa kunishirikisha @data.characters.f1_daughter_16.name. Najua unampenda @data.characters.boyfriend_1.name sana, ni mvulana mzuri na anafanya vizuri shuleni, lakini wewe una miaka 16 na yeye ana miaka 18.\n"
-"\n"
-"Nahisi wasiwasi kwamba siyo salama kwako kuwa peke yako na yeye. A naweza kukushinikiza kufanya jambo ambalo hauko tayari kufanya.\n"
-"\n"
-"Sitaki kukuambia ni nani unayeweza kumuona lakini tunahitaji kuwa na sheria fulani kuhusu jinsi mnavyotumia wakati pamoja."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "What do you think would be a fair rule about how you spend time together?"
-msgstr "Unafikiri ni sheria ipi itakuwa sawa kuhusu namna ya kutumia muda wa pamoja?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "How about, we can spend time together if there is an adult with us?"
-msgstr "Vipi kuhusu, tunaweza kutumia muda kwa pamoja kama mtu mzima yupo nasi?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "That would be fine as long as his parents also know. I will chat with his mother when I see her later today. And after you get back, we can talk about how it went."
-msgstr "Hilo ni sawa kama wazazi wake pia wanajua. Nitazungumza na mama yake nitakapoonana naye baadae leo. Na utakaporudi, tunaweza kuzungumza jinsi ilivyokuwa."
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_mother.name)_
-#.      @data.characters.f1_mother_role.name.
-msgctxt "data_list"
-msgid "_(hugs @data.characters.f1_mother.name)_ Okay. Thank you for coming up with a plan together, @data.characters.f1_mother_role.name."
-msgstr "_(anakumbatia @data.characters.f1_mother.name)_ sawa. asante kwa kutengeneza mpango pamoja, @data.characters.f1_mother_role.name."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Let's think about what happened in this story."
-msgstr "Hebu tufikirie kuhusu kilichotokea kwenye hadithi hii."
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_mother.name
-#.      @data.characters.f1_daughter_16.name,
-msgctxt "data_list"
-msgid "How did @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_16.name, feel at the start of their conversation?"
-msgstr "Ni kivipi @data.characters.f1_mother.name na binti yake @data.characters.f1_daughter_16.name, walihisi mwanzo wa mazungumzo yao?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Worried"
-msgstr "Wasiwasi"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Nervous"
-msgstr "Hofu"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_daughter_16.name
-#.      @data.characters.f1_mother.name
-msgctxt "data_list"
-msgid "Yes, it was hard for both @data.characters.f1_daughter_16.name and @data.characters.f1_mother.name to start this conversation."
-msgstr "Ndiyo ilikuwa ngumu kwa @data.characters.f1_daughter_16.name na @data.characters.f1_mother.name kuanza haya mazungumzo."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Hopeful"
-msgstr "Mwenye matumaini"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Yes, it was probably hard to start this conversation, but they were hoping to find a good way forward together."
-msgstr "Ndiyo, yawezekana ilikuwa ngumu kuanza mazungumzo, lakini walitumaini kupata njia nzuri pamoja."
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_mother.name
-#.      @data.characters.f1_daughter_16.name?
-msgctxt "data_list"
-msgid "How did @data.characters.f1_mother.name respond to her daughter, @data.characters.f1_daughter_16.name?"
-msgstr "Ni kivipi @data.characters.f1_mother.name alijibu kwa binti yake @data.characters.f1_daughter_16.name?"
-
-#. type=data_list
-#. The string @data.characters.f1_mother.name should not be translated.
-msgctxt "data_list"
-msgid "Yes, @data.characters.f1_mother.name uses all these great strategies!"
-msgstr "Ndiyo, @data.characters.f1_mother.name anatumia mikakati yote hii!"
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_mother.name
-#.      @data.characters.f1_daughter_16.name
-msgctxt "data_list"
-msgid "How did @data.characters.f1_mother.name and @data.characters.f1_daughter_16.name feel after their conversation?"
-msgstr "Ni kivipi @data.characters.f1_mother.name na @data.characters.f1_daughter_16.name wanahisi baada ya mazungumzo yao?"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "If we shout or react harshly, teens may hide things next time — staying calm keeps them safer."
-msgstr "Tukipiga kelele au kutoa majibu kwa ukali, vijana wanaweza kuficha mambo wakati mwingine —tukibaki watulivu tunawafanya wawe salama zaidi."
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_mother.name
-#.      @data.characters.f1_daughter_16.name.
-msgctxt "data_list"
-msgid ""
-"@data.characters.f1_mother.name did well by finding solutions together with @data.characters.f1_daughter_16.name. But this can be hard to do.\n"
-"\n"
-"Many parents want to help their teens but find it difficult to talk about sensitive topics, like body changes and relationships."
-msgstr ""
-"@data.characters.f1_mother.name walifanya vizuri kutafuta suluhu pamoja na @data.characters.f1_daughter_16.name. Lakini inaweza kuwa ngumu kufanya.\n"
-"\n"
-"Wazazi wengi wanataka kuwasaidia vijana lakini hupata ugumu kuongea kuhusu mada nyeti, kama mabadiliko ya mwili na mahusiano ya kimapenzi."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Here are some questions from other parents to help you begin."
-msgstr "Hapa kuna baadhi ya maswali kutoka kwa wazazi wengine kukusaidia kuanza."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"Who should start the conversation about body changes and intimate relationships? \n"
-"Try selecting each option for more tips!"
-msgstr ""
-"Nani aanze mazungumzo kuhusu mabadiliko ya mwili na mahusiano ya kimapenzi?\n"
-"Jaribu kuchagua kila chaguo kwa vidokezo zaidi!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "The teen's friend"
-msgstr "Rafiki wa kijana"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "The teen"
-msgstr "Kijana"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "The parent"
-msgstr "Mzazi"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Another trusted adult"
-msgstr "Mtu mzima mwingine anaye aminika"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"This is not quite right. \n"
-"\n"
-"Remember, friends can sometimes mislead or have wrong information themselves."
-msgstr ""
-"Hiyo ni sahihi kabisa.\n"
-"\n"
-"Kumbuka, marafiki muda mwingine wanaweza kupotoshana au kuwa na taarifa za uongo."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"This is not quite right. \n"
-"\n"
-"Your teen might feel uncomfortable or scared to start that conversation with you."
-msgstr ""
-"Hii sio sawa kabisa.\n"
-"\n"
-"Kijana wako anaweza kuhisi wasiwasi au kuogopa kuanzisha mazungumzo hayo na wewe."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"Yes, you may need to start the conversation - and it’s okay to feel shy. Be open and use the right words for any body parts you discuss (like breasts, penis, or vagina).\n"
-"\n"
-"You can practise with a friend and ask a health worker or social worker for more information. The more you know, the better you can help your teen.\n"
-"\n"
-"And remember, it’s also okay not to know everything. You can say, “I’m not sure - let me find out and tell you later.”"
-msgstr ""
-"Ndio, unaweza kuhitajia kuanza mazungumzo — na ni sawa kujihisi aibu. Kuwa wazi na tumia maneno sahihi unapozungumzia sehemu za mwili (kama matiti, uume, au uke).\n"
-"\n"
-"Unaweza pia kufanya mazoezi na rafiki na kuuliza mhudumu wa afya au mfanyakazi wa kijamii kwa taarifa zaidi. Kadri unavyojua zaidi, ndivyo utakavyoweza kumsaidia kijana wako vizuri zaidi.\n"
-"\n"
-"Na kumbuka, pia ni sawa kutokuwa na majibu yote. Unaweza kusema, “Sijui hakika — acha nitafute taarifa na nitakujulisha baadae.”"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"Yes, you can ask another trusted adult to start this conversation with your teen if that would help your teen open up. \n"
-"\n"
-"Talk to that adult beforehand and help them be open and use the right words for any body parts they discuss (like breasts, penis, or vagina).\n"
-"\n"
-"They can practise with you and ask a health worker or social worker for more information. The more they know, the better they can help your teen."
-msgstr ""
-"Ndio, unaweza kuwasiliana na mtu mzima yeyote anayeaminika ili aweze kuongea na kijana wako kama hilo linaweza kumsaidia kijana wako kufunguka.\n"
-"\n"
-"Ongea na huyo mtu mzima kabla hajaanzisha mazungumzo ili uwasaidie kufunguka na kuwa wa wazi na kutumia maneno sahihi wanapotaja majina ya sehemu ya viuongo vya mwili wa binadamu kwenye mazungumzo yao, kama vile (matiti, uume au uke).\n"
-"\n"
-"Fanya nao mazoezi na kuomba taarifa zaidi kutoka kwa wafanyakazi wa kitengo cha afya au maswala ya jamii. Kwani kadri wanavyojua zaidi, ndivyo wanavyoweza kumsaidia kijana wako vizuri zaidi."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Other parents also wonder:"
-msgstr "Wazazi wengine pia wanashangaa:"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"When is the right time to start talking about body changes and intimate relationships?\n"
-"Try selecting each option for more tips!"
-msgstr ""
-"Ni upi wakati mwafaka wa kuanza kuzungumza kuhusu mabadiliko ya mwili na mahusiano ya kimapenzi?\n"
-"Jaribu kuchagua kila chaguo kupata vidokezo zaidi!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "When you find out they have a boyfriend or girlfriend"
-msgstr "Ukigundua kuwa wana rafiki wa kiume au rafiki wa kike"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "When they turn 10"
-msgstr "Wakifikisha miaka 10"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Before they turn 10"
-msgstr "Kabla hawajafikisha miaka 10"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "When you get an opportunity"
-msgstr "Unapopata fursa"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"That’s not quite right.\n"
-"\n"
-"Teens need to learn about body changes and relationships early, so they are prepared and can make good choices.\n"
-"\n"
-"If you find out your teen is having sex, try to stay calm and share your worries gently. Getting angry can make it harder for your teen to talk to you."
-msgstr ""
-"Hii sio sawa kabisa.\n"
-"\n"
-"Vijana wanahitaji kujifunza kuhusu mabadiliko ya mwili na mahusiano mapema, ili wawe tayari na waweze kufanya maamuzi mazuri.\n"
-"\n"
-"Kama utagundua kuwa kijana wako amefanya mapenzi, jaribu kubaki mtulivu na kushirikisha wasiwasi wako kwa upole. Kukasirika kunaweza kumfanya kijana wako ashindwe kuzungumza nawe."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"Age 10 is when a lot of children start to enter puberty, so they need to already understand how their bodies and feelings may change.\n"
-"\n"
-"This will also help them cope better with sexual feelings safely."
-msgstr ""
-"Umri wa miaka 10 ndiyo wakati watoto wengi huanza kubarehe, hivyo vijana wanapaswa tayari kuelewa jinsi miili yao na hisia zao zinavyoweza kubadilika.\n"
-"\n"
-"Hii pia itawasaidia kukabiliana vyema na hisia za kingono kwa usalama."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"That's right! \n"
-"\n"
-"Age 10 is when a lot of children start to enter puberty, so they need to already understand how their bodies and feelings may change.\n"
-"\n"
-"This will also help them cope better with sexual feelings safely."
-msgstr ""
-"Hiyo ni sawa!\n"
-"\n"
-"Umri wa miaka 10 ndiyo wakati watoto wengi huanza kuingia kwenye umri barehe, hivyo vijana wanapaswa tayari kuelewa jinsi miili yao na hisia zao zinavyoweza kubadilika.\n"
-"\n"
-"Hii pia itawasaidia kukabiliana vyema na hisia za kingono kwa usalama."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"It’s good to start talking about body changes and relationships early - by gently answering your child’s questions.\n"
-"\n"
-"You don’t need to explain everything. Just give simple, honest answers that match their age and understanding."
-msgstr ""
-"Ni vizuri kuanza kuzungumzia kuhusu mabadiliko ya kimwili na mahusiano mapema-kwa kujibu kwa utulivu maswali ya kijana wako.\n"
-"\n"
-"Hauhitaji kuelezea kila kitu. Mpe jibu rahisi, aminifu ambalo linaendana na umri wao na uelewa wao."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Many parents also ask:"
-msgstr "Wazazi wengi pia wanauliza:"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"How can I best keep my teen safe?\n"
-"Try selecting each option for more tips!"
-msgstr ""
-"Ninawezaje kumweka kijana wangu salama vizuri zaidi?\n"
-"Jaribu kuchagua kila chaguo kwa kupata vidokezo zaidi!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "I determine what my teen can and cannot do"
-msgstr "Ninaamua kile ambacho kijana wangu anaweza na hawezi kufanya"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "I keep information or bad influences away from them"
-msgstr "Ninaweka taarifa au ushawishi mbaya mbali nao"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "I build a healthy trusting relationship with my teen"
-msgstr "Ninatengeneza uhusiano mzuri wa kuaminika na wenye afya pamoja na kijana wangu"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "I discuss consequences and solutions with my teen"
-msgstr "Ninajadili madhara na suluhisho pamoja na kijana wangu"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "I emphasize that pressure is never okay"
-msgstr "Nasisitiza kuwa shinikizo halikubaliki kamwe"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"This may not work.\n"
-"\n"
-"When we try to control too much, teens may do the opposite of what we want.\n"
-"\n"
-"But when we guide them and give them space to make choices, they often act more responsibly."
-msgstr ""
-"Hii inaweza isifanye kazi.\n"
-"\n"
-"Tunapojaribu kudhibiti sana, vijana wanaweza kufanya kinyume na tunachotaka.\n"
-"\n"
-"Lakini tunapowaongoza na kuwapa nafasi ya kufanya maamuzi, mara nyingi hufanya mambo kwa uwajibikaji zaidi."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"This may not work. \n"
-"\n"
-"Teens get pressure and information from many places we can’t control.\n"
-"\n"
-"As parents, we can guide and prepare them to know what is right or wrong—and help them feel confident to make good decisions."
-msgstr ""
-"Hii inaweza isifanye kazi.\n"
-"\n"
-"Vijana hupata shinikizo na taarifa kutoka sehemu nyingi ambazo hatuwezi kuzidhibiti.\n"
-"\n"
-"Kama wazazi, tunaweza kuwaongoza na kuwaandaa wajue kilicho sawa na kisicho sawa—na kuwasaidia kujihisi kujiamini kufanya maamuzi bora."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"That’s right.\n"
-"\n"
-"When your teen feels trusted, they are more likely to trust you and come to you for advice or help.\n"
-"\n"
-"Praise and thank them when they share. Avoid judging, so they feel safe to talk to you again."
-msgstr ""
-"Hiyo ni kweli.\n"
-"\n"
-"Wakati kijana wako anahisi kuaminika, kuna uwezekano mkubwa kukuamini na kuja kwako kwa ushauri au msaada.\n"
-"\n"
-"Mpongeze na mshukuru anapokushirkisha. Epuka kumhukumu, ili ahisi salama kuzungumza nawewe tena."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"That’s right.\n"
-"\n"
-"Good decisions come from thinking through the consequences. Talk openly with your teen when there’s a problem. Listen to each other and find solutions together.\n"
-"\n"
-"Each challenge is an opportunity to teach your teen that actions have consequences—and you can handle them as a team.\n"
-"\n"
-"Remember to praise each other for working through tough situations together."
-msgstr ""
-"Hiyo ni sawa.\n"
-"\n"
-"Maamuzi mazuri hutokea kwa kufikiria matokeo. Zungumza kwa uwazi na kijana wako pale mnapokumbana na tatizo. Sikilizaneni ninyi kwa ninyi na tafuteni suluhisho pamoja.\n"
-"\n"
-"Kila changamoto ni nafasi ya kumfundisha kijana wako kwamba matendo yana matokeo—na kwamba mnaweza kuyakabili kwa pamoja kama timu.\n"
-"\n"
-"Kumbuka kupongezana kwa kushirikiana kwa kupitia hali ngumu pamoja."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"That’s right.\n"
-"\n"
-"To stay safe, your teen needs to know the difference between respectful behaviours and relationships, and unhealthy ones.\n"
-"\n"
-"Respectful relationships feel caring, safe, and fair. Unhealthy ones involve pressure, discomfort, or feeling unsafe.\n"
-"\n"
-"No one should be forced to do something they’re not okay with."
-msgstr ""
-"Hiyo ni sawa,\n"
-"\n"
-"Ili kijana wako asalie salama, anahitaji kuelewa tofauti iliopo kati ya tabia ya staha, mahusiano, na yale yasiyo na afya.\n"
-"\n"
-"Mahusiano ya staha, husisha, kujali, usalama, na haki. Ila yale yasiyo na afya husisha shinikizo, usumbufu, na kuhisi haupo salama.\n"
-"\n"
-"Hakuna mtu atakayelazimishwa kufanya kitu ambacho hakubaliani nacho."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Another common question among parents:"
-msgstr "Swali lingine lililozoeleka miongoni mwa wazazi:"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"How can I help prevent my teen from having sex too young?\n"
-"Try selecting each option for more tips!"
-msgstr ""
-"Ninawezaje kusaidia kumzuia kijana wangu kufanya ngono akiwa bado mdogo?\n"
-"Jaribu kuchagua kila chaguo kupata vidokezo zaidi!"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Keep any information about sex away from them"
-msgstr "Weka taaarifa za ngono mbali nao"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Forbid them to have a boyfriend or girlfriend"
-msgstr "Kuwakataza kua na rafiki wa kike au kiume"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Have an open discussion on how and why they could wait to have sex"
-msgstr "Fanya mazungumzo ya wazi kuhusu kivipi na kwa nini wanaweza kusubiri kabla ya kufanya ngono"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"That’s not quite right.\n"
-"\n"
-"Teens hear many things about sex—from school, friends, or social media. Some of it is wrong.\n"
-"\n"
-"Knowing about sex doesn’t mean they are having sex. Good information helps them stay safe and understand why waiting to have sex can be a good choice.\n"
-"\n"
-"Without this knowledge, they may face problems, like not knowing how pregnancy happens or the risks of sex."
-msgstr ""
-"Hiyo sio sahihi kabisa.\n"
-"\n"
-"Vijana husikia mambo mengi kuhusu ngono—kutoka shuleni, kwa marafiki, au kwenye mitandao ya kijamii. Baadhi ya taarifa hizo si sahihi.\n"
-"\n"
-"Kujua kuhusu ngono haimaanishi kwamba wanafanya ngono. Taarifa sahihi huwasaidia kuwa salama na kuelewa kwa nini kusubiri kabla ya kufanya ngono kunaweza kuwa uamuzi mzuri.\n"
-"\n"
-"bila maarifa, wanaweza kukumbana na matatizo, kama kutokujua kwa namna gani mimba inatokea au hatari vya ngono."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"That’s not quite right.\n"
-"\n"
-"Your teen might have a boyfriend or girlfriend and not tell you.\n"
-"\n"
-"If you make them hide it, they may not come to you with questions or problems—and this can lead to risky situations."
-msgstr ""
-"Hiyo si sahihi kabisa.\n"
-"\n"
-"Kijana wako anaweza kuwa na mpenzi na asiwe amekuambia.\n"
-"\n"
-"Kama ukiwalazimisha kuficha uhusiano huo, wanaweza wasikushirikishe maswali au matatizo yao—na hili linaweza kuwapelekea kwenye hali za hatari."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"That’s right.\n"
-"\n"
-"Teens are figuring out who they are. They look to friends and media for answers, and may feel pressure to do things they’re not ready for.\n"
-"\n"
-"Talk calmly with your teen about waiting to have sex until they feel ready, are in a safe relationship, and understand the consequences. Focus on guiding them calmly to make healthy choices."
-msgstr ""
-"Hiyo ni sawa.\n"
-"\n"
-"Vijana wanajaribu kujitambua wao ni akina nani. Huwaangalia marafiki na vyombo vya habari kutafuta majibu, na wanaweza kuhisi shinikizo la kufanya mambo ambayo hawajawa tayari kuyafanya.\n"
-"\n"
-"Zungumza kwa utulivu na kijana wako kuhusu kusubiri kufanya ngono hadi pale atakapojihisi yuko tayari, yuko kwenye uhusiano salama, na anaelewa matokeo ya maamuzi yake. Lenga kuwaongoza kwa utulivu ili wafanye maamuzi yenye afya."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"Now let's practise making rules.\n"
-"\n"
-"Write down one important rule you would like to make with your teenager – you will be doing this as your home practice this week."
-msgstr ""
-"Sasa, ebu tufanye zoezi la kutengeneza miongozo. \n"
-"\n"
-"Andika muongozo mmoja wa muhimu ambayo ungetamani kuwepo katika yako na kijana wako-utafanya hivyo kama sehemu ya shughuli yako ya nyumbani wiki hii."
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"**Here are some examples of rules other families made:**\n"
-"- ⚽ Teen can play outside after finishing homework\n"
-"- 👪🏽 All family members eat dinner together\n"
-"- 🍽️ Teen 1 does dishes on Sunday and Monday, Teen 2 on Tuesday and Wednesday\n"
-"- 💜 We speak to each other politely and nicely\n"
-"- 🎶 When listening to music you need to use earphones"
-msgstr ""
-"**Ifuatayo ni baadhi ya mifano ya sheria zilizotungwa na familia zingine:**\n"
-"- ⚽ Kijana anaweza kucheza nje baada ya kumaliza kazi ya nyumbani\n"
-"- 👪🏽 Wanafamilia wote ula chakula cha jioni pamoja\n"
-"- 🍽️ Kijana namba 1 huosha vyombo Jumapili na Jumatatu, Kijana namba 2 Jumanne na Jumatano\n"
-"- 💜 Tunaongea pamoja kwa uzuri na kwa upole\n"
-"- 🎶 Unaposikiliza muziki unahitaji kutumia visikilizio vya masikio (headphones)"
 
 #. type=data_list
 msgctxt "data_list"
@@ -802,6 +236,11 @@ msgstr "SHERIA ZA KIKUNDI"
 msgctxt "data_list"
 msgid "Household rules help to keep our teenagers safe and to understand what is expected from them. When you involve a teenager in making rules they are more likely to follow them."
 msgstr "Sheria za kaya husaidia kuwaweka vijana wetu salama na kuelewa kinachotarajiwa kutoka kwao. Unapomhusisha kijana katika kutengeneza sheria, anakuwa na uwezekano mkubwa wa kuzifuata."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "More tips"
+msgstr "Vidokezo zaidi"
 
 #. type=data_list
 msgctxt "data_list"
@@ -836,33 +275,98 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "RELATIONSHIP RULES"
-msgstr "KANUNI ZA MAHUSIANO"
+msgid "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the lesson on teen safety, but let’s already have a first look now!"
+msgstr "Sheria ni muhimu kuhakikisha usalama wa vijana wako – si tu nje ya mtandao, bali pia mtandaoni. Kuna zaidi kuhusu hili katika somo la usalama wa vijana, lakini wacha tuangalie mwanzo sasa!"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_13.name, should not be translated.
+msgctxt "data_list"
+msgid "@data.characters.f1_daughter_13.name, have you done your homework?"
+msgstr "@data.characters.f1_daughter_13.name umeshafanya majaribio?"
+
+#. type=data_list
+#. The string @data.characters.f1_mother.role_name, should not be translated.
+msgctxt "data_list"
+msgid "Just a minute @data.characters.f1_mother.role_name, I’m finishing this Tiktok video."
+msgstr "Dakika moja tu, @data.characters.f1_mother.role_name nimalizie video hii ya TikTok."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You are a really great dancer! Tell me about why you like Tiktok."
+msgstr "Wewe ni mchezaji mzuri sana! Nielezee kwanini unapenda kuhusu TikTok."
+
+#. type=data_list
+#. The string @data.characters.f1_mother.role_name. should not be translated.
+msgctxt "data_list"
+msgid "All my friends are on it, @data.characters.f1_mother.role_name. I have more than 600 likes and 120 followers."
+msgstr "Marafiki zangu wote wako humo, @data.characters.f1_mother.role_name nina zaidi ya wanotenda ninachofanya 600 na wafuasi 120."
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_13.name. should not be translated.
+msgctxt "data_list"
+msgid ""
+"I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n"
+"\n"
+"I know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens."
+msgstr ""
+"Ninajivunia sana jinsi unavyocheza vizuri, @data.characters.f1_daughter_13.name. Lakini tunahitaji kuhakikisha kuwa uko salama.\n"
+" Najua marafiki zako wanaangalia Tiktok, lakini unapotumia akaunti huria, elewa kwamba kuna watu wengine wanatazama video za vijana ili kukidhi mahitaji yao ya kingono. Wakati mwingine wanawasiliana na vijana. Wanajifanya kuwa watu wema lakini wanaishia kuwatishia na kuwadhalilisha vijana."
 
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"Teens learn about sex and relationships from many places, and some information may be incorrect or not right for their age.\n"
+"Let’s look together online at how we can keep this fun for you but also safe. \n"
 "\n"
-"Talk calmly about body changes, respect, and consent.\n"
+"Look – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n"
 "\n"
-"Listen without judging, and guide your teen to make safe choices in relationships and online."
+"Can we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!"
 msgstr ""
-"Vijana hujifunza kuhusu maswala ya ngono na mahusiano kupitia maeneo mbalimbali, baadhi ya taarifa zinaweza kuwa siyo sahihi zisizondana na umri wao. \n"
+"Hebu tuangalie pamoja mtandaoni jinsi unavyoweza kuendelea na hii burudani yako lakini ukiwa salama.\n"
 "\n"
-"Kuwa mtulivu kuhusu mabadiliko ya kimwili, heshima, na Idhini.\n"
+"Ona – unaweza kuifanya akaunti yako kuwa akaunti binafsi na kudhibiti wafuasi wako. Kwa hiyo, utaweza kukubali watu unaowajua kutoka shuleni na kwenye jamii yetu, lakini sio watu usiowafahamu.\n"
 "\n"
-"Sikiliza bila kuhukumu, na uwaelekeze vijana wako kufanya chaguzi salama kwenye mahusiano na mtandaoni."
+"Je, tunaweza kuweka sheria pamoja unayoweza kuitumia kwenye Tiktok, lakini kupitia akaunti binafsi? Ninakuamini kwamba unajua nani wakumkubali!"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_13.name! should not be translated.
+msgctxt "data_list"
+msgid "I’m proud of you, @data.characters.f1_daughter_13.name!"
+msgstr "Ninajivuia sana wewe @data.characters.f1_daughter_13.name!"
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f1_mother.name
+#.      @data.characters.f1_daughter_13.name,
+msgctxt "data_list"
+msgid ""
+"It was wonderful to see @data.characters.f1_mother.name and her daughter, @data.characters.f1_daughter_13.name, make a rule together. \n"
+"\n"
+"Now let's practise making rules.\n"
+"\n"
+"Write down one important rule you would like to make with your teenager – you will be doing this as your home practice this week."
+msgstr ""
+"@data.characters.f1_mother.name na binti yake @data.characters.f1_daughter_13.name, wanatunga sheria pamoja.\n"
+"\n"
+"Sasa hebu tufanye mazoezi ya kutengeneza sheria.\n"
+"\n"
+"Andika chini sheria moja muhimu ambayo unapenda kuunda na kijana wako – utafanya hivi kama shughuli yako ya nyumbani kwa hii wiki."
 
 #. type=data_list
 msgctxt "data_list"
-msgid "More tips"
-msgstr "Vidokezo zaidi"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "You do not need to have all the answers. You can ask other adults or health workers for help and information."
-msgstr "Si lazima uwe na majibu yote. Unaweza kuwauliza watu wazima wengine au wafanyakazi wa sekta ya afya kwa msaada na taarifa."
+msgid ""
+"**Here are some examples of rules other families made:**\n"
+"- ⚽ Teen can play outside after finishing homework\n"
+"- 👪🏽 All family members eat dinner together\n"
+"- 🍽️ Teen 1 does dishes on Sunday and Monday, Teen 2 on Tuesday and Wednesday\n"
+"- 💜 We speak to each other politely and nicely\n"
+"- 🎶 When listening to music you need to use earphones"
+msgstr ""
+"**Ifuatayo ni baadhi ya mifano ya sheria zilizotungwa na familia zingine:**\n"
+"- ⚽ Kijana anaweza kucheza nje baada ya kumaliza kazi ya nyumbani\n"
+"- 👪🏽 Wanafamilia wote ula chakula cha jioni pamoja\n"
+"- 🍽️ Kijana namba 1 huosha vyombo Jumapili na Jumatatu, Kijana namba 2 Jumanne na Jumatano\n"
+"- 💜 Tunaongea pamoja kwa uzuri na kwa upole\n"
+"- 🎶 Unaposikiliza muziki unahitaji kutumia visikilizio vya masikio (headphones)"
 
 #. type=data_list
 msgctxt "data_list"
@@ -882,14 +386,13 @@ msgid ""
 "\n"
 "⚽ Team rules: When making the rule, work together like a team. \n"
 "🔎 Real rules: Agree on real rules that are clear and fair. For example, you could agree that everyone says where they are going before leaving the house.\n"
-"🎉 Praise rules: Praise when rules are followed!\n"
-"💛 Relationship rules: Make rules to guide safe choices in relationships and online."
+"🎉 Praise rules: Praise when rules are followed!"
 msgstr ""
-"**Kumbuka kutumia ujuzi kwenye uundaji wa kanuni*\n"
+"**Kumbuka kutumia ujuzi wako kutunga hiyo sheria:**\n"
 "\n"
-"⚽ Kanuni za timu: Unapotengeneza kanuni, fanyeni kazi pamoja kama timu. \n"
-"🔎 Kanuni za kweli: Kubaliana na kanuni halisi ambazo ziko wazi na za haki. Kwa mfano, unaweza kukukubaliana kwamba kila mtu atoe taarifa anakoenda kabla ya kuondoka nyumbani.\n"
-"🎉 Kanuni za mahusiano: Tengeneza kanuni ambazo zitaongoza chaguzi salama kwenye mahusiano na mtandaoni."
+"⚽ Sheria za timu: Unapotunga sheria, fanya kazi pamoja kama timu. \n"
+"🔎 Sheria za kweli: Kubaliana juu ya sheria halisi ambazo ziko wazi na za haki. Kwa mfano, unaweza kukukubaliana kwamba kila mtu atoe taarifa anakoenda kabla ya kuondoka nyumbani.\n"
+"🎉 Sheria za sifa: Sifu sheria zinapofuatwa!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -932,84 +435,23 @@ msgid "Clear, simple rules made together with your teen are not about control - 
 msgstr "Sheria za uwazi na rahisi unazounda pamoja na kijana wako hazihusu kudhibiti – ni kwa ajili ya kumlinda na kumfundisha uwajibikaji. Wakati vijana wanapoelewa sababu za kanuni hizo, uwezekano wa kuzikubali na kuzifuata huwa mkubwa zaidi."
 
 #. type=data_list
-#. The string @data.characters.media_male_7.name's should not be translated.
+#. The string @data.characters.media_daughter_5.name's should not be translated.
 msgctxt "data_list"
-msgid "Can teens value rules too? Hear @data.characters.media_male_7.name's story"
-msgstr "Vijana wanaweza kuthamini sheria? sikia @data.characters.media_male_7.name hadithi"
-
-#. type=data_list
-#. The string @global.app_name, should not be translated.
-msgctxt "data_list"
-msgid ""
-"As teens, we hear a lot about sex at school and online. Some of my friends said they were already having sex and told me it makes you a “real man,” and I was scared to tell my parents.\n"
-"\n"
-"When we did @global.app_name, we made a family rule to ask questions instead of keeping secrets. When I shared what I’d heard, my parents stayed calm and explained what sex really means — and that real friends never pressure you.\n"
-"\n"
-"Now, whenever I’m unsure about something, I know I can talk to my parents and we can figure out solutions together."
-msgstr ""
-"Kama vijana tunasikia mengi kuhusu ngono shuleni na mtandaoni.Baadhi ya marafiki zangu waliniambia tayari walishashiriki ngono na kusema inakufanya uwe \"mwanaume kamili,\"na nilikuwa naogopa kuwaambia wazazi wangu. \n"
-"\n"
-"Tulipofanya @global.app_name tulitengeneza muongoza wa kifamilia wa kuuliza maswali na kutokufanya jambo lolote kuwa la siri. Niliposhirikisha kile nilichokisikia, wazazi wangu walisalia watulivu na kuanza kutoa maelezo juu ya maana ya ngono na kuelezea kuwa marafiki wa kweli hawawezi kukupa shinikizo.\n"
-"\n"
-"Sasa, pale ambapo sina uhakika kuhusu jambo fulani, najua naweza kuongea na wazazi wangu na kulifanyia utatuzi."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Rules are important to keep your teens safe – not only offline, but also online. There’s more about this in the lesson on teen safety, but let’s already have a first look now!"
-msgstr "Sheria ni muhimu kuhakikisha usalama wa vijana wako – si tu nje ya mtandao, bali pia mtandaoni. Kuna zaidi kuhusu hili katika somo la usalama wa vijana, lakini wacha tuangalie mwanzo sasa!"
-
-#. type=data_list
-#. The string @data.characters.f1_daughter_13.name, should not be translated.
-msgctxt "data_list"
-msgid "@data.characters.f1_daughter_13.name, have you done your homework?"
-msgstr "@data.characters.f1_daughter_13.name umeshafanya majaribio?"
-
-#. type=data_list
-#. The string @data.characters.f1_mother_role.name, should not be translated.
-msgctxt "data_list"
-msgid "Just a minute @data.characters.f1_mother_role.name, I’m finishing this Tiktok video."
-msgstr "Dakika moja@data.characters.f1_mother_role.name,namalizia hii video ya Tiktok."
-
-#. type=data_list
-msgctxt "data_list"
-msgid "You are a really great dancer! Tell me about why you like Tiktok."
-msgstr "Wewe ni mchezaji mzuri sana! Nielezee kwanini unapenda kuhusu TikTok."
-
-#. type=data_list
-#. The string @data.characters.f1_mother_role.name. should not be translated.
-msgctxt "data_list"
-msgid "All my friends are on it, @data.characters.f1_mother_role.name. I have more than 600 likes and 120 followers."
-msgstr "Marafiki zangu wote wako humo, @data.characters.f1_mother_role.name nina zaidi ya wanaopenda ninachofanya 600 na wafuasi 120."
-
-#. type=data_list
-#. The string @data.characters.f1_daughter_13.name. should not be translated.
-msgctxt "data_list"
-msgid ""
-"I’m proud of how well you dance, @data.characters.f1_daughter_13.name. But we need to make sure you are safe.\n"
-"\n"
-"I know your friends look at Tiktok, but with an open account, there are other people who look at videos of teenagers for their own sexual needs. Sometimes they contact teenagers. They pretend to be nice but end up threatening and abusing teens."
-msgstr ""
-"Ninajivunia sana jinsi unavyocheza vizuri, @data.characters.f1_daughter_13.name. Lakini tunahitaji kuhakikisha kuwa uko salama.\n"
-" Najua marafiki zako wanaangalia Tiktok, lakini unapotumia akaunti huria, elewa kwamba kuna watu wengine wanatazama video za vijana ili kukidhi mahitaji yao ya kingono. Wakati mwingine wanawasiliana na vijana. Wanajifanya kuwa watu wema lakini wanaishia kuwatishia na kuwadhalilisha vijana."
+msgid "Can teens value rules too? Hear @data.characters.media_daughter_5.name's story"
+msgstr "Vijana wanaweza kuthamini sheria? sikia @data.characters.media_daughter_5.name hadithi"
 
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"Let’s look together online at how we can keep this fun for you but also safe. \n"
+"I never liked rules and I used to forget rules a lot.\n"
 "\n"
-"Look – you can make your account private and control who follows you. So you can accept people you know from school and our community, but not people you don't know.\n"
+"One day, I was playing with my friends. The rule at home was that we should be in the yard by 6pm, but I forgot again. By 6:30 it was getting dark and I was still outside and playing with my phone. Then a boy came, grabbed my phone and ran away.\n"
 "\n"
-"Can we make a rule together that you can use Tiktok, but with a private account? I trust you to know who to accept!"
+"I understood that rules can really help to keep us safe, so I changed my behaviour and I was in the yard by 5pm from then."
 msgstr ""
-"Hebu tuangalie pamoja mtandaoni jinsi unavyoweza kuendelea na hii burudani yako lakini ukiwa salama.\n"
+"Sikuwahi kupenda sheria na mara nyingi nilizisahau.\n"
 "\n"
-"Ona – unaweza kuifanya akaunti yako kuwa akaunti binafsi na kudhibiti wafuasi wako. Kwa hiyo, utaweza kukubali watu unaowajua kutoka shuleni na kwenye jamii yetu, lakini sio watu usiowafahamu.\n"
+"Siku moja, nilikuwa nikicheza na marafiki zangu. Sheria nyumbani ilikuwa kwamba tunapaswa kuwa kwenye uwanja kufikia saa 12 jioni, lakini nilisahau tena. Kufikia saa 12:30 ilikuwa ikianza giza na bado nikiwa nje nikicheza na simu yangu. Kisha kijana mmoja alikuja, akachukua simu yangu na kukimbia.\n"
 "\n"
-"Je, tunaweza kuweka sheria pamoja unayoweza kuitumia kwenye Tiktok, lakini kupitia akaunti binafsi? Ninakuamini kwamba unajua nani wakumkubali!"
-
-#. type=data_list
-#. The string @data.characters.f1_daughter_13.name! should not be translated.
-msgctxt "data_list"
-msgid "I’m proud of you, @data.characters.f1_daughter_13.name!"
-msgstr "Ninajivuia sana wewe @data.characters.f1_daughter_13.name!"
+"Nilianza kuelewa kwamba sheria zipo kutuweka salama, kwa hivyo nilibadilisha tabia yangu na kuanza kuwa kwenye uwanja kufikia saa 11 kuanzia wakati huo."
 
