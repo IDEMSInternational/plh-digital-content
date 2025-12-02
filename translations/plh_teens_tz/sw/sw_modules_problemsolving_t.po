@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-12-01 11:41\n"
+"PO-Revision-Date: 2025-12-02 16:24\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -109,6 +109,12 @@ msgstr "@data.characters.f2_grandmother.name alirudi kutoka sokoni na kumkuta @d
 msgctxt "data_list"
 msgid "@data.characters.f2_son_15.name! That uniform is brand new, why did you get it all dirty and torn!"
 msgstr "@data.characters.f2_son_15.name! Hizi sale za shule bado ni mpya kwa nini umezichafua na kuchana kiasi hiki!"
+
+#. type=data_list
+#. The string @data.characters.f2_grandmother.role_name. should not be translated.
+msgctxt "data_list"
+msgid "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
+msgstr "Samahani, @data.characters.f2_grandmother.role_name. kuna mtu shuleni, ali..."
 
 #. type=data_list
 msgctxt "data_list"
@@ -213,8 +219,8 @@ msgstr "Pole san bado sio mwema kwako. Ngoja tutengeneze mpango mwingine utakao 
 #. type=data_list
 #. The string @data.characters.f2_grandmother.role_name. should not be translated.
 msgctxt "data_list"
-msgid "Sorry, @data.characters.f2_grandmother.role_name. There is this guy at school, he..."
-msgstr "Samahani, @data.characters.f2_grandmother.role_name. kuna mtu shuleni, ali..."
+msgid "Yes, thank you, @data.characters.f2_grandmother.role_name. At least I know you are on my side."
+msgstr "Sawa, asante @data.characters.f2_grandmother.role_name. Angalau naona upo upande wangu."
 
 #. type=data_list
 msgctxt "data_list"
@@ -264,40 +270,6 @@ msgstr "JARIBU"
 msgctxt "data_list"
 msgid "Did it work? Great! If it did not work, then try another solution."
 msgstr "Je, imefanikiwa? Safi sana! Kama haikufanikiwa, basi jaribu njia nyingine ya utatuzi."
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f2_grandmother.name
-#.      @data.characters.f2_son_15.name
-msgctxt "data_list"
-msgid ""
-"You may have noticed how @data.characters.f2_grandmother.name and @data.characters.f2_son_15.name paused, understood the problem, and explored solutions together.\n"
-"\n"
-"These simple steps help families stay calm and find a way forward."
-msgstr ""
-"Utakuwa umegundua ni kwa namna gani @data.characters.f2_grandmother.name na @data.characters.f2_son_15.name walivyo tulia, kulielewa tatizo na kushirikiana kutafuta sulihisho.\n"
-"\n"
-"Hatua hizi rahisi huwasaidia familia kubaki watulivu na kupata njia ya kuendelea mbele."
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_daughter_16.name
-#.      @data.characters.f1_mother.name
-msgctxt "data_list"
-msgid "Now let’s try problem-solving together: Imagine that @data.characters.f1_daughter_16.name got a phone as a gift from a boy, and @data.characters.f1_mother.name feels worried about it."
-msgstr "Kwasasa, ngoja tujaribu kutatua tatizo kwa pamoja: Hashumu @data.characters.f1_daughter_16.name kapewa simu na mvulana kama zawadi, na @data.characters.f1_mother.name anapatwa wasiwasi juu ya hiyo simu."
-
-#. type=data_list
-#. The following strings should not be translated: 
-#.      @data.characters.f1_mother.name
-#.      @data.characters.f1_daughter_16.name
-msgctxt "data_list"
-msgid ""
-"What could @data.characters.f1_mother.name do to handle the situation when @data.characters.f1_daughter_16.name got a phone from a boy? \n"
-"Tap on each option to see if these solutions worked!"
-msgstr ""
-"Nini amabcho@data.characters.f1_mother.name atafanya kukabiliana na tatizo wakati @data.characters.f1_daughter_16.name kapewa simu na kijana wakiume?\n"
-"Gusa kila chaguo ili uone kama suluhisho hizi zilifanya kazi!"
 
 #. type=data_list
 #. The string @data.characters.f1_daughter_16.name should not be translated.
@@ -539,4 +511,14 @@ msgstr ""
 "Marafiki zangu huchukuwa na kupeleka nyumbani kwao, na inawasaidia wao na familia zao pia!\n"
 "\n"
 "Ni furaha pindi ambapo wengine wanakusikiliza na kukubaliana na mawazo yako hata kama wewe ni mdogo. Sote tunaweza kuleta maelewano na marafiki na familia."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Well done for taking time for yourself today. 🎉"
+msgstr "Hongera kwa kujipa muda wewe mwenyewe leo🎉"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Here is a short video to help you slow down before you go"
+msgstr "Hii hapa video fupi ya kukusaidia kupunguza kasi (ya shughuli) kabla ya kuondoka"
 
