@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-12-03 15:43\n"
+"PO-Revision-Date: 2025-12-04 18:32\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -321,24 +321,31 @@ msgid "By saving a tiny bit each week, we managed to pay for @data.characters.f2
 msgstr "Kwa kuweka akiba kidogo kila wiki, tumeweza kulipa ada ya sekondari ya @data.characters.f2_son_15.name na kuhifadhi kiasi cha pesa ya chuo kikuu kwa ajili ya @data.characters.f2_daughter_19.name. najivunia sana hili."
 
 #. type=data_list
+#. The string @data.characters.f2_grandmother.name should not be translated.
 msgctxt "data_list"
-msgid ""
-"Saving is important for one more reason - emergencies!\n"
-"\n"
-"There are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a savings group.\n"
-"\n"
-"Think of the advantages and disadvantages of each savings option."
-msgstr ""
-"Kuhifadhi ni mihimu kwa sababu moja zaidi - Dharura!\n"
-"\n"
-"Kuna njia mbalimbali tunaweza kutumia kutunza: nyumbani, kwa kununua vitu tunaweza kuviuza kwa faida, kwenye benki, au kwenye vikundi vya akiba.\n"
-"\n"
-"Fikiria faida na hasara za kila chaguo la kutunza."
+msgid "Saving is important for one more reason - emergencies! @data.characters.f2_grandmother.name also learnt this along the way:"
+msgstr "Kuweka akiba  ni muhimu kwa sababu moja zaidi - dharura! @data.characters.f2_grandmother.name pia alijifunza hili njiani:"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "One night there was a horrible storm that broke my roof. Everything was flooded. I suddenly had to find money to fix the roof. I just felt defeated."
 msgstr "Usiku mmoja kulikuwa na dhoruba ya kutisha ambayo ilivunja paa yangu. Kila kitu kiliharibika. Ghafla nililazimika kutafuta pesa za kurekebisha paa. Nilihisi tu kushindwa."
+
+#. type=data_list
+#. The string @data.characters.f2_grandmother.name should not be translated.
+msgctxt "data_list"
+msgid ""
+"Having a savings plan could have helped @data.characters.f2_grandmother.name to be prepared for this kind of emergency! \n"
+"\n"
+"There are different ways we can save: at home, by buying things we can sell for profit, at a bank, or in a stokvel.\n"
+"\n"
+"Think of the advantages and disadvantages of each savings option."
+msgstr ""
+"Kuwa na mpango wa kuweka akiba kungemsaidia @data.characters.f2_grandmother.name kuwa tayari kwa aina hii ya dharura.\n"
+"\n"
+"Kuna njia tofauti tunaweza kuweka akiba: nyumbani, kwa kununua vitu tunaweza kuuza kwa faida, katika benki, au vikundi vya akiba.\n"
+"\n"
+"Fikiria faida na hasara za kila chaguo la kuweka akiba."
 
 #. type=data_list
 msgctxt "data_list"
@@ -362,13 +369,13 @@ msgstr "Kutunza pesa katika benki"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Save in a savings group"
-msgstr "Weka akiba katika kikundi cha kuweka akiba"
+msgid "Save in a stokvel/savings group"
+msgstr "Kutunza kwenye stockvel/vikundi vya akiba"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Any savings plan you choose can help your family."
-msgstr "Mpango wowote wa kuweka akiba utakao chagua unaweza kusaidia familia yako."
+msgid "Whatever savings plan you choose, it will really help your family move forward!"
+msgstr "Njia yoyote ya kujiwekea akiba mtakayoichagua itaisaidia sana familia yenu kusonga mbele!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -382,44 +389,8 @@ msgstr "HATUA YA 1: FIKIRIA"
 
 #. type=data_list
 msgctxt "data_list"
-msgid ""
-"*What do we spend on now?*\n"
-"\n"
-"Write down or draw what you spend money on as a family each month.\n"
-"\n"
-"How much does each item cost?\n"
-"How much money do you need in total?"
-msgstr ""
-"**Tunatumia pesa kwenye nini kwa sasa?**\n"
-"\n"
-"Andika au chora vitu ambavyo mnatumia kwenye pesa kama familia kila mwezi.\n"
-"\n"
-"kila kitu kinagharimu kiasi gani?\n"
-"Jumla unahitaji kiasi gani cha pesa?"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "STEP 2: CHOOSE"
 msgstr "HATUA YA 2: CHAGUA"
-
-#. type=data_list
-msgctxt "data_list"
-msgid ""
-"*Talk together about needs and wants.*\n"
-"\n"
-"Which expenses are a ‘need’ that you cannot live without?\n"
-"Which expenses are a ‘want’ that is nice to have but not essential?\n"
-"Which things could you try to spend less on?\n"
-"\n"
-"When we explain and listen to each other carefully, we can make good money choices together as a family."
-msgstr ""
-"*Zungumza pamoja kuhusia na mahitaji na matakwa*\n"
-"\n"
-"Nivitugani ni 'Mahitaji' na huwezi kuhishi bila hivyo vitu?\n"
-"Nivitu gani ni 'Matakwa' amabvyo ni vyema kuwa navyo lakini sio muhimu?\n"
-"Nivitu gani unaweza kujaribu kutumia kwa uchache?\n"
-"\n"
-"Kama tunaelezana na kusikilizana kwa umakini, tunaweza kufanya machaguo bora ya pesa pamoja kama familia."
 
 #. type=data_list
 msgctxt "data_list"
@@ -428,50 +399,13 @@ msgstr "HATUA YA 3: JENGA"
 
 #. type=data_list
 msgctxt "data_list"
-msgid ""
-"*Make your own budget.*\n"
-"\n"
-"Write down your income for the month.\n"
-"\n"
-"Take stones, beans, or anything with lots of bits - this is your income.\n"
-"Agree how much you will spend on each item, and put the objects on that image/word."
-msgstr ""
-"*Tengeneza bajeti yako binafsi*\n"
-"\n"
-"Orodhesha kipato chako kwa mwezi\n"
-"\n"
-"Chukua mawe, maharage, au chochote chenye vipande vingi- hiki ndicho kipata chako.\n"
-"Kubaliana ni kiasi gani mtatumia kwa kila kipande, na kisha weka hivyo vitu kwenye majina husika/halisia."
-
-#. type=data_list
-msgctxt "data_list"
 msgid "STEP 4: PLAN"
 msgstr "HATUA YA 4: PANGA"
 
 #. type=data_list
 msgctxt "data_list"
-msgid ""
-"*Plan for emergencies and family goals.*\n"
-"\n"
-"Draw a circle ‘emergencies’.\n"
-"Draw a circle ‘saving’.\n"
-"Move your ‘money’ around so you can save a bit every month for both."
-msgstr ""
-"*Panga kwa ajili ya dharura na malengo ya familia*\n"
-"\n"
-"Chora duara 'dharura'.\n"
-"Chora duara 'kuweka akiba'.\n"
-"Sogeza 'fedha' zako karibu ili uweze kutunza kidogo kila mwezi kwa zote mbili."
-
-#. type=data_list
-msgctxt "data_list"
 msgid "More tips"
 msgstr "Vidokezo zaidi"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Remind your teen to always tell you or a trusted adult if someone offers them gifts, airtime, money, or deals that are ‘too good to be true’ especially if asked for photos, favours, or to keep secrets."
-msgstr "Wakumbushe vijana wako kuwa siku zote wanatakiwa kukueleza, au mtu mzima anayeaminika endapo mtu yeyote atawapa zawadi, muda wa maongezi, pesa au makubaliano 'yanasadikiwa kuwa ya kweli' hasa kama wataombwa picha, fadhila, au kutunza siri."
 
 #. type=data_list
 #. The following strings should not be translated: 
