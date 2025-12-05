@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-12-05 02:52\n"
+"PO-Revision-Date: 2025-12-05 08:52\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -83,9 +83,9 @@ msgid ""
 "\n"
 "Including @data.characters.f2_grandmother.name and @data.characters.f2_grandfather.name. Let's have a look:"
 msgstr ""
-"Inaweza kuwa vigumu kumudu mahitaji kila mwezi. familia nyingi hukabiliana na tatizo hili! \n"
+"Inaweza kuwa vigumu kumudu mahitaji kila mwezi. Familia nyingi hukabiliana na tatizo hili! \n"
 "\n"
-"Ikiwemo@data.characters.f2_grandmother.name na @data.characters.f2_grandfather.name. Hebu tuangalie:"
+"Ikiwemo familia ya akina @data.characters.f2_grandmother.name na @data.characters.f2_grandfather.name. Hebu tuangalie:"
 
 #. type=data_list
 #. The string @data.characters.f2_son_15.name should not be translated.
@@ -96,7 +96,7 @@ msgstr "Nimepata Msongo wa mawazo sana. Hatuna pesa yoyote iliyobaki. Na sasa ni
 #. type=data_list
 msgctxt "data_list"
 msgid "I am also worried. I don’t think we will be able to pay off our last debt this month like we wanted to."
-msgstr "Nina wasiswasi pia. Sidhani kama tutaweza kulipa deni letu lanyuma mwezi huu kama tulivyopanga."
+msgstr "Nami pia nina wasiwasi. Sidhani kama tutaweza kulipa deni letu la mwisho, mwezi huu kama tulivyokusudia."
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -108,7 +108,7 @@ msgid ""
 "\n"
 "A family budget can help them – and YOU!"
 msgstr ""
-"Kukabiliana na changamoto za kifedha, kama hali ya @data.characters.f2_grandmother.name na@data.characters.f2_grandfather.name kunaweza kuwa na msongo wa mawazo.\n"
+"Kukabiliana na changamoto za kifedha, kama hali ya @data.characters.f2_grandmother.name na @data.characters.f2_grandfather.name kunaweza kuwa na msongo wa mawazo.\n"
 "\n"
 "Bajeti ya familia inaweza kuwasaidia wao - na WEWE pia!"
 
@@ -168,7 +168,7 @@ msgid ""
 "Think about what you spend money on each month."
 msgstr ""
 "**Hatua ya 1: FIKIRI**\n"
-"Fikiria juu ya kile unachotumia pesa kila mwezi."
+"Fikiria juu ya kitu kinacho kugharimu pesa kila mwezi."
 
 #. type=data_list
 msgctxt "data_list"
@@ -177,7 +177,7 @@ msgid ""
 "- Write next to each picture how much each thing costs each month (there is no need to share the numbers if you don’t want to).\n"
 "- Add up how much money you have to spend each month."
 msgstr ""
-"- Chora picha za vitu vyote ambavyo wewe na familia yako mnatumia pesa kila mwezi.\n"
+"- Chora picha za vitu vyote ambavyo vinakugharimu wewe na familia yako kila mwezi.\n"
 "- Andika karibu na kila picha ni kiasi gani kila kitu kinagharimu kila mwezi (hakuna haja ya kushirikisha namba ikiwa hutaki).\n"
 "- Ongeza kiasi cha pesa unachopaswa kutumia kila mwezi."
 
@@ -203,7 +203,7 @@ msgid ""
 "- Which are WANTS which are nice to have but not essential? Why?\n"
 "- Which things could you try to spend less money on?"
 msgstr ""
-"Angalia orodha yako ya vitu unavyotumia pesa na uchague:\n"
+"Angalia kwenye orodha yako, vitu vinavyo kugharimu pesa alafu uchague:\n"
 "\n"
 "- Je, ni MAHITAJI gani ambayo huwezi kuishi bila kuwa nayo? Kwa nini?\n"
 "- Je, ni MATAMANIO yapi ambayo ni mazuri kuwa nayo lakini sio muhimu? Kwa nini?\n"
@@ -300,7 +300,12 @@ msgstr "Hilo ni wazo zuri sana. tunaweza kuokoa kidogo kidogo - hata mimi nitaji
 #. type=data_list
 msgctxt "data_list"
 msgid "We should talk with our grandchildren about things we can spend a little less on. They can help us choose what is a need and what is a want."
-msgstr "Tunapaswa kuzungumza na wajukuu wetu kuhusu mambo ambayo tunaweza kupunguza matumizi. Wanaweza kutusaidia kuchagua nini ni hitaji na nini ni tamaa."
+msgstr "Tunapaswa kuzungumza na wajukuu wetu kuhusu vitu ambavyo tunaweza kuvipunguzia matumizi. Wanaweza kutusaidia kuchagua nini ni hitaji na nini ni tamaa."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Great idea."
+msgstr "Wazo zuri."
 
 #. type=data_list
 msgctxt "data_list"
@@ -324,7 +329,7 @@ msgstr "Kwa kuweka akiba kidogo kila wiki, tumeweza kulipa ada ya sekondari ya @
 #. The string @data.characters.f2_grandmother.name should not be translated.
 msgctxt "data_list"
 msgid "Saving is important for one more reason - emergencies! @data.characters.f2_grandmother.name also learnt this along the way:"
-msgstr "Kuweka akiba  ni muhimu kwa sababu moja zaidi - dharura! @data.characters.f2_grandmother.name pia alijifunza hili njiani:"
+msgstr "Kuweka akiba ni muhimu kwa sababu moja zaidi - dharura! @data.characters.f2_grandmother.name pia alijifunza hili njiani:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -369,18 +374,13 @@ msgstr "Kutunza pesa katika benki"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Save in a stokvel/savings group"
-msgstr "Kutunza kwenye stockvel/vikundi vya akiba"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Whatever savings plan you choose, it will really help your family move forward!"
 msgstr "Njia yoyote ya kujiwekea akiba mtakayoichagua itaisaidia sana familia yenu kusonga mbele!"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Here are this week’s takeaway skills to help you budget and save!"
-msgstr "Huu hapa ni ujuzi wa kuchukua wa wiki hii ili kukusaidia kupanga bajeti na kuweka akiba!"
+msgstr "Huu hapa ni ujuzi wa kuchukua kwa wiki hii ili kukusaidia kupanga bajeti na kuweka akiba!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -601,7 +601,7 @@ msgstr "Nafikiri hivyo"
 #. type=data_list
 msgctxt "data_list"
 msgid "That’s a great start! Even talking about money as a family is a big step. Take it one conversation at a time - you are building important skills together."
-msgstr "Hiyo ni mwanzo mzuri sana! Hata kuzungumza kuhusu pesa kama familia ni hatua kubwa. Kufanya mazungumzo haya hatua kwa hatua – mnajenga ujuzi muhimu pamoja."
+msgstr "Huo ni mwanzo mzuri sana! Hata kuzungumza kuhusu pesa kama familia ni hatua kubwa. Kufanya mazungumzo haya hatua kwa hatua – mnajenga ujuzi muhimu pamoja."
 
 #. type=data_list
 msgctxt "data_list"
