@@ -3371,12 +3371,6 @@ msgid "minutes"
 msgstr ""
 
 #. type=template
-#. The string @global.share_medium should not be translated.
-msgctxt "template"
-msgid "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?"
-msgstr ""
-
-#. type=template
 msgctxt "template"
 msgid ""
 "**Which of the parents in your group participated?**\n"
@@ -3721,8 +3715,9 @@ msgid "Archive"
 msgstr ""
 
 #. type=template
+#. The string @global.share_medium should not be translated.
 msgctxt "template"
-msgid "How many minutes did you spend facilitating your parent online support group over the last week?"
+msgid "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?"
 msgstr ""
 
 #. type=template
@@ -3776,8 +3771,9 @@ msgid "Very Poorly"
 msgstr ""
 
 #. type=template
+#. The string @global.virtual_session_platform should not be translated.
 msgctxt "template"
-msgid "Which of the parents attended your online support group session?"
+msgid "Which of the parents in this group attended your @global.virtual_session_platform group session?"
 msgstr ""
 
 #. type=template
