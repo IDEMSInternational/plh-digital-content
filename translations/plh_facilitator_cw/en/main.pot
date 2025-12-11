@@ -3029,16 +3029,6 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Onboarding Caregivers into the Course"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "In this video, learn how to onboard caregivers to the course in the programme."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
 msgid "One-on-one time: Let’s connect"
 msgstr ""
 
@@ -3200,11 +3190,6 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Partners"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Donors"
 msgstr ""
 
 #. type=data_list
@@ -4258,12 +4243,17 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Age Group"
+msgid "This caregiver group supports parents of children ages:"
 msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Mode of Delivery"
+msgid "How will you deliver your sessions?"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "If you're not sure, please ask your supervisor or trainer."
 msgstr ""
 
 #. type=global
@@ -4646,6 +4636,11 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "follow ups"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "How to follow up"
 msgstr ""
 
 #. type=global
@@ -5265,6 +5260,18 @@ msgid "co_parent_id: @local.co_parent_id"
 msgstr ""
 
 #. type=template
+#. The string @fields._auth_user_name should not be translated.
+msgctxt "template"
+msgid "fields._auth_user_name = @fields._auth_user_name"
+msgstr ""
+
+#. type=template
+#. The string @fields._auth_user_given_name should not be translated.
+msgctxt "template"
+msgid "fields._auth_user_given_name = @fields._auth_user_given_name"
+msgstr ""
+
+#. type=template
 #. The following strings should not be translated: 
 #.      @local.no_follow_up
 #.      @calc(@local.no_follow_up + 1)
@@ -5280,11 +5287,6 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Followed up"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "<u>How to follow up</u>"
 msgstr ""
 
 #. type=template
@@ -5571,6 +5573,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "Once a group completes all its sessions, you can mark it as closed and it will appear here."
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Are you sure you want to delete this report?"
 msgstr ""
 
@@ -5603,7 +5610,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Parents"
+msgid "Caregivers"
 msgstr ""
 
 #. type=template
@@ -5620,7 +5627,12 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "No other current caregiver"
+msgid "No other caregivers"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Details from Individual Consultation"
 msgstr ""
 
 #. type=template
@@ -5654,6 +5666,11 @@ msgid "@local.attended_5 +1"
 msgstr ""
 
 #. type=template
+msgctxt "template"
+msgid "Engagement"
+msgstr ""
+
+#. type=template
 #. The following strings should not be translated: 
 #.      @local.attended_6
 #.      @local.number_reported_sessions
@@ -5663,7 +5680,7 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "Details from Individual Consultation"
+msgid "Danger Zone"
 msgstr ""
 
 #. type=template
@@ -5727,6 +5744,14 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Group Name"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.text_box
+#.      @local.age_tag
+msgctxt "template"
+msgid "@local.text_box && @local.age_tag"
 msgstr ""
 
 #. type=template
