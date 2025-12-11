@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-12-10 11:30\n"
+"PO-Revision-Date: 2025-12-11 09:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4356,6 +4356,12 @@ msgid "minutes"
 msgstr "minit"
 
 #. type=template
+#. The string @global.share_medium should not be translated.
+msgctxt "template"
+msgid "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?"
+msgstr "Berapa minit anda luangkan untuk menjadi fasilitator kumpulan @global.share_medium ibu bapa anda sepanjang minggu lepas?"
+
+#. type=template
 msgctxt "template"
 msgid ""
 "**Which of the parents in your group participated?**\n"
@@ -4704,10 +4710,9 @@ msgid "Archive"
 msgstr "Kumpulan Terdahulu"
 
 #. type=template
-#. The string @global.share_medium should not be translated.
 msgctxt "template"
-msgid "How many minutes did you spend facilitating your parent @global.share_medium group over the last week?"
-msgstr "Berapa minit anda luangkan untuk menjadi fasilitator kumpulan @global.share_medium ibu bapa anda sepanjang minggu lepas?"
+msgid "How many minutes did you spend facilitating your parent online support group over the last week?"
+msgstr "Berapa minit anda luangkan untuk menjadi fasilitator kumpulan  ibu bapa anda sepanjang minggu lepas?"
 
 #. type=template
 msgctxt "template"
@@ -4760,10 +4765,9 @@ msgid "Very Poorly"
 msgstr "Sangat Lemah"
 
 #. type=template
-#. The string @global.virtual_session_platform should not be translated.
 msgctxt "template"
-msgid "Which of the parents in this group attended your @global.virtual_session_platform group session?"
-msgstr "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi kumpulan anda di @global.virtual_session_platform?"
+msgid "Which of the parents attended your online support group session?"
+msgstr "Siapakah ibu bapa yang menghadiri sesi kumpulan sokongan dalam talian anda?"
 
 #. type=template
 msgctxt "template"
