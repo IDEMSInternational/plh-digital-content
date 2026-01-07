@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2025-12-05 11:53\n"
+"PO-Revision-Date: 2026-01-07 10:22\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -125,6 +125,40 @@ msgstr "Huelewi tu jinsi ninavyohisi. Huwa husikilizi kamwe!"
 msgctxt "data_list"
 msgid "Stop being so dramatic! Your behaviour is unacceptable!"
 msgstr "Acha vituko! Tabia yako haikubaliki!"
+
+#. type=data_list
+#. The string @data.characters.f4_daughter_13.name, should not be translated.
+msgctxt "data_list"
+msgid "What emotions does @data.characters.f4_daughter_13.name, feel?"
+msgstr "Hisia zipi @data.characters.f4_daughter_13.name, alihisi?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yes, she seems sad right now because she is crying. Sadness is one of the stages of grief for teens and adults."
+msgstr "Ndio, anahisi huzuni kwa sasa kwa sababu analia. Huzuni ni moja ya hatua za majonzi kwa vijana na kwa watu wazima."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Feeling nothing"
+msgstr "Si hisi chochote"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She seems more sad than numb right now, but feeling nothing is one of the stages of grief for teens and adults."
+msgstr "Anaonekana mwenye huzuni zaidi kuliko ganzi kwa sasa, lakini kutokuhisi chochote ni kati ya hatua za majonzi kwa vijana na watu wazima."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "She seems more sad than angry right now, but feeling angry is one of the five stages of grief for teens and adults."
+msgstr "Anaonekana mwenye huzuni nyingi kuliko hasira kwa sasa, ila kuwa na hasira ni moja kati ya hatua tano za majonzi kwa vijana na watu wazima."
+
+#. type=data_list
+#. The following strings should not be translated: 
+#.      @data.characters.f4_father.name's
+#.      @data.characters.f4_daughter_13.name
+msgctxt "data_list"
+msgid "@data.characters.f4_father.name's response made @data.characters.f4_daughter_13.name more upset. What could he have done differently?"
+msgstr "Hatua aliyochukua @data.characters.f4_father.name ilimfanya @data.characters.f4_daughter_13.name kuchukia zaidi. Angepaswa kufanya nini cha tofauti?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -290,9 +324,20 @@ msgstr ""
 "Kila mmoja hukabiliana na majonzi kwa njia tofauti. Tunaweza kusaidiana kwa kukubali hisia za kila mmoja wetu na kuja na mawazo ya pamoja ili kusaidiana."
 
 #. type=data_list
+#. The string @data.characters.f4_father.name should not be translated.
+msgctxt "data_list"
+msgid "How do you think @data.characters.f4_father.name feels about losing his wife?"
+msgstr "Unafikiri @data.characters.f4_father.name anahisi vipi kuhusu kumpoteza mkewe?"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Numb"
 msgstr "Kufa ganzi"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Yes, this is one of the stages of grief. However, men and boys are often taught to not express their feelings, and rather stay strong and carry on. Women and girls are more likely to share their grief and accept help."
+msgstr "Ndio, hii ni moja kati ya hatua za majonzi, Ingawa, wanaume na wavulana hufundishwa mara kwa mara kutoonyesha hisia zao, zaidi kusalia imara na kuendelea mbele zaidi. Wanawake na mabinti ni rahisi kwao kuonyesha majonzi yao na kupokea msaada."
 
 #. type=data_list
 msgctxt "data_list"
@@ -314,6 +359,30 @@ msgstr ""
 "Kumpoteza mtu tunayempenda kunaweza kutuathiri kwa majuma, miezi au mwaka. Hakuna njia sahihi ya kujihisi na hakuna haja ya kujisikia vizuri haraka.\n"
 "\n"
 "Kijana wako anaweza kuhisi huzuni, hasira, kuchanganyikiwa, au vibaya. Wanaweza kuwa na ndoto mbaya, maumivu, au matatizo ya shule. Hata kama wanaonekana kuwa na furaha, bado wanaweza kuwa na huzuni. Haya yote ni ya kawaida."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "5 stages of grief"
+msgstr "Hatua 5 za huzuni"
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"Many people experience grief in the following 5 stages. Knowing this helps you to better support your teen and take care of yourself: \n"
+"\n"
+"1: 😟 Denial: “This isn’t really happening.”\n"
+"2: 😡 Anger: “I’m mad.”\n"
+"3: 🙏🏾 Bargaining: “I wish I could change it.”\n"
+"4: 😣 Depression: “I feel really sad.”\n"
+"5: 😔 Acceptance: “I’m okay now, even though it still hurts.”"
+msgstr ""
+"Watu wengi hupitia huzuni kwa hatua 5 zifuatazo. Kujua hili inakusaidia kujua namna bora ya kumsaidia kijana wako na kujijali mwenyewe:\n"
+"\n"
+"1: 😟 Kukataa: \" Hii haiwezi kutokea\" (Hali ya kutoamini)\n"
+"2: 😡 Hasira: \" Nimekasirika sana\"\n"
+"3: 🙏🏾 Kujitetea: “ Laiti ningekuwa na uwezo wa kubadilisha hali hii\"\n"
+"4: 😣 Msongo wa mawazo:\" Nahisi huzuni sana \"\n"
+"5: 😔 Kukubali: \" Niko sawa sasa, japokuwa bado moyo wangu unaumia\"."
 
 #. type=data_list
 msgctxt "data_list"
@@ -469,10 +538,10 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Well done for taking time for yourself today. 🎉"
-msgstr "Hongera kwa kujipa muda wewe mwenyewe leo🎉"
+msgstr "Hongera kwa kujipa muda wewe mwenyewe leo. 🎉"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "Here is a short video to help you slow down before you go"
-msgstr "Hii hapa video fupi ya kukusaidia kupunguza kasi (ya shughuli) kabla ya kuondoka"
+msgstr "Hii hapa video fupi ya kukusaidia kupunguza kasi kabla ya kuondoka"
 
