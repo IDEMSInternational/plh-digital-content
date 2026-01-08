@@ -11,12 +11,24 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2026-01-07 10:23\n"
+"PO-Revision-Date: 2026-01-08 10:44\n"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "⚠️ Sensitive Content Notice"
 msgstr "⚠️ Tangazo la Maudhui Nyeti"
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid ""
+"This module shares basic self-defence ideas. It cannot prepare you for every danger. If a partner or spouse is hurting you, fighting back can sometimes make things more dangerous. The safest choice is often to get away and get help.\n"
+"\n"
+"If you need support, see the “Support Contacts” section in the @global.app_name Library for help."
+msgstr ""
+"Moduli inatoa misingi ya namna ya kujilinda mwenyewe. Haiwezi kukuandaa kwa kila hatari. Ikiwa mwezi au mwanandoa anakukwaza, kupambana naye wakati mwingine kunaweza kufanya hali kuwa ya hatari zaidi. Mara nyingi chaguo sahihi zaidi ni kuondoka na kutafuta msaada.\n"
+"\n"
+"Ukihitaji msaada, Tazama \"Msaada wa mawasilino\" kwenye maktaba ya @global.app_name kwa msaada."
 
 #. type=data_list
 msgctxt "data_list"
@@ -50,6 +62,26 @@ msgstr ""
 "Mada yetu ya leo ni kubaki salama.\n"
 "\n"
 "kama wazazi ni muhimu kuhakikisha vijana wetu wako salama muda wote. Usalama wetu na usalama wa watoto wetu ni muhimu. Tunaweza kuhitaji kuwa na mjadala na watoto wetu juu ya usalama wao, na ni kwa namna gani wanaweza kujiweka salama muda wote."
+
+#. type=data_list
+#. The string @data.characters.f2_daughter_19.name should not be translated.
+msgctxt "data_list"
+msgid ""
+"We’ve looked at warning signs in the Teen Safety lesson. Now let’s think—what can we do if we don’t feel safe?\n"
+"\n"
+"If you feel unsafe, you can say or do anything to stay safe. The goal is to get away!\n"
+"\n"
+"Think about the moment when @data.characters.f2_daughter_19.name was pressured into a car.\n"
+"\n"
+"How could she use her voice to get away?"
+msgstr ""
+"Tumetazama juu ya alama zinazoashiria hali ya hatari kwenye somo la kijana Salama. Sasa hebu tufikirie tunaweza kufanya nini ikiwa hatujihisi salama?\n"
+"\n"
+"Ikiwa unahisi hauko salama, unaweza kusema au kufanya jambo lolote ili kusalia salama. Lengo ni kuondoka hapo!\n"
+"\n"
+"Fikiria hali ile ambapo @data.characters.f2_daughter_19.name alishinikizwa kuingia kwenye gari.\n"
+"\n"
+"Angeweza kutumiaje sauti yake ili kuondoka hapo?"
 
 #. type=data_list
 msgctxt "data_list"
@@ -187,7 +219,9 @@ msgid ""
 "\n"
 "You are worth defending. You are strong and powerful."
 msgstr ""
-"Fahamu tofauti kati ya mahusiano yenye afya na yasiyo na afya. Ukishashambuliwa ujue kuwa sio kosa lako kamwe. Unaruhusiwa kusema na kufanya kile kinachohitajika ili kuwa salama na kuondoka - usijali kuhusu kile ambacho wengine wanaweza kufikiria.\n"
+"Fahamu tofauti kati ya mahusiano yenye afya na yasiyo na afya. Ukishashambuliwa ujue kuwa sio kosa lako kamwe. \n"
+"\n"
+"Unaruhusiwa kusema na kufanya kile kinachohitajika ili kuwa salama na kuondoka—usijali kuhusu kile ambacho wengine wanaweza kufikiria.\n"
 "\n"
 "Unastahili kujitetea. Una uwezo na nguvu."
 
@@ -203,7 +237,7 @@ msgid ""
 "\n"
 "See the warning signs and trust your feelings. If you feel unsafe, the goal is to get away."
 msgstr ""
-"Kama mtu amaesema au kufanya kitu ambacho kitakufanya ujisikia kuwa na wasiwasi, sio sawa. wote tuna haki ya kujisikia salama, hasa tukiwa nyumbani.\n"
+"Kama mtu amaesema au kufanya kitu ambacho kitakufanya ujisikia kuwa na wasiwasi, sio sawa. Wote tuna haki ya kujisikia salama, hasa tukiwa nyumbani.\n"
 "\n"
 "Angalia ishara hatarishi na uziamini hisia zako. Kama uhahisi kuwa na wasiwasi, lengo ni kuondoka."
 
@@ -236,8 +270,8 @@ msgid ""
 "Know the strong parts of your body you can use, and where on the attacker’s body you can hit to stop them. Use what you can to protect yourself and get away."
 msgstr ""
 "Kama sauti yako haitakusaidia, tumia mwili wako.\n"
-"Tambua sehemu ya mwili wako ambayo ni imara unaweza kuitumia, na ni wapi kwenye mwili wa mvamizi unaweza ukampiga ili kumzuia.\n"
-"Tumia kinachowekana ili kijilinda mwenyewe na uondoke."
+"\n"
+"Tambua sehemu ya mwili wako ambayo ni imara unaweza kuitumia, na ni wapi kwenye mwili wa mvamizi unaweza ukampiga ili kumzuia. Tumia kinachowekana ili kijilinda mwenyewe na uondoke."
 
 #. type=data_list
 msgctxt "data_list"
@@ -254,8 +288,21 @@ msgid ""
 "As a parent, let your teen know they can always tell you anything, and you’ll find a solution together."
 msgstr ""
 "Kwenye hatari, ni kawaida kuwa mtulivi na kuhusi wasiwasi. Dhana hii itakusaidia wewe na kijana wako kukaa salama.\n"
+"\n"
 "Kama wewe au kijana wako ameumia, sio kosa lako. Ongea na mtu mwingine unaemuamini.\n"
+"\n"
 "Kama mzazi, mwache kijana wako ajue kwamba anaweza kukuambia kitu chochote, na mnaweza kutafuta suluhisho pamoja."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"This week’s home activity is to talk with your teen about this Staying Safe module.\n"
+"\n"
+"These conversations can be hard at first, but they give your teen important skills for staying safe. You can do it!"
+msgstr ""
+"Shughuli ya nyumbani wiki hii ni kuongea na kijana wako juu ya moduli hii ya kusalia salama.\n"
+"\n"
+"Mazungumzo haya yanaweza kuwa magumu mwanzoni, lakini yanampa kijana wako ujuzi muhimu wa kusalia salama. Unaweza kufanya hivyo!"
 
 #. type=data_list
 msgctxt "data_list"
@@ -315,6 +362,7 @@ msgid ""
 "Practising together makes it more likely they will act when something feels wrong."
 msgstr ""
 "Kumsaidia kijana wako kujifunza kutambua hatari, kuongea, na kujilinda mwenyewe inamjengea hasa kujiamini.\n"
+"\n"
 "Kufanya mazoezi ya pamoja hufanya iwezekane zaidi kutenda hasa pale wanapohisi jambo fulani halipo sawa."
 
 #. type=data_list
@@ -326,7 +374,7 @@ msgstr "Sikia jinsi @data.characters.media_daughter_9.name alivotumia sauti yake
 #. type=data_list
 msgctxt "data_list"
 msgid "It helped me a lot that I learnt I can use my voice to stay safe. A while ago, I was walking home alone and some man began to follow me and I felt scared. My father taught me that the most important thing is to be safe, so I turned around and said loud and clear ‘Why are you following me, I don’t want that’. It really surprised the man and even some other people looked at us, so the man walked away. I felt so relieved and even told my father. He said I did well and I felt really good. Before, I would have been too scared, also what other people think, but now I feel confident."
-msgstr "Imenisaidia sana kwamba ninaweza kutumia sauti yangu na kuwa salama. Siku chache zilizopita, nilikuwa naelekea nyumbani peke yangu na mwanaume alianza kunifuata nami niliogopa. Baba yangu alinifundisha kwamba jambo muhimu sana ni kuwa salama, kwahiyo niligeuka na kuongea kwa sauti kubwa ' kwanini unanifuatilia, sitaki!' Ilimshangaza mwanaume huyo na hata watu wengine walitutazama, hivyo mwanaume yule aliondoka. Nilijisikia amani na hata kumwambia baba yangu. Alisema nilifanya vyema na nilijisikia vizuri. Hapo awali, nilikua niliogopa  sana, na pia vipi watu wengine wangefikiria, lakini sasa nahisi ujasiri."
+msgstr "Imenisaidia sana kwamba ninaweza kutumia sauti yangu na kuwa salama. Siku chache zilizopita, nilikuwa naelekea nyumbani peke yangu na mwanaume alianza kunifuata nami niliogopa. Baba yangu alinifundisha kwamba jambo muhimu sana ni kuwa salama, kwahiyo niligeuka na kuongea kwa sauti kubwa 'kwanini unanifuatilia, sitaki!' Ilimshangaza mwanaume huyo na hata watu wengine walitutazama, hivyo mwanaume yule aliondoka. Nilijisikia amani na hata kumwambia baba yangu. Alisema nilifanya vyema na nilijisikia vizuri. Hapo awali, nilikua niliogopa sana, na pia vipi watu wengine wangefikiria, lakini sasa nahisi ujasiri."
 
 #. type=data_list
 msgctxt "data_list"
