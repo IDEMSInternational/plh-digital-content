@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Papiamento\n"
 "\n"
 "Language: pap_PAP\n"
-"PO-Revision-Date: 2026-01-06 03:22\n"
+"PO-Revision-Date: 2026-01-11 01:01\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3050,6 +3050,24 @@ msgid "About @global.app_name"
 msgstr "Tokante @global.app_name"
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @global.app_name
+#.      @global.programme_name
+msgctxt "data_list"
+msgid ""
+"@global.app_name is an app designed by Ministry of Social Development, Labour, and Welfare, UNICEF the Netherlands, Parenting for Lifelong Health, and IDEMS International to support the delivery of @global.programme_name in Curaçao. The content herein is available under an open source Creative Commons International 4.0 license. \n"
+"\n"
+"All illustrations in this app are generated using AI, inspired by the works of illustrators Orli Setton & Natalia Calixto. The original and the AI generated artworks are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.\n"
+"\n"
+"It was developed in collaboration with key partners:"
+msgstr ""
+"@global.app_name ta un aplikashon diseñá pa Ministerio di Desaroyo Sosial, Labor, i Bienestar, UNICEF Hulanda, Parenting for Lifelong Health i IDEMS International, pa sostené e implementashon di @global.programme_name na Kòrsou. E kontenido akí ta disponibel bou di un lisensia di open source Creative Commons International 4.0. \n"
+"\n"
+"Ta generá tur ilustrashon den e aplikashon akí usando AI, i nan ta inspirá pa e obranan di e ilustradónan Orli Setton & Natalia Calixto. E obranan di arte original i esnan generá pa AI ta lisensiá bou di e lisensia di Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).\n"
+"\n"
+"A desaroyá esaki den kolaborashon ku partnernan klave:"
+
+#. type=data_list
 msgctxt "data_list"
 msgid "One-on-one time: Learn with a Story"
 msgstr "Tempu pa abo ku bo yu: Siña ku un historia"
@@ -5667,6 +5685,21 @@ msgstr "Será"
 
 #. type=global
 msgctxt "global"
+msgid "This caregiver group supports parents of children ages:"
+msgstr "E grupo di kuido aki ta sostené mayornan di muchanan di edat:"
+
+#. type=global
+msgctxt "global"
+msgid "How will you deliver your sessions?"
+msgstr "Kon bo ta bai fasilitá bo seshonnan?"
+
+#. type=global
+msgctxt "global"
+msgid "If you're not sure, please ask your supervisor or trainer."
+msgstr "Si bo no ta sigur, por fabor puntra bo supervisor òf treiner."
+
+#. type=global
+msgctxt "global"
 msgid "Create Caregiver Group"
 msgstr "Krea grupo di edukadó"
 
@@ -5892,6 +5925,11 @@ msgstr "Por fabor hinka un number bálido pa indiká e kantidat total di mucha."
 
 #. type=global
 msgctxt "global"
+msgid "Please enter an consistent with the range of this group."
+msgstr "Por fabor introdusí un konsistente ku e rango di e grupo akí."
+
+#. type=global
+msgctxt "global"
 msgid "Please select a gender"
 msgstr "Por fabor selektá un sekso"
 
@@ -6041,6 +6079,11 @@ msgstr "chèk progreso "
 msgctxt "global"
 msgid "follow ups"
 msgstr "chèknan di progreso   "
+
+#. type=global
+msgctxt "global"
+msgid "How to follow up"
+msgstr "Kon pa chèk progreso"
 
 #. type=global
 msgctxt "global"
@@ -6666,6 +6709,26 @@ msgid "co_parent_id: @local.co_parent_id"
 msgstr "co_parent_id: @local.co_parent_id"
 
 #. type=template
+#. The string @fields._auth_user_name should not be translated.
+msgctxt "template"
+msgid "fields._auth_user_name = @fields._auth_user_name"
+msgstr "fields._auth_user_name = @fields._auth_user_name"
+
+#. type=template
+#. The string @fields._auth_user_given_name should not be translated.
+msgctxt "template"
+msgid "fields._auth_user_given_name = @fields._auth_user_given_name"
+msgstr "fields._auth_user_given_name = @fields._auth_user_given_name"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.no_follow_up
+#.      @calc(@local.no_follow_up + 1)
+msgctxt "template"
+msgid "@calc(@local.no_follow_up + 1)"
+msgstr "@calc(@local.no_follow_up + 1)"
+
+#. type=template
 msgctxt "template"
 msgid "Missed the last 2 group sessions"
 msgstr "A falta e último 2 seshonnan di grupo"
@@ -6954,6 +7017,11 @@ msgstr "🚀 Despues ku bo a traha un grupo di mayor, e lo aparesé akí."
 
 #. type=template
 msgctxt "template"
+msgid "Once a group completes all its sessions, you can mark it as closed and it will appear here."
+msgstr "Unabes ku un grupo kompletá tur su seshonnan, bo por mark’é komo será i e lo aparesé akí."
+
+#. type=template
+msgctxt "template"
 msgid "Are you sure you want to delete this report?"
 msgstr "Bo ta sigur ku bo ke eliminá e rapòrt akí?"
 
@@ -7003,8 +7071,48 @@ msgstr "Eduká ku @local.number_of_coparents otronan:"
 
 #. type=template
 msgctxt "template"
+msgid "No other caregivers"
+msgstr "No tin otro dunadónan di kuido"
+
+#. type=template
+msgctxt "template"
 msgid "Details from Individual Consultation"
 msgstr "Detayenan di Konsulta Individual"
+
+#. type=template
+#. The string @local.attended_1 should not be translated.
+msgctxt "template"
+msgid "@local.attended_1 +1"
+msgstr "@local.attended_1 +1"
+
+#. type=template
+#. The string @local.attended_2 should not be translated.
+msgctxt "template"
+msgid "@local.attended_2 +1"
+msgstr "@local.attended_2 +1"
+
+#. type=template
+#. The string @local.attended_3 should not be translated.
+msgctxt "template"
+msgid "@local.attended_3 +1"
+msgstr "@local.attended_3 +1"
+
+#. type=template
+#. The string @local.attended_4 should not be translated.
+msgctxt "template"
+msgid "@local.attended_4 +1"
+msgstr "@local.attended_4 +1"
+
+#. type=template
+#. The string @local.attended_5 should not be translated.
+msgctxt "template"
+msgid "@local.attended_5 +1"
+msgstr "@local.attended_5 +1"
+
+#. type=template
+msgctxt "template"
+msgid "Engagement"
+msgstr "Partisipashon"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -7081,6 +7189,14 @@ msgstr "Esaki lo eliminá tur e datonan di grupo di @fields.current_group_name. 
 msgctxt "template"
 msgid "Group Name"
 msgstr "Nòmber di Grupo"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.text_box
+#.      @local.age_tag
+msgctxt "template"
+msgid "@local.text_box && @local.age_tag"
+msgstr "@local.text_box && @local.age_tag"
 
 #. type=template
 #. The string @fields.current_parent_name should not be translated.
@@ -7292,6 +7408,11 @@ msgstr "Konfigurashonnan"
 msgctxt "template"
 msgid "Caregiving with"
 msgstr "Kuida huntu ku"
+
+#. type=template
+msgctxt "template"
+msgid "others"
+msgstr "otronan"
 
 #. type=template
 msgctxt "template"
