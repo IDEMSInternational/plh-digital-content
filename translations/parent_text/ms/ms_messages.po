@@ -9,9 +9,8 @@ msgstr ""
 "X-Crowdin-File-ID: 53\n"
 "Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
 "Language-Team: Malay\n"
-"\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2024-07-20 08:34\n"
+"PO-Revision-Date: 2026-01-15 09:57\n"
 
 #. type=text
 msgctxt "text"
@@ -387,6 +386,38 @@ msgstr "Adakah anda ingin beritahu kami dengan lebih lanjut tentang pengalaman a
 msgctxt "text"
 msgid "Would you like to tell me a little bit more about your experience?"
 msgstr "Adakah anda ingin memberitahu saya dengan lebih lanjut tentang pengalaman anda?"
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again? Reply YES or NO"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Hi! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again? Reply YES or NO"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "Hi @fields.user_name! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Hi! It's been a while since you last replied. We hope you are OK?! Would you like to receive ParentText messages again?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Hi! We would love to hear how you are doing! Please reply OK to continue."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Can we ask you a few quick questions about your relationship with your partner? Everything you say will be completely private. If you do not want to answer any questions, it is completely okay."
+msgstr ""
 
 #. type=text
 msgctxt "text"
@@ -772,6 +803,17 @@ msgstr "Anak anda telah benar-benar mendapat faedah dari perkembangan anda ke ar
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
+msgid "@fields.child_nickname has really benefitted from your progress towards reaching your goal of knowing more about child development. Please type “MoreTips” whenever you want to receive your next message."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Your child has really benefitted from your progress towards reaching your goal of knowing more about child development. Please type “MoreTips” whenever you want to receive your next message."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
 msgid "@fields.child_nickname has really benefitted from your progress towards reaching your parenting goal. Please type “MoreTips” whenever you want to receive your next message."
 msgstr "@fields.child_nickname telah benar-benar mendapat faedah dari perkembangan anda ke arah mencapai matlamat keibubapaan anda. Sila taip “TipTambahan” jika anda mahu menerima mesej anda yang seterusnya."
 
@@ -835,6 +877,11 @@ msgstr "Jika anda belum nampak sebarang perubahan, teruslah melakukannya. Kadang
 msgctxt "text"
 msgid "Which information about COVID-19 would you like to receive?"
 msgstr "Maklumat yang mana satukah tentang COVID-19 yang ingin anda perolehi?"
+
+#. type=text
+msgctxt "text"
+msgid "It looks like you are busy right now. Remember you can always access support and parenting tips by typing \"help\". Chat to you later!"
+msgstr ""
 
 #. type=text
 msgctxt "text"
@@ -985,6 +1032,16 @@ msgstr "Tahniah! Anda telah menambah satu lapisan lagi pada Rumah Sokongan anda.
 msgctxt "text"
 msgid "Congratulations! You have added your first layer to your House of Support.  Setting Goals is the foundation to building a positive relationship between you and your children. Well done!"
 msgstr "Tahniah! Anda telah menambah satu lapisan lagi pada Rumah Sokongan anda. Menetapkan Matlamat ialah asas untuk membina hubungan positif antara anda dengan anak-anak anda. Syabas!"
+
+#. type=text
+msgctxt "text"
+msgid "Thanks so much for a great chat session! Over the next few weeks, you will receive messages to help you manage stress and maintain positive relationships at home."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Please remember to interact DAILY so that we can keep sending you messages!"
+msgstr ""
 
 #. type=text
 msgctxt "text"
@@ -1492,8 +1549,7 @@ msgstr "Duduk dan pejamkan mata anda."
 #. type=text
 msgctxt "text"
 msgid "Listen to your breath as it goes in and out. "
-msgstr ""
-"Dengarkan nafas anda ketika menarik masuk dan \n"
+msgstr "Dengarkan nafas anda ketika menarik masuk dan \n"
 "melepaskannya. "
 
 #. type=text
@@ -1539,8 +1595,7 @@ msgstr "Mungkin tidak. Mungkin anda menjerit lagi pada anak-anak anda hari ini? 
 #. type=text
 msgctxt "text"
 msgid "Take a deep breath and think of one thing you did today that you do feel proud of. It doesn't have to be big. And wrap your arms around your body and give yourself a hug. And now think of one thing you did today that you don't feel proud of. What can you do differently tomorrow? And wrap your arms around your body and give yourself a hug. "
-msgstr ""
-"Tarik nafas dalam-dalam dan fikirkan satu perkara membanggakan yang anda buat hari ini. Ia tidak semestinya besar. Berikan pelukan pada \n"
+msgstr "Tarik nafas dalam-dalam dan fikirkan satu perkara membanggakan yang anda buat hari ini. Ia tidak semestinya besar. Berikan pelukan pada \n"
 " diri sendiri. Dan sekarang fikirkan satu perkara tidak membanggakan yang anda buat hari ini. Apakah perubahan yang anda boleh lakukan esok? Berikan pelukan pada diri sendiri. "
 
 #. type=text
@@ -7282,8 +7337,7 @@ msgstr "Hebat! Peraturan dan rutin yang konsisten membuatkan anak atau remaja be
 #. type=text
 msgctxt "text"
 msgid "COVID-19 has interrupted our children's education with school closures and remote learning. It is normal to feel overwhelmed about to do this alone, especially when we also have stress about work and money. "
-msgstr ""
-"COVID-19 telah mengganggu pendidikan anak-anak kita dengan penutupan sekolah dan pembelajaran jarak jauh. Adalah normal untuk berasa tertekan kerana terpaksa melakukan ini bersendirian, terutama apabila pada masa yang sama kita juga rasa tertekan \n"
+msgstr "COVID-19 telah mengganggu pendidikan anak-anak kita dengan penutupan sekolah dan pembelajaran jarak jauh. Adalah normal untuk berasa tertekan kerana terpaksa melakukan ini bersendirian, terutama apabila pada masa yang sama kita juga rasa tertekan \n"
 " tentang kerja dan wang. "
 
 #. type=text
@@ -10324,6 +10378,11 @@ msgstr "Maaf, saya tidak faham maksud anda. Sila jawab dengan satu nombor antara
 
 #. type=text
 msgctxt "text"
+msgid " "
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "Would you like to go back to the Help menu?"
 msgstr "Adakah anda mahu kembali kepada menu Tolong?"
 
@@ -12466,8 +12525,7 @@ msgstr "Ingat, kami sedia membantu. Taip \"Tolong\" jika anda mahu dapatkan bany
 #. type=text
 msgctxt "text"
 msgid "Thanks so much for answering these questions. I really appreciate it. "
-msgstr ""
-"Terima kasih kerana menjawab soalan-soalan ini. Saya sangat menghargai usaha anda.\n"
+msgstr "Terima kasih kerana menjawab soalan-soalan ini. Saya sangat menghargai usaha anda.\n"
 " "
 
 #. type=text
@@ -14245,8 +14303,7 @@ msgstr "Kami bersimpati kerana anda mendapati ia mencabar. Mewujudkan tabiat bah
 #. type=text
 msgctxt "text"
 msgid "Sorry to hear that you are finding this challenging. Here is a review on quick technical fixes: "
-msgstr ""
-"Kami bersimpati kerana anda mendapati ia mencabar.\n"
+msgstr "Kami bersimpati kerana anda mendapati ia mencabar.\n"
 " Berikut ialah ulasan tentang penyelesaian teknikal yang pantas: "
 
 #. type=text
@@ -14482,15 +14539,13 @@ msgstr "Tahniah, sememangnya ia bukanlah perkara yang mudah! Bagaimanakah hasiln
 #. type=text
 msgctxt "text"
 msgid "We are happy to hear that it went well! This shows that you and your teen have a trusting and positive relationship. You should be proud of yourself!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan lancar!\n"
 "Ini membuktikan bahawa anda dan anak remaja anda mempunyai hubungan yang saling mempercayai dan positif. Anda seharusnya berbangga dengan diri anda!"
 
 #. type=text
 msgctxt "text"
 msgid "I am happy to hear that it went well! This shows that you and your teen have a trusting and positive relationship. You should be proud of yourself!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan lancar!\n"
 "Ini membuktikan bahawa anda dan anak remaja anda mempunyai hubungan yang saling mempercayai dan positif. Anda seharusnya berbangga dengan diri anda!"
 
 #. type=text
@@ -14591,15 +14646,13 @@ msgstr "Saya gembira mendapat tahu ia berjalan lancar! Anda telah mengambil lang
 #. type=text
 msgctxt "text"
 msgid "We are happy to hear that it went well! You have taken the steps to protect your child from potential abuse. You should be proud of yourself!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan lancar!\n"
 "Anda telah mengambil langkah-langkah untuk melindungi anak anda daripada potensi penderaan. Anda seharusnya berbangga dengan diri anda!"
 
 #. type=text
 msgctxt "text"
 msgid "I am happy to hear that it went well! You have taken the steps to protect your child from potential abuse. You should be proud of yourself!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan lancar!\n"
 "Anda telah mengambil langkah-langkah untuk melindungi anak anda daripada potensi penderaan. Anda seharusnya berbangga dengan diri anda!"
 
 #. type=text
@@ -14698,15 +14751,13 @@ msgstr "Syabas kerana mengambil masa melakukan ini! Bagaimanakah hasilnya?"
 #. type=text
 msgctxt "text"
 msgid "We are happy to hear that it went well! Budget planning as a family can help you have enough money to get through the month and also reduce arguments!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan lancar!\n"
 "Perancangan belanjawan bersama sebagai satu keluarga mampu membantu anda mempunyai wang yang cukup untuk kegunaan sepanjang bulan dan mengurangkan perbalahan!"
 
 #. type=text
 msgctxt "text"
 msgid "I am happy to hear that it went well! Budget planning as a family can help you have enough money to get through the month and also reduce arguments!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan lancar!\n"
 "Perancangan belanjawan bersama sebagai satu keluarga mampu membantu anda mempunyai wang yang cukup untuk kegunaan sepanjang bulan dan mengurangkan perbalahan!"
 
 #. type=text
@@ -14812,15 +14863,13 @@ msgstr "Tidak mengapa! Jangan lupa bahawa anda adalah ibu bapa, bukannya guru. A
 #. type=text
 msgctxt "text"
 msgid "We are happy to hear that it went well! Research has found that parental support helps children's academic achievements!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan lancar!\n"
 "Kajian membuktikan bahawa sokongan ibu bapa membantu pencapaian akademik kanak-kanak!"
 
 #. type=text
 msgctxt "text"
 msgid "I am happy to hear that it went well Research has found that parental support helps children's academic achievements!"
-msgstr ""
-"Saya gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Saya gembira mendapat tahu ia berjalan lancar!\n"
 "Kajian membuktikan bahawa sokongan ibu bapa membantu pencapaian akademik kanak-kanak!"
 
 #. type=text
@@ -14938,8 +14987,7 @@ msgstr "Syabas kerana mengambil masa melakukan ini! Bagaimanakah hasilnya?"
 #. type=text
 msgctxt "text"
 msgid "We are happy to hear that it went well! Discussing safe and unsafe places in community with your children, helps keep them safe!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan lancar!\n"
 "Membincangkan tempat yang selamat dan tidak selamat dalam komuniti dengan anak-anak anda, membantu menjaga keselamatan mereka!"
 
 #. type=text
@@ -15311,15 +15359,13 @@ msgstr "Tidak mengapa! Berikut ialah beberapa laman web yang anda boleh membuat 
 #. type=text
 msgctxt "text"
 msgid "Sorry to hear that you are finding this challenging. Try balancing the time that you spend online and offline. Set an amount of time that you can spend online and try it for a week. If you succeed, try adding a little bit more offline time every week. You can do this!"
-msgstr ""
-"Kami bersimpati kerana anda mendapati ia mencabar.\n"
+msgstr "Kami bersimpati kerana anda mendapati ia mencabar.\n"
 " Cuba seimbangkan masa yang anda luangkan dalam talian dan di luar talian. Tetapkan masa yang boleh anda luangkan dalam talian dan cuba untuk tempoh masa seminggu. Jika anda berjaya, cuba tambahkan sedikit lagi masa di luar talian setiap minggu. Anda boleh lakukannya!"
 
 #. type=text
 msgctxt "text"
 msgid "We are happy to hear it went well! We spend a lot of time online, so it is important to create healthy and responsible online habits. This is important so that we can stay safe and continue enjoying the benefits of the digital world."
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan dengan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan dengan lancar!\n"
 " Kita meluangkan banyak masa dalam talian, jadi, mewujudkan tabiat dalam talian yang sihat dan bertanggungjawab adalah penting. Ini ialah sesuatu yang penting supaya kita kekal selamat dan dapat terus menikmati faedah dunia digital."
 
 #. type=text
@@ -15362,22 +15408,19 @@ msgstr "Pengalaman menghadapi cabaran ini adalah satu perkara yang sangat normal
 #. type=text
 msgctxt "text"
 msgid "We are happy to hear that it went well! Making a budget as a family can help you have enough money to get through the month and also reduce arguments!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan lancar!\n"
 " Menyediakan belanjawan bersama ahli keluarga boleh membantu anda mempunyai wang yang cukup untuk kegunaan sepanjang bulan dan mengurangkan perbalahan!"
 
 #. type=text
 msgctxt "text"
 msgid "I am happy to hear that it went well! Making a budget as a family can help you have enough money to get through the month and also reduce arguments!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan lancar!\n"
 " Menyediakan belanjawan bersama ahli keluarga boleh membantu anda mempunyai wang yang cukup untuk kegunaan sepanjang bulan dan mengurangkan perbalahan!"
 
 #. type=text
 msgctxt "text"
 msgid "We are sorry to hear this. We know it can be difficult! Why don’t we go through the content again? Your family members can join and help you! "
-msgstr ""
-"Kami berasa sedih mendengarnya. Kami faham ia boleh menjadi sukar!\n"
+msgstr "Kami berasa sedih mendengarnya. Kami faham ia boleh menjadi sukar!\n"
 " Apa kata kita lihat semula kandungannya? Ahli keluarga anda boleh turut serta dan bantu anda! "
 
 #. type=text
@@ -15420,8 +15463,7 @@ msgstr "Syabas kerana mengambil masa melakukan ini @fields.user_name. Bagaimanak
 #. type=text
 msgctxt "text"
 msgid "We are happy to hear it went well! Building supportive family relationships makes a happy and peaceful home!"
-msgstr ""
-"Kami gembira mendapat tahu ia berjalan dengan lancar!\n"
+msgstr "Kami gembira mendapat tahu ia berjalan dengan lancar!\n"
 " Membina perhubungan keluarga yang menyokong akan menghasilkan sebuah keluarga yang gembira dan damai!"
 
 #. type=text
