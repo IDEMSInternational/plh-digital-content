@@ -9,8 +9,9 @@ msgstr ""
 "X-Crowdin-File-ID: 682\n"
 "Project-Id-Version: 652eb1a39a0f8681c408f40296bb88b4\n"
 "Language-Team: Filipino\n"
+"\n"
 "Language: fil_PH\n"
-"PO-Revision-Date: 2026-01-15 10:03\n"
+"PO-Revision-Date: 2026-01-15 17:54\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -192,11 +193,6 @@ msgstr "Tungkulin ng Facilitator"
 msgctxt "data_list"
 msgid "Questions"
 msgstr "Mga Katanungan"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Connecting Formando Conciencia+ and Parent ID"
-msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
@@ -478,12 +474,6 @@ msgstr "Viber"
 
 #. type=global
 msgctxt "global"
-msgid "No parent groups found.\n\n"
-"To create a parent group, click on:"
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "You've reached the end of this session. What would you like to do next?"
 msgstr "You've reached the end of this session. What would you like to do next?"
 
@@ -499,23 +489,8 @@ msgstr "View Module from Start"
 
 #. type=global
 msgctxt "global"
-msgid "Please make sure messages have been shared before completing session"
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "Mark Session as Delivered"
 msgstr "Mark Session as Delivered"
-
-#. type=global
-msgctxt "global"
-msgid "You successfully completed this session! Please complete the report"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Add Report"
-msgstr ""
 
 #. type=global
 msgctxt "global"
@@ -531,16 +506,6 @@ msgstr "I-review ang report"
 msgctxt "global"
 msgid "You successfully completed this session!"
 msgstr "Nakumpleto mo na ang sesyon na ito!"
-
-#. type=global
-msgctxt "global"
-msgid "Mark Session as Delivered and add report"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Please share your message with the parent group before marking this module as delivered."
-msgstr ""
 
 #. type=global
 msgctxt "global"
@@ -575,9 +540,13 @@ msgstr "Ikaw ay naka-sign in na."
 
 #. type=global
 msgctxt "global"
-msgid "It looks like you've logged in on another device before. Would you like to continue from where you left off? \n\n"
+msgid ""
+"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
+"\n"
 "If you do, any progress made on this device will be lost."
-msgstr "It looks like you've logged in on another device before. Would you like to continue from where you left off? \n\n"
+msgstr ""
+"It looks like you've logged in on another device before. Would you like to continue from where you left off? \n"
+"\n"
 "If you do, any progress made on this device will be lost."
 
 #. type=global
@@ -608,9 +577,11 @@ msgstr "Piliin ang wika:"
 #. type=global
 #. The string @global.app_name should not be translated.
 msgctxt "global"
-msgid "Welcome to \n"
+msgid ""
+"Welcome to \n"
 "@global.app_name"
-msgstr "Welcome sa \n"
+msgstr ""
+"Welcome sa \n"
 "@global.app_name"
 
 #. type=global
@@ -685,21 +656,6 @@ msgstr "This province has no cities/municipalities"
 
 #. type=global
 msgctxt "global"
-msgid "Delete account"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Are you sure you want to delete your account?"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "This action is permanent and cannot be undone. You will lose all your progress."
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "Yes"
 msgstr "Oo"
 
@@ -712,16 +668,6 @@ msgstr "Hindi"
 msgctxt "global"
 msgid "your DIF supervisor"
 msgstr "your DIF supervisor"
-
-#. type=global
-msgctxt "global"
-msgid "Parent's First Name*"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Parent's Last Name*"
-msgstr ""
 
 #. type=global
 msgctxt "global"
@@ -742,21 +688,6 @@ msgstr "Parent's Sex"
 msgctxt "global"
 msgid "About the child"
 msgstr "About the child"
-
-#. type=global
-msgctxt "global"
-msgid "Child's Name*"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Child's Age*"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Child's Sex*"
-msgstr ""
 
 #. type=global
 msgctxt "global"
@@ -865,11 +796,6 @@ msgstr "I-enter ang date ng consultation"
 
 #. type=global
 msgctxt "global"
-msgid "Please enter a valid 11-digit phone number that starts with 09."
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "Please enter a valid age between 16 and 99."
 msgstr "Please enter a valid age between 16 and 99."
 
@@ -920,7 +846,8 @@ msgstr "Bilang isang co-facilitator, hindi ka makakagawa ng parent group. I-send
 
 #. type=global
 msgctxt "global"
-msgid "Hello, \n"
+msgid ""
+"Hello, \n"
 "Please add me as a co-facilitator!\n"
 "Here's how:\n"
 "1. Open the Facilitator App.\n"
@@ -928,7 +855,8 @@ msgid "Hello, \n"
 "3. Select EDIT on the Group.\n"
 "4. Click 'Add Co-Facilitator'\n"
 "5. Enter this ID:"
-msgstr "Hello!\n"
+msgstr ""
+"Hello!\n"
 "Paki-add ako bilang co-facilitator!\n"
 "Here's how:\n"
 "1. Open the Facilitator App.\n"
@@ -950,9 +878,11 @@ msgstr "Tungkol sa Magulang"
 #. type=global
 #. The string @global.app_name should not be translated.
 msgctxt "global"
-msgid "Ask your co-facilitator for this parent group to share their @global.app_name code with you.\n"
+msgid ""
+"Ask your co-facilitator for this parent group to share their @global.app_name code with you.\n"
 "Paste the code below to add them to the group."
-msgstr "Ask your co-facilitator for this parent group to share their @global.app_name code with you. \n"
+msgstr ""
+"Ask your co-facilitator for this parent group to share their @global.app_name code with you. \n"
 "Paste the code below to add them to the group."
 
 #. type=global
@@ -1047,40 +977,8 @@ msgstr "This profile is incomplete. Open to complete the missing details."
 
 #. type=global
 msgctxt "global"
-msgid "Embedded PDFs are not supported in this browser, please use an up-to-date version of Google Chrome to view or open in external app"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Open with..."
-msgstr ""
-
-#. type=global
-msgctxt "global"
 msgid "your supervisor"
 msgstr "your supervisor"
-
-#. type=global
-msgctxt "global"
-msgid "Skip"
-msgstr ""
-
-#. type=global
-#. The string @global.app_name! should not be translated.
-msgctxt "global"
-msgid "Welcome to \n"
-"@global.app_name!"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Sign in"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Creating an account allows you to save your progress across devices. It is optional."
-msgstr ""
 
 #. type=global
 msgctxt "global"
@@ -1091,11 +989,6 @@ msgstr "Magpatuloy sa Apple"
 msgctxt "global"
 msgid "Continue with Google"
 msgstr "Magpatuloy sa Google"
-
-#. type=global
-msgctxt "global"
-msgid "Continue without an account"
-msgstr ""
 
 #. type=global
 msgctxt "global"
@@ -1134,16 +1027,6 @@ msgctxt "global"
 msgid "Continue"
 msgstr "Magpatuloy"
 
-#. type=global
-msgctxt "global"
-msgid "You’re all set!"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "Your profile is complete, and you’re ready to begin!"
-msgstr ""
-
 #. type=template
 msgctxt "template"
 msgid "pdf"
@@ -1156,9 +1039,11 @@ msgstr "minutes"
 
 #. type=template
 msgctxt "template"
-msgid "**Which of the parents in your group participated?**\n"
+msgid ""
+"**Which of the parents in your group participated?**\n"
 "*Participation is defined as any parent who posts a comment, question, reply or reaction (such as a thumbs up) within the chat since you shared the first message from the weekly discussion.*"
-msgstr "**Sino sa mga magulang ang nag-participate?**\n"
+msgstr ""
+"**Sino sa mga magulang ang nag-participate?**\n"
 "*Masasabing nag-participate ang magulang kung siya ay nagsend ng comment, tanong, nagreply o nagreact sa chat simula noong nagshare ang facilitator ng unang mensahe para sa weekly discussion.*"
 
 #. type=template
@@ -1262,7 +1147,8 @@ msgstr "Are you sure you want to archive @fields.current_group_name?"
 
 #. type=template
 msgctxt "template"
-msgid "Archiving this group will remove it from your active list.\n"
+msgid ""
+"Archiving this group will remove it from your active list.\n"
 "You can still view its data later if needed."
 msgstr "Archiving this group will remove it from your active list. You can still view its data later if needed."
 
@@ -1349,11 +1235,6 @@ msgstr "Hindi"
 
 #. type=template
 msgctxt "template"
-msgid "What activities were you not able to complete?"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "How confident are you in the following?"
 msgstr "How confident are you in the following?"
 
@@ -1383,18 +1264,6 @@ msgid "My confidence is very high"
 msgstr "My confidence is very high"
 
 #. type=template
-#. The string @local.module_name_question should not be translated.
-msgctxt "template"
-msgid "On your knowledge about @local.module_name_question"
-msgstr ""
-
-#. type=template
-#. The string @local.module_name_question should not be translated.
-msgctxt "template"
-msgid "On your facilitation skills for @local.module_name_question"
-msgstr ""
-
-#. type=template
 msgctxt "template"
 msgid "Notes for Coaching"
 msgstr "Notes for Coaching"
@@ -1411,19 +1280,8 @@ msgstr "What is your goal or what do you want to achieve or learn from the coach
 
 #. type=template
 msgctxt "template"
-msgid "Parent Attendance:"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "parents"
 msgstr "parents"
-
-#. type=template
-#. The string @local.previous_module_number should not be translated.
-msgctxt "template"
-msgid "What challenges or successes did the parent experience with their home activity for Modyul @local.previous_module_number Sesyon? Were there any concerns?"
-msgstr ""
 
 #. type=template
 #. The string @fields.current_group_name should not be translated.
@@ -1738,21 +1596,6 @@ msgstr "Add Co-Facilitator"
 msgctxt "template"
 msgid "test"
 msgstr "test"
-
-#. type=template
-msgctxt "template"
-msgid "Unsaved values"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Are you sure you want to exit without saving?"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Exit without saving"
-msgstr ""
 
 #. type=template
 msgctxt "template"
