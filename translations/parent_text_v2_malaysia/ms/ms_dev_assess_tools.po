@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-02-13 16:30\n"
+"PO-Revision-Date: 2026-02-16 01:27\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -342,6 +342,18 @@ msgstr "Berdasarkan tarikh yang anda berikan, @fields.child_nickname berumur kur
 msgctxt "text"
 msgid "According to the date you provided, your child would be under 23 months old. This tool is only for children aged over 23 months. Please enter a valid date."
 msgstr "Berdasarkan tarikh yang anda berikan, anak anda berumur kurang daripada 23 bulan. Alat ini hanya untuk kanak-kanak berumur lebih daripada 23 bulan. Sila masukkan tarikh yang sah."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, @fields.child_nickname would be @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. This tool is only for children aged 2-9. Please enter a valid date."
+msgstr "Berdasarkan tarikh yang anda berikan, @fields.child_nickname berusia @(round_down(datetime_diff(results.date,now(),\"Y\"))) tahun. Penilaian Perkembangan ini hanya untuk anak-anak yang berumur 2 hingga 9 tahun. Sila masukkan tarikh yang sah."
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "According to the date you gave, your child would be @(round_down(datetime_diff(results.date,now(),\"Y\"))) years old. This tool is only for children aged 2-9. Please enter a valid date."
+msgstr "Berdasarkan tarikh yang anda berikan, andak anda berusia @(round_down(datetime_diff(results.date,now(),\"Y\"))) tahun. Penilaian Perkembangan ini hanya untuk anak-anak yang berumur 2 hingga 9 tahun. Sila masukkan tarikh yang sah."
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
