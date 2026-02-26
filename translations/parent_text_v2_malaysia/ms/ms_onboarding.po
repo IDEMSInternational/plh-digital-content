@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-02-13 16:31\n"
+"PO-Revision-Date: 2026-02-26 06:16\n"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -65,10 +65,14 @@ msgid "Sorry, I don't understand what you mean."
 msgstr "Maaf, saya tidak faham apa maksud anda."
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
-msgid "✨ Welcome to @fields.prog_name!"
-msgstr "✨ Selamat datang ke @fields.prog_name!"
+msgid "✨ Welcome to Naungan Kasih! We are glad you are here! 👋 Whether you found Naungan Kasih from a KEMAS teacher, community facilitator, or an ad, you were probably given a special word to send. Can you remember it?"
+msgstr "✨Selamat datang ke Naungan Kasih! Kami sangat gembira anda bersama kami 👋 Anda mungkin telah menerima satu perkataan khas untuk dihantar melalui guru KEMAS, fasilitator komuniti, atau iklan. Masih ingat perkataan itu?"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay! How did you find out about Naungan Kasih?"
+msgstr "Tak apa! Bagaimana anda tahu tentang Naungan Kasih?"
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
@@ -272,6 +276,84 @@ msgstr "Bahasa Inggeris"
 msgctxt "quick_replies"
 msgid "Bahasa Melayu"
 msgstr "Bahasa Melayu"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "FAMILY or KELUARGA"
+msgstr "FAMILY atau KELUARGA"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "KEMAS"
+msgstr "KEMAS"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "MASW"
+msgstr "MASW"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "READY or SEDIA"
+msgstr "READY atau SEDIA"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "SELANGOR"
+msgstr "SELANGOR"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "IBUBAPA"
+msgstr "IBUBAPA"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I don't remember what word I should send."
+msgstr "Saya tidak ingat perkataan yang perlu dihantar."
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "From a KEMAS teacher"
+msgstr "Melalui guru KEMAS"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "From a community or NGO facilitator"
+msgstr "Melalui fasilitator komuniti atau NGO"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "From an advertisement"
+msgstr "Melalui iklan"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "From a friend or family member"
+msgstr "Melalui rakan atau ahli keluarga"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "From a UPM officer"
+msgstr "Melalui pegawai UPM"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "From a Sabahan organisation or community"
+msgstr "Melalui organisasi atau komuniti Sabah"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -558,6 +640,102 @@ msgstr "bahasa Melayu"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "family or keluarga"
+msgstr "family atau keluarga"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "kemas"
+msgstr "kemas"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "masw"
+msgstr "masw"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "ready or sedia"
+msgstr "ready atau sedia"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "selangor"
+msgstr "selangor"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "ibubapa"
+msgstr "ibubapa"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i don't remember what word i should send."
+msgstr "saya tidak ingat perkataan yang perlu dihantar."
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "training"
+msgstr "training"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "demo"
+msgstr "demo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mpms"
+msgstr "mpms"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "from a kemas teacher"
+msgstr "melalui guru kemas"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "from a community or ngo facilitator"
+msgstr "melalui fasilitator komuniti atau ngo"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "from an advertisement"
+msgstr "melalui iklan"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "from a friend or family member"
+msgstr "melalui rakan atau ahli keluarga"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "from a upm officer"
+msgstr "melalui pegawai upm"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "from a sabahan organisation or community"
+msgstr "melalui organisasi atau komuniti sabah"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "yes"
 msgstr "ya"
 
@@ -722,12 +900,6 @@ msgstr "sabah"
 msgctxt "arguments"
 msgid "sarawak"
 msgstr "sarawak"
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "selangor"
-msgstr "selangor"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
