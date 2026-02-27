@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2026-02-26 13:39\n"
+"PO-Revision-Date: 2026-02-27 09:19\n"
 
 #. type=data_list
 #. The string @data.characters.f1_son_5.name. should not be translated.
@@ -5321,6 +5321,11 @@ msgstr "📸 Yeka ukuthatha imifanekiso yakho emininzi!"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "You could say: “You take great photos! Please take one more selfie, then put your phone away.”"
+msgstr "Unokuthi: \"Uthatha iifoto ezintle! Ndicela uthathe i-selfie enye, emva koko ubeke ifowuni kude.\""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Can you give your teen positive instructions this week?"
 msgstr "Ungamnika umntwana wakho ofikisayo umyalelo olungileyo kule veki?"
 
@@ -9364,6 +9369,31 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"**Find a chair and pretend it is the attacker. Practise saying/doing these responses:**\n"
+"\n"
+"- 🔈 Yell: \"No!\" \n"
+"- 🆘 Call for help: \"Someone help me!\" \n"
+"- ⚠️ Warn of consequences: \"I will call the police if you touch me again.\"\n"
+"- ⛔ Name the behaviour: \"Do not touch my bum.” or “Do not yell at me.”\n"
+"- 😳 Act crazy: Make a crazy scream or act like a gorilla!\n"
+"- 🚶🏾‍♀️ Pretend to go along to buy time: “I will do anything you want, just please don’t hurt me.”\n"
+"- 🤡 Use humour: “No lift for me, thanks. Last time I got a lift I threw up EVERYWHERE!”\n"
+"- 📱 Give something to get what you want: “I will give you my phone if you let me go.”"
+msgstr ""
+"Khangela isitulo wenze ingathi ngumhlaseli. Lungiselela/usenza ezimpendulo:\n"
+"\n"
+"- 🔈 Khwaza: \"Hayi!\"\n"
+"- 🆘 Khwaza uncedo: \"Ndicela uncedo\"\n"
+"- ⚠️ Izilumnkiso zezi phumo: \"Ndizakubiza amapolisa ukuba ukhe wandibamba.\"\n"
+"- ⛔ Chaza indlela yokuziphatha: \"Sukundiphatha ezimpundwini.\" okanye \"sukundi khwaza.\"\n"
+"- 😳 Ziphambanise: Yenza isikhalokazi okanye uzenze igorila!\n"
+"- 🚶🏾‍♀️ Yenza ingathi ukulento ukwenzela uzinike ixesha: \"Ndizakwenza yonke into oyifunayo, ndiyakucela ongandonzakalisi.\"\n"
+"- 🤡 Sebenzisa ubuntu: \"Sukundi khwelisa, enkosi. Ukugqibela kwam uku khweliswa ndagabha NDAWOYONKE!\"\n"
+"- 📱 Ndinike into ukuze nawe ufumane lento uyifunayo: Ndizakunika ifoni yami ukuba uyandiyeka ndihambe.\"."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "When our voice does not stop the situation, we can use our bodies to defend ourselves."
 msgstr "Xa amazwi ethu engenokwazi uku nqanda imeko, singasebenzisa imizimba yethu ukuzikhusela."
 
@@ -12291,6 +12321,15 @@ msgstr "⚠️Umxholo obuthathaka"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"This module includes content that may be sensitive. You can check it out by yourself first. This will prepare you well for sharing the content with your teen and others afterwards.\n"
+"If you need support, see the “Support Contacts” section in your Library for help."
+msgstr ""
+"Esi sifundo siquka umxholo ongabanobuthathaka. Ungazikhangelela ngokunokwakho kuqala. Lento ingakulungiselela kakuhle ukwabelana nomxholo nomntwana wakho ofikisayo kunye nabanye emva koko.\n"
+"Ukuba udinga inkxaso, jonga kwicandelo \"Abanxulumanisi Benkxaso\" kwithala leencwadi ukuze uncedakale."
+
+#. type=data_list
+msgctxt "data_list"
 msgid "TALK AND LISTEN"
 msgstr "THETHA KWAYE UMAMELE"
 
@@ -12837,8 +12876,28 @@ msgstr "izifundo"
 
 #. type=global
 msgctxt "global"
+msgid "Lesson"
+msgstr "Isifundo"
+
+#. type=global
+msgctxt "global"
 msgid "Review"
 msgstr "Uphononongo"
+
+#. type=global
+msgctxt "global"
+msgid "Enter research ID here"
+msgstr "Faka ID yophando apha"
+
+#. type=global
+msgctxt "global"
+msgid "Enter your research ID"
+msgstr "Faka ID yakho yophando"
+
+#. type=global
+msgctxt "global"
+msgid "Incorrect Research ID. Try again."
+msgstr "ID yophando engachanekanga. Zama kwakhona."
 
 #. type=global
 msgctxt "global"
@@ -13395,6 +13454,11 @@ msgstr "Ikhutshelwe!"
 msgctxt "template"
 msgid "Last sync at: @local.sync_latest"
 msgstr "Ungqamaniso lokugqibela e: @local.sync_latest"
+
+#. type=template
+msgctxt "template"
+msgid "This device has never been synced."
+msgstr "Esi sixhobo asizange sidityaniswe."
 
 #. type=template
 msgctxt "template"
