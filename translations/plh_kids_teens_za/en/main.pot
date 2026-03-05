@@ -11864,6 +11864,60 @@ msgid "Continue"
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @local.started_module_id_map
+#.      @local.started_module_id_map.length
+#.      @calc(@local.started_module_id_map[@local.started_module_id_map.length - 1])
+msgctxt "template"
+msgid "@calc(@local.started_module_id_map[@local.started_module_id_map.length - 1])"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.started_module_title_map
+#.      @local.started_module_title_map.length
+#.      @calc(@local.started_module_title_map[@local.started_module_title_map.length - 1])
+msgctxt "template"
+msgid "@calc(@local.started_module_title_map[@local.started_module_title_map.length - 1])"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.started_course_id_map
+#.      @local.started_course_id_map.length
+#.      @calc(@local.started_course_id_map[@local.started_course_id_map.length - 1])
+msgctxt "template"
+msgid "@calc(@local.started_course_id_map[@local.started_course_id_map.length - 1])"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.started_date_map
+#.      @local.started_date_map.length
+#.      @calc(@local.started_date_map[@local.started_date_map.length - 1])
+msgctxt "template"
+msgid "@calc(@local.started_date_map[@local.started_date_map.length - 1])"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.course_started_course_id_map
+#.      @local.course_started_course_id_map.length
+#.      @calc(@local.course_started_course_id_map[@local.course_started_course_id_map.length - 1])
+msgctxt "template"
+msgid "@calc(@local.course_started_course_id_map[@local.course_started_course_id_map.length - 1])"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.course_finished_date_map
+#.      @local.course_finished_date_map.length
+#.      @calc(@local.course_finished_date_map[@local.course_finished_date_map.length - 1])
+msgctxt "template"
+msgid "@calc(@local.course_finished_date_map[@local.course_finished_date_map.length - 1])"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Change countdown days"
 msgstr ""
