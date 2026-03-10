@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-03-09 15:04\n"
+"PO-Revision-Date: 2026-03-10 03:23\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11036,8 +11036,34 @@ msgstr "Pilih peranan"
 
 #. type=global
 msgctxt "global"
+msgid "How did you hear about this app?"
+msgstr "Bagaimana anda mengetahui tentang aplikasi ini?"
+
+#. type=global
+msgctxt "global"
+msgid "Select one"
+msgstr "Pilih satu"
+
+#. type=global
+msgctxt "global"
+msgid ""
+"**Are you joining a parenting group?**\n"
+"\n"
+"If your facilitator gave you a Group ID, enter it below to connect to your group."
+msgstr ""
+"**Adakah anda menyertai kumpulan keibubapaan?**\n"
+"\n"
+"Jika fasilitator anda memberikan ID Kumpulan, masukkannya di bawah untuk menyambung ke kumpulan anda."
+
+#. type=global
+msgctxt "global"
 msgid "What is your facilitator's Group ID?"
 msgstr "Apakah ID Kumpulan fasilitator anda?"
+
+#. type=global
+msgctxt "global"
+msgid "Enter your 4 digit Group ID"
+msgstr "Sila masukkan ID Kumpulan 4 digit anda"
 
 #. type=global
 msgctxt "global"
@@ -11057,6 +11083,18 @@ msgstr ""
 "**Helo! Saya @fields.facilitator_name. Terima kasih kerana berada di sini.**\n"
 "\n"
 "Saya akan menemani anda belajar melalui @global.app_name. Sebentar lagi, saya akan tanya beberapa soalan supaya pembelajaran anda dapat disesuaikan mengikut keperluan anda!"
+
+#. type=global
+#. The string @fields.user_name.** should not be translated.
+msgctxt "global"
+msgid ""
+"**Thank you @fields.user_name.**\n"
+" \n"
+"Can you tell us a bit about your family? This helps us share the right tips for you."
+msgstr ""
+"**Terima kasih @fields.user_name.**\n"
+"\n"
+"Boleh ceritakan sedikit tentang keluarga anda? Maklumat yang diberikan akan membantu kami berkongsi tip yang sesuai untuk anda."
 
 #. type=global
 msgctxt "global"
@@ -11125,6 +11163,30 @@ msgid "Select location"
 msgstr "Pilih lokasi"
 
 #. type=global
+#. The string @fields.user_name.** should not be translated.
+msgctxt "global"
+msgid ""
+"**Thanks @fields.user_name.**\n"
+"\n"
+"Can you tell me more about your child?"
+msgstr ""
+"**Terima kasih @fields.user_name.**\n"
+"\n"
+"Boleh kongsikan lebih lanjut tentang anak anda?"
+
+#. type=global
+#. The string @fields.user_name.** should not be translated.
+msgctxt "global"
+msgid ""
+"**Thanks @fields.user_name.**\n"
+"\n"
+"To get started, let's focus on the child you have the most challenges with so I can give you the right guidance for their age."
+msgstr ""
+"**Terima kasih @fields.user_name.**\n"
+"\n"
+"Jom kita beri tumpuan kepada anak yang anda rasa paling mencabar sebagai permulaan program ini, supaya saya boleh berikan panduan yang sesuai mengikut umur mereka."
+
+#. type=global
 msgctxt "global"
 msgid "What is your child's name?"
 msgstr "Siapakah nama anak anda?"
@@ -11143,6 +11205,11 @@ msgstr "Adakah anak anda seorang perempuan atau lelaki?"
 msgctxt "global"
 msgid "Select gender"
 msgstr "Pilih jantina"
+
+#. type=global
+msgctxt "global"
+msgid "How old is your child?"
+msgstr "Berapakah umur anak anda?"
 
 #. type=global
 msgctxt "global"
@@ -11205,6 +11272,42 @@ msgstr "Kod ini adalah betul."
 msgctxt "template"
 msgid "Enter developer mode"
 msgstr "Memasuki mod pembangun"
+
+#. type=template
+#. The string @local.course should not be translated.
+msgctxt "template"
+msgid "course: @local.course"
+msgstr "kursus: @local.course"
+
+#. type=template
+#. The string @local.course_title should not be translated.
+msgctxt "template"
+msgid "course_title: @local.course_title"
+msgstr "tajuk_kursus: @local.course_title"
+
+#. type=template
+#. The string @local.show_completed should not be translated.
+msgctxt "template"
+msgid "show_completed: @local.show_completed"
+msgstr "papar_siap: @local.show_completed"
+
+#. type=template
+#. The string @local.show_group should not be translated.
+msgctxt "template"
+msgid "show_group: @local.show_group"
+msgstr "papar_kumpulan: @local.show_group"
+
+#. type=template
+#. The string @local.last_completed should not be translated.
+msgctxt "template"
+msgid "last_completed: @local.last_completed"
+msgstr "terakhir_selesai: @local.last_completed"
+
+#. type=template
+#. The string @local.next_to_complete should not be translated.
+msgctxt "template"
+msgid "next_to_complete: @local.next_to_complete"
+msgstr "seterusnya_untuk_diselesaikan: @local.next_to_complete"
 
 #. type=template
 #. The string @global.app_name should not be translated.
@@ -11271,6 +11374,11 @@ msgstr "Teruskan"
 
 #. type=template
 msgctxt "template"
+msgid "ALL COMPLETE"
+msgstr "SEMUA SELESAI"
+
+#. type=template
+msgctxt "template"
 msgid "Change countdown days"
 msgstr "Tukar bilangan hari"
 
@@ -11313,4 +11421,34 @@ msgstr "Mod pembangun"
 msgctxt "template"
 msgid "Exit developer mode"
 msgstr "Keluar dari mod pembangun"
+
+#. type=template
+msgctxt "template"
+msgid "Core Course"
+msgstr "Kursus Utama"
+
+#. type=template
+msgctxt "template"
+msgid "complete this course and unlock all your courses"
+msgstr "lengkapkan kursus ini untuk membuka semua kursus anda"
+
+#. type=template
+msgctxt "template"
+msgid "Upcoming Courses"
+msgstr "Kursus Akan Datang"
+
+#. type=template
+msgctxt "template"
+msgid "These courses will be available after the core courses are completed"
+msgstr "Kursus ini akan tersedia selepas kursus utama dilengkapkan"
+
+#. type=template
+msgctxt "template"
+msgid "Explore Courses"
+msgstr "Terokai Kursus"
+
+#. type=template
+msgctxt "template"
+msgid "Completed Courses"
+msgstr "Kursus Selesai"
 
