@@ -3595,9 +3595,8 @@ msgid "@data.characters.f1_son_5.name looks upset. Let’s see how his father, @
 msgstr ""
 
 #. type=data_list
-#. The string @data.characters.f1_son_5.name: should not be translated.
 msgctxt "data_list"
-msgid "@data.characters.f1_son_5.name: I don't want to play with Aiman today."
+msgid "I don't want to play with Aiman today."
 msgstr ""
 
 #. type=data_list
@@ -5878,6 +5877,20 @@ msgid "Wonderful, I am so happy things are going well."
 msgstr ""
 
 #. type=data_list
+#. The string @global.app_name! should not be translated.
+msgctxt "data_list"
+msgid ""
+"Welcome to your first lesson with @global.app_name! 💛\n"
+"\n"
+"Each lesson will start with a short relaxing activity to help you feel calm. 🌿\n"
+"Then you’ll do a quick check-in and learn simple tips through examples.\n"
+"\n"
+"We will end with a home practice so you can try this with your child. ⭐\n"
+"\n"
+"Small steps each day can make a big difference.”"
+msgstr ""
+
+#. type=data_list
 msgctxt "data_list"
 msgid "Today’s skill is about spending one-on-one time with your child 😃"
 msgstr ""
@@ -6016,11 +6029,6 @@ msgid ""
 "👀 Look at your child. Nod or say “I see” to show you are really paying attention. \n"
 "💛 Accept your child and avoid judgement.\n"
 "💡 Respond to your child when they communicate with you. your child may use gestures, full sentences, movements, and sounds to communicate with you. It shows you are really paying attention to them."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "At the end of each skill, I will have a home activity for you that you can try in your own time."
 msgstr ""
 
 #. type=data_list
@@ -7041,7 +7049,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "We all have good and hard days. Remember, you are the best parent for your teen and you deserve praise!"
+msgid "We all have good and hard days. Remember, you are the best parent for your child and you deserve praise!"
 msgstr ""
 
 #. type=data_list
@@ -7610,8 +7618,6 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"2️⃣ BE QUICK\n"
-"\n"
 "⏰ Ask your child to do something else, distract them, before the behaviour begins or gets worse.\n"
 "💡 This is much easier than using consequences after they do something!"
 msgstr ""
@@ -8606,7 +8612,7 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid ""
-"⏸ On our first day together, you learned to close your eyes, breathe deep, and take a pause. \n"
+"⏸ You’ve been practising taking a pause at the start of each skill.  You know how to breathe deeply, and give yourself a moment.\n"
 "😃 Taking a pause before responding can help us stay calm and respond better. \n"
 "🌷When you feel yourself getting angry or overwhelmed, try taking a pause like how you’ve learned!"
 msgstr ""
@@ -9092,6 +9098,11 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
+msgid "Facilitator"
+msgstr ""
+
+#. type=global
+msgctxt "global"
 msgid "Language"
 msgstr ""
 
@@ -9209,6 +9220,16 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "You have completed all your parenting skills. Well done!"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Back to Courses"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Restart Lesson"
 msgstr ""
 
 #. type=global
@@ -9611,6 +9632,38 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "courses"
+msgstr ""
+
+#. type=template
+#. The string @local.module_row.tag_course should not be translated.
+msgctxt "template"
+msgid "tag: @local.module_row.tag_course"
+msgstr ""
+
+#. type=template
+#. The string @local.no_completed should not be translated.
+msgctxt "template"
+msgid "comp: @local.no_completed"
+msgstr ""
+
+#. type=template
+#. The string @local.total should not be translated.
+msgctxt "template"
+msgid "total: @local.total"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.no_completed
+#.      @local.total
+#.      @local.course_name
+msgctxt "template"
+msgid "You have completed @local.no_completed out of @local.total lessons in @local.course_name"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Submit"
 msgstr ""
 
@@ -9666,6 +9719,16 @@ msgid "Try also"
 msgstr ""
 
 #. type=template
+msgctxt "template"
+msgid "no success"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "success"
+msgstr ""
+
+#. type=template
 #. The following strings should not be translated: 
 #.      @local.faci_group_id_input
 #.      @local.faci_group_id_input
@@ -9673,6 +9736,11 @@ msgstr ""
 #.      @calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)
 msgctxt "template"
 msgid "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "var(--plh-module-list-item-background-1)"
 msgstr ""
 
 #. type=template
