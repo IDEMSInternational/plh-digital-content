@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-03-31 12:04\n"
+"PO-Revision-Date: 2026-03-31 15:22\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1479,8 +1479,7 @@ msgstr ""
 "\n"
 "Persatuan Pergerakan Wanita/ All Women's Action Society (menyediakan perkhidmatan untuk isu keganasan berasaskan gender, rogol, keganasan rumah tangga dan gangguan seksual). Talian Bantuan Telenita: 0162374221/016-2284221\n"
 "\n"
-"Childline Malaysia (perkhidmatan untuk penderaan kanak‑kanak, keganasan rumah tangga, dan talian bantuan kanak‑kanak).\n"
-"Talian Kasih: 15999"
+"Childline Malaysia (perkhidmatan untuk penderaan kanak‑kanak, keganasan rumah tangga, dan talian bantuan kanak‑kanak). Talian Kasih: 15999"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1542,6 +1541,11 @@ msgstr "Imbas Kembali"
 msgctxt "data_list"
 msgid "Take a Pause"
 msgstr "Berikan semua perhatian anda terhadap anak anda. "
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Parents of Young Children"
+msgstr "Ibu Bapa Kanak-Kanak"
 
 #. type=data_list
 msgctxt "data_list"
@@ -8542,7 +8546,7 @@ msgstr ""
 "\n"
 "Kita akan akhiri pelajaran kita dengan latihan di rumah supaya anda boleh mencubanya bersama anak anda. ⭐\n"
 "\n"
-"Langkah kecil setiap hari boleh membawa perubahan besar."
+"Langkah kecil setiap hari boleh membawa perubahan besar dan bermakna."
 
 #. type=data_list
 msgctxt "data_list"
@@ -10572,6 +10576,15 @@ msgstr "PANTAS"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"⏰ Ask your child to do something else, distract them, before the behaviour begins or gets worse.\n"
+"💡 This is much easier than using consequences after they do something!"
+msgstr ""
+"⏰ Minta anak anda buat perkara lain, alihkan perhatiannya, sebelum kelakuan negatif bermula atau menjadi lebih teruk.\n"
+"💡 Ini jauh lebih mudah daripada menggunakan akibat untuk membuat anak anda fahami pengajaran setelah dia melakukan sesuatu yang negatif!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "BE CLEAR"
 msgstr "JELAS"
 
@@ -11712,6 +11725,17 @@ msgstr "BERHENTI SEKETIKA"
 
 #. type=data_list
 msgctxt "data_list"
+msgid ""
+"⏸ You’ve been practising taking a pause at the start of each skill.  You know how to breathe deeply, and give yourself a moment.\n"
+"😃 Taking a pause before responding can help us stay calm and respond better. \n"
+"🌷When you feel yourself getting angry or overwhelmed, try taking a pause like how you’ve learned!"
+msgstr ""
+"⏸ Anda telah berlatih untuk berhenti seketika pada permulaan setiap kemahiran. Kini anda tahu cara bernafas dengan dalam dan berhenti seketika.\n"
+"😃 Berhenti seketika sebelum bertindak balas boleh membantu kita kekal tenang dan mengambil tindakan yang lebih bernas.\n"
+"🌷 Bila rasa marah atau tertekan, cuba ambil masa untuk berhenti seketika macam yang kita dah pelajari sebelum ini!"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "WALK AWAY IF NECESSARY"
 msgstr "PERGI JIKA PERLU"
 
@@ -12203,6 +12227,11 @@ msgstr "Kongsi"
 
 #. type=global
 msgctxt "global"
+msgid "Download"
+msgstr "Muat turun"
+
+#. type=global
+msgctxt "global"
 msgid "Facilitator"
 msgstr "Fasilitator"
 
@@ -12246,6 +12275,21 @@ msgstr "Klik dan taip"
 msgctxt "global"
 msgid "Nice work! Complete the open lessons to unlock more."
 msgstr "Syabas! Selesaikan pelajaran yang belum selesai untuk membuka lebih banyak pilihan pelajaran yang lain."
+
+#. type=global
+msgctxt "global"
+msgid "Change name"
+msgstr "Tukar nama"
+
+#. type=global
+msgctxt "global"
+msgid "What name should be on your certificate?"
+msgstr "Apakah nama pilihan anda untuk dipaparkan pada sijil anda?"
+
+#. type=global
+msgctxt "global"
+msgid "My Certificates"
+msgstr "Sijil Saya"
 
 #. type=global
 msgctxt "global"
@@ -12326,6 +12370,16 @@ msgstr "Hore, Tahniah"
 msgctxt "global"
 msgid "You have completed all your parenting skills. Well done!"
 msgstr "Syabas! Anda telah menyelesaikan kesemua kemahiran keibubapaan anda. "
+
+#. type=global
+msgctxt "global"
+msgid "Back to Courses"
+msgstr "Kembali ke Kursus"
+
+#. type=global
+msgctxt "global"
+msgid "Restart Lesson"
+msgstr "Mulakan Semula Pelajaran"
 
 #. type=global
 msgctxt "global"
@@ -12754,6 +12808,15 @@ msgid "Restart"
 msgstr "Mula semula"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @local.no_completed
+#.      @local.total
+#.      @local.course_name
+msgctxt "template"
+msgid "You have completed @local.no_completed out of @local.total lessons in @local.course_name"
+msgstr "Anda telah melengkapkan @local.no_completed daripada @local.total kemahiran dalam @local.course_name"
+
+#. type=template
 msgctxt "template"
 msgid "Submit"
 msgstr "Hantar"
@@ -12818,6 +12881,36 @@ msgstr "Sila cuba juga"
 msgctxt "template"
 msgid "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)"
 msgstr "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)"
+
+#. type=template
+msgctxt "template"
+msgid "no success"
+msgstr "tidak berjaya"
+
+#. type=template
+msgctxt "template"
+msgid "success"
+msgstr "berjaya"
+
+#. type=template
+msgctxt "template"
+msgid "Feedback Form"
+msgstr "Borang Maklum Balas"
+
+#. type=template
+msgctxt "template"
+msgid "Your Feedback"
+msgstr "Maklum Balas Anda"
+
+#. type=template
+msgctxt "template"
+msgid "Tell us what's on your mind..."
+msgstr "Kongsikan apa yang sedang anda fikirkan..."
+
+#. type=template
+msgctxt "template"
+msgid "Where?"
+msgstr "Di mana?"
 
 #. type=template
 msgctxt "template"
