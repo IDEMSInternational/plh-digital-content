@@ -7012,15 +7012,14 @@ msgstr ""
 #. The string @global.app_name! should not be translated.
 msgctxt "data_list"
 msgid ""
-"Congratulations, you have completed the first relax and check-in!\n"
+"Welcome to your first lesson with @global.app_name! 💛\n"
 "\n"
-"Each lesson will start with a short relaxing activity to help you feel calm. 🌿 Then you’ll do a quick check-in and learn simple tips through examples.\n"
+"Each lesson will start with a short relaxing activity to help you feel calm. 🌿\n"
+"Then you’ll do a quick check-in and learn simple tips through examples.\n"
 "\n"
 "We will end with a home practice so you can try this with your child. ⭐\n"
 "\n"
-"When you complete all skills in a course, you’ll receive a certificate to celebrate how far you’ve come. 🎉\n"
-"\n"
-"Small steps each day can make a big difference. Enjoy your parenting journey with @global.app_name!"
+"Small steps each day can make a big difference.”"
 msgstr ""
 
 #. type=data_list
@@ -10698,11 +10697,6 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "certificate"
-msgstr ""
-
-#. type=template
-msgctxt "template"
 msgid "Templates"
 msgstr ""
 
@@ -10856,6 +10850,16 @@ msgstr ""
 #.      @calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)
 msgctxt "template"
 msgid "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "no success"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "success"
 msgstr ""
 
 #. type=template
