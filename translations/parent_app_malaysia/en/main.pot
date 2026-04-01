@@ -1559,6 +1559,20 @@ msgid ""
 msgstr ""
 
 #. type=data_list
+msgctxt "data_list"
+msgid ""
+"✅ Correct! \n"
+"\n"
+"✨ Each child is unique and will develop at their own pace. Some children may develop in some ways faster than others, while some may take more time.\n"
+"\n"
+"💚 It is important that parents are patient and supportive, recognising that every child has their own individual path of development. \n"
+"\n"
+"❗Remember that issues with your child’s development are not always obvious, and your child’s condition is NOT your fault.\n"
+"\n"
+"🚩 If you have concerns about your child's development, you should consult with a professional to get support and advice."
+msgstr ""
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @data.characters.f1_daughter_2.name
 #.      @data.characters.f1_father.name
@@ -7012,14 +7026,15 @@ msgstr ""
 #. The string @global.app_name! should not be translated.
 msgctxt "data_list"
 msgid ""
-"Welcome to your first lesson with @global.app_name! 💛\n"
+"Congratulations, you have completed the first relax and check-in!\n"
 "\n"
-"Each lesson will start with a short relaxing activity to help you feel calm. 🌿\n"
-"Then you’ll do a quick check-in and learn simple tips through examples.\n"
+"Each lesson will start with a short relaxing activity to help you feel calm. 🌿 Then you’ll do a quick check-in and learn simple tips through examples.\n"
 "\n"
 "We will end with a home practice so you can try this with your child. ⭐\n"
 "\n"
-"Small steps each day can make a big difference.”"
+"When you complete all skills in a course, you’ll receive a certificate to celebrate how far you’ve come. 🎉\n"
+"\n"
+"Small steps each day can make a big difference. Enjoy your parenting journey with @global.app_name!"
 msgstr ""
 
 #. type=data_list
@@ -10285,6 +10300,12 @@ msgid "My Certificates"
 msgstr ""
 
 #. type=global
+#. The string @global.max_n_cert_reprints should not be translated.
+msgctxt "global"
+msgid "Sorry, but you can only update the name on your certificate for this course @global.max_n_cert_reprints times."
+msgstr ""
+
+#. type=global
 msgctxt "global"
 msgid "Naungan Kasih"
 msgstr ""
@@ -10697,6 +10718,11 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "certificate"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Templates"
 msgstr ""
 
@@ -10733,6 +10759,16 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Exit developer mode"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.n_reprints
+#.      @local.n_reprints_increased
+msgctxt "template"
+msgid ""
+"reprints: @local.n_reprints\n"
+"reprints incr: @local.n_reprints_increased"
 msgstr ""
 
 #. type=template
@@ -10819,6 +10855,26 @@ msgstr ""
 
 #. type=template
 msgctxt "template"
+msgid "spa"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "grid"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Generate Certificate"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "set reprints"
+msgstr ""
+
+#. type=template
+msgctxt "template"
 msgid "Continue"
 msgstr ""
 
@@ -10850,16 +10906,6 @@ msgstr ""
 #.      @calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)
 msgctxt "template"
 msgid "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "no success"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "success"
 msgstr ""
 
 #. type=template
