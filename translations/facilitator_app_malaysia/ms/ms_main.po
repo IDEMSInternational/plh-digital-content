@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-04-08 20:33\n"
+"PO-Revision-Date: 2026-04-09 02:38\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -961,6 +961,25 @@ msgstr ""
 "- Klik penerangan sedia ada, atau klik Tambah Penerangan Kumpulan.\n"
 "- Tampal peraturan asas.\n"
 "- Klik Simpan."
+
+#. type=data_list
+msgctxt "data_list"
+msgid ""
+"That’s right! You can make a big difference by being involved in your child’s development. \n"
+"\n"
+"In Naungan Kasih, you will find tips on how to support your child’s development and growth in the course, “How Children Grow”\n"
+"\n"
+"If you've already given this course a try, that's fantastic! If not, consider choosing this as your next course. \n"
+"\n"
+"Thank you for sharing, and working as hard as you do as parents. See you in the next chat session on [ENTER DATE]! 🏆"
+msgstr ""
+"Betul! Anda boleh melakukan perubahan yang besar dengan melibatkan diri dalam perkembangan anak anda.\n"
+"\n"
+"Anda akan menemui tip-tip tentang cara untuk menyokong perkembangan dan pertumbuhan anak anda dalam kursus \"Cara Anak Membesar\" dalam Naungan Kasih.\n"
+"\n"
+"Jika anda sudah mencuba kursus ini, bagus! Jika belum, pertimbangkan untuk memilih kursus ini sebagai kursus seterusnya. \n"
+"\n"
+"Terima kasih kerana berkongsi dan berusaha keras sebagai ibu bapa. Jumpa lagi dalam sesi sembang seterusnya pada [MASUKKAN TARIKH]! 🏆"
 
 #. type=data_list
 msgctxt "data_list"
@@ -3918,6 +3937,21 @@ msgstr "Sila kongsi mesej anda dengan kumpulan ibu bapa sebelum menandakan modul
 
 #. type=global
 msgctxt "global"
+msgid "Your caregiver group is created"
+msgstr "Kumpulan penjaga anda berjaya dicipta"
+
+#. type=global
+msgctxt "global"
+msgid "Your caregiver group is edited"
+msgstr "Kumpulan penjaga anda berjaya dikemas kini"
+
+#. type=global
+msgctxt "global"
+msgid "No parents added yet. You need to add parents to your group before you can submit this report."
+msgstr "Tiada ibu bapa ditambah. Sila tambah ibu bapa sebelum menghantar laporan."
+
+#. type=global
+msgctxt "global"
 msgid "Your name"
 msgstr "Nama anda"
 
@@ -4029,8 +4063,23 @@ msgstr "Maklum balas"
 
 #. type=global
 msgctxt "global"
+msgid "Are you delivering the programme?"
+msgstr "Adakah anda sedang melaksanakan program ini?"
+
+#. type=global
+msgctxt "global"
 msgid "Yes"
 msgstr "Ya"
+
+#. type=global
+msgctxt "global"
+msgid "No, I am testing the app, practicing or in training"
+msgstr "Tidak, saya sedang menguji aplikasi, berlatih, atau dalam sesi latihan"
+
+#. type=global
+msgctxt "global"
+msgid "Changes saved"
+msgstr "Perubahan disimpan"
 
 #. type=global
 msgctxt "global"
@@ -4192,6 +4241,44 @@ msgid "Library"
 msgstr "Sumber"
 
 #. type=template
+#. The string @local.at_least_one_parent should not be translated.
+msgctxt "template"
+msgid "at least one parent = @local.at_least_one_parent"
+msgstr "sekurang-kurangnya seorang ibu bapa = @local.at_least_one_parent"
+
+#. type=template
+#. The string @local.number_of_attendance should not be translated.
+msgctxt "template"
+msgid "number of attendance = @local.number_of_attendance"
+msgstr "bilangan kehadiran = @local.number_of_attendance"
+
+#. type=template
+#. The string @local.check_box should not be translated.
+msgctxt "template"
+msgid "checkbox = @local.check_box"
+msgstr "kotak pilihan = @local.check_box"
+
+#. type=template
+#. The string @field.count_attendance should not be translated.
+msgctxt "template"
+msgid "field count attendance = @field.count_attendance"
+msgstr "jumlah kehadiran = @field.count_attendance"
+
+#. type=template
+#. The string @local.checked_count should not be translated.
+msgctxt "template"
+msgid "checked_count = @local.checked_count"
+msgstr "kiraan_ditanda = @local.checked_count"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.check_map.filter
+#.      @calc((@local.check_map.filter(x => TRUE))
+msgctxt "template"
+msgid "checking count = @calc((@local.check_map.filter(x => TRUE))"
+msgstr "semakan = @calc((@local.check_map.filter(x => TRUE))"
+
+#. type=template
 msgctxt "template"
 msgid "Parent profile"
 msgstr "Profil ibu bapa"
@@ -4287,6 +4374,24 @@ msgstr "Keibubapaan bersama dengan"
 msgctxt "template"
 msgid "Edit Parent Group"
 msgstr "Kemaskini Kumpulan Ibu Bapa"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      !@local.delivering
+#.      @local.delivering
+#.      @calc(!!@local.delivering || @local.delivering == false)
+msgctxt "template"
+msgid "@calc(!!@local.delivering || @local.delivering == false)"
+msgstr "@calc(!!@local.delivering || @local.delivering == salah)"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      !@local.name_valid
+#.      !@local.delivering_valid
+#.      @calc(!!@local.name_valid && !!@local.delivering_valid)
+msgctxt "template"
+msgid "@calc(!!@local.name_valid && !!@local.delivering_valid)"
+msgstr "@calc(!!@local.name_valid && !!@local.delivering_valid)"
 
 #. type=template
 #. The string @global.app_name should not be translated.
@@ -4507,9 +4612,26 @@ msgid "Group ID"
 msgstr "ID Kumpulan"
 
 #. type=template
+#. The string @local.report_type should not be translated.
+msgctxt "template"
+msgid "report type = @local.report_type"
+msgstr "jenis laporan = @local.report_type"
+
+#. type=template
 msgctxt "template"
 msgid "Which of the parents in this group attended your in-person session?"
 msgstr "Siapakah dalam kalangan ibu bapa dalam kumpulan ini yang telah menghadiri sesi bersemuka anda?"
+
+#. type=template
+msgctxt "template"
+msgid "No parents added yet. You need to add parents to your group before you can submit this report."
+msgstr "Tiada ibu bapa ditambah. Sila tambah ibu bapa sebelum menghantar laporan."
+
+#. type=template
+#. The string @item._last should not be translated.
+msgctxt "template"
+msgid "last = @item._last"
+msgstr "akhir = @item._last"
 
 #. type=template
 msgctxt "template"
@@ -4530,6 +4652,11 @@ msgstr "Berapa minit yang anda ambil untuk menyampaikan sesi ini?"
 msgctxt "template"
 msgid "Please check all the activities you completed during this session:"
 msgstr "Sila pilih semua aktiviti yang anda selesaikan semasa sesi ini:"
+
+#. type=template
+msgctxt "template"
+msgid "Date of session"
+msgstr "Tarikh sesi"
 
 #. type=template
 #. The following strings should not be translated: 
@@ -4671,9 +4798,35 @@ msgid "Your Feedback"
 msgstr "Maklum Balas Anda"
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @global.parent_app_name
+#.      @global.app_name
+msgctxt "template"
+msgid ""
+"name: parent | text: @global.parent_app_name;  \n"
+"name: facilitator | text: @global.app_name;"
+msgstr ""
+"nama: ibu bapa | teks: @global.parent_app_name;\n"
+"nama: fasilitator | teks: @global.app_name;"
+
+#. type=template
+msgctxt "template"
+msgid "Which app?"
+msgstr "Aplikasi yang mana?"
+
+#. type=template
 msgctxt "template"
 msgid "Where?"
 msgstr "Di mana?"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.text_feedback_valid
+#.      @local.which_app_valid
+#.      @local.where_valid
+msgctxt "template"
+msgid "@local.text_feedback_valid && @local.which_app_valid && @local.where_valid"
+msgstr "@local.text_feedback_valid && @local.which_app_valid && @local.where_valid"
 
 #. type=template
 msgctxt "template"
@@ -4697,13 +4850,48 @@ msgstr "Teruskan"
 
 #. type=template
 msgctxt "template"
+msgid "Test"
+msgstr "Uji"
+
+#. type=template
+msgctxt "template"
 msgid "Create New Group"
 msgstr "Buat Kumpulan Baharu"
+
+#. type=template
+#. The string @fields.current_module_no should not be translated.
+msgctxt "template"
+msgid "fields.current_module_no = @fields.current_module_no"
+msgstr "fields.current_module_no = @fields.current_module_no"
 
 #. type=template
 msgctxt "template"
 msgid "parents"
 msgstr "ibu bapa"
+
+#. type=template
+#. The string @fields.current_module_no should not be translated.
+msgctxt "template"
+msgid "item.fields.current_module_no = @item.@fields.current_module_no"
+msgstr "item.fields.current_module_no = @item.@fields.current_module_no"
+
+#. type=template
+#. The string @local.step_def should not be translated.
+msgctxt "template"
+msgid "local.step_def = @@local.step_def"
+msgstr "local.step_def = @@local.step_def"
+
+#. type=template
+#. The string @item.week_0_introduction should not be translated.
+msgctxt "template"
+msgid "item.week_0_introduction = @item.week_0_introduction"
+msgstr "item.week_0_introduction = @item.week_0_introduction"
+
+#. type=template
+#. The string @local.count should not be translated.
+msgctxt "template"
+msgid "count = @local.count"
+msgstr "kira = @local.count"
 
 #. type=template
 msgctxt "template"
