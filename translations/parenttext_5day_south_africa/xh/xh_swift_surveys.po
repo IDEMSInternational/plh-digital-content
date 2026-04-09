@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2026-01-15 17:53\n"
+"PO-Revision-Date: 2026-04-09 09:40\n"
 
 #. type=text
 msgctxt "text"
@@ -60,28 +60,8 @@ msgstr "Uxolo, andiqondi ukuba uthini."
 
 #. type=text
 msgctxt "text"
-msgid "🥳 Welcome to our study! If you decide to join, you will be invited to complete 3 surveys. "
-msgstr "🥳 Wamkelekile kuphononongo lwethu! Ukuba uthatha isigqibo sokujoyina, uya kumenywa ukuba ugqibe ukuphendula isaveyi ezintathu. "
-
-#. type=text
-msgctxt "text"
-msgid "🌱 The surveys will ask you questions about your life and your relationship with your child. "
-msgstr "🌱 Uphando luya kukubuza imibuzo malunga nobomi bakho kunye nobudlelwane bakho nomntwana wakho. "
-
-#. type=text
-msgctxt "text"
-msgid "💬  After completing the first survey, you will receive ParentText on WhatsApp from this number."
-msgstr "Emva kokugqiba isaveyi yokuqala, uzakufumana i-ParentText ku-WhatsApp esuka kule nombolo."
-
-#. type=text
-msgctxt "text"
-msgid "✏️ 1 month later, you will be asked to complete a 2nd survey. "
-msgstr "✏️ Emva kwenyanga enye, uzakucelwa ukuba uphendule isaveyi yesibini. "
-
-#. type=text
-msgctxt "text"
-msgid "✏️ 3 months later, you will receive a 3rd survey."
-msgstr "✏️ Emva kwenyanga ezintathu, uzakufumana isaveyi yesithathu."
+msgid "📲 After each survey, the money will be sent to this WhatsApp number as mobile airtime."
+msgstr "📲 Emva kovavanyo ngalunye, imali iya kuthunyelwa kwinombolo yefowuni oyikhethayo njengexesha lomoya eliphathwayo."
 
 #. type=text
 msgctxt "text"
@@ -168,11 +148,6 @@ msgstr "I-airtime yakho ye-R@results.amount izakuthunyelwa kulenombolo ka-WhatsA
 
 #. type=text
 msgctxt "text"
-msgid "🥳 It's time for your 2nd survey. This survey contains about 25 questions. Are you ready to get started? "
-msgstr "Lixesha lophando lwakho lwesibini. Olu phando luquka imibuzo emalunga nama- 25. Ukulungele ukuqala? "
-
-#. type=text
-msgctxt "text"
 msgid "Select one of the options below:"
 msgstr "Khetha olunye lokhetho olungezantsi:"
 
@@ -190,11 +165,6 @@ msgstr "2. Hayi"
 msgctxt "text"
 msgid "That's okay."
 msgstr "Oko kulungile."
-
-#. type=text
-msgctxt "text"
-msgid "🥳 It's time for your last survey. If you complete the survey, you will receive R5 airtime. Do you agree to continue with this survey?"
-msgstr "🥳Lixesha lesaveyi yakho yokugqibela. Ukuba uyayigqiba isaveyi, uzakufumana i-airtime ye R5. Uyavuma ukuqhubekeka nale saveyi?"
 
 #. type=text
 msgctxt "text"
@@ -356,11 +326,6 @@ msgstr "4. Ubone into kumakhasi onxibelelwano (umz. Facebook, WhatsApp)?"
 msgctxt "text"
 msgid "👍🏾 Last one! Which clinic were you at when you found out about ParentText?"
 msgstr "👍🏾 Eyokugqibela! Yeyiphi ikliniki ubukuyo ngethuba ufumanisa nge-ParentText?"
-
-#. type=text
-msgctxt "text"
-msgid "⏲️ This survey should take about 15 minutes to complete. "
-msgstr "⏲️Le saveyi kufuneka ithathe malunga nemizuzu e- 15. "
 
 #. type=text
 msgctxt "text"
@@ -1244,7 +1209,7 @@ msgstr "🥳Uyigqibile isaveyi! Enkosi kakhulu ngenxaxheba yakho. "
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child
 msgctxt "text"
-msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org."
+msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org."
 msgstr "❗❗❗ Ukuba kukho nayiphi na imibuzo kule saveyi ikushiye uxhalabile okanye uchaphazelekile ngokwasemoyeni, qhagamshelana neqela lophando ku WhatsApp ku 0786407885 (imiyalezo kuphela) okanye ku swift@globalparenting.org."
 
 #. type=text
@@ -1256,6 +1221,11 @@ msgstr "📅Sizakulandelela nemibuzo efanayo kwinyanga enye."
 msgctxt "text"
 msgid "🇿🇦 💛 Let's start ParentText!"
 msgstr "🇿🇦 💛 Masiqale i-ParentText!"
+
+#. type=text
+msgctxt "text"
+msgid "⏲️ This survey should take about 15 minutes to complete. "
+msgstr "⏲️Le saveyi kufuneka ithathe malunga nemizuzu e- 15. "
 
 #. type=text
 msgctxt "text"
@@ -1345,12 +1315,6 @@ msgid "🎉🎉 You have completed the survey! Thank you very much for your part
 msgstr "Uyigqibile isaveyi! Enkosi kakhulu ngenxaxheba yakho. "
 
 #. type=text
-#. Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child
-msgctxt "text"
-msgid "❗❗❗ If any questions in this survey have left you concerned or impacted you emotionally, contact the research team on WhatsApp at 0786407885 (messages only) or at swift@globalparenting.org."
-msgstr "❗❗❗ Ukuba kukho nayiphi na imibuzo kule saveyi ikushiye uxhalabile okanye uchaphazelekile ngokwasemoyeni, qhagamshelana neqela lophando ku WhatsApp ku 0786407885 (imiyalezo kuphela) okanye ku swift@globalparenting.org."
-
-#. type=text
 msgctxt "text"
 msgid "📅 We will follow up with similar questions in two months."
 msgstr "📅 Sizakulandelela nemibuzo efanayo kwiinyanga ezimbini."
@@ -1359,16 +1323,6 @@ msgstr "📅 Sizakulandelela nemibuzo efanayo kwiinyanga ezimbini."
 msgctxt "text"
 msgid "🇿🇦 💛 Your valuable input will help us understand the challenges and experiences of parents in South Africa. Thank you for your time!"
 msgstr "🇿🇦 💛 Igalelo lakho elixabisekileyo liya kusinceda siyiqonde ngcono imiceli-mngeni kunye namava abazali eMzantsi Afrika. Enkosi ngexesha lakho!"
-
-#. type=text
-msgctxt "text"
-msgid "📲 We will send airtime to your current WhatsApp number. "
-msgstr "📲 Sizakukuthumelela i-airtime kule nombolo yakho ye-WhatsApp. "
-
-#. type=text
-msgctxt "text"
-msgid "🇿🇦 In order to receive the payment, this number MUST be South African. "
-msgstr "🇿🇦 Ukuze ukwazi ukubhatalwa, lenombolo KUFUNEKA ibe yeyase Mzantsi Afrika. "
 
 #. type=text
 msgctxt "text"
@@ -1439,11 +1393,6 @@ msgstr "🎉🎉 Ugqibile! 🎉🎉"
 msgctxt "text"
 msgid "💙 Thank you very much for completing this final survey and taking the time to help us with this study."
 msgstr "💙 Enkosi kakhulu ngokugqiba le saveyi yokugqibela kwaye uthathe ixesha lokusinceda koluphando."
-
-#. type=text
-msgctxt "text"
-msgid "🥳 You will now receive R5 airtime as a token of thanks."
-msgstr "🥳Uzakufumana i-airtime ye R5 njengombulelo."
 
 #. type=text
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
