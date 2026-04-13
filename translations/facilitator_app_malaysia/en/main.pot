@@ -4,6 +4,86 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Others in the programme are submitting reports 📝. Submit yours now!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most facilitators are done ✅. Submit your report today!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Reports are coming in 💬. Share your report now!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Join other facilitators 🧡. Submit your report to stay on track!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Just one step left 🏁. Submit your report to finish strong!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Final step 💪. Wrap up by sending your report today!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "So close 📋. Send your report and complete your session!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You’re nearly done ✨. Just send in your report!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Others are moving forward 💬. Start your next chat session today!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Most facilitators have begun their next chat ✅. Pick up where you left off!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Facilitators are staying on track 📈. Begin your next session now!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Many facilitators are continuing their chats 💬. Join in and start your next one!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "You’re building strong progress 💬. Continue by starting your next session!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Each session builds on the last ✨. Keep it going—start your next one now!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Great progress so far 💪. You’re getting closer—begin your next session today!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "One step closer to the finish line 🏁. Begin your next chat session today!"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Name Game"
 msgstr ""
 
@@ -2284,10 +2364,10 @@ msgctxt "data_list"
 msgid ""
 "Ensure the parent has finished onboarding onto Naungan Kasih, then ask the parent to:\n"
 "- Open Naungan Kasih.\n"
-"- Go to Settings.\n"
-"- Click on ‘Profile’.\n"
-"- Under ‘Group ID’, enter the Group ID.\n"
-"- Click ‘Save’."
+"- Go to Settings\n"
+"- Click on ‘Facilitator’.\n"
+"- Under ‘Facilitator Group ID’, enter the Group ID.\n"
+"- Click ‘Update’"
 msgstr ""
 
 #. type=data_list
@@ -3510,6 +3590,18 @@ msgid "Test"
 msgstr ""
 
 #. type=template
+#. The string @fields.current_module_no should not be translated.
+msgctxt "template"
+msgid "current module no = @fields.current_module_no"
+msgstr ""
+
+#. type=template
+#. The string @fields.current_group_no should not be translated.
+msgctxt "template"
+msgid "group id (group no) = @fields.current_group_no"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Edit Parent Group"
 msgstr ""
@@ -3632,6 +3724,12 @@ msgid "report type = @local.report_type"
 msgstr ""
 
 #. type=template
+#. The string @local.notification_id should not be translated.
+msgctxt "template"
+msgid "notification_id = @local.notification_id"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Which of the parents in this group attended your in-person session?"
 msgstr ""
@@ -3671,6 +3769,63 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Delete"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Pending Notifications"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.id
+#.      @local.formatted_date
+msgctxt "template"
+msgid ""
+"id: @item.id\n"
+"schedule_at: @local.formatted_date"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Cancel this Notification"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Cancel All Notifications"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Previous Notifications"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "All Notifications"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.id
+#.      @local.formatted_date
+#.      @item.status
+msgctxt "template"
+msgid ""
+"id: @item.id\n"
+"schedule_at: @local.formatted_date\n"
+"status: @item.status"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.action_performed.id
+#.      @item.action_performed.timestamp
+msgctxt "template"
+msgid ""
+"Action ID: @item.action_performed.id\n"
+"Action Time: @item.action_performed.timestamp"
 msgstr ""
 
 #. type=template
