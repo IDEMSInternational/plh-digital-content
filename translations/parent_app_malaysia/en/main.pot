@@ -54,6 +54,11 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Event or Conference"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Johor"
 msgstr ""
 
@@ -4407,9 +4412,12 @@ msgid ""
 msgstr ""
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.child_name,”
+#.      @fields.child_name.”
 msgctxt "data_list"
 msgid ""
-"Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n"
+"Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, @fields.child_name,” or “You look sad that playtime is over, @fields.child_name.” Try this at least 3 times - make it fun!\n"
 "\n"
 "Can you do it today?"
 msgstr ""
@@ -4628,7 +4636,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:"
+msgid "If your child tells you they feel uncomfortable about someone touching them on their private parts, I should:"
 msgstr ""
 
 #. type=data_list
@@ -8436,6 +8444,11 @@ msgid "That's OK! It can be hard to find time. Even a short playtime where your 
 msgstr ""
 
 #. type=data_list
+msgctxt "data_list"
+msgid "It is also important to learn how to respond in these conversations. If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:"
+msgstr ""
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @data.characters.f1_father.name
 #.      @data.characters.f1_son_5.name.
@@ -9689,7 +9702,7 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "It is also important to learn how to respond in these conversations. If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:"
+msgid "It is also important to learn how to respond in these conversations. If your child tells you they feel uncomfortable about someone touching them on their private parts, I should:"
 msgstr ""
 
 #. type=data_list
