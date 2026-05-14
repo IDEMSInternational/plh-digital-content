@@ -44,12 +44,17 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "KEMAS"
+msgid "My child's KEMAS teacher"
 msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
 msgid "NGO/Community Facilitator"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Advertisement"
 msgstr ""
 
 #. type=data_list
@@ -241,77 +246,6 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "System tester"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Your parenting journey starts here"
-msgstr ""
-
-#. type=data_list
-#. The string @global.parent_app! should not be translated.
-msgctxt "data_list"
-msgid "Welcome to @global.parent_app! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "A better family life starts with you"
-msgstr ""
-
-#. type=data_list
-#. The string @global.parent_app. should not be translated.
-msgctxt "data_list"
-msgid "Welcome to @global.parent_app. Just 1 minute of learning today can make a real difference. Tap here to find out more."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Well done! You finished your first skill. Tap here to keep going."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Keep going — you started something great"
-msgstr ""
-
-#. type=data_list
-#. The string @fields.user_name, should not be translated.
-msgctxt "data_list"
-msgid "@fields.user_name, you started something great. Tap here to keep going."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Pick up where you left off"
-msgstr ""
-
-#. type=data_list
-#. The string @fields.user_name, should not be translated.
-msgctxt "data_list"
-msgid "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish."
-msgstr ""
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Help your family with @global.parent_app"
-msgstr ""
-
-#. type=data_list
-#. The string @global.parent_app should not be translated.
-msgctxt "data_list"
-msgid "Ready to take 5 minutes for your family? @global.parent_app is here to help. Tap to jump back in."
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "A small step for a better family life"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
 msgstr ""
 
 #. type=data_list
@@ -1282,7 +1216,7 @@ msgid ""
 "\n"
 "All Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n"
 "\n"
-"Childline Malaysia (services for child abuse, domestic violence, childline). Kasih Helpline: 15999"
+"Department of Social Welfare (services for child abuse, domestic violence, and sexual assault). Talian Kasih: 15999 or WhatsApp: 0192615999"
 msgstr ""
 
 #. type=data_list
@@ -10457,7 +10391,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Module"
+msgid "Skill"
 msgstr ""
 
 #. type=global
@@ -10592,7 +10526,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Well done for finishing all modules and home activities!"
+msgid "Well done for finishing all skills and home activities!"
 msgstr ""
 
 #. type=global
@@ -10639,7 +10573,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Unlock your moments of play by completing a module or logging an activity!"
+msgid "Unlock your moments of play by completing a skill!"
 msgstr ""
 
 #. type=global
@@ -10770,7 +10704,7 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Nice work! Complete the open lessons to unlock more."
+msgid "Nice work! Complete the open skills to unlock more."
 msgstr ""
 
 #. type=global
@@ -10819,6 +10753,26 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "User ID"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "What you need"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Steps"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "More tips"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Try also"
 msgstr ""
 
 #. type=global
@@ -11377,26 +11331,6 @@ msgid "Please enter a number between 1 and 20."
 msgstr ""
 
 #. type=template
-msgctxt "template"
-msgid "What you need"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Steps"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "More tips"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Try also"
-msgstr ""
-
-#. type=template
 #. The string @global.app_name should not be translated.
 msgctxt "template"
 msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
@@ -11529,6 +11463,34 @@ msgid "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.fac
 msgstr ""
 
 #. type=template
+msgctxt "template"
+msgid "NA"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.n_modules_completed
+#.      @calc(Number(@fields.n_modules_completed) +1)
+msgctxt "template"
+msgid "@calc(Number(@fields.n_modules_completed) +1)"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.last_module_in_progress
+#.      @local.curr_module_or_last_in_progress
+#.      @local.curr_n_mod_or_plus_one
+msgctxt "template"
+msgid ""
+"-\n"
+"-\n"
+"-\n"
+"last_module_in_progress: @local.last_module_in_progress\n"
+"curr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\n"
+"n_mod: @local.curr_n_mod_or_plus_one"
+msgstr ""
+
+#. type=template
 #. The string @local.countdown_days should not be translated.
 msgctxt "template"
 msgid "Countdown days: @local.countdown_days"
@@ -11557,6 +11519,16 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Dynamic data"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Notifications"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Campaigns"
 msgstr ""
 
 #. type=template
