@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-05-06 17:14\n"
+"PO-Revision-Date: 2026-05-14 06:28\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -62,6 +62,11 @@ msgstr "KEMAS"
 msgctxt "data_list"
 msgid "NGO/Community Facilitator"
 msgstr "Fasilitator Komuniti/NGO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Event or Conference"
+msgstr "Acara atau Persidangan"
 
 #. type=data_list
 msgctxt "data_list"
@@ -248,6 +253,77 @@ msgstr "Fasilitator"
 msgctxt "data_list"
 msgid "System tester"
 msgstr "Penguji sistem"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Your parenting journey starts here"
+msgstr "Perjalanan keibubapaan anda bermula di sini"
+
+#. type=data_list
+#. The string @global.parent_app! should not be translated.
+msgctxt "data_list"
+msgid "Welcome to @global.parent_app! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
+msgstr "Selamat datang ke @global.parent_app! Kami gembira anda berada di sini. Satu tip kecil boleh bantu mudahkan hari anda. Sila klik di sini untuk mula pelajaran pertama anda."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A better family life starts with you"
+msgstr "Kehidupan keluarga yang lebih bahagia bermula dengan anda"
+
+#. type=data_list
+#. The string @global.parent_app. should not be translated.
+msgctxt "data_list"
+msgid "Welcome to @global.parent_app. Just 1 minute of learning today can make a real difference. Tap here to find out more."
+msgstr "Selamat datang ke @global.parent_app. Anda boleh membuat perbezaan yang besar dengan hanya meluangkan 1 minit untuk belajar hari ini. Klik di sini untuk maklumat lanjut."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Well done! You finished your first skill. Tap here to keep going."
+msgstr "Syabas! Anda berjaya selesaikan kemahiran pertama anda. Klik di sini untuk sambung."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Keep going — you started something great"
+msgstr "Teruskan, anda sedang melakukan sesuatu yang hebat"
+
+#. type=data_list
+#. The string @fields.user_name, should not be translated.
+msgctxt "data_list"
+msgid "@fields.user_name, you started something great. Tap here to keep going."
+msgstr "@fields.user_name, anda telah mulakan sesuatu yang bermakna. Klik di sini untuk teruskan."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Pick up where you left off"
+msgstr "Jom sambung semula pembelajaran anda"
+
+#. type=data_list
+#. The string @fields.user_name, should not be translated.
+msgctxt "data_list"
+msgid "@fields.user_name, your lesson is still waiting. A few more minutes and you'll be done — tap here to finish."
+msgstr "@fields.user_name, pelajaran anda masih belum selesai. Luangkan sedikit masa lagi dengan klik di sini untuk teruskan pembelajaran anda."
+
+#. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid "Help your family with @global.parent_app"
+msgstr "Sokong keluarga anda dengan bantuan @global.parent_app"
+
+#. type=data_list
+#. The string @global.parent_app should not be translated.
+msgctxt "data_list"
+msgid "Ready to take 5 minutes for your family? @global.parent_app is here to help. Tap to jump back in."
+msgstr "Anda mempunyai 5 minit untuk keluarga anda hari ini? @global.parent_app sedia untuk menyokong anda. Klik di sini untuk teruskan."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "A small step for a better family life"
+msgstr "Perubahan besar bermula dengan satu langkah kecil"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Spending just 1 minute learning about parenting makes a world of difference. Tap here to keep going."
+msgstr "Dengan hanya 1 minit sahaja boleh beri kesan besar kepada keluarga anda. Jom teruskan."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1394,7 +1470,7 @@ msgstr "Bagaimana pengalaman anda?"
 #. type=data_list
 msgctxt "data_list"
 msgid "Sorry to hear it was difficult for you. Well done for trying."
-msgstr "Maaf kerana keadaan ini sukar bagi anda. Syabas kerana mencuba."
+msgstr "Maaf, kami turut berdukacita. Syabas kerana mencuba."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1454,7 +1530,7 @@ msgstr ""
 "\n"
 "Persatuan Pergerakan Wanita/ All Women's Action Society (menyediakan perkhidmatan untuk isu keganasan berasaskan gender, rogol, keganasan rumah tangga dan gangguan seksual). Talian Bantuan Telenita: 0162374221/016-2284221\n"
 "\n"
-"Childline Malaysia (perkhidmatan untuk penderaan kanak‑kanak, keganasan rumah tangga, dan talian bantuan kanak‑kanak). Talian Kasih: 15999"
+"Jabatan Kebajikan Masyarakat (JKM) (perkhidmatan untuk penderaan kanak‑kanak, keganasan rumah tangga, dan talian bantuan kanak‑kanak). Talian Kasih: 15999 atau WhatsApp: 0192615999"
 
 #. type=data_list
 msgctxt "data_list"
@@ -5481,13 +5557,16 @@ msgstr ""
 "💚 Sentiasa ingatkan anak anda bahawa anda akan selalu ada untuknya dan dia boleh meluahkan emosinya kepada anda."
 
 #. type=data_list
+#. The following strings should not be translated: 
+#.      @fields.child_name,”
+#.      @fields.child_name.”
 msgctxt "data_list"
 msgid ""
-"Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, your child,” or “You look sad that playtime is over, your child.” Try this at least 3 times - make it fun!\n"
+"Home activity! ⭐ Talk about feelings with your child during one-on-one time today. Use words or expressions to describe both your own feelings and your child’s feelings - like “I am happy to see you, @fields.child_name,” or “You look sad that playtime is over, @fields.child_name.” Try this at least 3 times - make it fun!\n"
 "\n"
 "Can you do it today?"
 msgstr ""
-"Aktiviti di Rumah! ⭐ Hari ini, cuba berbual tentang perasaan semasa seorang-dengan-seorang dengan anak anda. Guna perkataan atau riak wajah untuk gambarkan perasaan anda dan juga perasaan anak anda - contohnya, “Ibu gembira sangat dapat jumpa kamu,” atau “Kamu nampak sedih sebab masa main dah habis.” Cuba buat sekurang-kurangnya 3 kali - jadikan ia sesuatu yang menyeronokkan!\n"
+"Aktiviti di Rumah! ⭐ Hari ini, cuba berbual tentang perasaan semasa seorang-dengan-seorang dengan anak anda. Guna perkataan atau riak wajah untuk gambarkan perasaan anda dan juga perasaan anak anda - contohnya, “Ibu gembira sangat dapat jumpa kamu, @fields.child_name” atau “Kamu nampak sedih sebab masa main dah habis, @fields.child_name” Cuba buat sekurang-kurangnya 3 kali - jadikan ia sesuatu yang menyeronokkan!\n"
 "\n"
 "Bolehkah anda lakukannya hari ini?"
 
@@ -5753,8 +5832,8 @@ msgstr "Penting untuk kita belajar cara memberi tindak balas dengan betul dalam 
 
 #. type=data_list
 msgctxt "data_list"
-msgid "If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:"
-msgstr "Jika anak memberitahu saya bahawa mereka rasa tidak selesa apabila bahagian sulit mereka disentuh oleh orang lain, saya perlu:"
+msgid "If your child tells you they feel uncomfortable about someone touching them on their private parts, I should:"
+msgstr "Jika anak anda memberitahu anda bahawa mereka rasa tidak selesa apabila bahagian sulit mereka disentuh oleh orang lain, saya perlu:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -10271,6 +10350,11 @@ msgid "That's OK! It can be hard to find time. Even a short playtime where your 
 msgstr "Tak apa! Memang kadang‑kadang sukar untuk mencari masa. Walaupun sekejap sahaja, masa bermain yang anak anda pilih sendiri boleh memberi kesan yang besar kepada hubungan dan keyakinan mereka. Anda juga boleh luangkan sedikit masa untuk bermain bersama esok! 🌱"
 
 #. type=data_list
+msgctxt "data_list"
+msgid "It is also important to learn how to respond in these conversations. If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:"
+msgstr "Penting juga untuk belajar cara memberi tindak balas dalam perbualan seperti ini. Jika anak anda beritahu bahawa dia rasa tak selesa apabila seseorang menyentuh bahagian sulitnya, saya patut:"
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @data.characters.f1_father.name
 #.      @data.characters.f1_son_5.name.
@@ -11753,8 +11837,8 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "It is also important to learn how to respond in these conversations. If your child tells me they feel uncomfortable about someone touching them on their private parts, I should:"
-msgstr "Penting juga untuk belajar cara memberi tindak balas dalam perbualan seperti ini. Jika anak anda beritahu bahawa dia rasa tak selesa apabila seseorang menyentuh bahagian sulitnya, saya patut:"
+msgid "It is also important to learn how to respond in these conversations. If your child tells you they feel uncomfortable about someone touching them on their private parts, I should:"
+msgstr "Penting juga untuk belajar cara memberi tindak balas dalam perbualan seperti ini. Jika anak anda beritahu anda bahawa dia rasa tak selesa apabila seseorang menyentuh bahagian sulitnya, saya patut:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -11836,7 +11920,7 @@ msgstr "Ya, Mummy! Saya sangat suka!"
 #. type=data_list
 msgctxt "data_list"
 msgid "Now, there are some important things I want to talk to you about. It's about keeping your body safe and healthy."
-msgstr "Sekarang Mummy nak cakap tentang beberapa perkara penting berkaitan dengan menjaga tubuh badan kamu agar selamat dan sihat."
+msgstr "Sekarang saya nak cakap tentang beberapa perkara penting berkaitan dengan menjaga tubuh badan kamu agar selamat dan sihat."
 
 #. type=data_list
 msgctxt "data_list"
@@ -12660,8 +12744,8 @@ msgstr "Buka"
 
 #. type=global
 msgctxt "global"
-msgid "Well done for finishing this module"
-msgstr "Tahniah kerana berjaya menamatkan modul ini"
+msgid "Well done for finishing this skill"
+msgstr "Tahniah kerana berjaya menamatkan kemahiran ini"
 
 #. type=global
 msgctxt "global"
@@ -12690,7 +12774,7 @@ msgstr "Aktiviti Bermain"
 
 #. type=global
 msgctxt "global"
-msgid "Complete your modules and home activities to unlock new moments of play."
+msgid "Complete your skills and home activities to unlock new moments of play."
 msgstr "Lengkapkan kemahiran dan aktiviti rumah anda untuk membuka aktiviti bermain yang baharu."
 
 #. type=global
@@ -12984,6 +13068,11 @@ msgstr "ID Kumpulan Fasilitator"
 
 #. type=global
 msgctxt "global"
+msgid "Connecting to group, please wait."
+msgstr "Kami sedang hubungkan anda ke kumpulan. Sila tunggu sebentar."
+
+#. type=global
+msgctxt "global"
 msgid "Naungan Kasih"
 msgstr "Naungan Kasih"
 
@@ -13011,6 +13100,11 @@ msgstr "Kursus"
 msgctxt "global"
 msgid "Finish the first course to unlock more"
 msgstr "Selesaikan kursus pertama untuk membuka kursus-kursus yang lain"
+
+#. type=global
+msgctxt "global"
+msgid "Additional courses will be available once you complete all available Parenting Skills"
+msgstr "Kursus tambahan akan dibuka selepas anda menyiapkan semua Kemahiran Keibubapaan yang tersedia"
 
 #. type=global
 msgctxt "global"
