@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-05-14 06:28\n"
+"PO-Revision-Date: 2026-05-14 14:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -55,13 +55,18 @@ msgstr "Tabungan dan Perbelanjaan"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "KEMAS"
-msgstr "KEMAS"
+msgid "My child's KEMAS teacher"
+msgstr "Guru KEMAS anak saya"
 
 #. type=data_list
 msgctxt "data_list"
 msgid "NGO/Community Facilitator"
 msgstr "Fasilitator Komuniti/NGO"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Advertisement"
+msgstr "Iklan"
 
 #. type=data_list
 msgctxt "data_list"
@@ -1522,7 +1527,7 @@ msgid ""
 "\n"
 "All Women's Action Society (services for gender-based violence, rape, domestic violence and sexual harassment). Telenita helpline: 0162374221/016-2284221\n"
 "\n"
-"Childline Malaysia (services for child abuse, domestic violence, childline). Kasih Helpline: 15999"
+"Department of Social Welfare (services for child abuse, domestic violence, and sexual assault). Talian Kasih: 15999 or WhatsApp: 0192615999"
 msgstr ""
 "Pusat Perkhidmatan Wanita/ Women’s Centre for Change (WCC). Talian Bantuan Kaunseling: 011-3108 4001\n"
 "\n"
@@ -12624,7 +12629,7 @@ msgstr "Peta"
 
 #. type=global
 msgctxt "global"
-msgid "Module"
+msgid "Skill"
 msgstr "Kemahiran"
 
 #. type=global
@@ -12759,7 +12764,7 @@ msgstr "Buka aktiviti bermain anda"
 
 #. type=global
 msgctxt "global"
-msgid "Well done for finishing all modules and home activities!"
+msgid "Well done for finishing all skills and home activities!"
 msgstr "Tahniah kerana berjaya menamatkan semua kemahiran dan aktiviti di rumah!"
 
 #. type=global
@@ -12808,8 +12813,8 @@ msgstr ""
 
 #. type=global
 msgctxt "global"
-msgid "Unlock your moments of play by completing a module or logging an activity!"
-msgstr "Selesaikan kemahiran atau rekod aktiviti untuk membuka aktiviti bermain yang baharu!"
+msgid "Unlock your moments of play by completing a skill!"
+msgstr "Lengkapkan kemahiran anda untuk membuka aktiviti bermain!"
 
 #. type=global
 msgctxt "global"
@@ -12939,8 +12944,8 @@ msgstr "Klik dan taip"
 
 #. type=global
 msgctxt "global"
-msgid "Nice work! Complete the open lessons to unlock more."
-msgstr "Syabas! Selesaikan pelajaran yang belum selesai untuk membuka lebih banyak pilihan pelajaran yang lain."
+msgid "Nice work! Complete the open skills to unlock more."
+msgstr "Syabas! Lengkapkan kemahiran yang masih belum selesai untuk memperoleh lebih banyak pilihan kemahiran lain."
 
 #. type=global
 msgctxt "global"
@@ -12989,6 +12994,26 @@ msgstr "Bahasa"
 msgctxt "global"
 msgid "User ID"
 msgstr "ID Pengguna"
+
+#. type=global
+msgctxt "global"
+msgid "What you need"
+msgstr "Apa yang anda perlukan"
+
+#. type=global
+msgctxt "global"
+msgid "Steps"
+msgstr "Langkah-langkah"
+
+#. type=global
+msgctxt "global"
+msgid "More tips"
+msgstr "Tip tambahan"
+
+#. type=global
+msgctxt "global"
+msgid "Try also"
+msgstr "Sila cuba juga"
 
 #. type=global
 #. The string @global.app_name should not be translated.
@@ -13572,26 +13597,6 @@ msgid "Please enter a number between 1 and 20."
 msgstr "Sila berikan nombor di antara 1 dan 20."
 
 #. type=template
-msgctxt "template"
-msgid "What you need"
-msgstr "Apa yang anda perlukan"
-
-#. type=template
-msgctxt "template"
-msgid "Steps"
-msgstr "Langkah-langkah"
-
-#. type=template
-msgctxt "template"
-msgid "More tips"
-msgstr "Tip tambahan"
-
-#. type=template
-msgctxt "template"
-msgid "Try also"
-msgstr "Sila cuba juga"
-
-#. type=template
 #. The string @global.app_name should not be translated.
 msgctxt "template"
 msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
@@ -13724,6 +13729,40 @@ msgid "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.fac
 msgstr "@calc((/^[a-zA-Z0-9]{4}$/.test(@local.faci_group_id_input)) || @local.faci_group_id_input == '' || !@local.faci_group_id_input)"
 
 #. type=template
+msgctxt "template"
+msgid "NA"
+msgstr "Tidak Berkenaan"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @fields.n_modules_completed
+#.      @calc(Number(@fields.n_modules_completed) +1)
+msgctxt "template"
+msgid "@calc(Number(@fields.n_modules_completed) +1)"
+msgstr "@calc(Number(@fields.n_modules_completed) +1)"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.last_module_in_progress
+#.      @local.curr_module_or_last_in_progress
+#.      @local.curr_n_mod_or_plus_one
+msgctxt "template"
+msgid ""
+"-\n"
+"-\n"
+"-\n"
+"last_module_in_progress: @local.last_module_in_progress\n"
+"curr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\n"
+"n_mod: @local.curr_n_mod_or_plus_one"
+msgstr ""
+"-\n"
+"-\n"
+"-\n"
+"last_module_in_progress: @local.last_module_in_progress\n"
+"curr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\n"
+"n_mod: @local.curr_n_mod_or_plus_one"
+
+#. type=template
 #. The string @local.countdown_days should not be translated.
 msgctxt "template"
 msgid "Countdown days: @local.countdown_days"
@@ -13753,6 +13792,16 @@ msgstr "Templat"
 msgctxt "template"
 msgid "Dynamic data"
 msgstr "Data Dinamik"
+
+#. type=template
+msgctxt "template"
+msgid "Notifications"
+msgstr "Notifikasi"
+
+#. type=template
+msgctxt "template"
+msgid "Campaigns"
+msgstr "Kempen"
 
 #. type=template
 msgctxt "template"
