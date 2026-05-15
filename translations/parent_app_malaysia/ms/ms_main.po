@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-05-14 20:12\n"
+"PO-Revision-Date: 2026-05-15 05:50\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -265,9 +265,21 @@ msgid "Your parenting journey starts here"
 msgstr "Perjalanan keibubapaan anda bermula di sini"
 
 #. type=data_list
+#. The string @global.app_name! should not be translated.
+msgctxt "data_list"
+msgid "Welcome to @global.app_name! It is so good to have you. One small tip can make family life easier — tap here to start your first lesson."
+msgstr "Selamat datang ke @global.app_name! Kami gembira anda berada di sini. Satu tip kecil boleh bantu mudahkan hari anda. Sila klik di sini untuk mula pelajaran pertama anda."
+
+#. type=data_list
 msgctxt "data_list"
 msgid "A better family life starts with you"
 msgstr "Kehidupan keluarga yang lebih bahagia bermula dengan anda"
+
+#. type=data_list
+#. The string @global.app_name. should not be translated.
+msgctxt "data_list"
+msgid "Welcome to @global.app_name. Just 1 minute of learning today can make a real difference. Tap here to find out more."
+msgstr "Selamat datang ke @global.app_name. Anda boleh membuat perbezaan yang besar dengan hanya meluangkan 1 minit untuk belajar hari ini. Klik di sini untuk maklumat lanjut."
 
 #. type=data_list
 msgctxt "data_list"
@@ -301,6 +313,12 @@ msgstr "@fields.user_name, pelajaran anda masih belum selesai. Luangkan sedikit 
 msgctxt "data_list"
 msgid "Help your family with @global.parent_app"
 msgstr "Sokong keluarga anda dengan bantuan @global.parent_app"
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "Ready to take 5 minutes for your family? @global.app_name is here to help. Tap to jump back in."
+msgstr "Anda mempunyai 5 minit untuk keluarga anda hari ini? @global.app_name sedia untuk menyokong anda. Klik di sini untuk teruskan."
 
 #. type=data_list
 msgctxt "data_list"
@@ -12623,6 +12641,11 @@ msgstr "Mulakan di sini"
 msgctxt "global"
 msgid "Home"
 msgstr "Utama"
+
+#. type=global
+msgctxt "global"
+msgid "Resources"
+msgstr "Bahan Saya"
 
 #. type=global
 msgctxt "global"
