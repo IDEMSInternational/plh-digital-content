@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-05-15 05:50\n"
+"PO-Revision-Date: 2026-05-15 08:40\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13376,6 +13376,37 @@ msgid "Select location"
 msgstr "Pilih lokasi"
 
 #. type=global
+msgctxt "global"
+msgid ""
+"**Almost done!**\n"
+"\n"
+"The last questions help us set up the App for you."
+msgstr ""
+"**Hampir siap!** \n"
+"\n"
+"Soalan-soalan terakhir ini membantu kami sesuaikan Aplikasi untuk anda."
+
+#. type=global
+msgctxt "global"
+msgid "What is your role?"
+msgstr "Apakah peranan anda?"
+
+#. type=global
+msgctxt "global"
+msgid "Select role"
+msgstr "Pilih peranan"
+
+#. type=global
+msgctxt "global"
+msgid "How did you hear about this app?"
+msgstr "Bagaimana anda mengetahui tentang aplikasi ini?"
+
+#. type=global
+msgctxt "global"
+msgid "Select one"
+msgstr "Pilih satu"
+
+#. type=global
 #. The following strings should not be translated: 
 #.      @fields.facilitator_name.
 #.      @global.app_name!
@@ -13413,81 +13444,35 @@ msgid "Who would you like to learn with?"
 msgstr "Anda ingin belajar dengan siapa?"
 
 #. type=global
+#. The following strings should not be translated: 
+#.      @fields.user_name.**
+#.      @fields.child_name.
 msgctxt "global"
 msgid ""
-"**Are you joining a parenting group?**\n"
+"**Thanks @fields.user_name.**\n"
 "\n"
-"If your facilitator gave you a Group ID, enter it below. If you don't have one, tap Skip."
+"Now tell us a little more about @fields.child_name."
 msgstr ""
-"**Adakah anda menyertai kumpulan keibubapaan?**\n"
+"**Terima kasih @fields.user_name.**\n"
 "\n"
-"Jika fasilitator anda memberikan ID Kumpulan, sila masukkannya di bawah. Jika anda tidak mempunyai ID Kumpulan, klik Langkau untuk teruskan."
+"Sekarang ini, kongsikan sedikit maklumat tentang @fields.child_name."
+
+#. type=global
+#. The string @fields.child_name? should not be translated.
+msgctxt "global"
+msgid "How old is @fields.child_name?"
+msgstr "Berapakah umur @fields.child_name?"
 
 #. type=global
 msgctxt "global"
-msgid "What is your facilitator's Group ID?"
-msgstr "Apakah ID Kumpulan fasilitator anda?"
+msgid "Enter age"
+msgstr "Berikan umur"
 
 #. type=global
+#. The string @global.app_name should not be translated.
 msgctxt "global"
-msgid "Enter 4-digit ID"
-msgstr "Masukkan ID 4-aksara"
-
-#. type=global
-msgctxt "global"
-msgid "Please enter a valid 4-character ID."
-msgstr "Sila berikan ID Kumpulan 4-aksara yang sah."
-
-#. type=global
-msgctxt "global"
-msgid "Connect to group"
-msgstr "Sambungkan ke kumpulan"
-
-#. type=global
-msgctxt "global"
-msgid "Group not found, please check your Group ID"
-msgstr "Kumpulan tidak dijumpai, sila semak ID kumpulan anda"
-
-#. type=global
-msgctxt "global"
-msgid "An unknown error occured, please try again later"
-msgstr "Maaf, berlaku masalah yang tidak dijangka. Sila cuba sekali lagi nanti"
-
-#. type=global
-msgctxt "global"
-msgid "Group successfully registered"
-msgstr "Pendaftaran kumpulan telah berjaya"
-
-#. type=global
-msgctxt "global"
-msgid ""
-"**Almost done!**\n"
-"\n"
-"The last questions help us set up the App for you."
-msgstr ""
-"**Hampir siap!** \n"
-"\n"
-"Soalan-soalan terakhir ini membantu kami sesuaikan Aplikasi untuk anda."
-
-#. type=global
-msgctxt "global"
-msgid "What is your role?"
-msgstr "Apakah peranan anda?"
-
-#. type=global
-msgctxt "global"
-msgid "Select role"
-msgstr "Pilih peranan"
-
-#. type=global
-msgctxt "global"
-msgid "How did you hear about this app?"
-msgstr "Bagaimana anda mengetahui tentang aplikasi ini?"
-
-#. type=global
-msgctxt "global"
-msgid "Select one"
-msgstr "Pilih satu"
+msgid "@global.app_name only supports parents of children between 2 and 7."
+msgstr "@global.app_name hanya menyokong ibu bapa kepada anak berumur antara 2 hingga 7 tahun."
 
 #. type=global
 #. The string @fields.user_name.** should not be translated.
@@ -13532,22 +13517,6 @@ msgstr "Adakah anak anda seorang perempuan atau lelaki?"
 msgctxt "global"
 msgid "Select gender"
 msgstr "Pilih jantina"
-
-#. type=global
-msgctxt "global"
-msgid "How old is your child?"
-msgstr "Berapakah umur anak anda?"
-
-#. type=global
-msgctxt "global"
-msgid "Enter age"
-msgstr "Berikan umur"
-
-#. type=global
-#. The string @global.app_name should not be translated.
-msgctxt "global"
-msgid "@global.app_name only supports parents of children between 2 and 7."
-msgstr "@global.app_name hanya menyokong ibu bapa kepada anak berumur antara 2 hingga 7 tahun."
 
 #. type=global
 #. The string @fields.user_name.** should not be translated.
@@ -13595,6 +13564,52 @@ msgstr "Berikan bilangan anak"
 msgctxt "global"
 msgid "Please enter a number between 1 and 20."
 msgstr "Sila berikan nombor di antara 1 dan 20."
+
+#. type=global
+msgctxt "global"
+msgid ""
+"**Are you joining a parenting group?**\n"
+"\n"
+"If your facilitator gave you a Group ID, enter it below. If you don't have one, tap Skip."
+msgstr ""
+"**Adakah anda menyertai kumpulan keibubapaan?**\n"
+"\n"
+"Jika fasilitator anda memberikan ID Kumpulan, sila masukkannya di bawah. Jika anda tidak mempunyai ID Kumpulan, klik Langkau untuk teruskan."
+
+#. type=global
+msgctxt "global"
+msgid "What is your facilitator's Group ID?"
+msgstr "Apakah ID Kumpulan fasilitator anda?"
+
+#. type=global
+msgctxt "global"
+msgid "Enter 4-digit ID"
+msgstr "Masukkan ID 4-aksara"
+
+#. type=global
+msgctxt "global"
+msgid "Please enter a valid 4-character ID."
+msgstr "Sila berikan ID Kumpulan 4-aksara yang sah."
+
+#. type=global
+msgctxt "global"
+msgid "Connect to group"
+msgstr "Sambungkan ke kumpulan"
+
+#. type=global
+msgctxt "global"
+msgid "Group not found, please check your Group ID"
+msgstr "Kumpulan tidak dijumpai, sila semak ID kumpulan anda"
+
+#. type=global
+msgctxt "global"
+msgid "An unknown error occured, please try again later"
+msgstr "Maaf, berlaku masalah yang tidak dijangka. Sila cuba sekali lagi nanti"
+
+#. type=global
+msgctxt "global"
+msgid "Group successfully registered"
+msgstr "Pendaftaran kumpulan telah berjaya"
 
 #. type=template
 #. The string @global.app_name should not be translated.
