@@ -3817,6 +3817,91 @@ msgid "checking count = @calc((@local.check_map.filter(x => TRUE))"
 msgstr ""
 
 #. type=template
+#. The string @field.notifications_delay should not be translated.
+msgctxt "template"
+msgid ""
+"How to make this template work:\n"
+"The field notification_delay must be initialized. Each instance where notifications are created, should have a conditional timer on notifications_debug that sets the delay to be notifications_delay as in: '@calc(date_fns.addSeconds(now(),@field.notifications_delay)).\n"
+"\n"
+"Refresh page to check if notifications have been added/subtracted.\n"
+"\n"
+"Good luck!"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Notifications Debug Mode"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Enable Notifications Debug Mode"
+msgstr ""
+
+#. type=template
+#. The string @fields.notifications_delay should not be translated.
+msgctxt "template"
+msgid "Current delay: @fields.notifications_delay seconds"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Change delay:"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Pending Notifications:"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.id
+#.      @local.formatted_date
+msgctxt "template"
+msgid ""
+"id: @item.id\n"
+"schedule_at: @local.formatted_date"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Delete this Notification"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Delete All Notifications"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Past Notifications (not including deleted ones):"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.id
+#.      @local.formatted_date
+#.      @item.status
+msgctxt "template"
+msgid ""
+"id: @item.id\n"
+"schedule_at: @local.formatted_date\n"
+"status: @item.status"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.action_performed.id
+#.      @item.action_performed.timestamp
+msgctxt "template"
+msgid ""
+"Action ID: @item.action_performed.id\n"
+"Action Time: @item.action_performed.timestamp"
+msgstr ""
+
+#. type=template
 msgctxt "template"
 msgid "Feedback Form"
 msgstr ""
