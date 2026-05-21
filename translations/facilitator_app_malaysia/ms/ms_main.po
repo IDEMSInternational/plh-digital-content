@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-05-20 08:45\n"
+"PO-Revision-Date: 2026-05-20 09:03\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -4733,45 +4733,6 @@ msgstr "kiraan_ditanda = @local.checked_count"
 msgctxt "template"
 msgid "checking count = @calc((@local.check_map.filter(x => TRUE))"
 msgstr "semakan = @calc((@local.check_map.filter(x => TRUE))"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @item.id
-#.      @local.formatted_date
-msgctxt "template"
-msgid ""
-"id: @item.id\n"
-"schedule_at: @local.formatted_date"
-msgstr ""
-"id: @item.id\n"
-"schedule_at: @local.formatted_date"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @item.id
-#.      @local.formatted_date
-#.      @item.status
-msgctxt "template"
-msgid ""
-"id: @item.id\n"
-"schedule_at: @local.formatted_date\n"
-"status: @item.status"
-msgstr ""
-"id: @item.id\n"
-"schedule_at: @local.formatted_date\n"
-"status: @item.status"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @item.action_performed.id
-#.      @item.action_performed.timestamp
-msgctxt "template"
-msgid ""
-"Action ID: @item.action_performed.id\n"
-"Action Time: @item.action_performed.timestamp"
-msgstr ""
-"Action ID: @item.action_performed.id\n"
-"Action Time: @item.action_performed.timestamp"
 
 #. type=template
 msgctxt "template"
