@@ -119,7 +119,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "We hope this was helpful! You can access this information at any time by typing {HELP}."
+msgid "You are now out of the main menu. Type {CONTINUE} to return to your lesson."
 msgstr ""
 
 #. type=text
@@ -129,12 +129,32 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "I don't understand your message."
+msgid "I didn’t quite catch that."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Please type {MENU} to access resources and review completed modules, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources for a crisis."
+msgid "Please type one of the following:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "▶️ {CONTINUE} to continue your course"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "📚 {MENU} to access resources and review completed modules"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🎲 {PLAY} to get a playful activity to do with your child"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🆘 {HELP} to access local support resources for a crisis"
 msgstr ""
 
 #. type=text
@@ -170,6 +190,11 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "Please type {MENU} to access resources and review completed modules, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access local support resources for a crisis."
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "You have already completed ParentText!"
 msgstr ""
 
@@ -200,7 +225,12 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "We are so glad you want to stick around! We will resume your progress tomorrow."
+msgid "We are sad to see you go! Please know that you can come back at any time. We will save your place so you don't lose your work."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "When you are ready to start again, just type {CONTINUE}."
 msgstr ""
 
 #. type=text
@@ -327,7 +357,7 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Continue my course tomorrow."
+msgid "Continue my course later."
 msgstr ""
 
 #. type=quick_replies
@@ -531,7 +561,7 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "continue my course tomorrow."
+msgid "continue my course later."
 msgstr ""
 
 #. type=arguments
@@ -579,7 +609,7 @@ msgstr ""
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
-msgid "formando"
+msgid "prueba"
 msgstr ""
 
 #. type=arguments
@@ -622,4 +652,28 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "paz"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "empezar"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "descubrir"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "socios"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "comenzar"
 msgstr ""
