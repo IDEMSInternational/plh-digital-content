@@ -1274,6 +1274,14 @@ msgid "Syncing..."
 msgstr ""
 
 #. type=template
+#. The following strings should not be translated: 
+#.      @data.onboarding_settings_pages
+#.      @calc(Object.keys(@data.onboarding_settings_pages).length - 1)
+msgctxt "template"
+msgid "@calc(Object.keys(@data.onboarding_settings_pages).length - 1)"
+msgstr ""
+
+#. type=template
 #. The string @local.countdown_days should not be translated.
 msgctxt "template"
 msgid "Countdown days: @local.countdown_days"
@@ -1287,6 +1295,15 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Save"
+msgstr ""
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @local.completed_count
+#.      @local.total_count
+#.      @calc((@local.completed_count / @local.total_count) * 100)
+msgctxt "template"
+msgid "@calc((@local.completed_count / @local.total_count) * 100)"
 msgstr ""
 
 #. type=template
