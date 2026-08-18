@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2026-08-05 11:17\n"
+"PO-Revision-Date: 2026-08-18 11:23\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -169,7 +169,7 @@ msgstr "Lakini @data.characters.f2_grandfather.role_name, sio hivyo…!"
 #. The string @data.characters.f2_son_15.name! should not be translated.
 msgctxt "data_list"
 msgid "No, no, no, @data.characters.f2_son_15.name! I will not have this discussion with you. Is that what you do at school? Talking about things not suited for your age instead of focusing on school? You won’t go out with those friends of yours anymore. You want to bring shame in this home. Stupid boy!"
-msgstr "Hapana, hapana, hapana @data.characters.f2_son_15.name! Kwenye hili, sina muda wa kujadiliana na wewe. Je, haya ndiyo unayoyafanya huko shuleni? Kuzungumzia mambo yasiyoendana na umri wako badala ya kuzingatia yale yaliyokupeleka shule? Hautatoka tena na hao marafiki zako. Unataka kutuletea haibu hapa nyumbani. Mvulana mjinga!"
+msgstr "Hapana, hapana, hapana @data.characters.f2_son_15.name! Kwenye hili, sina muda wa kujadiliana na wewe. Je, haya ndiyo unayoyafanya huko shuleni? Kuzungumzia mambo yasiyoendana na umri wako badala ya kuzingatia yale yaliyokupeleka shule? Hautatoka tena na hao marafiki zako. Unataka kutuletea aibu hapa nyumbani. Mvulana mjinga!"
 
 #. type=data_list
 #. The string @data.characters.f2_grandfather.role_name, should not be translated.
@@ -208,7 +208,7 @@ msgid ""
 "\n"
 "When we are angry or scared, we can say or do things that hurt others and harm our relationships."
 msgstr ""
-"Inawezekana alihisi hivi na kumperekea kujibu kwa ukali.\n"
+"Inawezekana alihisi hivi na kumpelekea kujibu kwa ukali.\n"
 "\n"
 "Tunapokuwa na hasira au hofu, tunaweza kufanya mambo ya kuumiza wengine na kuhatarisha mahusiano yetu."
 
@@ -273,7 +273,7 @@ msgstr ""
 #. The string @data.characters.f2_son_15.name’s should not be translated.
 msgctxt "data_list"
 msgid "Now imagine a girl was in @data.characters.f2_son_15.name’s place. Some families might react differently because of worries about safety or beliefs learned over time. Thinking about this can help us understand our own reactions."
-msgstr "Sasa fikiria binti alikuwa ni @data.characters.f2_son_15.name mahali. Baadhi ya familia zinaweza kuitikia kwa namna tofautitofauti kutokana na wasiwasi kuhusu usalama au imani walizojifunza kwa muda mrefu. Kutafakari jambo hili kunaweza kutusaidia kuelewa hisia zetu wenyewe."
+msgstr "Sasa fikiria binti alikuwa na @data.characters.f2_son_15.name mahali. Baadhi ya familia zinaweza kuitikia kwa namna tofautitofauti kutokana na wasiwasi kuhusu usalama au imani walizojifunza kwa muda mrefu. Kutafakari jambo hili kunaweza kutusaidia kuelewa hisia zetu wenyewe."
 
 #. type=data_list
 msgctxt "data_list"
@@ -302,7 +302,7 @@ msgid ""
 "\n"
 "Talking about this helps us support both boys and girls in a fair and caring way."
 msgstr ""
-"Ndio, familia nyingi huwachukulia wasichana na wavulana kwa namna ya tofauti. Mara nyingi hii hutokana na hofu juu ya usalama wa mabinti. Wavulana hupewa uhuru mwingi au imani ya zamani kuhusu jinsi watoto wanavyotakiwa kuishi. Hii inaweza kumaanisha wabinti hukumiwa vikali zaidi, huku wavulana wakikosa mwongozo kuhusu heshima na majukumu.\n"
+"Ndio, familia nyingi huwachukulia wasichana na wavulana kwa namna ya tofauti. Mara nyingi hii hutokana na hofu juu ya usalama wa mabinti. Wavulana hupewa uhuru mwingi au imani ya zamani kuhusu jinsi watoto wanavyotakiwa kuishi. Hii inaweza kumaanisha mabinti huhukumiwa vikali zaidi, huku wavulana wakikosa mwongozo kuhusu heshima na majukumu.\n"
 "\n"
 "Kuongelea hili jambo linatusaidia kujua namna ya kuwasaidia mabinti na wavulana kwa usawa na namna ya kujali."
 
@@ -325,12 +325,49 @@ msgstr ""
 "Hebu tuangalie mfano wa jinsi mazungumzo ya namna hii yanavyoweza kufanyika kwa utulivu."
 
 #. type=data_list
+#. The string @data.characters.f1_daughter_16.name, should not be translated.
+msgctxt "data_list"
+msgid "@data.characters.f1_daughter_16.name, I was thinking… When I was your age, some of my friends had boyfriends. What is it like at your school?"
+msgstr "@data.characters.f1_daughter_16.name, Nilikuwa nikifikiria....Nikiwa na umri kama wa kwako, baadhi ya marafiki zangu walikuwa na wapenzi. Hali ikoje huko shuleni kwenu kwa sasa?"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Uuhm… I heard my friends talk about it."
+msgstr "Uuhm...... Niliwasikia marafiki zangu wakiliongelea."
+
+#. type=data_list
 #. The following strings should not be translated: 
 #.      @data.characters.f1_daughter_16.name
 #.      @data.characters.f1_mother.name.
 msgctxt "data_list"
 msgid "@data.characters.f1_daughter_16.name sits down next to @data.characters.f1_mother.name."
 msgstr "@data.characters.f1_daughter_16.name anakaa chini na @data.characters.f1_mother.name."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Mmm, I see. And how do you feel about your friends having a boyfriend? I was just wondering."
+msgstr "Mmm, Naelewa. Na unajisikiaje kuhusu marafiki zako kuwa na wapenzi wa jinsia ya kiume? Najaribu kustaajabu au kuwazua."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "I don’t know. Sometimes I feel curious, but also a bit unsure."
+msgstr "Sijui. japo wakati mwingine nahisi kutamani kujua inakuaje, lakini pia kuna wakati naingiwa na mashaka ya kutokulijua hili zaidi."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "That makes sense. It’s normal to feel both. I remember thinking having a boyfriend was exciting and made me feel special, but I was also nervous. If anything ever comes up, you can always talk to me."
+msgstr "Hiyo inaeleweka. Ni jambo la kawaida kujisikia hivyo. Ninakumbuka hata mimi kufikiria kuwa na mpezi wa kiume lilikuwa ni jambo la kusisimua na lilinifanya nijisikie wa pekee, japo nilikuwa pia na hofu kidogo. Likitokea jambo lolote lile, unaweza kunijulisha wakati wowote."
+
+#. type=data_list
+#. The string @data.characters.boyfriend_1.name. should not be translated.
+msgctxt "data_list"
+msgid "Actually… there is this boy, @data.characters.boyfriend_1.name. He asked if we could study together tomorrow."
+msgstr "Hata hivyo... kuna huyu mvulana, @data.characters.boyfriend_1.name. Aliniomba kama tunaweza kusoma pamoja kesho."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Thank you for telling me. I do feel worried that it is not safe for you to spend time together. You may be pressured into doing something that you are not prepared to do. I don’t want to tell you who you can see, but we need to have some rules about how you spend time together with boys at your age."
+msgstr "Asante kunijulisha kuhusu hili. Nina mashaka kwamba huenda isiwe salama kwenu kuwa na muda wa kuwa pamoja. Kwani unaweza kujikuta unashinikizwa kufanya kitu ambacho bado hujajiandaa kukifanya. Sitaki kukupangia aina ya marafiki wa kuwa nao, lakini tunahitaji kuwa na sheria fulani zinazohusu jinsi ambavyo unaweza kutumia muda wako na wavulana wa umri wako."
 
 #. type=data_list
 msgctxt "data_list"
@@ -390,6 +427,12 @@ msgstr "Ndiyo ilikuwa ngumu kwa @data.characters.f1_daughter_16.name na @data.ch
 msgctxt "data_list"
 msgid "Hopeful"
 msgstr "Mwenye matumaini"
+
+#. type=data_list
+#. The string @data.characters.f1_daughter_16.name should not be translated.
+msgctxt "data_list"
+msgid "Yes, it was probably hard to start this conversation, but mother knew that having this conversation would help keep @data.characters.f1_daughter_16.name safe."
+msgstr "Ndiyo, huenda ilikuwa vigumu kuanzisha mazungumzo haya, lakini Mama alijua kwamba kufanya mazungumzo haya kungemsaidia @data.characters.f1_daughter_16.name kuwa salama."
 
 #. type=data_list
 #. The following strings should not be translated: 
@@ -511,7 +554,7 @@ msgid ""
 "\n"
 "And remember, it’s also okay not to know everything. You can say, “I’m not sure - let me find out and tell you later.”"
 msgstr ""
-"Ndio, unaweza kuhitajia kuanza mazungumzo — na ni sawa kujihisi aibu. Kuwa wazi na tumia maneno sahihi unapozungumzia sehemu za mwili (kama matiti, uume, au uke).\n"
+"Ndio, unaweza kuhitaji kuanza mazungumzo — na ni sawa kujihisi aibu. Kuwa wazi na tumia maneno sahihi unapozungumzia sehemu za mwili (kama matiti, uume, au uke).\n"
 "\n"
 "Unaweza pia kufanya mazoezi na rafiki na kuuliza mhudumu wa afya au mfanyakazi wa kijamii kwa taarifa zaidi. Kadri unavyojua zaidi, ndivyo utakavyoweza kumsaidia kijana wako vizuri zaidi.\n"
 "\n"
@@ -848,7 +891,7 @@ msgstr "Zungumzia mabadiliko ya mwili na balehe"
 #. type=data_list
 msgctxt "data_list"
 msgid "Talk with your teen about normal body changes like growing taller, more body hair, voice changes, breasts or periods, and stronger emotions or liking someone. Explain that everyone grows at their own pace. Encourage them to ask you or another trusted adult any questions."
-msgstr "Zungumza na vijana wako kuhusiana na mabadiliko yakawaida ya mwili kama kuongezeka kimo, kuota nywele sehemu za siri, na mabadiliko ya sauti, maziwa au siku zao, na kuwa hisia kali au kuanza kumpenda mtu kimapenzi. Waeleze kuwa kila mmoja hukua kwa namna yake. Wasisitize kuuliza swali lolote kwako au mtu mzima anaeaminika."
+msgstr "Zungumza na vijana wako kuhusiana na mabadiliko ya kawaida ya mwili kama kuongezeka kimo, kuota nywele sehemu za siri, na mabadiliko ya sauti, maziwa au siku zao, na kuwa hisia na kali au kuanza kumpenda mtu kimapenzi. Waeleze kuwa kila mmoja hukua kwa namna yake. Wasisitize kuuliza swali lolote kwako au mtu mzima anaeaminika."
 
 #. type=data_list
 msgctxt "data_list"
@@ -929,6 +972,11 @@ msgstr ""
 "Anza mapema kwa kujibu maswali kwa urahisi na kwa uaminifu. Hii hujenga kujiamini kwako na kwa mtoto wako.\n"
 "\n"
 "Ni sawa kuhisi kutokuwa na raha. Kuwa wazi, tumia maneno sahihi, na tafuta msaada kama hujui majibu yote."
+
+#. type=data_list
+msgctxt "data_list"
+msgid "If this feels too difficult, especially with a child of a different sex, you can help your teen find a trusted adult they feel comfortable with. Who is a relative or family friend they could talk to?”"
+msgstr "Kama unahisi hili ni ngumu sana kwako, hasa ukiwa na kijana mwenye jinsia tofauti na yako, unaweza kumsaidia kutafuta mtu mzima anayeaminika ambaye wanajisikia vizuri kuwa naye. Anaweza kuwa ni ndugu au rafiki wa familia ambaye wanaweza kuzungumza naye."
 
 #. type=data_list
 msgctxt "data_list"
@@ -1054,7 +1102,7 @@ msgstr "Hongera kwa kujipa muda wewe mwenyewe leo. 🎉"
 #. type=data_list
 msgctxt "data_list"
 msgid "Here is a short video to help you slow down before you go"
-msgstr "Hii hapa video fupi ya kukusaidia kupunguza kasi kabla ya kuondoka"
+msgstr "Hii hapa video fupi ya kukusaidia kupata utulivu kabla ya kuondoka"
 
 #. type=data_list
 msgctxt "data_list"
