@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2026-08-05 17:13\n"
+"PO-Revision-Date: 2026-08-18 11:23\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -96,6 +96,26 @@ msgstr "Hakuna kati ya zilizo hapo juu"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Improve Your Relationship"
+msgstr "Boresha uhusiano wako"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Create a Peaceful Home"
+msgstr "Tengeneza mazingira ya amani nyumbani"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Keep Your Teen Safe"
+msgstr "Mweke Kijana Wako Salama"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bonus Skills"
+msgstr "Ujuzi wa ziada"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Relax"
 msgstr "Kuwa mwenye amani"
 
@@ -142,7 +162,7 @@ msgstr "Maelezo ya maudhui"
 #. type=data_list
 msgctxt "data_list"
 msgid "Check-out"
-msgstr "Angalia-nje"
+msgstr "Tafakari"
 
 #. type=data_list
 msgctxt "data_list"
@@ -221,8 +241,8 @@ msgstr "Kumsaidia Kijana Wako Kujifunza"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Protecting Yourself"
-msgstr "Kujilinda Mwenyewe"
+msgid "Staying Safe"
+msgstr "Kukaa Salama"
 
 #. type=global
 msgctxt "global"
@@ -541,6 +561,56 @@ msgstr "Bofya na uandike"
 
 #. type=global
 msgctxt "global"
+msgid "Hello,"
+msgstr "Habari"
+
+#. type=global
+msgctxt "global"
+msgid "Parenting Skills"
+msgstr "Mbinu za Malezi"
+
+#. type=global
+msgctxt "global"
+msgid "Finish these skills to unlock more"
+msgstr "Kamilisha ujuzi huu ili kufungulia zingine zaidi"
+
+#. type=global
+msgctxt "global"
+msgid "Bonus skills will be available once you complete all available Parenting Skills"
+msgstr "Ujuzi wa ziada utapatikana mara tu utakapokamilisha ujuzi wote wa malezi uliopo"
+
+#. type=global
+msgctxt "global"
+msgid "Completed Skills"
+msgstr "Ujuzi uliokamilika"
+
+#. type=global
+msgctxt "global"
+msgid "Explore Skills"
+msgstr "Gundua Ujuzi"
+
+#. type=global
+msgctxt "global"
+msgid "COMPLETED"
+msgstr "IMEKAMILIKA"
+
+#. type=global
+msgctxt "global"
+msgid "LOCKED"
+msgstr "IMEFUNGWA"
+
+#. type=global
+msgctxt "global"
+msgid "skills"
+msgstr "ujuzi"
+
+#. type=global
+msgctxt "global"
+msgid "Skills"
+msgstr "Ujuzi"
+
+#. type=global
+msgctxt "global"
 msgid "Review"
 msgstr "Pitia"
 
@@ -706,6 +776,21 @@ msgstr ""
 msgctxt "global"
 msgid "Load saved progress"
 msgstr "Pakia maendeleo yaliyohifadhiwa"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.id
+#.      @item.name
+#.      @item.download_status
+msgctxt "template"
+msgid ""
+"id: @item.id,\n"
+"name: @item.name,\n"
+"download_status: @item.download_status"
+msgstr ""
+"id: @item.id\n"
+"jina:@item.name,\n"
+"pakua statas:@item.download_status"
 
 #. type=template
 msgctxt "template"
