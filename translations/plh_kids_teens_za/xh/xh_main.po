@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Xhosa\n"
 "\n"
 "Language: xh_ZA\n"
-"PO-Revision-Date: 2026-08-18 19:16\n"
+"PO-Revision-Date: 2026-08-19 15:42\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -526,6 +526,11 @@ msgstr "Ukulawula Iingxaki"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "What Teens See Online"
+msgstr "Izinto ezibonwa lulutsha kwi-internet"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Protecting Yourself"
 msgstr "Ukuzikhusela"
 
@@ -841,6 +846,11 @@ msgstr "Uzigqibe zonke izakhono zakho zobuzali. Wenze kakuhle!"
 msgctxt "global"
 msgid "Changes saved"
 msgstr "Utshintsho lugciniwe"
+
+#. type=global
+msgctxt "global"
+msgid "back to home"
+msgstr "buyela kwiphepha elinomfanekiso wekhaya"
 
 #. type=global
 msgctxt "global"
@@ -1214,8 +1224,34 @@ msgstr "imodyuli id : @local.module_id"
 
 #. type=template
 msgctxt "template"
+msgid "Asset pack metadata"
+msgstr "I-metadata yepakethi yezixhobo"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.id
+#.      @item.name
+#.      @item.download_status
+msgctxt "template"
+msgid ""
+"id: @item.id,\n"
+"name: @item.name,\n"
+"download_status: @item.download_status"
+msgstr ""
+"isazisi: @item.id,\n"
+"igama: @item.name,\n"
+"khuphula_imo: @item.download_status"
+
+#. type=template
+msgctxt "template"
 msgid "Continue"
 msgstr "Qhubekeka"
+
+#. type=template
+#. The string @global.asset_pack_id should not be translated.
+msgctxt "template"
+msgid "Asset pack ID: @global.asset_pack_id"
+msgstr "Isazisi sephakheji yezixhobo:@global.asset_pack_id"
 
 #. type=template
 msgctxt "template"
