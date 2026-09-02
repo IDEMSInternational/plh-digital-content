@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2026-08-18 19:18\n"
+"PO-Revision-Date: 2026-08-31 06:12\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -29,113 +29,6 @@ msgid "Join over 200 million parents who have used our resources"
 msgstr "Jiunge na zaidi ya wazazi milioni 200 ambao wametumia rasilimali zetu"
 
 #. type=global
-msgctxt "global"
-msgid "Tailoring your experience"
-msgstr "Kuza uzoefu wako"
-
-#. type=global
-msgctxt "global"
-msgid "Oops"
-msgstr "Ooh"
-
-#. type=global
-msgctxt "global"
-msgid "Something went wrong. Please check your connection and try again."
-msgstr "Kuna kitu hakiko sawa. Tafadhali angalia mtandao wako alafu ujaribu tena."
-
-#. type=global
-msgctxt "global"
-msgid "Try again"
-msgstr "Jaribu tena"
-
-#. type=global
-msgctxt "global"
-msgid "Skip"
-msgstr "Ruka"
-
-#. type=global
-#. The string @global.app_name! should not be translated.
-msgctxt "global"
-msgid ""
-"Welcome to \n"
-"@global.app_name!"
-msgstr ""
-"Karibu kwenye \n"
-"@global.app_name!"
-
-#. type=global
-msgctxt "global"
-msgid "Sign in"
-msgstr "Ingia"
-
-#. type=global
-msgctxt "global"
-msgid "Creating an account allows you to save your progress across devices. It is optional."
-msgstr "Kufungua akaunti hukuruhusu kuhifadhi maendeleo yako kwenye vifaa vyote. Ni hiari."
-
-#. type=global
-msgctxt "global"
-msgid "Continue with Apple"
-msgstr "Endelea na Apple"
-
-#. type=global
-msgctxt "global"
-msgid "Continue with Google"
-msgstr "Endelea na Google"
-
-#. type=global
-msgctxt "global"
-msgid "Continue without an account"
-msgstr "Endelea bila akaunti"
-
-#. type=global
-msgctxt "global"
-msgid "By continuing, you agree to our:"
-msgstr "Kwa kuendelea, unakubali yetu:"
-
-#. type=global
-msgctxt "global"
-msgid "Sign out"
-msgstr "Ondoka"
-
-#. type=global
-#. The string @fields._auth_user_given_name! should not be translated.
-msgctxt "global"
-msgid "Welcome back, @fields._auth_user_given_name!"
-msgstr "Karibu tena, @fields._auth_user_given_name!"
-
-#. type=global
-msgctxt "global"
-msgid "Welcome back!"
-msgstr "Karibu tena!"
-
-#. type=global
-#. The string @fields._auth_user_given_name! should not be translated.
-msgctxt "global"
-msgid "Welcome, @fields._auth_user_given_name!"
-msgstr "Karibu, @fields._auth_user_given_name!"
-
-#. type=global
-msgctxt "global"
-msgid "Welcome!"
-msgstr "Karibu!"
-
-#. type=global
-msgctxt "global"
-msgid "Continue"
-msgstr "Endelea"
-
-#. type=global
-msgctxt "global"
-msgid "You’re all set!"
-msgstr "Uko tayari!"
-
-#. type=global
-msgctxt "global"
-msgid "Your profile is complete, and you’re ready to begin!"
-msgstr "Wasifu wako umekamilika, na uko tayari kuanza!"
-
-#. type=global
 #. The string @global.app_name! should not be translated.
 msgctxt "global"
 msgid ""
@@ -144,6 +37,43 @@ msgid ""
 "I’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!"
 msgstr ""
 "**Nimefurahi kukutana na wewe. Nimefurahi sana wewe kuwa hapa!**\n"
+"\n"
+"Nitakusaidia kujifunza kwa kutumia @global.app_name! Katika hatua chache zijazo, nitakuuliza maswali machache ili niweze kufanya uzoefu wako wa kujifunza uwe bora kwako!"
+
+#. type=global
+#. The string @global.app_name! should not be translated.
+msgctxt "global"
+msgid "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting journey."
+msgstr "Karibu kwenye @global.app_name! Tumefurahi sana wewe kuwa hapa! tunaweza kutafuta mwongozo sahihi wa kukusaidia katika malezi yako."
+
+#. type=global
+#. The string @data.characters.facilitator_female.name! should not be translated.
+msgctxt "global"
+msgid "Hi, I’m @data.characters.facilitator_female.name! I'm a social worker and grandmother of three. I help parents raise strong, confident teens with care and encouragement."
+msgstr "Habari, naitwa \"@data.characters.facilitator_female.name\"! Mimi ni mfanyakazi wa jamii na bibi wa wajukuu wa tatu. Mimi huwasaidia wazazi kulea vijana wenye nguvu na kujiamini, kwa kuwajali na kuwatia moyo."
+
+#. type=global
+#. The string @data.characters.facilitator_male.name! should not be translated.
+msgctxt "global"
+msgid "Hi, I am @data.characters.facilitator_male.name! I am a retired teacher and grandfather of two. I help parents guide their teens with warmth, structure, and respect."
+msgstr "Habari, Mimi @data.characters.facilitator_male.name! Mimi ni mwalimu mstaafu na babu wa wajukuu wawili. Mimi huwasaidia wazazi kuwaongoza vijana wao kwa upendo,utaratibu na heshima."
+
+#. type=global
+msgctxt "global"
+msgid "Who would you like to learn with?"
+msgstr "Ungependa kujifunza na nani?"
+
+#. type=global
+#. The following strings should not be translated: 
+#.      @fields.facilitator_name.
+#.      @global.app_name!
+msgctxt "global"
+msgid ""
+"**Hello! My name is @fields.facilitator_name. I’m so glad you’re here!**\n"
+"\n"
+"I’ll be helping you learn using @global.app_name! In the next few steps, I’ll ask you a few questions, so that I can make your learning experience just right for you!"
+msgstr ""
+"**Habari! Jina langu ni @fields.facilitator_name. Nimefurahi sana kuwa hapa na wewe!**\n"
 "\n"
 "Nitakusaidia kujifunza kwa kutumia @global.app_name! Katika hatua chache zijazo, nitakuuliza maswali machache ili niweze kufanya uzoefu wako wa kujifunza uwe bora kwako!"
 
@@ -251,23 +181,156 @@ msgstr "Mtoto ambaye utamzingatia katika @global.app_name ana umri wa miaka ming
 #. type=global
 #. The string @global.app_name! should not be translated.
 msgctxt "global"
-msgid "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting journey."
-msgstr "Karibu kwenye @global.app_name! Tumefurahi sana wewe kuwa hapa! tunaweza kutafuta mwongozo sahihi wa kukusaidia katika malezi yako."
+msgid "Welcome to @global.app_name! To participate, you'll need a partner in parenting. There are 2 parenting experts to choose from:"
+msgstr "Karibu kwenye @global.app_name! Ili kushiriki, utahitaji mwenza wa malezi. Kuna wataalamu wawili wa malezi ambao unaweza kuchagua:"
 
 #. type=global
-#. The string @data.characters.facilitator_female.name! should not be translated.
+#. The string @global.app_name! should not be translated.
 msgctxt "global"
-msgid "Hi, I’m @data.characters.facilitator_female.name! I'm a social worker and grandmother of three. I help parents raise strong, confident teens with care and encouragement."
-msgstr "Habari, naitwa \"@data.characters.facilitator_female.name\"! Mimi ni mfanyakazi wa jamii na bibi wa wajukuu wa tatu. Mimi huwasaidia wazazi kulea vijana wenye nguvu na kujiamini, kwa kuwajali na kuwatia moyo."
+msgid "Welcome to @global.app_name! We’re so happy you’re here! Let’s find the right guide to support you in your parenting. Who would you like to learn with?"
+msgstr "Karibu kwenye @global.app_name! Tunafurahi sana uko hapa! Ebu tutafute muongozo sahihi wa kukusaidia katika malezi yako. Ungependa kujifunza na nani?"
 
 #. type=global
-#. The string @data.characters.facilitator_male.name! should not be translated.
+#. The string @fields.facilitator_name! should not be translated.
 msgctxt "global"
-msgid "Hi, I am @data.characters.facilitator_male.name! I am a retired teacher and grandfather of two. I help parents guide their teens with warmth, structure, and respect."
-msgstr "Habari, Mimi @data.characters.facilitator_male.name! Mimi ni mwalimu mstaafu na babu wa wajukuu wawili. Mimi huwasaidia wazazi kuwaongoza vijana wao kwa upendo,utaratibu na heshima."
+msgid "Hi, I am @fields.facilitator_name! I am a grandmother of three and a retired social worker. I love sharing tools for parenting with love and respect."
+msgstr "Habari! Naitwa @fields.facilitator_name! Mimi ni bibi wa wajukuu watatu na mstaafu wa kazi ya ustawi wa jamii. Napenda kushirikishana nyenzo za malezi kwa upendo na heshima."
+
+#. type=global
+#. The string @fields.facilitator_name! should not be translated.
+msgctxt "global"
+msgid "Hi, I am @fields.facilitator_name! I am a retired teacher and a grandfather of two. I guide parents with warmth, firmness, and care."
+msgstr "Habari, ninaitwa @fields.facilitator_name! Mimi ni mwalimu mstaafu na babu wa wajukuu wawili. Naongoza wazazi kwa Upendo, upole na kwa kujali."
 
 #. type=global
 msgctxt "global"
-msgid "Who would you like to learn with?"
-msgstr "Ungependa kujifunza na nani?"
+msgid "Who would you like to be your guide?"
+msgstr "Je, ungependa Nani awe kiongozi wako?"
+
+#. type=global
+msgctxt "global"
+msgid "Tailoring your experience"
+msgstr "Kuza uzoefu wako"
+
+#. type=global
+msgctxt "global"
+msgid "Skip"
+msgstr "Ruka"
+
+#. type=global
+#. The string @global.app_name! should not be translated.
+msgctxt "global"
+msgid ""
+"Welcome to \n"
+"@global.app_name!"
+msgstr ""
+"Karibu kwenye \n"
+"@global.app_name!"
+
+#. type=global
+msgctxt "global"
+msgid "Sign in"
+msgstr "Ingia"
+
+#. type=global
+msgctxt "global"
+msgid "Creating an account allows you to save your progress across devices. It is optional."
+msgstr "Kufungua akaunti hukuruhusu kuhifadhi maendeleo yako kwenye vifaa vyote. Ni hiari."
+
+#. type=global
+msgctxt "global"
+msgid "Continue with Apple"
+msgstr "Endelea na Apple"
+
+#. type=global
+msgctxt "global"
+msgid "Continue with Google"
+msgstr "Endelea na Google"
+
+#. type=global
+msgctxt "global"
+msgid "Continue without an account"
+msgstr "Endelea bila akaunti"
+
+#. type=global
+msgctxt "global"
+msgid "By continuing, you agree to our:"
+msgstr "Kwa kuendelea, unakubali yetu:"
+
+#. type=global
+msgctxt "global"
+msgid "Sign out"
+msgstr "Ondoka"
+
+#. type=global
+#. The string @fields._auth_user_given_name! should not be translated.
+msgctxt "global"
+msgid "Welcome back, @fields._auth_user_given_name!"
+msgstr "Karibu tena, @fields._auth_user_given_name!"
+
+#. type=global
+msgctxt "global"
+msgid "Welcome back!"
+msgstr "Karibu tena!"
+
+#. type=global
+#. The string @fields._auth_user_given_name! should not be translated.
+msgctxt "global"
+msgid "Welcome, @fields._auth_user_given_name!"
+msgstr "Karibu, @fields._auth_user_given_name!"
+
+#. type=global
+msgctxt "global"
+msgid "Welcome!"
+msgstr "Karibu!"
+
+#. type=global
+msgctxt "global"
+msgid "Continue"
+msgstr "Endelea"
+
+#. type=global
+msgctxt "global"
+msgid "You’re all set!"
+msgstr "Uko tayari!"
+
+#. type=global
+msgctxt "global"
+msgid "Your profile is complete, and you’re ready to begin!"
+msgstr "Wasifu wako umekamilika, na uko tayari kuanza!"
+
+#. type=global
+msgctxt "global"
+msgid "Oops"
+msgstr "Ooh"
+
+#. type=global
+msgctxt "global"
+msgid "Something went wrong. Please check your connection and try again."
+msgstr "Kuna kitu hakiko sawa. Tafadhali angalia mtandao wako alafu ujaribu tena."
+
+#. type=global
+msgctxt "global"
+msgid "Try again"
+msgstr "Jaribu tena"
+
+#. type=global
+msgctxt "global"
+msgid "WHAT TO DO FIRST"
+msgstr "JAMBO LA KUFANYA KWANZA"
+
+#. type=global
+msgctxt "global"
+msgid ""
+"📱 Open Settings\n"
+"\n"
+"📶 Turn on Wi-Fi or Mobile Data\n"
+"\n"
+"↩️ Come back here and tap the button below"
+msgstr ""
+"📱 Fungua Mipangilio\n"
+"\n"
+" 📶 Washa mtandao wa Wi-Fi au Data ya simu.\n"
+"\n"
+" ↩️ Rudi hapa kisha bonyeza kitufe kilicho hapo chini\n"
 
