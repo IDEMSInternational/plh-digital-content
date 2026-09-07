@@ -4,36 +4,6 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Getting everything ready for you"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Looking at what your child needs"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Getting ideas from experts"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Making this just for your family"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Partners"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Donors"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
 msgid "grandmother"
 msgstr ""
 
@@ -63,9 +33,13 @@ msgid "aunty Esta"
 msgstr ""
 
 #. type=data_list
-#. The string @global.app_name should not be translated.
 msgctxt "data_list"
-msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
+msgid "Partners"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Donors"
 msgstr ""
 
 #. type=data_list
@@ -86,6 +60,32 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "None of the above"
+msgstr ""
+
+#. type=data_list
+#. The string @global.app_name should not be translated.
+msgctxt "data_list"
+msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Getting everything ready for you"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at what your child needs"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Getting ideas from experts"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making this just for your family"
 msgstr ""
 
 #. type=data_list
@@ -185,6 +185,26 @@ msgstr ""
 
 #. type=data_list
 msgctxt "data_list"
+msgid "Improve Your Relationship"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Create a Peaceful Home"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Keep Your Teen Safe"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bonus Skills"
+msgstr ""
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Relax"
 msgstr ""
 
@@ -231,26 +251,6 @@ msgstr ""
 #. type=data_list
 msgctxt "data_list"
 msgid "Check-out"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Improve Your Relationship"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Create a Peaceful Home"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Keep Your Teen Safe"
-msgstr ""
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Bonus Skills"
 msgstr ""
 
 #. type=global
@@ -376,6 +376,21 @@ msgstr ""
 #. type=global
 msgctxt "global"
 msgid "I am a..."
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "5 December 2024"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "Tap and choose"
+msgstr ""
+
+#. type=global
+msgctxt "global"
+msgid "We are also grateful for the support of a family foundation that wishes to remain anonymous"
 msgstr ""
 
 #. type=global
@@ -767,24 +782,83 @@ msgctxt "global"
 msgid "Review"
 msgstr ""
 
-#. type=global
-msgctxt "global"
-msgid "5 December 2024"
+#. type=template
+msgctxt "template"
+msgid "Asset pack metadata"
 msgstr ""
 
-#. type=global
-msgctxt "global"
-msgid "Tap and choose"
-msgstr ""
-
-#. type=global
-msgctxt "global"
-msgid "We are also grateful for the support of a family foundation that wishes to remain anonymous"
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.id
+#.      @item.name
+#.      @item.download_status
+msgctxt "template"
+msgid ""
+"id: @item.id,\n"
+"name: @item.name,\n"
+"download_status: @item.download_status"
 msgstr ""
 
 #. type=template
 msgctxt "template"
-msgid "cancelled"
+msgid "Continue"
+msgstr ""
+
+#. type=template
+#. The string @global.asset_pack_id should not be translated.
+msgctxt "template"
+msgid "Asset pack ID: @global.asset_pack_id"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Submit"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Tap and type"
+msgstr ""
+
+#. type=template
+#. The string @local.submit should not be translated.
+msgctxt "template"
+msgid "To launch the app in developer mode, enter your developer code in the box below and press @local.submit."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "You have entered an incorrect code."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "This code is correct."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Enter developer mode"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "What you need"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Steps"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "More tips"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Try also"
 msgstr ""
 
 #. type=template
@@ -801,6 +875,22 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Save"
+msgstr ""
+
+#. type=template
+#. The string @global.app_name should not be translated.
+msgctxt "template"
+msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr ""
+
+#. type=template
+msgctxt "template"
+msgid "cancelled"
 msgstr ""
 
 #. type=template
@@ -856,94 +946,4 @@ msgstr ""
 #. type=template
 msgctxt "template"
 msgid "Exit developer mode"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "What you need"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Steps"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "More tips"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Try also"
-msgstr ""
-
-#. type=template
-#. The string @global.app_name should not be translated.
-msgctxt "template"
-msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Restart"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Submit"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Tap and type"
-msgstr ""
-
-#. type=template
-#. The string @local.submit should not be translated.
-msgctxt "template"
-msgid "To launch the app in developer mode, enter your developer code in the box below and press @local.submit."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "You have entered an incorrect code."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "This code is correct."
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Enter developer mode"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Continue"
-msgstr ""
-
-#. type=template
-#. The string @global.asset_pack_id should not be translated.
-msgctxt "template"
-msgid "Asset pack ID: @global.asset_pack_id"
-msgstr ""
-
-#. type=template
-msgctxt "template"
-msgid "Asset pack metadata"
-msgstr ""
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @item.id
-#.      @item.name
-#.      @item.download_status
-msgctxt "template"
-msgid ""
-"id: @item.id,\n"
-"name: @item.name,\n"
-"download_status: @item.download_status"
 msgstr ""
