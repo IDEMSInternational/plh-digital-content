@@ -11,7 +11,37 @@ msgstr ""
 "Language-Team: Swahili, Tanzania\n"
 "\n"
 "Language: sw_TZ\n"
-"PO-Revision-Date: 2026-08-28 11:48\n"
+"PO-Revision-Date: 2026-09-07 13:55\n"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Getting everything ready for you"
+msgstr "Kila kitu kiko tayari kwa ajili yako"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Looking at what your child needs"
+msgstr "Zingatia yale ambayo mwanao anayahitaji"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Getting ideas from experts"
+msgstr "Pata maoni mbalimbali kutoka kwa wataalamu"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Making this just for your family"
+msgstr "Fanya hili kwa ajili tu ya familia yako"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Partners"
+msgstr "Washirika"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Donors"
+msgstr "Wafadhili"
 
 #. type=data_list
 msgctxt "data_list"
@@ -44,14 +74,10 @@ msgid "aunty Esta"
 msgstr "shangazi Esta"
 
 #. type=data_list
+#. The string @global.app_name should not be translated.
 msgctxt "data_list"
-msgid "Partners"
-msgstr "Washirika"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Donors"
-msgstr "Wafadhili"
+msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
+msgstr "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 10 hadi 17. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu:"
 
 #. type=data_list
 msgctxt "data_list"
@@ -72,32 +98,6 @@ msgstr "Mjaribu mfumo"
 msgctxt "data_list"
 msgid "None of the above"
 msgstr "Hakuna kati ya zilizo hapo juu"
-
-#. type=data_list
-#. The string @global.app_name should not be translated.
-msgctxt "data_list"
-msgid "@global.app_name is an app designed by IDEMS International and Parenting for Lifelong Health to support parents and caregivers of children 10 to 17 years of age. Illustrations are original works by Orli Setton for Parenting for Lifelong Health. All content herein is shared under a Creative Commons BY-SA International 4.0 license. It was developed in collaboration with key partners:"
-msgstr "@global.app_name ni programu iliyoundwa na IDEMS International na Parenting for Lifelong Health kusaidia wazazi na walezi wa watoto wenye umri wa miaka 10 hadi 17. Mchoro ni kazi asilia za Orli Setton kwa ajili ya Parenting for Lifelong Health. Yote yaliyomo humu yameshirikishwa chini ya leseni ya Creative Commons BY-SA International 4.0. Iliandaliwa kwa ushirikiano na washirika wakuu:"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Getting everything ready for you"
-msgstr "Kila kitu kiko tayari kwa ajili yako"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Looking at what your child needs"
-msgstr "Zingatia yale ambayo mwanao anayahitaji"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Getting ideas from experts"
-msgstr "Pata maoni mbalimbali kutoka kwa wataalamu"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Making this just for your family"
-msgstr "Fanya hili kwa ajili tu ya familia yako"
 
 #. type=data_list
 msgctxt "data_list"
@@ -196,26 +196,6 @@ msgstr "Kukaa Salama"
 
 #. type=data_list
 msgctxt "data_list"
-msgid "Improve Your Relationship"
-msgstr "Boresha uhusiano wako"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Create a Peaceful Home"
-msgstr "Tengeneza mazingira ya amani nyumbani"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Keep Your Teen Safe"
-msgstr "Mweke Kijana Wako Salama"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Bonus Skills"
-msgstr "Ujuzi wa ziada"
-
-#. type=data_list
-msgctxt "data_list"
 msgid "Relax"
 msgstr "Kuwa mwenye amani"
 
@@ -263,6 +243,26 @@ msgstr "Maelezo ya maudhui"
 msgctxt "data_list"
 msgid "Check-out"
 msgstr "Tafakari"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Improve Your Relationship"
+msgstr "Boresha uhusiano wako"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Create a Peaceful Home"
+msgstr "Tengeneza mazingira ya amani nyumbani"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Keep Your Teen Safe"
+msgstr "Mweke Kijana Wako Salama"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Bonus Skills"
+msgstr "Ujuzi wa ziada"
 
 #. type=global
 msgctxt "global"
@@ -390,21 +390,6 @@ msgstr "Tafadhali chagua jinsia yako"
 msgctxt "global"
 msgid "I am a..."
 msgstr "Mimi ni..."
-
-#. type=global
-msgctxt "global"
-msgid "5 December 2024"
-msgstr "5 Desemba 2024"
-
-#. type=global
-msgctxt "global"
-msgid "Tap and choose"
-msgstr "Bofya na uchague"
-
-#. type=global
-msgctxt "global"
-msgid "We are also grateful for the support of a family foundation that wishes to remain anonymous"
-msgstr "Pia tunashukuru msaada kutoka kwa taasisi ya kifamilia inayopendelea kubaki bila kutajwa jina"
 
 #. type=global
 msgctxt "global"
@@ -797,76 +782,20 @@ msgctxt "global"
 msgid "Review"
 msgstr "Pitia"
 
-#. type=template
-#. The following strings should not be translated: 
-#.      @item.id
-#.      @item.name
-#.      @item.download_status
-msgctxt "template"
-msgid ""
-"id: @item.id,\n"
-"name: @item.name,\n"
-"download_status: @item.download_status"
-msgstr ""
-"id: @item.id\n"
-"jina:@item.name,\n"
-"pakua statas:@item.download_status"
+#. type=global
+msgctxt "global"
+msgid "5 December 2024"
+msgstr "5 Desemba 2024"
 
-#. type=template
-msgctxt "template"
-msgid "Continue"
-msgstr "Endelea"
+#. type=global
+msgctxt "global"
+msgid "Tap and choose"
+msgstr "Bofya na uchague"
 
-#. type=template
-msgctxt "template"
-msgid "Submit"
-msgstr "Tuma"
-
-#. type=template
-msgctxt "template"
-msgid "Tap and type"
-msgstr "Bofya na uandike"
-
-#. type=template
-#. The string @local.submit should not be translated.
-msgctxt "template"
-msgid "To launch the app in developer mode, enter your developer code in the box below and press @local.submit."
-msgstr "Ili kuzindua programu katika hali ya kubuni, weka msimbo wako wa kubuni kwenye kisanduku kilicho hapa chini na ubonyeze @local.submit."
-
-#. type=template
-msgctxt "template"
-msgid "You have entered an incorrect code."
-msgstr "Umeingiza kodi isiyo sahihi."
-
-#. type=template
-msgctxt "template"
-msgid "This code is correct."
-msgstr "Utambulisho huu ni sahihi."
-
-#. type=template
-msgctxt "template"
-msgid "Enter developer mode"
-msgstr "Unaingia kwenye ukurasa wa mtengenezaji"
-
-#. type=template
-msgctxt "template"
-msgid "What you need"
-msgstr "Unachohitaji"
-
-#. type=template
-msgctxt "template"
-msgid "Steps"
-msgstr "Hatua"
-
-#. type=template
-msgctxt "template"
-msgid "More tips"
-msgstr "Dondoo zaidi"
-
-#. type=template
-msgctxt "template"
-msgid "Try also"
-msgstr "Jaribu pia"
+#. type=global
+msgctxt "global"
+msgid "We are also grateful for the support of a family foundation that wishes to remain anonymous"
+msgstr "Pia tunashukuru msaada kutoka kwa taasisi ya kifamilia inayopendelea kubaki bila kutajwa jina"
 
 #. type=template
 #. The string @local.countdown_days should not be translated.
@@ -883,17 +812,6 @@ msgstr "Chagua namba za siku kuhesabu"
 msgctxt "template"
 msgid "Save"
 msgstr "Tunza"
-
-#. type=template
-#. The string @global.app_name should not be translated.
-msgctxt "template"
-msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
-msgstr "@global.app_name imepakua taarifa za wakati huu. Tafadhali anzisha tena programu tumishi kumalizia kuiweka sawa."
-
-#. type=template
-msgctxt "template"
-msgid "Restart"
-msgstr "Anzisha upya tena"
 
 #. type=template
 msgctxt "template"
@@ -949,4 +867,86 @@ msgstr "Mtengenezaji wa programu"
 msgctxt "template"
 msgid "Exit developer mode"
 msgstr "Unatoka kwenye ukurasa wa mtengenezaji"
+
+#. type=template
+msgctxt "template"
+msgid "What you need"
+msgstr "Unachohitaji"
+
+#. type=template
+msgctxt "template"
+msgid "Steps"
+msgstr "Hatua"
+
+#. type=template
+msgctxt "template"
+msgid "More tips"
+msgstr "Dondoo zaidi"
+
+#. type=template
+msgctxt "template"
+msgid "Try also"
+msgstr "Jaribu pia"
+
+#. type=template
+#. The string @global.app_name should not be translated.
+msgctxt "template"
+msgid "@global.app_name has downloaded an update. Please restart the app to finish installation."
+msgstr "@global.app_name imepakua taarifa za wakati huu. Tafadhali anzisha tena programu tumishi kumalizia kuiweka sawa."
+
+#. type=template
+msgctxt "template"
+msgid "Restart"
+msgstr "Anzisha upya tena"
+
+#. type=template
+msgctxt "template"
+msgid "Submit"
+msgstr "Tuma"
+
+#. type=template
+msgctxt "template"
+msgid "Tap and type"
+msgstr "Bofya na uandike"
+
+#. type=template
+#. The string @local.submit should not be translated.
+msgctxt "template"
+msgid "To launch the app in developer mode, enter your developer code in the box below and press @local.submit."
+msgstr "Ili kuzindua programu katika hali ya kubuni, weka msimbo wako wa kubuni kwenye kisanduku kilicho hapa chini na ubonyeze @local.submit."
+
+#. type=template
+msgctxt "template"
+msgid "You have entered an incorrect code."
+msgstr "Umeingiza kodi isiyo sahihi."
+
+#. type=template
+msgctxt "template"
+msgid "This code is correct."
+msgstr "Utambulisho huu ni sahihi."
+
+#. type=template
+msgctxt "template"
+msgid "Enter developer mode"
+msgstr "Unaingia kwenye ukurasa wa mtengenezaji"
+
+#. type=template
+msgctxt "template"
+msgid "Continue"
+msgstr "Endelea"
+
+#. type=template
+#. The following strings should not be translated: 
+#.      @item.id
+#.      @item.name
+#.      @item.download_status
+msgctxt "template"
+msgid ""
+"id: @item.id,\n"
+"name: @item.name,\n"
+"download_status: @item.download_status"
+msgstr ""
+"id: @item.id\n"
+"jina:@item.name,\n"
+"pakua statas:@item.download_status"
 
