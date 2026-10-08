@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Romanian\n"
 "\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2026-01-08 14:29\n"
+"PO-Revision-Date: 2026-10-08 18:18\n"
 
 #. type=text
 msgctxt "text"
@@ -214,6 +214,11 @@ msgstr "Câți copii ai în grijă?"
 msgctxt "text"
 msgid "These tips are designed for those who look after children. Would you still like to receive the tips so you can share the advice with friends and family?"
 msgstr "Aceste sfaturi sunt destinate celor care au grijă de copii. Ai dori să primești în continuare sfaturile, pentru a le putea împărtăși prietenilor și familiei?"
+
+#. type=text
+msgctxt "text"
+msgid "Which country are you from?"
+msgstr "Din ce țară ești?"
 
 #. type=text
 msgctxt "text"
@@ -454,6 +459,18 @@ msgstr "Vreau sfaturile"
 msgctxt "quick_replies"
 msgid "I do not want the tips"
 msgstr "Nu vreau sfaturile"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Romania"
+msgstr "România"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Republica Moldova"
+msgstr "Republica Moldova"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -754,6 +771,12 @@ msgstr "Brăila"
 msgctxt "quick_replies"
 msgid "Buzău"
 msgstr "Buzău"
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "București"
+msgstr "București"
 
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
@@ -1106,6 +1129,18 @@ msgstr "nu vreau sfaturile"
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
+msgid "romania"
+msgstr "românia"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "republica moldova"
+msgstr "republica moldova"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
 msgid "cluj"
 msgstr "cluj"
 
@@ -1402,6 +1437,12 @@ msgstr "brăila"
 msgctxt "arguments"
 msgid "buzău"
 msgstr "buzău"
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "bucurești"
+msgstr "bucurești"
 
 #. type=arguments
 #. This is an argument and it may be used to identify a corresponding quick reply
