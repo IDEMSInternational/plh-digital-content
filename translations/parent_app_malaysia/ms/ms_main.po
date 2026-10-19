@@ -11,7 +11,7 @@ msgstr ""
 "Language-Team: Malay\n"
 "\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2026-10-15 15:48\n"
+"PO-Revision-Date: 2026-10-19 12:14\n"
 
 #. type=data_list
 msgctxt "data_list"
@@ -25,6 +25,21 @@ msgstr "Fasilitator Komuniti/NGO"
 
 #. type=data_list
 msgctxt "data_list"
+msgid "LPPKN"
+msgstr "LPPKN"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Social Media"
+msgstr "Media Sosial"
+
+#. type=data_list
+msgctxt "data_list"
+msgid "Sarawak Pilot"
+msgstr "Projek Rintis Sarawak"
+
+#. type=data_list
+msgctxt "data_list"
 msgid "Advertisement"
 msgstr "Iklan"
 
@@ -32,11 +47,6 @@ msgstr "Iklan"
 msgctxt "data_list"
 msgid "Event or Conference"
 msgstr "Acara atau Persidangan"
-
-#. type=data_list
-msgctxt "data_list"
-msgid "Social Media"
-msgstr "Media Sosial"
 
 #. type=data_list
 msgctxt "data_list"
@@ -13845,25 +13855,4 @@ msgstr "Keluar dari mod pembangun"
 msgctxt "template"
 msgid "@calc(Number(@fields.n_modules_completed) +1)"
 msgstr "@calc(Number(@fields.n_modules_completed) +1)"
-
-#. type=template
-#. The following strings should not be translated: 
-#.      @local.last_module_in_progress
-#.      @local.curr_module_or_last_in_progress
-#.      @local.curr_n_mod_or_plus_one
-msgctxt "template"
-msgid ""
-"-\n"
-"-\n"
-"-\n"
-"last_module_in_progress: @local.last_module_in_progress\n"
-"curr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\n"
-"n_mod: @local.curr_n_mod_or_plus_one"
-msgstr ""
-"-\n"
-"-\n"
-"-\n"
-"last_module_in_progress: @local.last_module_in_progress\n"
-"curr_module_or_last_in_progress: @local.curr_module_or_last_in_progress\n"
-"n_mod: @local.curr_n_mod_or_plus_one"
 
